@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-story-2",
+  "topicId": "a2-reading-story",
+  "title": "The lost dog",
+  "text": "It was a cold Sunday morning in January. Ola went for a walk in the park with her dog, Burek. Burek loved the snow. He ran and jumped and played with other dogs. Then, suddenly, he saw a cat and ran after it. In a few seconds he was gone.\n\nOla called and called, but Burek didn't come back. She looked for him everywhere – near the lake, behind the trees, in the playground. After two hours she went home and cried. Her brother made some posters with Burek's photo and her phone number, and they put them on trees and in shops.\n\nIn the evening, the phone rang. It was an old man from the next street. \"I think I've got your dog,\" he said. \"He's in my kitchen. He's eating my sausages!\" Ola ran to his house. Burek was there, happy and warm, next to the old man's cat. The two animals were friends now!\n\nOla thanked the man and brought him a cake the next day. Now they often go for walks together.",
+  "exercises": [
+    {
+      "id": "a2-reading-story-2-01",
+      "type": "choice",
+      "prompt": "The story happened in winter.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...a cold Sunday morning in January.”"
+    },
+    {
+      "id": "a2-reading-story-2-02",
+      "type": "choice",
+      "prompt": "Burek ran after another dog.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Pobiegł za kotem."
+    },
+    {
+      "id": "a2-reading-story-2-03",
+      "type": "choice",
+      "prompt": "Ola looked for Burek for two hours.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„After two hours she went home...”"
+    },
+    {
+      "id": "a2-reading-story-2-04",
+      "type": "choice",
+      "prompt": "The old man had two dogs.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Wiemy tylko o jego kocie."
+    },
+    {
+      "id": "a2-reading-story-2-05",
+      "type": "choice",
+      "prompt": "What did Ola's brother do?",
+      "answer": "He made posters.",
+      "distractors": [
+        "He found the dog.",
+        "He called the police."
+      ],
+      "explanation": "„Her brother made some posters...”"
+    },
+    {
+      "id": "a2-reading-story-2-06",
+      "type": "choice",
+      "prompt": "Where was Burek in the evening?",
+      "answer": "in an old man's kitchen",
+      "distractors": [
+        "near the lake",
+        "in the playground"
+      ],
+      "explanation": "„He's in my kitchen.”"
+    },
+    {
+      "id": "a2-reading-story-2-07",
+      "type": "choice",
+      "prompt": "What did Ola give the man?",
+      "answer": "a cake",
+      "distractors": [
+        "some sausages",
+        "a poster"
+      ],
+      "explanation": "„...brought him a cake the next day.”"
+    },
+    {
+      "id": "a2-reading-story-2-08",
+      "type": "cloze",
+      "prompt": "Then, ___, he saw a cat and ran after it. (nagle)",
+      "answer": "suddenly",
+      "explanation": "Nagle: suddenly."
+    },
+    {
+      "id": "a2-reading-story-2-09",
+      "type": "cloze",
+      "prompt": "In the evening, the phone ___.",
+      "answer": "rang",
+      "explanation": "Ring → rang."
+    },
+    {
+      "id": "a2-reading-story-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "suddenly|nagle",
+        "look for|szukać",
+        "everywhere|wszędzie",
+        "poster|plakat"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+[
+  {
+    "id": "a1-vocab-everyday-objects-1",
+    "topicId": "a1-vocab-everyday-objects",
+    "exercises": [
+      {
+        "id": "a1-vocab-everyday-objects-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "wallet|portfel",
+          "keys|klucze",
+          "umbrella|parasol",
+          "glasses|okulary"
+        ],
+        "explanation": "Przedmioty codziennego użytku."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-02",
+        "type": "cloze",
+        "prompt": "It's raining. Take an ___. (parasol)",
+        "answer": "umbrella",
+        "explanation": "Parasol: umbrella."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-03",
+        "type": "cloze",
+        "prompt": "I can't read without my ___. (okulary)",
+        "answer": "glasses",
+        "explanation": "Okulary: glasses."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-04",
+        "type": "choice",
+        "prompt": "What's this? – It's ___ umbrella.",
+        "answer": "an",
+        "distractors": [
+          "a",
+          "the"
+        ],
+        "explanation": "Przed samogłoską: an."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-05",
+        "type": "choice",
+        "prompt": "My keys ___ in my bag.",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "am"
+        ],
+        "explanation": "Keys – l. mn.: are."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-06",
+        "type": "error",
+        "prompt": "My glasses is on the table.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "Glasses – l. mn.: are."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-07",
+        "type": "tiles",
+        "prompt": "Czy to twój telefon?",
+        "answer": [
+          "Is",
+          "this",
+          "your",
+          "phone"
+        ],
+        "explanation": "Is this your...?"
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-08",
+        "type": "translate",
+        "prompt": "Gdzie są moje klucze?",
+        "answer": "Where are my keys?",
+        "explanation": "Keys – liczba mnoga: are."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-09",
+        "type": "choice",
+        "prompt": "You write with a ___.",
+        "answer": "pen",
+        "distractors": [
+          "comb",
+          "cup"
+        ],
+        "explanation": "Długopis: pen."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-1-10",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nThis is a bottle.",
+        "answer": "These are bottles.",
+        "explanation": "This → these, is → are."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-everyday-objects-2",
+    "topicId": "a1-vocab-everyday-objects",
+    "exercises": [
+      {
+        "id": "a1-vocab-everyday-objects-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "watch|zegarek na rękę",
+          "clock|zegar ścienny",
+          "charger|ładowarka",
+          "notebook|zeszyt"
+        ],
+        "explanation": "Przedmioty codziennego użytku."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-02",
+        "type": "cloze",
+        "prompt": "My phone is dead. Have you got a ___? (ładowarka)",
+        "answer": "charger",
+        "explanation": "Ładowarka: charger."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-03",
+        "type": "cloze",
+        "prompt": "I write in my ___. (zeszyt)",
+        "answer": "notebook",
+        "explanation": "Zeszyt: notebook."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-04",
+        "type": "choice",
+        "prompt": "What time is it? Look at the ___ on the wall.",
+        "answer": "clock",
+        "distractors": [
+          "watch",
+          "glasses"
+        ],
+        "explanation": "Zegar ścienny: clock."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-05",
+        "type": "choice",
+        "prompt": "I keep my money in my ___.",
+        "answer": "wallet",
+        "distractors": [
+          "umbrella",
+          "bottle"
+        ],
+        "explanation": "Portfel: wallet."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-06",
+        "type": "error",
+        "prompt": "Is this you pen?",
+        "answer": [
+          "you",
+          "your"
+        ],
+        "explanation": "Dzierżawczy: your."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-07",
+        "type": "tiles",
+        "prompt": "To jest mój nowy laptop.",
+        "answer": [
+          "This",
+          "is",
+          "my",
+          "new",
+          "laptop"
+        ],
+        "explanation": "This is my..."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-08",
+        "type": "translate",
+        "prompt": "Czy masz długopis?",
+        "answer": "Have you got a pen?",
+        "accept": [
+          "Do you have a pen?"
+        ],
+        "explanation": "Have you got...?"
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-09",
+        "type": "choice",
+        "prompt": "What are these? – They're ___.",
+        "answer": "tissues",
+        "distractors": [
+          "a tissue",
+          "tissue"
+        ],
+        "explanation": "These – l. mn."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-2-10",
+        "type": "transform",
+        "prompt": "Odpowiedz przecząco krótką odpowiedzią.\nIs this your bag?",
+        "answer": "No, it isn't.",
+        "accept": [
+          "No, it is not."
+        ],
+        "explanation": "Krótka odpowiedź: No, it isn't."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-everyday-objects-3",
+    "topicId": "a1-vocab-everyday-objects",
+    "exercises": [
+      {
+        "id": "a1-vocab-everyday-objects-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "bottle|butelka",
+          "cup|filiżanka",
+          "comb|grzebień",
+          "toothbrush|szczoteczka do zębów"
+        ],
+        "explanation": "Przedmioty codziennego użytku."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-02",
+        "type": "cloze",
+        "prompt": "Can I have a ___ of water? (butelka)",
+        "answer": "bottle",
+        "explanation": "Butelka: bottle."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-03",
+        "type": "cloze",
+        "prompt": "You cut paper with ___. (nożyczki)",
+        "answer": "scissors",
+        "explanation": "Nożyczki: scissors."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-04",
+        "type": "choice",
+        "prompt": "A ___ shows the time on your wrist.",
+        "answer": "watch",
+        "distractors": [
+          "clock",
+          "charger"
+        ],
+        "explanation": "Zegarek na rękę: watch."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-05",
+        "type": "choice",
+        "prompt": "These ___ my keys.",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "be"
+        ],
+        "explanation": "These are."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-06",
+        "type": "error",
+        "prompt": "What are this? – It's a pencil.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "This – l. poj.: is."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-07",
+        "type": "tiles",
+        "prompt": "Gdzie jest mój portfel?",
+        "answer": [
+          "Where",
+          "is",
+          "my",
+          "wallet"
+        ],
+        "explanation": "Where is...?"
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-08",
+        "type": "translate",
+        "prompt": "To jest parasol.",
+        "answer": "This is an umbrella.",
+        "accept": [
+          "It is an umbrella.",
+          "It's an umbrella."
+        ],
+        "explanation": "An przed samogłoską."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-09",
+        "type": "choice",
+        "prompt": "Which object do you use to open a door?",
+        "answer": "a key",
+        "distractors": [
+          "a comb",
+          "a cup"
+        ],
+        "explanation": "Klucz: key."
+      },
+      {
+        "id": "a1-vocab-everyday-objects-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThis is your umbrella.",
+        "answer": "Is this your umbrella?",
+        "explanation": "Is this...?"
+      }
+    ]
+  }
+]

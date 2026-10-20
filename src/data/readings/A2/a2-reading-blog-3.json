@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-blog-3",
+  "topicId": "a2-reading-blog",
+  "title": "Why I love living in a small town",
+  "text": "Hi! I'm Tomek and I live in Sandomierz, a small town in the south-east of Poland. Five years ago I lived in Warsaw, but I moved here with my wife and our two children. People often ask me, \"Isn't it boring?\" My answer is: no!\n\nFirst, life is slower and calmer. I walk to work in ten minutes – no traffic jams! In Warsaw I spent two hours a day in the car. Now I have time for my family and my hobby, photography.\n\nSecond, people here know each other. The woman in the bakery knows my name, and my neighbours help us when we need it. My children play outside with their friends after school.\n\nOf course, there are some disadvantages. There is no big cinema or theatre, and some shops close at 6 p.m. When we want to see a concert, we drive to Kraków or Lublin. Also, the salaries here are lower.\n\nBut for me, the advantages are bigger. The air is clean, the town is beautiful and our life is happier. What about you – city or small town?",
+  "exercises": [
+    {
+      "id": "a2-reading-blog-3-01",
+      "type": "choice",
+      "prompt": "Tomek moved from Warsaw five years ago.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Five years ago I lived in Warsaw...”"
+    },
+    {
+      "id": "a2-reading-blog-3-02",
+      "type": "choice",
+      "prompt": "Tomek drives to work now.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„I walk to work in ten minutes.”"
+    },
+    {
+      "id": "a2-reading-blog-3-03",
+      "type": "choice",
+      "prompt": "Tomek's wife works in the bakery.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, gdzie pracuje żona."
+    },
+    {
+      "id": "a2-reading-blog-3-04",
+      "type": "choice",
+      "prompt": "What is Tomek's hobby?",
+      "answer": "photography",
+      "distractors": [
+        "cooking",
+        "music"
+      ],
+      "explanation": "„...my hobby, photography.”"
+    },
+    {
+      "id": "a2-reading-blog-3-05",
+      "type": "choice",
+      "prompt": "Which is a disadvantage of the town?",
+      "answer": "There is no big cinema.",
+      "distractors": [
+        "The air is dirty.",
+        "There are traffic jams."
+      ],
+      "explanation": "„There is no big cinema or theatre...”"
+    },
+    {
+      "id": "a2-reading-blog-3-06",
+      "type": "choice",
+      "prompt": "What do they do when they want to see a concert?",
+      "answer": "They drive to a bigger city.",
+      "distractors": [
+        "They stay at home.",
+        "They go by train to Warsaw."
+      ],
+      "explanation": "„...we drive to Kraków or Lublin.”"
+    },
+    {
+      "id": "a2-reading-blog-3-07",
+      "type": "choice",
+      "prompt": "What is Tomek's opinion?",
+      "answer": "Small-town life is better for him.",
+      "distractors": [
+        "He wants to go back to Warsaw.",
+        "Small towns are boring."
+      ],
+      "explanation": "„...the advantages are bigger.”"
+    },
+    {
+      "id": "a2-reading-blog-3-08",
+      "type": "cloze",
+      "prompt": "I walk to work in ten minutes – no traffic ___!",
+      "answer": "jams",
+      "explanation": "Korki: traffic jams."
+    },
+    {
+      "id": "a2-reading-blog-3-09",
+      "type": "cloze",
+      "prompt": "Also, the ___ here are lower. (pensje)",
+      "answer": "salaries",
+      "explanation": "Pensje: salaries."
+    },
+    {
+      "id": "a2-reading-blog-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "calm|spokojny",
+        "neighbours|sąsiedzi",
+        "disadvantage|wada",
+        "advantage|zaleta"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

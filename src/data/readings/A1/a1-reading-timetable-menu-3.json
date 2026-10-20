@@ -1,0 +1,100 @@
+{
+  "id": "a1-reading-timetable-menu-3",
+  "topicId": "a1-reading-timetable-menu",
+  "title": "Sports centre – weekly classes",
+  "text": "Riverside Sports Centre – classes this week\n\nMonday 18:00 – Yoga (room 2)\nTuesday 17:30 – Swimming for children (pool)\nWednesday 19:00 – Zumba (room 1)\nThursday 18:00 – Yoga (room 2)\nFriday 16:00 – Swimming for adults (pool)\nSaturday 10:00 – Football for kids, 6–10 years (outside)\n\nPrice: one class – 25 zł, ten classes – 200 zł.\nChildren under 6 don't pay for swimming.\nBring a towel! The centre is closed on Sundays.",
+  "exercises": [
+    {
+      "id": "a1-reading-timetable-menu-3-01",
+      "type": "choice",
+      "prompt": "There is yoga twice a week.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "Yoga: Monday and Thursday."
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-02",
+      "type": "choice",
+      "prompt": "The centre is open on Sundays.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„The centre is closed on Sundays.”"
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-03",
+      "type": "choice",
+      "prompt": "The yoga teacher is a woman.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Plan nie mówi, kto uczy."
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-04",
+      "type": "choice",
+      "prompt": "When is Zumba?",
+      "answer": "on Wednesday at 19:00",
+      "distractors": [
+        "on Monday at 18:00",
+        "on Friday at 16:00"
+      ],
+      "explanation": "Wednesday 19:00 – Zumba."
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-05",
+      "type": "choice",
+      "prompt": "Where is the football class?",
+      "answer": "outside",
+      "distractors": [
+        "in room 1",
+        "in the pool"
+      ],
+      "explanation": "Football for kids (outside)."
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-06",
+      "type": "choice",
+      "prompt": "How much are ten classes?",
+      "answer": "200 zł",
+      "distractors": [
+        "25 zł",
+        "250 zł"
+      ],
+      "explanation": "Ten classes – 200 zł."
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-07",
+      "type": "cloze",
+      "prompt": "Children under 6 don't ___ for swimming.",
+      "answer": "pay",
+      "explanation": "Płacić: pay."
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-08",
+      "type": "cloze",
+      "prompt": "Bring a ___!",
+      "answer": "towel",
+      "explanation": "Ręcznik: towel."
+    },
+    {
+      "id": "a1-reading-timetable-menu-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "class|zajęcia",
+        "pool|basen",
+        "closed|zamknięty",
+        "kids|dzieci"
+      ],
+      "explanation": "Słowa z planu."
+    }
+  ]
+}

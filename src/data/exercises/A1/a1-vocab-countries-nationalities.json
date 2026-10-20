@@ -1,0 +1,316 @@
+[
+  {
+    "id": "a1-vocab-countries-nationalities-1",
+    "topicId": "a1-vocab-countries-nationalities",
+    "exercises": [
+      {
+        "id": "a1-vocab-countries-nationalities-1-01",
+        "type": "match",
+        "prompt": "Połącz kraj z narodowością.",
+        "answer": [
+          "Spain|Spanish",
+          "France|French",
+          "Germany|German",
+          "Italy|Italian"
+        ],
+        "explanation": "Kraj i narodowość."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-02",
+        "type": "cloze",
+        "prompt": "I'm from Poland. I'm ___.",
+        "answer": "Polish",
+        "explanation": "Polska → Polish."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-03",
+        "type": "cloze",
+        "prompt": "People in Japan speak ___.",
+        "answer": "Japanese",
+        "explanation": "Japonia → Japanese."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-04",
+        "type": "choice",
+        "prompt": "She is from the USA. She's ___.",
+        "answer": "American",
+        "distractors": [
+          "America",
+          "USA"
+        ],
+        "explanation": "Narodowość: American."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-05",
+        "type": "choice",
+        "prompt": "I speak ___.",
+        "answer": "English",
+        "distractors": [
+          "England",
+          "Britain"
+        ],
+        "explanation": "Języki wielką literą."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-06",
+        "type": "error",
+        "prompt": "Hans is germany and he lives in Berlin.",
+        "answer": [
+          "germany",
+          "German"
+        ],
+        "explanation": "Narodowość: German."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-07",
+        "type": "tiles",
+        "prompt": "Mówię po polsku i po angielsku.",
+        "answer": [
+          "I",
+          "speak",
+          "Polish",
+          "and",
+          "English"
+        ],
+        "explanation": "Języki wielką literą."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-08",
+        "type": "translate",
+        "prompt": "Ona jest Włoszką.",
+        "answer": "She is Italian.",
+        "accept": [
+          "She's Italian."
+        ],
+        "explanation": "Narodowość: Italian."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-09",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "I'm from Spain.",
+        "distractors": [
+          "I'm from Spanish.",
+          "I'm Spain."
+        ],
+        "explanation": "From + kraj."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-1-10",
+        "type": "transform",
+        "prompt": "Zamień kraj na narodowość, zacznij od „They are”.\nThey are from France.",
+        "answer": "They are French.",
+        "explanation": "France → French."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-countries-nationalities-2",
+    "topicId": "a1-vocab-countries-nationalities",
+    "exercises": [
+      {
+        "id": "a1-vocab-countries-nationalities-2-01",
+        "type": "match",
+        "prompt": "Połącz kraj z narodowością.",
+        "answer": [
+          "China|Chinese",
+          "Ukraine|Ukrainian",
+          "Ireland|Irish",
+          "Canada|Canadian"
+        ],
+        "explanation": "Kraj i narodowość."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-02",
+        "type": "cloze",
+        "prompt": "My friend is from Ukraine. He's ___.",
+        "answer": "Ukrainian",
+        "explanation": "Ukraina → Ukrainian."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-03",
+        "type": "cloze",
+        "prompt": "I'm ___ the UK. (z)",
+        "answer": "from",
+        "explanation": "From + kraj."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-04",
+        "type": "choice",
+        "prompt": "People in Brazil speak ___.",
+        "answer": "Portuguese",
+        "distractors": [
+          "Brazilian",
+          "Spanish"
+        ],
+        "explanation": "W Brazylii: portugalski."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-05",
+        "type": "choice",
+        "prompt": "London is in ___.",
+        "answer": "England",
+        "distractors": [
+          "English",
+          "British"
+        ],
+        "explanation": "Kraj: England."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-06",
+        "type": "error",
+        "prompt": "Paolo speaks Italy and English.",
+        "answer": [
+          "Italy",
+          "Italian"
+        ],
+        "explanation": "Język: Italian."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-07",
+        "type": "tiles",
+        "prompt": "Jestem Polakiem.",
+        "answer": [
+          "I",
+          "am",
+          "Polish"
+        ],
+        "explanation": "Narodowość: Polish."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-08",
+        "type": "translate",
+        "prompt": "Jakim językiem mówisz?",
+        "answer": "What language do you speak?",
+        "accept": [
+          "Which language do you speak?",
+          "What languages do you speak?"
+        ],
+        "explanation": "What language...?"
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-09",
+        "type": "choice",
+        "prompt": "The people from Scotland are ___.",
+        "answer": "Scottish",
+        "distractors": [
+          "Scotlandish",
+          "Scots land"
+        ],
+        "explanation": "Szkocja → Scottish."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nShe speaks French.",
+        "answer": "Does she speak French?",
+        "explanation": "Does + she + speak."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-countries-nationalities-3",
+    "topicId": "a1-vocab-countries-nationalities",
+    "exercises": [
+      {
+        "id": "a1-vocab-countries-nationalities-3-01",
+        "type": "match",
+        "prompt": "Połącz języki z tłumaczeniem.",
+        "answer": [
+          "Polish|polski",
+          "English|angielski",
+          "German|niemiecki",
+          "Spanish|hiszpański"
+        ],
+        "explanation": "Języki."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-02",
+        "type": "cloze",
+        "prompt": "Tokyo is in ___. (Japonia)",
+        "answer": "Japan",
+        "explanation": "Japonia: Japan."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-03",
+        "type": "cloze",
+        "prompt": "He speaks a ___ English. (trochę)",
+        "answer": "little",
+        "explanation": "A little = trochę."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-04",
+        "type": "choice",
+        "prompt": "New York is in ___.",
+        "answer": "the USA",
+        "distractors": [
+          "USA",
+          "America the"
+        ],
+        "explanation": "The USA – z przedimkiem."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-05",
+        "type": "choice",
+        "prompt": "Pizza is ___ food.",
+        "answer": "Italian",
+        "distractors": [
+          "Italy",
+          "Rome"
+        ],
+        "explanation": "Przymiotnik od kraju, wielką literą."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-06",
+        "type": "error",
+        "prompt": "My mother is England and she speaks English.",
+        "answer": [
+          "England",
+          "English"
+        ],
+        "explanation": "Narodowość: English."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-07",
+        "type": "tiles",
+        "prompt": "Moja koleżanka jest z Kanady.",
+        "answer": [
+          "My",
+          "friend",
+          "is",
+          "from",
+          "Canada"
+        ],
+        "explanation": "From + kraj."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-08",
+        "type": "translate",
+        "prompt": "Czy mówisz po niemiecku?",
+        "answer": "Do you speak German?",
+        "explanation": "Języki wielką literą; pytanie z do."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "They are Chinese.",
+        "distractors": [
+          "They are China.",
+          "They are from Chinese."
+        ],
+        "explanation": "Narodowość wielką literą."
+      },
+      {
+        "id": "a1-vocab-countries-nationalities-3-10",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nI speak Russian.",
+        "answer": "I don't speak Russian.",
+        "accept": [
+          "I do not speak Russian."
+        ],
+        "explanation": "Don't + czasownik."
+      }
+    ]
+  }
+]

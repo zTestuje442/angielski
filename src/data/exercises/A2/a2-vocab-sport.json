@@ -1,0 +1,322 @@
+[
+  {
+    "id": "a2-vocab-sport-1",
+    "topicId": "a2-vocab-sport",
+    "exercises": [
+      {
+        "id": "a2-vocab-sport-1-01",
+        "type": "match",
+        "prompt": "Połącz czasownik ze sportami.",
+        "answer": [
+          "play|football, tennis",
+          "go|swimming, skiing",
+          "do|yoga, karate"
+        ],
+        "explanation": "Play, go, do."
+      },
+      {
+        "id": "a2-vocab-sport-1-02",
+        "type": "cloze",
+        "prompt": "I ___ swimming every Saturday.",
+        "answer": "go",
+        "explanation": "Go + -ing."
+      },
+      {
+        "id": "a2-vocab-sport-1-03",
+        "type": "cloze",
+        "prompt": "She ___ yoga in the morning.",
+        "answer": "does",
+        "explanation": "Do yoga."
+      },
+      {
+        "id": "a2-vocab-sport-1-04",
+        "type": "choice",
+        "prompt": "We ___ volleyball on the beach.",
+        "answer": "play",
+        "distractors": [
+          "go",
+          "do"
+        ],
+        "explanation": "Play + gra zespołowa."
+      },
+      {
+        "id": "a2-vocab-sport-1-05",
+        "type": "choice",
+        "prompt": "Our team ___ the match 3–0!",
+        "answer": "won",
+        "distractors": [
+          "beat",
+          "winned"
+        ],
+        "explanation": "Win a match."
+      },
+      {
+        "id": "a2-vocab-sport-1-06",
+        "type": "error",
+        "prompt": "My brother plays karate twice a week.",
+        "answer": [
+          "plays",
+          "does"
+        ],
+        "explanation": "Do karate."
+      },
+      {
+        "id": "a2-vocab-sport-1-07",
+        "type": "tiles",
+        "prompt": "Gram w tenisa z tatą.",
+        "answer": [
+          "I",
+          "play",
+          "tennis",
+          "with",
+          "my",
+          "dad"
+        ],
+        "explanation": "Play tennis."
+      },
+      {
+        "id": "a2-vocab-sport-1-08",
+        "type": "translate",
+        "prompt": "Chodzisz biegać?",
+        "answer": "Do you go running?",
+        "accept": [
+          "Do you go jogging?"
+        ],
+        "explanation": "Go running."
+      },
+      {
+        "id": "a2-vocab-sport-1-09",
+        "type": "choice",
+        "prompt": "Tennis players play on a ___.",
+        "answer": "court",
+        "distractors": [
+          "pitch",
+          "pool"
+        ],
+        "explanation": "Kort: court."
+      },
+      {
+        "id": "a2-vocab-sport-1-10",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nWe go skiing in January.",
+        "answer": "We went skiing in January.",
+        "explanation": "Go → went."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-sport-2",
+    "topicId": "a2-vocab-sport",
+    "exercises": [
+      {
+        "id": "a2-vocab-sport-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "coach|trener",
+          "referee|sędzia",
+          "team|drużyna",
+          "fan|kibic"
+        ],
+        "explanation": "Ludzie w sporcie."
+      },
+      {
+        "id": "a2-vocab-sport-2-02",
+        "type": "cloze",
+        "prompt": "Lewandowski ___ two goals yesterday. (strzelił)",
+        "answer": "scored",
+        "explanation": "Score a goal."
+      },
+      {
+        "id": "a2-vocab-sport-2-03",
+        "type": "cloze",
+        "prompt": "The match was a ___: 1–1. (remis)",
+        "answer": "draw",
+        "explanation": "Remis: draw."
+      },
+      {
+        "id": "a2-vocab-sport-2-04",
+        "type": "choice",
+        "prompt": "Poland ___ Germany 2–1.",
+        "answer": "beat",
+        "distractors": [
+          "won",
+          "winned"
+        ],
+        "explanation": "Beat + drużyna."
+      },
+      {
+        "id": "a2-vocab-sport-2-05",
+        "type": "choice",
+        "prompt": "Footballers play on a ___.",
+        "answer": "pitch",
+        "distractors": [
+          "court",
+          "track"
+        ],
+        "explanation": "Boisko: pitch."
+      },
+      {
+        "id": "a2-vocab-sport-2-06",
+        "type": "error",
+        "prompt": "We lost the match and the other team beat.",
+        "answer": [
+          "beat",
+          "won"
+        ],
+        "explanation": "Bez dopełnienia: won."
+      },
+      {
+        "id": "a2-vocab-sport-2-07",
+        "type": "tiles",
+        "prompt": "Moja siostra jeździ na nartach co zimę.",
+        "answer": [
+          "My",
+          "sister",
+          "goes",
+          "skiing",
+          "every",
+          "winter"
+        ],
+        "explanation": "Go skiing."
+      },
+      {
+        "id": "a2-vocab-sport-2-08",
+        "type": "translate",
+        "prompt": "Kto wygrał mecz?",
+        "answer": "Who won the match?",
+        "accept": [
+          "Who won the game?"
+        ],
+        "explanation": "Win → won."
+      },
+      {
+        "id": "a2-vocab-sport-2-09",
+        "type": "choice",
+        "prompt": "The ___ blew his whistle and the match started.",
+        "answer": "referee",
+        "distractors": [
+          "coach",
+          "fan"
+        ],
+        "explanation": "Sędzia: referee."
+      },
+      {
+        "id": "a2-vocab-sport-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThey play basketball at school.",
+        "answer": "Do they play basketball at school?",
+        "explanation": "Do + they + play."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-sport-3",
+    "topicId": "a2-vocab-sport",
+    "exercises": [
+      {
+        "id": "a2-vocab-sport-3-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "win|wygrać",
+          "lose|przegrać",
+          "draw|zremisować",
+          "score|zdobyć punkt, gola"
+        ],
+        "explanation": "Wyniki."
+      },
+      {
+        "id": "a2-vocab-sport-3-02",
+        "type": "cloze",
+        "prompt": "I go to the ___ three times a week to lift weights. (siłownia)",
+        "answer": "gym",
+        "explanation": "Siłownia: gym."
+      },
+      {
+        "id": "a2-vocab-sport-3-03",
+        "type": "cloze",
+        "prompt": "He ___ gymnastics when he was a child.",
+        "answer": "did",
+        "explanation": "Do gymnastics → did."
+      },
+      {
+        "id": "a2-vocab-sport-3-04",
+        "type": "choice",
+        "prompt": "I ___ cycling to work in summer.",
+        "answer": "go",
+        "distractors": [
+          "play",
+          "do"
+        ],
+        "explanation": "Go cycling."
+      },
+      {
+        "id": "a2-vocab-sport-3-05",
+        "type": "choice",
+        "prompt": "We lost. The ___ was 0–2.",
+        "answer": "score",
+        "distractors": [
+          "result goal",
+          "point"
+        ],
+        "explanation": "Wynik: score."
+      },
+      {
+        "id": "a2-vocab-sport-3-06",
+        "type": "error",
+        "prompt": "Do you go chess on Fridays?",
+        "answer": [
+          "go",
+          "play"
+        ],
+        "explanation": "Play chess."
+      },
+      {
+        "id": "a2-vocab-sport-3-07",
+        "type": "tiles",
+        "prompt": "Nasza drużyna przegrała w zeszłą sobotę.",
+        "answer": [
+          "Our",
+          "team",
+          "lost",
+          "last",
+          "Saturday"
+        ],
+        "explanation": "Lose → lost."
+      },
+      {
+        "id": "a2-vocab-sport-3-08",
+        "type": "translate",
+        "prompt": "Ćwiczę jogę w domu.",
+        "answer": "I do yoga at home.",
+        "accept": [
+          "I practise yoga at home.",
+          "I practice yoga at home."
+        ],
+        "explanation": "Do yoga."
+      },
+      {
+        "id": "a2-vocab-sport-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "I go running in the park.",
+        "distractors": [
+          "I play running in the park.",
+          "I do run in the park."
+        ],
+        "explanation": "Go running."
+      },
+      {
+        "id": "a2-vocab-sport-3-10",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nShe plays chess.",
+        "answer": "She doesn't play chess.",
+        "accept": [
+          "She does not play chess."
+        ],
+        "explanation": "Doesn't + play."
+      }
+    ]
+  }
+]

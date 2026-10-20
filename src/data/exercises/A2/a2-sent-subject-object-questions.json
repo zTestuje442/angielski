@@ -1,0 +1,307 @@
+[
+  {
+    "id": "a2-sent-subject-object-questions-1",
+    "topicId": "a2-sent-subject-object-questions",
+    "exercises": [
+      {
+        "id": "a2-sent-subject-object-questions-1-01",
+        "type": "match",
+        "prompt": "Połącz pytania z tłumaczeniem.",
+        "answer": [
+          "Who called you?|Kto do ciebie dzwonił?",
+          "Who did you call?|Do kogo dzwoniłeś?",
+          "What happened?|Co się stało?",
+          "What did you buy?|Co kupiłeś?"
+        ],
+        "explanation": "Podmiot czy dopełnienie."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-02",
+        "type": "cloze",
+        "prompt": "Who ___ the window? – Tom broke it.",
+        "answer": "broke",
+        "explanation": "Pytanie o podmiot: bez did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-03",
+        "type": "cloze",
+        "prompt": "What ___ you eat for breakfast? – Eggs.",
+        "answer": "did",
+        "explanation": "Pytanie o dopełnienie: did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-04",
+        "type": "choice",
+        "prompt": "Who ___ in this house?",
+        "answer": "lives",
+        "distractors": [
+          "does live",
+          "live"
+        ],
+        "explanation": "Pytanie o podmiot: lives."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-05",
+        "type": "choice",
+        "prompt": "Who ___ you meet at the party?",
+        "answer": "did",
+        "distractors": [
+          "do",
+          "was"
+        ],
+        "explanation": "Pytanie o dopełnienie w przeszłości: did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-06",
+        "type": "error",
+        "prompt": "Who invite you to the party yesterday?",
+        "answer": [
+          "invite",
+          "invited"
+        ],
+        "explanation": "Pytanie o podmiot w przeszłości: invited."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-07",
+        "type": "tiles",
+        "prompt": "Co się stało?",
+        "answer": [
+          "What",
+          "happened"
+        ],
+        "explanation": "Pytanie o podmiot: bez did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-08",
+        "type": "translate",
+        "prompt": "Kto zjadł moje ciasto?",
+        "answer": "Who ate my cake?",
+        "explanation": "Pytanie o podmiot: bez did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-09",
+        "type": "choice",
+        "prompt": "Which question asks about the subject?",
+        "answer": "Who wrote this book?",
+        "distractors": [
+          "Who did you write to?",
+          "What did she write?"
+        ],
+        "explanation": "Who wrote...? – pytanie o podmiot."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-1-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o wyróżnioną osobę (podmiot), zacznij od „Who”.\nMarta won the competition.",
+        "answer": "Who won the competition?",
+        "explanation": "Pytanie o podmiot."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-subject-object-questions-2",
+    "topicId": "a2-sent-subject-object-questions",
+    "exercises": [
+      {
+        "id": "a2-sent-subject-object-questions-2-01",
+        "type": "match",
+        "prompt": "Połącz pytania z tłumaczeniem.",
+        "answer": [
+          "Who saw you?|Kto cię widział?",
+          "Who did you see?|Kogo widziałeś?",
+          "What makes you happy?|Co cię uszczęśliwia?",
+          "What do you want?|Czego chcesz?"
+        ],
+        "explanation": "Podmiot czy dopełnienie."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-02",
+        "type": "cloze",
+        "prompt": "Who ___ the phone? – I answered it. (odebrał)",
+        "answer": "answered",
+        "explanation": "Pytanie o podmiot."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-03",
+        "type": "cloze",
+        "prompt": "What ___ she say? – She said hello.",
+        "answer": "did",
+        "explanation": "Pytanie o dopełnienie."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-04",
+        "type": "choice",
+        "prompt": "What ___ at the meeting yesterday?",
+        "answer": "happened",
+        "distractors": [
+          "did happen",
+          "happens did"
+        ],
+        "explanation": "What happened?"
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-05",
+        "type": "choice",
+        "prompt": "Who ___ you this present?",
+        "answer": "gave",
+        "distractors": [
+          "did give",
+          "gives did"
+        ],
+        "explanation": "Pytanie o podmiot: gave."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-06",
+        "type": "error",
+        "prompt": "What happen to your car yesterday?",
+        "answer": [
+          "happen",
+          "happened"
+        ],
+        "explanation": "What happened?"
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-07",
+        "type": "tiles",
+        "prompt": "Kogo spotkałeś w sklepie?",
+        "answer": [
+          "Who",
+          "did",
+          "you",
+          "meet",
+          "in",
+          "the",
+          "shop"
+        ],
+        "explanation": "Pytanie o dopełnienie: did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-08",
+        "type": "translate",
+        "prompt": "Kto mieszka obok?",
+        "answer": "Who lives next door?",
+        "explanation": "Pytanie o podmiot: lives."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-09",
+        "type": "choice",
+        "prompt": "\"Who did call you?\" – what is wrong?",
+        "answer": "There should be no \"did\".",
+        "distractors": [
+          "\"call\" should be \"calls\".",
+          "Nothing is wrong."
+        ],
+        "explanation": "Pytanie o podmiot – bez did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-2-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o dopełnienie, zacznij od „What did”.\nShe bought a new dress.",
+        "answer": "What did she buy?",
+        "explanation": "Pytanie o dopełnienie: did + buy."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-subject-object-questions-3",
+    "topicId": "a2-sent-subject-object-questions",
+    "exercises": [
+      {
+        "id": "a2-sent-subject-object-questions-3-01",
+        "type": "match",
+        "prompt": "Połącz pytania z tłumaczeniem.",
+        "answer": [
+          "Who knows?|Kto wie?",
+          "Who do you know here?|Kogo tu znasz?",
+          "What broke?|Co się zepsuło?",
+          "What did you break?|Co zepsułeś?"
+        ],
+        "explanation": "Podmiot czy dopełnienie."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-02",
+        "type": "cloze",
+        "prompt": "Who ___ English in your family? (mówi)",
+        "answer": "speaks",
+        "explanation": "Pytanie o podmiot: speaks."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-03",
+        "type": "cloze",
+        "prompt": "Who ___ your teacher talk to? – She talked to my parents.",
+        "answer": "did",
+        "explanation": "Pytanie o dopełnienie."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-04",
+        "type": "choice",
+        "prompt": "What ___ you laugh?",
+        "answer": "made",
+        "distractors": [
+          "did make",
+          "made did"
+        ],
+        "explanation": "Pytanie o podmiot: What made you laugh?"
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-05",
+        "type": "choice",
+        "prompt": "Who ___ you invite to your wedding?",
+        "answer": "did",
+        "distractors": [
+          "were",
+          "does"
+        ],
+        "explanation": "Pytanie o dopełnienie."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-06",
+        "type": "error",
+        "prompt": "Who know the answer?",
+        "answer": [
+          "know",
+          "knows"
+        ],
+        "explanation": "Pytanie o podmiot: knows."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-07",
+        "type": "tiles",
+        "prompt": "Kto zostawił otwarte drzwi?",
+        "answer": [
+          "Who",
+          "left",
+          "the",
+          "door",
+          "open"
+        ],
+        "explanation": "Pytanie o podmiot."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-08",
+        "type": "translate",
+        "prompt": "Co powiedział twój szef?",
+        "answer": "What did your boss say?",
+        "explanation": "Pytanie o dopełnienie: did."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-09",
+        "type": "choice",
+        "prompt": "Which question is correct?",
+        "answer": "Who told you the news?",
+        "distractors": [
+          "Who did tell you the news?",
+          "Who tolded you the news?"
+        ],
+        "explanation": "Pytanie o podmiot."
+      },
+      {
+        "id": "a2-sent-subject-object-questions-3-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o podmiot, zacznij od „What”.\nThe noise woke me up.",
+        "answer": "What woke you up?",
+        "explanation": "Pytanie o podmiot."
+      }
+    ]
+  }
+]

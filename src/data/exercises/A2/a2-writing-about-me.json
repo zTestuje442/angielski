@@ -1,0 +1,326 @@
+[
+  {
+    "id": "a2-writing-about-me-1",
+    "topicId": "a2-writing-about-me",
+    "exercises": [
+      {
+        "id": "a2-writing-about-me-1-01",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I usually get up at 7.|Zwykle wstaję o 7.",
+          "I work as a nurse.|Pracuję jako pielęgniarka.",
+          "In my free time...|W wolnym czasie...",
+          "I'm interested in...|Interesuję się..."
+        ],
+        "explanation": "Zdania o sobie."
+      },
+      {
+        "id": "a2-writing-about-me-1-02",
+        "type": "choice",
+        "prompt": "I ___ get up at 6:30.",
+        "answer": "usually",
+        "distractors": [
+          "usual",
+          "am usually"
+        ],
+        "explanation": "Przysłówek przed czasownikiem."
+      },
+      {
+        "id": "a2-writing-about-me-1-03",
+        "type": "choice",
+        "prompt": "I'm interested ___ photography.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "for"
+        ],
+        "explanation": "Interested in."
+      },
+      {
+        "id": "a2-writing-about-me-1-04",
+        "type": "cloze",
+        "prompt": "I work ___ a programmer.",
+        "answer": "as",
+        "explanation": "Work as + zawód."
+      },
+      {
+        "id": "a2-writing-about-me-1-05",
+        "type": "cloze",
+        "prompt": "In the evening I ___ watch TV. (często)",
+        "answer": "often",
+        "explanation": "Often przed czasownikiem."
+      },
+      {
+        "id": "a2-writing-about-me-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż opis dnia.",
+        "answer": [
+          "I usually get up at 7.",
+          "Then I have breakfast and go to work.",
+          "I finish work at 4.",
+          "In the evening I read or go running."
+        ],
+        "explanation": "Kolejność dnia: rano, praca, popołudnie, wieczór."
+      },
+      {
+        "id": "a2-writing-about-me-1-07",
+        "type": "error",
+        "prompt": "I lives in Gdańsk with my family.",
+        "answer": [
+          "lives",
+          "live"
+        ],
+        "explanation": "I – live."
+      },
+      {
+        "id": "a2-writing-about-me-1-08",
+        "type": "translate",
+        "prompt": "W weekendy gram w tenisa.",
+        "answer": "At the weekend I play tennis.",
+        "accept": [
+          "I play tennis at the weekend.",
+          "On weekends I play tennis.",
+          "I play tennis on weekends.",
+          "At weekends I play tennis.",
+          "I play tennis at weekends."
+        ],
+        "explanation": "At the weekend (BrE)."
+      },
+      {
+        "id": "a2-writing-about-me-1-09",
+        "type": "transform",
+        "prompt": "Zamień na zdanie o Marku, zacznij od „He”.\nI start work at 9.",
+        "answer": "He starts work at 9.",
+        "explanation": "He – starts."
+      },
+      {
+        "id": "a2-writing-about-me-1-10",
+        "type": "choice",
+        "prompt": "Which sentence is about a hobby?",
+        "answer": "I love hiking in the mountains.",
+        "distractors": [
+          "I'm 28.",
+          "I live in Łódź."
+        ],
+        "explanation": "Hobby: hiking."
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-about-me-2",
+    "topicId": "a2-writing-about-me",
+    "exercises": [
+      {
+        "id": "a2-writing-about-me-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "get up|wstawać",
+          "have breakfast|jeść śniadanie",
+          "finish work|kończyć pracę",
+          "go to bed|kłaść się spać"
+        ],
+        "explanation": "Codzienne czynności."
+      },
+      {
+        "id": "a2-writing-about-me-2-02",
+        "type": "choice",
+        "prompt": "She ___ to work by bus.",
+        "answer": "goes",
+        "distractors": [
+          "go",
+          "going"
+        ],
+        "explanation": "She – goes."
+      },
+      {
+        "id": "a2-writing-about-me-2-03",
+        "type": "choice",
+        "prompt": "I ___ late for work.",
+        "answer": "am never",
+        "distractors": [
+          "never am",
+          "never be"
+        ],
+        "explanation": "Po be: am never."
+      },
+      {
+        "id": "a2-writing-about-me-2-04",
+        "type": "cloze",
+        "prompt": "I like my job ___ my colleagues are nice. (bo)",
+        "answer": "because",
+        "explanation": "Because."
+      },
+      {
+        "id": "a2-writing-about-me-2-05",
+        "type": "cloze",
+        "prompt": "___ the morning I drink coffee. (rano)",
+        "answer": "In",
+        "explanation": "In the morning."
+      },
+      {
+        "id": "a2-writing-about-me-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż przedstawienie się.",
+        "answer": [
+          "Hi, my name is Kasia.",
+          "I'm 27 and I live in Poznań.",
+          "I work as a nurse in a hospital.",
+          "In my free time I like cooking and swimming."
+        ],
+        "explanation": "Imię, wiek i miejsce, praca, zainteresowania."
+      },
+      {
+        "id": "a2-writing-about-me-2-07",
+        "type": "error",
+        "prompt": "My brother work in a bank.",
+        "answer": [
+          "work",
+          "works"
+        ],
+        "explanation": "He – works."
+      },
+      {
+        "id": "a2-writing-about-me-2-08",
+        "type": "translate",
+        "prompt": "Zwykle chodzę spać o jedenastej.",
+        "answer": "I usually go to bed at eleven.",
+        "accept": [
+          "I usually go to bed at 11.",
+          "I usually go to sleep at eleven.",
+          "I usually go to sleep at 11."
+        ],
+        "explanation": "Usually + czasownik."
+      },
+      {
+        "id": "a2-writing-about-me-2-09",
+        "type": "transform",
+        "prompt": "Wstaw „sometimes” we właściwe miejsce.\nI cook dinner for my family.",
+        "answer": "I sometimes cook dinner for my family.",
+        "accept": [
+          "Sometimes I cook dinner for my family."
+        ],
+        "explanation": "Przysłówek przed czasownikiem."
+      },
+      {
+        "id": "a2-writing-about-me-2-10",
+        "type": "choice",
+        "prompt": "How can you start a sentence without \"I\"?",
+        "answer": "At the weekend, I...",
+        "distractors": [
+          "I I...",
+          "Me..."
+        ],
+        "explanation": "Zacznij od określenia czasu."
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-about-me-3",
+    "topicId": "a2-writing-about-me",
+    "exercises": [
+      {
+        "id": "a2-writing-about-me-3-01",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I'm 30.|Mam 30 lat.",
+          "I'm married.|Jestem żonaty / zamężna.",
+          "I've got two kids.|Mam dwoje dzieci.",
+          "I'm from Lublin.|Jestem z Lublina."
+        ],
+        "explanation": "Informacje o sobie."
+      },
+      {
+        "id": "a2-writing-about-me-3-02",
+        "type": "choice",
+        "prompt": "My favourite day ___ Saturday.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "has"
+        ],
+        "explanation": "Day – is."
+      },
+      {
+        "id": "a2-writing-about-me-3-03",
+        "type": "choice",
+        "prompt": "I start work at 8, ___ I get up early.",
+        "answer": "so",
+        "distractors": [
+          "because",
+          "but"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-writing-about-me-3-04",
+        "type": "cloze",
+        "prompt": "I live ___ my wife and two cats. (z)",
+        "answer": "with",
+        "explanation": "Live with."
+      },
+      {
+        "id": "a2-writing-about-me-3-05",
+        "type": "cloze",
+        "prompt": "I don't like Mondays ___ I love Fridays! (ale)",
+        "answer": "but",
+        "explanation": "Kontrast: but."
+      },
+      {
+        "id": "a2-writing-about-me-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż opis weekendu.",
+        "answer": [
+          "At the weekend I get up late.",
+          "On Saturday I go shopping with my wife.",
+          "On Sunday we visit my parents.",
+          "In the evening we watch a film."
+        ],
+        "explanation": "Kolejność: rano, sobota, niedziela, wieczór."
+      },
+      {
+        "id": "a2-writing-about-me-3-07",
+        "type": "error",
+        "prompt": "I have 35 years and I am a teacher.",
+        "answer": [
+          "have",
+          "am"
+        ],
+        "explanation": "Wiek: I am 35."
+      },
+      {
+        "id": "a2-writing-about-me-3-08",
+        "type": "translate",
+        "prompt": "Interesuję się historią.",
+        "answer": "I am interested in history.",
+        "accept": [
+          "I'm interested in history."
+        ],
+        "explanation": "Interested in."
+      },
+      {
+        "id": "a2-writing-about-me-3-09",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „and”.\nI live in Toruń. I work in a museum.",
+        "answer": "I live in Toruń and I work in a museum.",
+        "accept": [
+          "I live in Toruń and work in a museum."
+        ],
+        "explanation": "And."
+      },
+      {
+        "id": "a2-writing-about-me-3-10",
+        "type": "choice",
+        "prompt": "Which text is the best introduction?",
+        "answer": "I'm Ola, I'm 25 and I'm a teacher. I love music.",
+        "distractors": [
+          "Ola. 25. Teacher.",
+          "Dear Sir or Madam, I am Ola."
+        ],
+        "explanation": "Pełne zdania, ton nieformalny."
+      }
+    ]
+  }
+]

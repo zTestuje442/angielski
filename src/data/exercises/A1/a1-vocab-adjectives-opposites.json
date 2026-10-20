@@ -1,0 +1,319 @@
+[
+  {
+    "id": "a1-vocab-adjectives-opposites-1",
+    "topicId": "a1-vocab-adjectives-opposites",
+    "exercises": [
+      {
+        "id": "a1-vocab-adjectives-opposites-1-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z przeciwieństwami.",
+        "answer": [
+          "big|small",
+          "hot|cold",
+          "fast|slow",
+          "cheap|expensive"
+        ],
+        "explanation": "Przeciwieństwa."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-02",
+        "type": "cloze",
+        "prompt": "This test is not difficult. It's ___. (łatwy)",
+        "answer": "easy",
+        "explanation": "Easy – difficult."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-03",
+        "type": "cloze",
+        "prompt": "My grandma is old, but my sister is ___. (młoda)",
+        "answer": "young",
+        "explanation": "Old – young (ludzie)."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-04",
+        "type": "choice",
+        "prompt": "A Ferrari is a very ___ car.",
+        "answer": "fast",
+        "distractors": [
+          "slow",
+          "short"
+        ],
+        "explanation": "Szybki: fast."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-05",
+        "type": "choice",
+        "prompt": "They are ___ houses.",
+        "answer": "big",
+        "distractors": [
+          "bigs",
+          "biggs"
+        ],
+        "explanation": "Przymiotnik bez liczby mnogiej."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-06",
+        "type": "error",
+        "prompt": "I have two news phones.",
+        "answer": [
+          "news",
+          "new"
+        ],
+        "explanation": "Przymiotnik bez -s."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-07",
+        "type": "tiles",
+        "prompt": "Ta kawa jest zimna.",
+        "answer": [
+          "This",
+          "coffee",
+          "is",
+          "cold"
+        ],
+        "explanation": "Be + przymiotnik."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-08",
+        "type": "translate",
+        "prompt": "To jest drogi samochód.",
+        "answer": "This is an expensive car.",
+        "accept": [
+          "It is an expensive car.",
+          "It's an expensive car.",
+          "That is an expensive car."
+        ],
+        "explanation": "An przed samogłoską."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-09",
+        "type": "choice",
+        "prompt": "The opposite of \"tall\" (about people) is:",
+        "answer": "short",
+        "distractors": [
+          "small",
+          "little"
+        ],
+        "explanation": "Tall – short."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-1-10",
+        "type": "transform",
+        "prompt": "Zmień przymiotnik na przeciwny.\nThe room is clean.",
+        "answer": "The room is dirty.",
+        "explanation": "Clean – dirty."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-adjectives-opposites-2",
+    "topicId": "a1-vocab-adjectives-opposites",
+    "exercises": [
+      {
+        "id": "a1-vocab-adjectives-opposites-2-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z przeciwieństwami.",
+        "answer": [
+          "happy|sad",
+          "full|empty",
+          "clean|dirty",
+          "good|bad"
+        ],
+        "explanation": "Przeciwieństwa."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-02",
+        "type": "cloze",
+        "prompt": "My glass is ___. Can I have more water? (pusta)",
+        "answer": "empty",
+        "explanation": "Full – empty."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-03",
+        "type": "cloze",
+        "prompt": "The film was very ___. I cried. (smutny)",
+        "answer": "sad",
+        "explanation": "Happy – sad."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-04",
+        "type": "choice",
+        "prompt": "This book is very ___ – 900 pages!",
+        "answer": "long",
+        "distractors": [
+          "tall",
+          "high"
+        ],
+        "explanation": "Długi: long."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-05",
+        "type": "choice",
+        "prompt": "My phone is old. I want a ___ one.",
+        "answer": "new",
+        "distractors": [
+          "young",
+          "cheap"
+        ],
+        "explanation": "Old – new (rzeczy)."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-06",
+        "type": "error",
+        "prompt": "She is a happy girls.",
+        "answer": [
+          "girls",
+          "girl"
+        ],
+        "explanation": "A + liczba pojedyncza: a happy girl."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-07",
+        "type": "tiles",
+        "prompt": "Moje buty są brudne.",
+        "answer": [
+          "My",
+          "shoes",
+          "are",
+          "dirty"
+        ],
+        "explanation": "Be + przymiotnik."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-08",
+        "type": "translate",
+        "prompt": "To jest łatwe pytanie.",
+        "answer": "This is an easy question.",
+        "accept": [
+          "It is an easy question.",
+          "It's an easy question."
+        ],
+        "explanation": "An przed samogłoską."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-09",
+        "type": "choice",
+        "prompt": "The opposite of \"cheap\" is:",
+        "answer": "expensive",
+        "distractors": [
+          "easy",
+          "slow"
+        ],
+        "explanation": "Cheap – expensive."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-2-10",
+        "type": "transform",
+        "prompt": "Zmień przymiotnik na przeciwny.\nThe bus is fast.",
+        "answer": "The bus is slow.",
+        "explanation": "Fast – slow."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-adjectives-opposites-3",
+    "topicId": "a1-vocab-adjectives-opposites",
+    "exercises": [
+      {
+        "id": "a1-vocab-adjectives-opposites-3-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "difficult|trudny",
+          "young|młody",
+          "short|krótki, niski",
+          "dirty|brudny"
+        ],
+        "explanation": "Przymiotniki."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-02",
+        "type": "cloze",
+        "prompt": "Be careful! The soup is very ___. (gorąca)",
+        "answer": "hot",
+        "explanation": "Gorący: hot."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-03",
+        "type": "cloze",
+        "prompt": "He's very ___ – 2 metres! (wysoki)",
+        "answer": "tall",
+        "explanation": "Wysoki (o ludziach): tall."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-04",
+        "type": "choice",
+        "prompt": "The questions are ___.",
+        "answer": "difficult",
+        "distractors": [
+          "difficults",
+          "a difficult"
+        ],
+        "explanation": "Bez liczby mnogiej."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-05",
+        "type": "choice",
+        "prompt": "A mouse is ___.",
+        "answer": "small",
+        "distractors": [
+          "tall",
+          "long time"
+        ],
+        "explanation": "Mały: small."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-06",
+        "type": "error",
+        "prompt": "These shoes are cheaps today.",
+        "answer": [
+          "cheaps",
+          "cheap"
+        ],
+        "explanation": "Przymiotnik bez -s."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-07",
+        "type": "tiles",
+        "prompt": "Mój brat jest młody i szczęśliwy.",
+        "answer": [
+          "My",
+          "brother",
+          "is",
+          "young",
+          "and",
+          "happy"
+        ],
+        "explanation": "Dwa przymiotniki z and."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-08",
+        "type": "translate",
+        "prompt": "Pokój jest pełny.",
+        "answer": "The room is full.",
+        "explanation": "Pełny: full."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "They are good students.",
+        "distractors": [
+          "They are goods students.",
+          "They are students goods."
+        ],
+        "explanation": "Przymiotnik przed rzeczownikiem, bez -s."
+      },
+      {
+        "id": "a1-vocab-adjectives-opposites-3-10",
+        "type": "transform",
+        "prompt": "Zmień przymiotnik na przeciwny.\nThe test was easy.",
+        "answer": "The test was difficult.",
+        "accept": [
+          "The test was hard."
+        ],
+        "explanation": "Easy – difficult."
+      }
+    ]
+  }
+]

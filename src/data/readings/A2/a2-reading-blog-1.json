@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-blog-1",
+  "topicId": "a2-reading-blog",
+  "title": "My first month without a phone",
+  "text": "Hi everyone! It's me, Kuba, again. Last month I did a crazy thing: I put my smartphone in a drawer and didn't use it for thirty days. I only had an old phone for calls and text messages.\n\nThe first week was really hard. I checked my pocket all the time, and I didn't know what to do on the bus. I felt bored and a bit lonely. My friends sent me messages on social media, and I didn't see them.\n\nBut in the second week, things changed. I started reading books again – I finished three! I also talked more with my family at dinner. I slept better, too, because I didn't look at a screen in bed.\n\nThere were some problems. I got lost in the city twice because I didn't have a map. And I missed a party because the invitation was online.\n\nNow I use my smartphone again, but only for two hours a day. I think it's a good balance. Would you try a month without your phone? Tell me in the comments!",
+  "exercises": [
+    {
+      "id": "a2-reading-blog-1-01",
+      "type": "choice",
+      "prompt": "Kuba didn't use any phone for a month.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Miał stary telefon do rozmów i SMS-ów."
+    },
+    {
+      "id": "a2-reading-blog-1-02",
+      "type": "choice",
+      "prompt": "The first week was difficult for Kuba.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„The first week was really hard.”"
+    },
+    {
+      "id": "a2-reading-blog-1-03",
+      "type": "choice",
+      "prompt": "Kuba's family also stopped using phones.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "a2-reading-blog-1-04",
+      "type": "choice",
+      "prompt": "How many books did Kuba read?",
+      "answer": "three",
+      "distractors": [
+        "one",
+        "thirty"
+      ],
+      "explanation": "„I finished three!”"
+    },
+    {
+      "id": "a2-reading-blog-1-05",
+      "type": "choice",
+      "prompt": "Why did Kuba sleep better?",
+      "answer": "He didn't look at a screen in bed.",
+      "distractors": [
+        "He went to bed early.",
+        "He read in bed."
+      ],
+      "explanation": "„...because I didn't look at a screen in bed.”"
+    },
+    {
+      "id": "a2-reading-blog-1-06",
+      "type": "choice",
+      "prompt": "Why did Kuba miss a party?",
+      "answer": "The invitation was online.",
+      "distractors": [
+        "He got lost.",
+        "He was ill."
+      ],
+      "explanation": "„...because the invitation was online.”"
+    },
+    {
+      "id": "a2-reading-blog-1-07",
+      "type": "choice",
+      "prompt": "How does Kuba use his smartphone now?",
+      "answer": "for two hours a day",
+      "distractors": [
+        "all day",
+        "only at weekends"
+      ],
+      "explanation": "„...only for two hours a day.”"
+    },
+    {
+      "id": "a2-reading-blog-1-08",
+      "type": "cloze",
+      "prompt": "I put my smartphone in a ___.",
+      "answer": "drawer",
+      "explanation": "Szuflada: drawer."
+    },
+    {
+      "id": "a2-reading-blog-1-09",
+      "type": "cloze",
+      "prompt": "I got ___ in the city twice. (zgubiłem się)",
+      "answer": "lost",
+      "explanation": "Get lost – zgubić się."
+    },
+    {
+      "id": "a2-reading-blog-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "drawer|szuflada",
+        "lonely|samotny",
+        "screen|ekran",
+        "balance|równowaga"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

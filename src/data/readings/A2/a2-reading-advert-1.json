@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-advert-1",
+  "topicId": "a2-reading-advert",
+  "title": "Summer English camp",
+  "text": "SUMMER ENGLISH CAMP by the lake in Masuria\nFor young people aged 12–16\n\nTwo weeks of English, sport and fun! 1–14 July or 15–28 July.\n\nEvery day:\n- three hours of English lessons with native speakers (9:00–12:00)\n- sports in the afternoon: sailing, kayaking, volleyball\n- evening activities: films, games, a disco on Fridays\n\nYou sleep in wooden houses with four beds, and there are bathrooms in every house. We cook three healthy meals a day.\n\nPrice: 2,900 zł for two weeks. This includes lessons, food, the hotel and all sports. The bus from Warsaw costs 150 zł extra.\n\nBook before 31 March and get 10% off!\nDon't forget: you need a swimming certificate for sailing.\n\nCall us: 600 123 456",
+  "exercises": [
+    {
+      "id": "a2-reading-advert-1-01",
+      "type": "choice",
+      "prompt": "The camp is for children aged 8–12.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Dla wieku 12–16."
+    },
+    {
+      "id": "a2-reading-advert-1-02",
+      "type": "choice",
+      "prompt": "There is a disco every Friday.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...a disco on Fridays.”"
+    },
+    {
+      "id": "a2-reading-advert-1-03",
+      "type": "choice",
+      "prompt": "The teachers are from England.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi tylko „native speakers”."
+    },
+    {
+      "id": "a2-reading-advert-1-04",
+      "type": "choice",
+      "prompt": "How long does the camp last?",
+      "answer": "two weeks",
+      "distractors": [
+        "one week",
+        "one month"
+      ],
+      "explanation": "„Two weeks of English...”"
+    },
+    {
+      "id": "a2-reading-advert-1-05",
+      "type": "choice",
+      "prompt": "What is NOT included in the price?",
+      "answer": "the bus from Warsaw",
+      "distractors": [
+        "the food",
+        "the sports"
+      ],
+      "explanation": "„The bus from Warsaw costs 150 zł extra.”"
+    },
+    {
+      "id": "a2-reading-advert-1-06",
+      "type": "choice",
+      "prompt": "How can you pay less?",
+      "answer": "Book before 31 March.",
+      "distractors": [
+        "Come with a friend.",
+        "Take your own food."
+      ],
+      "explanation": "„Book before 31 March and get 10% off!”"
+    },
+    {
+      "id": "a2-reading-advert-1-07",
+      "type": "choice",
+      "prompt": "What do you need for sailing?",
+      "answer": "a swimming certificate",
+      "distractors": [
+        "your own boat",
+        "extra money"
+      ],
+      "explanation": "„...you need a swimming certificate for sailing.”"
+    },
+    {
+      "id": "a2-reading-advert-1-08",
+      "type": "cloze",
+      "prompt": "There are three hours of English lessons with native ___.",
+      "answer": "speakers",
+      "explanation": "Native speakers."
+    },
+    {
+      "id": "a2-reading-advert-1-09",
+      "type": "cloze",
+      "prompt": "We cook three healthy ___ a day.",
+      "answer": "meals",
+      "explanation": "Posiłki: meals."
+    },
+    {
+      "id": "a2-reading-advert-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "aged|w wieku",
+        "includes|zawiera",
+        "extra|dodatkowo",
+        "off|zniżki (np. 10% off)"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

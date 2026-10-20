@@ -1,0 +1,337 @@
+[
+  {
+    "id": "a2-vocab-holidays-hotels-1",
+    "topicId": "a2-vocab-holidays-hotels",
+    "exercises": [
+      {
+        "id": "a2-vocab-holidays-hotels-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "check in|zameldować się",
+          "check out|wymeldować się",
+          "go sightseeing|zwiedzać",
+          "souvenir|pamiątka"
+        ],
+        "explanation": "Wakacje i hotel."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-02",
+        "type": "cloze",
+        "prompt": "We want to ___ a room for three nights. (zarezerwować)",
+        "answer": "book",
+        "accept": [
+          "reserve"
+        ],
+        "explanation": "Book a room."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-03",
+        "type": "cloze",
+        "prompt": "Is breakfast ___ in the price? (wliczone)",
+        "answer": "included",
+        "explanation": "Breakfast included."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-04",
+        "type": "choice",
+        "prompt": "We usually go ___ holiday in July.",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "for"
+        ],
+        "explanation": "Go on holiday."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-05",
+        "type": "choice",
+        "prompt": "A room with two single beds is a ___ room.",
+        "answer": "twin",
+        "distractors": [
+          "double",
+          "single"
+        ],
+        "explanation": "Twin room."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-06",
+        "type": "error",
+        "prompt": "We go on holidays to Greece every summer.",
+        "answer": [
+          "holidays",
+          "holiday"
+        ],
+        "explanation": "Go on holiday."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-07",
+        "type": "tiles",
+        "prompt": "Mam rezerwację na dwie noce.",
+        "answer": [
+          "I",
+          "have",
+          "a",
+          "reservation",
+          "for",
+          "two",
+          "nights"
+        ],
+        "explanation": "Reservation for..."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-08",
+        "type": "translate",
+        "prompt": "O której jest śniadanie?",
+        "answer": "What time is breakfast?",
+        "accept": [
+          "When is breakfast?"
+        ],
+        "explanation": "What time is...?"
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-09",
+        "type": "choice",
+        "prompt": "You get your key card at the ___.",
+        "answer": "reception",
+        "distractors": [
+          "lift",
+          "souvenir shop"
+        ],
+        "explanation": "Recepcja: reception."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-1-10",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nWe go sightseeing in Rome.",
+        "answer": "We went sightseeing in Rome.",
+        "explanation": "Go → went."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-holidays-hotels-2",
+    "topicId": "a2-vocab-holidays-hotels",
+    "exercises": [
+      {
+        "id": "a2-vocab-holidays-hotels-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "single room|pokój jednoosobowy",
+          "double room|pokój dwuosobowy",
+          "sea view|widok na morze",
+          "lift|winda"
+        ],
+        "explanation": "Hotel."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-02",
+        "type": "cloze",
+        "prompt": "Check-___ is at 11 a.m. (wymeldowanie)",
+        "answer": "out",
+        "explanation": "Check-out."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-03",
+        "type": "cloze",
+        "prompt": "We ___ on the beach all day. (opalaliśmy się)",
+        "answer": "sunbathed",
+        "explanation": "Opalać się: sunbathe."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-04",
+        "type": "choice",
+        "prompt": "We went on a guided ___ of the old town.",
+        "answer": "tour",
+        "distractors": [
+          "travel",
+          "trip of"
+        ],
+        "explanation": "Guided tour."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-05",
+        "type": "choice",
+        "prompt": "I'd like a room with a ___ of the sea.",
+        "answer": "view",
+        "distractors": [
+          "look",
+          "see"
+        ],
+        "explanation": "A sea view."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-06",
+        "type": "error",
+        "prompt": "We bought a lot of memories in the shop.",
+        "answer": [
+          "memories",
+          "souvenirs"
+        ],
+        "explanation": "Pamiątki: souvenirs."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-07",
+        "type": "tiles",
+        "prompt": "Chcielibyśmy pokój z widokiem na morze.",
+        "answer": [
+          "We",
+          "would",
+          "like",
+          "a",
+          "room",
+          "with",
+          "a",
+          "sea",
+          "view"
+        ],
+        "explanation": "Would like."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-08",
+        "type": "translate",
+        "prompt": "Gdzie jest winda?",
+        "answer": "Where is the lift?",
+        "accept": [
+          "Where's the lift?",
+          "Where is the elevator?",
+          "Where's the elevator?"
+        ],
+        "explanation": "Lift (BrE)."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-09",
+        "type": "choice",
+        "prompt": "A holiday with flights, hotel and food in one price is a ___ holiday.",
+        "answer": "package",
+        "distractors": [
+          "box",
+          "group"
+        ],
+        "explanation": "Package holiday."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-2-10",
+        "type": "transform",
+        "prompt": "Zamień na grzeczną prośbę z „Could I have”.\nWake me up at 7.",
+        "answer": "Could I have a wake-up call at 7?",
+        "accept": [
+          "Could I have a wake-up call at 7, please?",
+          "Could I have a wake-up call at seven?",
+          "Could I have a wake-up call at seven, please?"
+        ],
+        "explanation": "Could I have...?"
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-holidays-hotels-3",
+    "topicId": "a2-vocab-holidays-hotels",
+    "exercises": [
+      {
+        "id": "a2-vocab-holidays-hotels-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "book|zarezerwować",
+          "sunbathe|opalać się",
+          "full board|pełne wyżywienie",
+          "guided tour|wycieczka z przewodnikiem"
+        ],
+        "explanation": "Wakacje."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-02",
+        "type": "cloze",
+        "prompt": "We went ___ in the mountains and slept in a tent.",
+        "answer": "camping",
+        "explanation": "Go camping."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-03",
+        "type": "cloze",
+        "prompt": "You can leave your bags at ___. (recepcja)",
+        "answer": "reception",
+        "explanation": "Recepcja: reception."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-04",
+        "type": "choice",
+        "prompt": "What time do we have to ___ out?",
+        "answer": "check",
+        "distractors": [
+          "go",
+          "book"
+        ],
+        "explanation": "Check out."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-05",
+        "type": "choice",
+        "prompt": "I'd like a ___ room for me and my wife.",
+        "answer": "double",
+        "distractors": [
+          "single",
+          "twin bed"
+        ],
+        "explanation": "Pokój dla pary: double."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-06",
+        "type": "error",
+        "prompt": "We checked out in the hotel at 3 p.m. and went to our room.",
+        "answer": [
+          "out",
+          "in"
+        ],
+        "explanation": "Przy przyjeździe: check in."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-07",
+        "type": "tiles",
+        "prompt": "Kupiłem pamiątki dla rodziny.",
+        "answer": [
+          "I",
+          "bought",
+          "souvenirs",
+          "for",
+          "my",
+          "family"
+        ],
+        "explanation": "Souvenirs."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-08",
+        "type": "translate",
+        "prompt": "Czy śniadanie jest wliczone w cenę?",
+        "answer": "Is breakfast included in the price?",
+        "accept": [
+          "Is breakfast included?"
+        ],
+        "explanation": "Included."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-09",
+        "type": "choice",
+        "prompt": "Which is NOT in a hotel?",
+        "answer": "a pitch",
+        "distractors": [
+          "a lift",
+          "a reception"
+        ],
+        "explanation": "Pitch to boisko."
+      },
+      {
+        "id": "a2-vocab-holidays-hotels-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThe hotel has got a swimming pool.",
+        "answer": "Has the hotel got a swimming pool?",
+        "accept": [
+          "Does the hotel have a swimming pool?"
+        ],
+        "explanation": "Has + the hotel + got."
+      }
+    ]
+  }
+]

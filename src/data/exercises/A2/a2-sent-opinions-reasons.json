@@ -1,0 +1,329 @@
+[
+  {
+    "id": "a2-sent-opinions-reasons-1",
+    "topicId": "a2-sent-opinions-reasons",
+    "exercises": [
+      {
+        "id": "a2-sent-opinions-reasons-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "I think...|Myślę, że...",
+          "In my opinion,...|Moim zdaniem...",
+          "I agree.|Zgadzam się.",
+          "Me neither.|Ja też nie."
+        ],
+        "explanation": "Opinie."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-02",
+        "type": "cloze",
+        "prompt": "I like winter ___ I love skiing. (bo)",
+        "answer": "because",
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-03",
+        "type": "cloze",
+        "prompt": "What do you ___ about this film? (myślisz)",
+        "answer": "think",
+        "explanation": "What do you think about...?"
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-04",
+        "type": "choice",
+        "prompt": "I don't ___ it's a good idea.",
+        "answer": "think",
+        "distractors": [
+          "thinking",
+          "thought it"
+        ],
+        "explanation": "I don't think..."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-05",
+        "type": "choice",
+        "prompt": "We stayed at home because ___ the snow.",
+        "answer": "of",
+        "distractors": [
+          "off",
+          "that"
+        ],
+        "explanation": "Because of + rzeczownik."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-06",
+        "type": "error",
+        "prompt": "I think it isn't a good idea to go out now.",
+        "answer": [
+          "isn't",
+          "is"
+        ],
+        "explanation": "Przeczenie przy think: I don't think it is..."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-07",
+        "type": "tiles",
+        "prompt": "Moim zdaniem to jest za drogie.",
+        "answer": [
+          "In",
+          "my",
+          "opinion",
+          "it",
+          "is",
+          "too",
+          "expensive"
+        ],
+        "explanation": "In my opinion."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-08",
+        "type": "translate",
+        "prompt": "Nie sądzę, że on przyjdzie.",
+        "answer": "I don't think he will come.",
+        "accept": [
+          "I do not think he will come.",
+          "I don't think he is coming.",
+          "I don't think he'll come."
+        ],
+        "explanation": "I don't think..."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-09",
+        "type": "choice",
+        "prompt": "Which is a question about opinion?",
+        "answer": "What do you think about it?",
+        "distractors": [
+          "Where is it?",
+          "When did it start?"
+        ],
+        "explanation": "What do you think...?"
+      },
+      {
+        "id": "a2-sent-opinions-reasons-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because”.\nI like my job. My colleagues are nice.",
+        "answer": "I like my job because my colleagues are nice.",
+        "explanation": "Because."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-opinions-reasons-2",
+    "topicId": "a2-sent-opinions-reasons",
+    "exercises": [
+      {
+        "id": "a2-sent-opinions-reasons-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "because|ponieważ",
+          "because of|z powodu",
+          "that's why|dlatego",
+          "for me|dla mnie"
+        ],
+        "explanation": "Uzasadnianie."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-02",
+        "type": "cloze",
+        "prompt": "The bus was late. That's ___ I was late. (dlatego)",
+        "answer": "why",
+        "explanation": "That's why."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-03",
+        "type": "cloze",
+        "prompt": "I ___ with you. You're right. (zgadzam się)",
+        "answer": "agree",
+        "explanation": "I agree."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-04",
+        "type": "choice",
+        "prompt": "\"I don't like coffee.\" – \"Me ___.\" (ja też nie)",
+        "answer": "neither",
+        "distractors": [
+          "too",
+          "also"
+        ],
+        "explanation": "Me neither."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-05",
+        "type": "choice",
+        "prompt": "\"I love pizza.\" – \"Me ___.\"",
+        "answer": "too",
+        "distractors": [
+          "neither",
+          "either"
+        ],
+        "explanation": "Me too."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-06",
+        "type": "error",
+        "prompt": "I am agreeing with you.",
+        "answer": [
+          "agreeing",
+          "agree"
+        ],
+        "explanation": "Agree – czasownik stanu, bez -ing."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-07",
+        "type": "tiles",
+        "prompt": "Myślę, że angielski jest łatwy.",
+        "answer": [
+          "I",
+          "think",
+          "English",
+          "is",
+          "easy"
+        ],
+        "explanation": "I think..."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-08",
+        "type": "translate",
+        "prompt": "Co sądzisz o nowym szefie?",
+        "answer": "What do you think about the new boss?",
+        "accept": [
+          "What do you think of the new boss?",
+          "What's your opinion of the new boss?"
+        ],
+        "explanation": "What do you think about...?"
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-09",
+        "type": "choice",
+        "prompt": "Which sentence gives a reason?",
+        "answer": "I'm tired because I worked late.",
+        "distractors": [
+          "I'm tired.",
+          "Are you tired?"
+        ],
+        "explanation": "Because – przyczyna."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-2-10",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z „I don't think”.\nI think it won't rain.",
+        "answer": "I don't think it will rain.",
+        "explanation": "Przeczenie przy think."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-opinions-reasons-3",
+    "topicId": "a2-sent-opinions-reasons",
+    "exercises": [
+      {
+        "id": "a2-sent-opinions-reasons-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Firstly,|Po pierwsze",
+          "Also,|Ponadto",
+          "I believe...|Uważam, że...",
+          "I don't agree.|Nie zgadzam się."
+        ],
+        "explanation": "Opinia i argumenty."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-02",
+        "type": "cloze",
+        "prompt": "___ my opinion, cats are better than dogs. (moim zdaniem)",
+        "answer": "In",
+        "explanation": "In my opinion."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-03",
+        "type": "cloze",
+        "prompt": "I love the city. ___, there are many museums. (po pierwsze)",
+        "answer": "Firstly",
+        "accept": [
+          "First"
+        ],
+        "explanation": "Firstly."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-04",
+        "type": "choice",
+        "prompt": "The match was cancelled because ___ bad weather.",
+        "answer": "of the",
+        "distractors": [
+          "the",
+          "that the"
+        ],
+        "explanation": "Because of + rzeczownik."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-05",
+        "type": "choice",
+        "prompt": "I ___ agree with you. You're wrong.",
+        "answer": "don't",
+        "distractors": [
+          "am not",
+          "doesn't"
+        ],
+        "explanation": "I don't agree."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-06",
+        "type": "error",
+        "prompt": "In my opinion, this film are boring.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "Film – l. poj.: is."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-07",
+        "type": "tiles",
+        "prompt": "Wolę lato, bo jest ciepło.",
+        "answer": [
+          "I",
+          "prefer",
+          "summer",
+          "because",
+          "it",
+          "is",
+          "warm"
+        ],
+        "explanation": "Because + zdanie."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-08",
+        "type": "translate",
+        "prompt": "Zgadzam się z tobą.",
+        "answer": "I agree with you.",
+        "explanation": "Agree with."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "I agree with you.",
+        "distractors": [
+          "I am agree with you.",
+          "I agree to you."
+        ],
+        "explanation": "I agree with you."
+      },
+      {
+        "id": "a2-sent-opinions-reasons-3-10",
+        "type": "transform",
+        "prompt": "Zamień „because” na „that's why”, zacznij od „It was raining”.\nI took an umbrella because it was raining.",
+        "answer": "It was raining, that's why I took an umbrella.",
+        "accept": [
+          "It was raining. That's why I took an umbrella.",
+          "It was raining, so I took an umbrella.",
+          "It was raining and that's why I took an umbrella."
+        ],
+        "explanation": "That's why."
+      }
+    ]
+  }
+]

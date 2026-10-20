@@ -1,0 +1,326 @@
+[
+  {
+    "id": "a1-sent-time-expressions-1",
+    "topicId": "a1-sent-time-expressions",
+    "exercises": [
+      {
+        "id": "a1-sent-time-expressions-1-01",
+        "type": "match",
+        "prompt": "Połącz przyimek z określeniem czasu.",
+        "answer": [
+          "at|7 o'clock",
+          "on|Monday",
+          "in|July",
+          "every|day"
+        ],
+        "explanation": "Przyimek i określenie czasu."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-02",
+        "type": "cloze",
+        "prompt": "I get up ___ 6 o'clock.",
+        "answer": "at",
+        "explanation": "Godzina: at."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-03",
+        "type": "cloze",
+        "prompt": "We have English ___ Tuesdays.",
+        "answer": "on",
+        "explanation": "Dzień: on."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-04",
+        "type": "choice",
+        "prompt": "My birthday is ___ March.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "Miesiąc: in."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-05",
+        "type": "choice",
+        "prompt": "I play football ___.",
+        "answer": "every Saturday",
+        "distractors": [
+          "on every Saturday",
+          "in Saturday"
+        ],
+        "explanation": "Every bez przyimka."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-06",
+        "type": "error",
+        "prompt": "I visit my grandma in Sunday.",
+        "answer": [
+          "in",
+          "on"
+        ],
+        "explanation": "Dzień tygodnia: on."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-07",
+        "type": "tiles",
+        "prompt": "W weekendy chodzę do kina.",
+        "answer": [
+          "I",
+          "go",
+          "to",
+          "the",
+          "cinema",
+          "at",
+          "the",
+          "weekend"
+        ],
+        "explanation": "At the weekend (BrE)."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-08",
+        "type": "translate",
+        "prompt": "Wstaję o siódmej.",
+        "answer": "I get up at seven.",
+        "accept": [
+          "I get up at 7.",
+          "I get up at seven o'clock.",
+          "I get up at 7 o'clock."
+        ],
+        "explanation": "At + godzina."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "I go to work at 8.",
+        "distractors": [
+          "I go at 8 to work.",
+          "I at 8 go to work."
+        ],
+        "explanation": "Miejsce przed czasem."
+      },
+      {
+        "id": "a1-sent-time-expressions-1-10",
+        "type": "transform",
+        "prompt": "Wstaw „always” we właściwe miejsce.\nI have breakfast at 7.",
+        "answer": "I always have breakfast at 7.",
+        "accept": [
+          "I always have breakfast at seven."
+        ],
+        "explanation": "Always przed czasownikiem."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-time-expressions-2",
+    "topicId": "a1-sent-time-expressions",
+    "exercises": [
+      {
+        "id": "a1-sent-time-expressions-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "in the morning|rano",
+          "at night|w nocy",
+          "in the evening|wieczorem",
+          "in the afternoon|po południu"
+        ],
+        "explanation": "Pory dnia."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-02",
+        "type": "cloze",
+        "prompt": "I read ___ the evening.",
+        "answer": "in",
+        "explanation": "In the evening."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-03",
+        "type": "cloze",
+        "prompt": "I sleep ___ night.",
+        "answer": "at",
+        "explanation": "At night."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-04",
+        "type": "choice",
+        "prompt": "We go skiing ___ winter.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "Pora roku: in."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-05",
+        "type": "choice",
+        "prompt": "She was born ___ 2001.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "Rok: in."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-06",
+        "type": "error",
+        "prompt": "I see my friends on the evening.",
+        "answer": [
+          "on",
+          "in"
+        ],
+        "explanation": "In the evening."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-07",
+        "type": "tiles",
+        "prompt": "Jutro idę do lekarza.",
+        "answer": [
+          "I",
+          "am",
+          "going",
+          "to",
+          "the",
+          "doctor",
+          "tomorrow"
+        ],
+        "explanation": "Tomorrow na końcu."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-08",
+        "type": "translate",
+        "prompt": "Pracuję od poniedziałku do piątku.",
+        "answer": "I work from Monday to Friday.",
+        "explanation": "From... to..."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-09",
+        "type": "choice",
+        "prompt": "I ___ late for school.",
+        "answer": "am never",
+        "distractors": [
+          "never am",
+          "am be never"
+        ],
+        "explanation": "Po be: is/am never."
+      },
+      {
+        "id": "a1-sent-time-expressions-2-10",
+        "type": "transform",
+        "prompt": "Wstaw „usually” we właściwe miejsce.\nShe walks to work.",
+        "answer": "She usually walks to work.",
+        "explanation": "Usually przed czasownikiem."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-time-expressions-3",
+    "topicId": "a1-sent-time-expressions",
+    "exercises": [
+      {
+        "id": "a1-sent-time-expressions-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "yesterday|wczoraj",
+          "today|dziś",
+          "tomorrow|jutro",
+          "next week|w przyszłym tygodniu"
+        ],
+        "explanation": "Określenia czasu."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-02",
+        "type": "cloze",
+        "prompt": "The party is ___ Saturday evening.",
+        "answer": "on",
+        "explanation": "On + dzień (także z porą dnia)."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-03",
+        "type": "cloze",
+        "prompt": "I go to the gym three times a ___. (tydzień)",
+        "answer": "week",
+        "explanation": "Three times a week."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-04",
+        "type": "choice",
+        "prompt": "We have a holiday ___ August.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "Miesiąc: in."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-05",
+        "type": "choice",
+        "prompt": "I'm busy ___.",
+        "answer": "this evening",
+        "distractors": [
+          "in this evening",
+          "at this evening"
+        ],
+        "explanation": "This bez przyimka."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-06",
+        "type": "error",
+        "prompt": "I have English at Friday.",
+        "answer": [
+          "at",
+          "on"
+        ],
+        "explanation": "Dzień: on."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-07",
+        "type": "tiles",
+        "prompt": "Zawsze piję kawę rano.",
+        "answer": [
+          "I",
+          "always",
+          "drink",
+          "coffee",
+          "in",
+          "the",
+          "morning"
+        ],
+        "explanation": "Always przed czasownikiem; in the morning."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-08",
+        "type": "translate",
+        "prompt": "Do zobaczenia w poniedziałek.",
+        "answer": "See you on Monday.",
+        "explanation": "Dzień tygodnia: on."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "We meet every Friday.",
+        "distractors": [
+          "We meet on every Friday.",
+          "We meet in every Friday."
+        ],
+        "explanation": "Every bez przyimka."
+      },
+      {
+        "id": "a1-sent-time-expressions-3-10",
+        "type": "transform",
+        "prompt": "Przenieś określenie czasu na początek zdania.\nI go swimming on Sundays.",
+        "answer": "On Sundays I go swimming.",
+        "accept": [
+          "On Sundays, I go swimming."
+        ],
+        "explanation": "Czas na początku."
+      }
+    ]
+  }
+]

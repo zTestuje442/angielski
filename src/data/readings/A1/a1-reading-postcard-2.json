@@ -1,0 +1,100 @@
+{
+  "id": "a1-reading-postcard-2",
+  "topicId": "a1-reading-postcard",
+  "title": "Hello from Barcelona",
+  "text": "Hi Tom,\n\nI'm in Barcelona with my friend Kasia. It's great! The city is big and beautiful, and it is very hot – 32 degrees today! Our hotel is next to the beach, so we swim in the sea every day. Yesterday we visited a famous church, the Sagrada Família. It is very tall and very old. The food here is good, but it is expensive. I buy fruit in the market every morning. On Thursday we fly back to Poland.\n\nBye for now,\nMarek",
+  "exercises": [
+    {
+      "id": "a1-reading-postcard-2-01",
+      "type": "choice",
+      "prompt": "Marek is in Barcelona with Tom.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Jest z koleżanką Kasią."
+    },
+    {
+      "id": "a1-reading-postcard-2-02",
+      "type": "choice",
+      "prompt": "It is very hot in Barcelona.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„It is very hot – 32 degrees today!”"
+    },
+    {
+      "id": "a1-reading-postcard-2-03",
+      "type": "choice",
+      "prompt": "Marek likes the hotel room.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czy podoba mu się pokój."
+    },
+    {
+      "id": "a1-reading-postcard-2-04",
+      "type": "choice",
+      "prompt": "Where is the hotel?",
+      "answer": "next to the beach",
+      "distractors": [
+        "in the mountains",
+        "next to the church"
+      ],
+      "explanation": "„Our hotel is next to the beach.”"
+    },
+    {
+      "id": "a1-reading-postcard-2-05",
+      "type": "choice",
+      "prompt": "What does Marek say about the food?",
+      "answer": "It is good but expensive.",
+      "distractors": [
+        "It is bad.",
+        "It is cheap."
+      ],
+      "explanation": "„The food here is good, but it is expensive.”"
+    },
+    {
+      "id": "a1-reading-postcard-2-06",
+      "type": "choice",
+      "prompt": "What does Marek buy every morning?",
+      "answer": "fruit",
+      "distractors": [
+        "bread",
+        "fish"
+      ],
+      "explanation": "„I buy fruit in the market every morning.”"
+    },
+    {
+      "id": "a1-reading-postcard-2-07",
+      "type": "cloze",
+      "prompt": "Yesterday we visited a famous ___.",
+      "answer": "church",
+      "explanation": "Kościół: church."
+    },
+    {
+      "id": "a1-reading-postcard-2-08",
+      "type": "cloze",
+      "prompt": "On Thursday we ___ back to Poland.",
+      "answer": "fly",
+      "explanation": "Lecieć: fly."
+    },
+    {
+      "id": "a1-reading-postcard-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "beach|plaża",
+        "sea|morze",
+        "market|targ",
+        "famous|słynny"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

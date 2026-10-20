@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-story-1",
+  "topicId": "a2-reading-story",
+  "title": "The wrong train",
+  "text": "Last Friday, Piotr had an important job interview in Poznań. He got up very early, at five o'clock, and took a taxi to the station. He was tired, so he bought a big coffee and got on the train on platform 3. He sat down by the window and soon he fell asleep.\n\nWhen he woke up, he looked out of the window. Something was wrong. He could see the sea! He asked the woman next to him, \"Excuse me, where are we?\" She smiled. \"We're near Gdańsk.\" Piotr couldn't believe it. He was on the wrong train!\n\nHe got off at the next station and called the company. He explained everything and said sorry. The manager, Mrs Nowak, laughed. \"Don't worry,\" she said. \"We can do the interview online.\" So at eleven o'clock Piotr sat in a small café in Gdynia, opened his laptop and did his interview there.\n\nTwo days later, Mrs Nowak called him again. Piotr got the job! Now he always checks the platform twice.",
+  "exercises": [
+    {
+      "id": "a2-reading-story-1-01",
+      "type": "choice",
+      "prompt": "Piotr went to the station by taxi.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...took a taxi to the station.”"
+    },
+    {
+      "id": "a2-reading-story-1-02",
+      "type": "choice",
+      "prompt": "Piotr's interview was in Gdańsk.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Rozmowa miała być w Poznaniu."
+    },
+    {
+      "id": "a2-reading-story-1-03",
+      "type": "choice",
+      "prompt": "Piotr drank tea on the train.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Kupił kawę."
+    },
+    {
+      "id": "a2-reading-story-1-04",
+      "type": "choice",
+      "prompt": "The woman next to Piotr worked for the company.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "a2-reading-story-1-05",
+      "type": "choice",
+      "prompt": "Why did Piotr fall asleep?",
+      "answer": "He was tired.",
+      "distractors": [
+        "The train was slow.",
+        "The coffee was bad."
+      ],
+      "explanation": "„He was tired...” – wstał o 5."
+    },
+    {
+      "id": "a2-reading-story-1-06",
+      "type": "choice",
+      "prompt": "How did Piotr do the interview?",
+      "answer": "online, in a café",
+      "distractors": [
+        "in Poznań",
+        "on the train"
+      ],
+      "explanation": "„...opened his laptop and did his interview there.”"
+    },
+    {
+      "id": "a2-reading-story-1-07",
+      "type": "choice",
+      "prompt": "How did the story end?",
+      "answer": "Piotr got the job.",
+      "distractors": [
+        "Piotr lost his laptop.",
+        "Piotr went back home."
+      ],
+      "explanation": "„Piotr got the job!”"
+    },
+    {
+      "id": "a2-reading-story-1-08",
+      "type": "cloze",
+      "prompt": "He sat down by the window and soon he fell ___.",
+      "answer": "asleep",
+      "explanation": "Zasnąć: fall asleep."
+    },
+    {
+      "id": "a2-reading-story-1-09",
+      "type": "cloze",
+      "prompt": "Now he always checks the ___ twice.",
+      "answer": "platform",
+      "explanation": "Peron: platform."
+    },
+    {
+      "id": "a2-reading-story-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "interview|rozmowa kwalifikacyjna",
+        "fall asleep|zasnąć",
+        "wrong|niewłaściwy",
+        "twice|dwa razy"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

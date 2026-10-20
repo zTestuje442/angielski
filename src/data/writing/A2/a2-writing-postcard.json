@@ -1,0 +1,17 @@
+{
+  "topicId": "a2-writing-postcard",
+  "task": "Jesteś na wakacjach nad morzem w Hiszpanii. Napisz **pocztówkę** do koleżanki z kursu angielskiego, **Emmy**:\n\n- napisz, gdzie jesteś i z kim,\n- opisz pogodę i hotel,\n- napisz, co robisz albo co już zrobiłeś,\n- napisz, kiedy wracasz.",
+  "words": [
+    25,
+    50
+  ],
+  "model": "Hi Emma,\n\nGreetings from Malaga! I'm here with my sister for ten days. The weather is hot and sunny, and our hotel is right next to the beach. We swim every morning, and yesterday we visited an old castle. The food is delicious! I'm back on Sunday.\n\nLove,\nOla",
+  "checklist": [
+    "Zaczynam od powitania (Hi Emma,) i kończę podpisem (Love, ...).",
+    "Piszę, gdzie jestem i z kim.",
+    "Opisuję pogodę i hotel.",
+    "Piszę, co robię (Present Simple / Continuous) i co już zrobiłem (Past Simple).",
+    "Piszę, kiedy wracam.",
+    "Tekst ma 25–50 słów."
+  ]
+}

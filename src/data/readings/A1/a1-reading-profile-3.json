@@ -1,0 +1,100 @@
+{
+  "id": "a1-reading-profile-3",
+  "topicId": "a1-reading-profile",
+  "title": "About me: Daniel",
+  "text": "Hi! I'm Daniel and I'm 16. I'm a student at a secondary school in Gdynia. I live with my mum, my dad and my two brothers, Kuba and Filip. Kuba is 12 and Filip is 19. Filip doesn't live at home – he studies in Gdańsk. I like sport very much. I play basketball three times a week, and I swim at the weekend. My favourite subjects at school are maths and PE. I don't like history! I have got a dog, Rex. He is big and brown, and he loves the beach.",
+  "exercises": [
+    {
+      "id": "a1-reading-profile-3-01",
+      "type": "choice",
+      "prompt": "Daniel has got two brothers.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...my two brothers, Kuba and Filip.”"
+    },
+    {
+      "id": "a1-reading-profile-3-02",
+      "type": "choice",
+      "prompt": "Filip lives at home.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Filip doesn't live at home.”"
+    },
+    {
+      "id": "a1-reading-profile-3-03",
+      "type": "choice",
+      "prompt": "Daniel is a good swimmer.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czy dobrze pływa."
+    },
+    {
+      "id": "a1-reading-profile-3-04",
+      "type": "choice",
+      "prompt": "How old is Kuba?",
+      "answer": "12",
+      "distractors": [
+        "16",
+        "19"
+      ],
+      "explanation": "„Kuba is 12...”"
+    },
+    {
+      "id": "a1-reading-profile-3-05",
+      "type": "choice",
+      "prompt": "How often does Daniel play basketball?",
+      "answer": "three times a week",
+      "distractors": [
+        "every day",
+        "at the weekend"
+      ],
+      "explanation": "„...three times a week...”"
+    },
+    {
+      "id": "a1-reading-profile-3-06",
+      "type": "choice",
+      "prompt": "Which subject doesn't Daniel like?",
+      "answer": "history",
+      "distractors": [
+        "maths",
+        "PE"
+      ],
+      "explanation": "„I don't like history!”"
+    },
+    {
+      "id": "a1-reading-profile-3-07",
+      "type": "cloze",
+      "prompt": "I'm a student at a secondary ___.",
+      "answer": "school",
+      "explanation": "Szkoła średnia: secondary school."
+    },
+    {
+      "id": "a1-reading-profile-3-08",
+      "type": "cloze",
+      "prompt": "Rex is big and ___.",
+      "answer": "brown",
+      "explanation": "Brązowy: brown."
+    },
+    {
+      "id": "a1-reading-profile-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "subject|przedmiot szkolny",
+        "three times|trzy razy",
+        "studies|studiuje",
+        "beach|plaża"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-advert-2",
+  "topicId": "a2-reading-advert",
+  "title": "Flat for rent",
+  "text": "FLAT FOR RENT – Kraków, Podgórze\n\nA sunny two-room flat on the third floor of a new building (2019). There is a lift.\n\nThe flat has got a living room with a kitchen, one bedroom, a bathroom with a shower and a small balcony. It is 42 square metres. The flat is furnished: there is a sofa, a bed, a wardrobe, a table and four chairs. The kitchen has got a fridge, a cooker and a dishwasher. There is no washing machine, but there is a laundry in the basement.\n\nThe flat is five minutes from a tram stop and ten minutes from the river. There are shops and a park nearby.\n\nRent: 2,800 zł a month + bills (about 400 zł).\nDeposit: one month's rent.\nNo pets. No smoking.\nAvailable from 1 October.\n\nPlease write to Marta: marta.flat@mail.pl",
+  "exercises": [
+    {
+      "id": "a2-reading-advert-2-01",
+      "type": "choice",
+      "prompt": "The building has got a lift.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„There is a lift.”"
+    },
+    {
+      "id": "a2-reading-advert-2-02",
+      "type": "choice",
+      "prompt": "You can live there with a cat.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„No pets.”"
+    },
+    {
+      "id": "a2-reading-advert-2-03",
+      "type": "choice",
+      "prompt": "The flat has got a washing machine.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„There is no washing machine...”"
+    },
+    {
+      "id": "a2-reading-advert-2-04",
+      "type": "choice",
+      "prompt": "The neighbours are quiet.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Ogłoszenie nic o tym nie mówi."
+    },
+    {
+      "id": "a2-reading-advert-2-05",
+      "type": "choice",
+      "prompt": "How many bedrooms are there?",
+      "answer": "one",
+      "distractors": [
+        "two",
+        "three"
+      ],
+      "explanation": "„...one bedroom...”"
+    },
+    {
+      "id": "a2-reading-advert-2-06",
+      "type": "choice",
+      "prompt": "How much do you pay every month with bills?",
+      "answer": "about 3,200 zł",
+      "distractors": [
+        "2,800 zł",
+        "about 2,400 zł"
+      ],
+      "explanation": "2,800 + ok. 400 zł."
+    },
+    {
+      "id": "a2-reading-advert-2-07",
+      "type": "choice",
+      "prompt": "When can you move in?",
+      "answer": "from 1 October",
+      "distractors": [
+        "now",
+        "from 1 September"
+      ],
+      "explanation": "„Available from 1 October.”"
+    },
+    {
+      "id": "a2-reading-advert-2-08",
+      "type": "cloze",
+      "prompt": "The flat is ___: there is a sofa, a bed and a wardrobe. (umeblowane)",
+      "answer": "furnished",
+      "explanation": "Umeblowany: furnished."
+    },
+    {
+      "id": "a2-reading-advert-2-09",
+      "type": "cloze",
+      "prompt": "There is a laundry in the ___.",
+      "answer": "basement",
+      "explanation": "Piwnica: basement."
+    },
+    {
+      "id": "a2-reading-advert-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "rent|czynsz, wynajem",
+        "bills|rachunki",
+        "deposit|kaucja",
+        "nearby|w pobliżu"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

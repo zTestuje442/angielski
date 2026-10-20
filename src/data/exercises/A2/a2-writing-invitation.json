@@ -1,0 +1,335 @@
+[
+  {
+    "id": "a2-writing-invitation-1",
+    "topicId": "a2-writing-invitation",
+    "exercises": [
+      {
+        "id": "a2-writing-invitation-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Would you like to come?|Czy chciałbyś przyjść?",
+          "I'd love to!|Bardzo chętnie!",
+          "I'm afraid I can't.|Obawiam się, że nie mogę.",
+          "Let me know.|Daj znać."
+        ],
+        "explanation": "Zaproszenia i odpowiedzi."
+      },
+      {
+        "id": "a2-writing-invitation-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is an invitation?",
+        "answer": "Would you like to come to my party?",
+        "distractors": [
+          "I went to a party.",
+          "The party was great."
+        ],
+        "explanation": "Would you like to come...?"
+      },
+      {
+        "id": "a2-writing-invitation-1-03",
+        "type": "choice",
+        "prompt": "Thanks for the invitation! I'd love ___ come.",
+        "answer": "to",
+        "distractors": [
+          "for",
+          "-"
+        ],
+        "explanation": "I'd love to."
+      },
+      {
+        "id": "a2-writing-invitation-1-04",
+        "type": "cloze",
+        "prompt": "The party ___ at 8 p.m. (zaczyna się)",
+        "answer": "starts",
+        "explanation": "Start → starts."
+      },
+      {
+        "id": "a2-writing-invitation-1-05",
+        "type": "cloze",
+        "prompt": "Please let me ___ if you can come.",
+        "answer": "know",
+        "explanation": "Let me know."
+      },
+      {
+        "id": "a2-writing-invitation-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż zaproszenie.",
+        "answer": [
+          "Hi Ania,",
+          "I'm having a party on Saturday.",
+          "It starts at 7 p.m. at my house.",
+          "Would you like to come?",
+          "Let me know!",
+          "Ola"
+        ],
+        "explanation": "Powitanie, co, kiedy/gdzie, zaproszenie, prośba o odpowiedź."
+      },
+      {
+        "id": "a2-writing-invitation-1-07",
+        "type": "error",
+        "prompt": "Would you like coming to my birthday party?",
+        "answer": [
+          "coming",
+          "come"
+        ],
+        "explanation": "Would you like to + forma podstawowa."
+      },
+      {
+        "id": "a2-writing-invitation-1-08",
+        "type": "translate",
+        "prompt": "Dziękuję za zaproszenie.",
+        "answer": "Thank you for the invitation.",
+        "accept": [
+          "Thanks for the invitation.",
+          "Thank you for inviting me.",
+          "Thanks for inviting me."
+        ],
+        "explanation": "Thank you for..."
+      },
+      {
+        "id": "a2-writing-invitation-1-09",
+        "type": "transform",
+        "prompt": "Zamień na zaproszenie z „Would you like”.\nCome to the cinema with me.",
+        "answer": "Would you like to come to the cinema with me?",
+        "explanation": "Would you like to...?"
+      },
+      {
+        "id": "a2-writing-invitation-1-10",
+        "type": "choice",
+        "prompt": "What must an invitation say?",
+        "answer": "when and where",
+        "distractors": [
+          "what you ate yesterday",
+          "your favourite colour"
+        ],
+        "explanation": "Kiedy i gdzie."
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-invitation-2",
+    "topicId": "a2-writing-invitation",
+    "exercises": [
+      {
+        "id": "a2-writing-invitation-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "barbecue|grill",
+          "bring|przynieść",
+          "invitation|zaproszenie",
+          "have a great time|baw się dobrze"
+        ],
+        "explanation": "Słowa z zaproszeń."
+      },
+      {
+        "id": "a2-writing-invitation-2-02",
+        "type": "choice",
+        "prompt": "Which sentence refuses politely?",
+        "answer": "I'm sorry, but I can't come.",
+        "distractors": [
+          "No.",
+          "I don't want to come."
+        ],
+        "explanation": "Grzeczna odmowa."
+      },
+      {
+        "id": "a2-writing-invitation-2-03",
+        "type": "choice",
+        "prompt": "Can I ___ anything? Drinks or a salad?",
+        "answer": "bring",
+        "distractors": [
+          "take",
+          "carry on"
+        ],
+        "explanation": "Bring – przynieść."
+      },
+      {
+        "id": "a2-writing-invitation-2-04",
+        "type": "cloze",
+        "prompt": "I'm sorry, I can't come ___ I'm ill. (bo)",
+        "answer": "because",
+        "explanation": "Powód: because."
+      },
+      {
+        "id": "a2-writing-invitation-2-05",
+        "type": "cloze",
+        "prompt": "Have a great ___! (bawcie się dobrze)",
+        "answer": "time",
+        "explanation": "Have a great time!"
+      },
+      {
+        "id": "a2-writing-invitation-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż odmowę.",
+        "answer": [
+          "Hi Tom,",
+          "Thanks for inviting me.",
+          "I'm sorry, but I can't come.",
+          "I'm visiting my grandparents that weekend.",
+          "Have a great time!",
+          "Kasia"
+        ],
+        "explanation": "Podziękowanie, przeprosiny, powód, życzenia."
+      },
+      {
+        "id": "a2-writing-invitation-2-07",
+        "type": "error",
+        "prompt": "Thank you for invite me.",
+        "answer": [
+          "invite",
+          "inviting"
+        ],
+        "explanation": "Thank you for + -ing."
+      },
+      {
+        "id": "a2-writing-invitation-2-08",
+        "type": "translate",
+        "prompt": "Bardzo chętnie przyjdę.",
+        "answer": "I would love to come.",
+        "accept": [
+          "I'd love to come.",
+          "I'd love to come!",
+          "I would love to come!"
+        ],
+        "explanation": "I'd love to come."
+      },
+      {
+        "id": "a2-writing-invitation-2-09",
+        "type": "transform",
+        "prompt": "Zmień na grzeczną odmowę, zacznij od „I'm afraid”.\nI can't come.",
+        "answer": "I'm afraid I can't come.",
+        "accept": [
+          "I am afraid I can't come.",
+          "I'm afraid I cannot come.",
+          "I am afraid I cannot come."
+        ],
+        "explanation": "I'm afraid I can't..."
+      },
+      {
+        "id": "a2-writing-invitation-2-10",
+        "type": "choice",
+        "prompt": "Which is a good reply to an invitation?",
+        "answer": "Great idea! What time?",
+        "distractors": [
+          "Dear Sir or Madam,",
+          "Yours faithfully,"
+        ],
+        "explanation": "Odpowiedź potoczna."
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-invitation-3",
+    "topicId": "a2-writing-invitation",
+    "exercises": [
+      {
+        "id": "a2-writing-invitation-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Let's meet at...|Spotkajmy się o...",
+          "Can I bring anything?|Czy mam coś przynieść?",
+          "See you there!|Do zobaczenia na miejscu!",
+          "Thanks for asking.|Dzięki, że pytasz."
+        ],
+        "explanation": "Zwroty."
+      },
+      {
+        "id": "a2-writing-invitation-3-02",
+        "type": "choice",
+        "prompt": "I'm having a party ___ Friday.",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "Dzień: on."
+      },
+      {
+        "id": "a2-writing-invitation-3-03",
+        "type": "choice",
+        "prompt": "It's ___ my flat, 10 Long Street.",
+        "answer": "at",
+        "distractors": [
+          "on",
+          "to"
+        ],
+        "explanation": "At my flat."
+      },
+      {
+        "id": "a2-writing-invitation-3-04",
+        "type": "cloze",
+        "prompt": "Would you like ___ come?",
+        "answer": "to",
+        "explanation": "Would you like to..."
+      },
+      {
+        "id": "a2-writing-invitation-3-05",
+        "type": "cloze",
+        "prompt": "___ meet at the station at 6. (spotkajmy się)",
+        "answer": "Let's",
+        "accept": [
+          "Let us"
+        ],
+        "explanation": "Let's meet."
+      },
+      {
+        "id": "a2-writing-invitation-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zaproszenie na grilla.",
+        "answer": [
+          "Hi everyone,",
+          "We're having a barbecue in the garden on Sunday.",
+          "It starts at 3 p.m.",
+          "Please bring something to drink.",
+          "See you there!",
+          "Marek"
+        ],
+        "explanation": "Powitanie, co, kiedy, prośba, zakończenie."
+      },
+      {
+        "id": "a2-writing-invitation-3-07",
+        "type": "error",
+        "prompt": "Let's meeting at the café at five.",
+        "answer": [
+          "meeting",
+          "meet"
+        ],
+        "explanation": "Let's + forma podstawowa."
+      },
+      {
+        "id": "a2-writing-invitation-3-08",
+        "type": "translate",
+        "prompt": "Czy mogę przyjść z przyjacielem?",
+        "answer": "Can I come with a friend?",
+        "accept": [
+          "Can I bring a friend?",
+          "Could I come with a friend?",
+          "Could I bring a friend?",
+          "Can I come with my friend?"
+        ],
+        "explanation": "Can I...?"
+      },
+      {
+        "id": "a2-writing-invitation-3-09",
+        "type": "transform",
+        "prompt": "Zamień na propozycję z „Let's”.\nWe can go to the park.",
+        "answer": "Let's go to the park.",
+        "explanation": "Let's + czasownik."
+      },
+      {
+        "id": "a2-writing-invitation-3-10",
+        "type": "choice",
+        "prompt": "Which detail is missing? \"Hi Ola, come to my party! Love, Kasia.\"",
+        "answer": "the day, time and place",
+        "distractors": [
+          "the greeting",
+          "the name"
+        ],
+        "explanation": "Brakuje: kiedy i gdzie."
+      }
+    ]
+  }
+]

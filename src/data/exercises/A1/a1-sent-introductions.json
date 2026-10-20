@@ -1,0 +1,327 @@
+[
+  {
+    "id": "a1-sent-introductions-1",
+    "topicId": "a1-sent-introductions",
+    "exercises": [
+      {
+        "id": "a1-sent-introductions-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "This is my friend.|To jest mój przyjaciel.",
+          "Nice to meet you.|Miło cię poznać.",
+          "See you later!|Do zobaczenia!",
+          "And you?|A ty?"
+        ],
+        "explanation": "Zwroty przy poznawaniu."
+      },
+      {
+        "id": "a1-sent-introductions-1-02",
+        "type": "cloze",
+        "prompt": "___ is my sister, Ola. (przedstawiając)",
+        "answer": "This",
+        "explanation": "Przedstawianie: This is..."
+      },
+      {
+        "id": "a1-sent-introductions-1-03",
+        "type": "cloze",
+        "prompt": "How are you? – Fine, thanks. And ___?",
+        "answer": "you",
+        "explanation": "And you?"
+      },
+      {
+        "id": "a1-sent-introductions-1-04",
+        "type": "choice",
+        "prompt": "What do you ___? – I'm a nurse.",
+        "answer": "do",
+        "distractors": [
+          "make",
+          "work"
+        ],
+        "explanation": "What do you do?"
+      },
+      {
+        "id": "a1-sent-introductions-1-05",
+        "type": "choice",
+        "prompt": "I ___ in an office.",
+        "answer": "work",
+        "distractors": [
+          "works",
+          "am work"
+        ],
+        "explanation": "I work."
+      },
+      {
+        "id": "a1-sent-introductions-1-06",
+        "type": "error",
+        "prompt": "Hello, my name are Piotr.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "My name is."
+      },
+      {
+        "id": "a1-sent-introductions-1-07",
+        "type": "tiles",
+        "prompt": "Pracuję jako nauczyciel.",
+        "answer": [
+          "I",
+          "work",
+          "as",
+          "a",
+          "teacher"
+        ],
+        "explanation": "Work as + zawód."
+      },
+      {
+        "id": "a1-sent-introductions-1-08",
+        "type": "translate",
+        "prompt": "To jest mój kolega, Adam.",
+        "answer": "This is my friend, Adam.",
+        "accept": [
+          "This is my colleague, Adam.",
+          "This is my friend Adam.",
+          "This is my colleague Adam."
+        ],
+        "explanation": "This is..."
+      },
+      {
+        "id": "a1-sent-introductions-1-09",
+        "type": "choice",
+        "prompt": "Which is a good reply to \"Nice to meet you\"?",
+        "answer": "Nice to meet you too.",
+        "distractors": [
+          "Yes, I am.",
+          "I'm fine."
+        ],
+        "explanation": "Nice to meet you too."
+      },
+      {
+        "id": "a1-sent-introductions-1-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o to, co ktoś lubi robić. Zacznij od „What”.\nI like reading.",
+        "answer": "What do you like doing?",
+        "accept": [
+          "What do you like to do?"
+        ],
+        "explanation": "What do you like doing?"
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-introductions-2",
+    "topicId": "a1-sent-introductions",
+    "exercises": [
+      {
+        "id": "a1-sent-introductions-2-01",
+        "type": "match",
+        "prompt": "Połącz pytania z tłumaczeniem.",
+        "answer": [
+          "What's your name?|Jak masz na imię?",
+          "Where are you from?|Skąd jesteś?",
+          "What do you do?|Czym się zajmujesz?",
+          "How are you?|Jak się masz?"
+        ],
+        "explanation": "Pytania przy poznawaniu."
+      },
+      {
+        "id": "a1-sent-introductions-2-02",
+        "type": "cloze",
+        "prompt": "I'm ___ Gdańsk. (z)",
+        "answer": "from",
+        "explanation": "Be from."
+      },
+      {
+        "id": "a1-sent-introductions-2-03",
+        "type": "cloze",
+        "prompt": "I've ___ one brother. (mam)",
+        "answer": "got",
+        "explanation": "Have got."
+      },
+      {
+        "id": "a1-sent-introductions-2-04",
+        "type": "choice",
+        "prompt": "She ___ reading.",
+        "answer": "likes",
+        "distractors": [
+          "like",
+          "is like"
+        ],
+        "explanation": "She likes."
+      },
+      {
+        "id": "a1-sent-introductions-2-05",
+        "type": "choice",
+        "prompt": "Have a nice ___!",
+        "answer": "day",
+        "distractors": [
+          "time day",
+          "days"
+        ],
+        "explanation": "Have a nice day!"
+      },
+      {
+        "id": "a1-sent-introductions-2-06",
+        "type": "error",
+        "prompt": "She work in a hospital.",
+        "answer": [
+          "work",
+          "works"
+        ],
+        "explanation": "She – works."
+      },
+      {
+        "id": "a1-sent-introductions-2-07",
+        "type": "tiles",
+        "prompt": "Mam jedną siostrę.",
+        "answer": [
+          "I",
+          "have",
+          "got",
+          "one",
+          "sister"
+        ],
+        "explanation": "Have got."
+      },
+      {
+        "id": "a1-sent-introductions-2-08",
+        "type": "translate",
+        "prompt": "Skąd jesteś?",
+        "answer": "Where are you from?",
+        "explanation": "Where are you from?"
+      },
+      {
+        "id": "a1-sent-introductions-2-09",
+        "type": "choice",
+        "prompt": "Which question is about family?",
+        "answer": "Have you got any brothers or sisters?",
+        "distractors": [
+          "What do you do?",
+          "Where are you from?"
+        ],
+        "explanation": "Rodzeństwo: brothers or sisters."
+      },
+      {
+        "id": "a1-sent-introductions-2-10",
+        "type": "transform",
+        "prompt": "Zamień na zdanie o Annie, zacznij od „She”.\nI live in Kraków and I work in a shop.",
+        "answer": "She lives in Kraków and she works in a shop.",
+        "accept": [
+          "She lives in Kraków and works in a shop."
+        ],
+        "explanation": "She – lives, works."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-introductions-3",
+    "topicId": "a1-sent-introductions",
+    "exercises": [
+      {
+        "id": "a1-sent-introductions-3-01",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I'm a student.|Jestem studentem.",
+          "I like swimming.|Lubię pływać.",
+          "I've got a cat.|Mam kota.",
+          "I live in Poznań.|Mieszkam w Poznaniu."
+        ],
+        "explanation": "Mówienie o sobie."
+      },
+      {
+        "id": "a1-sent-introductions-3-02",
+        "type": "cloze",
+        "prompt": "My ___ is Kowalski. (nazwisko)",
+        "answer": "surname",
+        "accept": [
+          "last name",
+          "family name"
+        ],
+        "explanation": "Surname."
+      },
+      {
+        "id": "a1-sent-introductions-3-03",
+        "type": "cloze",
+        "prompt": "I like ___ music. (słuchać)",
+        "answer": "listening to",
+        "explanation": "Like + -ing: listening to."
+      },
+      {
+        "id": "a1-sent-introductions-3-04",
+        "type": "choice",
+        "prompt": "Ben is ___ engineer.",
+        "answer": "an",
+        "distractors": [
+          "a",
+          "the"
+        ],
+        "explanation": "An przed samogłoską."
+      },
+      {
+        "id": "a1-sent-introductions-3-05",
+        "type": "choice",
+        "prompt": "___ you like sport?",
+        "answer": "Do",
+        "distractors": [
+          "Are",
+          "Does"
+        ],
+        "explanation": "Do you like...?"
+      },
+      {
+        "id": "a1-sent-introductions-3-06",
+        "type": "error",
+        "prompt": "I lives in London.",
+        "answer": [
+          "lives",
+          "live"
+        ],
+        "explanation": "I – live."
+      },
+      {
+        "id": "a1-sent-introductions-3-07",
+        "type": "tiles",
+        "prompt": "Miło cię poznać Kasiu.",
+        "answer": [
+          "Nice",
+          "to",
+          "meet",
+          "you",
+          "Kasia"
+        ],
+        "explanation": "Nice to meet you."
+      },
+      {
+        "id": "a1-sent-introductions-3-08",
+        "type": "translate",
+        "prompt": "Lubię gotować i czytać.",
+        "answer": "I like cooking and reading.",
+        "accept": [
+          "I like to cook and read.",
+          "I like cooking and I like reading."
+        ],
+        "explanation": "Like + -ing."
+      },
+      {
+        "id": "a1-sent-introductions-3-09",
+        "type": "choice",
+        "prompt": "How do you introduce a friend?",
+        "answer": "This is Tom.",
+        "distractors": [
+          "He is Tom.",
+          "It is Tom."
+        ],
+        "explanation": "This is..."
+      },
+      {
+        "id": "a1-sent-introductions-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou have got a car.",
+        "answer": "Have you got a car?",
+        "explanation": "Have you got...?"
+      }
+    ]
+  }
+]

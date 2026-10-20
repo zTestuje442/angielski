@@ -1,0 +1,100 @@
+{
+  "id": "a1-reading-profile-2",
+  "topicId": "a1-reading-profile",
+  "title": "New in the team: Ola",
+  "text": "Hello everyone! My name is Ola Wiśniewska and I'm the new receptionist. I'm 27 and I come from Lublin, but now I live in Warsaw. I have got a flat near the office, so I walk to work. I start work at 8 o'clock and I finish at 4. I'm not married, but I have got a cat called Mruczek. I love music and I sing in a choir on Thursday evenings. At the weekend I often go to the cinema with my friends. My favourite colour is green, and I don't like cold weather!",
+  "exercises": [
+    {
+      "id": "a1-reading-profile-2-01",
+      "type": "choice",
+      "prompt": "Ola lives in Lublin now.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...now I live in Warsaw.”"
+    },
+    {
+      "id": "a1-reading-profile-2-02",
+      "type": "choice",
+      "prompt": "Ola walks to work.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...so I walk to work.”"
+    },
+    {
+      "id": "a1-reading-profile-2-03",
+      "type": "choice",
+      "prompt": "Ola has got a brother.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie wspomina o rodzeństwie."
+    },
+    {
+      "id": "a1-reading-profile-2-04",
+      "type": "choice",
+      "prompt": "What is Ola's job?",
+      "answer": "receptionist",
+      "distractors": [
+        "teacher",
+        "singer"
+      ],
+      "explanation": "„I'm the new receptionist.”"
+    },
+    {
+      "id": "a1-reading-profile-2-05",
+      "type": "choice",
+      "prompt": "When does Ola finish work?",
+      "answer": "at 4",
+      "distractors": [
+        "at 8",
+        "at 6"
+      ],
+      "explanation": "„...I finish at 4.”"
+    },
+    {
+      "id": "a1-reading-profile-2-06",
+      "type": "choice",
+      "prompt": "What does Ola do on Thursday evenings?",
+      "answer": "She sings in a choir.",
+      "distractors": [
+        "She goes to the cinema.",
+        "She plays with her cat."
+      ],
+      "explanation": "„I sing in a choir on Thursday evenings.”"
+    },
+    {
+      "id": "a1-reading-profile-2-07",
+      "type": "cloze",
+      "prompt": "I have got a ___ called Mruczek.",
+      "answer": "cat",
+      "explanation": "Kot: cat."
+    },
+    {
+      "id": "a1-reading-profile-2-08",
+      "type": "cloze",
+      "prompt": "My favourite colour is ___.",
+      "answer": "green",
+      "explanation": "Zielony: green."
+    },
+    {
+      "id": "a1-reading-profile-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "flat|mieszkanie",
+        "near|blisko",
+        "choir|chór",
+        "married|żonaty, zamężna"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

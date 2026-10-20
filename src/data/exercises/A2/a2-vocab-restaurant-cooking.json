@@ -1,0 +1,340 @@
+[
+  {
+    "id": "a2-vocab-restaurant-cooking-1",
+    "topicId": "a2-vocab-restaurant-cooking",
+    "exercises": [
+      {
+        "id": "a2-vocab-restaurant-cooking-1-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "boil|gotować",
+          "fry|smażyć",
+          "bake|piec (ciasto)",
+          "peel|obierać"
+        ],
+        "explanation": "Gotowanie."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-02",
+        "type": "cloze",
+        "prompt": "Can we have the ___, please? We want to pay. (rachunek)",
+        "answer": "bill",
+        "accept": [
+          "check"
+        ],
+        "explanation": "Rachunek: bill."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-03",
+        "type": "cloze",
+        "prompt": "I'd ___ the chicken soup, please.",
+        "answer": "like",
+        "explanation": "I'd like..."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-04",
+        "type": "choice",
+        "prompt": "Are you ready to ___?",
+        "answer": "order",
+        "distractors": [
+          "command",
+          "ask"
+        ],
+        "explanation": "Zamawiać: order."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-05",
+        "type": "choice",
+        "prompt": "You ___ a cake in the oven.",
+        "answer": "bake",
+        "distractors": [
+          "fry",
+          "boil"
+        ],
+        "explanation": "Piec ciasto: bake."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-06",
+        "type": "error",
+        "prompt": "The waiter brought us the menu card and the account.",
+        "answer": [
+          "account",
+          "bill"
+        ],
+        "explanation": "Rachunek w restauracji: bill."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-07",
+        "type": "tiles",
+        "prompt": "Poproszę stolik dla dwóch osób.",
+        "answer": [
+          "A",
+          "table",
+          "for",
+          "two",
+          "please"
+        ],
+        "explanation": "A table for two."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-08",
+        "type": "translate",
+        "prompt": "Ta zupa jest za słona.",
+        "answer": "This soup is too salty.",
+        "accept": [
+          "The soup is too salty."
+        ],
+        "explanation": "Too + przymiotnik."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-09",
+        "type": "choice",
+        "prompt": "Which is a dessert?",
+        "answer": "ice cream",
+        "distractors": [
+          "soup",
+          "steak"
+        ],
+        "explanation": "Deser: ice cream."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-1-10",
+        "type": "transform",
+        "prompt": "Zamień na grzeczną prośbę z „Can I have”.\nGive me some water.",
+        "answer": "Can I have some water, please?",
+        "accept": [
+          "Can I have some water please?",
+          "Can I have some water?"
+        ],
+        "explanation": "Can I have..., please?"
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-restaurant-cooking-2",
+    "topicId": "a2-vocab-restaurant-cooking",
+    "exercises": [
+      {
+        "id": "a2-vocab-restaurant-cooking-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "starter|przystawka",
+          "main course|danie główne",
+          "tip|napiwek",
+          "waiter|kelner"
+        ],
+        "explanation": "W restauracji."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-02",
+        "type": "cloze",
+        "prompt": "First ___ the onions into small pieces. (posiekaj)",
+        "answer": "chop",
+        "accept": [
+          "cut"
+        ],
+        "explanation": "Siekać: chop."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-03",
+        "type": "cloze",
+        "prompt": "This curry is very ___. I need water! (ostre)",
+        "answer": "spicy",
+        "accept": [
+          "hot"
+        ],
+        "explanation": "Ostry: spicy."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-04",
+        "type": "choice",
+        "prompt": "Put the potatoes in a ___ with water.",
+        "answer": "pot",
+        "distractors": [
+          "pan",
+          "oven"
+        ],
+        "explanation": "Garnek: pot."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-05",
+        "type": "choice",
+        "prompt": "What would you like to ___? – Orange juice, please.",
+        "answer": "drink",
+        "distractors": [
+          "eat",
+          "order up"
+        ],
+        "explanation": "What would you like to drink?"
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-06",
+        "type": "error",
+        "prompt": "The waitress bringed us the soup.",
+        "answer": [
+          "bringed",
+          "brought"
+        ],
+        "explanation": "Bring – brought."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-07",
+        "type": "tiles",
+        "prompt": "Ten tort jest pyszny.",
+        "answer": [
+          "This",
+          "cake",
+          "is",
+          "delicious"
+        ],
+        "explanation": "Pyszny: delicious."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-08",
+        "type": "translate",
+        "prompt": "Czy mogę zobaczyć menu?",
+        "answer": "Can I see the menu, please?",
+        "accept": [
+          "Can I see the menu?",
+          "Could I see the menu, please?",
+          "Could I see the menu?",
+          "May I see the menu?"
+        ],
+        "explanation": "Can I see...?"
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-09",
+        "type": "choice",
+        "prompt": "You need a ___ to fry eggs.",
+        "answer": "pan",
+        "distractors": [
+          "pot",
+          "plate"
+        ],
+        "explanation": "Patelnia: pan."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „would you like”.\nI want some tea.",
+        "answer": "Would you like some tea?",
+        "explanation": "Would you like...?"
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-restaurant-cooking-3",
+    "topicId": "a2-vocab-restaurant-cooking",
+    "exercises": [
+      {
+        "id": "a2-vocab-restaurant-cooking-3-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "sweet|słodki",
+          "salty|słony",
+          "sour|kwaśny",
+          "spicy|ostry"
+        ],
+        "explanation": "Smaki."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-02",
+        "type": "cloze",
+        "prompt": "Add some salt and ___ everything together. (wymieszaj)",
+        "answer": "mix",
+        "accept": [
+          "stir"
+        ],
+        "explanation": "Mieszać: mix."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-03",
+        "type": "cloze",
+        "prompt": "We left a ten percent ___ for the waiter. (napiwek)",
+        "answer": "tip",
+        "explanation": "Napiwek: tip."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-04",
+        "type": "choice",
+        "prompt": "I need the ___ for this cake. How much sugar do I add?",
+        "answer": "recipe",
+        "distractors": [
+          "receipt",
+          "prescription"
+        ],
+        "explanation": "Przepis: recipe."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-05",
+        "type": "choice",
+        "prompt": "We ___ the chicken in the oven for an hour.",
+        "answer": "roasted",
+        "distractors": [
+          "boiled",
+          "fried up"
+        ],
+        "explanation": "Piec mięso: roast."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-06",
+        "type": "error",
+        "prompt": "Lemons are very sweet.",
+        "answer": [
+          "sweet",
+          "sour"
+        ],
+        "explanation": "Cytryny są kwaśne: sour."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-07",
+        "type": "tiles",
+        "prompt": "Czy jesteście gotowi zamówić?",
+        "answer": [
+          "Are",
+          "you",
+          "ready",
+          "to",
+          "order"
+        ],
+        "explanation": "Are you ready to...?"
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-08",
+        "type": "translate",
+        "prompt": "Poproszę rachunek.",
+        "answer": "Can I have the bill, please?",
+        "accept": [
+          "The bill, please.",
+          "Can we have the bill, please?",
+          "Could I have the bill, please?",
+          "Could we have the bill, please?",
+          "Can I have the bill?",
+          "Can we have the bill?"
+        ],
+        "explanation": "The bill."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-09",
+        "type": "choice",
+        "prompt": "Which cooking word means \"take the skin off\"?",
+        "answer": "peel",
+        "distractors": [
+          "boil",
+          "mix"
+        ],
+        "explanation": "Obierać: peel."
+      },
+      {
+        "id": "a2-vocab-restaurant-cooking-3-10",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nShe bakes bread on Fridays.",
+        "answer": "She baked bread on Fridays.",
+        "explanation": "Bake → baked."
+      }
+    ]
+  }
+]

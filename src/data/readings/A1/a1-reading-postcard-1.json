@@ -1,0 +1,100 @@
+{
+  "id": "a1-reading-postcard-1",
+  "topicId": "a1-reading-postcard",
+  "title": "Greetings from Zakopane",
+  "text": "Dear Grandma,\n\nGreetings from Zakopane! We are here with Mum and Dad for one week. Our hotel is small but very nice, and it is near the mountains. The weather is cold and sunny. Every morning we have a big breakfast, and then we go walking in the mountains. I can see snow on the tops! In the evening we eat in a restaurant in the town. I love the soup and the cheese here. Tomorrow we want to go on a horse ride. We come back home on Saturday.\n\nSee you soon!\nLove,\nZosia",
+  "exercises": [
+    {
+      "id": "a1-reading-postcard-1-01",
+      "type": "choice",
+      "prompt": "Zosia is in Zakopane with her parents.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„We are here with Mum and Dad.”"
+    },
+    {
+      "id": "a1-reading-postcard-1-02",
+      "type": "choice",
+      "prompt": "The hotel is very big.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Our hotel is small...”"
+    },
+    {
+      "id": "a1-reading-postcard-1-03",
+      "type": "choice",
+      "prompt": "Zosia's brother is in Zakopane too.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o bracie."
+    },
+    {
+      "id": "a1-reading-postcard-1-04",
+      "type": "choice",
+      "prompt": "What is the weather like?",
+      "answer": "cold and sunny",
+      "distractors": [
+        "hot and sunny",
+        "rainy"
+      ],
+      "explanation": "„The weather is cold and sunny.”"
+    },
+    {
+      "id": "a1-reading-postcard-1-05",
+      "type": "choice",
+      "prompt": "Where do they eat in the evening?",
+      "answer": "in a restaurant",
+      "distractors": [
+        "in the hotel",
+        "in the mountains"
+      ],
+      "explanation": "„In the evening we eat in a restaurant...”"
+    },
+    {
+      "id": "a1-reading-postcard-1-06",
+      "type": "choice",
+      "prompt": "When do they go home?",
+      "answer": "on Saturday",
+      "distractors": [
+        "tomorrow",
+        "on Sunday"
+      ],
+      "explanation": "„We come back home on Saturday.”"
+    },
+    {
+      "id": "a1-reading-postcard-1-07",
+      "type": "cloze",
+      "prompt": "I can see ___ on the tops!",
+      "answer": "snow",
+      "explanation": "Śnieg: snow."
+    },
+    {
+      "id": "a1-reading-postcard-1-08",
+      "type": "cloze",
+      "prompt": "Tomorrow we want to go on a horse ___.",
+      "answer": "ride",
+      "explanation": "Przejażdżka konna: horse ride."
+    },
+    {
+      "id": "a1-reading-postcard-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "near|blisko",
+        "every morning|każdego ranka",
+        "tomorrow|jutro",
+        "see you soon|do zobaczenia wkrótce"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "a1-reading-postcard-3",
+  "topicId": "a1-reading-postcard",
+  "title": "A weekend in the country",
+  "text": "Dear Ania,\n\nThis weekend I am at my uncle's farm in the country. It is very quiet here – no cars, no buses! My uncle has got ten cows, two horses and a lot of chickens. Every morning I help him. I give food to the animals and I get the eggs. It is hard work, but I like it. The weather is not very good. It is windy and it rains in the afternoon. In the evening we play cards and drink hot milk. On Sunday evening I take the train back to the city.\n\nLove,\nJulia",
+  "exercises": [
+    {
+      "id": "a1-reading-postcard-3-01",
+      "type": "choice",
+      "prompt": "Julia is on a farm.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...at my uncle's farm in the country.”"
+    },
+    {
+      "id": "a1-reading-postcard-3-02",
+      "type": "choice",
+      "prompt": "There are a lot of cars near the farm.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...no cars, no buses!”"
+    },
+    {
+      "id": "a1-reading-postcard-3-03",
+      "type": "choice",
+      "prompt": "Julia's uncle has got a dog.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie wspomina o psie."
+    },
+    {
+      "id": "a1-reading-postcard-3-04",
+      "type": "choice",
+      "prompt": "How many cows has the uncle got?",
+      "answer": "ten",
+      "distractors": [
+        "two",
+        "a lot of"
+      ],
+      "explanation": "„...ten cows...”"
+    },
+    {
+      "id": "a1-reading-postcard-3-05",
+      "type": "choice",
+      "prompt": "What does Julia do every morning?",
+      "answer": "She helps her uncle.",
+      "distractors": [
+        "She rides a horse.",
+        "She plays cards."
+      ],
+      "explanation": "„Every morning I help him.”"
+    },
+    {
+      "id": "a1-reading-postcard-3-06",
+      "type": "choice",
+      "prompt": "How does Julia go back to the city?",
+      "answer": "by train",
+      "distractors": [
+        "by bus",
+        "by car"
+      ],
+      "explanation": "„...I take the train back to the city.”"
+    },
+    {
+      "id": "a1-reading-postcard-3-07",
+      "type": "cloze",
+      "prompt": "It is windy and it ___ in the afternoon.",
+      "answer": "rains",
+      "explanation": "Pada: rains."
+    },
+    {
+      "id": "a1-reading-postcard-3-08",
+      "type": "cloze",
+      "prompt": "In the evening we play ___.",
+      "answer": "cards",
+      "explanation": "Karty: cards."
+    },
+    {
+      "id": "a1-reading-postcard-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "quiet|cichy",
+        "eggs|jajka",
+        "hard work|ciężka praca",
+        "windy|wietrznie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

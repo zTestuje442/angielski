@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-advert-3",
+  "topicId": "a2-reading-advert",
+  "title": "Pizzeria Bella – special offers",
+  "text": "PIZZERIA BELLA – NOW OPEN IN THE CITY CENTRE!\n\nFresh pizza from a real wood oven, just like in Naples.\n\nOpening hours: Monday–Thursday 12:00–22:00, Friday–Saturday 12:00–24:00, Sunday 13:00–21:00.\n\nSPECIAL OFFERS\nMonday: buy one pizza, get the second one half price.\nTuesday: Students' Day – 20% off with a student card.\nLunch (Monday–Friday, 12:00–15:00): pizza + salad + drink for only 32 zł.\n\nKIDS' CORNER\nChildren can make their own small pizza with our chef every Saturday at 11:00 (35 zł, book a place first). There is also a play area with toys and books.\n\nDELIVERY\nFree delivery for orders over 60 zł (up to 5 km). Smaller orders: 7 zł.\nOrder online at bellapizza.pl or call 12 345 67 89.\n\nVegetarian and gluten-free pizzas are available.",
+  "exercises": [
+    {
+      "id": "a2-reading-advert-3-01",
+      "type": "choice",
+      "prompt": "The pizzeria is closed on Sundays.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "W niedzielę 13:00–21:00."
+    },
+    {
+      "id": "a2-reading-advert-3-02",
+      "type": "choice",
+      "prompt": "Students get a discount on Tuesdays.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Tuesday: Students' Day – 20% off...”"
+    },
+    {
+      "id": "a2-reading-advert-3-03",
+      "type": "choice",
+      "prompt": "The chef comes from Naples.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi tylko, że pizza jest jak w Neapolu."
+    },
+    {
+      "id": "a2-reading-advert-3-04",
+      "type": "choice",
+      "prompt": "What can you get for 32 zł?",
+      "answer": "pizza, salad and a drink at lunchtime",
+      "distractors": [
+        "two pizzas on Monday",
+        "a kids' pizza class"
+      ],
+      "explanation": "Lunch: pizza + salad + drink."
+    },
+    {
+      "id": "a2-reading-advert-3-05",
+      "type": "choice",
+      "prompt": "When can children make their own pizza?",
+      "answer": "on Saturday at 11:00",
+      "distractors": [
+        "every day at lunchtime",
+        "on Friday evening"
+      ],
+      "explanation": "„...every Saturday at 11:00.”"
+    },
+    {
+      "id": "a2-reading-advert-3-06",
+      "type": "choice",
+      "prompt": "How much is delivery for a 40 zł order?",
+      "answer": "7 zł",
+      "distractors": [
+        "free",
+        "60 zł"
+      ],
+      "explanation": "Darmowa dopiero od 60 zł."
+    },
+    {
+      "id": "a2-reading-advert-3-07",
+      "type": "choice",
+      "prompt": "Who can eat here without problems?",
+      "answer": "people who don't eat meat",
+      "distractors": [
+        "only children",
+        "only students"
+      ],
+      "explanation": "„Vegetarian ... pizzas are available.”"
+    },
+    {
+      "id": "a2-reading-advert-3-08",
+      "type": "cloze",
+      "prompt": "Monday: buy one pizza, get the second one half ___.",
+      "answer": "price",
+      "explanation": "Za pół ceny: half price."
+    },
+    {
+      "id": "a2-reading-advert-3-09",
+      "type": "cloze",
+      "prompt": "Free delivery for orders ___ 60 zł.",
+      "answer": "over",
+      "explanation": "Powyżej: over."
+    },
+    {
+      "id": "a2-reading-advert-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "half price|za pół ceny",
+        "delivery|dostawa",
+        "order|zamówienie",
+        "available|dostępny"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

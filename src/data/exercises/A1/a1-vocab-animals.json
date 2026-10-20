@@ -1,0 +1,312 @@
+[
+  {
+    "id": "a1-vocab-animals-1",
+    "topicId": "a1-vocab-animals",
+    "exercises": [
+      {
+        "id": "a1-vocab-animals-1-01",
+        "type": "match",
+        "prompt": "Połącz zwierzęta z tłumaczeniem.",
+        "answer": [
+          "cow|krowa",
+          "horse|koń",
+          "pig|świnia",
+          "sheep|owca"
+        ],
+        "explanation": "Zwierzęta na wsi."
+      },
+      {
+        "id": "a1-vocab-animals-1-02",
+        "type": "cloze",
+        "prompt": "I have got a ___. It says \"woof\". (pies)",
+        "answer": "dog",
+        "explanation": "Pies: dog."
+      },
+      {
+        "id": "a1-vocab-animals-1-03",
+        "type": "cloze",
+        "prompt": "A ___ says \"miaow\". (kot)",
+        "answer": "cat",
+        "explanation": "Kot: cat."
+      },
+      {
+        "id": "a1-vocab-animals-1-04",
+        "type": "choice",
+        "prompt": "An ___ is very big and grey.",
+        "answer": "elephant",
+        "distractors": [
+          "mouse",
+          "rabbit"
+        ],
+        "explanation": "Słoń: elephant."
+      },
+      {
+        "id": "a1-vocab-animals-1-05",
+        "type": "choice",
+        "prompt": "Two ___ are in the field.",
+        "answer": "sheep",
+        "distractors": [
+          "sheeps",
+          "sheepes"
+        ],
+        "explanation": "Sheep – bez zmiany w l. mn."
+      },
+      {
+        "id": "a1-vocab-animals-1-06",
+        "type": "error",
+        "prompt": "I have two mouses at home.",
+        "answer": [
+          "mouses",
+          "mice"
+        ],
+        "explanation": "Mouse → mice."
+      },
+      {
+        "id": "a1-vocab-animals-1-07",
+        "type": "tiles",
+        "prompt": "Czy masz psa?",
+        "answer": [
+          "Have",
+          "you",
+          "got",
+          "a",
+          "dog"
+        ],
+        "explanation": "Have you got...?"
+      },
+      {
+        "id": "a1-vocab-animals-1-08",
+        "type": "translate",
+        "prompt": "Lubię koty.",
+        "answer": "I like cats.",
+        "explanation": "Ogólnie o zwierzętach: liczba mnoga bez the."
+      },
+      {
+        "id": "a1-vocab-animals-1-09",
+        "type": "choice",
+        "prompt": "Which animal can fly?",
+        "answer": "a bird",
+        "distractors": [
+          "a fish",
+          "a pig"
+        ],
+        "explanation": "Ptak lata: bird."
+      },
+      {
+        "id": "a1-vocab-animals-1-10",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nThe fox is clever.",
+        "answer": "The foxes are clever.",
+        "explanation": "Fox → foxes, is → are."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-animals-2",
+    "topicId": "a1-vocab-animals",
+    "exercises": [
+      {
+        "id": "a1-vocab-animals-2-01",
+        "type": "match",
+        "prompt": "Połącz zwierzęta z tłumaczeniem.",
+        "answer": [
+          "lion|lew",
+          "bear|niedźwiedź",
+          "monkey|małpa",
+          "snake|wąż"
+        ],
+        "explanation": "Dzikie zwierzęta."
+      },
+      {
+        "id": "a1-vocab-animals-2-02",
+        "type": "cloze",
+        "prompt": "A ___ lives in the sea. (ryba)",
+        "answer": "fish",
+        "explanation": "Ryba: fish."
+      },
+      {
+        "id": "a1-vocab-animals-2-03",
+        "type": "cloze",
+        "prompt": "My ___ is small and white. It eats carrots. (królik)",
+        "answer": "rabbit",
+        "explanation": "Królik: rabbit."
+      },
+      {
+        "id": "a1-vocab-animals-2-04",
+        "type": "choice",
+        "prompt": "Monkeys can ___ trees.",
+        "answer": "climb",
+        "distractors": [
+          "fly",
+          "swim up"
+        ],
+        "explanation": "Wspinać się: climb."
+      },
+      {
+        "id": "a1-vocab-animals-2-05",
+        "type": "choice",
+        "prompt": "A ___ is a farm bird. It gives us eggs.",
+        "answer": "chicken",
+        "distractors": [
+          "parrot",
+          "duck egg"
+        ],
+        "explanation": "Kura: chicken."
+      },
+      {
+        "id": "a1-vocab-animals-2-06",
+        "type": "error",
+        "prompt": "My parrot can speaks English.",
+        "answer": [
+          "speaks",
+          "speak"
+        ],
+        "explanation": "Can + forma podstawowa."
+      },
+      {
+        "id": "a1-vocab-animals-2-07",
+        "type": "tiles",
+        "prompt": "Moja siostra ma chomika.",
+        "answer": [
+          "My",
+          "sister",
+          "has",
+          "got",
+          "a",
+          "hamster"
+        ],
+        "explanation": "Has got."
+      },
+      {
+        "id": "a1-vocab-animals-2-08",
+        "type": "translate",
+        "prompt": "Konie są duże.",
+        "answer": "Horses are big.",
+        "explanation": "Ogólnie: liczba mnoga, are."
+      },
+      {
+        "id": "a1-vocab-animals-2-09",
+        "type": "choice",
+        "prompt": "Which animal is a pet?",
+        "answer": "a hamster",
+        "distractors": [
+          "a tiger",
+          "a wolf"
+        ],
+        "explanation": "Zwierzę domowe: hamster."
+      },
+      {
+        "id": "a1-vocab-animals-2-10",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nThe wolf is grey.",
+        "answer": "The wolves are grey.",
+        "explanation": "Wolf → wolves."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-animals-3",
+    "topicId": "a1-vocab-animals",
+    "exercises": [
+      {
+        "id": "a1-vocab-animals-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "pet|zwierzę domowe",
+          "farm|gospodarstwo",
+          "wild|dziki",
+          "zoo|ogród zoologiczny"
+        ],
+        "explanation": "Słowa o zwierzętach."
+      },
+      {
+        "id": "a1-vocab-animals-3-02",
+        "type": "cloze",
+        "prompt": "A ___ is orange and it has a long tail. (lis)",
+        "answer": "fox",
+        "explanation": "Lis: fox."
+      },
+      {
+        "id": "a1-vocab-animals-3-03",
+        "type": "cloze",
+        "prompt": "Fish can ___. (pływać)",
+        "answer": "swim",
+        "explanation": "Pływać: swim."
+      },
+      {
+        "id": "a1-vocab-animals-3-04",
+        "type": "choice",
+        "prompt": "We saw lions and tigers at the ___.",
+        "answer": "zoo",
+        "distractors": [
+          "farm",
+          "pet"
+        ],
+        "explanation": "Zoo."
+      },
+      {
+        "id": "a1-vocab-animals-3-05",
+        "type": "choice",
+        "prompt": "Cows give us ___.",
+        "answer": "milk",
+        "distractors": [
+          "eggs",
+          "wool"
+        ],
+        "explanation": "Mleko: milk."
+      },
+      {
+        "id": "a1-vocab-animals-3-06",
+        "type": "error",
+        "prompt": "There are three sheeps on the farm.",
+        "answer": [
+          "sheeps",
+          "sheep"
+        ],
+        "explanation": "Sheep – bez zmiany."
+      },
+      {
+        "id": "a1-vocab-animals-3-07",
+        "type": "tiles",
+        "prompt": "Słonie nie umieją skakać.",
+        "answer": [
+          "Elephants",
+          "can't",
+          "jump"
+        ],
+        "explanation": "Can't + czasownik."
+      },
+      {
+        "id": "a1-vocab-animals-3-08",
+        "type": "translate",
+        "prompt": "Jakie jest twoje ulubione zwierzę?",
+        "answer": "What is your favourite animal?",
+        "accept": [
+          "What's your favourite animal?",
+          "What is your favorite animal?",
+          "What's your favorite animal?"
+        ],
+        "explanation": "Favourite (BrE)."
+      },
+      {
+        "id": "a1-vocab-animals-3-09",
+        "type": "choice",
+        "prompt": "Which animal says \"quack\"?",
+        "answer": "a duck",
+        "distractors": [
+          "a horse",
+          "a cat"
+        ],
+        "explanation": "Kaczka: duck."
+      },
+      {
+        "id": "a1-vocab-animals-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYour dog can swim.",
+        "answer": "Can your dog swim?",
+        "explanation": "Can + podmiot + czasownik."
+      }
+    ]
+  }
+]

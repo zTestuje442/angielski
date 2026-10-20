@@ -1,0 +1,17 @@
+{
+  "topicId": "a2-writing-invitation",
+  "task": "W sobotę organizujesz **grilla** w ogrodzie. Napisz **zaproszenie** do kolegi z pracy, **Davida**:\n\n- zaproś go i napisz, z jakiej okazji,\n- podaj dzień, godzinę i miejsce,\n- poproś, żeby coś przyniósł,\n- poproś o odpowiedź.",
+  "words": [
+    25,
+    50
+  ],
+  "model": "Hi David,\n\nI'm having a barbecue on Saturday because it's my birthday! It starts at 4 p.m. in my garden at 12 Lipowa Street. Would you like to come? Could you bring something to drink? Please let me know by Thursday.\n\nSee you,\nMarek",
+  "checklist": [
+    "Zaczynam od powitania i kończę podpisem.",
+    "Piszę, na co zapraszam i z jakiej okazji.",
+    "Podaję dzień, godzinę i miejsce.",
+    "Zapraszam pytaniem (Would you like to come?).",
+    "Proszę, żeby coś przyniósł, i proszę o odpowiedź (Let me know).",
+    "Tekst ma 25–50 słów."
+  ]
+}

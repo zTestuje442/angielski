@@ -1,0 +1,105 @@
+{
+  "id": "a1-reading-timetable-menu-2",
+  "topicId": "a1-reading-timetable-menu",
+  "title": "Bus timetable: Line 7",
+  "text": "Line 7: City Centre – Airport\n\nDepartures from City Centre (stop: Main Square)\nMonday – Friday: every 20 minutes, from 5:00 to 23:00\nSaturday and Sunday: every 40 minutes, from 6:00 to 22:00\n\nThe journey takes 35 minutes.\n\nTickets: single ticket – 5 zł, 24-hour ticket – 15 zł\nBuy your ticket from the machine at the bus stop or in the app. You can't buy tickets from the driver.\n\nPlease note: on 1 and 3 May there are no buses after 20:00.",
+  "exercises": [
+    {
+      "id": "a1-reading-timetable-menu-2-01",
+      "type": "choice",
+      "prompt": "The bus goes from the city centre to the airport.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "Line 7: City Centre – Airport."
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-02",
+      "type": "choice",
+      "prompt": "On Sundays the bus goes every 20 minutes.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "W weekend co 40 minut."
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-03",
+      "type": "choice",
+      "prompt": "The bus has got free Wi-Fi.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Rozkład tego nie mówi."
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-04",
+      "type": "choice",
+      "prompt": "How long is the journey?",
+      "answer": "35 minutes",
+      "distractors": [
+        "20 minutes",
+        "40 minutes"
+      ],
+      "explanation": "„The journey takes 35 minutes.”"
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-05",
+      "type": "choice",
+      "prompt": "How much is a 24-hour ticket?",
+      "answer": "15 zł",
+      "distractors": [
+        "5 zł",
+        "20 zł"
+      ],
+      "explanation": "24-hour ticket – 15 zł."
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-06",
+      "type": "choice",
+      "prompt": "Where can't you buy a ticket?",
+      "answer": "from the driver",
+      "distractors": [
+        "from the machine",
+        "in the app"
+      ],
+      "explanation": "„You can't buy tickets from the driver.”"
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-07",
+      "type": "cloze",
+      "prompt": "On weekdays the first bus is at ___.",
+      "answer": "5:00",
+      "accept": [
+        "5",
+        "five",
+        "5 o'clock"
+      ],
+      "explanation": "Monday – Friday from 5:00."
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-08",
+      "type": "cloze",
+      "prompt": "Buy your ticket from the ___ at the bus stop.",
+      "answer": "machine",
+      "explanation": "Automat: machine."
+    },
+    {
+      "id": "a1-reading-timetable-menu-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "departure|odjazd",
+        "journey|podróż",
+        "single ticket|bilet jednorazowy",
+        "stop|przystanek"
+      ],
+      "explanation": "Słowa z rozkładu."
+    }
+  ]
+}

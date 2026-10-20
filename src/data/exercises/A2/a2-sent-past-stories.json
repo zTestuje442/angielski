@@ -1,0 +1,339 @@
+[
+  {
+    "id": "a2-sent-past-stories-1",
+    "topicId": "a2-sent-past-stories",
+    "exercises": [
+      {
+        "id": "a2-sent-past-stories-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "First,|Najpierw",
+          "Then|Potem",
+          "After that|Następnie, po tym",
+          "Finally,|W końcu"
+        ],
+        "explanation": "Słowa kolejności."
+      },
+      {
+        "id": "a2-sent-past-stories-1-02",
+        "type": "cloze",
+        "prompt": "___, we got up early. Then we had breakfast. (najpierw)",
+        "answer": "First",
+        "explanation": "First – na początek."
+      },
+      {
+        "id": "a2-sent-past-stories-1-03",
+        "type": "cloze",
+        "prompt": "We missed the bus, ___ we walked to school. (więc)",
+        "answer": "so",
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-sent-past-stories-1-04",
+        "type": "choice",
+        "prompt": "After ___ we went to the cinema.",
+        "answer": "lunch",
+        "distractors": [
+          "we ate lunch that",
+          "to lunch"
+        ],
+        "explanation": "After + rzeczownik."
+      },
+      {
+        "id": "a2-sent-past-stories-1-05",
+        "type": "choice",
+        "prompt": "Last Saturday I ___ to the zoo.",
+        "answer": "went",
+        "distractors": [
+          "go",
+          "goes"
+        ],
+        "explanation": "Past Simple: went."
+      },
+      {
+        "id": "a2-sent-past-stories-1-06",
+        "type": "error",
+        "prompt": "Yesterday I get up at 7 and went to work.",
+        "answer": [
+          "get",
+          "got"
+        ],
+        "explanation": "Past Simple: got."
+      },
+      {
+        "id": "a2-sent-past-stories-1-07",
+        "type": "tiles",
+        "prompt": "Potem poszliśmy do parku.",
+        "answer": [
+          "Then",
+          "we",
+          "went",
+          "to",
+          "the",
+          "park"
+        ],
+        "explanation": "Then + Past Simple."
+      },
+      {
+        "id": "a2-sent-past-stories-1-08",
+        "type": "translate",
+        "prompt": "Na końcu wróciliśmy do domu.",
+        "answer": "Finally, we went home.",
+        "accept": [
+          "In the end, we went home.",
+          "Finally we went home.",
+          "In the end we went home.",
+          "Finally, we came back home.",
+          "In the end, we came back home."
+        ],
+        "explanation": "Finally / In the end."
+      },
+      {
+        "id": "a2-sent-past-stories-1-09",
+        "type": "choice",
+        "prompt": "Which word starts a story?",
+        "answer": "One day",
+        "distractors": [
+          "Finally",
+          "In the end"
+        ],
+        "explanation": "Początek: One day."
+      },
+      {
+        "id": "a2-sent-past-stories-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „then”.\nWe had dinner. We watched a film.",
+        "answer": "We had dinner, then we watched a film.",
+        "accept": [
+          "We had dinner and then we watched a film.",
+          "We had dinner, and then we watched a film.",
+          "We had dinner. Then we watched a film."
+        ],
+        "explanation": "Then – kolejne zdarzenie."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-past-stories-2",
+    "topicId": "a2-sent-past-stories",
+    "exercises": [
+      {
+        "id": "a2-sent-past-stories-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "One day|Pewnego dnia",
+          "Later|Później",
+          "In the end|W końcu",
+          "Last summer|Zeszłego lata"
+        ],
+        "explanation": "Słowa kolejności."
+      },
+      {
+        "id": "a2-sent-past-stories-2-02",
+        "type": "cloze",
+        "prompt": "I was tired ___ I went to bed early. (więc)",
+        "answer": "so",
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-sent-past-stories-2-03",
+        "type": "cloze",
+        "prompt": "___ that, we visited the castle. (po)",
+        "answer": "After",
+        "explanation": "After that."
+      },
+      {
+        "id": "a2-sent-past-stories-2-04",
+        "type": "choice",
+        "prompt": "It started to rain, ___ we went inside.",
+        "answer": "so",
+        "distractors": [
+          "because",
+          "but then"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-sent-past-stories-2-05",
+        "type": "choice",
+        "prompt": "We ___ a lot of photos on our trip.",
+        "answer": "took",
+        "distractors": [
+          "taked",
+          "take"
+        ],
+        "explanation": "Take → took."
+      },
+      {
+        "id": "a2-sent-past-stories-2-06",
+        "type": "error",
+        "prompt": "First we bought tickets, then we get on the train.",
+        "answer": [
+          "get",
+          "got"
+        ],
+        "explanation": "Past Simple: got."
+      },
+      {
+        "id": "a2-sent-past-stories-2-07",
+        "type": "tiles",
+        "prompt": "Pewnego dnia spotkałem starego przyjaciela.",
+        "answer": [
+          "One",
+          "day",
+          "I",
+          "met",
+          "an",
+          "old",
+          "friend"
+        ],
+        "explanation": "One day + Past Simple."
+      },
+      {
+        "id": "a2-sent-past-stories-2-08",
+        "type": "translate",
+        "prompt": "Najpierw zadzwoniłem do mamy.",
+        "answer": "First, I called my mum.",
+        "accept": [
+          "First I called my mum.",
+          "First, I phoned my mum.",
+          "First I phoned my mum.",
+          "First, I called my mom.",
+          "First I called my mom."
+        ],
+        "explanation": "First + Past Simple."
+      },
+      {
+        "id": "a2-sent-past-stories-2-09",
+        "type": "choice",
+        "prompt": "Which word ends a story?",
+        "answer": "In the end",
+        "distractors": [
+          "First",
+          "One day"
+        ],
+        "explanation": "Koniec: In the end."
+      },
+      {
+        "id": "a2-sent-past-stories-2-10",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nWe go to the beach and swim in the sea.",
+        "answer": "We went to the beach and swam in the sea.",
+        "explanation": "Go → went, swim → swam."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-past-stories-3",
+    "topicId": "a2-sent-past-stories",
+    "exercises": [
+      {
+        "id": "a2-sent-past-stories-3-01",
+        "type": "match",
+        "prompt": "Połącz formy z tłumaczeniem.",
+        "answer": [
+          "get up → got up|wstać",
+          "have → had|mieć, zjeść",
+          "go → went|iść",
+          "see → saw|zobaczyć"
+        ],
+        "explanation": "Czasowniki nieregularne w opowiadaniu."
+      },
+      {
+        "id": "a2-sent-past-stories-3-02",
+        "type": "cloze",
+        "prompt": "We were hungry ___ we had a pizza. (więc)",
+        "answer": "so",
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-sent-past-stories-3-03",
+        "type": "cloze",
+        "prompt": "She was happy ___ she passed the exam. (bo)",
+        "answer": "because",
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-sent-past-stories-3-04",
+        "type": "choice",
+        "prompt": "___ we arrived, the shop was closed.",
+        "answer": "When",
+        "distractors": [
+          "Then",
+          "Finally"
+        ],
+        "explanation": "Kiedy: when."
+      },
+      {
+        "id": "a2-sent-past-stories-3-05",
+        "type": "choice",
+        "prompt": "I wanted to go out, ___ it was too cold.",
+        "answer": "but",
+        "distractors": [
+          "so",
+          "because"
+        ],
+        "explanation": "Kontrast: but."
+      },
+      {
+        "id": "a2-sent-past-stories-3-06",
+        "type": "error",
+        "prompt": "Last weekend we visit our grandparents.",
+        "answer": [
+          "visit",
+          "visited"
+        ],
+        "explanation": "Past Simple: visited."
+      },
+      {
+        "id": "a2-sent-past-stories-3-07",
+        "type": "tiles",
+        "prompt": "W końcu znaleźliśmy hotel.",
+        "answer": [
+          "In",
+          "the",
+          "end",
+          "we",
+          "found",
+          "the",
+          "hotel"
+        ],
+        "explanation": "In the end."
+      },
+      {
+        "id": "a2-sent-past-stories-3-08",
+        "type": "translate",
+        "prompt": "Kiedy wróciłem do domu, zjadłem kolację.",
+        "answer": "When I got home, I had dinner.",
+        "accept": [
+          "When I came home, I had dinner.",
+          "When I got home I had dinner.",
+          "When I came home I had dinner.",
+          "When I got home, I ate dinner.",
+          "When I came home, I ate dinner."
+        ],
+        "explanation": "When + Past Simple."
+      },
+      {
+        "id": "a2-sent-past-stories-3-09",
+        "type": "choice",
+        "prompt": "Which order is correct?",
+        "answer": "First – Then – Finally",
+        "distractors": [
+          "Finally – Then – First",
+          "Then – First – Finally"
+        ],
+        "explanation": "Najpierw, potem, w końcu."
+      },
+      {
+        "id": "a2-sent-past-stories-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because”.\nI was late. I missed the bus.",
+        "answer": "I was late because I missed the bus.",
+        "explanation": "Przyczyna: because."
+      }
+    ]
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "id": "a1-reading-timetable-menu-1",
+  "topicId": "a1-reading-timetable-menu",
+  "title": "Café Słonecznik – lunch menu",
+  "text": "Café Słonecznik\nLunch menu (12:00–15:00, Monday to Friday)\n\nSoups\nTomato soup – 12 zł\nChicken soup – 14 zł\n\nMain courses\nPierogi with cheese and potatoes – 24 zł\nChicken with rice and salad – 29 zł\nVegetable pasta – 22 zł\n\nDesserts\nApple cake – 12 zł\nIce cream (3 flavours) – 10 zł\n\nDrinks\nCoffee, tea – 8 zł, Orange juice – 9 zł\n\nLunch special: soup + main course + tea = 35 zł\nFree water with every lunch!",
+  "exercises": [
+    {
+      "id": "a1-reading-timetable-menu-1-01",
+      "type": "choice",
+      "prompt": "You can have lunch here on Saturday.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Lunch: Monday to Friday."
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-02",
+      "type": "choice",
+      "prompt": "Water is free with lunch.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Free water with every lunch!”"
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-03",
+      "type": "choice",
+      "prompt": "The café has got a garden.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Menu tego nie mówi."
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-04",
+      "type": "choice",
+      "prompt": "How much is the chicken soup?",
+      "answer": "14 zł",
+      "distractors": [
+        "12 zł",
+        "29 zł"
+      ],
+      "explanation": "Chicken soup – 14 zł."
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-05",
+      "type": "choice",
+      "prompt": "Which main course has no meat?",
+      "answer": "Vegetable pasta",
+      "distractors": [
+        "Chicken with rice",
+        "Chicken soup"
+      ],
+      "explanation": "Vegetable pasta – makaron z warzywami."
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-06",
+      "type": "choice",
+      "prompt": "What is in the lunch special?",
+      "answer": "soup, a main course and tea",
+      "distractors": [
+        "a main course and dessert",
+        "soup and coffee"
+      ],
+      "explanation": "Soup + main course + tea."
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-07",
+      "type": "cloze",
+      "prompt": "Lunch is from 12:00 to ___.",
+      "answer": "15:00",
+      "accept": [
+        "3:00",
+        "3",
+        "three"
+      ],
+      "explanation": "Godziny lunchu: 12:00–15:00."
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-08",
+      "type": "cloze",
+      "prompt": "Ice cream comes in three ___.",
+      "answer": "flavours",
+      "accept": [
+        "flavors"
+      ],
+      "explanation": "Smaki: flavours."
+    },
+    {
+      "id": "a1-reading-timetable-menu-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "soup|zupa",
+        "main course|danie główne",
+        "dessert|deser",
+        "free|darmowy"
+      ],
+      "explanation": "Słowa z menu."
+    }
+  ]
+}

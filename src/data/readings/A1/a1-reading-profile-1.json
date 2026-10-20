@@ -1,0 +1,100 @@
+{
+  "id": "a1-reading-profile-1",
+  "topicId": "a1-reading-profile",
+  "title": "Meet our new teacher",
+  "text": "Our new English teacher is Mr James Taylor. He is 34 years old and he is from Manchester, in England. He lives in Wrocław with his wife, Agata, and their small daughter, Lily. James speaks English, French and a little Polish. He teaches adults and teenagers. His lessons are on Mondays, Wednesdays and Fridays. In his free time, James plays the guitar and goes cycling. He loves Polish food, especially pierogi, but he doesn't like coffee. He drinks tea every day!",
+  "exercises": [
+    {
+      "id": "a1-reading-profile-1-01",
+      "type": "choice",
+      "prompt": "James is from London.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Jest z Manchesteru."
+    },
+    {
+      "id": "a1-reading-profile-1-02",
+      "type": "choice",
+      "prompt": "James has got a daughter.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...their small daughter, Lily.”"
+    },
+    {
+      "id": "a1-reading-profile-1-03",
+      "type": "choice",
+      "prompt": "James's wife is a teacher too.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, co robi Agata."
+    },
+    {
+      "id": "a1-reading-profile-1-04",
+      "type": "choice",
+      "prompt": "How old is James?",
+      "answer": "34",
+      "distractors": [
+        "43",
+        "24"
+      ],
+      "explanation": "„He is 34 years old.”"
+    },
+    {
+      "id": "a1-reading-profile-1-05",
+      "type": "choice",
+      "prompt": "Which languages does James speak?",
+      "answer": "English, French and a little Polish",
+      "distractors": [
+        "English and German",
+        "only English"
+      ],
+      "explanation": "„James speaks English, French and a little Polish.”"
+    },
+    {
+      "id": "a1-reading-profile-1-06",
+      "type": "choice",
+      "prompt": "What does James drink every day?",
+      "answer": "tea",
+      "distractors": [
+        "coffee",
+        "milk"
+      ],
+      "explanation": "„He drinks tea every day!”"
+    },
+    {
+      "id": "a1-reading-profile-1-07",
+      "type": "cloze",
+      "prompt": "He teaches adults and ___.",
+      "answer": "teenagers",
+      "explanation": "Nastolatki: teenagers."
+    },
+    {
+      "id": "a1-reading-profile-1-08",
+      "type": "cloze",
+      "prompt": "In his free time, James plays the ___.",
+      "answer": "guitar",
+      "explanation": "Gitara: guitar."
+    },
+    {
+      "id": "a1-reading-profile-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "wife|żona",
+        "daughter|córka",
+        "free time|czas wolny",
+        "especially|szczególnie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

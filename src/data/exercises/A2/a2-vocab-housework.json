@@ -1,0 +1,337 @@
+[
+  {
+    "id": "a2-vocab-housework-1",
+    "topicId": "a2-vocab-housework",
+    "exercises": [
+      {
+        "id": "a2-vocab-housework-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "do the washing-up|zmywać naczynia",
+          "make the bed|słać łóżko",
+          "take out the rubbish|wynosić śmieci",
+          "water the plants|podlewać kwiaty"
+        ],
+        "explanation": "Obowiązki domowe."
+      },
+      {
+        "id": "a2-vocab-housework-1-02",
+        "type": "cloze",
+        "prompt": "I always ___ my bed in the morning.",
+        "answer": "make",
+        "explanation": "Make the bed."
+      },
+      {
+        "id": "a2-vocab-housework-1-03",
+        "type": "cloze",
+        "prompt": "Can you take ___ the rubbish, please?",
+        "answer": "out",
+        "explanation": "Take out the rubbish."
+      },
+      {
+        "id": "a2-vocab-housework-1-04",
+        "type": "choice",
+        "prompt": "Who does the ___ in your house?",
+        "answer": "ironing",
+        "distractors": [
+          "iron",
+          "irons"
+        ],
+        "explanation": "Do the ironing."
+      },
+      {
+        "id": "a2-vocab-housework-1-05",
+        "type": "choice",
+        "prompt": "Please ___ the table for dinner.",
+        "answer": "lay",
+        "distractors": [
+          "put up",
+          "make up"
+        ],
+        "explanation": "Lay the table."
+      },
+      {
+        "id": "a2-vocab-housework-1-06",
+        "type": "error",
+        "prompt": "I do my bed every day.",
+        "answer": [
+          "do",
+          "make"
+        ],
+        "explanation": "Make the bed."
+      },
+      {
+        "id": "a2-vocab-housework-1-07",
+        "type": "tiles",
+        "prompt": "Mój brat nigdy nie sprząta swojego pokoju.",
+        "answer": [
+          "My",
+          "brother",
+          "never",
+          "tidies",
+          "his",
+          "room"
+        ],
+        "explanation": "Tidy (up) your room."
+      },
+      {
+        "id": "a2-vocab-housework-1-08",
+        "type": "translate",
+        "prompt": "Czyja kolej na zmywanie?",
+        "answer": "Whose turn is it to do the washing-up?",
+        "accept": [
+          "Whose turn is it to wash up?",
+          "Whose turn is it to do the dishes?"
+        ],
+        "explanation": "Whose turn is it...?"
+      },
+      {
+        "id": "a2-vocab-housework-1-09",
+        "type": "choice",
+        "prompt": "You use a vacuum cleaner to ___.",
+        "answer": "vacuum the carpet",
+        "distractors": [
+          "water the plants",
+          "do the ironing"
+        ],
+        "explanation": "Odkurzać: vacuum."
+      },
+      {
+        "id": "a2-vocab-housework-1-10",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nShe does the shopping on Saturdays.",
+        "answer": "She doesn't do the shopping on Saturdays.",
+        "accept": [
+          "She does not do the shopping on Saturdays."
+        ],
+        "explanation": "Doesn't + do."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-housework-2",
+    "topicId": "a2-vocab-housework",
+    "exercises": [
+      {
+        "id": "a2-vocab-housework-2-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "vacuum|odkurzać",
+          "sweep|zamiatać",
+          "iron|prasować",
+          "feed|karmić"
+        ],
+        "explanation": "Czasowniki z domu."
+      },
+      {
+        "id": "a2-vocab-housework-2-02",
+        "type": "cloze",
+        "prompt": "Don't forget to ___ the cat! (nakarm)",
+        "answer": "feed",
+        "explanation": "Feed the cat."
+      },
+      {
+        "id": "a2-vocab-housework-2-03",
+        "type": "cloze",
+        "prompt": "I need to do the ___. All my clothes are dirty. (pranie)",
+        "answer": "washing",
+        "accept": [
+          "laundry"
+        ],
+        "explanation": "Do the washing."
+      },
+      {
+        "id": "a2-vocab-housework-2-04",
+        "type": "choice",
+        "prompt": "Dad is ___ dinner in the kitchen.",
+        "answer": "making",
+        "distractors": [
+          "doing",
+          "taking"
+        ],
+        "explanation": "Make dinner."
+      },
+      {
+        "id": "a2-vocab-housework-2-05",
+        "type": "choice",
+        "prompt": "I ___ the floor with a mop.",
+        "answer": "clean",
+        "distractors": [
+          "sweep up",
+          "vacuum"
+        ],
+        "explanation": "Myć podłogę mopem: clean / mop."
+      },
+      {
+        "id": "a2-vocab-housework-2-06",
+        "type": "error",
+        "prompt": "Can you make the washing-up?",
+        "answer": [
+          "make",
+          "do"
+        ],
+        "explanation": "Do the washing-up."
+      },
+      {
+        "id": "a2-vocab-housework-2-07",
+        "type": "tiles",
+        "prompt": "W soboty robię zakupy.",
+        "answer": [
+          "I",
+          "do",
+          "the",
+          "shopping",
+          "on",
+          "Saturdays"
+        ],
+        "explanation": "Do the shopping."
+      },
+      {
+        "id": "a2-vocab-housework-2-08",
+        "type": "translate",
+        "prompt": "Nienawidzę prasowania.",
+        "answer": "I hate ironing.",
+        "accept": [
+          "I hate doing the ironing."
+        ],
+        "explanation": "Hate + -ing."
+      },
+      {
+        "id": "a2-vocab-housework-2-09",
+        "type": "choice",
+        "prompt": "Which job do you do in the garden?",
+        "answer": "water the plants",
+        "distractors": [
+          "do the washing-up",
+          "make the bed"
+        ],
+        "explanation": "Podlewać: water."
+      },
+      {
+        "id": "a2-vocab-housework-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYour sister cleans the bathroom.",
+        "answer": "Does your sister clean the bathroom?",
+        "explanation": "Does + sister + clean."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-housework-3",
+    "topicId": "a2-vocab-housework",
+    "exercises": [
+      {
+        "id": "a2-vocab-housework-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "tidy up|posprzątać",
+          "lay the table|nakryć do stołu",
+          "do the cleaning|sprzątać",
+          "mop the floor|myć podłogę"
+        ],
+        "explanation": "Obowiązki domowe."
+      },
+      {
+        "id": "a2-vocab-housework-3-02",
+        "type": "cloze",
+        "prompt": "It's your turn to take out the ___. (śmieci)",
+        "answer": "rubbish",
+        "accept": [
+          "trash",
+          "garbage"
+        ],
+        "explanation": "Rubbish (BrE)."
+      },
+      {
+        "id": "a2-vocab-housework-3-03",
+        "type": "cloze",
+        "prompt": "I ___ the plants every Monday. (podlewam)",
+        "answer": "water",
+        "explanation": "Water the plants."
+      },
+      {
+        "id": "a2-vocab-housework-3-04",
+        "type": "choice",
+        "prompt": "How often do you ___ your room?",
+        "answer": "tidy",
+        "distractors": [
+          "make",
+          "do up"
+        ],
+        "explanation": "Tidy your room."
+      },
+      {
+        "id": "a2-vocab-housework-3-05",
+        "type": "choice",
+        "prompt": "We share the ___: I cook and he cleans.",
+        "answer": "housework",
+        "distractors": [
+          "houseworks",
+          "homeworks"
+        ],
+        "explanation": "Housework – niepoliczalne."
+      },
+      {
+        "id": "a2-vocab-housework-3-06",
+        "type": "error",
+        "prompt": "I do a lot of houseworks at the weekend.",
+        "answer": [
+          "houseworks",
+          "housework"
+        ],
+        "explanation": "Housework – bez -s."
+      },
+      {
+        "id": "a2-vocab-housework-3-07",
+        "type": "tiles",
+        "prompt": "Kto zmywa naczynia w twoim domu?",
+        "answer": [
+          "Who",
+          "does",
+          "the",
+          "washing-up",
+          "in",
+          "your",
+          "house"
+        ],
+        "explanation": "Do the washing-up."
+      },
+      {
+        "id": "a2-vocab-housework-3-08",
+        "type": "translate",
+        "prompt": "Muszę posprzątać pokój.",
+        "answer": "I have to tidy my room.",
+        "accept": [
+          "I need to tidy my room.",
+          "I have to tidy up my room.",
+          "I must tidy my room.",
+          "I need to tidy up my room.",
+          "I have to clean my room.",
+          "I need to clean my room."
+        ],
+        "explanation": "Have to + tidy."
+      },
+      {
+        "id": "a2-vocab-housework-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "I make the bed every morning.",
+        "distractors": [
+          "I do the bed every morning.",
+          "I make the washing every morning."
+        ],
+        "explanation": "Make the bed."
+      },
+      {
+        "id": "a2-vocab-housework-3-10",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nI do the ironing.",
+        "answer": "I did the ironing.",
+        "explanation": "Do → did."
+      }
+    ]
+  }
+]

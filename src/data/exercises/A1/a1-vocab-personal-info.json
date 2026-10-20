@@ -1,0 +1,317 @@
+[
+  {
+    "id": "a1-vocab-personal-info-1",
+    "topicId": "a1-vocab-personal-info",
+    "exercises": [
+      {
+        "id": "a1-vocab-personal-info-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "first name|imię",
+          "surname|nazwisko",
+          "address|adres",
+          "date of birth|data urodzenia"
+        ],
+        "explanation": "Dane w formularzu."
+      },
+      {
+        "id": "a1-vocab-personal-info-1-02",
+        "type": "cloze",
+        "prompt": "What's ___ name? (twoje)",
+        "answer": "your",
+        "explanation": "What's your name?"
+      },
+      {
+        "id": "a1-vocab-personal-info-1-03",
+        "type": "cloze",
+        "prompt": "I ___ 25 years old.",
+        "answer": "am",
+        "accept": [
+          "'m"
+        ],
+        "explanation": "Wiek: be + liczba."
+      },
+      {
+        "id": "a1-vocab-personal-info-1-04",
+        "type": "choice",
+        "prompt": "Where are you ___?",
+        "answer": "from",
+        "distractors": [
+          "of",
+          "in"
+        ],
+        "explanation": "Where are you from?"
+      },
+      {
+        "id": "a1-vocab-personal-info-1-05",
+        "type": "choice",
+        "prompt": "___ do you live?",
+        "answer": "Where",
+        "distractors": [
+          "What",
+          "Who"
+        ],
+        "explanation": "Gdzie: where."
+      },
+      {
+        "id": "a1-vocab-personal-info-1-06",
+        "type": "error",
+        "prompt": "I have 30 years old.",
+        "answer": [
+          "have",
+          "am"
+        ],
+        "explanation": "Wiek: I am 30 years old."
+      },
+      {
+        "id": "a1-vocab-personal-info-1-07",
+        "type": "tiles",
+        "prompt": "Mam na imię Kasia.",
+        "answer": [
+          "My",
+          "name",
+          "is",
+          "Kasia"
+        ],
+        "explanation": "My name is..."
+      },
+      {
+        "id": "a1-vocab-personal-info-1-08",
+        "type": "translate",
+        "prompt": "Miło cię poznać.",
+        "answer": "Nice to meet you.",
+        "accept": [
+          "Pleased to meet you.",
+          "Good to meet you."
+        ],
+        "explanation": "Nice to meet you."
+      },
+      {
+        "id": "a1-vocab-personal-info-1-09",
+        "type": "choice",
+        "prompt": "\"What do you do?\" means:",
+        "answer": "Jaki masz zawód?",
+        "distractors": [
+          "Co teraz robisz?",
+          "Jak się masz?"
+        ],
+        "explanation": "What do you do? = czym się zajmujesz."
+      },
+      {
+        "id": "a1-vocab-personal-info-1-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o wiek, zacznij od „How”.\nI am 30.",
+        "answer": "How old are you?",
+        "explanation": "How old are you?"
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-personal-info-2",
+    "topicId": "a1-vocab-personal-info",
+    "exercises": [
+      {
+        "id": "a1-vocab-personal-info-2-01",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Nice to meet you.|Miło cię poznać.",
+          "How old are you?|Ile masz lat?",
+          "Where do you live?|Gdzie mieszkasz?",
+          "What's your phone number?|Jaki jest twój numer telefonu?"
+        ],
+        "explanation": "Pytania o osobę."
+      },
+      {
+        "id": "a1-vocab-personal-info-2-02",
+        "type": "cloze",
+        "prompt": "My ___ is Nowak. (nazwisko)",
+        "answer": "surname",
+        "accept": [
+          "last name",
+          "family name"
+        ],
+        "explanation": "Nazwisko: surname."
+      },
+      {
+        "id": "a1-vocab-personal-info-2-03",
+        "type": "cloze",
+        "prompt": "I live ___ Warsaw.",
+        "answer": "in",
+        "explanation": "Live in + miasto."
+      },
+      {
+        "id": "a1-vocab-personal-info-2-04",
+        "type": "choice",
+        "prompt": "I'm ___ engineer.",
+        "answer": "an",
+        "distractors": [
+          "a",
+          "the"
+        ],
+        "explanation": "Zawód: a/an; przed samogłoską an."
+      },
+      {
+        "id": "a1-vocab-personal-info-2-05",
+        "type": "choice",
+        "prompt": "Are you married? – No, I'm ___.",
+        "answer": "single",
+        "distractors": [
+          "alone",
+          "only"
+        ],
+        "explanation": "Stan wolny: single."
+      },
+      {
+        "id": "a1-vocab-personal-info-2-06",
+        "type": "error",
+        "prompt": "My adress is 5 Long Street.",
+        "answer": [
+          "adress",
+          "address"
+        ],
+        "explanation": "Pisownia: address (dwa d)."
+      },
+      {
+        "id": "a1-vocab-personal-info-2-07",
+        "type": "tiles",
+        "prompt": "Jestem z Polski.",
+        "answer": [
+          "I",
+          "am",
+          "from",
+          "Poland"
+        ],
+        "explanation": "Be from + kraj."
+      },
+      {
+        "id": "a1-vocab-personal-info-2-08",
+        "type": "translate",
+        "prompt": "Gdzie mieszkasz?",
+        "answer": "Where do you live?",
+        "explanation": "Pytanie: Where + do + you + live?"
+      },
+      {
+        "id": "a1-vocab-personal-info-2-09",
+        "type": "choice",
+        "prompt": "Which question asks about your job?",
+        "answer": "What do you do?",
+        "distractors": [
+          "How do you do?",
+          "What are you doing?"
+        ],
+        "explanation": "Zawód: What do you do?"
+      },
+      {
+        "id": "a1-vocab-personal-info-2-10",
+        "type": "transform",
+        "prompt": "Napisz pytanie, na które to jest odpowiedź. Zacznij od „What”.\nMy name is Tom.",
+        "answer": "What is your name?",
+        "explanation": "What's your name?"
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-personal-info-3",
+    "topicId": "a1-vocab-personal-info",
+    "exercises": [
+      {
+        "id": "a1-vocab-personal-info-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "nationality|narodowość",
+          "signature|podpis",
+          "postcode|kod pocztowy",
+          "phone number|numer telefonu"
+        ],
+        "explanation": "Słowa z formularzy."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-02",
+        "type": "cloze",
+        "prompt": "What's your email ___? (adres)",
+        "answer": "address",
+        "explanation": "Email address."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-03",
+        "type": "cloze",
+        "prompt": "Nice to meet you ___. (też)",
+        "answer": "too",
+        "explanation": "Nice to meet you too."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-04",
+        "type": "choice",
+        "prompt": "How old ___ your brother?",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "has"
+        ],
+        "explanation": "He/she: is."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-05",
+        "type": "choice",
+        "prompt": "I ___ a teacher.",
+        "answer": "am",
+        "distractors": [
+          "is",
+          "have"
+        ],
+        "explanation": "I am."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-06",
+        "type": "error",
+        "prompt": "Marta is Poland and she lives in Gdańsk.",
+        "answer": [
+          "Poland",
+          "Polish"
+        ],
+        "explanation": "Narodowość: Polish."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-07",
+        "type": "tiles",
+        "prompt": "On ma dwadzieścia lat.",
+        "answer": [
+          "He",
+          "is",
+          "twenty",
+          "years",
+          "old"
+        ],
+        "explanation": "Wiek: be + years old."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-08",
+        "type": "translate",
+        "prompt": "Jaki jest twój adres?",
+        "answer": "What is your address?",
+        "explanation": "What's your address?"
+      },
+      {
+        "id": "a1-vocab-personal-info-3-09",
+        "type": "choice",
+        "prompt": "Which is a correct answer to \"How are you?\"",
+        "answer": "I'm fine, thanks.",
+        "distractors": [
+          "I'm 20.",
+          "I'm from Spain."
+        ],
+        "explanation": "How are you? – I'm fine."
+      },
+      {
+        "id": "a1-vocab-personal-info-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou are a student.",
+        "answer": "Are you a student?",
+        "explanation": "Pytanie z be: Are you...?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "topicId": "a2-writing-about-me",
+  "task": "Zapisałeś się na kurs angielskiego online. Nauczycielka prosi o **krótki opis siebie i swojego zwykłego dnia**:\n\n- przedstaw się (imię, wiek, skąd jesteś),\n- napisz, czym się zajmujesz,\n- opisz swój typowy dzień,\n- napisz, co lubisz robić w wolnym czasie.",
+  "words": [
+    25,
+    50
+  ],
+  "model": "Hi! My name is Tomek, I'm 32 and I'm from Łódź. I work as an accountant in a big company. I usually get up at 6:30 and go to work by tram. I finish at 4. In the evening I often play basketball or read. I love travelling!",
+  "checklist": [
+    "Podaję imię, wiek i skąd jestem.",
+    "Piszę, gdzie pracuję albo się uczę.",
+    "Opisuję dzień w Present Simple, z przysłówkami (usually, often).",
+    "Piszę o zainteresowaniach (I love / I like...).",
+    "Łączę zdania (and, but, so) i nie zaczynam każdego od „I”.",
+    "Tekst ma 25–50 słów."
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-blog-2",
+  "topicId": "a2-reading-blog",
+  "title": "Learning to cook at 30",
+  "text": "Hello, readers! I'm Anna, and until this year I couldn't cook. Really – I only made toast and instant noodles. I always ate in cafés or ordered food online. It was expensive and not very healthy.\n\nIn January I decided to change that. I bought a simple cookbook for beginners and I promised myself one new recipe every week. My first dish was tomato soup. It was too salty, but my boyfriend ate it all and said, \"Not bad!\"\n\nNow I can make pancakes, pasta with vegetables, chicken curry and a chocolate cake. My favourite is the curry – it's quick, cheap and delicious. I still make mistakes. Last week I burned the rice and the kitchen smelled terrible for two days!\n\nHere are my tips for new cooks: start with easy recipes, buy fresh vegetables at the market and don't be afraid of mistakes. Cooking is like any skill – you get better with practice.\n\nNext month I want to try baking bread. Wish me luck!",
+  "exercises": [
+    {
+      "id": "a2-reading-blog-2-01",
+      "type": "choice",
+      "prompt": "Anna learned to cook as a child.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Do tego roku nie umiała gotować."
+    },
+    {
+      "id": "a2-reading-blog-2-02",
+      "type": "choice",
+      "prompt": "Anna's first soup was too salty.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„It was too salty...”"
+    },
+    {
+      "id": "a2-reading-blog-2-03",
+      "type": "choice",
+      "prompt": "Anna's boyfriend is a chef.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "a2-reading-blog-2-04",
+      "type": "choice",
+      "prompt": "Why did Anna want to cook?",
+      "answer": "Eating out was expensive and not healthy.",
+      "distractors": [
+        "Her boyfriend asked her.",
+        "She lost her job."
+      ],
+      "explanation": "„It was expensive and not very healthy.”"
+    },
+    {
+      "id": "a2-reading-blog-2-05",
+      "type": "choice",
+      "prompt": "How often does Anna try a new recipe?",
+      "answer": "every week",
+      "distractors": [
+        "every day",
+        "every month"
+      ],
+      "explanation": "„...one new recipe every week.”"
+    },
+    {
+      "id": "a2-reading-blog-2-06",
+      "type": "choice",
+      "prompt": "What went wrong last week?",
+      "answer": "She burned the rice.",
+      "distractors": [
+        "She dropped the cake.",
+        "She forgot the salt."
+      ],
+      "explanation": "„I burned the rice...”"
+    },
+    {
+      "id": "a2-reading-blog-2-07",
+      "type": "choice",
+      "prompt": "What does Anna want to do next month?",
+      "answer": "bake bread",
+      "distractors": [
+        "open a café",
+        "make soup"
+      ],
+      "explanation": "„Next month I want to try baking bread.”"
+    },
+    {
+      "id": "a2-reading-blog-2-08",
+      "type": "cloze",
+      "prompt": "I bought a simple ___ for beginners.",
+      "answer": "cookbook",
+      "explanation": "Książka kucharska: cookbook."
+    },
+    {
+      "id": "a2-reading-blog-2-09",
+      "type": "cloze",
+      "prompt": "Cooking is like any skill – you get better with ___.",
+      "answer": "practice",
+      "explanation": "Praktyka: practice."
+    },
+    {
+      "id": "a2-reading-blog-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "recipe|przepis",
+        "burn|przypalić",
+        "tips|rady",
+        "beginner|początkujący"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

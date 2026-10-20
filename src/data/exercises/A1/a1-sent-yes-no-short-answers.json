@@ -1,0 +1,321 @@
+[
+  {
+    "id": "a1-sent-yes-no-short-answers-1",
+    "topicId": "a1-sent-yes-no-short-answers",
+    "exercises": [
+      {
+        "id": "a1-sent-yes-no-short-answers-1-01",
+        "type": "match",
+        "prompt": "Połącz pytanie z odpowiedzią.",
+        "answer": [
+          "Are you hungry?|Yes, I am.",
+          "Do you like pizza?|Yes, I do.",
+          "Can you drive?|Yes, I can.",
+          "Is he your brother?|Yes, he is."
+        ],
+        "explanation": "Pytanie i krótka odpowiedź."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-02",
+        "type": "cloze",
+        "prompt": "Do you live here? – Yes, I ___.",
+        "answer": "do",
+        "explanation": "Do you...? – Yes, I do."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-03",
+        "type": "cloze",
+        "prompt": "Is it cold? – No, it ___.",
+        "answer": "isn't",
+        "accept": [
+          "is not"
+        ],
+        "explanation": "Is it...? – No, it isn't."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-04",
+        "type": "choice",
+        "prompt": "Are you a student? – Yes, ___.",
+        "answer": "I am",
+        "distractors": [
+          "I'm",
+          "I do"
+        ],
+        "explanation": "W twierdzącej bez skrótu: I am."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-05",
+        "type": "choice",
+        "prompt": "Does she speak English? – No, she ___.",
+        "answer": "doesn't",
+        "distractors": [
+          "don't",
+          "isn't"
+        ],
+        "explanation": "Does...? – No, she doesn't."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-06",
+        "type": "error",
+        "prompt": "Can you cook? – Yes, I do.",
+        "answer": [
+          "do",
+          "can"
+        ],
+        "explanation": "Can...? – Yes, I can."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-07",
+        "type": "tiles",
+        "prompt": "Czy jesteś zmęczony?",
+        "answer": [
+          "Are",
+          "you",
+          "tired"
+        ],
+        "explanation": "Are you...?"
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-08",
+        "type": "translate",
+        "prompt": "Tak, mam. (na pytanie: Have you got a pen?)",
+        "answer": "Yes, I have.",
+        "explanation": "Have you got...? – Yes, I have."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-09",
+        "type": "choice",
+        "prompt": "Have you got a sister? – No, I ___.",
+        "answer": "haven't",
+        "distractors": [
+          "don't",
+          "am not"
+        ],
+        "explanation": "Have you got...? – No, I haven't."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-1-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie tak/nie.\nShe is a doctor.",
+        "answer": "Is she a doctor?",
+        "explanation": "Is + she + ..."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-yes-no-short-answers-2",
+    "topicId": "a1-sent-yes-no-short-answers",
+    "exercises": [
+      {
+        "id": "a1-sent-yes-no-short-answers-2-01",
+        "type": "match",
+        "prompt": "Połącz odpowiedzi z opisem.",
+        "answer": [
+          "Yes, I do.|Tak (do)",
+          "No, I don't.|Nie (don't)",
+          "Yes, she is.|Tak (is)",
+          "No, she isn't.|Nie (isn't)"
+        ],
+        "explanation": "Krótkie odpowiedzi."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-02",
+        "type": "cloze",
+        "prompt": "Are they at school? – Yes, they ___.",
+        "answer": "are",
+        "explanation": "Are they...? – Yes, they are."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-03",
+        "type": "cloze",
+        "prompt": "Do you play tennis? – No, I ___.",
+        "answer": "don't",
+        "accept": [
+          "do not"
+        ],
+        "explanation": "No, I don't."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-04",
+        "type": "choice",
+        "prompt": "Is your flat big? – No, ___.",
+        "answer": "it isn't",
+        "distractors": [
+          "it doesn't",
+          "he isn't"
+        ],
+        "explanation": "Flat = it."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-05",
+        "type": "choice",
+        "prompt": "Can your dog swim? – Yes, ___.",
+        "answer": "it can",
+        "distractors": [
+          "it does",
+          "he is"
+        ],
+        "explanation": "Can...? – Yes, it can."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-06",
+        "type": "error",
+        "prompt": "Does he like coffee? – Yes, he do.",
+        "answer": [
+          "do",
+          "does"
+        ],
+        "explanation": "He – does."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-07",
+        "type": "tiles",
+        "prompt": "Czy on pracuje w banku?",
+        "answer": [
+          "Does",
+          "he",
+          "work",
+          "in",
+          "a",
+          "bank"
+        ],
+        "explanation": "Does + he + work."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-08",
+        "type": "translate",
+        "prompt": "Nie, nie umiem. (na pytanie: Can you ski?)",
+        "answer": "No, I can't.",
+        "accept": [
+          "No, I cannot."
+        ],
+        "explanation": "Can...? – No, I can't."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-09",
+        "type": "choice",
+        "prompt": "Are you from Italy? – No, ___.",
+        "answer": "I'm not",
+        "distractors": [
+          "I amn't",
+          "I don't"
+        ],
+        "explanation": "No, I'm not."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie tak/nie.\nThey like music.",
+        "answer": "Do they like music?",
+        "explanation": "Do + they + like."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-yes-no-short-answers-3",
+    "topicId": "a1-sent-yes-no-short-answers",
+    "exercises": [
+      {
+        "id": "a1-sent-yes-no-short-answers-3-01",
+        "type": "match",
+        "prompt": "Połącz pytanie z odpowiedzią.",
+        "answer": [
+          "Is it your phone?|Yes, it is.",
+          "Are you OK?|Yes, I am.",
+          "Does it work?|No, it doesn't.",
+          "Have you got time?|No, I haven't."
+        ],
+        "explanation": "Pytanie i krótka odpowiedź."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-02",
+        "type": "cloze",
+        "prompt": "Can they help us? – Yes, they ___.",
+        "answer": "can",
+        "explanation": "Yes, they can."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-03",
+        "type": "cloze",
+        "prompt": "Has she got a cat? – No, she ___.",
+        "answer": "hasn't",
+        "accept": [
+          "has not"
+        ],
+        "explanation": "Has she got...? – No, she hasn't."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-04",
+        "type": "choice",
+        "prompt": "Do your parents work? – Yes, ___.",
+        "answer": "they do",
+        "distractors": [
+          "they are",
+          "they does"
+        ],
+        "explanation": "Parents = they: they do."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-05",
+        "type": "choice",
+        "prompt": "Is Tom at work? – No, ___.",
+        "answer": "he isn't",
+        "distractors": [
+          "he doesn't",
+          "it isn't"
+        ],
+        "explanation": "Tom = he."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-06",
+        "type": "error",
+        "prompt": "Are you hungry? – Yes, I is.",
+        "answer": [
+          "is",
+          "am"
+        ],
+        "explanation": "I – am."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-07",
+        "type": "tiles",
+        "prompt": "Czy masz rodzeństwo?",
+        "answer": [
+          "Have",
+          "you",
+          "got",
+          "any",
+          "brothers",
+          "or",
+          "sisters"
+        ],
+        "explanation": "Have you got any...?"
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-08",
+        "type": "translate",
+        "prompt": "Tak, ona jest. (na pytanie: Is she your teacher?)",
+        "answer": "Yes, she is.",
+        "explanation": "Is she...? – Yes, she is."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-09",
+        "type": "choice",
+        "prompt": "Do you like jazz? – ___",
+        "answer": "No, I don't.",
+        "distractors": [
+          "No, I not.",
+          "No, I'm not."
+        ],
+        "explanation": "Do...? – No, I don't."
+      },
+      {
+        "id": "a1-sent-yes-no-short-answers-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie tak/nie.\nHe can play the guitar.",
+        "answer": "Can he play the guitar?",
+        "explanation": "Can + he + play."
+      }
+    ]
+  }
+]

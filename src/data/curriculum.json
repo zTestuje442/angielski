@@ -1209,6 +1209,71 @@
     ]
   },
   {
+    "id": "a1-vocab-personal-info",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 8,
+    "title": "Dane osobowe i przedstawianie się",
+    "explanation": "Dane osobowe – pytania i odpowiedzi, które słyszysz w szkole językowej, hotelu czy urzędzie:\n\n- *What's your name?* – *My name is Anna.* / *I'm Anna.*\n- *What's your surname / last name?* – nazwisko\n- *How old are you?* – *I'm 25 (years old).* (nie *I have 25*)\n- *Where are you from?* – *I'm from Poland.*\n- *Where do you live?* – *I live in Kraków.*\n- *What's your address?* – adres, *What's your phone number?* – numer telefonu\n- *What's your email address?* – *anna dot nowak at gmail dot com*\n- *What do you do?* – *I'm a nurse.* (zawód, z *a/an*)\n- *Are you married?* – *No, I'm single.*\n\nPrzydatne słowa: *first name* (imię), *date of birth* (data urodzenia), *postcode* (kod pocztowy), *nationality* (narodowość), *signature* (podpis).\n\nNa powitanie: *Nice to meet you.* – *Nice to meet you too.*",
+    "sets": [
+      "a1-vocab-personal-info-1",
+      "a1-vocab-personal-info-2",
+      "a1-vocab-personal-info-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-countries-nationalities",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 9,
+    "title": "Kraje, narodowości i języki",
+    "explanation": "Kraje, narodowości i języki – w angielskim **narodowość i język piszemy wielką literą**:\n\n- Poland – **Polish** (Polak, polski, język polski)\n- England – English, Britain / the UK – **British**\n- Germany – **German**, France – **French**, Spain – **Spanish**\n- Italy – **Italian**, Ukraine – **Ukrainian**, Russia – Russian\n- the USA – **American**, Canada – Canadian, Australia – Australian\n- China – **Chinese**, Japan – **Japanese**, Portugal – Portuguese\n- Ireland – **Irish**, Scotland – Scottish, Wales – Welsh\n\nZdania:\n- *I'm from Poland.* (kraj) – *I'm Polish.* (narodowość)\n- *I speak Polish and a little English.* (język – bez *the*)\n- *the USA, the UK* – z *the*; większość krajów bez przedimka.\n\nUwaga: *a Pole* (Polak – rzeczownik), ale najczęściej mówimy *I'm Polish*.",
+    "sets": [
+      "a1-vocab-countries-nationalities-1",
+      "a1-vocab-countries-nationalities-2",
+      "a1-vocab-countries-nationalities-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-animals",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 10,
+    "title": "Zwierzęta",
+    "explanation": "Zwierzęta – najważniejsze słowa:\n\n**Zwierzęta domowe** (*pets*): *dog, cat, rabbit* (królik), *hamster* (chomik), *fish, bird, parrot* (papuga)\n\n**Na wsi** (*farm animals*): *cow* (krowa), *horse* (koń), *pig* (świnia), *sheep* (owca), *chicken* (kura), *duck* (kaczka)\n\n**Dzikie** (*wild animals*): *lion, tiger, elephant, monkey, bear* (niedźwiedź), *wolf* (wilk), *fox* (lis), *snake* (wąż)\n\nUwaga na liczbę mnogą:\n- *sheep → sheep, fish → fish* (bez zmiany)\n- *mouse → mice* (mysz → myszy), *wolf → wolves*, *fox → foxes*\n\nZdania: *I have got a dog. Do you like cats? Elephants are big. Cats can climb trees.*",
+    "sets": [
+      "a1-vocab-animals-1",
+      "a1-vocab-animals-2",
+      "a1-vocab-animals-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-everyday-objects",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 11,
+    "title": "Przedmioty codziennego użytku",
+    "explanation": "Przedmioty, które masz w torbie, kieszeni i na biurku:\n\n- *bag* (torba), *wallet* (portfel), *purse* (portmonetka), *keys* (klucze), *phone*\n- *glasses* (okulary), *umbrella* (parasol), *watch* (zegarek na rękę), *clock* (zegar ścienny)\n- *pen* (długopis), *pencil* (ołówek), *notebook* (zeszyt), *book*, *laptop*, *charger* (ładowarka)\n- *bottle* (butelka), *cup* (filiżanka), *tissues* (chusteczki), *comb* (grzebień), *toothbrush*\n\nPytania:\n- *What's this? – It's an umbrella.* (przed samogłoską *an*)\n- *What are these? – They're keys.*\n- *Is this your pen? – Yes, it is. / No, it isn't.*\n- *Have you got a charger?*\n\n*Glasses, keys, scissors (nożyczki)* zwykle w liczbie mnogiej: *My glasses **are** on the table.*",
+    "sets": [
+      "a1-vocab-everyday-objects-1",
+      "a1-vocab-everyday-objects-2",
+      "a1-vocab-everyday-objects-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-adjectives-opposites",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 12,
+    "title": "Przymiotniki: przeciwieństwa",
+    "explanation": "Najczęstsze przymiotniki najłatwiej zapamiętać **parami przeciwieństw**:\n\n- *big – small* (duży – mały), *tall – short* (wysoki – niski, o ludziach)\n- *long – short* (długi – krótki), *old – young* (stary – młody, o ludziach)\n- *old – new* (stary – nowy, o rzeczach), *hot – cold* (gorący – zimny)\n- *fast – slow* (szybki – wolny), *easy – difficult* (łatwy – trudny)\n- *cheap – expensive* (tani – drogi), *happy – sad* (szczęśliwy – smutny)\n- *good – bad*, *clean – dirty* (czysty – brudny), *full – empty* (pełny – pusty)\n\nPrzymiotnik stoi **przed rzeczownikiem** i **nie ma liczby mnogiej**:\n*a big house – two big houses* (nie *bigs*).\n\nPo *be*: *The coffee is hot. The questions are easy.*",
+    "sets": [
+      "a1-vocab-adjectives-opposites-1",
+      "a1-vocab-adjectives-opposites-2",
+      "a1-vocab-adjectives-opposites-3"
+    ]
+  },
+  {
     "id": "a2-vocab-shopping",
     "section": "vocabulary",
     "level": "A2",
@@ -1300,6 +1365,71 @@
     ]
   },
   {
+    "id": "a2-vocab-housework",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 8,
+    "title": "Obowiązki domowe",
+    "explanation": "Obowiązki domowe – większość łączy się z **do** albo **make**:\n\n**do**: *do the washing* (robić pranie), *do the washing-up* (zmywać), *do the ironing* (prasować), *do the shopping*, *do the cooking*, *do the cleaning*\n\n**make**: *make the bed* (słać łóżko), *make dinner / breakfast*\n\nInne czasowniki:\n- *clean the windows / the bathroom* (myć, sprzątać)\n- *vacuum / hoover* (odkurzać), *sweep the floor* (zamiatać), *mop the floor* (myć podłogę mopem)\n- *tidy (up) your room* (sprzątać pokój), *take out the rubbish* (wynosić śmieci)\n- *water the plants* (podlewać kwiaty), *feed the cat* (karmić kota), *lay the table* (nakrywać do stołu)\n\nZdania: *Whose turn is it to do the washing-up?* (czyja kolej?), *I hate ironing!*, *My brother never tidies his room.*",
+    "sets": [
+      "a2-vocab-housework-1",
+      "a2-vocab-housework-2",
+      "a2-vocab-housework-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-restaurant-cooking",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 9,
+    "title": "Restauracja i gotowanie",
+    "explanation": "**W restauracji**:\n- *Can I see the menu, please?* / *Are you ready to order?* / *I'd like the soup, please.*\n- *What would you like to drink?* / *Can we have the bill, please?* (rachunek)\n- *starter* (przystawka), *main course* (danie główne), *dessert* (deser), *tip* (napiwek)\n- *waiter / waitress* (kelner / kelnerka), *table for two*\n\n**Gotowanie**:\n- *boil* (gotować w wodzie), *fry* (smażyć), *bake* (piec – ciasto, chleb), *roast* (piec – mięso, warzywa), *grill*\n- *cut* (kroić), *chop* (siekać), *peel* (obierać), *mix* (mieszać), *add* (dodać)\n- *a recipe* (przepis), *a pan* (patelnia), *a pot* (garnek), *an oven* (piekarnik)\n\nSmaki: *sweet, salty, spicy* (ostry), *sour* (kwaśny), *delicious* (pyszny).",
+    "sets": [
+      "a2-vocab-restaurant-cooking-1",
+      "a2-vocab-restaurant-cooking-2",
+      "a2-vocab-restaurant-cooking-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-sport",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 10,
+    "title": "Sport",
+    "explanation": "Sport – trzy czasowniki z trzema rodzajami dyscyplin:\n\n- **play** + gry z piłką i rywalizacja: *play football, tennis, volleyball, chess*\n- **go** + sporty na *-ing*: *go swimming, go running, go cycling, go skiing*\n- **do** + sporty indywidualne, sztuki walki, ćwiczenia: *do yoga, do karate, do gymnastics, do exercise*\n\nMiejsca: *pitch* (boisko piłkarskie), *court* (kort, boisko do koszykówki), *swimming pool, gym, track* (bieżnia), *ski slope* (stok)\n\nLudzie i wyniki: *player, team, coach* (trener), *fan, referee* (sędzia), *win – lose – draw* (wygrać – przegrać – zremisować), *score a goal*, *the score is 2–1*\n\nUwaga: *win a match* (wygrać mecz), ale *beat a team* (pokonać drużynę).",
+    "sets": [
+      "a2-vocab-sport-1",
+      "a2-vocab-sport-2",
+      "a2-vocab-sport-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-holidays-hotels",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 11,
+    "title": "Wakacje i hotel",
+    "explanation": "**Wakacje**: *go on holiday* (pojechać na wakacje), *book a trip* (zarezerwować), *go sightseeing* (zwiedzać), *go camping*, *a package holiday* (wczasy zorganizowane), *a guided tour* (wycieczka z przewodnikiem), *souvenirs* (pamiątki), *sunbathe* (opalać się)\n\n**Hotel**:\n- *a single / double / twin room* (jedno-, dwuosobowy z jednym łóżkiem / z dwoma łóżkami)\n- *book a room, check in, check out* (zameldować się, wymeldować)\n- *reception, receptionist, key card, lift* (winda)\n- *breakfast included* (śniadanie w cenie), *a sea view* (widok na morze), *full board* (pełne wyżywienie)\n\nZwroty: *I've got a reservation for two nights. What time is breakfast? Could I have a wake-up call at 7?*",
+    "sets": [
+      "a2-vocab-holidays-hotels-1",
+      "a2-vocab-holidays-hotels-2",
+      "a2-vocab-holidays-hotels-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-appearance-personality",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 12,
+    "title": "Wygląd i osobowość",
+    "explanation": "**Wygląd** – pytamy *What does she look like?* (jak wygląda?):\n- wzrost i budowa: *tall, short, medium height, slim* (szczupły), *overweight* (z nadwagą)\n- włosy: *long / short, straight / curly* (proste / kręcone), *blond, dark, red, grey*; *bald* (łysy)\n- inne: *a beard* (broda), *a moustache* (wąsy), *glasses, freckles* (piegi), *good-looking*\n\nSzyk przymiotników: *She's got **long blond** hair.* (długość przed kolorem). *Hair* – niepoliczalne, bez *-s*.\n\n**Osobowość** – pytamy *What is he like?* (jaki jest?):\n- *friendly, kind* (miły), *funny* (zabawny), *shy* (nieśmiały), *lazy* (leniwy), *hard-working*\n- *clever* (mądry), *rude* (niegrzeczny), *polite* (uprzejmy), *generous* (hojny), *honest* (uczciwy)\n\nUwaga: *What does he look like?* (wygląd) vs *What is he like?* (charakter) vs *What does he like?* (co lubi).",
+    "sets": [
+      "a2-vocab-appearance-personality-1",
+      "a2-vocab-appearance-personality-2",
+      "a2-vocab-appearance-personality-3"
+    ]
+  },
+  {
     "id": "b1-vocab-work-office",
     "section": "vocabulary",
     "level": "B1",
@@ -1388,6 +1518,71 @@
       "b1-vocab-collocations-make-do-have-take-1",
       "b1-vocab-collocations-make-do-have-take-2",
       "b1-vocab-collocations-make-do-have-take-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-relationships",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 8,
+    "title": "Relacje i życie towarzyskie",
+    "explanation": "",
+    "sets": [
+      "b1-vocab-relationships-1",
+      "b1-vocab-relationships-2",
+      "b1-vocab-relationships-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-health-doctor",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 9,
+    "title": "Zdrowie: u lekarza i w aptece",
+    "explanation": "",
+    "sets": [
+      "b1-vocab-health-doctor-1",
+      "b1-vocab-health-doctor-2",
+      "b1-vocab-health-doctor-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-travel-problems",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 10,
+    "title": "Podróże: kłopoty i rozwiązania",
+    "explanation": "",
+    "sets": [
+      "b1-vocab-travel-problems-1",
+      "b1-vocab-travel-problems-2",
+      "b1-vocab-travel-problems-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-money-banking",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 11,
+    "title": "Pieniądze i bank",
+    "explanation": "",
+    "sets": [
+      "b1-vocab-money-banking-1",
+      "b1-vocab-money-banking-2",
+      "b1-vocab-money-banking-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-crime-law",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 12,
+    "title": "Przestępstwa i prawo",
+    "explanation": "",
+    "sets": [
+      "b1-vocab-crime-law-1",
+      "b1-vocab-crime-law-2",
+      "b1-vocab-crime-law-3"
     ]
   },
   {
@@ -1495,6 +1690,71 @@
     ]
   },
   {
+    "id": "b2-vocab-science-research",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 9,
+    "title": "Nauka i badania",
+    "explanation": "",
+    "sets": [
+      "b2-vocab-science-research-1",
+      "b2-vocab-science-research-2",
+      "b2-vocab-science-research-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-politics-society",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 10,
+    "title": "Polityka i społeczeństwo",
+    "explanation": "",
+    "sets": [
+      "b2-vocab-politics-society-1",
+      "b2-vocab-politics-society-2",
+      "b2-vocab-politics-society-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-marketing-advertising",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 11,
+    "title": "Marketing i reklama",
+    "explanation": "",
+    "sets": [
+      "b2-vocab-marketing-advertising-1",
+      "b2-vocab-marketing-advertising-2",
+      "b2-vocab-marketing-advertising-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-housing-property",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 12,
+    "title": "Mieszkanie i nieruchomości",
+    "explanation": "",
+    "sets": [
+      "b2-vocab-housing-property-1",
+      "b2-vocab-housing-property-2",
+      "b2-vocab-housing-property-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-verb-collocations",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 13,
+    "title": "Kolokacje z czasownikami: take, keep, catch, pay",
+    "explanation": "",
+    "sets": [
+      "b2-vocab-verb-collocations-1",
+      "b2-vocab-verb-collocations-2",
+      "b2-vocab-verb-collocations-3"
+    ]
+  },
+  {
     "id": "c1-vocab-idioms-expressions",
     "section": "vocabulary",
     "level": "C1",
@@ -1573,6 +1833,71 @@
     ]
   },
   {
+    "id": "c1-vocab-academic",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 7,
+    "title": "Słownictwo akademickie",
+    "explanation": "",
+    "sets": [
+      "c1-vocab-academic-1",
+      "c1-vocab-academic-2",
+      "c1-vocab-academic-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-law-ethics",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 8,
+    "title": "Prawo i etyka",
+    "explanation": "",
+    "sets": [
+      "c1-vocab-law-ethics-1",
+      "c1-vocab-law-ethics-2",
+      "c1-vocab-law-ethics-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-economy-globalisation",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 9,
+    "title": "Gospodarka i globalizacja",
+    "explanation": "",
+    "sets": [
+      "c1-vocab-economy-globalisation-1",
+      "c1-vocab-economy-globalisation-2",
+      "c1-vocab-economy-globalisation-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-psychology-behaviour",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 10,
+    "title": "Psychologia i zachowanie",
+    "explanation": "",
+    "sets": [
+      "c1-vocab-psychology-behaviour-1",
+      "c1-vocab-psychology-behaviour-2",
+      "c1-vocab-psychology-behaviour-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-binomials-fixed-phrases",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 11,
+    "title": "Wyrażenia parowe i stałe zwroty",
+    "explanation": "",
+    "sets": [
+      "c1-vocab-binomials-fixed-phrases-1",
+      "c1-vocab-binomials-fixed-phrases-2",
+      "c1-vocab-binomials-fixed-phrases-3"
+    ]
+  },
+  {
     "id": "a1-sent-word-order",
     "section": "sentences",
     "level": "A1",
@@ -1596,6 +1921,58 @@
       "a1-sent-negatives-questions-1",
       "a1-sent-negatives-questions-2",
       "a1-sent-negatives-questions-3"
+    ]
+  },
+  {
+    "id": "a1-sent-yes-no-short-answers",
+    "section": "sentences",
+    "level": "A1",
+    "order": 3,
+    "title": "Pytania tak/nie i krótkie odpowiedzi",
+    "explanation": "**Pytania tak/nie** zaczynamy od czasownika posiłkowego, a odpowiadamy **krótko**, powtarzając ten czasownik:\n\n- *Are you tired?* – *Yes, I am.* / *No, I'm not.*\n- *Is she at home?* – *Yes, she is.* / *No, she isn't.*\n- *Do you like tea?* – *Yes, I do.* / *No, I don't.*\n- *Does he work here?* – *Yes, he does.* / *No, he doesn't.*\n- *Can you swim?* – *Yes, I can.* / *No, I can't.*\n- *Have you got a car?* – *Yes, I have.* / *No, I haven't.*\n\nW odpowiedzi twierdzącej **nie skracamy**: *Yes, I am.* (nie *Yes, I'm.*)\n\nSamo *Yes.* czy *No.* brzmi po angielsku dość szorstko – krótka odpowiedź jest grzeczniejsza.",
+    "sets": [
+      "a1-sent-yes-no-short-answers-1",
+      "a1-sent-yes-no-short-answers-2",
+      "a1-sent-yes-no-short-answers-3"
+    ]
+  },
+  {
+    "id": "a1-sent-introductions",
+    "section": "sentences",
+    "level": "A1",
+    "order": 4,
+    "title": "Przedstawianie się i pytania o osobę",
+    "explanation": "Pierwsza rozmowa z nową osobą – typowe pytania i odpowiedzi w pełnych zdaniach:\n\n- *Hi, I'm Marta. What's your name?* – *I'm Ben. Nice to meet you.*\n- *Where are you from?* – *I'm from Poland, from Gdańsk.*\n- *What do you do?* – *I'm a programmer. I work for a big company.*\n- *Have you got any brothers or sisters?* – *Yes, I've got one brother.*\n- *What do you like doing?* – *I like reading and swimming.*\n\nPrzedstawianie innych: *This is my friend, Kasia.* (nie *He is my friend* przy przedstawianiu)\n\nZwroty grzecznościowe:\n- *How are you?* – *Fine, thanks. And you?*\n- *See you later! / Bye! / Have a nice day!*\n\nSzyk zdania: **kto – co robi – reszta**: *I work in an office. She likes music.*",
+    "sets": [
+      "a1-sent-introductions-1",
+      "a1-sent-introductions-2",
+      "a1-sent-introductions-3"
+    ]
+  },
+  {
+    "id": "a1-sent-describing-places",
+    "section": "sentences",
+    "level": "A1",
+    "order": 5,
+    "title": "Opis miejsca: there is i przyimki",
+    "explanation": "Opis pokoju, mieszkania czy miasta budujesz z **there is / there are** i **przyimków miejsca**:\n\n- *There is a sofa in the living room.* (jedna rzecz)\n- *There are two windows in my room.* (kilka rzeczy)\n- *There isn't a garden. There aren't any shops.*\n- *Is there a lift? – Yes, there is.*\n\nPrzyimki:\n- *in* – w: *in the box*\n- *on* – na: *on the table*\n- *under* – pod: *under the bed*\n- *next to* – obok: *next to the window*\n- *between* – między: *between the door and the desk*\n- *in front of* – przed, *behind* – za\n- *opposite* – naprzeciwko\n\nOpis miejsca zaczynamy zwykle od ogółu do szczegółu: *There's a big park in my town. In the park there is a lake.*",
+    "sets": [
+      "a1-sent-describing-places-1",
+      "a1-sent-describing-places-2",
+      "a1-sent-describing-places-3"
+    ]
+  },
+  {
+    "id": "a1-sent-time-expressions",
+    "section": "sentences",
+    "level": "A1",
+    "order": 6,
+    "title": "Określenia czasu w zdaniu",
+    "explanation": "**Określenia czasu** stoją zwykle **na końcu zdania** (albo na początku, dla podkreślenia):\n\n- *I go to the gym **on Mondays**.* / ***On Mondays** I go to the gym.*\n\nPrzyimki czasu:\n- **at** + godzina i pora: *at 7 o'clock, at night, at the weekend*\n- **on** + dzień i data: *on Friday, on 5 May, on my birthday*\n- **in** + miesiąc, rok, pora roku, część dnia: *in June, in 2024, in winter, in the morning*\n\nBez przyimka: *every day, every week, today, tomorrow, yesterday, this evening, next week, last year*.\n\nPrzysłówki częstotliwości stoją **przed czasownikiem**: *I **always** get up at 6.*, ale po *be*: *She **is** never late.*\n\nKolejność na końcu zdania: **miejsce przed czasem**: *I go **to work at 8**.*",
+    "sets": [
+      "a1-sent-time-expressions-1",
+      "a1-sent-time-expressions-2",
+      "a1-sent-time-expressions-3"
     ]
   },
   {
@@ -1625,6 +2002,58 @@
     ]
   },
   {
+    "id": "a2-sent-past-stories",
+    "section": "sentences",
+    "level": "A2",
+    "order": 3,
+    "title": "Opowiadanie o przeszłości: first, then, after that",
+    "explanation": "Opowiadając o przeszłości, porządkujemy wydarzenia **słowami kolejności**:\n\n- na początek: ***First**, ... / **At first**, ... / **One day**, ... / **Last summer**, ...*\n- dalej: ***Then** ... / **After that** ... / **Next** ... / **Later** ...*\n- na koniec: ***Finally** ... / **In the end** ...*\n\nCzasy: **Past Simple** dla kolejnych zdarzeń: *We **got up** early, **had** breakfast and **went** to the station.*\n\nPrzydatne łączniki: *when* (kiedy), *because* (bo), *so* (więc), *but* (ale).\n\nSzyk: *After that we went to the beach.* (z przecinkiem lub bez) · *Then she called me.*\n\nUwaga: *after* + rzeczownik: ***After lunch** we went home.* · *after that* = potem (samodzielnie).",
+    "sets": [
+      "a2-sent-past-stories-1",
+      "a2-sent-past-stories-2",
+      "a2-sent-past-stories-3"
+    ]
+  },
+  {
+    "id": "a2-sent-comparisons",
+    "section": "sentences",
+    "level": "A2",
+    "order": 4,
+    "title": "Porównywanie w zdaniach",
+    "explanation": "Porównania w pełnych zdaniach:\n\n- **stopień wyższy + than**: *My brother is **taller than** me. Trains are **more comfortable than** buses.*\n- **stopień najwyższy**: *It's **the biggest** city **in** Poland. It's **the most expensive** hotel **in** town.*\n- **as ... as** (tak samo): *She's **as tall as** her mum.* · ***not as** ... **as*** (nie tak ... jak): *Kraków is**n't as big as** Warsaw.*\n- nieregularne: *good – better – the best, bad – worse – the worst, far – further – the furthest*\n\nWzmacnianie: ***much / a lot** bigger* (dużo większy), ***a bit** cheaper* (trochę tańszy).\n\nPo *than* w mowie potocznej: *than me / than him* (nie *than I* – to brzmi bardzo formalnie).",
+    "sets": [
+      "a2-sent-comparisons-1",
+      "a2-sent-comparisons-2",
+      "a2-sent-comparisons-3"
+    ]
+  },
+  {
+    "id": "a2-sent-subject-object-questions",
+    "section": "sentences",
+    "level": "A2",
+    "order": 5,
+    "title": "Pytania o podmiot i dopełnienie",
+    "explanation": "Dwa rodzaje pytań z *who / what*:\n\n**Pytanie o dopełnienie** – z *do / does / did*:\n- *Anna called **Tom**.* → *Who **did** Anna **call**?* (Kogo zawołała Anna?)\n- *She likes **pizza**.* → *What **does** she **like**?*\n\n**Pytanie o podmiot** – **bez** *do / does / did*, szyk jak w zdaniu twierdzącym:\n- ***Anna** called Tom.* → *Who **called** Tom?* (Kto zadzwonił do Toma?)\n- ***The window** broke.* → *What **broke**?*\n- *Who **lives** here?* (czasownik w 3. os. l. poj., *-s*)\n\nPorównaj:\n- *Who **saw** you?* – kto cię widział?\n- *Who **did** you **see**?* – kogo widziałeś?\n\nCzęsty błąd: *Who did call you?* → poprawnie *Who called you?*",
+    "sets": [
+      "a2-sent-subject-object-questions-1",
+      "a2-sent-subject-object-questions-2",
+      "a2-sent-subject-object-questions-3"
+    ]
+  },
+  {
+    "id": "a2-sent-opinions-reasons",
+    "section": "sentences",
+    "level": "A2",
+    "order": 6,
+    "title": "Opinia i uzasadnienie",
+    "explanation": "Wyrażanie opinii i uzasadnianie jej:\n\n**Opinia**: *I think (that)... / I don't think... / In my opinion, ... / For me, ... / I believe...*\n- Przeczenie przenosimy do *think*: ***I don't think** it's a good idea.* (nie *I think it isn't...*)\n\n**Uzasadnienie**: *because..., because of + rzeczownik, that's why...*\n- *I like summer **because** it's warm.*\n- *I stayed at home **because of** the rain.*\n\n**Pytanie o opinię**: *What do you think about...? / What's your opinion of...? / Do you like...?*\n\n**Zgoda i niezgoda (krótko)**: *I agree. / I don't agree. / Me too. / Me neither.* (ja też nie)\n\nPrzykład: *I think living in a city is better. **Firstly**, there are more jobs. **Also**, public transport is good.*",
+    "sets": [
+      "a2-sent-opinions-reasons-1",
+      "a2-sent-opinions-reasons-2",
+      "a2-sent-opinions-reasons-3"
+    ]
+  },
+  {
     "id": "b1-sent-complex-when-if-although",
     "section": "sentences",
     "level": "B1",
@@ -1648,6 +2077,58 @@
       "b1-sent-work-phrases-1",
       "b1-sent-work-phrases-2",
       "b1-sent-work-phrases-3"
+    ]
+  },
+  {
+    "id": "b1-sent-indirect-questions",
+    "section": "sentences",
+    "level": "B1",
+    "order": 3,
+    "title": "Pytania pośrednie: Could you tell me…",
+    "explanation": "",
+    "sets": [
+      "b1-sent-indirect-questions-1",
+      "b1-sent-indirect-questions-2",
+      "b1-sent-indirect-questions-3"
+    ]
+  },
+  {
+    "id": "b1-sent-agreeing-disagreeing",
+    "section": "sentences",
+    "level": "B1",
+    "order": 4,
+    "title": "Zgoda i niezgoda",
+    "explanation": "",
+    "sets": [
+      "b1-sent-agreeing-disagreeing-1",
+      "b1-sent-agreeing-disagreeing-2",
+      "b1-sent-agreeing-disagreeing-3"
+    ]
+  },
+  {
+    "id": "b1-sent-advice-suggestions",
+    "section": "sentences",
+    "level": "B1",
+    "order": 5,
+    "title": "Rady i sugestie",
+    "explanation": "",
+    "sets": [
+      "b1-sent-advice-suggestions-1",
+      "b1-sent-advice-suggestions-2",
+      "b1-sent-advice-suggestions-3"
+    ]
+  },
+  {
+    "id": "b1-sent-cause-result",
+    "section": "sentences",
+    "level": "B1",
+    "order": 6,
+    "title": "Przyczyna i skutek",
+    "explanation": "",
+    "sets": [
+      "b1-sent-cause-result-1",
+      "b1-sent-cause-result-2",
+      "b1-sent-cause-result-3"
     ]
   },
   {
@@ -1690,6 +2171,58 @@
     ]
   },
   {
+    "id": "b2-sent-contrast-concession",
+    "section": "sentences",
+    "level": "B2",
+    "order": 4,
+    "title": "Kontrast i przyznanie racji",
+    "explanation": "",
+    "sets": [
+      "b2-sent-contrast-concession-1",
+      "b2-sent-contrast-concession-2",
+      "b2-sent-contrast-concession-3"
+    ]
+  },
+  {
+    "id": "b2-sent-purpose-result",
+    "section": "sentences",
+    "level": "B2",
+    "order": 5,
+    "title": "Cel i skutek: so that, in order to, so… that",
+    "explanation": "",
+    "sets": [
+      "b2-sent-purpose-result-1",
+      "b2-sent-purpose-result-2",
+      "b2-sent-purpose-result-3"
+    ]
+  },
+  {
+    "id": "b2-sent-conditionals-without-if",
+    "section": "sentences",
+    "level": "B2",
+    "order": 6,
+    "title": "Warunki bez if: unless, provided, in case",
+    "explanation": "",
+    "sets": [
+      "b2-sent-conditionals-without-if-1",
+      "b2-sent-conditionals-without-if-2",
+      "b2-sent-conditionals-without-if-3"
+    ]
+  },
+  {
+    "id": "b2-sent-diplomatic-language",
+    "section": "sentences",
+    "level": "B2",
+    "order": 7,
+    "title": "Dyplomatyczne sformułowania",
+    "explanation": "",
+    "sets": [
+      "b2-sent-diplomatic-language-1",
+      "b2-sent-diplomatic-language-2",
+      "b2-sent-diplomatic-language-3"
+    ]
+  },
+  {
     "id": "c1-sent-inversion-emphasis-practice",
     "section": "sentences",
     "level": "C1",
@@ -1726,6 +2259,58 @@
       "c1-sent-concision-1",
       "c1-sent-concision-2",
       "c1-sent-concision-3"
+    ]
+  },
+  {
+    "id": "c1-sent-sentence-variety",
+    "section": "sentences",
+    "level": "C1",
+    "order": 4,
+    "title": "Różnorodność budowy zdań",
+    "explanation": "",
+    "sets": [
+      "c1-sent-sentence-variety-1",
+      "c1-sent-sentence-variety-2",
+      "c1-sent-sentence-variety-3"
+    ]
+  },
+  {
+    "id": "c1-sent-advanced-paraphrasing",
+    "section": "sentences",
+    "level": "C1",
+    "order": 5,
+    "title": "Parafrazy na poziomie C1",
+    "explanation": "",
+    "sets": [
+      "c1-sent-advanced-paraphrasing-1",
+      "c1-sent-advanced-paraphrasing-2",
+      "c1-sent-advanced-paraphrasing-3"
+    ]
+  },
+  {
+    "id": "c1-sent-cohesion-reference",
+    "section": "sentences",
+    "level": "C1",
+    "order": 6,
+    "title": "Spójność tekstu: odwołania i zastępowanie",
+    "explanation": "",
+    "sets": [
+      "c1-sent-cohesion-reference-1",
+      "c1-sent-cohesion-reference-2",
+      "c1-sent-cohesion-reference-3"
+    ]
+  },
+  {
+    "id": "c1-sent-academic-structures",
+    "section": "sentences",
+    "level": "C1",
+    "order": 7,
+    "title": "Struktury akademickie",
+    "explanation": "",
+    "sets": [
+      "c1-sent-academic-structures-1",
+      "c1-sent-academic-structures-2",
+      "c1-sent-academic-structures-3"
     ]
   },
   {
@@ -1768,6 +2353,45 @@
     ]
   },
   {
+    "id": "a1-reading-postcard",
+    "section": "reading",
+    "level": "A1",
+    "order": 4,
+    "title": "Pocztówka",
+    "explanation": "Pocztówka to krótki tekst z wakacji: **gdzie jestem, jak jest, co robię, kiedy wracam**.\n\nTypowe zwroty: *Greetings from...* (pozdrowienia z...), *The weather is...*, *Every day we...*, *See you soon!*, *Love, ...*\n\nSzukaj w tekście: miejsc, pogody, czynności i dni tygodnia – o to najczęściej pytają zadania.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo,\n- **False** – tekst mówi coś innego,\n- **Not given** – tekst o tym nie mówi.",
+    "sets": [
+      "a1-reading-postcard-1",
+      "a1-reading-postcard-2",
+      "a1-reading-postcard-3"
+    ]
+  },
+  {
+    "id": "a1-reading-profile",
+    "section": "reading",
+    "level": "A1",
+    "order": 5,
+    "title": "Profil osoby",
+    "explanation": "Profil osoby – na portalu, w szkole językowej czy w firmie. Informacje są zwykle w stałej kolejności: **imię, wiek, skąd pochodzi, praca, rodzina, zainteresowania**.\n\nZwracaj uwagę na **czasowniki w 3. osobie** (*she lives, he works*) i na słowa *but, and, also* – często zmieniają sens.\n\nPytania z *Who...?* dotyczą osób, *What...?* – rzeczy i czynności, *Where...?* – miejsc.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo,\n- **False** – tekst mówi coś innego,\n- **Not given** – tekst o tym nie mówi.",
+    "sets": [
+      "a1-reading-profile-1",
+      "a1-reading-profile-2",
+      "a1-reading-profile-3"
+    ]
+  },
+  {
+    "id": "a1-reading-timetable-menu",
+    "section": "reading",
+    "level": "A1",
+    "order": 6,
+    "title": "Menu i rozkład",
+    "explanation": "Menu, rozkłady jazdy i plany zajęć to teksty z **liczbami, godzinami i cenami**. Nie musisz czytać wszystkiego – **szukaj** konkretnej informacji (*scanning*).\n\nPrzydatne słowa: *departure* (odjazd), *arrival* (przyjazd), *platform* (peron), *daily* (codziennie), *except* (oprócz), *starter / main course / dessert* (przystawka / danie główne / deser), *included* (wliczony).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo,\n- **False** – tekst mówi coś innego,\n- **Not given** – tekst o tym nie mówi.",
+    "sets": [
+      "a1-reading-timetable-menu-1",
+      "a1-reading-timetable-menu-2",
+      "a1-reading-timetable-menu-3"
+    ]
+  },
+  {
     "id": "a2-reading-email",
     "section": "reading",
     "level": "A2",
@@ -1804,6 +2428,45 @@
       "a2-reading-article-1",
       "a2-reading-article-2",
       "a2-reading-article-3"
+    ]
+  },
+  {
+    "id": "a2-reading-story",
+    "section": "reading",
+    "level": "A2",
+    "order": 4,
+    "title": "Krótkie opowiadanie",
+    "explanation": "Krótkie opowiadanie opisuje zdarzenia **po kolei**, zwykle w **Past Simple**. Śledź słowa kolejności: *first, then, after that, suddenly* (nagle), *in the end*.\n\nPytania często dotyczą **przyczyny** (*Why...?*) i **zakończenia** (*How did it end?*). Odpowiedź bywa podana innymi słowami niż w tekście.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi.",
+    "sets": [
+      "a2-reading-story-1",
+      "a2-reading-story-2",
+      "a2-reading-story-3"
+    ]
+  },
+  {
+    "id": "a2-reading-advert",
+    "section": "reading",
+    "level": "A2",
+    "order": 5,
+    "title": "Reklama i oferta",
+    "explanation": "Reklamy i oferty chcą Cię przekonać, ale ważne są **konkrety**: cena, termin, warunki. Czytaj uważnie słowa: *free* (za darmo), *only* (tylko), *from* (od – cena minimalna), *until* (do), *including* (w tym), *extra* (dodatkowo płatne), *book* (rezerwować).\n\nPytania często sprawdzają, **co jest w cenie**, a co trzeba dopłacić.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi.",
+    "sets": [
+      "a2-reading-advert-1",
+      "a2-reading-advert-2",
+      "a2-reading-advert-3"
+    ]
+  },
+  {
+    "id": "a2-reading-blog",
+    "section": "reading",
+    "level": "A2",
+    "order": 6,
+    "title": "Wpis na blogu",
+    "explanation": "Wpis na blogu jest osobisty i potoczny: autor pisze o **swoich doświadczeniach i opiniach**, zwraca się do czytelnika (*Have you ever...? What do you think?*).\n\nOdróżniaj **fakty** (*I moved to Berlin in May*) od **opinii** (*I think Berlin is amazing*). Pytania często dotyczą tego, co autor **czuje** albo **radzi**.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi.",
+    "sets": [
+      "a2-reading-blog-1",
+      "a2-reading-blog-2",
+      "a2-reading-blog-3"
     ]
   },
   {
@@ -1846,6 +2509,45 @@
     ]
   },
   {
+    "id": "b1-reading-story",
+    "section": "reading",
+    "level": "B1",
+    "order": 4,
+    "title": "Opowiadanie",
+    "explanation": "",
+    "sets": [
+      "b1-reading-story-1",
+      "b1-reading-story-2",
+      "b1-reading-story-3"
+    ]
+  },
+  {
+    "id": "b1-reading-review",
+    "section": "reading",
+    "level": "B1",
+    "order": 5,
+    "title": "Recenzja",
+    "explanation": "",
+    "sets": [
+      "b1-reading-review-1",
+      "b1-reading-review-2",
+      "b1-reading-review-3"
+    ]
+  },
+  {
+    "id": "b1-reading-interview",
+    "section": "reading",
+    "level": "B1",
+    "order": 6,
+    "title": "Wywiad",
+    "explanation": "",
+    "sets": [
+      "b1-reading-interview-1",
+      "b1-reading-interview-2",
+      "b1-reading-interview-3"
+    ]
+  },
+  {
     "id": "b2-reading-article",
     "section": "reading",
     "level": "B2",
@@ -1882,6 +2584,45 @@
       "b2-reading-instructions-1",
       "b2-reading-instructions-2",
       "b2-reading-instructions-3"
+    ]
+  },
+  {
+    "id": "b2-reading-report",
+    "section": "reading",
+    "level": "B2",
+    "order": 4,
+    "title": "Raport",
+    "explanation": "",
+    "sets": [
+      "b2-reading-report-1",
+      "b2-reading-report-2",
+      "b2-reading-report-3"
+    ]
+  },
+  {
+    "id": "b2-reading-biography",
+    "section": "reading",
+    "level": "B2",
+    "order": 5,
+    "title": "Biografia",
+    "explanation": "",
+    "sets": [
+      "b2-reading-biography-1",
+      "b2-reading-biography-2",
+      "b2-reading-biography-3"
+    ]
+  },
+  {
+    "id": "b2-reading-story",
+    "section": "reading",
+    "level": "B2",
+    "order": 6,
+    "title": "Fragment prozy",
+    "explanation": "",
+    "sets": [
+      "b2-reading-story-1",
+      "b2-reading-story-2",
+      "b2-reading-story-3"
     ]
   },
   {
@@ -1924,6 +2665,45 @@
     ]
   },
   {
+    "id": "c1-reading-review",
+    "section": "reading",
+    "level": "C1",
+    "order": 4,
+    "title": "Recenzja",
+    "explanation": "",
+    "sets": [
+      "c1-reading-review-1",
+      "c1-reading-review-2",
+      "c1-reading-review-3"
+    ]
+  },
+  {
+    "id": "c1-reading-popular-science",
+    "section": "reading",
+    "level": "C1",
+    "order": 5,
+    "title": "Tekst popularnonaukowy",
+    "explanation": "",
+    "sets": [
+      "c1-reading-popular-science-1",
+      "c1-reading-popular-science-2",
+      "c1-reading-popular-science-3"
+    ]
+  },
+  {
+    "id": "c1-reading-literary",
+    "section": "reading",
+    "level": "C1",
+    "order": 6,
+    "title": "Proza literacka",
+    "explanation": "",
+    "sets": [
+      "c1-reading-literary-1",
+      "c1-reading-literary-2",
+      "c1-reading-literary-3"
+    ]
+  },
+  {
     "id": "a2-writing-short-message",
     "section": "writing",
     "level": "A2",
@@ -1950,6 +2730,45 @@
     ]
   },
   {
+    "id": "a2-writing-postcard",
+    "section": "writing",
+    "level": "A2",
+    "order": 3,
+    "title": "Pocztówka",
+    "explanation": "**Pocztówka z wakacji** (25–50 słów) odpowiada na cztery pytania: **gdzie jesteś, jak jest, co robisz, kiedy wracasz**.\n\n1. **Powitanie**: *Dear Grandma, / Hi Kasia,*\n2. **Miejsce i opinia**: *Greetings from Rome! It's amazing here.*\n3. **Pogoda i nocleg**: *The weather is hot and sunny. Our hotel is near the sea.*\n4. **Co robisz** (Present Continuous lub Present Simple): *We're swimming every day. Yesterday we visited a castle.* (Past Simple dla tego, co już się stało)\n5. **Zakończenie**: *See you on Sunday! / Wish you were here!* + *Love, / Best wishes,* i imię\n\nPocztówka jest krótka, więc nie opisuj wszystkiego – wybierz 2–3 ciekawe rzeczy.",
+    "sets": [
+      "a2-writing-postcard-1",
+      "a2-writing-postcard-2",
+      "a2-writing-postcard-3"
+    ]
+  },
+  {
+    "id": "a2-writing-invitation",
+    "section": "writing",
+    "level": "A2",
+    "order": 4,
+    "title": "Zaproszenie i odpowiedź",
+    "explanation": "**Zaproszenie** (25–50 słów) musi zawierać: **na co, kiedy, gdzie** i prośbę o odpowiedź.\n\n- *Would you like to come to my party?* / *I'm having a barbecue on Saturday.* / *Let's meet at...*\n- *It starts at 7 p.m. at my house (15 Green Street).*\n- *Please let me know if you can come.* / *Can you bring some music?*\n\n**Odpowiedź na zaproszenie**:\n- przyjęcie: *Thanks for the invitation! I'd love to come. Can I bring anything?*\n- odmowa: *Thank you for inviting me, but I'm afraid I can't come because... Have a great time!*\n\nGrzecznie odmawiaj: podziękuj, przeproś (*I'm sorry*), podaj powód, życz dobrej zabawy.",
+    "sets": [
+      "a2-writing-invitation-1",
+      "a2-writing-invitation-2",
+      "a2-writing-invitation-3"
+    ]
+  },
+  {
+    "id": "a2-writing-about-me",
+    "section": "writing",
+    "level": "A2",
+    "order": 5,
+    "title": "Opis siebie i swojego dnia",
+    "explanation": "**Opis siebie i swojego dnia** (25–50 słów) – na kurs językowy, do e-maila z nowym kolegą, na portal:\n\n1. **Kim jesteś**: *My name is... I'm 30. I'm from... I live in...*\n2. **Praca / szkoła**: *I work as a... / I'm a student at...*\n3. **Typowy dzień** (Present Simple + przysłówki częstotliwości): *I usually get up at 7. I start work at 9. In the evening I often read.*\n4. **Zainteresowania**: *I like... / I'm interested in... / In my free time I...*\n\nŁącz zdania: *and, but, because, so, then*. Nie zaczynaj każdego zdania od *I* – użyj *In the morning..., At the weekend..., My favourite...*",
+    "sets": [
+      "a2-writing-about-me-1",
+      "a2-writing-about-me-2",
+      "a2-writing-about-me-3"
+    ]
+  },
+  {
     "id": "b1-writing-informal-email",
     "section": "writing",
     "level": "B1",
@@ -1973,6 +2792,45 @@
       "b1-writing-description-1",
       "b1-writing-description-2",
       "b1-writing-description-3"
+    ]
+  },
+  {
+    "id": "b1-writing-story",
+    "section": "writing",
+    "level": "B1",
+    "order": 3,
+    "title": "Opowiadanie",
+    "explanation": "",
+    "sets": [
+      "b1-writing-story-1",
+      "b1-writing-story-2",
+      "b1-writing-story-3"
+    ]
+  },
+  {
+    "id": "b1-writing-review",
+    "section": "writing",
+    "level": "B1",
+    "order": 4,
+    "title": "Recenzja",
+    "explanation": "",
+    "sets": [
+      "b1-writing-review-1",
+      "b1-writing-review-2",
+      "b1-writing-review-3"
+    ]
+  },
+  {
+    "id": "b1-writing-article",
+    "section": "writing",
+    "level": "B1",
+    "order": 5,
+    "title": "Artykuł do gazetki",
+    "explanation": "",
+    "sets": [
+      "b1-writing-article-1",
+      "b1-writing-article-2",
+      "b1-writing-article-3"
     ]
   },
   {
@@ -2015,6 +2873,45 @@
     ]
   },
   {
+    "id": "b2-writing-article",
+    "section": "writing",
+    "level": "B2",
+    "order": 4,
+    "title": "Artykuł",
+    "explanation": "",
+    "sets": [
+      "b2-writing-article-1",
+      "b2-writing-article-2",
+      "b2-writing-article-3"
+    ]
+  },
+  {
+    "id": "b2-writing-review",
+    "section": "writing",
+    "level": "B2",
+    "order": 5,
+    "title": "Recenzja",
+    "explanation": "",
+    "sets": [
+      "b2-writing-review-1",
+      "b2-writing-review-2",
+      "b2-writing-review-3"
+    ]
+  },
+  {
+    "id": "b2-writing-cover-letter",
+    "section": "writing",
+    "level": "B2",
+    "order": 6,
+    "title": "List motywacyjny",
+    "explanation": "",
+    "sets": [
+      "b2-writing-cover-letter-1",
+      "b2-writing-cover-letter-2",
+      "b2-writing-cover-letter-3"
+    ]
+  },
+  {
     "id": "c1-writing-proposal",
     "section": "writing",
     "level": "C1",
@@ -2051,6 +2948,45 @@
       "c1-writing-argumentative-essay-1",
       "c1-writing-argumentative-essay-2",
       "c1-writing-argumentative-essay-3"
+    ]
+  },
+  {
+    "id": "c1-writing-report",
+    "section": "writing",
+    "level": "C1",
+    "order": 4,
+    "title": "Raport",
+    "explanation": "",
+    "sets": [
+      "c1-writing-report-1",
+      "c1-writing-report-2",
+      "c1-writing-report-3"
+    ]
+  },
+  {
+    "id": "c1-writing-formal-letter",
+    "section": "writing",
+    "level": "C1",
+    "order": 5,
+    "title": "List formalny",
+    "explanation": "",
+    "sets": [
+      "c1-writing-formal-letter-1",
+      "c1-writing-formal-letter-2",
+      "c1-writing-formal-letter-3"
+    ]
+  },
+  {
+    "id": "c1-writing-article",
+    "section": "writing",
+    "level": "C1",
+    "order": 6,
+    "title": "Artykuł publicystyczny",
+    "explanation": "",
+    "sets": [
+      "c1-writing-article-1",
+      "c1-writing-article-2",
+      "c1-writing-article-3"
     ]
   }
 ]

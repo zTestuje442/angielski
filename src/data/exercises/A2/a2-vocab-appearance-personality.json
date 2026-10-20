@@ -1,0 +1,326 @@
+[
+  {
+    "id": "a2-vocab-appearance-personality-1",
+    "topicId": "a2-vocab-appearance-personality",
+    "exercises": [
+      {
+        "id": "a2-vocab-appearance-personality-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "curly|kręcone",
+          "straight|proste",
+          "bald|łysy",
+          "beard|broda"
+        ],
+        "explanation": "Wygląd."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-02",
+        "type": "cloze",
+        "prompt": "She's got long ___ hair. (blond)",
+        "answer": "blond",
+        "accept": [
+          "blonde"
+        ],
+        "explanation": "Kolor włosów: blond."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-03",
+        "type": "cloze",
+        "prompt": "He's very ___. He never talks to new people. (nieśmiały)",
+        "answer": "shy",
+        "explanation": "Nieśmiały: shy."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-04",
+        "type": "choice",
+        "prompt": "What does your brother look ___? – He's tall and slim.",
+        "answer": "like",
+        "distractors": [
+          "as",
+          "how"
+        ],
+        "explanation": "What does he look like?"
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-05",
+        "type": "choice",
+        "prompt": "She's got ___ hair.",
+        "answer": "short dark",
+        "distractors": [
+          "dark short",
+          "shorts dark"
+        ],
+        "explanation": "Długość przed kolorem."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-06",
+        "type": "error",
+        "prompt": "My mother has got long brown hairs.",
+        "answer": [
+          "hairs",
+          "hair"
+        ],
+        "explanation": "Hair – niepoliczalne."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-07",
+        "type": "tiles",
+        "prompt": "On ma krótkie kręcone włosy.",
+        "answer": [
+          "He",
+          "has",
+          "got",
+          "short",
+          "curly",
+          "hair"
+        ],
+        "explanation": "Długość przed kształtem."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-08",
+        "type": "translate",
+        "prompt": "Jaka jest twoja siostra? (charakter)",
+        "answer": "What is your sister like?",
+        "accept": [
+          "What's your sister like?"
+        ],
+        "explanation": "What is she like? – charakter."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-09",
+        "type": "choice",
+        "prompt": "My boss works ten hours a day. He's very ___.",
+        "answer": "hard-working",
+        "distractors": [
+          "lazy",
+          "rude"
+        ],
+        "explanation": "Pracowity: hard-working."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-1-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie o wygląd, zacznij od „What does”.\nTom is tall and he has got a beard.",
+        "answer": "What does Tom look like?",
+        "explanation": "What does... look like?"
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-appearance-personality-2",
+    "topicId": "a2-vocab-appearance-personality",
+    "exercises": [
+      {
+        "id": "a2-vocab-appearance-personality-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "friendly|przyjazny",
+          "lazy|leniwy",
+          "funny|zabawny",
+          "polite|uprzejmy"
+        ],
+        "explanation": "Osobowość."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-02",
+        "type": "cloze",
+        "prompt": "My grandpa has got a grey ___. (wąsy)",
+        "answer": "moustache",
+        "accept": [
+          "mustache"
+        ],
+        "explanation": "Wąsy: moustache."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-03",
+        "type": "cloze",
+        "prompt": "She always tells the truth. She's very ___. (uczciwa)",
+        "answer": "honest",
+        "explanation": "Uczciwy: honest."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-04",
+        "type": "choice",
+        "prompt": "He never helps at home. He's so ___!",
+        "answer": "lazy",
+        "distractors": [
+          "kind",
+          "generous"
+        ],
+        "explanation": "Leniwy: lazy."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-05",
+        "type": "choice",
+        "prompt": "\"What is he like?\" asks about his:",
+        "answer": "personality",
+        "distractors": [
+          "hobbies",
+          "appearance"
+        ],
+        "explanation": "What is he like? – charakter."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-06",
+        "type": "error",
+        "prompt": "She is very polite – she never says thank you.",
+        "answer": [
+          "polite",
+          "rude"
+        ],
+        "explanation": "Nie mówi dziękuję: rude."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-07",
+        "type": "tiles",
+        "prompt": "Mój tata jest wysoki i szczupły.",
+        "answer": [
+          "My",
+          "dad",
+          "is",
+          "tall",
+          "and",
+          "slim"
+        ],
+        "explanation": "Tall and slim."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-08",
+        "type": "translate",
+        "prompt": "On jest bardzo zabawny.",
+        "answer": "He is very funny.",
+        "accept": [
+          "He's very funny."
+        ],
+        "explanation": "Zabawny: funny."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-09",
+        "type": "choice",
+        "prompt": "Which word describes appearance?",
+        "answer": "slim",
+        "distractors": [
+          "shy",
+          "kind"
+        ],
+        "explanation": "Slim – wygląd."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-2-10",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nShe is very polite.",
+        "answer": "She is very rude.",
+        "accept": [
+          "She is very impolite."
+        ],
+        "explanation": "Polite – rude."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-appearance-personality-3",
+    "topicId": "a2-vocab-appearance-personality",
+    "exercises": [
+      {
+        "id": "a2-vocab-appearance-personality-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "generous|hojny",
+          "clever|mądry",
+          "rude|niegrzeczny",
+          "kind|miły, życzliwy"
+        ],
+        "explanation": "Osobowość."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-02",
+        "type": "cloze",
+        "prompt": "He's got brown eyes and ___ on his nose. (piegi)",
+        "answer": "freckles",
+        "explanation": "Piegi: freckles."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-03",
+        "type": "cloze",
+        "prompt": "She is of medium ___. (wzrostu)",
+        "answer": "height",
+        "explanation": "Medium height."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-04",
+        "type": "choice",
+        "prompt": "My uncle has got no hair. He's ___.",
+        "answer": "bald",
+        "distractors": [
+          "blond",
+          "curly"
+        ],
+        "explanation": "Łysy: bald."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-05",
+        "type": "choice",
+        "prompt": "She always buys presents for everyone. She's very ___.",
+        "answer": "generous",
+        "distractors": [
+          "lazy",
+          "shy"
+        ],
+        "explanation": "Hojny: generous."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-06",
+        "type": "error",
+        "prompt": "What is your teacher look like?",
+        "answer": [
+          "is",
+          "does"
+        ],
+        "explanation": "Wygląd: What does... look like?"
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-07",
+        "type": "tiles",
+        "prompt": "Ona ma długie proste włosy.",
+        "answer": [
+          "She",
+          "has",
+          "got",
+          "long",
+          "straight",
+          "hair"
+        ],
+        "explanation": "Długość przed kształtem."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-08",
+        "type": "translate",
+        "prompt": "Jak wygląda twój brat?",
+        "answer": "What does your brother look like?",
+        "explanation": "What does... look like?"
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "He's got short black hair.",
+        "distractors": [
+          "He's got black short hair.",
+          "He's got short black hairs."
+        ],
+        "explanation": "Długość przed kolorem; hair bez -s."
+      },
+      {
+        "id": "a2-vocab-appearance-personality-3-10",
+        "type": "transform",
+        "prompt": "Zamień na zdanie o Annie, zacznij od „She has”.\nI have got blue eyes.",
+        "answer": "She has got blue eyes.",
+        "explanation": "She has got."
+      }
+    ]
+  }
+]

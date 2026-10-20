@@ -1,0 +1,111 @@
+{
+  "id": "a2-reading-story-3",
+  "topicId": "a2-reading-story",
+  "title": "A birthday surprise",
+  "text": "Ewa's fortieth birthday was on a Saturday, but nobody in her family said anything about it in the morning. Her husband, Marek, went to work. Her children went to their grandmother's house. Ewa was sad. \"They forgot,\" she thought.\n\nIn the afternoon her best friend, Kasia, called her. \"Let's go shopping,\" she said. They went to the city centre and walked around the shops for three hours. Kasia bought Ewa a beautiful blue scarf. Then they had coffee and cake in a small café. Ewa felt a little better.\n\nAt seven o'clock Kasia drove her home. The house was dark and very quiet. Ewa opened the door and turned on the light. \"SURPRISE!\" shouted thirty people. Her family, her friends from work, her neighbours – everyone was there! There were balloons, flowers and a huge chocolate cake with forty candles.\n\nMarek kissed her. \"Did you really think we forgot?\" he asked. Ewa laughed and cried at the same time. It was the best birthday of her life.",
+  "exercises": [
+    {
+      "id": "a2-reading-story-3-01",
+      "type": "choice",
+      "prompt": "Ewa's family said happy birthday in the morning.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...nobody in her family said anything about it in the morning.”"
+    },
+    {
+      "id": "a2-reading-story-3-02",
+      "type": "choice",
+      "prompt": "Kasia bought Ewa a scarf.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Kasia bought Ewa a beautiful blue scarf.”"
+    },
+    {
+      "id": "a2-reading-story-3-03",
+      "type": "choice",
+      "prompt": "Ewa's grandmother made the cake.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, kto zrobił tort."
+    },
+    {
+      "id": "a2-reading-story-3-04",
+      "type": "choice",
+      "prompt": "How old was Ewa?",
+      "answer": "40",
+      "distractors": [
+        "30",
+        "14"
+      ],
+      "explanation": "„Ewa's fortieth birthday...”"
+    },
+    {
+      "id": "a2-reading-story-3-05",
+      "type": "choice",
+      "prompt": "Why was Ewa sad in the morning?",
+      "answer": "She thought her family forgot her birthday.",
+      "distractors": [
+        "She had to go to work.",
+        "Her friend was ill."
+      ],
+      "explanation": "„They forgot,” she thought."
+    },
+    {
+      "id": "a2-reading-story-3-06",
+      "type": "choice",
+      "prompt": "What did Ewa see when she turned on the light?",
+      "answer": "a lot of people",
+      "distractors": [
+        "an empty room",
+        "only her husband"
+      ],
+      "explanation": "„...shouted thirty people.”"
+    },
+    {
+      "id": "a2-reading-story-3-07",
+      "type": "choice",
+      "prompt": "How did Ewa feel at the end?",
+      "answer": "very happy",
+      "distractors": [
+        "angry",
+        "bored"
+      ],
+      "explanation": "„It was the best birthday of her life.”"
+    },
+    {
+      "id": "a2-reading-story-3-08",
+      "type": "cloze",
+      "prompt": "There were balloons, flowers and a huge chocolate ___.",
+      "answer": "cake",
+      "explanation": "Tort: cake."
+    },
+    {
+      "id": "a2-reading-story-3-09",
+      "type": "cloze",
+      "prompt": "Ewa laughed and cried at the same ___.",
+      "answer": "time",
+      "explanation": "At the same time – jednocześnie."
+    },
+    {
+      "id": "a2-reading-story-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "surprise|niespodzianka",
+        "neighbours|sąsiedzi",
+        "huge|ogromny",
+        "candles|świeczki"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

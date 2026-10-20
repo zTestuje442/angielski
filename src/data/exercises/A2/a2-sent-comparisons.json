@@ -1,0 +1,339 @@
+[
+  {
+    "id": "a2-sent-comparisons-1",
+    "topicId": "a2-sent-comparisons",
+    "exercises": [
+      {
+        "id": "a2-sent-comparisons-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "bigger than|większy niż",
+          "the biggest|największy",
+          "as big as|tak duży jak",
+          "not as big as|nie tak duży jak"
+        ],
+        "explanation": "Porównania."
+      },
+      {
+        "id": "a2-sent-comparisons-1-02",
+        "type": "cloze",
+        "prompt": "My sister is older ___ me.",
+        "answer": "than",
+        "explanation": "Stopień wyższy + than."
+      },
+      {
+        "id": "a2-sent-comparisons-1-03",
+        "type": "cloze",
+        "prompt": "This is the ___ day of the year. (najgorętszy – hot)",
+        "answer": "hottest",
+        "explanation": "Hot → the hottest."
+      },
+      {
+        "id": "a2-sent-comparisons-1-04",
+        "type": "choice",
+        "prompt": "Planes are ___ than trains.",
+        "answer": "faster",
+        "distractors": [
+          "more fast",
+          "fastest"
+        ],
+        "explanation": "Fast → faster."
+      },
+      {
+        "id": "a2-sent-comparisons-1-05",
+        "type": "choice",
+        "prompt": "She is ___ tall as her father.",
+        "answer": "as",
+        "distractors": [
+          "so",
+          "than"
+        ],
+        "explanation": "As ... as."
+      },
+      {
+        "id": "a2-sent-comparisons-1-06",
+        "type": "error",
+        "prompt": "This book is more better than the film.",
+        "answer": [
+          "more",
+          "much"
+        ],
+        "explanation": "Better bez more; wzmocnienie: much better."
+      },
+      {
+        "id": "a2-sent-comparisons-1-07",
+        "type": "tiles",
+        "prompt": "Mój pokój jest większy niż twój.",
+        "answer": [
+          "My",
+          "room",
+          "is",
+          "bigger",
+          "than",
+          "yours"
+        ],
+        "explanation": "Bigger than."
+      },
+      {
+        "id": "a2-sent-comparisons-1-08",
+        "type": "translate",
+        "prompt": "To najlepsza restauracja w mieście.",
+        "answer": "This is the best restaurant in town.",
+        "accept": [
+          "It is the best restaurant in town.",
+          "This is the best restaurant in the city.",
+          "It is the best restaurant in the city.",
+          "It's the best restaurant in town."
+        ],
+        "explanation": "The best + in."
+      },
+      {
+        "id": "a2-sent-comparisons-1-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Tom is taller than me.",
+        "distractors": [
+          "Tom is more tall than me.",
+          "Tom is taller that me."
+        ],
+        "explanation": "Taller than."
+      },
+      {
+        "id": "a2-sent-comparisons-1-10",
+        "type": "transform",
+        "prompt": "Użyj „not as ... as”, zacznij od „Gdańsk isn't”.\nWarsaw is bigger than Gdańsk.",
+        "answer": "Gdańsk isn't as big as Warsaw.",
+        "accept": [
+          "Gdańsk is not as big as Warsaw."
+        ],
+        "explanation": "Not as ... as."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-comparisons-2",
+    "topicId": "a2-sent-comparisons",
+    "exercises": [
+      {
+        "id": "a2-sent-comparisons-2-01",
+        "type": "match",
+        "prompt": "Połącz przymiotnik ze stopniem wyższym.",
+        "answer": [
+          "good|better",
+          "bad|worse",
+          "far|further",
+          "much|more"
+        ],
+        "explanation": "Nieregularne stopniowanie."
+      },
+      {
+        "id": "a2-sent-comparisons-2-02",
+        "type": "cloze",
+        "prompt": "Today's weather is ___ than yesterday's. (gorsza – bad)",
+        "answer": "worse",
+        "explanation": "Bad → worse."
+      },
+      {
+        "id": "a2-sent-comparisons-2-03",
+        "type": "cloze",
+        "prompt": "It's the ___ expensive phone in the shop.",
+        "answer": "most",
+        "explanation": "The most + długi przymiotnik."
+      },
+      {
+        "id": "a2-sent-comparisons-2-04",
+        "type": "choice",
+        "prompt": "Trains are a bit ___ than buses.",
+        "answer": "more comfortable",
+        "distractors": [
+          "comfortabler",
+          "most comfortable"
+        ],
+        "explanation": "Długi przymiotnik: more."
+      },
+      {
+        "id": "a2-sent-comparisons-2-05",
+        "type": "choice",
+        "prompt": "Mount Everest is ___ mountain in the world.",
+        "answer": "the highest",
+        "distractors": [
+          "the most high",
+          "higher"
+        ],
+        "explanation": "High → the highest."
+      },
+      {
+        "id": "a2-sent-comparisons-2-06",
+        "type": "error",
+        "prompt": "She is the happyest person I know.",
+        "answer": [
+          "happyest",
+          "happiest"
+        ],
+        "explanation": "Happy → happiest (y → i)."
+      },
+      {
+        "id": "a2-sent-comparisons-2-07",
+        "type": "tiles",
+        "prompt": "Ta sukienka jest dużo tańsza.",
+        "answer": [
+          "This",
+          "dress",
+          "is",
+          "much",
+          "cheaper"
+        ],
+        "explanation": "Much + stopień wyższy."
+      },
+      {
+        "id": "a2-sent-comparisons-2-08",
+        "type": "translate",
+        "prompt": "Jestem tak samo zmęczony jak ty.",
+        "answer": "I am as tired as you.",
+        "accept": [
+          "I'm as tired as you.",
+          "I am as tired as you are.",
+          "I'm as tired as you are."
+        ],
+        "explanation": "As ... as."
+      },
+      {
+        "id": "a2-sent-comparisons-2-09",
+        "type": "choice",
+        "prompt": "Which word goes with a superlative?",
+        "answer": "the",
+        "distractors": [
+          "than",
+          "as"
+        ],
+        "explanation": "The + stopień najwyższy."
+      },
+      {
+        "id": "a2-sent-comparisons-2-10",
+        "type": "transform",
+        "prompt": "Napisz zdanie ze stopniem najwyższym, zacznij od „It's the”.\nThis film is very funny – funnier than all others.",
+        "answer": "It's the funniest film.",
+        "accept": [
+          "It is the funniest film.",
+          "It's the funniest film of all.",
+          "It is the funniest film of all."
+        ],
+        "explanation": "Funny → the funniest."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-comparisons-3",
+    "topicId": "a2-sent-comparisons",
+    "exercises": [
+      {
+        "id": "a2-sent-comparisons-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "a bit cheaper|trochę tańszy",
+          "much faster|dużo szybszy",
+          "the worst|najgorszy",
+          "the most beautiful|najpiękniejszy"
+        ],
+        "explanation": "Porównania."
+      },
+      {
+        "id": "a2-sent-comparisons-3-02",
+        "type": "cloze",
+        "prompt": "My new job is ___ than my old one. (lepsza – good)",
+        "answer": "better",
+        "explanation": "Good → better."
+      },
+      {
+        "id": "a2-sent-comparisons-3-03",
+        "type": "cloze",
+        "prompt": "He's the ___ student in the class. (najbardziej inteligentny)",
+        "answer": "most intelligent",
+        "accept": [
+          "cleverest",
+          "smartest"
+        ],
+        "explanation": "The most + długi przymiotnik."
+      },
+      {
+        "id": "a2-sent-comparisons-3-04",
+        "type": "choice",
+        "prompt": "Is London ___ than Paris?",
+        "answer": "bigger",
+        "distractors": [
+          "more big",
+          "biggest"
+        ],
+        "explanation": "Big → bigger."
+      },
+      {
+        "id": "a2-sent-comparisons-3-05",
+        "type": "choice",
+        "prompt": "My car isn't as fast ___ yours.",
+        "answer": "as",
+        "distractors": [
+          "than",
+          "like"
+        ],
+        "explanation": "Not as ... as."
+      },
+      {
+        "id": "a2-sent-comparisons-3-06",
+        "type": "error",
+        "prompt": "This is the more interesting book I have.",
+        "answer": [
+          "more",
+          "most"
+        ],
+        "explanation": "Stopień najwyższy: the most."
+      },
+      {
+        "id": "a2-sent-comparisons-3-07",
+        "type": "tiles",
+        "prompt": "To był najgorszy dzień w moim życiu.",
+        "answer": [
+          "It",
+          "was",
+          "the",
+          "worst",
+          "day",
+          "of",
+          "my",
+          "life"
+        ],
+        "explanation": "Bad → the worst."
+      },
+      {
+        "id": "a2-sent-comparisons-3-08",
+        "type": "translate",
+        "prompt": "Moja siostra jest wyższa ode mnie.",
+        "answer": "My sister is taller than me.",
+        "accept": [
+          "My sister is taller than I am.",
+          "My sister is taller than I."
+        ],
+        "explanation": "Taller than."
+      },
+      {
+        "id": "a2-sent-comparisons-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "This is the most beautiful beach.",
+        "distractors": [
+          "This is the beautifulest beach.",
+          "This is most beautiful beach."
+        ],
+        "explanation": "The most beautiful."
+      },
+      {
+        "id": "a2-sent-comparisons-3-10",
+        "type": "transform",
+        "prompt": "Zmień na zdanie z „than”, zacznij od „Buses are”.\nTrains are not as cheap as buses.",
+        "answer": "Buses are cheaper than trains.",
+        "explanation": "Cheaper than."
+      }
+    ]
+  }
+]

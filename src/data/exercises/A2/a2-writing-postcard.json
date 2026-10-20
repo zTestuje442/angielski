@@ -1,0 +1,342 @@
+[
+  {
+    "id": "a2-writing-postcard-1",
+    "topicId": "a2-writing-postcard",
+    "exercises": [
+      {
+        "id": "a2-writing-postcard-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Greetings from...|Pozdrowienia z...",
+          "Wish you were here!|Szkoda, że cię tu nie ma!",
+          "See you soon!|Do zobaczenia wkrótce!",
+          "Love,|Ściskam,"
+        ],
+        "explanation": "Zwroty z pocztówki."
+      },
+      {
+        "id": "a2-writing-postcard-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is about the weather?",
+        "answer": "It's sunny and warm.",
+        "distractors": [
+          "Our hotel is big.",
+          "See you soon!"
+        ],
+        "explanation": "Pogoda: sunny and warm."
+      },
+      {
+        "id": "a2-writing-postcard-1-03",
+        "type": "choice",
+        "prompt": "We ___ in the sea every day.",
+        "answer": "swim",
+        "distractors": [
+          "swims",
+          "swimming"
+        ],
+        "explanation": "We swim."
+      },
+      {
+        "id": "a2-writing-postcard-1-04",
+        "type": "cloze",
+        "prompt": "___ from Paris! (pozdrowienia)",
+        "answer": "Greetings",
+        "explanation": "Greetings from..."
+      },
+      {
+        "id": "a2-writing-postcard-1-05",
+        "type": "cloze",
+        "prompt": "Yesterday we ___ the Eiffel Tower. (visit)",
+        "answer": "visited",
+        "explanation": "Past Simple: visited."
+      },
+      {
+        "id": "a2-writing-postcard-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż pocztówkę.",
+        "answer": [
+          "Hi Tom,",
+          "Greetings from Croatia!",
+          "The weather is hot and the sea is warm.",
+          "We swim every day.",
+          "See you soon,",
+          "Ola"
+        ],
+        "explanation": "Powitanie, miejsce, pogoda, co robimy, zakończenie."
+      },
+      {
+        "id": "a2-writing-postcard-1-07",
+        "type": "error",
+        "prompt": "The weather are beautiful.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "The weather – l. poj.: is."
+      },
+      {
+        "id": "a2-writing-postcard-1-08",
+        "type": "translate",
+        "prompt": "Hotel jest blisko plaży.",
+        "answer": "The hotel is near the beach.",
+        "accept": [
+          "The hotel is close to the beach.",
+          "Our hotel is near the beach.",
+          "Our hotel is close to the beach."
+        ],
+        "explanation": "Near the beach."
+      },
+      {
+        "id": "a2-writing-postcard-1-09",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nWe visit the old town.",
+        "answer": "We visited the old town.",
+        "explanation": "Visit → visited."
+      },
+      {
+        "id": "a2-writing-postcard-1-10",
+        "type": "choice",
+        "prompt": "Which is a good ending for a postcard?",
+        "answer": "See you on Sunday!",
+        "distractors": [
+          "Dear Sir,",
+          "I am writing to complain."
+        ],
+        "explanation": "Zakończenie: See you on Sunday!"
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-postcard-2",
+    "topicId": "a2-writing-postcard",
+    "exercises": [
+      {
+        "id": "a2-writing-postcard-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "beach|plaża",
+          "castle|zamek",
+          "mountains|góry",
+          "sightseeing|zwiedzanie"
+        ],
+        "explanation": "Słowa z wakacji."
+      },
+      {
+        "id": "a2-writing-postcard-2-02",
+        "type": "choice",
+        "prompt": "Which sentence says where you are?",
+        "answer": "We're in Zakopane.",
+        "distractors": [
+          "We're happy.",
+          "We're coming back on Friday."
+        ],
+        "explanation": "Miejsce: We're in..."
+      },
+      {
+        "id": "a2-writing-postcard-2-03",
+        "type": "choice",
+        "prompt": "I ___ having a great time!",
+        "answer": "am",
+        "distractors": [
+          "is",
+          "have"
+        ],
+        "explanation": "I am having..."
+      },
+      {
+        "id": "a2-writing-postcard-2-04",
+        "type": "cloze",
+        "prompt": "We come back ___ Saturday.",
+        "answer": "on",
+        "explanation": "Dzień: on."
+      },
+      {
+        "id": "a2-writing-postcard-2-05",
+        "type": "cloze",
+        "prompt": "It's ___ here! (niesamowicie)",
+        "answer": "amazing",
+        "accept": [
+          "great",
+          "fantastic",
+          "wonderful",
+          "beautiful"
+        ],
+        "explanation": "Amazing."
+      },
+      {
+        "id": "a2-writing-postcard-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż pocztówkę.",
+        "answer": [
+          "Dear Grandma,",
+          "We are in the mountains.",
+          "It is cold but sunny.",
+          "Yesterday we went skiing.",
+          "Love,",
+          "Kasia"
+        ],
+        "explanation": "Powitanie, miejsce, pogoda, co się stało, zakończenie."
+      },
+      {
+        "id": "a2-writing-postcard-2-07",
+        "type": "error",
+        "prompt": "Yesterday we go to the museum.",
+        "answer": [
+          "go",
+          "went"
+        ],
+        "explanation": "Past Simple: went."
+      },
+      {
+        "id": "a2-writing-postcard-2-08",
+        "type": "translate",
+        "prompt": "Pogoda jest wspaniała.",
+        "answer": "The weather is great.",
+        "accept": [
+          "The weather is wonderful.",
+          "The weather is fantastic.",
+          "The weather is amazing.",
+          "The weather is beautiful.",
+          "The weather is lovely."
+        ],
+        "explanation": "Weather – l. poj."
+      },
+      {
+        "id": "a2-writing-postcard-2-09",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThe hotel is expensive.",
+        "answer": "The hotel isn't expensive.",
+        "accept": [
+          "The hotel is not expensive."
+        ],
+        "explanation": "Isn't."
+      },
+      {
+        "id": "a2-writing-postcard-2-10",
+        "type": "choice",
+        "prompt": "Which sentence is NOT good for a postcard?",
+        "answer": "I look forward to hearing from you.",
+        "distractors": [
+          "Wish you were here!",
+          "Love, Ania"
+        ],
+        "explanation": "To zwrot z listu formalnego."
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-postcard-3",
+    "topicId": "a2-writing-postcard",
+    "exercises": [
+      {
+        "id": "a2-writing-postcard-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Dear Mum,|Kochana Mamo,",
+          "Hi Ola,|Cześć Olu,",
+          "Best wishes,|Pozdrawiam,",
+          "Lots of love,|Całuję,"
+        ],
+        "explanation": "Powitania i pożegnania."
+      },
+      {
+        "id": "a2-writing-postcard-3-02",
+        "type": "choice",
+        "prompt": "Which word means \"zwiedzać\"?",
+        "answer": "go sightseeing",
+        "distractors": [
+          "go shopping",
+          "go swimming"
+        ],
+        "explanation": "Go sightseeing."
+      },
+      {
+        "id": "a2-writing-postcard-3-03",
+        "type": "choice",
+        "prompt": "The food here ___ delicious.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "have"
+        ],
+        "explanation": "Food – l. poj.: is."
+      },
+      {
+        "id": "a2-writing-postcard-3-04",
+        "type": "cloze",
+        "prompt": "We are staying ___ a small hotel.",
+        "answer": "in",
+        "explanation": "Stay in a hotel."
+      },
+      {
+        "id": "a2-writing-postcard-3-05",
+        "type": "cloze",
+        "prompt": "I bought you a ___! (pamiątka)",
+        "answer": "souvenir",
+        "accept": [
+          "present",
+          "gift"
+        ],
+        "explanation": "Pamiątka: souvenir."
+      },
+      {
+        "id": "a2-writing-postcard-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż pocztówkę.",
+        "answer": [
+          "Hi Mark,",
+          "Greetings from London!",
+          "It is rainy but the city is fantastic.",
+          "Tomorrow we are going to the British Museum.",
+          "Best wishes,",
+          "Piotr"
+        ],
+        "explanation": "Powitanie, miejsce, opinia, plan, zakończenie."
+      },
+      {
+        "id": "a2-writing-postcard-3-07",
+        "type": "error",
+        "prompt": "The beaches here is beautiful.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "Beaches – l. mn.: are."
+      },
+      {
+        "id": "a2-writing-postcard-3-08",
+        "type": "translate",
+        "prompt": "Jutro jedziemy nad jezioro.",
+        "answer": "Tomorrow we are going to the lake.",
+        "accept": [
+          "We are going to the lake tomorrow.",
+          "Tomorrow we're going to the lake.",
+          "We're going to the lake tomorrow.",
+          "Tomorrow we are going to go to the lake."
+        ],
+        "explanation": "Plan: Present Continuous."
+      },
+      {
+        "id": "a2-writing-postcard-3-09",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou are having a good time.",
+        "answer": "Are you having a good time?",
+        "explanation": "Are you + -ing?"
+      },
+      {
+        "id": "a2-writing-postcard-3-10",
+        "type": "choice",
+        "prompt": "How long is a postcard?",
+        "answer": "25–50 words",
+        "distractors": [
+          "150–200 words",
+          "5 words"
+        ],
+        "explanation": "Krótko: 25–50 słów."
+      }
+    ]
+  }
+]

@@ -1,0 +1,336 @@
+[
+  {
+    "id": "a1-sent-describing-places-1",
+    "topicId": "a1-sent-describing-places",
+    "exercises": [
+      {
+        "id": "a1-sent-describing-places-1-01",
+        "type": "match",
+        "prompt": "Połącz przyimki z tłumaczeniem.",
+        "answer": [
+          "under|pod",
+          "next to|obok",
+          "between|między",
+          "behind|za"
+        ],
+        "explanation": "Przyimki miejsca."
+      },
+      {
+        "id": "a1-sent-describing-places-1-02",
+        "type": "cloze",
+        "prompt": "There ___ a lamp on the desk.",
+        "answer": "is",
+        "accept": [
+          "'s"
+        ],
+        "explanation": "Jedna rzecz: there is."
+      },
+      {
+        "id": "a1-sent-describing-places-1-03",
+        "type": "cloze",
+        "prompt": "There ___ two chairs in the kitchen.",
+        "answer": "are",
+        "explanation": "Kilka rzeczy: there are."
+      },
+      {
+        "id": "a1-sent-describing-places-1-04",
+        "type": "choice",
+        "prompt": "The cat is ___ the bed. (pod)",
+        "answer": "under",
+        "distractors": [
+          "on",
+          "in"
+        ],
+        "explanation": "Pod: under."
+      },
+      {
+        "id": "a1-sent-describing-places-1-05",
+        "type": "choice",
+        "prompt": "___ there a bank near here?",
+        "answer": "Is",
+        "distractors": [
+          "Are",
+          "Has"
+        ],
+        "explanation": "Is there...?"
+      },
+      {
+        "id": "a1-sent-describing-places-1-06",
+        "type": "error",
+        "prompt": "There are a TV in my room.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "Jedna rzecz: there is."
+      },
+      {
+        "id": "a1-sent-describing-places-1-07",
+        "type": "tiles",
+        "prompt": "W moim pokoju jest duże okno.",
+        "answer": [
+          "There",
+          "is",
+          "a",
+          "big",
+          "window",
+          "in",
+          "my",
+          "room"
+        ],
+        "explanation": "There is + l. poj."
+      },
+      {
+        "id": "a1-sent-describing-places-1-08",
+        "type": "translate",
+        "prompt": "Obok szkoły jest park.",
+        "answer": "There is a park next to the school.",
+        "accept": [
+          "Next to the school there is a park.",
+          "There's a park next to the school."
+        ],
+        "explanation": "There is... next to..."
+      },
+      {
+        "id": "a1-sent-describing-places-1-09",
+        "type": "choice",
+        "prompt": "The shop is ___ the bank and the café.",
+        "answer": "between",
+        "distractors": [
+          "next",
+          "opposite to"
+        ],
+        "explanation": "Między: between."
+      },
+      {
+        "id": "a1-sent-describing-places-1-10",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThere is a garden.",
+        "answer": "There isn't a garden.",
+        "accept": [
+          "There is not a garden.",
+          "There is no garden."
+        ],
+        "explanation": "There isn't a..."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-describing-places-2",
+    "topicId": "a1-sent-describing-places",
+    "exercises": [
+      {
+        "id": "a1-sent-describing-places-2-01",
+        "type": "match",
+        "prompt": "Połącz przyimki z tłumaczeniem.",
+        "answer": [
+          "in front of|przed",
+          "opposite|naprzeciwko",
+          "on|na",
+          "in|w"
+        ],
+        "explanation": "Przyimki miejsca."
+      },
+      {
+        "id": "a1-sent-describing-places-2-02",
+        "type": "cloze",
+        "prompt": "My bag is ___ the chair. (na)",
+        "answer": "on",
+        "explanation": "Na: on."
+      },
+      {
+        "id": "a1-sent-describing-places-2-03",
+        "type": "cloze",
+        "prompt": "There aren't ___ shops in my village. (żadnych)",
+        "answer": "any",
+        "explanation": "Przeczenie: any."
+      },
+      {
+        "id": "a1-sent-describing-places-2-04",
+        "type": "choice",
+        "prompt": "The car is ___ the house. (przed)",
+        "answer": "in front of",
+        "distractors": [
+          "in front",
+          "before of"
+        ],
+        "explanation": "Przed: in front of."
+      },
+      {
+        "id": "a1-sent-describing-places-2-05",
+        "type": "choice",
+        "prompt": "Are there any cafés here? – Yes, ___.",
+        "answer": "there are",
+        "distractors": [
+          "there is",
+          "they are"
+        ],
+        "explanation": "Yes, there are."
+      },
+      {
+        "id": "a1-sent-describing-places-2-06",
+        "type": "error",
+        "prompt": "The bus stop are opposite the park.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "The bus stop – l. poj.: is."
+      },
+      {
+        "id": "a1-sent-describing-places-2-07",
+        "type": "tiles",
+        "prompt": "Na stole są dwie filiżanki.",
+        "answer": [
+          "There",
+          "are",
+          "two",
+          "cups",
+          "on",
+          "the",
+          "table"
+        ],
+        "explanation": "There are + l. mn."
+      },
+      {
+        "id": "a1-sent-describing-places-2-08",
+        "type": "translate",
+        "prompt": "Czy jest tu winda?",
+        "answer": "Is there a lift here?",
+        "accept": [
+          "Is there an elevator here?",
+          "Is there a lift?",
+          "Is there an elevator?"
+        ],
+        "explanation": "Is there...?"
+      },
+      {
+        "id": "a1-sent-describing-places-2-09",
+        "type": "choice",
+        "prompt": "Which sentence describes one thing?",
+        "answer": "There is a sofa.",
+        "distractors": [
+          "There are a sofa.",
+          "There are sofas."
+        ],
+        "explanation": "Jedna rzecz: there is."
+      },
+      {
+        "id": "a1-sent-describing-places-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThere is a supermarket near your flat.",
+        "answer": "Is there a supermarket near your flat?",
+        "explanation": "Is there...?"
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-describing-places-3",
+    "topicId": "a1-sent-describing-places",
+    "exercises": [
+      {
+        "id": "a1-sent-describing-places-3-01",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "There's a sofa.|Jest sofa.",
+          "There are two beds.|Są dwa łóżka.",
+          "There isn't a lift.|Nie ma windy.",
+          "Is there a garden?|Czy jest ogród?"
+        ],
+        "explanation": "There is / there are."
+      },
+      {
+        "id": "a1-sent-describing-places-3-02",
+        "type": "cloze",
+        "prompt": "The keys are ___ the box. (w)",
+        "answer": "in",
+        "explanation": "W: in."
+      },
+      {
+        "id": "a1-sent-describing-places-3-03",
+        "type": "cloze",
+        "prompt": "The garden is ___ the house. (za)",
+        "answer": "behind",
+        "explanation": "Za: behind."
+      },
+      {
+        "id": "a1-sent-describing-places-3-04",
+        "type": "choice",
+        "prompt": "There ___ any people in the street.",
+        "answer": "aren't",
+        "distractors": [
+          "isn't",
+          "not"
+        ],
+        "explanation": "There aren't any..."
+      },
+      {
+        "id": "a1-sent-describing-places-3-05",
+        "type": "choice",
+        "prompt": "The café is ___ the cinema – just across the street.",
+        "answer": "opposite",
+        "distractors": [
+          "under",
+          "between"
+        ],
+        "explanation": "Naprzeciwko: opposite."
+      },
+      {
+        "id": "a1-sent-describing-places-3-06",
+        "type": "error",
+        "prompt": "There is three bedrooms in the flat.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "Kilka rzeczy: there are."
+      },
+      {
+        "id": "a1-sent-describing-places-3-07",
+        "type": "tiles",
+        "prompt": "Pod łóżkiem jest kot.",
+        "answer": [
+          "There",
+          "is",
+          "a",
+          "cat",
+          "under",
+          "the",
+          "bed"
+        ],
+        "explanation": "There is + under."
+      },
+      {
+        "id": "a1-sent-describing-places-3-08",
+        "type": "translate",
+        "prompt": "W moim mieście nie ma kina.",
+        "answer": "There isn't a cinema in my town.",
+        "accept": [
+          "There is no cinema in my town.",
+          "There is not a cinema in my town.",
+          "There's no cinema in my town."
+        ],
+        "explanation": "There isn't..."
+      },
+      {
+        "id": "a1-sent-describing-places-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "There are some books on the shelf.",
+        "distractors": [
+          "There is some books on the shelf.",
+          "There are some books in the shelf on."
+        ],
+        "explanation": "There are + l. mn."
+      },
+      {
+        "id": "a1-sent-describing-places-3-10",
+        "type": "transform",
+        "prompt": "Zmień na liczbę mnogą, użyj „two”.\nThere is a bike in the garage.",
+        "answer": "There are two bikes in the garage.",
+        "explanation": "There are + l. mn."
+      }
+    ]
+  }
+]
