@@ -1695,7 +1695,7 @@
     "level": "B2",
     "order": 9,
     "title": "Nauka i badania",
-    "explanation": "",
+    "explanation": "Nauka i badania – słownictwo z artykułów popularnonaukowych:\n\n**Badanie**: *carry out / conduct research* (prowadzić badania – *research* jest niepoliczalne!), *a study, an experiment, a survey* (ankieta), *a sample* (próba), *data* (dane), *evidence* (dowody), *a hypothesis / theory*\n\n**Wyniki**: *results, findings* (ustalenia), *show / suggest / prove* (pokazać / sugerować / udowodnić), *a breakthrough* (przełom), *a discovery*, *draw a conclusion*\n\n**Ludzie i miejsca**: *a researcher, a scientist, a laboratory (lab)*, *a peer review* (recenzja naukowa)\n\n**Czasowniki**: *investigate* (badać), *analyse* (analizować), *measure* (mierzyć), *test, observe, discover, invent* (wynaleźć)\n\nUwaga: *discover* (odkryć coś, co istniało) vs *invent* (wynaleźć coś nowego). *Data* bywa l. mn. (*the data show*) albo niepoliczalne (*the data shows*).",
     "sets": [
       "b2-vocab-science-research-1",
       "b2-vocab-science-research-2",
@@ -1708,7 +1708,7 @@
     "level": "B2",
     "order": 10,
     "title": "Polityka i społeczeństwo",
-    "explanation": "",
+    "explanation": "Polityka i społeczeństwo – słownictwo z wiadomości:\n\n**Władza i wybory**: *government* (rząd), *parliament, a minister, the prime minister* (premier), *the president*, *an election* (wybory), *vote for* (głosować na), *a candidate*, *a political party*, *the opposition*, *a campaign*\n\n**Prawo i decyzje**: *pass a law* (uchwalić ustawę), *a bill* (projekt ustawy), *ban* (zakazać), *introduce a tax*, *a policy* (polityka – zasady działania)\n\n**Społeczeństwo**: *citizens* (obywatele), *unemployment* (bezrobocie), *poverty* (ubóstwo), *inequality* (nierówność), *the welfare system* (system pomocy społecznej), *a pension* (emerytura), *a protest / demonstration*, *human rights*\n\nUwaga: *politics* (polityka jako dziedzina, *Politics is...*) vs *policy* (konkretne zasady: *the government's housing policy*) vs *politician* (polityk).",
     "sets": [
       "b2-vocab-politics-society-1",
       "b2-vocab-politics-society-2",
@@ -1721,7 +1721,7 @@
     "level": "B2",
     "order": 11,
     "title": "Marketing i reklama",
-    "explanation": "",
+    "explanation": "Marketing i reklama:\n\n**Produkt i marka**: *a brand* (marka), *a logo, a slogan*, *a target audience / group* (grupa docelowa), *a niche* (nisza), *a competitor*, *market share*, *launch a product* (wprowadzić na rynek)\n\n**Reklama**: *an advert / ad* (reklama), *an advertisement*, *a commercial* (reklama telewizyjna), *a campaign*, *a billboard*, *sponsor*, *an influencer*, *endorse* (polecać, firmować swoją twarzą)\n\n**Sprzedaż**: *a special offer, a discount, a free sample* (darmowa próbka), *customer loyalty* (lojalność), *word of mouth* (marketing szeptany), *go viral* (stać się viralem), *promote*\n\nCzasowniki: *advertise* (reklamować), *persuade* (przekonać), *attract customers* (przyciągać klientów), *reach* (dotrzeć do)\n\nUwaga: *advertising* – niepoliczalne (reklama ogólnie); *an advert / an ad* – jedna konkretna reklama.",
     "sets": [
       "b2-vocab-marketing-advertising-1",
       "b2-vocab-marketing-advertising-2",
@@ -1734,7 +1734,7 @@
     "level": "B2",
     "order": 12,
     "title": "Mieszkanie i nieruchomości",
-    "explanation": "",
+    "explanation": "Mieszkanie i nieruchomości:\n\n**Rodzaje**: *a detached house* (dom wolnostojący), *a semi-detached house* (bliźniak), *a terraced house* (szeregowiec), *a block of flats* (blok), *a studio flat* (kawalerka), *a penthouse*\n\n**Kupno i wynajem**: *rent* (wynajmować; czynsz), *a tenant* (najemca), *a landlord / landlady* (wynajmujący), *a lease / tenancy agreement* (umowa najmu), *a deposit* (kaucja), *a mortgage* (kredyt hipoteczny), *an estate agent* (pośrednik), *property prices*\n\n**Stan i remont**: *renovate / do up* (wyremontować), *a fixer-upper* (do remontu), *spacious* (przestronny), *cramped* (ciasny), *well-maintained*, *damp* (wilgotny)\n\n**Okolica**: *a neighbourhood* (okolica), *the suburbs* (przedmieścia), *convenient for* (dogodnie położony dla), *amenities* (udogodnienia: sklepy, szkoły)\n\nZwroty: *We're looking for a two-bedroom flat. The rent includes bills. Property prices have soared.*",
     "sets": [
       "b2-vocab-housing-property-1",
       "b2-vocab-housing-property-2",
@@ -1747,7 +1747,7 @@
     "level": "B2",
     "order": 13,
     "title": "Kolokacje z czasownikami: take, keep, catch, pay",
-    "explanation": "",
+    "explanation": "Kolokacje z popularnymi czasownikami – tłumaczone dosłownie brzmią nienaturalnie:\n\n**take**: *take a break, take a risk, take part in, take advantage of* (wykorzystać), *take care of, take place* (odbywać się), *take responsibility for*\n\n**keep**: *keep a promise, keep a secret, keep in touch, keep calm, keep an eye on* (mieć oko na), *keep track of* (śledzić)\n\n**catch**: *catch a cold, catch a bus, catch someone's attention, catch fire* (zapalić się), *catch sight of* (dostrzec)\n\n**pay**: *pay attention to, pay a visit, pay a compliment, pay the price* (ponieść konsekwencje)\n\n**break**: *break a promise, break the law, break a record, break the news* (przekazać wiadomość)\n\nUwaga: *make a decision*, ale *take a decision* (BrE – też poprawne); *pay attention* (nie *give attention*).",
     "sets": [
       "b2-vocab-verb-collocations-1",
       "b2-vocab-verb-collocations-2",
@@ -2176,7 +2176,7 @@
     "level": "B2",
     "order": 4,
     "title": "Kontrast i przyznanie racji",
-    "explanation": "",
+    "explanation": "Kontrast i przyznanie racji – różne konstrukcje dla tego samego sensu:\n\n- **although / even though** + zdanie: *Although it was raining, we went out.* (*even though* – mocniej)\n- **despite / in spite of** + rzeczownik lub *-ing*: *Despite the rain, we went out. / In spite of feeling tired, she finished.*\n- **despite the fact that** + zdanie: *Despite the fact that it was raining...*\n- **however** – nowe zdanie, z przecinkiem: *It was raining. However, we went out.*\n- **but** – w środku zdania: *It was raining, but we went out.*\n- **whereas / while** – zestawienie dwóch faktów: *I love tea, whereas my wife prefers coffee.*\n- **even so / nevertheless** – mimo to\n\nPrzyznanie racji: *Admittedly, ... / It's true that..., but... / Of course, ..., but...*\n\nCzęste błędy: *despite **of*** ❌, *although **but*** ❌, *despite it was* ❌.",
     "sets": [
       "b2-sent-contrast-concession-1",
       "b2-sent-contrast-concession-2",
@@ -2189,7 +2189,7 @@
     "level": "B2",
     "order": 5,
     "title": "Cel i skutek: so that, in order to, so… that",
-    "explanation": "",
+    "explanation": "**Cel** (żeby, aby):\n- **to + czasownik**: *I went to the shop **to buy** milk.*\n- **in order to / so as to** (formalniej): *We left early **in order to** avoid traffic.* · przeczenie: ***so as not to** / **in order not to** be late*\n- **so that** + podmiot + *can / could / will / would*: *I'm saving money **so that** I **can** travel.*\n- **for** + rzeczownik: *We went out **for** a meal.* (nie *for to eat*)\n\n**Skutek**:\n- **so** + zdanie: *It was late, **so** we left.*\n- **so + przymiotnik/przysłówek + that**: *It was **so hot that** we stayed inside.*\n- **such (a) + przymiotnik + rzeczownik + that**: *It was **such a hot day that**...*\n- **too / enough** + *to*: *It's **too cold to** swim. He's old **enough to** drive.*\n\nCzęste błędy: *for to buy* ❌, *so that to* ❌, *in order to not* (lepiej *in order not to*).",
     "sets": [
       "b2-sent-purpose-result-1",
       "b2-sent-purpose-result-2",
@@ -2202,7 +2202,7 @@
     "level": "B2",
     "order": 6,
     "title": "Warunki bez if: unless, provided, in case",
-    "explanation": "",
+    "explanation": "Warunek nie musi zaczynać się od *if*:\n\n- **unless** = *if not*: *You'll miss the bus **unless** you hurry.* (jeśli się nie pospieszysz) – po *unless* zdanie **twierdzące**.\n- **as long as / provided (that) / providing** = pod warunkiem, że: *You can borrow my car **as long as** you drive carefully.*\n- **in case** = na wypadek, gdyby: *Take an umbrella **in case** it rains.* (to **nie** to samo co *if*!)\n- **otherwise** = w przeciwnym razie: *Hurry, **otherwise** you'll be late.*\n- **suppose / supposing / what if** = przypuśćmy, a co jeśli: ***What if** we miss the flight?*\n- **even if** = nawet jeśli: *I'll go **even if** it rains.*\n\nPo tych spójnikach (jak po *if*) w odniesieniu do przyszłości używamy **czasu teraźniejszego**: *as long as you **finish*** (nie *will finish*).",
     "sets": [
       "b2-sent-conditionals-without-if-1",
       "b2-sent-conditionals-without-if-2",
@@ -2215,7 +2215,7 @@
     "level": "B2",
     "order": 7,
     "title": "Dyplomatyczne sformułowania",
-    "explanation": "",
+    "explanation": "**Dyplomatyczne sformułowania** łagodzą prośby, krytykę i odmowę – ważne w pracy i e-mailach.\n\n**Prośby**: *Would you mind + -ing...? / I was wondering if you could... / Could you possibly...? / Would it be possible to...?*\n\n**Krytyka i niezgoda**: *I'm not sure that's the best idea. / It might be better to... / I see your point, but... / There seems to be a problem with...*\n\n**Zmiękczanie**: *a bit / slightly / rather* (*The report is **a bit** long*), *seem / appear* (*There **seems** to be a mistake*), *not very + pozytywny przymiotnik* (*not very clear* zamiast *unclear*)\n\n**Odmowa**: *I'm afraid I can't... / Unfortunately, ... / I'd love to, but...*\n\nCzasy przeszłe brzmią uprzejmiej: *I **was** wondering..., I **wanted** to ask...*\n\nPorównaj: *Your report is bad.* → *Your report **could be a bit clearer** in places.*",
     "sets": [
       "b2-sent-diplomatic-language-1",
       "b2-sent-diplomatic-language-2",
@@ -2592,7 +2592,7 @@
     "level": "B2",
     "order": 4,
     "title": "Raport",
-    "explanation": "",
+    "explanation": "Raport ma **nagłówki** i opiera się na **danych**: ankietach, liczbach, proporcjach (*the majority, a third, 45% of respondents*). Język jest bezosobowy, często w stronie biernej (*it was found that...*).\n\nCzytając raport:\n- nagłówki pokazują, gdzie szukać odpowiedzi,\n- **wyniki** (*findings*) to fakty, **zalecenia** (*recommendations*) to propozycje – pytania często je rozróżniają,\n- uważaj na **proporcje**: *nearly half* to mniej niż połowa, *the vast majority* – zdecydowana większość.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "b2-reading-report-1",
       "b2-reading-report-2",
@@ -2605,7 +2605,7 @@
     "level": "B2",
     "order": 5,
     "title": "Biografia",
-    "explanation": "",
+    "explanation": "Biografia opisuje życie osoby **chronologicznie**: dzieciństwo, przełomowe momenty, osiągnięcia, późniejsze życie. Zwracaj uwagę na **daty i określenia czasu** (*at the age of, two years later, by the time, eventually*) – często pojawiają się w pytaniach.\n\nAutor biografii miesza **fakty** z **oceną** (*she is remembered as..., arguably her greatest achievement...*). Pytania typu *Why...?* dotyczą przyczyn decyzji bohatera.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "b2-reading-biography-1",
       "b2-reading-biography-2",
@@ -2618,7 +2618,7 @@
     "level": "B2",
     "order": 6,
     "title": "Fragment prozy",
-    "explanation": "",
+    "explanation": "Fragment prozy na B2 wymaga czytania **między wierszami**: autor rzadko mówi wprost, co bohater czuje – pokazuje to przez **zachowanie, dialog i szczegóły**.\n\nPytania sprawdzają:\n- **uczucia i motywacje** (*How does she feel...? Why does he...?*),\n- **znaczenie słowa z kontekstu**,\n- **to, co sugeruje** zakończenie albo jakiś szczegół (*What does the last sentence suggest?*).\n\nSzukaj czasowników mówienia (*whispered, snapped, muttered*) i przysłówków – mówią dużo o emocjach.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "b2-reading-story-1",
       "b2-reading-story-2",
@@ -2878,7 +2878,7 @@
     "level": "B2",
     "order": 4,
     "title": "Artykuł",
-    "explanation": "",
+    "explanation": "**Artykuł** na B2 (140–190 słów) – do magazynu, na stronę internetową, do gazetki firmowej. Ma **zaciekawić i utrzymać uwagę czytelnika**.\n\n1. **Tytuł**, który intryguje: *Is Your Phone Stealing Your Sleep?*\n2. **Wstęp**, który wciąga: pytanie retoryczne, zaskakujący fakt, krótka anegdota: *Imagine waking up without an alarm...*\n3. **2–3 akapity** – każdy z jedną myślą, przykładami i własnym zdaniem\n4. **Zakończenie** – myśl na koniec, pytanie albo zachęta: *So next time you..., why not...?*\n\nJęzyk: **żywy i pół-formalny** – zwroty do czytelnika (*you*), pytania retoryczne, mocne przymiotniki, ale bez slangu. Różnorodność: *Not only..., but also...*, *What's more...*, *Surprisingly, ...*\n\nArtykuł ≠ rozprawka: mniej formalny, bardziej osobisty, z pytaniami do czytelnika.",
     "sets": [
       "b2-writing-article-1",
       "b2-writing-article-2",
@@ -2891,7 +2891,7 @@
     "level": "B2",
     "order": 5,
     "title": "Recenzja",
-    "explanation": "",
+    "explanation": "**Recenzja** na B2 (140–190 słów) – filmu, książki, serialu, koncertu, restauracji, gadżetu. Musi **opisać, ocenić i polecić**.\n\n1. **Tytuł i wstęp** – co recenzujesz, kontekst: *Set in 1960s London, this gripping drama...*\n2. **Opis** (krótko, bez spoilerów): fabuła / miejsce / funkcje\n3. **Ocena** – mocne i słabe strony, z przykładami: *What makes it stand out is... / My only criticism is... / Admittedly, ...*\n4. **Rekomendacja** z uzasadnieniem: *It's well worth watching if... / I wouldn't recommend it to...*\n\nSłownictwo B2: *gripping* (trzymający w napięciu), *thought-provoking*, *overrated* (przereklamowany), *far-fetched* (naciągany), *superb, mediocre, a must-see*, *the plot, the cast* (obsada), *the special effects, the soundtrack*\n\nNie streszczaj całej fabuły – recenzja to **opinia**, nie opowiadanie.",
     "sets": [
       "b2-writing-review-1",
       "b2-writing-review-2",
@@ -2904,7 +2904,7 @@
     "level": "B2",
     "order": 6,
     "title": "List motywacyjny",
-    "explanation": "",
+    "explanation": "**List motywacyjny** (cover letter, B2: 140–190 słów) – formalny, krótki, konkretny.\n\n1. **Powitanie**: *Dear Ms Nowak,* (znasz nazwisko) / *Dear Sir or Madam,* (nie znasz)\n2. **Cel i źródło ogłoszenia**: *I am writing to apply for the position of... advertised on...*\n3. **Dlaczego Ty** – doświadczenie i umiejętności **z przykładami**: *I have three years of experience in... / In my current role, I am responsible for... / I am particularly good at...*\n4. **Dlaczego ta firma**: *I am particularly interested in your company because...*\n5. **Zakończenie**: *I would welcome the opportunity to discuss my application further. / I have attached my CV. / I look forward to hearing from you.* + *Yours sincerely,* (znasz nazwisko) / *Yours faithfully,*\n\nStyl: bez skrótów, bez przesadnych pochwał (*I am the best*), konkretne osiągnięcia zamiast ogólników: *I reduced the number of bugs in production by 30%.*",
     "sets": [
       "b2-writing-cover-letter-1",
       "b2-writing-cover-letter-2",

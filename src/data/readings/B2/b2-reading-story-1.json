@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-story-1",
+  "topicId": "b2-reading-story",
+  "title": "The last delivery",
+  "text": "The parcel was the last one in the van, and Tomasz had been staring at it for ten minutes. It was a small box, wrapped in brown paper, addressed in careful, old-fashioned handwriting to Mrs H. Kowal, 17 Ogrodowa Street. The problem was that 17 Ogrodowa Street no longer existed. Tomasz knew this because he had grown up on Ogrodowa Street, and number 17 had been knocked down three years earlier to make room for a car park.\n\nHe checked the system again. The parcel had been posted in 2019. Somehow it had spent four years in a warehouse in Łódź, and now, for reasons nobody would ever explain, it had come back to life and been given to him.\n\n\"Just mark it as undeliverable,\" his manager said on the phone. \"It'll go back to the sender.\"\n\n\"There's no sender's address,\" Tomasz replied.\n\nHis manager sighed. \"Then it goes to the warehouse. Not your problem.\"\n\nBut Tomasz remembered Mrs Kowal. She had lived alone with three cats and a balcony full of geraniums, and every Christmas she had given the children on the street small bags of homemade gingerbread. When the building was sold, he had heard that she had moved to a care home somewhere on the other side of the city. He had never thought about her again – until now.\n\nIt took him two evenings and nineteen phone calls to find her. The woman at the third care home he visited looked at the parcel and then at him with an expression he couldn't read. \"She's in the garden,\" she said quietly. \"She doesn't always remember people. Don't be disappointed.\"\n\nMrs Kowal was sitting in the sun, very small in a large wheelchair. She did not recognise him. But when he put the box on her knees, she touched the handwriting and her face changed completely.\n\n\"That's my sister's writing,\" she whispered. \"Marta. She died before Christmas, the year I moved.\" Her fingers shook as she opened the paper. Inside was a tin of gingerbread, as hard as stone, and a card that said: \"So you never forget how to make them.\"\n\nMrs Kowal laughed and cried at the same time. Then she looked up at Tomasz, really looked at him, and said, \"You're the boy from number 12. You always took two.\"\n\nHe didn't tell his manager. Some deliveries don't need to be recorded.",
+  "exercises": [
+    {
+      "id": "b2-reading-story-1-01",
+      "type": "choice",
+      "prompt": "Tomasz knew the street on the parcel.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...he had grown up on Ogrodowa Street...”"
+    },
+    {
+      "id": "b2-reading-story-1-02",
+      "type": "choice",
+      "prompt": "The parcel had been posted a few days earlier.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Wysłano ją w 2019 roku, cztery lata wcześniej."
+    },
+    {
+      "id": "b2-reading-story-1-03",
+      "type": "choice",
+      "prompt": "Tomasz's manager had also lived on Ogrodowa Street.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "b2-reading-story-1-04",
+      "type": "choice",
+      "prompt": "What did the manager want Tomasz to do?",
+      "answer": "stop worrying about the parcel",
+      "distractors": [
+        "deliver it to the care home",
+        "open it"
+      ],
+      "explanation": "„Not your problem.”"
+    },
+    {
+      "id": "b2-reading-story-1-05",
+      "type": "choice",
+      "prompt": "Why did the care home worker say \"Don't be disappointed\"?",
+      "answer": "Mrs Kowal might not recognise him.",
+      "distractors": [
+        "The parcel was damaged.",
+        "Mrs Kowal was very ill."
+      ],
+      "explanation": "„She doesn't always remember people.”"
+    },
+    {
+      "id": "b2-reading-story-1-06",
+      "type": "choice",
+      "prompt": "Who sent the parcel?",
+      "answer": "Mrs Kowal's sister",
+      "distractors": [
+        "Tomasz's mother",
+        "the care home"
+      ],
+      "explanation": "„That's my sister's writing.”"
+    },
+    {
+      "id": "b2-reading-story-1-07",
+      "type": "choice",
+      "prompt": "What does the last line suggest?",
+      "answer": "Tomasz did it for personal, not professional, reasons.",
+      "distractors": [
+        "Tomasz was afraid of losing his job.",
+        "The delivery system had failed again."
+      ],
+      "explanation": "„Some deliveries don't need to be recorded.”"
+    },
+    {
+      "id": "b2-reading-story-1-08",
+      "type": "cloze",
+      "prompt": "Number 17 had been ___ down to make room for a car park. (zburzony)",
+      "answer": "knocked",
+      "explanation": "Knock down – zburzyć."
+    },
+    {
+      "id": "b2-reading-story-1-09",
+      "type": "cloze",
+      "prompt": "Inside was a tin of gingerbread, as hard as ___.",
+      "answer": "stone",
+      "explanation": "As hard as stone."
+    },
+    {
+      "id": "b2-reading-story-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "undeliverable|niemożliwy do doręczenia",
+        "warehouse|magazyn",
+        "care home|dom opieki",
+        "recognise|rozpoznać"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

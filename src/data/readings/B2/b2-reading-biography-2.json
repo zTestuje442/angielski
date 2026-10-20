@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-biography-2",
+  "topicId": "b2-reading-biography",
+  "title": "Steve Jobs's long way back",
+  "text": "When people think of Steve Jobs, they usually picture a confident man on stage, presenting the latest iPhone. Fewer people remember that, in the middle of his career, he was fired from the company he had started.\n\nJobs was born in San Francisco in 1955 and was adopted as a baby by Paul and Clara Jobs. Paul, a mechanic, taught his son to take apart and rebuild electronics in the family garage. Jobs went to university but dropped out after one semester. Instead of attending required courses, he sat in on classes that interested him – including one on calligraphy, which later influenced the beautiful fonts of the first Macintosh.\n\nIn 1976, Jobs and his friend Steve Wozniak founded Apple in the Jobs family garage. Their second computer, the Apple II, was a huge success, and by the age of 25 Jobs was a millionaire. However, he was known as a difficult manager: brilliant and inspiring, but also impatient and often rude to his staff. After a power struggle with the board of directors, he was forced to leave Apple in 1985, at the age of 30.\n\nJobs later described this moment as painful but also liberating. He founded a new computer company, NeXT, and bought a small graphics studio that would become Pixar. In 1995, Pixar released Toy Story, the first feature-length film made entirely by computer animation, which made Jobs a billionaire.\n\nMeanwhile, Apple was in serious trouble and close to bankruptcy. In 1997 it bought NeXT, and Jobs returned, first as an adviser and soon as chief executive. Over the next fourteen years he led the company through an extraordinary series of products – the iMac, the iPod, the iPhone and the iPad – which changed several industries.\n\nJobs died of cancer in 2011, at the age of 56. In a famous speech to university graduates, he said that being fired from Apple was \"the best thing that could have ever happened\" to him, because it freed him to be creative again.",
+  "exercises": [
+    {
+      "id": "b2-reading-biography-2-01",
+      "type": "choice",
+      "prompt": "Jobs was raised by adoptive parents.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...was adopted as a baby by Paul and Clara Jobs.”"
+    },
+    {
+      "id": "b2-reading-biography-2-02",
+      "type": "choice",
+      "prompt": "Jobs finished his university degree.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...dropped out after one semester.”"
+    },
+    {
+      "id": "b2-reading-biography-2-03",
+      "type": "choice",
+      "prompt": "Wozniak also left Apple in 1985.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o odejściu Wozniaka."
+    },
+    {
+      "id": "b2-reading-biography-2-04",
+      "type": "choice",
+      "prompt": "How did the calligraphy class influence Jobs?",
+      "answer": "It inspired the fonts of the first Macintosh.",
+      "distractors": [
+        "It helped him get a job at Pixar.",
+        "It made him leave university."
+      ],
+      "explanation": "„...later influenced the beautiful fonts of the first Macintosh.”"
+    },
+    {
+      "id": "b2-reading-biography-2-05",
+      "type": "choice",
+      "prompt": "Why was Jobs forced to leave Apple?",
+      "answer": "after a power struggle with the board",
+      "distractors": [
+        "because of bad sales of the Apple II",
+        "because he was ill"
+      ],
+      "explanation": "„After a power struggle with the board of directors...”"
+    },
+    {
+      "id": "b2-reading-biography-2-06",
+      "type": "choice",
+      "prompt": "What made Jobs a billionaire?",
+      "answer": "the success of Toy Story",
+      "distractors": [
+        "the Apple II",
+        "the iPod"
+      ],
+      "explanation": "„...Toy Story... which made Jobs a billionaire.”"
+    },
+    {
+      "id": "b2-reading-biography-2-07",
+      "type": "choice",
+      "prompt": "How did Jobs later see being fired?",
+      "answer": "as something positive in the end",
+      "distractors": [
+        "as the worst moment of his life",
+        "as a mistake by Wozniak"
+      ],
+      "explanation": "„...the best thing that could have ever happened...”"
+    },
+    {
+      "id": "b2-reading-biography-2-08",
+      "type": "cloze",
+      "prompt": "Jobs went to university but dropped ___ after one semester.",
+      "answer": "out",
+      "explanation": "Drop out – rzucić studia."
+    },
+    {
+      "id": "b2-reading-biography-2-09",
+      "type": "cloze",
+      "prompt": "Apple was in serious trouble and close to ___. (bankructwa)",
+      "answer": "bankruptcy",
+      "explanation": "Bankruptcy."
+    },
+    {
+      "id": "b2-reading-biography-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "fire|zwolnić z pracy",
+        "found|założyć (firmę)",
+        "liberating|wyzwalający",
+        "chief executive|prezes"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

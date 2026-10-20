@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-biography-1",
+  "topicId": "b2-reading-biography",
+  "title": "Irena Sendler: a quiet hero",
+  "text": "For decades, very few people knew the name Irena Sendler. Today she is remembered as one of the bravest women of the Second World War, a social worker who helped to save around 2,500 Jewish children from the Warsaw Ghetto.\n\nIrena was born in 1910 in Warsaw and grew up in Otwock, a town where her father worked as a doctor. He treated poor patients, many of them Jewish, often without asking for payment. When he died of typhus caught from a patient, Irena was only seven. She later said that his most important lesson was simple: if you see someone drowning, you must jump into the water to help, even if you cannot swim.\n\nWhen the Germans created the ghetto in 1940, Irena was working for the city's social welfare department. Because her job gave her a permit to enter the ghetto to check for infectious diseases, she was able to go in and out. Together with a group of colleagues from the underground organisation Żegota, she began to smuggle children out – in ambulances, through sewers, hidden in boxes and suitcases, or through a church that had entrances on both sides of the ghetto wall.\n\nThe children were given new, Polish names and placed with families, in convents and in orphanages. Irena wrote down their real names on thin pieces of paper and buried them in glass jars in a friend's garden, hoping that one day the children could be reunited with their families.\n\nIn October 1943, she was arrested by the Gestapo. She was tortured but refused to give any names. She was sentenced to death, but Żegota managed to bribe a guard, and she escaped on the way to her execution. She spent the rest of the war in hiding, still helping others.\n\nAfter the war, the communist authorities did not celebrate her work, and her story was almost forgotten. It became famous only in 1999, when a group of American schoolgirls wrote a play about her. Irena died in 2008, at the age of 98. She always insisted that she was not a hero. \"I could have done more,\" she said.",
+  "exercises": [
+    {
+      "id": "b2-reading-biography-1-01",
+      "type": "choice",
+      "prompt": "Irena's father was a doctor.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...her father worked as a doctor.”"
+    },
+    {
+      "id": "b2-reading-biography-1-02",
+      "type": "choice",
+      "prompt": "Irena's job made it possible for her to enter the ghetto.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...her job gave her a permit to enter the ghetto...”"
+    },
+    {
+      "id": "b2-reading-biography-1-03",
+      "type": "choice",
+      "prompt": "Irena was released from prison by the Gestapo.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Uciekła po przekupieniu strażnika."
+    },
+    {
+      "id": "b2-reading-biography-1-04",
+      "type": "choice",
+      "prompt": "Irena had three children of her own.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o jej dzieciach."
+    },
+    {
+      "id": "b2-reading-biography-1-05",
+      "type": "choice",
+      "prompt": "What lesson did Irena learn from her father?",
+      "answer": "Help people in danger, even if it is risky.",
+      "distractors": [
+        "Never trust strangers.",
+        "Always become a doctor."
+      ],
+      "explanation": "„...if you see someone drowning, you must jump into the water...”"
+    },
+    {
+      "id": "b2-reading-biography-1-06",
+      "type": "choice",
+      "prompt": "Why did she bury the children's names in jars?",
+      "answer": "so that they could later find their families",
+      "distractors": [
+        "to hide them from her colleagues",
+        "because the jars were valuable"
+      ],
+      "explanation": "„...hoping that one day the children could be reunited with their families.”"
+    },
+    {
+      "id": "b2-reading-biography-1-07",
+      "type": "choice",
+      "prompt": "How did her story become famous?",
+      "answer": "American schoolgirls wrote a play about her.",
+      "distractors": [
+        "She wrote a book.",
+        "The communist government gave her a medal."
+      ],
+      "explanation": "„...a group of American schoolgirls wrote a play about her.”"
+    },
+    {
+      "id": "b2-reading-biography-1-08",
+      "type": "cloze",
+      "prompt": "She began to ___ children out of the ghetto. (przemycać)",
+      "answer": "smuggle",
+      "explanation": "Smuggle."
+    },
+    {
+      "id": "b2-reading-biography-1-09",
+      "type": "cloze",
+      "prompt": "Żegota managed to ___ a guard. (przekupić)",
+      "answer": "bribe",
+      "explanation": "Bribe."
+    },
+    {
+      "id": "b2-reading-biography-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "permit|przepustka, pozwolenie",
+        "sewer|kanał",
+        "orphanage|sierociniec",
+        "insist|upierać się"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

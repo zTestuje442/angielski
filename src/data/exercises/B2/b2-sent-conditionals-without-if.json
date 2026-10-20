@@ -1,0 +1,353 @@
+[
+  {
+    "id": "b2-sent-conditionals-without-if-1",
+    "topicId": "b2-sent-conditionals-without-if",
+    "exercises": [
+      {
+        "id": "b2-sent-conditionals-without-if-1-01",
+        "type": "match",
+        "prompt": "Połącz spójniki z tłumaczeniem.",
+        "answer": [
+          "unless|jeśli nie",
+          "as long as|pod warunkiem, że",
+          "in case|na wypadek, gdyby",
+          "otherwise|w przeciwnym razie"
+        ],
+        "explanation": "Warunki bez if."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-02",
+        "type": "cloze",
+        "prompt": "You won't pass ___ you study harder. (jeśli nie)",
+        "answer": "unless",
+        "explanation": "Unless = if not."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-03",
+        "type": "cloze",
+        "prompt": "Take a jacket in ___ it gets cold.",
+        "answer": "case",
+        "explanation": "In case."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-04",
+        "type": "choice",
+        "prompt": "You can go out ___ you're home by eleven.",
+        "answer": "as long as",
+        "distractors": [
+          "unless",
+          "in case"
+        ],
+        "explanation": "Pod warunkiem: as long as."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-05",
+        "type": "choice",
+        "prompt": "Hurry up, ___ we'll miss the train.",
+        "answer": "otherwise",
+        "distractors": [
+          "unless",
+          "provided"
+        ],
+        "explanation": "W przeciwnym razie: otherwise."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-06",
+        "type": "error",
+        "prompt": "I'll help you as long as you helps me.",
+        "answer": [
+          "helps",
+          "help"
+        ],
+        "explanation": "You – help."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-07",
+        "type": "tiles",
+        "prompt": "Pójdę nawet jeśli będzie padać.",
+        "answer": [
+          "I",
+          "will",
+          "go",
+          "even",
+          "if",
+          "it",
+          "rains"
+        ],
+        "distractors": [
+          "rained",
+          "raining"
+        ],
+        "explanation": "Even if + czas teraźniejszy."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-08",
+        "type": "translate",
+        "prompt": "Zadzwoń, jeśli nie przyjdziesz.",
+        "answer": "Call me if you aren't coming.",
+        "accept": [
+          "Call me if you are not coming.",
+          "Call me unless you are coming.",
+          "Call me if you don't come.",
+          "Call me if you won't come."
+        ],
+        "explanation": "If not / unless."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-09",
+        "type": "choice",
+        "prompt": "___ we miss the last bus? How will we get home?",
+        "answer": "What if",
+        "distractors": [
+          "Unless",
+          "In case"
+        ],
+        "explanation": "What if...?"
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-1-10",
+        "type": "transform",
+        "prompt": "Przepisz z „unless”.\nIf you don't apologise, she won't talk to you.",
+        "answer": "Unless you apologise, she won't talk to you.",
+        "accept": [
+          "She won't talk to you unless you apologise.",
+          "Unless you apologize, she won't talk to you.",
+          "She won't talk to you unless you apologize."
+        ],
+        "explanation": "Unless = if not."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-conditionals-without-if-2",
+    "topicId": "b2-sent-conditionals-without-if",
+    "exercises": [
+      {
+        "id": "b2-sent-conditionals-without-if-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "provided that|pod warunkiem, że",
+          "even if|nawet jeśli",
+          "suppose|przypuśćmy",
+          "what if|a co jeśli"
+        ],
+        "explanation": "Warunki bez if."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-02",
+        "type": "cloze",
+        "prompt": "I'll lend you the money provided ___ you pay it back next week.",
+        "answer": "that",
+        "explanation": "Provided that."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-03",
+        "type": "cloze",
+        "prompt": "I'll take some sandwiches ___ case we get hungry.",
+        "answer": "in",
+        "explanation": "In case."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-04",
+        "type": "choice",
+        "prompt": "Don't call me ___ it's an emergency.",
+        "answer": "unless",
+        "distractors": [
+          "as long as",
+          "provided"
+        ],
+        "explanation": "Unless."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-05",
+        "type": "choice",
+        "prompt": "Leave now, ___ you'll be late.",
+        "answer": "otherwise",
+        "distractors": [
+          "in case",
+          "unless"
+        ],
+        "explanation": "Otherwise."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-06",
+        "type": "error",
+        "prompt": "Unless you hurries, you'll be late.",
+        "answer": [
+          "hurries",
+          "hurry"
+        ],
+        "explanation": "You – hurry."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-07",
+        "type": "tiles",
+        "prompt": "Możesz zostać pod warunkiem że będziesz cicho.",
+        "answer": [
+          "You",
+          "can",
+          "stay",
+          "as",
+          "long",
+          "as",
+          "you",
+          "are",
+          "quiet"
+        ],
+        "distractors": [
+          "will",
+          "quietly"
+        ],
+        "explanation": "As long as + czas teraźniejszy."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-08",
+        "type": "translate",
+        "prompt": "Wezmę parasol na wypadek deszczu.",
+        "answer": "I'll take an umbrella in case it rains.",
+        "accept": [
+          "I will take an umbrella in case it rains.",
+          "I'll take an umbrella in case of rain.",
+          "I will take an umbrella in case of rain."
+        ],
+        "explanation": "In case + czas teraźniejszy."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-09",
+        "type": "choice",
+        "prompt": "\"Take your phone in case you get lost\" means:",
+        "answer": "Take it now because you might get lost.",
+        "distractors": [
+          "Take it only if you get lost.",
+          "Don't take it."
+        ],
+        "explanation": "In case – na wszelki wypadek, z góry."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-2-10",
+        "type": "transform",
+        "prompt": "Przepisz z „otherwise”.\nIf you don't book now, there won't be any tickets left.",
+        "answer": "Book now, otherwise there won't be any tickets left.",
+        "accept": [
+          "Book now; otherwise, there won't be any tickets left.",
+          "Book now, otherwise there will be no tickets left.",
+          "Book now. Otherwise, there won't be any tickets left."
+        ],
+        "explanation": "Otherwise."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-conditionals-without-if-3",
+    "topicId": "b2-sent-conditionals-without-if",
+    "exercises": [
+      {
+        "id": "b2-sent-conditionals-without-if-3-01",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "You'll fail unless you study.|Nie zdasz, jeśli się nie będziesz uczyć.",
+          "Take water in case you get thirsty.|Weź wodę na wypadek pragnienia.",
+          "You can come as long as you're on time.|Możesz przyjść, jeśli będziesz na czas.",
+          "I'll go even if it's cold.|Pójdę, nawet jeśli będzie zimno."
+        ],
+        "explanation": "Zdania warunkowe."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-02",
+        "type": "cloze",
+        "prompt": "Suppose you won the lottery – what ___ you do?",
+        "answer": "would",
+        "explanation": "Suppose + Past Simple, would."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-03",
+        "type": "cloze",
+        "prompt": "I'll call you as soon as I ___ home. (arrive)",
+        "answer": "arrive",
+        "explanation": "Czas teraźniejszy po spójniku."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-04",
+        "type": "choice",
+        "prompt": "We'll have the party outside ___ it doesn't rain.",
+        "answer": "provided",
+        "distractors": [
+          "unless",
+          "in case"
+        ],
+        "explanation": "Pod warunkiem: provided."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-05",
+        "type": "choice",
+        "prompt": "I'll write down your number ___ I forget it.",
+        "answer": "in case",
+        "distractors": [
+          "unless",
+          "as long as"
+        ],
+        "explanation": "Na wypadek: in case."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-06",
+        "type": "error",
+        "prompt": "Even if you apologise, I won't forgave you.",
+        "answer": [
+          "forgave",
+          "forgive"
+        ],
+        "explanation": "Won't + forma podstawowa."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-07",
+        "type": "tiles",
+        "prompt": "Co jeśli nikt nie przyjdzie?",
+        "answer": [
+          "What",
+          "if",
+          "nobody",
+          "comes"
+        ],
+        "distractors": [
+          "will",
+          "Unless"
+        ],
+        "explanation": "What if + czas teraźniejszy."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-08",
+        "type": "translate",
+        "prompt": "Nie przyjdę, chyba że mnie zaprosisz.",
+        "answer": "I won't come unless you invite me.",
+        "accept": [
+          "I will not come unless you invite me.",
+          "I won't come if you don't invite me."
+        ],
+        "explanation": "Unless."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Unless you leave now, you'll miss the train.",
+        "distractors": [
+          "Unless you don't leave now, you'll miss the train.",
+          "Unless you will leave now, you'll miss the train."
+        ],
+        "explanation": "Unless + twierdzące, czas teraźniejszy."
+      },
+      {
+        "id": "b2-sent-conditionals-without-if-3-10",
+        "type": "transform",
+        "prompt": "Przepisz z „as long as”.\nYou can use my laptop, but only if you're careful.",
+        "answer": "You can use my laptop as long as you're careful.",
+        "accept": [
+          "You can use my laptop as long as you are careful."
+        ],
+        "explanation": "As long as."
+      }
+    ]
+  }
+]

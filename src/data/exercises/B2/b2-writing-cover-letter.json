@@ -1,0 +1,343 @@
+[
+  {
+    "id": "b2-writing-cover-letter-1",
+    "topicId": "b2-writing-cover-letter",
+    "exercises": [
+      {
+        "id": "b2-writing-cover-letter-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "I am writing to apply for...|Piszę, aby ubiegać się o...",
+          "I have attached my CV.|Załączam CV.",
+          "I would welcome the opportunity...|Z przyjemnością skorzystałbym z okazji...",
+          "In my current role,...|Na obecnym stanowisku..."
+        ],
+        "explanation": "Zwroty listu motywacyjnego."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-02",
+        "type": "choice",
+        "prompt": "I am writing to apply ___ the position of QA tester.",
+        "answer": "for",
+        "distractors": [
+          "to",
+          "on"
+        ],
+        "explanation": "Apply for."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-03",
+        "type": "choice",
+        "prompt": "Which sentence shows an achievement?",
+        "answer": "I reduced customer complaints by 20% in one year.",
+        "distractors": [
+          "I am a very good worker.",
+          "I like my job very much."
+        ],
+        "explanation": "Konkretne osiągnięcie."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-04",
+        "type": "cloze",
+        "prompt": "I have three years of experience ___ software testing.",
+        "answer": "in",
+        "explanation": "Experience in."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-05",
+        "type": "cloze",
+        "prompt": "I would welcome the ___ to discuss my application. (okazja)",
+        "answer": "opportunity",
+        "explanation": "Opportunity."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż list motywacyjny.",
+        "answer": [
+          "Dear Ms Kowalska,",
+          "I am writing to apply for the position of junior tester advertised on your website.",
+          "In my current role, I test mobile applications for a small start-up.",
+          "I have attached my CV and look forward to hearing from you.",
+          "Yours sincerely,"
+        ],
+        "distractors": [
+          "Cheers,"
+        ],
+        "explanation": "Powitanie, cel, doświadczenie, zakończenie, podpis. Potoczne „Cheers” nie pasuje."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-07",
+        "type": "error",
+        "prompt": "I am writting to apply for the job of receptionist.",
+        "answer": [
+          "writting",
+          "writing"
+        ],
+        "explanation": "Pisownia: writing."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-08",
+        "type": "translate",
+        "prompt": "Jestem odpowiedzialny za testowanie nowych funkcji.",
+        "answer": "I am responsible for testing new features.",
+        "accept": [
+          "I'm responsible for testing new features.",
+          "I am responsible for testing the new features."
+        ],
+        "explanation": "Responsible for + -ing."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-09",
+        "type": "transform",
+        "prompt": "Zamień na formalne zdanie, zacznij od „I am particularly interested”.\nI really like your company because it makes green products.",
+        "answer": "I am particularly interested in your company because it makes green products.",
+        "accept": [
+          "I am particularly interested in your company because it produces green products.",
+          "I am particularly interested in your company as it makes green products."
+        ],
+        "explanation": "Interested in."
+      },
+      {
+        "id": "b2-writing-cover-letter-1-10",
+        "type": "choice",
+        "prompt": "You start with \"Dear Sir or Madam\". How do you end?",
+        "answer": "Yours faithfully,",
+        "distractors": [
+          "Yours sincerely,",
+          "Best wishes,"
+        ],
+        "explanation": "Nieznane nazwisko: Yours faithfully."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-cover-letter-2",
+    "topicId": "b2-writing-cover-letter",
+    "exercises": [
+      {
+        "id": "b2-writing-cover-letter-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "responsible for|odpowiedzialny za",
+          "skilled in|wykwalifikowany w",
+          "a team player|osoba pracująca dobrze w zespole",
+          "attention to detail|dbałość o szczegóły"
+        ],
+        "explanation": "Umiejętności."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-02",
+        "type": "choice",
+        "prompt": "Which sentence is too informal for a cover letter?",
+        "answer": "I'm super keen to work for you guys!",
+        "distractors": [
+          "I am very keen to join your team.",
+          "I would be delighted to work for your company."
+        ],
+        "explanation": "Potocznie: super keen, you guys."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-03",
+        "type": "choice",
+        "prompt": "I saw your advertisement ___ LinkedIn.",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "On LinkedIn / on your website."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-04",
+        "type": "cloze",
+        "prompt": "I am a quick learner and a good team ___. (gracz)",
+        "answer": "player",
+        "explanation": "Team player."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-05",
+        "type": "cloze",
+        "prompt": "My attention ___ detail helps me find mistakes others miss.",
+        "answer": "to",
+        "explanation": "Attention to detail."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż akapit o doświadczeniu.",
+        "answer": [
+          "For the past two years, I have worked as a customer service assistant.",
+          "I deal with around fifty customer requests a day.",
+          "This has taught me to stay calm under pressure."
+        ],
+        "distractors": [
+          "Lots of love,"
+        ],
+        "explanation": "Doświadczenie, przykład, wniosek. Nieformalne pożegnanie nie pasuje."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-07",
+        "type": "error",
+        "prompt": "I am very interested on this position.",
+        "answer": [
+          "on",
+          "in"
+        ],
+        "explanation": "Interested in."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-08",
+        "type": "translate",
+        "prompt": "Z przyjemnością omówię moją kandydaturę.",
+        "answer": "I would welcome the opportunity to discuss my application.",
+        "accept": [
+          "I would be happy to discuss my application.",
+          "I would be glad to discuss my application.",
+          "I would welcome the chance to discuss my application.",
+          "I would be delighted to discuss my application."
+        ],
+        "explanation": "I would welcome the opportunity..."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-09",
+        "type": "transform",
+        "prompt": "Zamień ogólnik na konkret, zacznij od „I increased”.\nI was good at selling.",
+        "answer": "I increased sales by 15% in one year.",
+        "accept": [
+          "I increased sales by 15 percent in one year.",
+          "I increased sales by fifteen percent in one year.",
+          "I increased our sales by 15% in one year."
+        ],
+        "explanation": "Konkretne osiągnięcie z liczbą."
+      },
+      {
+        "id": "b2-writing-cover-letter-2-10",
+        "type": "choice",
+        "prompt": "What should you avoid in a cover letter?",
+        "answer": "exaggerated praise like \"I am the best\"",
+        "distractors": [
+          "concrete examples",
+          "a formal greeting"
+        ],
+        "explanation": "Bez przesadnych pochwał."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-cover-letter-3",
+    "topicId": "b2-writing-cover-letter",
+    "exercises": [
+      {
+        "id": "b2-writing-cover-letter-3-01",
+        "type": "match",
+        "prompt": "Połącz powitanie z zakończeniem.",
+        "answer": [
+          "Dear Mr Brown,|Yours sincerely,",
+          "Dear Sir or Madam,|Yours faithfully,"
+        ],
+        "explanation": "Powitanie i zakończenie."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-02",
+        "type": "choice",
+        "prompt": "Which sentence explains why you want this company?",
+        "answer": "I admire your company's commitment to sustainability.",
+        "distractors": [
+          "I need money.",
+          "Your office is near my house."
+        ],
+        "explanation": "Powód: wartości firmy."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-03",
+        "type": "choice",
+        "prompt": "I ___ forward to hearing from you.",
+        "answer": "look",
+        "distractors": [
+          "am looking for",
+          "see"
+        ],
+        "explanation": "I look forward to hearing from you."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-04",
+        "type": "cloze",
+        "prompt": "I am ___ in Polish and English. (biegły)",
+        "answer": "fluent",
+        "explanation": "Fluent in."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-05",
+        "type": "cloze",
+        "prompt": "Please find my CV ___. (w załączniku)",
+        "answer": "attached",
+        "explanation": "Please find attached."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie listu.",
+        "answer": [
+          "I have attached my CV for your consideration.",
+          "I would welcome the opportunity to discuss my application in an interview.",
+          "I look forward to hearing from you.",
+          "Yours sincerely,",
+          "Anna Nowak"
+        ],
+        "distractors": [
+          "See you soon!"
+        ],
+        "explanation": "CV, chęć rozmowy, formułka, podpis. Potoczne pożegnanie nie pasuje."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-07",
+        "type": "error",
+        "prompt": "I look forward to hear from you.",
+        "answer": [
+          "hear",
+          "hearing"
+        ],
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-08",
+        "type": "translate",
+        "prompt": "Biegle mówię po hiszpańsku.",
+        "answer": "I am fluent in Spanish.",
+        "accept": [
+          "I speak Spanish fluently.",
+          "I'm fluent in Spanish.",
+          "I speak fluent Spanish."
+        ],
+        "explanation": "Fluent in."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-09",
+        "type": "transform",
+        "prompt": "Zamień na formalne zdanie, użyj „keen”.\nI really want to work in your team.",
+        "answer": "I am very keen to work in your team.",
+        "accept": [
+          "I am keen to work in your team.",
+          "I am very keen to join your team.",
+          "I am keen to join your team.",
+          "I am very keen to work on your team."
+        ],
+        "explanation": "Be keen to."
+      },
+      {
+        "id": "b2-writing-cover-letter-3-10",
+        "type": "choice",
+        "prompt": "How long is a B2 cover letter?",
+        "answer": "140–190 words",
+        "distractors": [
+          "30–50 words",
+          "500 words"
+        ],
+        "explanation": "B2: 140–190 słów."
+      }
+    ]
+  }
+]

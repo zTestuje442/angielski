@@ -1,0 +1,340 @@
+[
+  {
+    "id": "b2-writing-review-1",
+    "topicId": "b2-writing-review",
+    "exercises": [
+      {
+        "id": "b2-writing-review-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "plot|fabuła",
+          "cast|obsada",
+          "soundtrack|ścieżka dźwiękowa",
+          "a must-see|pozycja obowiązkowa"
+        ],
+        "explanation": "Słownictwo recenzji."
+      },
+      {
+        "id": "b2-writing-review-1-02",
+        "type": "choice",
+        "prompt": "___ in 1960s London, the film tells the story of two sisters.",
+        "answer": "Set",
+        "distractors": [
+          "Placed",
+          "Put"
+        ],
+        "explanation": "Set in – akcja dzieje się w."
+      },
+      {
+        "id": "b2-writing-review-1-03",
+        "type": "choice",
+        "prompt": "The ending was so ___ that nobody believed it.",
+        "answer": "far-fetched",
+        "distractors": [
+          "gripping",
+          "superb"
+        ],
+        "explanation": "Naciągany: far-fetched."
+      },
+      {
+        "id": "b2-writing-review-1-04",
+        "type": "cloze",
+        "prompt": "My only ___ is that the film is too long. (zastrzeżenie, krytyka)",
+        "answer": "criticism",
+        "explanation": "My only criticism is..."
+      },
+      {
+        "id": "b2-writing-review-1-05",
+        "type": "cloze",
+        "prompt": "It's well ___ watching if you like history.",
+        "answer": "worth",
+        "explanation": "Well worth + -ing."
+      },
+      {
+        "id": "b2-writing-review-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż recenzję.",
+        "answer": [
+          "Set in a small Irish village, The Quiet Year is a gripping family drama.",
+          "The cast is superb, especially the young actress playing the main character.",
+          "My only criticism is that the second half is a little slow.",
+          "Overall, it's well worth watching."
+        ],
+        "distractors": [
+          "I am writing to apply for the job."
+        ],
+        "explanation": "Wstęp, ocena obsady, zastrzeżenie, rekomendacja. Zdanie z podania nie pasuje."
+      },
+      {
+        "id": "b2-writing-review-1-07",
+        "type": "error",
+        "prompt": "The film is worth watch.",
+        "answer": [
+          "watch",
+          "watching"
+        ],
+        "explanation": "Worth + -ing."
+      },
+      {
+        "id": "b2-writing-review-1-08",
+        "type": "translate",
+        "prompt": "Obsada jest znakomita.",
+        "answer": "The cast is superb.",
+        "accept": [
+          "The cast is excellent.",
+          "The cast is brilliant.",
+          "The cast is outstanding.",
+          "The cast is fantastic."
+        ],
+        "explanation": "Superb."
+      },
+      {
+        "id": "b2-writing-review-1-09",
+        "type": "transform",
+        "prompt": "Złagodź krytykę, zacznij od „Admittedly”.\nThe special effects are not very good.",
+        "answer": "Admittedly, the special effects are not very good.",
+        "accept": [
+          "Admittedly, the special effects aren't very good.",
+          "Admittedly the special effects are not very good."
+        ],
+        "explanation": "Admittedly."
+      },
+      {
+        "id": "b2-writing-review-1-10",
+        "type": "choice",
+        "prompt": "Which sentence is a spoiler?",
+        "answer": "In the end, the detective turns out to be the killer.",
+        "distractors": [
+          "The detective is a complex character.",
+          "The film is set in Paris."
+        ],
+        "explanation": "Spoiler zdradza zakończenie."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-review-2",
+    "topicId": "b2-writing-review",
+    "exercises": [
+      {
+        "id": "b2-writing-review-2-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "gripping|trzymający w napięciu",
+          "thought-provoking|skłaniający do myślenia",
+          "overrated|przereklamowany",
+          "mediocre|przeciętny"
+        ],
+        "explanation": "Przymiotniki oceniające."
+      },
+      {
+        "id": "b2-writing-review-2-02",
+        "type": "choice",
+        "prompt": "Everyone loves this series, but I found it ___.",
+        "answer": "overrated",
+        "distractors": [
+          "a must-see",
+          "gripping"
+        ],
+        "explanation": "Przereklamowany: overrated."
+      },
+      {
+        "id": "b2-writing-review-2-03",
+        "type": "choice",
+        "prompt": "What makes the book stand ___ is its humour.",
+        "answer": "out",
+        "distractors": [
+          "up",
+          "off"
+        ],
+        "explanation": "Stand out – wyróżniać się."
+      },
+      {
+        "id": "b2-writing-review-2-04",
+        "type": "cloze",
+        "prompt": "The ___ is simple: a boy finds a dog and tries to keep it. (fabuła)",
+        "answer": "plot",
+        "explanation": "Plot."
+      },
+      {
+        "id": "b2-writing-review-2-05",
+        "type": "cloze",
+        "prompt": "I wouldn't recommend it ___ young children – it's quite violent.",
+        "answer": "to",
+        "explanation": "Recommend to."
+      },
+      {
+        "id": "b2-writing-review-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż recenzję restauracji.",
+        "answer": [
+          "Lunch at Oliwka is a pleasant surprise.",
+          "The menu is short, but every dish is made with fresh, local ingredients.",
+          "Admittedly, the service can be slow at weekends.",
+          "Still, it's a must-visit for anyone who loves Mediterranean food."
+        ],
+        "distractors": [
+          "Write back soon!"
+        ],
+        "explanation": "Wstęp, zalety, zastrzeżenie, rekomendacja. Zwrot z listu nie pasuje."
+      },
+      {
+        "id": "b2-writing-review-2-07",
+        "type": "error",
+        "prompt": "The soundtrack is one of the most memorable thing about the film.",
+        "answer": [
+          "thing",
+          "things"
+        ],
+        "explanation": "One of the + l. mn."
+      },
+      {
+        "id": "b2-writing-review-2-08",
+        "type": "translate",
+        "prompt": "To pozycja obowiązkowa dla fanów science fiction.",
+        "answer": "It's a must-see for science fiction fans.",
+        "accept": [
+          "It is a must-see for science fiction fans.",
+          "It's a must-see for fans of science fiction.",
+          "It is a must-see for fans of science fiction.",
+          "This is a must-see for science fiction fans."
+        ],
+        "explanation": "A must-see."
+      },
+      {
+        "id": "b2-writing-review-2-09",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z „What makes ... stand out”, zacznij od „What makes”.\nThe acting makes this film special.",
+        "answer": "What makes this film stand out is the acting.",
+        "explanation": "What makes... stand out is..."
+      },
+      {
+        "id": "b2-writing-review-2-10",
+        "type": "choice",
+        "prompt": "Which sentence gives a balanced opinion?",
+        "answer": "The plot is gripping, although the ending is a little far-fetched.",
+        "distractors": [
+          "It's the best film ever made.",
+          "Everything about it is terrible."
+        ],
+        "explanation": "Zalety i wady."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-review-3",
+    "topicId": "b2-writing-review",
+    "exercises": [
+      {
+        "id": "b2-writing-review-3-01",
+        "type": "match",
+        "prompt": "Połącz część z treścią.",
+        "answer": [
+          "Introduction|co recenzujesz",
+          "Description|krótko, bez spoilerów",
+          "Evaluation|mocne i słabe strony",
+          "Recommendation|komu i dlaczego"
+        ],
+        "explanation": "Części recenzji."
+      },
+      {
+        "id": "b2-writing-review-3-02",
+        "type": "choice",
+        "prompt": "Which is the best start of a review?",
+        "answer": "If you're looking for a light-hearted comedy, look no further.",
+        "distractors": [
+          "Dear Sir or Madam,",
+          "Firstly, I will describe the problem."
+        ],
+        "explanation": "Wstęp z adresatem recenzji."
+      },
+      {
+        "id": "b2-writing-review-3-03",
+        "type": "choice",
+        "prompt": "The special effects are impressive; ___, the dialogue is weak.",
+        "answer": "however",
+        "distractors": [
+          "moreover",
+          "because"
+        ],
+        "explanation": "Kontrast: however."
+      },
+      {
+        "id": "b2-writing-review-3-04",
+        "type": "cloze",
+        "prompt": "The film is based ___ a true story.",
+        "answer": "on",
+        "explanation": "Based on."
+      },
+      {
+        "id": "b2-writing-review-3-05",
+        "type": "cloze",
+        "prompt": "It's a ___-provoking documentary about climate change. (skłaniający do myślenia)",
+        "answer": "thought",
+        "explanation": "Thought-provoking."
+      },
+      {
+        "id": "b2-writing-review-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż recenzję smartfona.",
+        "answer": [
+          "The X5 is the latest phone from a young Polish company.",
+          "Its camera is excellent, even at night.",
+          "On the other hand, the battery barely lasts a full day.",
+          "If you take a lot of photos, it's definitely worth considering."
+        ],
+        "distractors": [
+          "In conclusion, I strongly agree with the statement."
+        ],
+        "explanation": "Wstęp, zaleta, wada, rekomendacja. Zdanie z rozprawki nie pasuje."
+      },
+      {
+        "id": "b2-writing-review-3-07",
+        "type": "error",
+        "prompt": "The film is base on a famous novel.",
+        "answer": [
+          "base",
+          "based"
+        ],
+        "explanation": "Be based on."
+      },
+      {
+        "id": "b2-writing-review-3-08",
+        "type": "translate",
+        "prompt": "Fabuła jest przewidywalna, ale aktorzy są świetni.",
+        "answer": "The plot is predictable, but the actors are excellent.",
+        "accept": [
+          "The plot is predictable but the actors are excellent.",
+          "The plot is predictable, but the actors are great.",
+          "The plot is predictable, but the cast is excellent.",
+          "The plot is predictable, but the acting is excellent."
+        ],
+        "explanation": "Plot / predictable."
+      },
+      {
+        "id": "b2-writing-review-3-09",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „although”.\nThe book is long. It is never boring.",
+        "answer": "Although the book is long, it is never boring.",
+        "accept": [
+          "The book is never boring, although it is long.",
+          "Although the book is long it is never boring."
+        ],
+        "explanation": "Although."
+      },
+      {
+        "id": "b2-writing-review-3-10",
+        "type": "choice",
+        "prompt": "A review should mainly...",
+        "answer": "give and justify an opinion",
+        "distractors": [
+          "retell the whole story",
+          "list facts without opinion"
+        ],
+        "explanation": "Ocena z uzasadnieniem."
+      }
+    ]
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2-sent-purpose-result-1",
+    "topicId": "b2-sent-purpose-result",
+    "exercises": [
+      {
+        "id": "b2-sent-purpose-result-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "to buy|żeby kupić",
+          "in order to|w celu",
+          "so that|tak, żeby",
+          "so as not to|żeby nie"
+        ],
+        "explanation": "Wyrażanie celu."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-02",
+        "type": "cloze",
+        "prompt": "I'm learning English ___ that I can work abroad.",
+        "answer": "so",
+        "explanation": "So that + can."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-03",
+        "type": "cloze",
+        "prompt": "She whispered so as ___ to wake the baby.",
+        "answer": "not",
+        "explanation": "So as not to."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-04",
+        "type": "choice",
+        "prompt": "We went to the shop ___ some bread.",
+        "answer": "to buy",
+        "distractors": [
+          "for buy",
+          "for to buy"
+        ],
+        "explanation": "Cel: to + czasownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-05",
+        "type": "choice",
+        "prompt": "It was ___ a good film that we watched it twice.",
+        "answer": "such",
+        "distractors": [
+          "so",
+          "too"
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-06",
+        "type": "error",
+        "prompt": "I came here for see you.",
+        "answer": [
+          "for",
+          "to"
+        ],
+        "explanation": "Cel: to + czasownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-07",
+        "type": "tiles",
+        "prompt": "Wyszliśmy wcześnie żeby uniknąć korków.",
+        "answer": [
+          "We",
+          "left",
+          "early",
+          "to",
+          "avoid",
+          "the",
+          "traffic"
+        ],
+        "distractors": [
+          "for",
+          "avoiding"
+        ],
+        "explanation": "Cel: to + czasownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-08",
+        "type": "translate",
+        "prompt": "Woda jest za zimna, żeby pływać.",
+        "answer": "The water is too cold to swim in.",
+        "accept": [
+          "The water is too cold to swim.",
+          "The water is too cold for swimming."
+        ],
+        "explanation": "Too + przymiotnik + to."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-09",
+        "type": "choice",
+        "prompt": "He isn't old ___ to drive.",
+        "answer": "enough",
+        "distractors": [
+          "too",
+          "so"
+        ],
+        "explanation": "Old enough to."
+      },
+      {
+        "id": "b2-sent-purpose-result-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania z „so that”.\nI wrote it down. I wouldn't forget it.",
+        "answer": "I wrote it down so that I wouldn't forget it.",
+        "accept": [
+          "I wrote it down so I wouldn't forget it."
+        ],
+        "explanation": "So that + wouldn't."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-purpose-result-2",
+    "topicId": "b2-sent-purpose-result",
+    "exercises": [
+      {
+        "id": "b2-sent-purpose-result-2-01",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z tłumaczeniem.",
+        "answer": [
+          "so ... that|tak ..., że",
+          "such a ... that|taki ..., że",
+          "too ... to|zbyt ..., żeby",
+          "... enough to|wystarczająco ..., żeby"
+        ],
+        "explanation": "Wyrażanie skutku."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-02",
+        "type": "cloze",
+        "prompt": "We left early in ___ to catch the first train.",
+        "answer": "order",
+        "explanation": "In order to."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-03",
+        "type": "cloze",
+        "prompt": "The box was ___ heavy that I couldn't lift it. (tak)",
+        "answer": "so",
+        "explanation": "So + przymiotnik + that."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-04",
+        "type": "choice",
+        "prompt": "They whispered ___ nobody could hear them.",
+        "answer": "so that",
+        "distractors": [
+          "so as",
+          "in order"
+        ],
+        "explanation": "So that + podmiot."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-05",
+        "type": "choice",
+        "prompt": "We went out ___ a meal.",
+        "answer": "for",
+        "distractors": [
+          "to",
+          "so that"
+        ],
+        "explanation": "For + rzeczownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-06",
+        "type": "error",
+        "prompt": "I'm saving money so that buy a car.",
+        "answer": [
+          "buy",
+          "I can buy"
+        ],
+        "explanation": "So that + podmiot + can."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-07",
+        "type": "tiles",
+        "prompt": "To był tak zimny dzień, że zostaliśmy w domu.",
+        "answer": [
+          "It",
+          "was",
+          "such",
+          "a",
+          "cold",
+          "day",
+          "that",
+          "we",
+          "stayed",
+          "at",
+          "home"
+        ],
+        "distractors": [
+          "so",
+          "too"
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-08",
+        "type": "translate",
+        "prompt": "Ona jest wystarczająco dorosła, żeby zdecydować sama.",
+        "answer": "She is old enough to decide for herself.",
+        "accept": [
+          "She's old enough to decide for herself.",
+          "She is old enough to decide by herself.",
+          "She is old enough to make her own decisions."
+        ],
+        "explanation": "Old enough to."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-09",
+        "type": "choice",
+        "prompt": "He spoke slowly ___ everyone could understand.",
+        "answer": "so that",
+        "distractors": [
+          "for",
+          "in order to"
+        ],
+        "explanation": "So that + podmiot."
+      },
+      {
+        "id": "b2-sent-purpose-result-2-10",
+        "type": "transform",
+        "prompt": "Przepisz z „too ... to”, zacznij od „The coffee”.\nThe coffee is so hot that I can't drink it.",
+        "answer": "The coffee is too hot to drink.",
+        "accept": [
+          "The coffee is too hot for me to drink."
+        ],
+        "explanation": "Too + przymiotnik + to."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-purpose-result-3",
+    "topicId": "b2-sent-purpose-result",
+    "exercises": [
+      {
+        "id": "b2-sent-purpose-result-3-01",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z użyciem.",
+        "answer": [
+          "in order not to|żeby nie",
+          "for + noun|po coś",
+          "so + adjective|tak + przymiotnik",
+          "such + noun|taki + rzeczownik"
+        ],
+        "explanation": "Cel i skutek."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-02",
+        "type": "cloze",
+        "prompt": "I set two alarms so as not ___ oversleep.",
+        "answer": "to",
+        "explanation": "So as not to."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-03",
+        "type": "cloze",
+        "prompt": "The music was ___ loud that the neighbours complained. (tak)",
+        "answer": "so",
+        "explanation": "So + przymiotnik."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-04",
+        "type": "choice",
+        "prompt": "I'm saving money ___ a new laptop.",
+        "answer": "for",
+        "distractors": [
+          "to",
+          "so that"
+        ],
+        "explanation": "For + rzeczownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-05",
+        "type": "choice",
+        "prompt": "It's ___ difficult to explain in one sentence.",
+        "answer": "too",
+        "distractors": [
+          "so",
+          "such"
+        ],
+        "explanation": "Too + przymiotnik + to."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-06",
+        "type": "error",
+        "prompt": "They are such nice people so I always visit them.",
+        "answer": [
+          "so",
+          "that"
+        ],
+        "explanation": "Such ... that."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-07",
+        "type": "tiles",
+        "prompt": "Mówił głośno, żeby wszyscy go słyszeli.",
+        "answer": [
+          "He",
+          "spoke",
+          "loudly",
+          "so",
+          "that",
+          "everyone",
+          "could",
+          "hear",
+          "him"
+        ],
+        "distractors": [
+          "for",
+          "to"
+        ],
+        "explanation": "So that + could."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-08",
+        "type": "translate",
+        "prompt": "Pojechałem do Londynu, żeby poprawić angielski.",
+        "answer": "I went to London to improve my English.",
+        "accept": [
+          "I went to London in order to improve my English.",
+          "I went to London so that I could improve my English.",
+          "I went to London so as to improve my English."
+        ],
+        "explanation": "Cel: to + czasownik."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "She works hard so that she can buy a house.",
+        "distractors": [
+          "She works hard so that to buy a house.",
+          "She works hard for buy a house."
+        ],
+        "explanation": "So that + podmiot + can."
+      },
+      {
+        "id": "b2-sent-purpose-result-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania z „such ... that”.\nIt was a boring lecture. Half the students fell asleep.",
+        "answer": "It was such a boring lecture that half the students fell asleep.",
+        "explanation": "Such a + przymiotnik + rzeczownik + that."
+      }
+    ]
+  }
+]

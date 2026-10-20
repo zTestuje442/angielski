@@ -1,0 +1,18 @@
+{
+  "topicId": "b2-writing-cover-letter",
+  "task": "Na stronie firmy technologicznej zobaczyłeś ogłoszenie o pracy na stanowisku **Junior QA Tester**. Napisz **list motywacyjny** do kierowniczki działu, **Ms Sarah Collins**:\n\n- napisz, o jakie stanowisko się ubiegasz i gdzie zobaczyłeś ogłoszenie,\n- opisz swoje doświadczenie i umiejętności, podając konkretne przykłady,\n- wyjaśnij, dlaczego interesuje cię ta firma,\n- zakończ list formalnie.",
+  "words": [
+    140,
+    190
+  ],
+  "model": "Dear Ms Collins,\n\nI am writing to apply for the position of Junior QA Tester advertised on your company's website.\n\nFor the past two years, I have worked as a customer support specialist at an online banking company. In this role, I am responsible for reproducing problems reported by users and describing them clearly for the development team. Last year, I suggested a simple checklist for bug reports, which reduced the time developers spent on each ticket by around 20%.\n\nIn my free time, I have completed an online course in software testing and I have practised writing automated tests in Playwright. I am known for my attention to detail and I enjoy finding problems that others miss.\n\nI am particularly interested in your company because of your focus on accessible design. I believe that good testing is essential to making technology usable for everyone.\n\nI have attached my CV for your consideration. I would welcome the opportunity to discuss my application in an interview.\n\nI look forward to hearing from you.\n\nYours sincerely,\nPiotr Lewandowski",
+  "checklist": [
+    "Zaczynam od „Dear Ms Collins,” i kończę „Yours sincerely,” z imieniem i nazwiskiem.",
+    "Pierwsze zdanie mówi, o jakie stanowisko się ubiegam i gdzie zobaczyłem ogłoszenie.",
+    "Opisuję doświadczenie z konkretnym osiągnięciem (liczby, efekty).",
+    "Wyjaśniam, dlaczego interesuje mnie właśnie ta firma.",
+    "Styl formalny: bez skrótów, bez przesadnych pochwał.",
+    "Kończę formułkami (I have attached my CV / I look forward to hearing from you).",
+    "Tekst ma 140–190 słów."
+  ]
+}

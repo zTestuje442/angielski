@@ -1,0 +1,365 @@
+[
+  {
+    "id": "b2-sent-contrast-concession-1",
+    "topicId": "b2-sent-contrast-concession",
+    "exercises": [
+      {
+        "id": "b2-sent-contrast-concession-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z użyciem.",
+        "answer": [
+          "although|chociaż (+ zdanie)",
+          "despite|pomimo (+ rzeczownik)",
+          "however|jednak",
+          "whereas|podczas gdy"
+        ],
+        "explanation": "Słowa kontrastu."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-02",
+        "type": "cloze",
+        "prompt": "___ it was cold, we went swimming. (chociaż)",
+        "answer": "Although",
+        "accept": [
+          "Even though",
+          "Though"
+        ],
+        "explanation": "Although + zdanie."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-03",
+        "type": "cloze",
+        "prompt": "___ the rain, the match went ahead. (pomimo)",
+        "answer": "Despite",
+        "accept": [
+          "In spite of"
+        ],
+        "explanation": "Despite + rzeczownik."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-04",
+        "type": "choice",
+        "prompt": "In spite ___ being tired, she kept working.",
+        "answer": "of",
+        "distractors": [
+          "that",
+          "for"
+        ],
+        "explanation": "In spite of + -ing."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-05",
+        "type": "choice",
+        "prompt": "The hotel was expensive. ___, it was worth it.",
+        "answer": "However",
+        "distractors": [
+          "Although",
+          "Despite"
+        ],
+        "explanation": "However – nowe zdanie."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-06",
+        "type": "error",
+        "prompt": "In spite the traffic, we arrived on time.",
+        "answer": [
+          "spite",
+          "spite of"
+        ],
+        "explanation": "In spite of + rzeczownik."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-07",
+        "type": "tiles",
+        "prompt": "Chociaż był chory, poszedł do pracy.",
+        "answer": [
+          "Although",
+          "he",
+          "was",
+          "ill",
+          "he",
+          "went",
+          "to",
+          "work"
+        ],
+        "distractors": [
+          "Despite",
+          "however"
+        ],
+        "explanation": "Although + zdanie."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-08",
+        "type": "translate",
+        "prompt": "Pomimo deszczu bawiliśmy się świetnie.",
+        "answer": "Despite the rain, we had a great time.",
+        "accept": [
+          "In spite of the rain, we had a great time.",
+          "Despite the rain we had a great time.",
+          "We had a great time despite the rain.",
+          "We had a great time in spite of the rain."
+        ],
+        "explanation": "Despite + rzeczownik."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-09",
+        "type": "choice",
+        "prompt": "I like the city, ___ my wife prefers the country.",
+        "answer": "whereas",
+        "distractors": [
+          "despite",
+          "however of"
+        ],
+        "explanation": "Whereas – zestawienie."
+      },
+      {
+        "id": "b2-sent-contrast-concession-1-10",
+        "type": "transform",
+        "prompt": "Przepisz z „despite”, zacznij od „Despite”.\nAlthough she was nervous, she gave a great speech.",
+        "answer": "Despite being nervous, she gave a great speech.",
+        "accept": [
+          "Despite her nerves, she gave a great speech.",
+          "Despite feeling nervous, she gave a great speech.",
+          "Despite the fact that she was nervous, she gave a great speech."
+        ],
+        "explanation": "Despite + -ing."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-contrast-concession-2",
+    "topicId": "b2-sent-contrast-concession",
+    "exercises": [
+      {
+        "id": "b2-sent-contrast-concession-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "even though|mimo że (mocno)",
+          "in spite of|pomimo",
+          "nevertheless|niemniej jednak",
+          "while|podczas gdy"
+        ],
+        "explanation": "Słowa kontrastu."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-02",
+        "type": "cloze",
+        "prompt": "___ though he earns a lot, he never saves money.",
+        "answer": "Even",
+        "explanation": "Even though."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-03",
+        "type": "cloze",
+        "prompt": "She passed the exam despite ___ much. (not study)",
+        "answer": "not studying",
+        "explanation": "Despite + -ing; przeczenie: not studying."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-04",
+        "type": "choice",
+        "prompt": "Despite ___ fact that it was late, they kept talking.",
+        "answer": "the",
+        "distractors": [
+          "a",
+          "of the"
+        ],
+        "explanation": "Despite the fact that."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-05",
+        "type": "choice",
+        "prompt": "___ he's very rich, he lives in a small flat.",
+        "answer": "Although",
+        "distractors": [
+          "Despite",
+          "However"
+        ],
+        "explanation": "Although + zdanie."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-06",
+        "type": "error",
+        "prompt": "Although it was sunny, it were cold.",
+        "answer": [
+          "were",
+          "was"
+        ],
+        "explanation": "It – was."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-07",
+        "type": "tiles",
+        "prompt": "Pomimo tego, że był zmęczony, skończył raport.",
+        "answer": [
+          "Despite",
+          "being",
+          "tired",
+          "he",
+          "finished",
+          "the",
+          "report"
+        ],
+        "distractors": [
+          "of",
+          "Although"
+        ],
+        "explanation": "Despite + -ing."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-08",
+        "type": "translate",
+        "prompt": "Było drogo. Mimo to kupiliśmy to.",
+        "answer": "It was expensive. Even so, we bought it.",
+        "accept": [
+          "It was expensive. Nevertheless, we bought it.",
+          "It was expensive. However, we bought it.",
+          "It was expensive, but we bought it anyway.",
+          "It was expensive. Even so we bought it."
+        ],
+        "explanation": "Even so / Nevertheless."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-09",
+        "type": "choice",
+        "prompt": "My brother loves sport, ___ I hate it.",
+        "answer": "while",
+        "distractors": [
+          "despite",
+          "even"
+        ],
+        "explanation": "While – zestawienie."
+      },
+      {
+        "id": "b2-sent-contrast-concession-2-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „However”.\nThe plan is good. It is too expensive.",
+        "answer": "The plan is good. However, it is too expensive.",
+        "accept": [
+          "The plan is good; however, it is too expensive.",
+          "The plan is good. However it is too expensive."
+        ],
+        "explanation": "However, ..."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-contrast-concession-3",
+    "topicId": "b2-sent-contrast-concession",
+    "exercises": [
+      {
+        "id": "b2-sent-contrast-concession-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Admittedly,|Trzeba przyznać,",
+          "It's true that..., but|To prawda, że..., ale",
+          "Even so,|Mimo to",
+          "Of course, ..., but|Oczywiście, ..., ale"
+        ],
+        "explanation": "Przyznawanie racji."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-02",
+        "type": "cloze",
+        "prompt": "___, the plan has some problems, but it's the best we have. (trzeba przyznać)",
+        "answer": "Admittedly",
+        "explanation": "Admittedly."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-03",
+        "type": "cloze",
+        "prompt": "In spite ___ the noise, I slept well.",
+        "answer": "of",
+        "explanation": "In spite of."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-04",
+        "type": "choice",
+        "prompt": "___ the fact that he apologised, she was still angry.",
+        "answer": "Despite",
+        "distractors": [
+          "Although",
+          "However"
+        ],
+        "explanation": "Despite the fact that."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-05",
+        "type": "choice",
+        "prompt": "It's true ___ the flat is small, but it's in a great location.",
+        "answer": "that",
+        "distractors": [
+          "what",
+          "which"
+        ],
+        "explanation": "It's true that..."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-06",
+        "type": "error",
+        "prompt": "Despite it was late, we went for a walk.",
+        "answer": [
+          "Despite",
+          "Although"
+        ],
+        "explanation": "Despite + rzeczownik; z całym zdaniem: Although."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-07",
+        "type": "tiles",
+        "prompt": "Mimo że mieszka blisko, zawsze się spóźnia.",
+        "answer": [
+          "Even",
+          "though",
+          "he",
+          "lives",
+          "nearby",
+          "he",
+          "is",
+          "always",
+          "late"
+        ],
+        "distractors": [
+          "Despite",
+          "however"
+        ],
+        "explanation": "Even though + zdanie."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-08",
+        "type": "translate",
+        "prompt": "Chociaż lubię kawę, piję głównie herbatę.",
+        "answer": "Although I like coffee, I mostly drink tea.",
+        "accept": [
+          "Although I like coffee, I drink mostly tea.",
+          "Even though I like coffee, I mostly drink tea.",
+          "Although I like coffee, I mainly drink tea."
+        ],
+        "explanation": "Although."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "In spite of the cold, we went out.",
+        "distractors": [
+          "In spite the cold, we went out.",
+          "Despite of the cold, we went out."
+        ],
+        "explanation": "In spite of + rzeczownik."
+      },
+      {
+        "id": "b2-sent-contrast-concession-3-10",
+        "type": "transform",
+        "prompt": "Przepisz z „although”, zacznij od „Although”.\nDespite the bad weather, the festival was a success.",
+        "answer": "Although the weather was bad, the festival was a success.",
+        "accept": [
+          "Although the weather was bad the festival was a success."
+        ],
+        "explanation": "Although + zdanie."
+      }
+    ]
+  }
+]

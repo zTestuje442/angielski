@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-report-3",
+  "topicId": "b2-reading-report",
+  "title": "Report: The town library",
+  "text": "Report on the future of Riverside Library\n\nIntroduction\nVisitor numbers at Riverside Library have fallen by 30% over the past five years. The library committee asked for this report to find out why people visit less often and what could be done to attract them back. The findings are based on a survey of 350 local residents, both users and non-users of the library, and on interviews with staff.\n\nWhy people visit less\nThe most common reason given by former users was that they now read e-books or listen to audiobooks at home (42%). A quarter of respondents said that the opening hours were inconvenient: the library closes at 5 p.m. on weekdays and is closed on Sundays, which makes it difficult for people who work full-time to visit. Others mentioned that the building feels old and uncomfortable, with not enough seating and a slow internet connection.\n\nWhat people would like\nInterestingly, the survey showed that many residents still value the library as a place, not only as a source of books. Over 60% said they would visit more often if the library offered events such as author talks, language clubs or children's workshops. Young people in particular asked for a quiet space to study with reliable Wi-Fi, while older residents expressed interest in computer classes.\n\nRecommendations\nFirstly, opening hours should be extended until 8 p.m. at least twice a week, and the library should open on Sunday afternoons. Secondly, the library could introduce a monthly programme of events, ideally organised together with local schools and clubs. Finally, the reading room should be modernised, with comfortable chairs, more power sockets and faster internet.\n\nConclusion\nAlthough digital reading has changed people's habits, the library still has an important role to play in the community. By becoming a meeting place as well as a book collection, it could reverse the fall in visitor numbers.",
+  "exercises": [
+    {
+      "id": "b2-reading-report-3-01",
+      "type": "choice",
+      "prompt": "Visitor numbers have fallen by a third.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Spadły o 30%, czyli nieco mniej niż jedną trzecią."
+    },
+    {
+      "id": "b2-reading-report-3-02",
+      "type": "choice",
+      "prompt": "The library is closed on Sundays.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...is closed on Sundays...”"
+    },
+    {
+      "id": "b2-reading-report-3-03",
+      "type": "choice",
+      "prompt": "The library has fewer books than five years ago.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Raport nie mówi o liczbie książek."
+    },
+    {
+      "id": "b2-reading-report-3-04",
+      "type": "choice",
+      "prompt": "What is the most common reason for visiting less?",
+      "answer": "People read e-books or listen to audiobooks.",
+      "distractors": [
+        "The library is too far away.",
+        "The staff are unfriendly."
+      ],
+      "explanation": "„...they now read e-books or listen to audiobooks at home (42%).”"
+    },
+    {
+      "id": "b2-reading-report-3-05",
+      "type": "choice",
+      "prompt": "What did young people ask for?",
+      "answer": "a quiet place to study with good Wi-Fi",
+      "distractors": [
+        "computer classes",
+        "author talks"
+      ],
+      "explanation": "„Young people... asked for a quiet space to study with reliable Wi-Fi...”"
+    },
+    {
+      "id": "b2-reading-report-3-06",
+      "type": "choice",
+      "prompt": "What does the report recommend about opening hours?",
+      "answer": "longer hours and Sunday opening",
+      "distractors": [
+        "closing earlier",
+        "opening only at weekends"
+      ],
+      "explanation": "„...extended until 8 p.m.... and... open on Sunday afternoons.”"
+    },
+    {
+      "id": "b2-reading-report-3-07",
+      "type": "choice",
+      "prompt": "What is the writer's main idea in the conclusion?",
+      "answer": "The library should become a community meeting place.",
+      "distractors": [
+        "The library should close.",
+        "The library should sell e-books."
+      ],
+      "explanation": "„By becoming a meeting place as well as a book collection...”"
+    },
+    {
+      "id": "b2-reading-report-3-08",
+      "type": "cloze",
+      "prompt": "A quarter of respondents said the opening hours were ___. (niedogodne)",
+      "answer": "inconvenient",
+      "explanation": "Inconvenient."
+    },
+    {
+      "id": "b2-reading-report-3-09",
+      "type": "cloze",
+      "prompt": "The reading room should have more power ___. (gniazdka)",
+      "answer": "sockets",
+      "explanation": "Power sockets."
+    },
+    {
+      "id": "b2-reading-report-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "former|były",
+        "value|cenić",
+        "reliable|niezawodny",
+        "reverse|odwrócić"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

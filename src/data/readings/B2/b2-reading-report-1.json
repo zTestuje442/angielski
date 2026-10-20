@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-report-1",
+  "topicId": "b2-reading-report",
+  "title": "Report: Employee use of the new office",
+  "text": "Report on the use of the new open-plan office\n\nIntroduction\nIn January, the company moved its 120 employees from three separate floors to a single open-plan office. The aim of this report is to evaluate how the new space is being used after six months and to suggest improvements. It is based on an online survey completed by 94 employees and on observations made by the facilities team over two weeks in June.\n\nPositive findings\nThe majority of respondents (68%) said that communication between departments had improved. Several employees mentioned that they now solve problems more quickly because colleagues are easier to find. The new kitchen area has also been a success: 81% of respondents use it at least once a day, and it has become a popular place for informal meetings.\n\nProblems identified\nHowever, noise was the most common complaint. Nearly half of the respondents (46%) said that they found it difficult to concentrate, especially in the afternoon. The three small meeting rooms are almost always booked, and the facilities team observed that they were often used for phone calls by individuals rather than for meetings. In addition, a third of employees said that there were not enough desks near the windows, which led to disagreements about who sits where.\n\nRecommendations\nFirstly, I would recommend creating a \"quiet zone\" in the eastern part of the office, where phone calls and conversations would not be allowed. Secondly, it would be a good idea to install four small phone booths, so that the meeting rooms can be used for their original purpose. Finally, the company should consider introducing a simple desk booking system, which would make the use of window desks fairer.\n\nConclusion\nOverall, the move has had a positive effect on cooperation and atmosphere. If the recommendations above are followed, it is likely that employee satisfaction will increase further, and the problems with noise and space will be significantly reduced.",
+  "exercises": [
+    {
+      "id": "b2-reading-report-1-01",
+      "type": "choice",
+      "prompt": "The survey was completed by all the employees.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Ankietę wypełniło 94 ze 120 pracowników."
+    },
+    {
+      "id": "b2-reading-report-1-02",
+      "type": "choice",
+      "prompt": "Most employees think communication has improved.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„The majority of respondents (68%)...”"
+    },
+    {
+      "id": "b2-reading-report-1-03",
+      "type": "choice",
+      "prompt": "The company plans to move again next year.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Raport o tym nie mówi."
+    },
+    {
+      "id": "b2-reading-report-1-04",
+      "type": "choice",
+      "prompt": "What is the most common complaint?",
+      "answer": "noise",
+      "distractors": [
+        "the kitchen",
+        "the location"
+      ],
+      "explanation": "„...noise was the most common complaint.”"
+    },
+    {
+      "id": "b2-reading-report-1-05",
+      "type": "choice",
+      "prompt": "How were the meeting rooms often used?",
+      "answer": "for individual phone calls",
+      "distractors": [
+        "for lunch",
+        "for storage"
+      ],
+      "explanation": "„...often used for phone calls by individuals...”"
+    },
+    {
+      "id": "b2-reading-report-1-06",
+      "type": "choice",
+      "prompt": "Why does the writer suggest phone booths?",
+      "answer": "so that meeting rooms are used for meetings",
+      "distractors": [
+        "to reduce costs",
+        "to give everyone a window desk"
+      ],
+      "explanation": "„...so that the meeting rooms can be used for their original purpose.”"
+    },
+    {
+      "id": "b2-reading-report-1-07",
+      "type": "choice",
+      "prompt": "What is the overall conclusion?",
+      "answer": "The move has been mostly positive.",
+      "distractors": [
+        "The move was a mistake.",
+        "Nothing needs to change."
+      ],
+      "explanation": "„...the move has had a positive effect...”"
+    },
+    {
+      "id": "b2-reading-report-1-08",
+      "type": "cloze",
+      "prompt": "A third of employees said there were not enough desks near the ___.",
+      "answer": "windows",
+      "explanation": "Biurka przy oknach."
+    },
+    {
+      "id": "b2-reading-report-1-09",
+      "type": "cloze",
+      "prompt": "The kitchen has become a popular place for ___ meetings. (nieformalnych)",
+      "answer": "informal",
+      "explanation": "Informal."
+    },
+    {
+      "id": "b2-reading-report-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "evaluate|ocenić",
+        "respondent|ankietowany",
+        "complaint|skarga",
+        "fairer|sprawiedliwszy"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

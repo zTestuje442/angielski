@@ -1,0 +1,353 @@
+[
+  {
+    "id": "b2-vocab-housing-property-1",
+    "topicId": "b2-vocab-housing-property",
+    "exercises": [
+      {
+        "id": "b2-vocab-housing-property-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "tenant|najemca",
+          "landlord|wynajmujący",
+          "mortgage|kredyt hipoteczny",
+          "estate agent|pośrednik nieruchomości"
+        ],
+        "explanation": "Wynajem i kupno."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-02",
+        "type": "cloze",
+        "prompt": "We pay 3,000 złoty a month in ___. (czynsz)",
+        "answer": "rent",
+        "explanation": "Rent."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-03",
+        "type": "cloze",
+        "prompt": "The flat is small and ___. There's no space for a desk. (ciasne)",
+        "answer": "cramped",
+        "explanation": "Cramped."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-04",
+        "type": "choice",
+        "prompt": "A house joined to another house on one side is ___.",
+        "answer": "semi-detached",
+        "distractors": [
+          "detached",
+          "terraced"
+        ],
+        "explanation": "Bliźniak: semi-detached."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-05",
+        "type": "choice",
+        "prompt": "We took out a ___ to buy our house.",
+        "answer": "mortgage",
+        "distractors": [
+          "deposit",
+          "lease"
+        ],
+        "explanation": "Kredyt hipoteczny: mortgage."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-06",
+        "type": "error",
+        "prompt": "The owner of our flat is a very nice landlady and he always helps us.",
+        "answer": [
+          "landlady",
+          "landlord"
+        ],
+        "explanation": "Mężczyzna: landlord."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-07",
+        "type": "tiles",
+        "prompt": "Szukamy przestronnego mieszkania na przedmieściach.",
+        "answer": [
+          "We",
+          "are",
+          "looking",
+          "for",
+          "a",
+          "spacious",
+          "flat",
+          "in",
+          "the",
+          "suburbs"
+        ],
+        "distractors": [
+          "space",
+          "at"
+        ],
+        "explanation": "Spacious; in the suburbs."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-08",
+        "type": "translate",
+        "prompt": "Ceny nieruchomości gwałtownie wzrosły.",
+        "answer": "Property prices have risen sharply.",
+        "accept": [
+          "Property prices have soared.",
+          "Property prices rose sharply.",
+          "Property prices have gone up sharply.",
+          "Property prices have increased sharply."
+        ],
+        "explanation": "Prices rise / soar."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-09",
+        "type": "choice",
+        "prompt": "A one-room flat with a kitchen area is a ___ flat.",
+        "answer": "studio",
+        "distractors": [
+          "penthouse",
+          "terraced"
+        ],
+        "explanation": "Kawalerka: studio flat."
+      },
+      {
+        "id": "b2-vocab-housing-property-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „renovate” phrasal verbem z „do”.\nThey bought an old house and renovated it.",
+        "answer": "They bought an old house and did it up.",
+        "explanation": "Do up – wyremontować."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-housing-property-2",
+    "topicId": "b2-vocab-housing-property",
+    "exercises": [
+      {
+        "id": "b2-vocab-housing-property-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "detached house|dom wolnostojący",
+          "terraced house|szeregowiec",
+          "block of flats|blok",
+          "penthouse|apartament na najwyższym piętrze"
+        ],
+        "explanation": "Rodzaje domów."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-02",
+        "type": "cloze",
+        "prompt": "The walls are ___ and there's mould in the bathroom. (wilgotne)",
+        "answer": "damp",
+        "explanation": "Damp."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-03",
+        "type": "cloze",
+        "prompt": "You have to pay a ___ of one month's rent before you move in. (kaucja)",
+        "answer": "deposit",
+        "explanation": "Deposit."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-04",
+        "type": "choice",
+        "prompt": "Our flat is very ___ for the city centre – just five minutes away.",
+        "answer": "convenient",
+        "distractors": [
+          "comfortable for",
+          "conventional"
+        ],
+        "explanation": "Convenient for."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-05",
+        "type": "choice",
+        "prompt": "The house needs a lot of work. It's a real ___.",
+        "answer": "fixer-upper",
+        "distractors": [
+          "penthouse",
+          "neighbourhood"
+        ],
+        "explanation": "Do remontu: fixer-upper."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-06",
+        "type": "error",
+        "prompt": "We signed a rent agreement for one year.",
+        "answer": [
+          "rent",
+          "tenancy"
+        ],
+        "explanation": "Umowa najmu: tenancy agreement / lease."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-07",
+        "type": "tiles",
+        "prompt": "Okolica ma dobre szkoły i sklepy.",
+        "answer": [
+          "The",
+          "neighbourhood",
+          "has",
+          "good",
+          "schools",
+          "and",
+          "shops"
+        ],
+        "distractors": [
+          "neighbour",
+          "around"
+        ],
+        "explanation": "Neighbourhood."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-08",
+        "type": "translate",
+        "prompt": "Czy czynsz obejmuje rachunki?",
+        "answer": "Does the rent include bills?",
+        "accept": [
+          "Are bills included in the rent?",
+          "Does the rent include the bills?",
+          "Are the bills included in the rent?"
+        ],
+        "explanation": "Include bills."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-09",
+        "type": "choice",
+        "prompt": "A person who rents a flat from someone is a ___.",
+        "answer": "tenant",
+        "distractors": [
+          "landlord",
+          "estate agent"
+        ],
+        "explanation": "Najemca: tenant."
+      },
+      {
+        "id": "b2-vocab-housing-property-2-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The house”.\nThe owners have renovated the house.",
+        "answer": "The house has been renovated.",
+        "accept": [
+          "The house has been renovated by the owners."
+        ],
+        "explanation": "Has been renovated."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-housing-property-3",
+    "topicId": "b2-vocab-housing-property",
+    "exercises": [
+      {
+        "id": "b2-vocab-housing-property-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "spacious|przestronny",
+          "cramped|ciasny",
+          "well-maintained|zadbany",
+          "amenities|udogodnienia"
+        ],
+        "explanation": "Opisy mieszkań."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-02",
+        "type": "cloze",
+        "prompt": "Living in the ___ is cheaper than in the centre. (przedmieścia)",
+        "answer": "suburbs",
+        "explanation": "The suburbs."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-03",
+        "type": "cloze",
+        "prompt": "The ___ agent showed us five flats in one day. (nieruchomości)",
+        "answer": "estate",
+        "accept": [
+          "real estate"
+        ],
+        "explanation": "Estate agent."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-04",
+        "type": "choice",
+        "prompt": "The area has excellent ___: schools, shops and a park.",
+        "answer": "amenities",
+        "distractors": [
+          "amenity's",
+          "facilities of"
+        ],
+        "explanation": "Amenities."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-05",
+        "type": "choice",
+        "prompt": "Property prices have ___ in the last five years.",
+        "answer": "soared",
+        "distractors": [
+          "sored",
+          "soaring up"
+        ],
+        "explanation": "Soar – gwałtownie rosnąć."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-06",
+        "type": "error",
+        "prompt": "Our landlord asked us to pay the rent in advance and the mortgage too.",
+        "answer": [
+          "mortgage",
+          "deposit"
+        ],
+        "explanation": "Najemca płaci kaucję (deposit), nie kredyt hipoteczny."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-07",
+        "type": "tiles",
+        "prompt": "Mieszkamy w zadbanym bloku.",
+        "answer": [
+          "We",
+          "live",
+          "in",
+          "a",
+          "well-maintained",
+          "block",
+          "of",
+          "flats"
+        ],
+        "distractors": [
+          "maintaining",
+          "blocks"
+        ],
+        "explanation": "Well-maintained."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-08",
+        "type": "translate",
+        "prompt": "Wynajmujemy mieszkanie od dwóch lat.",
+        "answer": "We have been renting the flat for two years.",
+        "accept": [
+          "We have rented the flat for two years.",
+          "We've been renting the flat for two years.",
+          "We have been renting this flat for two years.",
+          "We've rented the flat for two years."
+        ],
+        "explanation": "Present Perfect Continuous + for."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-09",
+        "type": "choice",
+        "prompt": "Which is NOT a type of house?",
+        "answer": "suburbs",
+        "distractors": [
+          "detached",
+          "terraced"
+        ],
+        "explanation": "Suburbs to przedmieścia."
+      },
+      {
+        "id": "b2-vocab-housing-property-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „How much”.\nThe deposit is 4,000 złoty.",
+        "answer": "How much is the deposit?",
+        "explanation": "How much is...?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-story-2",
+  "topicId": "b2-reading-story",
+  "title": "The interview question",
+  "text": "\"So,\" said the woman on the other side of the desk, \"tell me about a time you failed.\"\n\nAnna had prepared for this question. She had prepared for every question, in fact: she had spent the whole weekend writing answers on index cards and practising them in front of the bathroom mirror while her flatmate banged on the door. Her answer to this one was neat and safe. It was about a group project at university that had gone slightly wrong because of poor communication, and about how she had learned to use shared calendars. It made her sound organised and modest. It was also, she realised as she opened her mouth, completely boring.\n\nThe woman – her name was Ms Achebe, and she was the head of the department – was watching her with polite patience. She had probably heard the shared-calendar story fifty times that week.\n\nAnna closed her mouth. Then she said something that wasn't on any of her cards.\n\n\"Two years ago I started a business selling handmade notebooks online,\" she said. \"I spent all my savings on paper, a printer and a website. I sold eleven notebooks in six months. Seven of them to my mother.\"\n\nMs Achebe's eyebrows rose very slightly.\n\n\"I didn't understand marketing at all,\" Anna went on. \"I thought that if the product was good, people would find it. They didn't. I also didn't know how to calculate prices, so I was actually losing money on every notebook I sold.\" She paused. \"Including the ones my mother bought.\"\n\nFor the first time, Ms Achebe smiled. \"And what did you learn?\"\n\n\"That I enjoy the business side much more than the making side,\" Anna said. \"Which is why I applied for a job in marketing and not in a craft shop.\"\n\nThere was a short silence. Anna was suddenly sure she had ruined everything. Then Ms Achebe put down her pen.\n\n\"Do you still have any of the notebooks?\" she asked.\n\nAnna reached into her bag. She had brought one, she realised, without really knowing why. Ms Achebe turned it over in her hands, examined the stitching and opened it to the first page.\n\n\"Your mother,\" she said, \"has very good taste.\"\n\nAnna got the job. On her first day, she found the notebook on her new desk, with a sticky note on the cover: \"Price it properly this time.\"",
+  "exercises": [
+    {
+      "id": "b2-reading-story-2-01",
+      "type": "choice",
+      "prompt": "Anna had prepared answers before the interview.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„She had prepared for every question...”"
+    },
+    {
+      "id": "b2-reading-story-2-02",
+      "type": "choice",
+      "prompt": "Anna used her prepared answer about the group project.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Zrezygnowała z niego i opowiedziała inną historię."
+    },
+    {
+      "id": "b2-reading-story-2-03",
+      "type": "choice",
+      "prompt": "Anna's flatmate also applied for the job.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "b2-reading-story-2-04",
+      "type": "choice",
+      "prompt": "Why did Anna decide not to use her prepared answer?",
+      "answer": "She realised it was boring.",
+      "distractors": [
+        "She forgot it.",
+        "Ms Achebe interrupted her."
+      ],
+      "explanation": "„It was also... completely boring.”"
+    },
+    {
+      "id": "b2-reading-story-2-05",
+      "type": "choice",
+      "prompt": "What was the main problem with Anna's business?",
+      "answer": "She didn't understand marketing or pricing.",
+      "distractors": [
+        "The notebooks were badly made.",
+        "Her website didn't work."
+      ],
+      "explanation": "„I didn't understand marketing at all... didn't know how to calculate prices...”"
+    },
+    {
+      "id": "b2-reading-story-2-06",
+      "type": "choice",
+      "prompt": "How did Anna feel after her answer?",
+      "answer": "worried that she had made a mistake",
+      "distractors": [
+        "proud and confident",
+        "bored"
+      ],
+      "explanation": "„...sure she had ruined everything.”"
+    },
+    {
+      "id": "b2-reading-story-2-07",
+      "type": "choice",
+      "prompt": "What does the sticky note suggest about Ms Achebe?",
+      "answer": "She has a sense of humour.",
+      "distractors": [
+        "She was angry with Anna.",
+        "She wanted to buy notebooks."
+      ],
+      "explanation": "Żartobliwe nawiązanie do cen notesów."
+    },
+    {
+      "id": "b2-reading-story-2-08",
+      "type": "cloze",
+      "prompt": "Ms Achebe's ___ rose very slightly. (brwi)",
+      "answer": "eyebrows",
+      "explanation": "Eyebrows."
+    },
+    {
+      "id": "b2-reading-story-2-09",
+      "type": "cloze",
+      "prompt": "She examined the ___ and opened it to the first page. (szwy)",
+      "answer": "stitching",
+      "explanation": "Stitching."
+    },
+    {
+      "id": "b2-reading-story-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "neat|staranny, zgrabny",
+        "modest|skromny",
+        "savings|oszczędności",
+        "taste|gust"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "b2-vocab-verb-collocations-1",
+    "topicId": "b2-vocab-verb-collocations",
+    "exercises": [
+      {
+        "id": "b2-vocab-verb-collocations-1-01",
+        "type": "match",
+        "prompt": "Połącz kolokacje z tłumaczeniem.",
+        "answer": [
+          "take part in|brać udział w",
+          "keep a promise|dotrzymać obietnicy",
+          "catch a cold|przeziębić się",
+          "pay attention|zwracać uwagę"
+        ],
+        "explanation": "Kolokacje."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-02",
+        "type": "cloze",
+        "prompt": "Please ___ attention to the safety instructions.",
+        "answer": "pay",
+        "explanation": "Pay attention."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-03",
+        "type": "cloze",
+        "prompt": "Can you keep an ___ on my bag for a minute? (mieć oko)",
+        "answer": "eye",
+        "explanation": "Keep an eye on."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-04",
+        "type": "choice",
+        "prompt": "The meeting will ___ place in room 5.",
+        "answer": "take",
+        "distractors": [
+          "have",
+          "make"
+        ],
+        "explanation": "Take place."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-05",
+        "type": "choice",
+        "prompt": "He ___ the world record in the 100 metres.",
+        "answer": "broke",
+        "distractors": [
+          "made",
+          "won"
+        ],
+        "explanation": "Break a record."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-06",
+        "type": "error",
+        "prompt": "You must keep your promise and not make it.",
+        "answer": [
+          "make",
+          "break"
+        ],
+        "explanation": "Break a promise – złamać obietnicę."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-07",
+        "type": "tiles",
+        "prompt": "Weź sobie przerwę.",
+        "answer": [
+          "Take",
+          "a",
+          "break"
+        ],
+        "distractors": [
+          "Make",
+          "Do"
+        ],
+        "explanation": "Take a break."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-08",
+        "type": "translate",
+        "prompt": "Kto zaopiekuje się psem?",
+        "answer": "Who will take care of the dog?",
+        "accept": [
+          "Who is going to take care of the dog?",
+          "Who will look after the dog?",
+          "Who is going to look after the dog?"
+        ],
+        "explanation": "Take care of."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-09",
+        "type": "choice",
+        "prompt": "We ___ the last bus home.",
+        "answer": "caught",
+        "distractors": [
+          "took up",
+          "kept"
+        ],
+        "explanation": "Catch a bus."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „used” wyrażeniem z „take advantage of”.\nWe used the good weather to paint the house.",
+        "answer": "We took advantage of the good weather to paint the house.",
+        "explanation": "Take advantage of."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-verb-collocations-2",
+    "topicId": "b2-vocab-verb-collocations",
+    "exercises": [
+      {
+        "id": "b2-vocab-verb-collocations-2-01",
+        "type": "match",
+        "prompt": "Połącz kolokacje z tłumaczeniem.",
+        "answer": [
+          "keep calm|zachować spokój",
+          "break the law|złamać prawo",
+          "pay a visit|złożyć wizytę",
+          "catch fire|zapalić się"
+        ],
+        "explanation": "Kolokacje."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-02",
+        "type": "cloze",
+        "prompt": "Can you keep a ___? Don't tell anyone! (tajemnicę)",
+        "answer": "secret",
+        "explanation": "Keep a secret."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-03",
+        "type": "cloze",
+        "prompt": "The old barn caught ___ during the storm.",
+        "answer": "fire",
+        "explanation": "Catch fire."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-04",
+        "type": "choice",
+        "prompt": "She ___ me a nice compliment about my dress.",
+        "answer": "paid",
+        "distractors": [
+          "made",
+          "gave up"
+        ],
+        "explanation": "Pay a compliment."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-05",
+        "type": "choice",
+        "prompt": "I'll ___ a risk and invest the money.",
+        "answer": "take",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Take a risk."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-06",
+        "type": "error",
+        "prompt": "The advert caught my attentions immediately.",
+        "answer": [
+          "attentions",
+          "attention"
+        ],
+        "explanation": "Attention – niepoliczalne."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-07",
+        "type": "tiles",
+        "prompt": "Musisz wziąć odpowiedzialność za swoje błędy.",
+        "answer": [
+          "You",
+          "must",
+          "take",
+          "responsibility",
+          "for",
+          "your",
+          "mistakes"
+        ],
+        "distractors": [
+          "of",
+          "make"
+        ],
+        "explanation": "Take responsibility for."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-08",
+        "type": "translate",
+        "prompt": "Zachowaj spokój!",
+        "answer": "Keep calm!",
+        "accept": [
+          "Stay calm!",
+          "Keep calm."
+        ],
+        "explanation": "Keep calm."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-09",
+        "type": "choice",
+        "prompt": "Who will ___ the bad news to her?",
+        "answer": "break",
+        "distractors": [
+          "catch",
+          "pay"
+        ],
+        "explanation": "Break the news."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-2-10",
+        "type": "transform",
+        "prompt": "Zastąp „visited” wyrażeniem z „pay”.\nWe visited our grandparents last weekend.",
+        "answer": "We paid our grandparents a visit last weekend.",
+        "accept": [
+          "We paid a visit to our grandparents last weekend."
+        ],
+        "explanation": "Pay somebody a visit."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-verb-collocations-3",
+    "topicId": "b2-vocab-verb-collocations",
+    "exercises": [
+      {
+        "id": "b2-vocab-verb-collocations-3-01",
+        "type": "match",
+        "prompt": "Połącz kolokacje z tłumaczeniem.",
+        "answer": [
+          "take advantage of|wykorzystać",
+          "keep track of|śledzić, kontrolować",
+          "catch sight of|dostrzec",
+          "pay the price|ponieść konsekwencje"
+        ],
+        "explanation": "Kolokacje."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-02",
+        "type": "cloze",
+        "prompt": "I use an app to keep ___ of my expenses.",
+        "answer": "track",
+        "explanation": "Keep track of."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-03",
+        "type": "cloze",
+        "prompt": "I caught ___ of her in the crowd. (dostrzegłem)",
+        "answer": "sight",
+        "explanation": "Catch sight of."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-04",
+        "type": "choice",
+        "prompt": "Two hundred runners ___ part in the race.",
+        "answer": "took",
+        "distractors": [
+          "made",
+          "had"
+        ],
+        "explanation": "Take part."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-05",
+        "type": "choice",
+        "prompt": "If you don't study now, you'll ___ the price later.",
+        "answer": "pay",
+        "distractors": [
+          "take",
+          "keep"
+        ],
+        "explanation": "Pay the price."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-06",
+        "type": "error",
+        "prompt": "Everyone should keep the law.",
+        "answer": [
+          "keep",
+          "obey"
+        ],
+        "explanation": "Przestrzegać prawa: obey the law (łamać: break the law)."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-07",
+        "type": "tiles",
+        "prompt": "Mam nadzieję, że nie złapiesz przeziębienia.",
+        "answer": [
+          "I",
+          "hope",
+          "you",
+          "don't",
+          "catch",
+          "a",
+          "cold"
+        ],
+        "distractors": [
+          "take",
+          "get's"
+        ],
+        "explanation": "Catch a cold."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-08",
+        "type": "translate",
+        "prompt": "Utrzymujmy kontakt.",
+        "answer": "Let's keep in touch.",
+        "accept": [
+          "Let us keep in touch.",
+          "Let's stay in touch."
+        ],
+        "explanation": "Keep in touch."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-09",
+        "type": "choice",
+        "prompt": "Which collocation is correct?",
+        "answer": "pay attention",
+        "distractors": [
+          "give attention",
+          "make attention"
+        ],
+        "explanation": "Pay attention."
+      },
+      {
+        "id": "b2-vocab-verb-collocations-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „noticed” wyrażeniem z „catch sight of”, zacznij od „I caught”.\nI noticed a fox in the garden.",
+        "answer": "I caught sight of a fox in the garden.",
+        "explanation": "Catch sight of."
+      }
+    ]
+  }
+]

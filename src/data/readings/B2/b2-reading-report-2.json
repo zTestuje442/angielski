@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-report-2",
+  "topicId": "b2-reading-report",
+  "title": "Report: Cycling to school",
+  "text": "Report on cycling to school\n\nIntroduction\nThis report has been prepared for the town council following last year's decision to build two new cycle lanes near secondary schools. Its purpose is to assess whether the lanes have encouraged more students to cycle and to identify remaining obstacles. The information comes from a questionnaire answered by 600 students at three schools and from bicycle counts carried out by volunteers in October.\n\nHow students travel\nBefore the new lanes were built, only 9% of students cycled to school. According to this year's questionnaire, the figure has risen to 21%. The bicycle counts confirm this trend: on an average weekday, the number of bikes parked at the three schools more than doubled. Walking remains the most popular way of getting to school (38%), while the proportion of students driven by their parents has fallen from 35% to 24%.\n\nReasons for not cycling\nStudents who do not cycle gave three main reasons. The most frequently mentioned was safety: many said that the cycle lanes end suddenly at busy crossroads, which makes the last part of the journey dangerous. The second reason was the lack of secure parking – several students had had their bikes stolen. Finally, a significant number of respondents said they had nowhere to change or leave wet clothes on rainy days.\n\nRecommendations\nIt is recommended that the council extend the cycle lanes so that they connect directly to school entrances. Covered and locked bicycle parking should be provided at all three schools. In addition, schools could be encouraged to offer lockers for students who cycle.\n\nConclusion\nThe new lanes have clearly had a positive impact. Nevertheless, unless the safety and parking problems are addressed, it is unlikely that the number of cyclists will continue to grow.",
+  "exercises": [
+    {
+      "id": "b2-reading-report-2-01",
+      "type": "choice",
+      "prompt": "The number of students cycling to school has more than doubled.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "Z 9% do 21%."
+    },
+    {
+      "id": "b2-reading-report-2-02",
+      "type": "choice",
+      "prompt": "Most students now cycle to school.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Najpopularniejsze jest chodzenie pieszo (38%)."
+    },
+    {
+      "id": "b2-reading-report-2-03",
+      "type": "choice",
+      "prompt": "The cycle lanes were paid for by the schools.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Raport nie mówi, kto zapłacił."
+    },
+    {
+      "id": "b2-reading-report-2-04",
+      "type": "choice",
+      "prompt": "How did the researchers collect information?",
+      "answer": "a questionnaire and bicycle counts",
+      "distractors": [
+        "interviews with parents",
+        "police statistics"
+      ],
+      "explanation": "„...a questionnaire... and from bicycle counts...”"
+    },
+    {
+      "id": "b2-reading-report-2-05",
+      "type": "choice",
+      "prompt": "What has happened to the number of students driven by parents?",
+      "answer": "It has fallen.",
+      "distractors": [
+        "It has risen.",
+        "It has stayed the same."
+      ],
+      "explanation": "„...has fallen from 35% to 24%.”"
+    },
+    {
+      "id": "b2-reading-report-2-06",
+      "type": "choice",
+      "prompt": "What is the main safety problem?",
+      "answer": "The lanes end at busy crossroads.",
+      "distractors": [
+        "The lanes are too narrow.",
+        "There are no lights on the lanes."
+      ],
+      "explanation": "„...the cycle lanes end suddenly at busy crossroads...”"
+    },
+    {
+      "id": "b2-reading-report-2-07",
+      "type": "choice",
+      "prompt": "What does the report predict?",
+      "answer": "Growth will stop unless problems are solved.",
+      "distractors": [
+        "Cycling will become the most popular option.",
+        "The lanes will be closed."
+      ],
+      "explanation": "„...unless the safety and parking problems are addressed...”"
+    },
+    {
+      "id": "b2-reading-report-2-08",
+      "type": "cloze",
+      "prompt": "Several students had had their bikes ___.",
+      "answer": "stolen",
+      "explanation": "Have something stolen."
+    },
+    {
+      "id": "b2-reading-report-2-09",
+      "type": "cloze",
+      "prompt": "Schools could offer ___ for students who cycle. (szafki)",
+      "answer": "lockers",
+      "explanation": "Szafki: lockers."
+    },
+    {
+      "id": "b2-reading-report-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "assess|ocenić",
+        "obstacle|przeszkoda",
+        "secure|bezpieczny, zabezpieczony",
+        "address a problem|zająć się problemem"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-story-3",
+  "topicId": "b2-reading-story",
+  "title": "Night train",
+  "text": "The night train from Gdynia to Kraków left at 9.47, and by ten o'clock Jakub had already decided that the old man in his compartment was going to be a problem.\n\nIt wasn't anything the man did. He simply sat by the window with a newspaper he wasn't reading, and every few minutes he looked at Jakub over the top of it. He wore a heavy grey coat although the compartment was warm, and his hands, Jakub noticed, were never still – he kept turning a small brass key between his fingers.\n\nJakub tried to sleep. He had an exam in Kraków at nine the next morning and needed every hour of rest. But each time he closed his eyes, he could feel the man watching him.\n\nAt about one in the morning, the train stopped in the middle of nowhere. The lights flickered and went out. In the darkness, Jakub heard the old man stand up.\n\n\"Don't be afraid,\" the man said. His voice was surprisingly gentle. \"I only want to ask you something. Are you Jakub Lis? Ewa Lis's son?\"\n\nJakub's heart was beating fast. \"How do you know my mother?\"\n\nThe lights came back on. The old man sat down again, holding the brass key in his open hand as if offering it.\n\n\"Forty years ago,\" he said, \"I worked with your grandfather at the shipyard. When I left Poland, in 1981, I left in a hurry, and he kept something for me. A box. He promised to look after it until I came back.\" He smiled sadly. \"I didn't come back for a long time. When I finally did, he had died. I've been looking for your family ever since. I saw your name on your suitcase label.\"\n\nJakub stared at the key. He suddenly remembered a small metal box in his mother's wardrobe, with a lock that nobody had ever been able to open. His mother had always called it \"Grandad's mystery\".\n\n\"I think,\" Jakub said slowly, \"my mother has been waiting for you for a very long time.\"\n\nThe train started moving again. Neither of them slept for the rest of the journey, and Jakub, for once, did not think about his exam at all.",
+  "exercises": [
+    {
+      "id": "b2-reading-story-3-01",
+      "type": "choice",
+      "prompt": "Jakub was travelling to an exam.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„He had an exam in Kraków at nine the next morning...”"
+    },
+    {
+      "id": "b2-reading-story-3-02",
+      "type": "choice",
+      "prompt": "The old man was reading his newspaper carefully.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...a newspaper he wasn't reading...”"
+    },
+    {
+      "id": "b2-reading-story-3-03",
+      "type": "choice",
+      "prompt": "The old man had lived in Germany.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi tylko, że wyjechał z Polski."
+    },
+    {
+      "id": "b2-reading-story-3-04",
+      "type": "choice",
+      "prompt": "Why did Jakub find the old man worrying at first?",
+      "answer": "He kept watching Jakub.",
+      "distractors": [
+        "He was very loud.",
+        "He took Jakub's seat."
+      ],
+      "explanation": "„...he could feel the man watching him.”"
+    },
+    {
+      "id": "b2-reading-story-3-05",
+      "type": "choice",
+      "prompt": "How did the old man know Jakub's name?",
+      "answer": "He saw it on Jakub's suitcase.",
+      "distractors": [
+        "Jakub's mother told him.",
+        "He read it in the newspaper."
+      ],
+      "explanation": "„I saw your name on your suitcase label.”"
+    },
+    {
+      "id": "b2-reading-story-3-06",
+      "type": "choice",
+      "prompt": "What did Jakub's grandfather promise?",
+      "answer": "to look after a box",
+      "distractors": [
+        "to visit the man abroad",
+        "to give the man a job"
+      ],
+      "explanation": "„He promised to look after it until I came back.”"
+    },
+    {
+      "id": "b2-reading-story-3-07",
+      "type": "choice",
+      "prompt": "What does the end of the story suggest?",
+      "answer": "The key will open the box in his mother's wardrobe.",
+      "distractors": [
+        "Jakub will fail his exam.",
+        "The old man is lying."
+      ],
+      "explanation": "Pudełko z zamkiem, którego nikt nie umiał otworzyć."
+    },
+    {
+      "id": "b2-reading-story-3-08",
+      "type": "cloze",
+      "prompt": "The lights ___ and went out. (zamigotały)",
+      "answer": "flickered",
+      "explanation": "Flicker."
+    },
+    {
+      "id": "b2-reading-story-3-09",
+      "type": "cloze",
+      "prompt": "He kept turning a small brass key between his ___.",
+      "answer": "fingers",
+      "explanation": "Palce: fingers."
+    },
+    {
+      "id": "b2-reading-story-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "compartment|przedział",
+        "shipyard|stocznia",
+        "in a hurry|w pośpiechu",
+        "wardrobe|szafa"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+[
+  {
+    "id": "b2-vocab-politics-society-1",
+    "topicId": "b2-vocab-politics-society",
+    "exercises": [
+      {
+        "id": "b2-vocab-politics-society-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "election|wybory",
+          "government|rząd",
+          "unemployment|bezrobocie",
+          "citizen|obywatel"
+        ],
+        "explanation": "Polityka i społeczeństwo."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-02",
+        "type": "cloze",
+        "prompt": "Who did you vote ___ in the last election?",
+        "answer": "for",
+        "explanation": "Vote for."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-03",
+        "type": "cloze",
+        "prompt": "Parliament ___ a new law on Tuesday. (uchwalił)",
+        "answer": "passed",
+        "explanation": "Pass a law."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-04",
+        "type": "choice",
+        "prompt": "The government's new housing ___ will help young families.",
+        "answer": "policy",
+        "distractors": [
+          "politics",
+          "politician"
+        ],
+        "explanation": "Konkretne zasady: policy."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-05",
+        "type": "choice",
+        "prompt": "___ is a difficult job – you are criticised every day.",
+        "answer": "Politics",
+        "distractors": [
+          "Policy",
+          "Political"
+        ],
+        "explanation": "Dziedzina: politics."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-06",
+        "type": "error",
+        "prompt": "My uncle is a famous politic.",
+        "answer": [
+          "politic",
+          "politician"
+        ],
+        "explanation": "Polityk: politician."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-07",
+        "type": "tiles",
+        "prompt": "Tysiące ludzi protestowało przeciwko nowemu podatkowi.",
+        "answer": [
+          "Thousands",
+          "of",
+          "people",
+          "protested",
+          "against",
+          "the",
+          "new",
+          "tax"
+        ],
+        "distractors": [
+          "again",
+          "taxes"
+        ],
+        "explanation": "Protest against."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-08",
+        "type": "translate",
+        "prompt": "Bezrobocie spadło w zeszłym roku.",
+        "answer": "Unemployment fell last year.",
+        "accept": [
+          "Unemployment went down last year.",
+          "Unemployment decreased last year.",
+          "Unemployment dropped last year."
+        ],
+        "explanation": "Unemployment – niepoliczalne."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-09",
+        "type": "choice",
+        "prompt": "A person who wants to be elected is a ___.",
+        "answer": "candidate",
+        "distractors": [
+          "voter",
+          "citizen"
+        ],
+        "explanation": "Kandydat: candidate."
+      },
+      {
+        "id": "b2-vocab-politics-society-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Smoking”.\nThe government has banned smoking in restaurants.",
+        "answer": "Smoking has been banned in restaurants.",
+        "accept": [
+          "Smoking has been banned in restaurants by the government."
+        ],
+        "explanation": "Has been banned."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-politics-society-2",
+    "topicId": "b2-vocab-politics-society",
+    "exercises": [
+      {
+        "id": "b2-vocab-politics-society-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "poverty|ubóstwo",
+          "inequality|nierówność",
+          "pension|emerytura",
+          "human rights|prawa człowieka"
+        ],
+        "explanation": "Problemy społeczne."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-02",
+        "type": "cloze",
+        "prompt": "The prime ___ gave a speech in parliament. (premier)",
+        "answer": "minister",
+        "explanation": "Prime minister."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-03",
+        "type": "cloze",
+        "prompt": "The ___ criticised the government's plan. (opozycja)",
+        "answer": "opposition",
+        "explanation": "The opposition."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-04",
+        "type": "choice",
+        "prompt": "Millions of people still live in ___.",
+        "answer": "poverty",
+        "distractors": [
+          "poor",
+          "poorness"
+        ],
+        "explanation": "Ubóstwo: poverty."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-05",
+        "type": "choice",
+        "prompt": "The government plans to ___ a new tax on sugar.",
+        "answer": "introduce",
+        "distractors": [
+          "produce",
+          "lead in"
+        ],
+        "explanation": "Introduce a tax."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-06",
+        "type": "error",
+        "prompt": "The elections campaign starts next month.",
+        "answer": [
+          "elections",
+          "election"
+        ],
+        "explanation": "Election campaign (rzeczownik jako przydawka bez -s)."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-07",
+        "type": "tiles",
+        "prompt": "Rząd podniósł wiek emerytalny.",
+        "answer": [
+          "The",
+          "government",
+          "raised",
+          "the",
+          "retirement",
+          "age"
+        ],
+        "distractors": [
+          "rose",
+          "pension's"
+        ],
+        "explanation": "Raise the age."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-08",
+        "type": "translate",
+        "prompt": "Wszyscy obywatele mają prawo głosu.",
+        "answer": "All citizens have the right to vote.",
+        "accept": [
+          "Every citizen has the right to vote.",
+          "All citizens have a right to vote."
+        ],
+        "explanation": "The right to vote."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-09",
+        "type": "choice",
+        "prompt": "A proposal for a new law is called a ___.",
+        "answer": "bill",
+        "distractors": [
+          "ticket",
+          "ballot"
+        ],
+        "explanation": "Projekt ustawy: bill."
+      },
+      {
+        "id": "b2-vocab-politics-society-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „How many”.\nThirty percent of people voted.",
+        "answer": "How many people voted?",
+        "explanation": "How many + l. mn."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-politics-society-3",
+    "topicId": "b2-vocab-politics-society",
+    "exercises": [
+      {
+        "id": "b2-vocab-politics-society-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "vote|głosować",
+          "ban|zakazać",
+          "campaign|kampania",
+          "welfare|pomoc społeczna"
+        ],
+        "explanation": "Słowa z wiadomości."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-02",
+        "type": "cloze",
+        "prompt": "The new law will ___ plastic bags in shops. (zakaże)",
+        "answer": "ban",
+        "explanation": "Ban."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-03",
+        "type": "cloze",
+        "prompt": "She is a member of a political ___. (partia)",
+        "answer": "party",
+        "explanation": "Political party."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-04",
+        "type": "choice",
+        "prompt": "Many young people don't vote because they aren't interested in ___.",
+        "answer": "politics",
+        "distractors": [
+          "policy",
+          "politicians'"
+        ],
+        "explanation": "Politics."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-05",
+        "type": "choice",
+        "prompt": "The president was ___ for a second term.",
+        "answer": "re-elected",
+        "distractors": [
+          "re-voted",
+          "re-chosen up"
+        ],
+        "explanation": "Re-elect."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-06",
+        "type": "error",
+        "prompt": "A lot of people took part in the demonstration against the war and the poorness.",
+        "answer": [
+          "poorness",
+          "poverty"
+        ],
+        "explanation": "Ubóstwo: poverty."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-07",
+        "type": "tiles",
+        "prompt": "Rząd planuje walczyć z nierównościami.",
+        "answer": [
+          "The",
+          "government",
+          "plans",
+          "to",
+          "fight",
+          "inequality"
+        ],
+        "distractors": [
+          "inequal",
+          "fights"
+        ],
+        "explanation": "Fight inequality."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-08",
+        "type": "translate",
+        "prompt": "Kto wygrał wybory?",
+        "answer": "Who won the election?",
+        "accept": [
+          "Who won the elections?"
+        ],
+        "explanation": "Win an election."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-09",
+        "type": "choice",
+        "prompt": "Which word is a person?",
+        "answer": "politician",
+        "distractors": [
+          "politics",
+          "policy"
+        ],
+        "explanation": "Polityk: politician."
+      },
+      {
+        "id": "b2-vocab-politics-society-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „A new law”.\nParliament passed a new law yesterday.",
+        "answer": "A new law was passed yesterday.",
+        "accept": [
+          "A new law was passed by Parliament yesterday.",
+          "A new law was passed by parliament yesterday."
+        ],
+        "explanation": "Was passed."
+      }
+    ]
+  }
+]

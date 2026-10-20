@@ -1,0 +1,343 @@
+[
+  {
+    "id": "b2-writing-article-1",
+    "topicId": "b2-writing-article",
+    "exercises": [
+      {
+        "id": "b2-writing-article-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "rhetorical question|pytanie retoryczne",
+          "anecdote|anegdota",
+          "catchy title|chwytliwy tytuł",
+          "Surprisingly,|Co zaskakujące"
+        ],
+        "explanation": "Elementy artykułu."
+      },
+      {
+        "id": "b2-writing-article-1-02",
+        "type": "choice",
+        "prompt": "Which is the most engaging opening?",
+        "answer": "Have you ever wondered why time flies when you're having fun?",
+        "distractors": [
+          "This article is about time.",
+          "I am writing to inform you about time."
+        ],
+        "explanation": "Pytanie retoryczne wciąga czytelnika."
+      },
+      {
+        "id": "b2-writing-article-1-03",
+        "type": "choice",
+        "prompt": "Which title is the most catchy?",
+        "answer": "Ten Minutes That Could Change Your Day",
+        "distractors": [
+          "My Article",
+          "Information About Exercise"
+        ],
+        "explanation": "Intrygujący tytuł."
+      },
+      {
+        "id": "b2-writing-article-1-04",
+        "type": "cloze",
+        "prompt": "___, most people check their phone over 100 times a day. (co zaskakujące)",
+        "answer": "Surprisingly",
+        "explanation": "Surprisingly."
+      },
+      {
+        "id": "b2-writing-article-1-05",
+        "type": "cloze",
+        "prompt": "Not ___ is cycling healthy, but it's also cheap.",
+        "answer": "only",
+        "explanation": "Not only..., but also..."
+      },
+      {
+        "id": "b2-writing-article-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż artykuł.",
+        "answer": [
+          "Is your phone stealing your sleep?",
+          "Many of us scroll through social media in bed every night.",
+          "However, the blue light from screens makes it harder to fall asleep.",
+          "So tonight, why not leave your phone in another room?"
+        ],
+        "distractors": [
+          "Yours faithfully,"
+        ],
+        "explanation": "Pytanie, sytuacja, problem, zachęta. Formalne zakończenie listu nie pasuje."
+      },
+      {
+        "id": "b2-writing-article-1-07",
+        "type": "error",
+        "prompt": "Not only does running improve your health, but it also reduce stress.",
+        "answer": [
+          "reduce",
+          "reduces"
+        ],
+        "explanation": "It – reduces."
+      },
+      {
+        "id": "b2-writing-article-1-08",
+        "type": "translate",
+        "prompt": "Wyobraź sobie świat bez internetu.",
+        "answer": "Imagine a world without the internet.",
+        "accept": [
+          "Imagine a world without the Internet.",
+          "Imagine the world without the internet."
+        ],
+        "explanation": "Imagine..."
+      },
+      {
+        "id": "b2-writing-article-1-09",
+        "type": "transform",
+        "prompt": "Zamień na pytanie retoryczne, zacznij od „Have you ever”.\nMany people think about changing their careers.",
+        "answer": "Have you ever thought about changing your career?",
+        "accept": [
+          "Have you ever thought about changing careers?",
+          "Have you ever considered changing your career?"
+        ],
+        "explanation": "Have you ever + III forma."
+      },
+      {
+        "id": "b2-writing-article-1-10",
+        "type": "choice",
+        "prompt": "How is an article different from an essay?",
+        "answer": "It is more personal and talks to the reader.",
+        "distractors": [
+          "It is always very formal.",
+          "It has no title."
+        ],
+        "explanation": "Artykuł – osobisty, zwraca się do czytelnika."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-article-2",
+    "topicId": "b2-writing-article",
+    "exercises": [
+      {
+        "id": "b2-writing-article-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "engage the reader|zaangażować czytelnika",
+          "food for thought|coś do przemyślenia",
+          "first-hand experience|własne doświadczenie",
+          "eye-catching|przyciągający wzrok"
+        ],
+        "explanation": "Wyrażenia o pisaniu."
+      },
+      {
+        "id": "b2-writing-article-2-02",
+        "type": "choice",
+        "prompt": "Which sentence uses the writer's own experience?",
+        "answer": "When I first moved abroad, I felt completely lost.",
+        "distractors": [
+          "Statistics show that 30% of people move abroad.",
+          "Moving abroad is a big decision."
+        ],
+        "explanation": "Własne doświadczenie."
+      },
+      {
+        "id": "b2-writing-article-2-03",
+        "type": "choice",
+        "prompt": "Which ending gives the reader something to think about?",
+        "answer": "So, what would you do if you had one free year?",
+        "distractors": [
+          "Yours sincerely, Anna",
+          "This is the end of my article."
+        ],
+        "explanation": "Pytanie na koniec."
+      },
+      {
+        "id": "b2-writing-article-2-04",
+        "type": "cloze",
+        "prompt": "What's ___, learning a language keeps your brain young.",
+        "answer": "more",
+        "explanation": "What's more."
+      },
+      {
+        "id": "b2-writing-article-2-05",
+        "type": "cloze",
+        "prompt": "The best way to start is to take ___ steps. (małe)",
+        "answer": "small",
+        "accept": [
+          "little",
+          "tiny"
+        ],
+        "explanation": "Take small steps."
+      },
+      {
+        "id": "b2-writing-article-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż artykuł.",
+        "answer": [
+          "Could you live without money for a month?",
+          "That's exactly what one family from Gdańsk decided to try.",
+          "Surprisingly, they say it was the happiest month of their lives.",
+          "Their story is certainly food for thought."
+        ],
+        "distractors": [
+          "I look forward to your reply."
+        ],
+        "explanation": "Pytanie, historia, zaskoczenie, refleksja. Formułka z listu nie pasuje."
+      },
+      {
+        "id": "b2-writing-article-2-07",
+        "type": "error",
+        "prompt": "Learning a language not only improves your memory but also make you more confident.",
+        "answer": [
+          "make",
+          "makes"
+        ],
+        "explanation": "Learning – l. poj.: makes."
+      },
+      {
+        "id": "b2-writing-article-2-08",
+        "type": "translate",
+        "prompt": "Czy kiedykolwiek zastanawiałeś się, dlaczego...?",
+        "answer": "Have you ever wondered why...?",
+        "accept": [
+          "Have you ever wondered why",
+          "Did you ever wonder why...?"
+        ],
+        "explanation": "Have you ever wondered...?"
+      },
+      {
+        "id": "b2-writing-article-2-09",
+        "type": "transform",
+        "prompt": "Połącz zdania wyrażeniem „Not only ... but also”.\nRunning is free. It is good for your mood.",
+        "answer": "Not only is running free, but it is also good for your mood.",
+        "accept": [
+          "Running is not only free but also good for your mood.",
+          "Not only is running free but it is also good for your mood.",
+          "Running is not only free, but also good for your mood."
+        ],
+        "explanation": "Not only + inwersja."
+      },
+      {
+        "id": "b2-writing-article-2-10",
+        "type": "choice",
+        "prompt": "Which style suits an article for a student magazine?",
+        "answer": "lively and semi-formal",
+        "distractors": [
+          "very formal and impersonal",
+          "full of slang and abbreviations"
+        ],
+        "explanation": "Żywy, pół-formalny."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-article-3",
+    "topicId": "b2-writing-article",
+    "exercises": [
+      {
+        "id": "b2-writing-article-3-01",
+        "type": "match",
+        "prompt": "Połącz część z jej rolą.",
+        "answer": [
+          "Introduction|wciąga czytelnika",
+          "Body|rozwija myśli z przykładami",
+          "Conclusion|myśl na koniec",
+          "Title|przyciąga uwagę"
+        ],
+        "explanation": "Części artykułu."
+      },
+      {
+        "id": "b2-writing-article-3-02",
+        "type": "choice",
+        "prompt": "Which sentence includes a rhetorical question?",
+        "answer": "Who doesn't love a long weekend?",
+        "distractors": [
+          "Long weekends are popular.",
+          "The weekend lasts three days."
+        ],
+        "explanation": "Pytanie retoryczne."
+      },
+      {
+        "id": "b2-writing-article-3-03",
+        "type": "choice",
+        "prompt": "Which is the strongest adjective?",
+        "answer": "breathtaking",
+        "distractors": [
+          "nice",
+          "good"
+        ],
+        "explanation": "Mocny przymiotnik."
+      },
+      {
+        "id": "b2-writing-article-3-04",
+        "type": "cloze",
+        "prompt": "Think twice ___ you buy another plastic bottle. (zanim)",
+        "answer": "before",
+        "explanation": "Before."
+      },
+      {
+        "id": "b2-writing-article-3-05",
+        "type": "cloze",
+        "prompt": "It's ___ to say that... (można śmiało powiedzieć)",
+        "answer": "safe",
+        "explanation": "It's safe to say that..."
+      },
+      {
+        "id": "b2-writing-article-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż artykuł.",
+        "answer": [
+          "Remember when we wrote letters by hand?",
+          "Today, most of us haven't sent a real letter in years.",
+          "Yet a handwritten note can mean much more than a quick message.",
+          "Why not surprise someone with a letter this week?"
+        ],
+        "distractors": [
+          "To sum up, the survey results are clear."
+        ],
+        "explanation": "Wspomnienie, dziś, kontrast, zachęta. Zdanie z raportu nie pasuje."
+      },
+      {
+        "id": "b2-writing-article-3-07",
+        "type": "error",
+        "prompt": "Have you ever wonder what your dog thinks?",
+        "answer": [
+          "wonder",
+          "wondered"
+        ],
+        "explanation": "Have you ever + III forma."
+      },
+      {
+        "id": "b2-writing-article-3-08",
+        "type": "translate",
+        "prompt": "Co zaskakujące, coraz więcej młodych ludzi czyta papierowe książki.",
+        "answer": "Surprisingly, more and more young people read paper books.",
+        "accept": [
+          "Surprisingly, more and more young people are reading paper books.",
+          "Surprisingly more and more young people read paper books.",
+          "Surprisingly, more and more young people read printed books."
+        ],
+        "explanation": "Surprisingly + more and more."
+      },
+      {
+        "id": "b2-writing-article-3-09",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z „Imagine”.\nThink about a city with no cars.",
+        "answer": "Imagine a city with no cars.",
+        "accept": [
+          "Imagine a city without cars."
+        ],
+        "explanation": "Imagine..."
+      },
+      {
+        "id": "b2-writing-article-3-10",
+        "type": "choice",
+        "prompt": "How long is a B2 article?",
+        "answer": "140–190 words",
+        "distractors": [
+          "50–80 words",
+          "400–500 words"
+        ],
+        "explanation": "B2: 140–190 słów."
+      }
+    ]
+  }
+]

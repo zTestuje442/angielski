@@ -1,0 +1,345 @@
+[
+  {
+    "id": "b2-sent-diplomatic-language-1",
+    "topicId": "b2-sent-diplomatic-language",
+    "exercises": [
+      {
+        "id": "b2-sent-diplomatic-language-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "I was wondering if...|Zastanawiałem się, czy...",
+          "Would you mind...?|Czy miałbyś coś przeciwko...?",
+          "I'm afraid I can't.|Obawiam się, że nie mogę.",
+          "There seems to be...|Wygląda na to, że jest..."
+        ],
+        "explanation": "Zwroty dyplomatyczne."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-02",
+        "type": "cloze",
+        "prompt": "Would you mind ___ the window? (zamknąć – close)",
+        "answer": "closing",
+        "explanation": "Would you mind + -ing."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-03",
+        "type": "cloze",
+        "prompt": "I was ___ if you could help me with this report. (zastanawiałem się)",
+        "answer": "wondering",
+        "explanation": "I was wondering if..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-04",
+        "type": "choice",
+        "prompt": "Which is the most diplomatic?",
+        "answer": "The report could be a bit shorter.",
+        "distractors": [
+          "The report is too long.",
+          "Your report is terrible."
+        ],
+        "explanation": "Zmiękczenie: could be a bit..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-05",
+        "type": "choice",
+        "prompt": "There ___ to be a mistake in the invoice.",
+        "answer": "seems",
+        "distractors": [
+          "looks",
+          "is seeming"
+        ],
+        "explanation": "There seems to be..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-06",
+        "type": "error",
+        "prompt": "Would you mind send me the file?",
+        "answer": [
+          "send",
+          "sending"
+        ],
+        "explanation": "Would you mind + -ing."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-07",
+        "type": "tiles",
+        "prompt": "Czy mógłbyś ewentualnie przyjść jutro?",
+        "answer": [
+          "Could",
+          "you",
+          "possibly",
+          "come",
+          "tomorrow"
+        ],
+        "distractors": [
+          "possible",
+          "coming"
+        ],
+        "explanation": "Could you possibly...?"
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-08",
+        "type": "translate",
+        "prompt": "Obawiam się, że nie mogę przyjść na spotkanie.",
+        "answer": "I'm afraid I can't come to the meeting.",
+        "accept": [
+          "I am afraid I can't come to the meeting.",
+          "I'm afraid I cannot come to the meeting.",
+          "I am afraid I cannot come to the meeting.",
+          "I'm afraid I can't attend the meeting."
+        ],
+        "explanation": "I'm afraid I can't..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-09",
+        "type": "choice",
+        "prompt": "\"Your idea is not very practical\" is a polite way of saying:",
+        "answer": "Your idea is impractical.",
+        "distractors": [
+          "Your idea is great.",
+          "Your idea is new."
+        ],
+        "explanation": "Not very + pozytywny przymiotnik."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-1-10",
+        "type": "transform",
+        "prompt": "Zamień na dyplomatyczną prośbę, zacznij od „I was wondering if you could”.\nSend me the report today.",
+        "answer": "I was wondering if you could send me the report today.",
+        "explanation": "I was wondering if you could..."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-diplomatic-language-2",
+    "topicId": "b2-sent-diplomatic-language",
+    "exercises": [
+      {
+        "id": "b2-sent-diplomatic-language-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "a bit|trochę",
+          "slightly|nieznacznie",
+          "rather|raczej, dość",
+          "possibly|ewentualnie"
+        ],
+        "explanation": "Słowa zmiękczające."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-02",
+        "type": "cloze",
+        "prompt": "It might be ___ to wait until next week. (lepiej)",
+        "answer": "better",
+        "explanation": "It might be better to..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-03",
+        "type": "cloze",
+        "prompt": "I see your ___, but I think we need more time. (punkt widzenia)",
+        "answer": "point",
+        "explanation": "I see your point."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-04",
+        "type": "choice",
+        "prompt": "Would it be ___ to move the meeting to Friday?",
+        "answer": "possible",
+        "distractors": [
+          "possibly",
+          "able"
+        ],
+        "explanation": "Would it be possible to...?"
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-05",
+        "type": "choice",
+        "prompt": "The presentation was ___ long.",
+        "answer": "slightly too",
+        "distractors": [
+          "slight too",
+          "slightly very"
+        ],
+        "explanation": "Slightly too long."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-06",
+        "type": "error",
+        "prompt": "I am wondering if you could help me tomorrow.",
+        "answer": [
+          "am",
+          "was"
+        ],
+        "explanation": "Uprzejmiej: I was wondering."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-07",
+        "type": "tiles",
+        "prompt": "Wydaje się, że jest problem z systemem.",
+        "answer": [
+          "There",
+          "seems",
+          "to",
+          "be",
+          "a",
+          "problem",
+          "with",
+          "the",
+          "system"
+        ],
+        "distractors": [
+          "looks",
+          "it"
+        ],
+        "explanation": "There seems to be..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-08",
+        "type": "translate",
+        "prompt": "Czy miałbyś coś przeciwko, żebym otworzył okno?",
+        "answer": "Would you mind if I opened the window?",
+        "accept": [
+          "Do you mind if I open the window?",
+          "Would you mind if I open the window?",
+          "Would you mind me opening the window?"
+        ],
+        "explanation": "Would you mind if I + Past Simple."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-09",
+        "type": "choice",
+        "prompt": "Which sentence is the softest refusal?",
+        "answer": "I'd love to, but I'm afraid I'm busy.",
+        "distractors": [
+          "No, I'm busy.",
+          "I don't want to."
+        ],
+        "explanation": "Zmiękczona odmowa."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-2-10",
+        "type": "transform",
+        "prompt": "Zmiękcz krytykę, użyj „not very”.\nThe instructions are unclear.",
+        "answer": "The instructions are not very clear.",
+        "accept": [
+          "The instructions aren't very clear."
+        ],
+        "explanation": "Not very + pozytywny przymiotnik."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-diplomatic-language-3",
+    "topicId": "b2-sent-diplomatic-language",
+    "exercises": [
+      {
+        "id": "b2-sent-diplomatic-language-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Unfortunately,|Niestety,",
+          "I'm not sure that's...|Nie jestem pewien, czy to...",
+          "It might be better to...|Może lepiej byłoby...",
+          "Could you possibly...?|Czy mógłbyś ewentualnie...?"
+        ],
+        "explanation": "Zwroty dyplomatyczne."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-02",
+        "type": "cloze",
+        "prompt": "___, we cannot offer a refund. (niestety)",
+        "answer": "Unfortunately",
+        "explanation": "Unfortunately."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-03",
+        "type": "cloze",
+        "prompt": "I'm not ___ that's the best solution. (pewien)",
+        "answer": "sure",
+        "explanation": "I'm not sure..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-04",
+        "type": "choice",
+        "prompt": "Would you mind ___ a little quieter?",
+        "answer": "being",
+        "distractors": [
+          "to be",
+          "be"
+        ],
+        "explanation": "Would you mind + -ing."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-05",
+        "type": "choice",
+        "prompt": "I ___ to ask if you could check my email.",
+        "answer": "wanted",
+        "distractors": [
+          "want",
+          "am wanting"
+        ],
+        "explanation": "Uprzejmie: I wanted to ask..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-06",
+        "type": "error",
+        "prompt": "Would you mind if I use your phone? – Of course not, go ahead.",
+        "answer": [
+          "use",
+          "used"
+        ],
+        "explanation": "Would you mind if I + Past Simple."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-07",
+        "type": "tiles",
+        "prompt": "Może lepiej byłoby poczekać.",
+        "answer": [
+          "It",
+          "might",
+          "be",
+          "better",
+          "to",
+          "wait"
+        ],
+        "distractors": [
+          "good",
+          "waiting"
+        ],
+        "explanation": "It might be better to..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-08",
+        "type": "translate",
+        "prompt": "Wygląda na to, że zaszło nieporozumienie.",
+        "answer": "There seems to have been a misunderstanding.",
+        "accept": [
+          "There seems to be a misunderstanding.",
+          "It seems there has been a misunderstanding.",
+          "It seems that there has been a misunderstanding.",
+          "There appears to have been a misunderstanding."
+        ],
+        "explanation": "There seems to have been..."
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-09",
+        "type": "choice",
+        "prompt": "Which is the most polite request?",
+        "answer": "Would it be possible to extend the deadline?",
+        "distractors": [
+          "Extend the deadline.",
+          "I need more time."
+        ],
+        "explanation": "Would it be possible...?"
+      },
+      {
+        "id": "b2-sent-diplomatic-language-3-10",
+        "type": "transform",
+        "prompt": "Zamień na dyplomatyczną prośbę, zacznij od „Would you mind”.\nCheck these figures.",
+        "answer": "Would you mind checking these figures?",
+        "explanation": "Would you mind + -ing."
+      }
+    ]
+  }
+]

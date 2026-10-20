@@ -1,0 +1,357 @@
+[
+  {
+    "id": "b2-vocab-science-research-1",
+    "topicId": "b2-vocab-science-research",
+    "exercises": [
+      {
+        "id": "b2-vocab-science-research-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "research|badania",
+          "evidence|dowody",
+          "findings|ustalenia, wyniki",
+          "breakthrough|przełom"
+        ],
+        "explanation": "Słownictwo naukowe."
+      },
+      {
+        "id": "b2-vocab-science-research-1-02",
+        "type": "cloze",
+        "prompt": "Scientists are carrying ___ research into the virus.",
+        "answer": "out",
+        "explanation": "Carry out research."
+      },
+      {
+        "id": "b2-vocab-science-research-1-03",
+        "type": "cloze",
+        "prompt": "The results ___ that the drug is effective. (sugerują)",
+        "answer": "suggest",
+        "accept": [
+          "show",
+          "indicate"
+        ],
+        "explanation": "Suggest."
+      },
+      {
+        "id": "b2-vocab-science-research-1-04",
+        "type": "choice",
+        "prompt": "Alexander Fleming ___ penicillin in 1928.",
+        "answer": "discovered",
+        "distractors": [
+          "invented",
+          "found out"
+        ],
+        "explanation": "Odkryć coś istniejącego: discover."
+      },
+      {
+        "id": "b2-vocab-science-research-1-05",
+        "type": "choice",
+        "prompt": "We need more ___ before we can be sure.",
+        "answer": "evidence",
+        "distractors": [
+          "evidences",
+          "an evidence"
+        ],
+        "explanation": "Evidence – niepoliczalne."
+      },
+      {
+        "id": "b2-vocab-science-research-1-06",
+        "type": "error",
+        "prompt": "She is doing a research on climate change.",
+        "answer": [
+          "a",
+          "some"
+        ],
+        "explanation": "Research – niepoliczalne: some research / research."
+      },
+      {
+        "id": "b2-vocab-science-research-1-07",
+        "type": "tiles",
+        "prompt": "Naukowcy dokonali ważnego odkrycia.",
+        "answer": [
+          "Scientists",
+          "made",
+          "an",
+          "important",
+          "discovery"
+        ],
+        "distractors": [
+          "did",
+          "invention"
+        ],
+        "explanation": "Make a discovery."
+      },
+      {
+        "id": "b2-vocab-science-research-1-08",
+        "type": "translate",
+        "prompt": "Badanie przeprowadzono na grupie 500 osób.",
+        "answer": "The study was carried out on a group of 500 people.",
+        "accept": [
+          "The study was conducted on a group of 500 people.",
+          "The research was carried out on a group of 500 people.",
+          "The research was conducted on a group of 500 people.",
+          "The study was carried out on 500 people."
+        ],
+        "explanation": "Carry out a study."
+      },
+      {
+        "id": "b2-vocab-science-research-1-09",
+        "type": "choice",
+        "prompt": "Who invented the telephone?",
+        "answer": "Alexander Graham Bell",
+        "distractors": [
+          "nobody – it was discovered",
+          "Isaac Newton"
+        ],
+        "explanation": "Telefon został wynaleziony (invent)."
+      },
+      {
+        "id": "b2-vocab-science-research-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The experiment”.\nResearchers repeated the experiment three times.",
+        "answer": "The experiment was repeated three times.",
+        "accept": [
+          "The experiment was repeated three times by researchers.",
+          "The experiment was repeated three times by the researchers."
+        ],
+        "explanation": "Was + III forma."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-science-research-2",
+    "topicId": "b2-vocab-science-research",
+    "exercises": [
+      {
+        "id": "b2-vocab-science-research-2-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "investigate|badać, dochodzić",
+          "measure|mierzyć",
+          "analyse|analizować",
+          "observe|obserwować"
+        ],
+        "explanation": "Czasowniki naukowe."
+      },
+      {
+        "id": "b2-vocab-science-research-2-02",
+        "type": "cloze",
+        "prompt": "The ___ was too small – only twenty people took part. (próba)",
+        "answer": "sample",
+        "explanation": "Sample."
+      },
+      {
+        "id": "b2-vocab-science-research-2-03",
+        "type": "cloze",
+        "prompt": "The scientists drew an important ___ from the data. (wniosek)",
+        "answer": "conclusion",
+        "explanation": "Draw a conclusion."
+      },
+      {
+        "id": "b2-vocab-science-research-2-04",
+        "type": "choice",
+        "prompt": "The new vaccine is a real ___ in medicine.",
+        "answer": "breakthrough",
+        "distractors": [
+          "breakdown",
+          "break-in"
+        ],
+        "explanation": "Przełom: breakthrough."
+      },
+      {
+        "id": "b2-vocab-science-research-2-05",
+        "type": "choice",
+        "prompt": "Thomas Edison ___ the light bulb.",
+        "answer": "invented",
+        "distractors": [
+          "discovered",
+          "found"
+        ],
+        "explanation": "Wynaleźć: invent."
+      },
+      {
+        "id": "b2-vocab-science-research-2-06",
+        "type": "error",
+        "prompt": "These datas show a clear trend.",
+        "answer": [
+          "datas",
+          "data"
+        ],
+        "explanation": "Data – bez -s."
+      },
+      {
+        "id": "b2-vocab-science-research-2-07",
+        "type": "tiles",
+        "prompt": "Wyniki nie potwierdziły hipotezy.",
+        "answer": [
+          "The",
+          "results",
+          "did",
+          "not",
+          "confirm",
+          "the",
+          "hypothesis"
+        ],
+        "distractors": [
+          "approved",
+          "hypothesises"
+        ],
+        "explanation": "Confirm the hypothesis."
+      },
+      {
+        "id": "b2-vocab-science-research-2-08",
+        "type": "translate",
+        "prompt": "Pracuje w laboratorium.",
+        "answer": "She works in a laboratory.",
+        "accept": [
+          "She works in a lab.",
+          "He works in a laboratory.",
+          "He works in a lab."
+        ],
+        "explanation": "Laboratory / lab."
+      },
+      {
+        "id": "b2-vocab-science-research-2-09",
+        "type": "choice",
+        "prompt": "Before a study is published, other scientists check it. This is called ___.",
+        "answer": "peer review",
+        "distractors": [
+          "proofreading",
+          "a survey"
+        ],
+        "explanation": "Recenzja naukowa: peer review."
+      },
+      {
+        "id": "b2-vocab-science-research-2-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The temperature”.\nWe measured the temperature every hour.",
+        "answer": "The temperature was measured every hour.",
+        "accept": [
+          "The temperature was measured every hour by us."
+        ],
+        "explanation": "Was measured."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-science-research-3",
+    "topicId": "b2-vocab-science-research",
+    "exercises": [
+      {
+        "id": "b2-vocab-science-research-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "hypothesis|hipoteza",
+          "survey|ankieta",
+          "data|dane",
+          "laboratory|laboratorium"
+        ],
+        "explanation": "Słownictwo naukowe."
+      },
+      {
+        "id": "b2-vocab-science-research-3-02",
+        "type": "cloze",
+        "prompt": "The survey was ___ out in ten countries.",
+        "answer": "carried",
+        "explanation": "Carry out a survey."
+      },
+      {
+        "id": "b2-vocab-science-research-3-03",
+        "type": "cloze",
+        "prompt": "There is no scientific ___ that this diet works. (dowód)",
+        "answer": "evidence",
+        "accept": [
+          "proof"
+        ],
+        "explanation": "Evidence."
+      },
+      {
+        "id": "b2-vocab-science-research-3-04",
+        "type": "choice",
+        "prompt": "The police are ___ the cause of the fire.",
+        "answer": "investigating",
+        "distractors": [
+          "inventing",
+          "measuring up"
+        ],
+        "explanation": "Badać przyczynę: investigate."
+      },
+      {
+        "id": "b2-vocab-science-research-3-05",
+        "type": "choice",
+        "prompt": "Her ___ were published in a scientific journal.",
+        "answer": "findings",
+        "distractors": [
+          "finds out",
+          "foundings"
+        ],
+        "explanation": "Findings – ustalenia."
+      },
+      {
+        "id": "b2-vocab-science-research-3-06",
+        "type": "error",
+        "prompt": "Researchers made a survey of 1,000 students.",
+        "answer": [
+          "made",
+          "conducted"
+        ],
+        "explanation": "Przeprowadzić ankietę: conduct / carry out a survey."
+      },
+      {
+        "id": "b2-vocab-science-research-3-07",
+        "type": "tiles",
+        "prompt": "Dane sugerują, że klimat się ociepla.",
+        "answer": [
+          "The",
+          "data",
+          "suggest",
+          "that",
+          "the",
+          "climate",
+          "is",
+          "getting",
+          "warmer"
+        ],
+        "distractors": [
+          "datas",
+          "proves"
+        ],
+        "explanation": "Data suggest."
+      },
+      {
+        "id": "b2-vocab-science-research-3-08",
+        "type": "translate",
+        "prompt": "Musimy przeanalizować wyniki.",
+        "answer": "We need to analyse the results.",
+        "accept": [
+          "We have to analyse the results.",
+          "We need to analyze the results.",
+          "We must analyse the results.",
+          "We have to analyze the results."
+        ],
+        "explanation": "Analyse (BrE)."
+      },
+      {
+        "id": "b2-vocab-science-research-3-09",
+        "type": "choice",
+        "prompt": "Which verb is the strongest?",
+        "answer": "prove",
+        "distractors": [
+          "suggest",
+          "indicate"
+        ],
+        "explanation": "Prove – udowodnić (najmocniej)."
+      },
+      {
+        "id": "b2-vocab-science-research-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „found” czasownikiem „discover”, zacznij od „Scientists have”.\nScientists have found a new species of frog.",
+        "answer": "Scientists have discovered a new species of frog.",
+        "explanation": "Discover."
+      }
+    ]
+  }
+]

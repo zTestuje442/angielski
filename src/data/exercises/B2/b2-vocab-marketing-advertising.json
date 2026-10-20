@@ -1,0 +1,346 @@
+[
+  {
+    "id": "b2-vocab-marketing-advertising-1",
+    "topicId": "b2-vocab-marketing-advertising",
+    "exercises": [
+      {
+        "id": "b2-vocab-marketing-advertising-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "brand|marka",
+          "target audience|grupa docelowa",
+          "slogan|hasło reklamowe",
+          "free sample|darmowa próbka"
+        ],
+        "explanation": "Marketing."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-02",
+        "type": "cloze",
+        "prompt": "They're going to ___ a new smartphone in September. (wprowadzić na rynek)",
+        "answer": "launch",
+        "explanation": "Launch a product."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-03",
+        "type": "cloze",
+        "prompt": "The company spends millions on ___. (reklama ogólnie)",
+        "answer": "advertising",
+        "explanation": "Advertising – niepoliczalne."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-04",
+        "type": "choice",
+        "prompt": "Our ___ audience is people aged 18–25.",
+        "answer": "target",
+        "distractors": [
+          "aim",
+          "goal"
+        ],
+        "explanation": "Target audience."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-05",
+        "type": "choice",
+        "prompt": "The video ___ viral and got ten million views in a day.",
+        "answer": "went",
+        "distractors": [
+          "became",
+          "made"
+        ],
+        "explanation": "Go viral."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-06",
+        "type": "error",
+        "prompt": "I saw a funny advertising on TV yesterday.",
+        "answer": [
+          "advertising",
+          "advert"
+        ],
+        "explanation": "Jedna reklama: an advert / an ad."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-07",
+        "type": "tiles",
+        "prompt": "Kampania przyciągnęła wielu nowych klientów.",
+        "answer": [
+          "The",
+          "campaign",
+          "attracted",
+          "many",
+          "new",
+          "customers"
+        ],
+        "distractors": [
+          "attractive",
+          "clients'"
+        ],
+        "explanation": "Attract customers."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-08",
+        "type": "translate",
+        "prompt": "Ta marka jest bardzo popularna wśród nastolatków.",
+        "answer": "This brand is very popular with teenagers.",
+        "accept": [
+          "This brand is very popular among teenagers.",
+          "The brand is very popular with teenagers.",
+          "The brand is very popular among teenagers."
+        ],
+        "explanation": "Popular with / among."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-09",
+        "type": "choice",
+        "prompt": "A TV advert is also called a ___.",
+        "answer": "commercial",
+        "distractors": [
+          "billboard",
+          "slogan"
+        ],
+        "explanation": "Reklama telewizyjna: commercial."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The product”.\nA famous footballer endorses the product.",
+        "answer": "The product is endorsed by a famous footballer.",
+        "explanation": "Is endorsed by."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-marketing-advertising-2",
+    "topicId": "b2-vocab-marketing-advertising",
+    "exercises": [
+      {
+        "id": "b2-vocab-marketing-advertising-2-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "advertise|reklamować",
+          "persuade|przekonywać",
+          "endorse|firmować swoją twarzą",
+          "promote|promować"
+        ],
+        "explanation": "Czasowniki marketingowe."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-02",
+        "type": "cloze",
+        "prompt": "Many customers hear about us by word of ___. (marketing szeptany)",
+        "answer": "mouth",
+        "explanation": "Word of mouth."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-03",
+        "type": "cloze",
+        "prompt": "The ad tries to ___ people to buy more. (przekonać)",
+        "answer": "persuade",
+        "explanation": "Persuade somebody to."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-04",
+        "type": "choice",
+        "prompt": "Coca-Cola and Pepsi are ___.",
+        "answer": "competitors",
+        "distractors": [
+          "colleagues",
+          "customers"
+        ],
+        "explanation": "Konkurenci: competitors."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-05",
+        "type": "choice",
+        "prompt": "Huge ___ along the motorway show the new car.",
+        "answer": "billboards",
+        "distractors": [
+          "slogans",
+          "brands"
+        ],
+        "explanation": "Billboard."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-06",
+        "type": "error",
+        "prompt": "The company advertises its products on social medias.",
+        "answer": [
+          "medias",
+          "media"
+        ],
+        "explanation": "Social media – bez -s."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-07",
+        "type": "tiles",
+        "prompt": "Firma zatrudniła znaną influencerkę.",
+        "answer": [
+          "The",
+          "company",
+          "hired",
+          "a",
+          "famous",
+          "influencer"
+        ],
+        "distractors": [
+          "influenced",
+          "rented"
+        ],
+        "explanation": "Hire."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-08",
+        "type": "translate",
+        "prompt": "Ta reklama jest skierowana do młodych rodziców.",
+        "answer": "This advert is aimed at young parents.",
+        "accept": [
+          "This ad is aimed at young parents.",
+          "The advert is aimed at young parents.",
+          "This advert is targeted at young parents.",
+          "This ad is targeted at young parents."
+        ],
+        "explanation": "Be aimed at."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-09",
+        "type": "choice",
+        "prompt": "When customers keep buying the same brand, it shows customer ___.",
+        "answer": "loyalty",
+        "distractors": [
+          "royalty",
+          "loyal"
+        ],
+        "explanation": "Lojalność: loyalty."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-2-10",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z „so ... that”.\nThe slogan was very catchy. Everyone remembered it.",
+        "answer": "The slogan was so catchy that everyone remembered it.",
+        "accept": [
+          "The slogan was so catchy everyone remembered it."
+        ],
+        "explanation": "So ... that."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-marketing-advertising-3",
+    "topicId": "b2-vocab-marketing-advertising",
+    "exercises": [
+      {
+        "id": "b2-vocab-marketing-advertising-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "market share|udział w rynku",
+          "special offer|oferta specjalna",
+          "go viral|stać się viralem",
+          "niche|nisza"
+        ],
+        "explanation": "Marketing."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-02",
+        "type": "cloze",
+        "prompt": "Social media helps small companies ___ more people. (dotrzeć do)",
+        "answer": "reach",
+        "explanation": "Reach."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-03",
+        "type": "cloze",
+        "prompt": "Buy one, get one free! It's a special ___.",
+        "answer": "offer",
+        "explanation": "Special offer."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-04",
+        "type": "choice",
+        "prompt": "Their new ___ is \"Just enjoy it\".",
+        "answer": "slogan",
+        "distractors": [
+          "logo",
+          "brand name's"
+        ],
+        "explanation": "Hasło: slogan."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-05",
+        "type": "choice",
+        "prompt": "The company lost market ___ to cheaper brands.",
+        "answer": "share",
+        "distractors": [
+          "part",
+          "piece"
+        ],
+        "explanation": "Market share."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-06",
+        "type": "error",
+        "prompt": "Advertisings are everywhere these days.",
+        "answer": [
+          "Advertisings",
+          "Adverts"
+        ],
+        "explanation": "Advertising – niepoliczalne; konkretne reklamy: adverts."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-07",
+        "type": "tiles",
+        "prompt": "Rozdawali darmowe próbki w centrum handlowym.",
+        "answer": [
+          "They",
+          "gave",
+          "out",
+          "free",
+          "samples",
+          "in",
+          "the",
+          "shopping",
+          "centre"
+        ],
+        "distractors": [
+          "examples",
+          "gived"
+        ],
+        "explanation": "Give out free samples."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-08",
+        "type": "translate",
+        "prompt": "Kampania okazała się wielkim sukcesem.",
+        "answer": "The campaign was a great success.",
+        "accept": [
+          "The campaign turned out to be a great success.",
+          "The campaign was a big success.",
+          "The campaign turned out to be a big success.",
+          "The campaign proved to be a great success."
+        ],
+        "explanation": "A great success."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Advertising is a huge industry.",
+        "distractors": [
+          "Advertisings are a huge industry.",
+          "An advertising is a huge industry."
+        ],
+        "explanation": "Advertising – niepoliczalne."
+      },
+      {
+        "id": "b2-vocab-marketing-advertising-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „Who”.\nThe campaign targets students.",
+        "answer": "Who does the campaign target?",
+        "explanation": "Who + does + target."
+      }
+    ]
+  }
+]

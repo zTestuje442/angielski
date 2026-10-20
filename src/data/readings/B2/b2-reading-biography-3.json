@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-biography-3",
+  "topicId": "b2-reading-biography",
+  "title": "Wisława Szymborska: the poet who said \"I don't know\"",
+  "text": "In 1996, when the Swedish Academy announced that the Nobel Prize in Literature would go to Wisława Szymborska, many people outside Poland had never heard of her. In Poland, however, she was already loved by readers of all ages for her clear, witty and deeply thoughtful poems.\n\nSzymborska was born in 1923 near Poznań and moved to Kraków with her family when she was eight. She lived in Kraków for the rest of her life. During the Second World War she continued her education in secret schools and worked as a railway clerk to avoid being sent to forced labour in Germany. After the war she studied Polish literature and sociology at the Jagiellonian University, although she never finished her degree.\n\nHer early poetry, written in the late 1940s and early 1950s, followed the official style of the communist period, something she later regretted and rarely spoke about. From the late 1950s, her work became more personal and independent. She wrote about ordinary objects and everyday situations – a stone, an onion, a cat in an empty flat – and used them to ask big questions about life, death, history and chance.\n\nSzymborska published relatively few poems: about 350 in a career of more than sixty years. She explained that she kept a wastepaper basket in her room and threw away far more than she published. She also had a famous sense of humour. She collected kitsch postcards, invented absurd short poems for her friends, and organised parties with strange lotteries in which guests could win useless prizes.\n\nIn her Nobel lecture, she praised the phrase \"I don't know\". Every real poet, she said, must keep repeating it, because curiosity and doubt are what create new work. People who are too sure of themselves, she warned, can be dangerous.\n\nSzymborska died in Kraków in 2012. Her poems have been translated into more than forty languages, and lines from them are still quoted on posters, in songs and in everyday conversation.",
+  "exercises": [
+    {
+      "id": "b2-reading-biography-3-01",
+      "type": "choice",
+      "prompt": "Szymborska spent most of her life in Kraków.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„She lived in Kraków for the rest of her life.”"
+    },
+    {
+      "id": "b2-reading-biography-3-02",
+      "type": "choice",
+      "prompt": "She completed her university degree.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...she never finished her degree.”"
+    },
+    {
+      "id": "b2-reading-biography-3-03",
+      "type": "choice",
+      "prompt": "Szymborska also wrote novels.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst wspomina tylko o wierszach."
+    },
+    {
+      "id": "b2-reading-biography-3-04",
+      "type": "choice",
+      "prompt": "Why did she work as a railway clerk during the war?",
+      "answer": "to avoid forced labour in Germany",
+      "distractors": [
+        "to pay for university",
+        "because she loved trains"
+      ],
+      "explanation": "„...to avoid being sent to forced labour in Germany.”"
+    },
+    {
+      "id": "b2-reading-biography-3-05",
+      "type": "choice",
+      "prompt": "What did she write about from the late 1950s?",
+      "answer": "ordinary objects and everyday situations",
+      "distractors": [
+        "only historical events",
+        "political speeches"
+      ],
+      "explanation": "„She wrote about ordinary objects and everyday situations...”"
+    },
+    {
+      "id": "b2-reading-biography-3-06",
+      "type": "choice",
+      "prompt": "Why did she publish relatively few poems?",
+      "answer": "She threw away much more than she published.",
+      "distractors": [
+        "She wrote very slowly.",
+        "Publishers rejected her work."
+      ],
+      "explanation": "„...threw away far more than she published.”"
+    },
+    {
+      "id": "b2-reading-biography-3-07",
+      "type": "choice",
+      "prompt": "What did she praise in her Nobel lecture?",
+      "answer": "the phrase \"I don't know\"",
+      "distractors": [
+        "the Swedish Academy",
+        "communist literature"
+      ],
+      "explanation": "„...she praised the phrase \"I don't know\".”"
+    },
+    {
+      "id": "b2-reading-biography-3-08",
+      "type": "cloze",
+      "prompt": "Her poems are clear, ___ and deeply thoughtful. (dowcipne)",
+      "answer": "witty",
+      "explanation": "Witty."
+    },
+    {
+      "id": "b2-reading-biography-3-09",
+      "type": "cloze",
+      "prompt": "She kept a wastepaper ___ in her room.",
+      "answer": "basket",
+      "explanation": "Wastepaper basket – kosz na śmieci."
+    },
+    {
+      "id": "b2-reading-biography-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "regret|żałować",
+        "chance|przypadek",
+        "absurd|absurdalny",
+        "curiosity|ciekawość"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}
