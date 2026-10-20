@@ -23,6 +23,7 @@ export function ErrorSpot({ exercise, answered, onSubmit, onReady }: ExercisePro
         <label className="correction">
           Poprawka dla „{bareWord(tokens[picked])}”:
           <input className="free-input" value={value} readOnly={answered} autoFocus autoComplete="off" spellCheck={false}
+            placeholder="poprawne słowo albo całe poprawione zdanie"
             onChange={e => { setValue(e.target.value); onReady(e.target.value.trim() !== ""); }} />
         </label>
       )}

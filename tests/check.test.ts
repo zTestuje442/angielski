@@ -64,6 +64,15 @@ describe("checkAnswer", () => {
     expect(checkAnswer(e, { type: "error", word: "since", correction: "from" })).toBe(false);
   });
 
+  it("error: całe poprawione zdanie też jest dobrą odpowiedzią (także ze skrótem)", () => {
+    const e = ex({ type: "error", prompt: "I isn't ready.", answer: ["isn't", "am not"] });
+    for (const correction of ["I am not ready", "I am not ready.", "I'm not ready"]) {
+      expect(checkAnswer(e, { type: "error", word: "isn't", correction })).toBe(true);
+    }
+    expect(checkAnswer(e, { type: "error", word: "isn't", correction: "I isn't ready" })).toBe(false);
+    expect(checkAnswer(e, { type: "error", word: "isn't", correction: "I is not ready" })).toBe(false);
+  });
+
   it("pokazuje poprawną odpowiedź czytelnie", () => {
     expect(correctAnswerText(ex({ type: "cloze", prompt: "Here ___ 2019.", answer: "since" }))).toBe("Here since 2019.");
     expect(correctAnswerText(ex({ type: "match", answer: ["a|b", "c|d"] }))).toBe("a – b; c – d");

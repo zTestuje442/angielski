@@ -63,6 +63,14 @@ export function tokenize(sentence: string): string[] {
 }
 export const bareWord = (token: string) => token.replace(/^[^\p{L}\p{N}']+|[^\p{L}\p{N}']+$/gu, "");
 
+/** Zdanie z zadania error, w którym pierwsze błędne słowo zastąpiono poprawką (interpunkcja zostaje). */
+export function correctedSentence(prompt: string, wrong: string, correction: string): string {
+  const tokens = tokenize(prompt);
+  const i = tokens.findIndex(t => normalize(bareWord(t)) === normalize(wrong));
+  if (i >= 0) tokens[i] = tokens[i].replace(bareWord(tokens[i]), correction);
+  return tokens.join(" ");
+}
+
 export type Given =
   | { type: "text"; value: string }                 // cloze, transform, translate, choice
   | { type: "tiles"; value: string[] }
@@ -84,7 +92,10 @@ export function checkAnswer(ex: Exercise, given: Given): boolean {
     case "error": {
       if (!Array.isArray(answer)) return false;
       const [wrong, correction] = answer;
-      return normalize(given.word) === normalize(wrong) && matchesText(given.correction, correction, ex.accept);
+      if (normalize(given.word) === normalize(wrong) && matchesText(given.correction, correction, ex.accept)) return true;
+      // Całe poprawione zdanie zamiast samego słowa też jest dobrą odpowiedzią.
+      const fixed = (c: string) => correctedSentence(ex.prompt, wrong, c);
+      return matchesText(given.correction, fixed(correction), (ex.accept ?? []).map(fixed));
     }
   }
 }
