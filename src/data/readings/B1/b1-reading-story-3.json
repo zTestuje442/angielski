@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-story-3",
+  "topicId": "b1-reading-story",
+  "title": "A message from the past",
+  "text": "Last spring, Jakub and his wife bought an old flat in Łódź. It needed a lot of work, so they decided to renovate it themselves. One Saturday, while Jakub was taking up the old wooden floor in the living room, he found something strange: a small metal box, hidden between two boards.\n\nInside the box there was a letter, a black-and-white photo of a young couple and an old coin. The letter was written in Polish, in beautiful handwriting, and it was dated 12 May 1958. \"To whoever finds this,\" it began. \"My name is Helena. Today my husband Stefan and I moved into this flat. We are young and poor, but very happy. We hope that the people who live here after us will be as happy as we are.\"\n\nJakub and his wife were very moved. They wanted to know what had happened to Helena and Stefan. Jakub wrote a post on a local history group online, with a photo of the letter. Within two days, the post had been shared hundreds of times.\n\nThen a woman called Ewa sent him a message. \"I think Helena was my grandmother,\" she wrote. \"She and my grandfather lived in Łódź in the fifties. My grandmother died ten years ago, but I have photos of her as a young woman.\" She sent a photo. It was the same face.\n\nA week later, Ewa visited the flat. She held the letter for a long time without speaking. Then she smiled. \"She would be so happy to know you found it,\" she said. Jakub and his wife decided to write their own letter, put it in the box and hide it under the new floor.",
+  "exercises": [
+    {
+      "id": "b1-reading-story-3-01",
+      "type": "choice",
+      "prompt": "Jakub and his wife paid builders to renovate the flat.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...they decided to renovate it themselves.”"
+    },
+    {
+      "id": "b1-reading-story-3-02",
+      "type": "choice",
+      "prompt": "The letter was written in 1958.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...dated 12 May 1958.”"
+    },
+    {
+      "id": "b1-reading-story-3-03",
+      "type": "choice",
+      "prompt": "Helena and Stefan had three children.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "b1-reading-story-3-04",
+      "type": "choice",
+      "prompt": "Where was the box?",
+      "answer": "under the floor",
+      "distractors": [
+        "in the wall",
+        "in the cellar"
+      ],
+      "explanation": "„...hidden between two boards.”"
+    },
+    {
+      "id": "b1-reading-story-3-05",
+      "type": "choice",
+      "prompt": "What did Helena hope?",
+      "answer": "that future residents would be happy",
+      "distractors": [
+        "that someone would return the coin",
+        "that the flat would be sold"
+      ],
+      "explanation": "„We hope that the people who live here after us will be as happy as we are.”"
+    },
+    {
+      "id": "b1-reading-story-3-06",
+      "type": "choice",
+      "prompt": "How did Jakub find Helena's family?",
+      "answer": "He posted the letter in an online group.",
+      "distractors": [
+        "He went to the town hall.",
+        "He asked his neighbours."
+      ],
+      "explanation": "„Jakub wrote a post on a local history group online...”"
+    },
+    {
+      "id": "b1-reading-story-3-07",
+      "type": "choice",
+      "prompt": "What did Jakub and his wife do at the end?",
+      "answer": "They hid their own letter under the floor.",
+      "distractors": [
+        "They gave the box to a museum.",
+        "They sold the old coin."
+      ],
+      "explanation": "„...decided to write their own letter... and hide it under the new floor.”"
+    },
+    {
+      "id": "b1-reading-story-3-08",
+      "type": "cloze",
+      "prompt": "The letter was written in beautiful ___. (pismo odręczne)",
+      "answer": "handwriting",
+      "explanation": "Pismo odręczne: handwriting."
+    },
+    {
+      "id": "b1-reading-story-3-09",
+      "type": "cloze",
+      "prompt": "Within two days, the post had been ___ hundreds of times. (udostępniony)",
+      "answer": "shared",
+      "explanation": "Share – udostępniać."
+    },
+    {
+      "id": "b1-reading-story-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "renovate|remontować",
+        "hidden|ukryty",
+        "moved|wzruszony",
+        "whoever|ktokolwiek"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "b1-writing-story-1",
+    "topicId": "b1-writing-story",
+    "exercises": [
+      {
+        "id": "b1-writing-story-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "Suddenly,|Nagle",
+          "Just then,|Właśnie wtedy",
+          "To my surprise,|Ku mojemu zaskoczeniu",
+          "In the end,|W końcu"
+        ],
+        "explanation": "Słowa w opowiadaniu."
+      },
+      {
+        "id": "b1-writing-story-1-02",
+        "type": "choice",
+        "prompt": "It was raining and people ___ home.",
+        "answer": "were hurrying",
+        "distractors": [
+          "hurried were",
+          "have hurried"
+        ],
+        "explanation": "Tło: Past Continuous."
+      },
+      {
+        "id": "b1-writing-story-1-03",
+        "type": "choice",
+        "prompt": "When I got to the station, I realised I ___ my ticket at home.",
+        "answer": "had left",
+        "distractors": [
+          "have left",
+          "was leaving"
+        ],
+        "explanation": "Wcześniejsze zdarzenie: Past Perfect."
+      },
+      {
+        "id": "b1-writing-story-1-04",
+        "type": "cloze",
+        "prompt": "___, the lights went out. (nagle)",
+        "answer": "Suddenly",
+        "explanation": "Suddenly – zwrot akcji."
+      },
+      {
+        "id": "b1-writing-story-1-05",
+        "type": "cloze",
+        "prompt": "I felt so ___ when I found my wallet. (ulżyło mi)",
+        "answer": "relieved",
+        "explanation": "Relieved – z ulgą."
+      },
+      {
+        "id": "b1-writing-story-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż opowiadanie.",
+        "answer": [
+          "It was a cold evening in December.",
+          "I was walking home from work when I heard a strange noise.",
+          "Suddenly, a small dog ran out of the bushes.",
+          "In the end, I took it home and called it Lucky."
+        ],
+        "distractors": [
+          "Yours faithfully,"
+        ],
+        "explanation": "Tło, zdarzenie, zwrot akcji, zakończenie. Formalne zakończenie listu nie pasuje."
+      },
+      {
+        "id": "b1-writing-story-1-07",
+        "type": "error",
+        "prompt": "While I walked home, it started to rain.",
+        "answer": [
+          "walked",
+          "was walking"
+        ],
+        "explanation": "Tło: Past Continuous – while I was walking."
+      },
+      {
+        "id": "b1-writing-story-1-08",
+        "type": "translate",
+        "prompt": "Kiedy się obudziłem, padał śnieg.",
+        "answer": "When I woke up, it was snowing.",
+        "accept": [
+          "When I woke up it was snowing."
+        ],
+        "explanation": "Tło: Past Continuous."
+      },
+      {
+        "id": "b1-writing-story-1-09",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „when”, użyj Past Continuous w pierwszej części.\nI cooked dinner. The phone rang.",
+        "answer": "I was cooking dinner when the phone rang.",
+        "explanation": "Past Continuous + when + Past Simple."
+      },
+      {
+        "id": "b1-writing-story-1-10",
+        "type": "choice",
+        "prompt": "Which is the best first sentence for a story?",
+        "answer": "It was a stormy night and the streets were empty.",
+        "distractors": [
+          "I am writing to complain.",
+          "In conclusion, I agree."
+        ],
+        "explanation": "Początek opowiadania: tło."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-story-2",
+    "topicId": "b1-writing-story",
+    "exercises": [
+      {
+        "id": "b1-writing-story-2-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "terrified|przerażony",
+          "exhausted|wyczerpany",
+          "delighted|zachwycony",
+          "embarrassed|zawstydzony"
+        ],
+        "explanation": "Mocne przymiotniki uczuć."
+      },
+      {
+        "id": "b1-writing-story-2-02",
+        "type": "choice",
+        "prompt": "She opened the door ___.",
+        "answer": "nervously",
+        "distractors": [
+          "nervous",
+          "nerve"
+        ],
+        "explanation": "Przysłówek: nervously."
+      },
+      {
+        "id": "b1-writing-story-2-03",
+        "type": "choice",
+        "prompt": "I ___ the film before, so I knew the ending.",
+        "answer": "had seen",
+        "distractors": [
+          "have seen",
+          "saw had"
+        ],
+        "explanation": "Wcześniej: Past Perfect."
+      },
+      {
+        "id": "b1-writing-story-2-04",
+        "type": "cloze",
+        "prompt": "___ then, someone knocked on the door. (właśnie)",
+        "answer": "Just",
+        "explanation": "Just then."
+      },
+      {
+        "id": "b1-writing-story-2-05",
+        "type": "cloze",
+        "prompt": "I was ___ – I had walked for ten hours. (wyczerpany)",
+        "answer": "exhausted",
+        "explanation": "Exhausted."
+      },
+      {
+        "id": "b1-writing-story-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż opowiadanie.",
+        "answer": [
+          "Last summer I went camping with my friends.",
+          "On the second night, there was a terrible storm.",
+          "Our tent blew away and we were soaking wet.",
+          "Finally, a farmer let us sleep in his barn."
+        ],
+        "distractors": [
+          "I look forward to hearing from you."
+        ],
+        "explanation": "Tło, problem, skutek, rozwiązanie. Formułka z listu nie pasuje."
+      },
+      {
+        "id": "b1-writing-story-2-07",
+        "type": "error",
+        "prompt": "I was very embarrassing when I fell over in the street.",
+        "answer": [
+          "embarrassing",
+          "embarrassed"
+        ],
+        "explanation": "Uczucie: -ed (embarrassed)."
+      },
+      {
+        "id": "b1-writing-story-2-08",
+        "type": "translate",
+        "prompt": "Ku mojemu zaskoczeniu drzwi były otwarte.",
+        "answer": "To my surprise, the door was open.",
+        "accept": [
+          "To my surprise the door was open."
+        ],
+        "explanation": "To my surprise."
+      },
+      {
+        "id": "b1-writing-story-2-09",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „after”, użyj Past Perfect.\nShe finished her homework. She went out.",
+        "answer": "After she had finished her homework, she went out.",
+        "accept": [
+          "She went out after she had finished her homework.",
+          "After she had finished her homework she went out."
+        ],
+        "explanation": "After + Past Perfect."
+      },
+      {
+        "id": "b1-writing-story-2-10",
+        "type": "choice",
+        "prompt": "Which ending is best for a story?",
+        "answer": "I'll never forget that day.",
+        "distractors": [
+          "Firstly, I disagree.",
+          "Dear Sir or Madam,"
+        ],
+        "explanation": "Zakończenie z refleksją."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-story-3",
+    "topicId": "b1-writing-story",
+    "exercises": [
+      {
+        "id": "b1-writing-story-3-01",
+        "type": "match",
+        "prompt": "Połącz czas z funkcją.",
+        "answer": [
+          "Past Simple|kolejne zdarzenia",
+          "Past Continuous|tło, czynność w toku",
+          "Past Perfect|coś wcześniejszego"
+        ],
+        "explanation": "Czasy w opowiadaniu."
+      },
+      {
+        "id": "b1-writing-story-3-02",
+        "type": "choice",
+        "prompt": "It was a sunny morning. Birds ___.",
+        "answer": "were singing",
+        "distractors": [
+          "sang were",
+          "are singing"
+        ],
+        "explanation": "Tło: Past Continuous."
+      },
+      {
+        "id": "b1-writing-story-3-03",
+        "type": "choice",
+        "prompt": "\"Help!\" she ___.",
+        "answer": "shouted",
+        "distractors": [
+          "was shout",
+          "shouting"
+        ],
+        "explanation": "Past Simple: shouted."
+      },
+      {
+        "id": "b1-writing-story-3-04",
+        "type": "cloze",
+        "prompt": "I ran ___ fast as I could. (tak)",
+        "answer": "as",
+        "explanation": "As fast as I could."
+      },
+      {
+        "id": "b1-writing-story-3-05",
+        "type": "cloze",
+        "prompt": "When we arrived, the film had already ___. (start)",
+        "answer": "started",
+        "explanation": "Past Perfect: had started."
+      },
+      {
+        "id": "b1-writing-story-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż opowiadanie.",
+        "answer": [
+          "Tom was late for the most important exam of his life.",
+          "He ran to the bus stop, but the bus had just left.",
+          "Just then, his neighbour stopped her car and offered him a lift.",
+          "He arrived two minutes before the exam started."
+        ],
+        "distractors": [
+          "To sum up, there are advantages and disadvantages."
+        ],
+        "explanation": "Problem, przeszkoda, zwrot akcji, rozwiązanie. Zdanie z rozprawki nie pasuje."
+      },
+      {
+        "id": "b1-writing-story-3-07",
+        "type": "error",
+        "prompt": "When I arrived at the party, everyone has already left.",
+        "answer": [
+          "has",
+          "had"
+        ],
+        "explanation": "Past Perfect: had left."
+      },
+      {
+        "id": "b1-writing-story-3-08",
+        "type": "translate",
+        "prompt": "Byłem przerażony.",
+        "answer": "I was terrified.",
+        "accept": [
+          "I was really scared.",
+          "I was very scared.",
+          "I was very frightened.",
+          "I was really frightened."
+        ],
+        "explanation": "Mocny przymiotnik: terrified."
+      },
+      {
+        "id": "b1-writing-story-3-09",
+        "type": "transform",
+        "prompt": "Zacznij od „Suddenly”.\nThe lights went out.",
+        "answer": "Suddenly, the lights went out.",
+        "accept": [
+          "Suddenly the lights went out."
+        ],
+        "explanation": "Suddenly – zwrot akcji."
+      },
+      {
+        "id": "b1-writing-story-3-10",
+        "type": "choice",
+        "prompt": "How can you make a story more interesting?",
+        "answer": "add a short dialogue",
+        "distractors": [
+          "write only one paragraph",
+          "use only \"nice\" and \"good\""
+        ],
+        "explanation": "Dialog ożywia tekst."
+      }
+    ]
+  }
+]

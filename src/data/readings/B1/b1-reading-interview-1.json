@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-interview-1",
+  "topicId": "b1-reading-interview",
+  "title": "From office to farm",
+  "text": "Three years ago, Agnieszka Malinowska left her job in a bank in Warsaw and moved to a small farm in the mountains. Now she makes cheese and runs workshops for visitors. We asked her about her new life.\n\nWhy did you decide to change your life so completely?\nI was working twelve hours a day and I felt exhausted all the time. One weekend I visited a friend's farm and helped her make cheese. I felt calm for the first time in years. On the train back to Warsaw, I started making plans.\n\nWas it difficult at the beginning?\nVery! I knew nothing about animals. In the first winter, the water pipes froze and two of my goats got ill. I almost gave up. But my neighbours helped me a lot – they taught me everything from milking to fixing fences.\n\nWhat does a typical day look like?\nI get up at five and milk the goats. Then I work in the cheese room until lunch. In the afternoon I do paperwork or prepare for workshops. In summer, groups come almost every weekend to learn how to make cheese.\n\nDo you earn as much as before?\nNo, not even half. But I spend much less, too. I don't need expensive clothes or taxis, and I grow most of my vegetables.\n\nDo you ever miss the city?\nSometimes I miss the cinemas and my friends. But I don't miss the traffic or the stress. When I look out of my window in the morning and see the mountains, I know I made the right decision.\n\nWhat advice would you give to people who dream of a similar change?\nDon't do it in a hurry. Try it first – spend a few weeks on a farm. And save some money before you start!",
+  "exercises": [
+    {
+      "id": "b1-reading-interview-1-01",
+      "type": "choice",
+      "prompt": "Agnieszka used to work in a bank.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...left her job in a bank in Warsaw...”"
+    },
+    {
+      "id": "b1-reading-interview-1-02",
+      "type": "choice",
+      "prompt": "Agnieszka knew a lot about animals before she moved.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„I knew nothing about animals.”"
+    },
+    {
+      "id": "b1-reading-interview-1-03",
+      "type": "choice",
+      "prompt": "Agnieszka has got a husband.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o rodzinie."
+    },
+    {
+      "id": "b1-reading-interview-1-04",
+      "type": "choice",
+      "prompt": "What made Agnieszka think about changing her life?",
+      "answer": "a weekend on a friend's farm",
+      "distractors": [
+        "a film about farms",
+        "losing her job"
+      ],
+      "explanation": "„One weekend I visited a friend's farm...”"
+    },
+    {
+      "id": "b1-reading-interview-1-05",
+      "type": "choice",
+      "prompt": "Who helped her in the first winter?",
+      "answer": "her neighbours",
+      "distractors": [
+        "her family",
+        "a vet from Warsaw"
+      ],
+      "explanation": "„...my neighbours helped me a lot...”"
+    },
+    {
+      "id": "b1-reading-interview-1-06",
+      "type": "choice",
+      "prompt": "What does she say about money?",
+      "answer": "She earns less but also spends less.",
+      "distractors": [
+        "She earns more than before.",
+        "She has no money problems at all."
+      ],
+      "explanation": "„No, not even half. But I spend much less, too.”"
+    },
+    {
+      "id": "b1-reading-interview-1-07",
+      "type": "choice",
+      "prompt": "What is her advice?",
+      "answer": "Try farm life before making the change.",
+      "distractors": [
+        "Never leave the city.",
+        "Buy many animals at the start."
+      ],
+      "explanation": "„Try it first – spend a few weeks on a farm.”"
+    },
+    {
+      "id": "b1-reading-interview-1-08",
+      "type": "cloze",
+      "prompt": "In the first winter, the water pipes ___. (zamarzły)",
+      "answer": "froze",
+      "explanation": "Freeze → froze."
+    },
+    {
+      "id": "b1-reading-interview-1-09",
+      "type": "cloze",
+      "prompt": "They taught me everything from milking to fixing ___. (płoty)",
+      "answer": "fences",
+      "explanation": "Płot: fence."
+    },
+    {
+      "id": "b1-reading-interview-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "exhausted|wyczerpany",
+        "give up|poddać się",
+        "paperwork|papierkowa robota",
+        "earn|zarabiać"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

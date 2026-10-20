@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-story-1",
+  "topicId": "b1-reading-story",
+  "title": "The interview",
+  "text": "Maja had never felt so nervous. It was the morning of her first real job interview, at a design company in the centre of Kraków. She had prepared for days: she had read everything about the company, practised her answers with her flatmate and ironed her best white shirt.\n\nShe left home early, but when she was waiting at the tram stop, it started to rain heavily. She didn't have an umbrella. By the time the tram arrived, her hair was wet and her white shirt was not so white any more – a passing car had splashed muddy water all over her.\n\nMaja almost went home. \"They'll never give me the job now,\" she thought. But then she remembered something her grandmother always said: \"People remember how you behave, not how you look.\" So she took a deep breath and went to the interview.\n\nThe receptionist looked at her with surprise and gave her a towel and a cup of tea. When Maja walked into the meeting room, she smiled and said, \"I'm sorry about my appearance. Let's just say the weather didn't want me to get this job.\" The three people on the other side of the table laughed.\n\nThe interview went better than she had expected. She talked about her ideas, showed her portfolio and asked good questions. At the end, the manager shook her hand. \"Anyone who can stay calm after a morning like that,\" he said, \"can deal with our clients.\"\n\nA week later, Maja got an email. She had the job. On her first day, she brought an umbrella – and a spare shirt.",
+  "exercises": [
+    {
+      "id": "b1-reading-story-1-01",
+      "type": "choice",
+      "prompt": "Maja had prepared for the interview.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„She had prepared for days...”"
+    },
+    {
+      "id": "b1-reading-story-1-02",
+      "type": "choice",
+      "prompt": "Maja's flatmate went with her to the interview.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Współlokatorka pomogła jej ćwiczyć odpowiedzi, ale nie poszła z nią."
+    },
+    {
+      "id": "b1-reading-story-1-03",
+      "type": "choice",
+      "prompt": "Maja's grandmother worked at the company.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "b1-reading-story-1-04",
+      "type": "choice",
+      "prompt": "Why was Maja's shirt dirty?",
+      "answer": "A car splashed muddy water on her.",
+      "distractors": [
+        "She dropped her tea.",
+        "She fell in the street."
+      ],
+      "explanation": "„...a passing car had splashed muddy water all over her.”"
+    },
+    {
+      "id": "b1-reading-story-1-05",
+      "type": "choice",
+      "prompt": "Why didn't Maja go home?",
+      "answer": "She remembered her grandmother's words.",
+      "distractors": [
+        "The receptionist called her.",
+        "The rain stopped."
+      ],
+      "explanation": "Przypomniała sobie słowa babci."
+    },
+    {
+      "id": "b1-reading-story-1-06",
+      "type": "choice",
+      "prompt": "How did Maja start the interview?",
+      "answer": "She made a joke about the weather.",
+      "distractors": [
+        "She asked for a new date.",
+        "She showed her portfolio immediately."
+      ],
+      "explanation": "„...the weather didn't want me to get this job.”"
+    },
+    {
+      "id": "b1-reading-story-1-07",
+      "type": "choice",
+      "prompt": "Why did the manager like Maja?",
+      "answer": "She stayed calm in a difficult situation.",
+      "distractors": [
+        "She was the youngest candidate.",
+        "She knew his family."
+      ],
+      "explanation": "„Anyone who can stay calm after a morning like that...”"
+    },
+    {
+      "id": "b1-reading-story-1-08",
+      "type": "cloze",
+      "prompt": "She took a deep ___ and went to the interview.",
+      "answer": "breath",
+      "explanation": "Wziąć głęboki oddech: take a deep breath."
+    },
+    {
+      "id": "b1-reading-story-1-09",
+      "type": "cloze",
+      "prompt": "On her first day, she brought an umbrella – and a ___ shirt.",
+      "answer": "spare",
+      "explanation": "Zapasowy: spare."
+    },
+    {
+      "id": "b1-reading-story-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "nervous|zdenerwowany",
+        "splash|ochlapać",
+        "appearance|wygląd",
+        "deal with|radzić sobie z"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

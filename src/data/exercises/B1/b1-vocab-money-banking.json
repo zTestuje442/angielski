@@ -1,0 +1,346 @@
+[
+  {
+    "id": "b1-vocab-money-banking-1",
+    "topicId": "b1-vocab-money-banking",
+    "exercises": [
+      {
+        "id": "b1-vocab-money-banking-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "withdraw|wypłacić",
+          "afford|być stać",
+          "owe|być winnym",
+          "receipt|paragon"
+        ],
+        "explanation": "Pieniądze."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-02",
+        "type": "cloze",
+        "prompt": "I spend a lot of money ___ clothes.",
+        "answer": "on",
+        "explanation": "Spend money on."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-03",
+        "type": "cloze",
+        "prompt": "I'm saving ___ for a new car.",
+        "answer": "up",
+        "explanation": "Save up for."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-04",
+        "type": "choice",
+        "prompt": "I can't ___ a new phone. It's too expensive.",
+        "answer": "afford",
+        "distractors": [
+          "allow",
+          "afraid"
+        ],
+        "explanation": "Afford."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-05",
+        "type": "choice",
+        "prompt": "Can I pay ___ card?",
+        "answer": "by",
+        "distractors": [
+          "with the",
+          "on"
+        ],
+        "explanation": "Pay by card."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-06",
+        "type": "error",
+        "prompt": "Can you borrow me 50 złoty?",
+        "answer": [
+          "borrow",
+          "lend"
+        ],
+        "explanation": "Pożyczyć komuś: lend."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-07",
+        "type": "tiles",
+        "prompt": "Muszę wypłacić pieniądze z bankomatu.",
+        "answer": [
+          "I",
+          "need",
+          "to",
+          "withdraw",
+          "money",
+          "from",
+          "the",
+          "cash",
+          "machine"
+        ],
+        "distractors": [
+          "withdrawal",
+          "pay"
+        ],
+        "explanation": "Withdraw money."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-08",
+        "type": "translate",
+        "prompt": "Ile jestem ci winien?",
+        "answer": "How much do I owe you?",
+        "explanation": "Owe."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-09",
+        "type": "choice",
+        "prompt": "A machine that gives you money is a ___.",
+        "answer": "cash machine",
+        "distractors": [
+          "money machine office",
+          "bank account"
+        ],
+        "explanation": "Bankomat: cash machine / ATM."
+      },
+      {
+        "id": "b1-vocab-money-banking-1-10",
+        "type": "transform",
+        "prompt": "Zamień „lend” na „borrow”, zacznij od „I borrowed”.\nMy brother lent me 100 złoty.",
+        "answer": "I borrowed 100 złoty from my brother.",
+        "explanation": "Borrow from."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-money-banking-2",
+    "topicId": "b1-vocab-money-banking",
+    "exercises": [
+      {
+        "id": "b1-vocab-money-banking-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "bank account|konto bankowe",
+          "transfer|przelew",
+          "interest|odsetki",
+          "statement|wyciąg"
+        ],
+        "explanation": "Bank."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-02",
+        "type": "cloze",
+        "prompt": "I'd like to open a bank ___. (konto)",
+        "answer": "account",
+        "explanation": "Bank account."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-03",
+        "type": "cloze",
+        "prompt": "Don't ___ your money on things you don't need! (marnuj)",
+        "answer": "waste",
+        "explanation": "Waste money."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-04",
+        "type": "choice",
+        "prompt": "Here's your ___ – 15 złoty.",
+        "answer": "change",
+        "distractors": [
+          "exchange",
+          "rest"
+        ],
+        "explanation": "Reszta: change."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-05",
+        "type": "choice",
+        "prompt": "I'll pay you ___ next week.",
+        "answer": "back",
+        "distractors": [
+          "off",
+          "up"
+        ],
+        "explanation": "Pay back."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-06",
+        "type": "error",
+        "prompt": "I paid in card at the restaurant.",
+        "answer": [
+          "in",
+          "by"
+        ],
+        "explanation": "Pay by card (ale pay in cash)."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-07",
+        "type": "tiles",
+        "prompt": "Przelałem pieniądze na twoje konto.",
+        "answer": [
+          "I",
+          "transferred",
+          "the",
+          "money",
+          "to",
+          "your",
+          "account"
+        ],
+        "distractors": [
+          "transfering",
+          "at"
+        ],
+        "explanation": "Transfer to."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-08",
+        "type": "translate",
+        "prompt": "Nie stać mnie na to.",
+        "answer": "I can't afford it.",
+        "accept": [
+          "I cannot afford it.",
+          "I can't afford that.",
+          "I cannot afford that."
+        ],
+        "explanation": "Can't afford."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-09",
+        "type": "choice",
+        "prompt": "80 euro for a sandwich? That's a ___!",
+        "answer": "rip-off",
+        "distractors": [
+          "bargain",
+          "discount"
+        ],
+        "explanation": "Zdzierstwo: rip-off."
+      },
+      {
+        "id": "b1-vocab-money-banking-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „How much”.\nThe ticket costs 20 złoty.",
+        "answer": "How much does the ticket cost?",
+        "explanation": "How much does... cost?"
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-money-banking-3",
+    "topicId": "b1-vocab-money-banking",
+    "exercises": [
+      {
+        "id": "b1-vocab-money-banking-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "bargain|okazja",
+          "discount|zniżka",
+          "in cash|gotówką",
+          "save|oszczędzać"
+        ],
+        "explanation": "Zakupy i płacenie."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-02",
+        "type": "cloze",
+        "prompt": "This jacket was only 50 złoty. What a ___! (okazja)",
+        "answer": "bargain",
+        "explanation": "Bargain."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-03",
+        "type": "cloze",
+        "prompt": "I don't have a card. Can I pay in ___? (gotówką)",
+        "answer": "cash",
+        "explanation": "Pay in cash."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-04",
+        "type": "choice",
+        "prompt": "Students get a 20% ___.",
+        "answer": "discount",
+        "distractors": [
+          "receipt",
+          "interest"
+        ],
+        "explanation": "Zniżka: discount."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-05",
+        "type": "choice",
+        "prompt": "I ___ my friend 30 złoty for the concert ticket.",
+        "answer": "owe",
+        "distractors": [
+          "borrow",
+          "lend from"
+        ],
+        "explanation": "Owe somebody money."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-06",
+        "type": "error",
+        "prompt": "I borrowed money of my sister.",
+        "answer": [
+          "of",
+          "from"
+        ],
+        "explanation": "Borrow from."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-07",
+        "type": "tiles",
+        "prompt": "Ile wydajesz na jedzenie?",
+        "answer": [
+          "How",
+          "much",
+          "do",
+          "you",
+          "spend",
+          "on",
+          "food"
+        ],
+        "distractors": [
+          "for",
+          "spending"
+        ],
+        "explanation": "Spend on."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-08",
+        "type": "translate",
+        "prompt": "Czy mogę dostać paragon?",
+        "answer": "Can I have the receipt, please?",
+        "accept": [
+          "Can I have a receipt, please?",
+          "Could I have the receipt, please?",
+          "Could I have a receipt, please?",
+          "Can I have the receipt?",
+          "Can I have a receipt?",
+          "Could I have a receipt?"
+        ],
+        "explanation": "Receipt."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Could you lend me some money?",
+        "distractors": [
+          "Could you borrow me some money?",
+          "Could you lend me some moneys?"
+        ],
+        "explanation": "Lend somebody money."
+      },
+      {
+        "id": "b1-vocab-money-banking-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „wasn't able to buy” wyrażeniem z „afford”, zacznij od „I couldn't”.\nI wasn't able to buy the car because it was too expensive.",
+        "answer": "I couldn't afford the car.",
+        "accept": [
+          "I couldn't afford the car because it was too expensive.",
+          "I could not afford the car.",
+          "I could not afford the car because it was too expensive."
+        ],
+        "explanation": "Couldn't afford."
+      }
+    ]
+  }
+]

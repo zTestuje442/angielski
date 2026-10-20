@@ -1,0 +1,346 @@
+[
+  {
+    "id": "b1-writing-review-1",
+    "topicId": "b1-writing-review",
+    "exercises": [
+      {
+        "id": "b1-writing-review-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "It's set in...|Akcja dzieje się w...",
+          "The best thing about it is...|Najlepsze jest...",
+          "I'd recommend it to...|Poleciłbym to...",
+          "It's worth seeing.|Warto zobaczyć."
+        ],
+        "explanation": "Zwroty recenzji."
+      },
+      {
+        "id": "b1-writing-review-1-02",
+        "type": "choice",
+        "prompt": "The film is ___ a girl who travels back in time.",
+        "answer": "about",
+        "distractors": [
+          "of",
+          "on"
+        ],
+        "explanation": "Be about."
+      },
+      {
+        "id": "b1-writing-review-1-03",
+        "type": "choice",
+        "prompt": "The story is very ___. I knew the ending after ten minutes.",
+        "answer": "predictable",
+        "distractors": [
+          "exciting",
+          "moving"
+        ],
+        "explanation": "Przewidywalny: predictable."
+      },
+      {
+        "id": "b1-writing-review-1-04",
+        "type": "cloze",
+        "prompt": "The film is ___ in New York in the 1920s. (akcja dzieje się)",
+        "answer": "set",
+        "explanation": "Be set in."
+      },
+      {
+        "id": "b1-writing-review-1-05",
+        "type": "cloze",
+        "prompt": "I'd definitely ___ it to anyone who likes comedies. (polecić)",
+        "answer": "recommend",
+        "explanation": "Recommend."
+      },
+      {
+        "id": "b1-writing-review-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż recenzję.",
+        "answer": [
+          "Last weekend I watched the new Polish comedy, Wakacje.",
+          "It's about a family who win a holiday in Spain.",
+          "The actors are brilliant, but the ending is a bit predictable.",
+          "I'd recommend it to anyone who wants to laugh."
+        ],
+        "distractors": [
+          "Dear Sir or Madam,"
+        ],
+        "explanation": "Wstęp, fabuła, ocena, rekomendacja. Formalne powitanie nie pasuje."
+      },
+      {
+        "id": "b1-writing-review-1-07",
+        "type": "error",
+        "prompt": "The film was so bored that I fell asleep.",
+        "answer": [
+          "bored",
+          "boring"
+        ],
+        "explanation": "Cecha filmu: -ing (boring)."
+      },
+      {
+        "id": "b1-writing-review-1-08",
+        "type": "translate",
+        "prompt": "Warto przeczytać tę książkę.",
+        "answer": "This book is worth reading.",
+        "accept": [
+          "The book is worth reading.",
+          "It's worth reading this book.",
+          "It is worth reading this book."
+        ],
+        "explanation": "Worth + -ing."
+      },
+      {
+        "id": "b1-writing-review-1-09",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „However”.\nThe food was delicious. The service was slow.",
+        "answer": "The food was delicious. However, the service was slow.",
+        "accept": [
+          "The food was delicious; however, the service was slow.",
+          "The food was delicious. However the service was slow."
+        ],
+        "explanation": "However – kontrast."
+      },
+      {
+        "id": "b1-writing-review-1-10",
+        "type": "choice",
+        "prompt": "Which sentence gives a recommendation?",
+        "answer": "Don't miss it!",
+        "distractors": [
+          "It started at 8 p.m.",
+          "The director is French."
+        ],
+        "explanation": "Rekomendacja."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-review-2",
+    "topicId": "b1-writing-review",
+    "exercises": [
+      {
+        "id": "b1-writing-review-2-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "moving|wzruszający",
+          "overpriced|przepłacony, za drogi",
+          "cosy|przytulny",
+          "gripping|wciągający"
+        ],
+        "explanation": "Przymiotniki w recenzjach."
+      },
+      {
+        "id": "b1-writing-review-2-02",
+        "type": "choice",
+        "prompt": "The restaurant is small but very ___.",
+        "answer": "cosy",
+        "distractors": [
+          "predictable",
+          "overpriced of"
+        ],
+        "explanation": "Przytulny: cosy."
+      },
+      {
+        "id": "b1-writing-review-2-03",
+        "type": "choice",
+        "prompt": "The only problem ___ the price.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "has"
+        ],
+        "explanation": "The only problem is..."
+      },
+      {
+        "id": "b1-writing-review-2-04",
+        "type": "cloze",
+        "prompt": "If you like action films, you'll ___ it! (pokochasz)",
+        "answer": "love",
+        "explanation": "You'll love it."
+      },
+      {
+        "id": "b1-writing-review-2-05",
+        "type": "cloze",
+        "prompt": "The ending was so ___ that I cried. (wzruszający)",
+        "answer": "moving",
+        "explanation": "Moving."
+      },
+      {
+        "id": "b1-writing-review-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż recenzję restauracji.",
+        "answer": [
+          "Pod Lipą is a new restaurant in the old town.",
+          "It's cosy and the staff are very friendly.",
+          "The pierogi are delicious, but the desserts are overpriced.",
+          "It's definitely worth a visit."
+        ],
+        "distractors": [
+          "Write back soon!"
+        ],
+        "explanation": "Wstęp, atmosfera, jedzenie, rekomendacja. Zwrot z listu nie pasuje."
+      },
+      {
+        "id": "b1-writing-review-2-07",
+        "type": "error",
+        "prompt": "I recommend this book for all teenagers.",
+        "answer": [
+          "for",
+          "to"
+        ],
+        "explanation": "Recommend something to somebody."
+      },
+      {
+        "id": "b1-writing-review-2-08",
+        "type": "translate",
+        "prompt": "Najlepsza w tym filmie jest muzyka.",
+        "answer": "The best thing about the film is the music.",
+        "accept": [
+          "The best thing about this film is the music.",
+          "The best thing in the film is the music."
+        ],
+        "explanation": "The best thing about... is..."
+      },
+      {
+        "id": "b1-writing-review-2-09",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z „worth”, zacznij od „The museum is”.\nYou should visit the museum.",
+        "answer": "The museum is worth visiting.",
+        "accept": [
+          "The museum is worth a visit."
+        ],
+        "explanation": "Worth + -ing."
+      },
+      {
+        "id": "b1-writing-review-2-10",
+        "type": "choice",
+        "prompt": "A review should NOT...",
+        "answer": "tell the ending of the story",
+        "distractors": [
+          "give an opinion",
+          "describe what it is about"
+        ],
+        "explanation": "Bez spoilerów."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-review-3",
+    "topicId": "b1-writing-review",
+    "exercises": [
+      {
+        "id": "b1-writing-review-3-01",
+        "type": "match",
+        "prompt": "Połącz część z treścią.",
+        "answer": [
+          "Introduction|co to jest",
+          "Description|o czym jest",
+          "Opinion|zalety i wady",
+          "Recommendation|komu polecasz"
+        ],
+        "explanation": "Części recenzji."
+      },
+      {
+        "id": "b1-writing-review-3-02",
+        "type": "choice",
+        "prompt": "I found the book really ___ – I couldn't stop reading.",
+        "answer": "gripping",
+        "distractors": [
+          "bored",
+          "predicted"
+        ],
+        "explanation": "Wciągający: gripping."
+      },
+      {
+        "id": "b1-writing-review-3-03",
+        "type": "choice",
+        "prompt": "___, the ending was disappointing.",
+        "answer": "However",
+        "distractors": [
+          "Because",
+          "So"
+        ],
+        "explanation": "Kontrast: However."
+      },
+      {
+        "id": "b1-writing-review-3-04",
+        "type": "cloze",
+        "prompt": "The actors were ___. (świetni)",
+        "answer": "brilliant",
+        "accept": [
+          "great",
+          "excellent",
+          "fantastic",
+          "amazing"
+        ],
+        "explanation": "Brilliant."
+      },
+      {
+        "id": "b1-writing-review-3-05",
+        "type": "cloze",
+        "prompt": "I'd give it four ___ out of five. (gwiazdki)",
+        "answer": "stars",
+        "explanation": "Four stars out of five."
+      },
+      {
+        "id": "b1-writing-review-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż recenzję gry.",
+        "answer": [
+          "Island Quest is a new adventure game for phones.",
+          "You explore a mysterious island and solve puzzles.",
+          "The graphics are amazing, although some levels are too difficult.",
+          "If you like puzzles, you'll love it."
+        ],
+        "distractors": [
+          "In conclusion, the survey shows that..."
+        ],
+        "explanation": "Wstęp, opis, ocena, rekomendacja. Zdanie z raportu nie pasuje."
+      },
+      {
+        "id": "b1-writing-review-3-07",
+        "type": "error",
+        "prompt": "The book is about a boy which lives on a farm.",
+        "answer": [
+          "which",
+          "who"
+        ],
+        "explanation": "Osoba: who."
+      },
+      {
+        "id": "b1-writing-review-3-08",
+        "type": "translate",
+        "prompt": "Polecam go każdemu, kto lubi horrory.",
+        "answer": "I recommend it to anyone who likes horror films.",
+        "accept": [
+          "I'd recommend it to anyone who likes horror films.",
+          "I would recommend it to anyone who likes horror films.",
+          "I recommend it to everyone who likes horror films.",
+          "I recommend it to anyone who likes horror movies."
+        ],
+        "explanation": "Recommend to."
+      },
+      {
+        "id": "b1-writing-review-3-09",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „although”.\nThe film is long. It is never boring.",
+        "answer": "Although the film is long, it is never boring.",
+        "accept": [
+          "The film is never boring although it is long.",
+          "Although the film is long it is never boring."
+        ],
+        "explanation": "Although – kontrast."
+      },
+      {
+        "id": "b1-writing-review-3-10",
+        "type": "choice",
+        "prompt": "Which is a good title for a review?",
+        "answer": "A funny film with a weak ending",
+        "distractors": [
+          "Dear Sir",
+          "My plans for the weekend"
+        ],
+        "explanation": "Tytuł zapowiada ocenę."
+      }
+    ]
+  }
+]

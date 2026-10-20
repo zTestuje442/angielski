@@ -1,0 +1,340 @@
+[
+  {
+    "id": "b1-vocab-crime-law-1",
+    "topicId": "b1-vocab-crime-law",
+    "exercises": [
+      {
+        "id": "b1-vocab-crime-law-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "thief|złodziej",
+          "burglar|włamywacz",
+          "witness|świadek",
+          "judge|sędzia"
+        ],
+        "explanation": "Ludzie i przestępstwa."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-02",
+        "type": "cloze",
+        "prompt": "Someone ___ my bike last night. (ukradł)",
+        "answer": "stole",
+        "explanation": "Steal → stole."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-03",
+        "type": "cloze",
+        "prompt": "The police ___ the man at the airport. (aresztowała)",
+        "answer": "arrested",
+        "explanation": "Arrest."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-04",
+        "type": "choice",
+        "prompt": "Two men ___ a bank in the city centre.",
+        "answer": "robbed",
+        "distractors": [
+          "stole",
+          "thieved"
+        ],
+        "explanation": "Rob a bank."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-05",
+        "type": "choice",
+        "prompt": "The court decided he was ___ and sent him to prison.",
+        "answer": "guilty",
+        "distractors": [
+          "innocent",
+          "guilt"
+        ],
+        "explanation": "Winny: guilty."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-06",
+        "type": "error",
+        "prompt": "The police is looking for the thief.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "The police – l. mn.: are."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-07",
+        "type": "tiles",
+        "prompt": "Ktoś włamał się do naszego domu.",
+        "answer": [
+          "Someone",
+          "broke",
+          "into",
+          "our",
+          "house"
+        ],
+        "distractors": [
+          "stole",
+          "in"
+        ],
+        "explanation": "Break into."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-08",
+        "type": "translate",
+        "prompt": "Dostał mandat za szybką jazdę.",
+        "answer": "He got a fine for speeding.",
+        "accept": [
+          "He got a speeding fine.",
+          "He was fined for speeding.",
+          "He got a ticket for speeding.",
+          "He got a speeding ticket."
+        ],
+        "explanation": "A fine for."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-09",
+        "type": "choice",
+        "prompt": "A person who sees a crime is a ___.",
+        "answer": "witness",
+        "distractors": [
+          "judge",
+          "lawyer"
+        ],
+        "explanation": "Świadek: witness."
+      },
+      {
+        "id": "b1-vocab-crime-law-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „My car”.\nSomeone stole my car.",
+        "answer": "My car was stolen.",
+        "explanation": "Was stolen."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-crime-law-2",
+    "topicId": "b1-vocab-crime-law",
+    "exercises": [
+      {
+        "id": "b1-vocab-crime-law-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "theft|kradzież",
+          "robbery|napad",
+          "burglary|włamanie",
+          "shoplifting|kradzież sklepowa"
+        ],
+        "explanation": "Przestępstwa."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-02",
+        "type": "cloze",
+        "prompt": "He was sentenced ___ five years in prison.",
+        "answer": "to",
+        "explanation": "Sentence somebody to."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-03",
+        "type": "cloze",
+        "prompt": "I didn't do it! I'm ___! (niewinny)",
+        "answer": "innocent",
+        "explanation": "Niewinny: innocent."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-04",
+        "type": "choice",
+        "prompt": "A person who steals from shops is a ___.",
+        "answer": "shoplifter",
+        "distractors": [
+          "robber",
+          "burglar"
+        ],
+        "explanation": "Shoplifter."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-05",
+        "type": "choice",
+        "prompt": "Thousands of people ___ crimes every year.",
+        "answer": "commit",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Commit a crime."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-06",
+        "type": "error",
+        "prompt": "The burglar robbed my laptop.",
+        "answer": [
+          "robbed",
+          "stole"
+        ],
+        "explanation": "Steal something; rob somebody."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-07",
+        "type": "tiles",
+        "prompt": "Sędzia skazał go na rok więzienia.",
+        "answer": [
+          "The",
+          "judge",
+          "sentenced",
+          "him",
+          "to",
+          "one",
+          "year",
+          "in",
+          "prison"
+        ],
+        "distractors": [
+          "for",
+          "jail's"
+        ],
+        "explanation": "Sentence to."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-08",
+        "type": "translate",
+        "prompt": "Policja aresztowała złodzieja.",
+        "answer": "The police arrested the thief.",
+        "explanation": "Arrest."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-09",
+        "type": "choice",
+        "prompt": "Breaking windows and painting on walls is ___.",
+        "answer": "vandalism",
+        "distractors": [
+          "burglary",
+          "murder"
+        ],
+        "explanation": "Wandalizm: vandalism."
+      },
+      {
+        "id": "b1-vocab-crime-law-2-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The thief”.\nThe police caught the thief.",
+        "answer": "The thief was caught by the police.",
+        "accept": [
+          "The thief was caught."
+        ],
+        "explanation": "Was caught."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-crime-law-3",
+    "topicId": "b1-vocab-crime-law",
+    "exercises": [
+      {
+        "id": "b1-vocab-crime-law-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "fine|grzywna, mandat",
+          "prison|więzienie",
+          "court|sąd",
+          "lawyer|prawnik"
+        ],
+        "explanation": "Prawo."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-02",
+        "type": "cloze",
+        "prompt": "The ___ broke into the house at night. (włamywacz)",
+        "answer": "burglar",
+        "explanation": "Burglar."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-03",
+        "type": "cloze",
+        "prompt": "You have to pay a ___ if you park here. (mandat)",
+        "answer": "fine",
+        "explanation": "Fine."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-04",
+        "type": "choice",
+        "prompt": "The jury said she was not ___.",
+        "answer": "guilty",
+        "distractors": [
+          "guilt",
+          "guiltiness"
+        ],
+        "explanation": "Guilty."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-05",
+        "type": "choice",
+        "prompt": "Somebody ___ my wallet on the bus!",
+        "answer": "stole",
+        "distractors": [
+          "robbed",
+          "thieved"
+        ],
+        "explanation": "Steal → stole."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-06",
+        "type": "error",
+        "prompt": "The robbers stole the bank and escaped in a black car.",
+        "answer": [
+          "stole",
+          "robbed"
+        ],
+        "explanation": "Rob a bank."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-07",
+        "type": "tiles",
+        "prompt": "Czy widziałeś, co się stało?",
+        "answer": [
+          "Did",
+          "you",
+          "see",
+          "what",
+          "happened"
+        ],
+        "distractors": [
+          "happen",
+          "was"
+        ],
+        "explanation": "Pytanie do świadka."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-08",
+        "type": "translate",
+        "prompt": "Ktoś ukradł mój telefon.",
+        "answer": "Someone stole my phone.",
+        "accept": [
+          "Somebody stole my phone.",
+          "My phone was stolen.",
+          "Someone has stolen my phone.",
+          "Somebody has stolen my phone.",
+          "My phone has been stolen."
+        ],
+        "explanation": "Steal → stole."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-09",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "They robbed an old man.",
+        "distractors": [
+          "They stole an old man.",
+          "They robbed money from the bank's."
+        ],
+        "explanation": "Rob somebody."
+      },
+      {
+        "id": "b1-vocab-crime-law-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThe police found the stolen car.",
+        "answer": "Did the police find the stolen car?",
+        "explanation": "Did + find."
+      }
+    ]
+  }
+]

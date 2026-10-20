@@ -1,0 +1,366 @@
+[
+  {
+    "id": "b1-sent-cause-result-1",
+    "topicId": "b1-sent-cause-result",
+    "exercises": [
+      {
+        "id": "b1-sent-cause-result-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z użyciem.",
+        "answer": [
+          "because|ponieważ (+ zdanie)",
+          "because of|z powodu (+ rzeczownik)",
+          "so|więc",
+          "as a result|w rezultacie"
+        ],
+        "explanation": "Przyczyna i skutek."
+      },
+      {
+        "id": "b1-sent-cause-result-1-02",
+        "type": "cloze",
+        "prompt": "I was late ___ the traffic. (z powodu)",
+        "answer": "because of",
+        "accept": [
+          "due to"
+        ],
+        "explanation": "Because of + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-1-03",
+        "type": "cloze",
+        "prompt": "It was raining, ___ we stayed at home. (więc)",
+        "answer": "so",
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "b1-sent-cause-result-1-04",
+        "type": "choice",
+        "prompt": "___ it was late, we took a taxi.",
+        "answer": "As",
+        "distractors": [
+          "So",
+          "Because of"
+        ],
+        "explanation": "As + zdanie = ponieważ."
+      },
+      {
+        "id": "b1-sent-cause-result-1-05",
+        "type": "choice",
+        "prompt": "It was ___ a good film that I watched it twice.",
+        "answer": "such",
+        "distractors": [
+          "so",
+          "very"
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-1-06",
+        "type": "error",
+        "prompt": "The flight was cancelled because of the storm, so we stay at the airport all night.",
+        "answer": [
+          "stay",
+          "stayed"
+        ],
+        "explanation": "Przeszłość: stayed."
+      },
+      {
+        "id": "b1-sent-cause-result-1-07",
+        "type": "tiles",
+        "prompt": "Byłem zmęczony więc poszedłem spać.",
+        "answer": [
+          "I",
+          "was",
+          "tired",
+          "so",
+          "I",
+          "went",
+          "to",
+          "bed"
+        ],
+        "distractors": [
+          "such",
+          "that's"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "b1-sent-cause-result-1-08",
+        "type": "translate",
+        "prompt": "Zostaliśmy w domu z powodu deszczu.",
+        "answer": "We stayed at home because of the rain.",
+        "accept": [
+          "We stayed home because of the rain.",
+          "We stayed at home due to the rain.",
+          "Because of the rain, we stayed at home."
+        ],
+        "explanation": "Because of + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-1-09",
+        "type": "choice",
+        "prompt": "Prices went up. ___, people bought less.",
+        "answer": "As a result",
+        "distractors": [
+          "Because",
+          "Because of"
+        ],
+        "explanation": "Skutek: As a result."
+      },
+      {
+        "id": "b1-sent-cause-result-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because”.\nShe was happy. She passed the exam.",
+        "answer": "She was happy because she passed the exam.",
+        "explanation": "Przyczyna: because."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-cause-result-2",
+    "topicId": "b1-sent-cause-result",
+    "exercises": [
+      {
+        "id": "b1-sent-cause-result-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "so ... that|tak ..., że",
+          "such a ... that|taki ..., że",
+          "that's why|dlatego",
+          "since|ponieważ"
+        ],
+        "explanation": "Przyczyna i skutek."
+      },
+      {
+        "id": "b1-sent-cause-result-2-02",
+        "type": "cloze",
+        "prompt": "The coffee was ___ hot that I couldn't drink it. (tak)",
+        "answer": "so",
+        "explanation": "So + przymiotnik + that."
+      },
+      {
+        "id": "b1-sent-cause-result-2-03",
+        "type": "cloze",
+        "prompt": "I missed the bus. That's ___ I was late.",
+        "answer": "why",
+        "explanation": "That's why."
+      },
+      {
+        "id": "b1-sent-cause-result-2-04",
+        "type": "choice",
+        "prompt": "The road was closed ___ an accident.",
+        "answer": "due to",
+        "distractors": [
+          "because",
+          "so"
+        ],
+        "explanation": "Due to + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-2-05",
+        "type": "choice",
+        "prompt": "He was ill, ___ he didn't go to work.",
+        "answer": "so",
+        "distractors": [
+          "because",
+          "because of"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "b1-sent-cause-result-2-06",
+        "type": "error",
+        "prompt": "It was so a nice day that we went to the beach.",
+        "answer": [
+          "so",
+          "such"
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-2-07",
+        "type": "tiles",
+        "prompt": "Pociąg się spóźnił dlatego się spóźniłem.",
+        "answer": [
+          "The",
+          "train",
+          "was",
+          "late",
+          "that's",
+          "why",
+          "I",
+          "was",
+          "late"
+        ],
+        "distractors": [
+          "because",
+          "what"
+        ],
+        "explanation": "That's why."
+      },
+      {
+        "id": "b1-sent-cause-result-2-08",
+        "type": "translate",
+        "prompt": "Było tak zimno, że zostaliśmy w środku.",
+        "answer": "It was so cold that we stayed inside.",
+        "accept": [
+          "It was so cold that we stayed indoors.",
+          "It was so cold we stayed inside.",
+          "It was such a cold day that we stayed inside."
+        ],
+        "explanation": "So ... that."
+      },
+      {
+        "id": "b1-sent-cause-result-2-09",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "It was such a long day.",
+        "distractors": [
+          "It was so a long day.",
+          "It was such long day."
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-2-10",
+        "type": "transform",
+        "prompt": "Zamień „because” na „so”, zacznij od „The shop was closed”.\nI didn't buy bread because the shop was closed.",
+        "answer": "The shop was closed, so I didn't buy bread.",
+        "accept": [
+          "The shop was closed so I didn't buy bread."
+        ],
+        "explanation": "Skutek: so."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-cause-result-3",
+    "topicId": "b1-sent-cause-result",
+    "exercises": [
+      {
+        "id": "b1-sent-cause-result-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "due to|z powodu",
+          "therefore|dlatego (formalnie)",
+          "as|ponieważ",
+          "such|taki"
+        ],
+        "explanation": "Słowa przyczyny i skutku."
+      },
+      {
+        "id": "b1-sent-cause-result-3-02",
+        "type": "cloze",
+        "prompt": "___ I had no money, I stayed at home. (ponieważ – na początku zdania)",
+        "answer": "As",
+        "accept": [
+          "Since",
+          "Because"
+        ],
+        "explanation": "As / Since + zdanie."
+      },
+      {
+        "id": "b1-sent-cause-result-3-03",
+        "type": "cloze",
+        "prompt": "The exam was ___ difficult that nobody passed. (tak)",
+        "answer": "so",
+        "explanation": "So + przymiotnik."
+      },
+      {
+        "id": "b1-sent-cause-result-3-04",
+        "type": "choice",
+        "prompt": "Many people lost their jobs. ___, the town became poorer.",
+        "answer": "Therefore",
+        "distractors": [
+          "Because",
+          "Due to"
+        ],
+        "explanation": "Skutek, formalnie: Therefore."
+      },
+      {
+        "id": "b1-sent-cause-result-3-05",
+        "type": "choice",
+        "prompt": "She stayed in bed ___ she had a temperature.",
+        "answer": "because",
+        "distractors": [
+          "because of",
+          "so"
+        ],
+        "explanation": "Because + zdanie."
+      },
+      {
+        "id": "b1-sent-cause-result-3-06",
+        "type": "error",
+        "prompt": "We couldn't play tennis because it rain.",
+        "answer": [
+          "rain",
+          "rained"
+        ],
+        "explanation": "Przeszłość: it rained / it was raining."
+      },
+      {
+        "id": "b1-sent-cause-result-3-07",
+        "type": "tiles",
+        "prompt": "To była tak dobra książka, że przeczytałem ją w jeden dzień.",
+        "answer": [
+          "It",
+          "was",
+          "such",
+          "a",
+          "good",
+          "book",
+          "that",
+          "I",
+          "read",
+          "it",
+          "in",
+          "one",
+          "day"
+        ],
+        "distractors": [
+          "so",
+          "much"
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-3-08",
+        "type": "translate",
+        "prompt": "Z powodu korków spóźniłem się.",
+        "answer": "Because of the traffic, I was late.",
+        "accept": [
+          "I was late because of the traffic.",
+          "Due to the traffic, I was late.",
+          "I was late due to the traffic.",
+          "Because of the traffic jam, I was late.",
+          "I was late because of the traffic jam."
+        ],
+        "explanation": "Because of + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-3-09",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "The match was cancelled because of the snow.",
+        "distractors": [
+          "The match was cancelled because the snow.",
+          "The match was cancelled so the snow."
+        ],
+        "explanation": "Because of + rzeczownik."
+      },
+      {
+        "id": "b1-sent-cause-result-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania wyrażeniem „so ... that”.\nThe music was very loud. We couldn't talk.",
+        "answer": "The music was so loud that we couldn't talk.",
+        "accept": [
+          "The music was so loud we couldn't talk.",
+          "The music was so loud that we could not talk."
+        ],
+        "explanation": "So ... that."
+      }
+    ]
+  }
+]

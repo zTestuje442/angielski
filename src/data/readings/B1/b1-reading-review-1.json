@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-review-1",
+  "topicId": "b1-reading-review",
+  "title": "Restaurant review: Zielona Kuchnia",
+  "text": "If you're looking for a vegetarian restaurant in Gdańsk, you have probably heard of Zielona Kuchnia. It opened last year in a small street near the old town, and it's already one of the most popular places in the city. Last Friday I finally went there with two friends to see if it deserves its reputation.\n\nFirst, the atmosphere. The restaurant is small but bright, with lots of plants, wooden tables and big windows. It was full when we arrived at 7 p.m., so I recommend booking a table, especially at weekends. The staff were friendly and explained the menu patiently – which was useful, because some dishes have quite unusual names.\n\nNow, the food. For starters, we shared beetroot hummus with homemade bread, which was delicious. For my main course I chose a mushroom risotto, and it was one of the best I have ever eaten: creamy, rich and full of flavour. My friends were less lucky. One of them ordered a vegetable curry, which was much too spicy for her, and the other said his burger was a bit dry.\n\nThe desserts, however, were perfect. The chocolate cake with raspberries is worth the visit on its own.\n\nThe only real problem was the service. Although the waiters were friendly, we waited almost forty minutes for our main courses, and nobody apologised. Prices are also quite high for a vegetarian restaurant – our dinner for three cost 380 złoty.\n\nOverall, I'd give Zielona Kuchnia four stars out of five. It's a great place for a special occasion, but don't go there if you're in a hurry.",
+  "exercises": [
+    {
+      "id": "b1-reading-review-1-01",
+      "type": "choice",
+      "prompt": "Zielona Kuchnia opened many years ago.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„It opened last year...”"
+    },
+    {
+      "id": "b1-reading-review-1-02",
+      "type": "choice",
+      "prompt": "The writer recommends booking a table.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...I recommend booking a table...”"
+    },
+    {
+      "id": "b1-reading-review-1-03",
+      "type": "choice",
+      "prompt": "The restaurant is open on Sundays.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie podaje godzin otwarcia."
+    },
+    {
+      "id": "b1-reading-review-1-04",
+      "type": "choice",
+      "prompt": "What did the writer think of the risotto?",
+      "answer": "It was excellent.",
+      "distractors": [
+        "It was too spicy.",
+        "It was dry."
+      ],
+      "explanation": "„...one of the best I have ever eaten...”"
+    },
+    {
+      "id": "b1-reading-review-1-05",
+      "type": "choice",
+      "prompt": "What was the problem with the curry?",
+      "answer": "It was too spicy.",
+      "distractors": [
+        "It was cold.",
+        "It was too small."
+      ],
+      "explanation": "„...much too spicy for her...”"
+    },
+    {
+      "id": "b1-reading-review-1-06",
+      "type": "choice",
+      "prompt": "What was the biggest problem?",
+      "answer": "slow service",
+      "distractors": [
+        "rude waiters",
+        "a dirty table"
+      ],
+      "explanation": "„...we waited almost forty minutes...”"
+    },
+    {
+      "id": "b1-reading-review-1-07",
+      "type": "choice",
+      "prompt": "Who is the restaurant good for?",
+      "answer": "people celebrating a special occasion",
+      "distractors": [
+        "people in a hurry",
+        "people who want cheap food"
+      ],
+      "explanation": "„...a great place for a special occasion...”"
+    },
+    {
+      "id": "b1-reading-review-1-08",
+      "type": "cloze",
+      "prompt": "The chocolate cake is worth the ___ on its own.",
+      "answer": "visit",
+      "explanation": "Worth the visit."
+    },
+    {
+      "id": "b1-reading-review-1-09",
+      "type": "cloze",
+      "prompt": "The staff explained the menu ___. (cierpliwie)",
+      "answer": "patiently",
+      "explanation": "Cierpliwie: patiently."
+    },
+    {
+      "id": "b1-reading-review-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "deserve|zasługiwać",
+        "reputation|reputacja",
+        "flavour|smak",
+        "occasion|okazja"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

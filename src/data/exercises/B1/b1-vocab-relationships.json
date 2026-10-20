@@ -1,0 +1,348 @@
+[
+  {
+    "id": "b1-vocab-relationships-1",
+    "topicId": "b1-vocab-relationships",
+    "exercises": [
+      {
+        "id": "b1-vocab-relationships-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "get on with|dogadywać się",
+          "fall out with|pokłócić się, poróżnić",
+          "make up|pogodzić się",
+          "keep in touch|utrzymywać kontakt"
+        ],
+        "explanation": "Phrasal verbs o relacjach."
+      },
+      {
+        "id": "b1-vocab-relationships-1-02",
+        "type": "cloze",
+        "prompt": "I get ___ well with my sister. We never argue.",
+        "answer": "on",
+        "explanation": "Get on with."
+      },
+      {
+        "id": "b1-vocab-relationships-1-03",
+        "type": "cloze",
+        "prompt": "She is married ___ a doctor.",
+        "answer": "to",
+        "explanation": "Married to."
+      },
+      {
+        "id": "b1-vocab-relationships-1-04",
+        "type": "choice",
+        "prompt": "We have a lot in ___: we both love jazz and hiking.",
+        "answer": "common",
+        "distractors": [
+          "same",
+          "together"
+        ],
+        "explanation": "Have a lot in common."
+      },
+      {
+        "id": "b1-vocab-relationships-1-05",
+        "type": "choice",
+        "prompt": "They had a big argument, but the next day they made ___.",
+        "answer": "up",
+        "distractors": [
+          "out",
+          "off"
+        ],
+        "explanation": "Make up – pogodzić się."
+      },
+      {
+        "id": "b1-vocab-relationships-1-06",
+        "type": "error",
+        "prompt": "She got married with her boyfriend last year.",
+        "answer": [
+          "with",
+          "to"
+        ],
+        "explanation": "Get married to."
+      },
+      {
+        "id": "b1-vocab-relationships-1-07",
+        "type": "tiles",
+        "prompt": "Straciliśmy kontakt po studiach.",
+        "answer": [
+          "We",
+          "lost",
+          "touch",
+          "after",
+          "university"
+        ],
+        "distractors": [
+          "touched",
+          "missed"
+        ],
+        "explanation": "Lose touch."
+      },
+      {
+        "id": "b1-vocab-relationships-1-08",
+        "type": "translate",
+        "prompt": "Utrzymujmy kontakt!",
+        "answer": "Let's keep in touch!",
+        "accept": [
+          "Let's stay in touch!",
+          "Let us keep in touch!",
+          "Keep in touch!",
+          "Stay in touch!"
+        ],
+        "explanation": "Keep in touch."
+      },
+      {
+        "id": "b1-vocab-relationships-1-09",
+        "type": "choice",
+        "prompt": "A person you know a little, but not well, is an ___.",
+        "answer": "acquaintance",
+        "distractors": [
+          "intimate",
+          "relative"
+        ],
+        "explanation": "Znajomy: acquaintance."
+      },
+      {
+        "id": "b1-vocab-relationships-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „stopped being a couple” phrasal verbem z „split”.\nThey stopped being a couple last month.",
+        "answer": "They split up last month.",
+        "accept": [
+          "They broke up last month."
+        ],
+        "explanation": "Split up – rozstać się."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-relationships-2",
+    "topicId": "b1-vocab-relationships",
+    "exercises": [
+      {
+        "id": "b1-vocab-relationships-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "get engaged|zaręczyć się",
+          "get divorced|rozwieść się",
+          "go out with|chodzić z kimś",
+          "fall in love|zakochać się"
+        ],
+        "explanation": "Związki."
+      },
+      {
+        "id": "b1-vocab-relationships-2-02",
+        "type": "cloze",
+        "prompt": "How did you ___ your wife? – At university. (poznać)",
+        "answer": "meet",
+        "explanation": "Poznać: meet."
+      },
+      {
+        "id": "b1-vocab-relationships-2-03",
+        "type": "cloze",
+        "prompt": "It's easy to make ___ at a new school. (znajomych)",
+        "answer": "friends",
+        "explanation": "Make friends."
+      },
+      {
+        "id": "b1-vocab-relationships-2-04",
+        "type": "choice",
+        "prompt": "He broke ___ with his girlfriend last week.",
+        "answer": "up",
+        "distractors": [
+          "out",
+          "down"
+        ],
+        "explanation": "Break up with."
+      },
+      {
+        "id": "b1-vocab-relationships-2-05",
+        "type": "choice",
+        "prompt": "I ___ in love with her the first time I saw her.",
+        "answer": "fell",
+        "distractors": [
+          "felt",
+          "fall"
+        ],
+        "explanation": "Fall → fell in love."
+      },
+      {
+        "id": "b1-vocab-relationships-2-06",
+        "type": "error",
+        "prompt": "She is married with a famous actor.",
+        "answer": [
+          "with",
+          "to"
+        ],
+        "explanation": "Married to."
+      },
+      {
+        "id": "b1-vocab-relationships-2-07",
+        "type": "tiles",
+        "prompt": "Moja siostra zaręczyła się w zeszłym tygodniu.",
+        "answer": [
+          "My",
+          "sister",
+          "got",
+          "engaged",
+          "last",
+          "week"
+        ],
+        "distractors": [
+          "engage",
+          "engagement"
+        ],
+        "explanation": "Get engaged."
+      },
+      {
+        "id": "b1-vocab-relationships-2-08",
+        "type": "translate",
+        "prompt": "Pokłóciłem się z bratem.",
+        "answer": "I had an argument with my brother.",
+        "accept": [
+          "I argued with my brother.",
+          "I fell out with my brother.",
+          "I had a fight with my brother."
+        ],
+        "explanation": "Have an argument with."
+      },
+      {
+        "id": "b1-vocab-relationships-2-09",
+        "type": "choice",
+        "prompt": "A person you share a flat with is your ___.",
+        "answer": "flatmate",
+        "distractors": [
+          "roommate's",
+          "neighbour"
+        ],
+        "explanation": "Współlokator: flatmate."
+      },
+      {
+        "id": "b1-vocab-relationships-2-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „They have been”.\nThey married 20 years ago.",
+        "answer": "They have been married for 20 years.",
+        "accept": [
+          "They have been married for twenty years."
+        ],
+        "explanation": "Have been married for."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-relationships-3",
+    "topicId": "b1-vocab-relationships",
+    "exercises": [
+      {
+        "id": "b1-vocab-relationships-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "colleague|kolega z pracy",
+          "close friend|bliski przyjaciel",
+          "partner|partner",
+          "relative|krewny"
+        ],
+        "explanation": "Ludzie wokół nas."
+      },
+      {
+        "id": "b1-vocab-relationships-3-02",
+        "type": "cloze",
+        "prompt": "We fell ___ because of money, but now we're friends again.",
+        "answer": "out",
+        "explanation": "Fall out – poróżnić się."
+      },
+      {
+        "id": "b1-vocab-relationships-3-03",
+        "type": "cloze",
+        "prompt": "I always ___ for my mistakes. (przepraszam)",
+        "answer": "apologise",
+        "accept": [
+          "apologize"
+        ],
+        "explanation": "Apologise for."
+      },
+      {
+        "id": "b1-vocab-relationships-3-04",
+        "type": "choice",
+        "prompt": "They got ___ after 15 years of marriage.",
+        "answer": "divorced",
+        "distractors": [
+          "divorce",
+          "divorcing"
+        ],
+        "explanation": "Get divorced."
+      },
+      {
+        "id": "b1-vocab-relationships-3-05",
+        "type": "choice",
+        "prompt": "I don't really get on ___ my boss.",
+        "answer": "with",
+        "distractors": [
+          "to",
+          "for"
+        ],
+        "explanation": "Get on with."
+      },
+      {
+        "id": "b1-vocab-relationships-3-06",
+        "type": "error",
+        "prompt": "We have many in common – we both love cooking.",
+        "answer": [
+          "many",
+          "much"
+        ],
+        "explanation": "Have a lot / much in common."
+      },
+      {
+        "id": "b1-vocab-relationships-3-07",
+        "type": "tiles",
+        "prompt": "Dogadujesz się z sąsiadami?",
+        "answer": [
+          "Do",
+          "you",
+          "get",
+          "on",
+          "with",
+          "your",
+          "neighbours"
+        ],
+        "distractors": [
+          "to",
+          "good"
+        ],
+        "explanation": "Get on with."
+      },
+      {
+        "id": "b1-vocab-relationships-3-08",
+        "type": "translate",
+        "prompt": "Pogodzili się po kłótni.",
+        "answer": "They made up after the argument.",
+        "accept": [
+          "They made up after their argument.",
+          "They made up after the fight.",
+          "They made up after their fight."
+        ],
+        "explanation": "Make up."
+      },
+      {
+        "id": "b1-vocab-relationships-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "She is married to an engineer.",
+        "distractors": [
+          "She is married with an engineer.",
+          "She married to an engineer."
+        ],
+        "explanation": "Married to."
+      },
+      {
+        "id": "b1-vocab-relationships-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „became friends” wyrażeniem z „make”.\nI became friends with many people in Spain.",
+        "answer": "I made friends with many people in Spain.",
+        "explanation": "Make friends with."
+      }
+    ]
+  }
+]

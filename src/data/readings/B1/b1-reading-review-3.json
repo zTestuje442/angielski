@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-review-3",
+  "topicId": "b1-reading-review",
+  "title": "App review: StudyBuddy",
+  "text": "There are hundreds of apps that promise to help you study, so I was quite sceptical when a friend recommended StudyBuddy. After using it every day for a month while preparing for my exams, I have to admit that I was wrong. It's not perfect, but it's one of the most useful apps on my phone.\n\nThe main idea is simple. You add the subjects you're studying and your exam dates, and the app creates a timetable for you. It breaks big topics into small tasks, so instead of \"learn biology\", you get \"read pages 20–25\" or \"do ten flashcards about cells\". For someone like me, who always puts things off, this was a huge help.\n\nMy favourite feature is the \"focus mode\". When you start a study session, the app blocks social media on your phone for 25 minutes. If you leave the app, a little cartoon plant in the corner dies – which sounds silly, but it really works! After each session you get a five-minute break and some points. You can compare your points with friends, which makes studying a bit like a game.\n\nThere are some disadvantages, though. The free version shows a lot of adverts, and some of the best features, like the statistics, are only available if you pay 15 złoty a month. The app also crashed a few times on my old phone, and once I lost a whole week of notes.\n\nAll in all, I'd recommend StudyBuddy to any student who finds it hard to get started. Just make sure you back up your notes regularly.",
+  "exercises": [
+    {
+      "id": "b1-reading-review-3-01",
+      "type": "choice",
+      "prompt": "The writer believed in the app from the beginning.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...I was quite sceptical...”"
+    },
+    {
+      "id": "b1-reading-review-3-02",
+      "type": "choice",
+      "prompt": "The app creates a study timetable.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...the app creates a timetable for you.”"
+    },
+    {
+      "id": "b1-reading-review-3-03",
+      "type": "choice",
+      "prompt": "StudyBuddy was made by students.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, kto stworzył aplikację."
+    },
+    {
+      "id": "b1-reading-review-3-04",
+      "type": "choice",
+      "prompt": "How does the app help people who put things off?",
+      "answer": "It divides big topics into small tasks.",
+      "distractors": [
+        "It sends messages to their teachers.",
+        "It gives them longer breaks."
+      ],
+      "explanation": "„It breaks big topics into small tasks...”"
+    },
+    {
+      "id": "b1-reading-review-3-05",
+      "type": "choice",
+      "prompt": "What happens in focus mode?",
+      "answer": "Social media is blocked for 25 minutes.",
+      "distractors": [
+        "The phone switches off.",
+        "The app plays music."
+      ],
+      "explanation": "„...the app blocks social media on your phone for 25 minutes.”"
+    },
+    {
+      "id": "b1-reading-review-3-06",
+      "type": "choice",
+      "prompt": "What can you get only in the paid version?",
+      "answer": "the statistics",
+      "distractors": [
+        "the focus mode",
+        "the timetable"
+      ],
+      "explanation": "„...like the statistics, are only available if you pay...”"
+    },
+    {
+      "id": "b1-reading-review-3-07",
+      "type": "choice",
+      "prompt": "What advice does the writer give at the end?",
+      "answer": "Back up your notes regularly.",
+      "distractors": [
+        "Buy a new phone.",
+        "Don't use the free version."
+      ],
+      "explanation": "„...make sure you back up your notes regularly.”"
+    },
+    {
+      "id": "b1-reading-review-3-08",
+      "type": "cloze",
+      "prompt": "For someone like me, who always ___ things off, this was a huge help.",
+      "answer": "puts",
+      "explanation": "Put off – odkładać na później."
+    },
+    {
+      "id": "b1-reading-review-3-09",
+      "type": "cloze",
+      "prompt": "The app also ___ a few times on my old phone. (zawiesiła się)",
+      "answer": "crashed",
+      "explanation": "Crash – zawiesić się."
+    },
+    {
+      "id": "b1-reading-review-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "sceptical|sceptyczny",
+        "feature|funkcja",
+        "advert|reklama",
+        "back up|zrobić kopię zapasową"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

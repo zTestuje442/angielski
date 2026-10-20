@@ -1526,7 +1526,7 @@
     "level": "B1",
     "order": 8,
     "title": "Relacje i życie towarzyskie",
-    "explanation": "",
+    "explanation": "Relacje i życie towarzyskie – najważniejsze wyrażenia:\n\n**Poznawanie i przyjaźń**: *meet someone* (poznać), *make friends* (zaprzyjaźnić się), *get on (well) with* (dogadywać się), *have a lot in common* (mieć wiele wspólnego), *keep in touch* (utrzymywać kontakt), *lose touch* (stracić kontakt)\n\n**Związki**: *go out with* (chodzić z kimś), *fall in love with*, *get engaged* (zaręczyć się), *get married to* (poślubić), *split up / break up with* (rozstać się), *get divorced* (rozwieść się)\n\n**Kłótnie i zgoda**: *have an argument* (pokłócić się), *fall out with* (poróżnić się), *make up* (pogodzić się), *apologise* (przeprosić)\n\nLudzie: *colleague* (kolega z pracy), *acquaintance* (znajomy), *close friend* (bliski przyjaciel), *partner, flatmate* (współlokator)\n\nUwaga: *married **to*** (nie *with*): *She's married to a doctor.*",
     "sets": [
       "b1-vocab-relationships-1",
       "b1-vocab-relationships-2",
@@ -1539,7 +1539,7 @@
     "level": "B1",
     "order": 9,
     "title": "Zdrowie: u lekarza i w aptece",
-    "explanation": "",
+    "explanation": "**U lekarza**:\n- *make an appointment* (umówić wizytę), *see a doctor*, *examine* (zbadać)\n- *What's the matter? / What seems to be the problem?* – *I've got a headache / a sore throat / a temperature.*\n- objawy: *cough* (kaszel), *sneeze* (kichać), *feel dizzy* (mieć zawroty głowy), *feel sick* (mieć mdłości), *a rash* (wysypka), *swollen* (spuchnięty)\n- choroby: *a cold* (przeziębienie), *flu* (grypa), *an allergy, an infection*\n\n**Leczenie**: *a prescription* (recepta), *medicine / pills* (lekarstwo / tabletki), *take two tablets a day*, *an injection* (zastrzyk), *rest, stay in bed*, *get better* (wyzdrowieć)\n\n**W aptece**: *chemist's / pharmacy*, *painkillers* (środki przeciwbólowe), *cough syrup*, *plasters* (plastry)\n\n*Get well soon!* – życzenia powrotu do zdrowia.",
     "sets": [
       "b1-vocab-health-doctor-1",
       "b1-vocab-health-doctor-2",
@@ -1552,7 +1552,7 @@
     "level": "B1",
     "order": 10,
     "title": "Podróże: kłopoty i rozwiązania",
-    "explanation": "",
+    "explanation": "Kłopoty w podróży i jak o nich mówić:\n\n**Transport**: *delay / be delayed* (opóźnienie), *cancel* (odwołać), *miss a flight / train* (spóźnić się na), *a connection* (przesiadka), *get stuck in traffic* (utknąć w korku), *a breakdown / break down* (awaria)\n\n**Bagaż i dokumenty**: *lose your luggage*, *lost property* (biuro rzeczy znalezionych), *my suitcase got damaged*, *forget your passport*, *excess baggage* (nadbagaż), *boarding pass* (karta pokładowa)\n\n**Hotel**: *overbooked*, *the air conditioning doesn't work*, *the room is too noisy*, *I'd like to complain*\n\n**Rozwiązania**: *get a refund* (zwrot pieniędzy), *compensation* (odszkodowanie), *rebook* (zmienić rezerwację), *get travel insurance* (ubezpieczenie)\n\nZwroty: *Excuse me, our flight has been cancelled. What can we do?* / *Could you help me, please? I've lost my wallet.*",
     "sets": [
       "b1-vocab-travel-problems-1",
       "b1-vocab-travel-problems-2",
@@ -1565,7 +1565,7 @@
     "level": "B1",
     "order": 11,
     "title": "Pieniądze i bank",
-    "explanation": "",
+    "explanation": "Pieniądze na co dzień:\n\n**Wydawanie i oszczędzanie**: *spend money on* (wydawać na), *save (up) for* (oszczędzać na), *waste money* (marnować), *afford* (być stać), *borrow from / lend to* (pożyczać od / komuś), *owe* (być winnym), *pay back* (oddać)\n\n**Bank**: *a bank account* (konto), *open an account*, *a cash machine / ATM* (bankomat), *withdraw money* (wypłacić), *a PIN*, *a debit / credit card*, *transfer money* (przelać), *a bank statement* (wyciąg), *interest* (odsetki)\n\n**Płacenie**: *pay by card / in cash*, *change* (reszta), *a receipt* (paragon), *a discount* (zniżka), *a bargain* (okazja), *rip-off* (zdzierstwo, potocznie)\n\nUwaga: *I can't afford it* (nie stać mnie), *How much does it cost?*, *spend money **on** something*.",
     "sets": [
       "b1-vocab-money-banking-1",
       "b1-vocab-money-banking-2",
@@ -1578,7 +1578,7 @@
     "level": "B1",
     "order": 12,
     "title": "Przestępstwa i prawo",
-    "explanation": "",
+    "explanation": "Przestępstwa i prawo – ważne są trzy formy: **przestępstwo, przestępca, czasownik**:\n\n- *theft* (kradzież) – *thief* – *steal*\n- *robbery* (rozbój, napad) – *robber* – *rob* (a bank, a person)\n- *burglary* (włamanie) – *burglar* – *break into / burgle*\n- *shoplifting* (kradzież w sklepie) – *shoplifter* – *shoplift*\n- *murder* (morderstwo) – *murderer* – *murder*\n- *vandalism* – *vandal* – *vandalise*\n\n**Prawo i kary**: *commit a crime* (popełnić), *arrest* (aresztować), *the police*, *a witness* (świadek), *a court* (sąd), *a judge* (sędzia), *guilty / innocent* (winny / niewinny), *a fine* (grzywna), *prison* (więzienie), *sentence somebody to* (skazać na)\n\nUwaga: *rob a bank / a person*, ale *steal money / a car*. *The police **are**...* (l. mn.).",
     "sets": [
       "b1-vocab-crime-law-1",
       "b1-vocab-crime-law-2",
@@ -2085,7 +2085,7 @@
     "level": "B1",
     "order": 3,
     "title": "Pytania pośrednie: Could you tell me…",
-    "explanation": "",
+    "explanation": "**Pytania pośrednie** brzmią grzeczniej. Zaczynamy od zwrotu, a dalej jest **szyk zdania twierdzącego** (bez *do / does / did*, bez inwersji):\n\n- *Where is the station?* → *Could you tell me **where the station is**?*\n- *What time does the shop open?* → *Do you know **what time the shop opens**?*\n- *When did the film start?* → *I wonder **when the film started**.*\n\nPytania tak/nie – z **if / whether**:\n- *Is there a bank near here?* → *Do you know **if there is** a bank near here?*\n\nZwroty: *Could you tell me...? / Do you know...? / I'd like to know... / Can you tell me...? / I was wondering...*\n\nZnak zapytania tylko wtedy, gdy cały zwrot jest pytaniem: *Do you know where it is?* ale *I wonder where it is.*",
     "sets": [
       "b1-sent-indirect-questions-1",
       "b1-sent-indirect-questions-2",
@@ -2098,7 +2098,7 @@
     "level": "B1",
     "order": 4,
     "title": "Zgoda i niezgoda",
-    "explanation": "",
+    "explanation": "Zgoda i niezgoda w rozmowie – ważny jest **ton**:\n\n**Zgoda**: *I agree (with you). / You're right. / Exactly! / That's true. / I think so too.* · krótko: *So do I. / Me too.*\n\n**Częściowa zgoda**: *I see what you mean, but... / That's a good point, but... / You may be right, but...*\n\n**Niezgoda** (grzecznie): *I'm not sure about that. / I don't really agree. / I see it differently. / I'm afraid I disagree.*\n\n**Zgoda z przeczeniem**: *I don't like it.* – *Neither do I. / Me neither.* (ja też nie)\n\nUwaga:\n- *I agree* (nie *I am agree*),\n- *agree **with** somebody, agree **on/about** something*.\n\nOstra niezgoda (*You're wrong!*) brzmi niegrzecznie – zmiękczaj ją słowami *I'm afraid, really, I'm not sure*.",
     "sets": [
       "b1-sent-agreeing-disagreeing-1",
       "b1-sent-agreeing-disagreeing-2",
@@ -2111,7 +2111,7 @@
     "level": "B1",
     "order": 5,
     "title": "Rady i sugestie",
-    "explanation": "",
+    "explanation": "**Rady**:\n- *You should / shouldn't...* – *You should see a doctor.*\n- *You ought to...* (trochę bardziej formalnie)\n- *If I were you, I'd...* – *If I were you, I'd take the job.*\n- *You'd better...* (lepiej, żebyś – ostrzeżenie): *You'd better hurry!*\n- *Why don't you...?* – *Why don't you ask your teacher?*\n\n**Sugestie i propozycje**:\n- *Let's...* – *Let's go to the cinema.*\n- *How about / What about + -ing?* – *How about going to the beach?*\n- *Shall we...?* – *Shall we order pizza?*\n- *Why don't we...?* – *Why don't we take a taxi?*\n- *I suggest + -ing / that...* – *I suggest leaving early.*\n\nUwaga: po *should, 'd better, let's, why don't you* – **forma podstawowa** (bez *to*); po *how about* – **-ing**.",
     "sets": [
       "b1-sent-advice-suggestions-1",
       "b1-sent-advice-suggestions-2",
@@ -2124,7 +2124,7 @@
     "level": "B1",
     "order": 6,
     "title": "Przyczyna i skutek",
-    "explanation": "",
+    "explanation": "**Przyczyna** (dlaczego?):\n- *because* + zdanie: *I stayed at home **because** I was ill.*\n- *because of / due to* + rzeczownik: *The match was cancelled **because of** the rain.*\n- *as / since* + zdanie (często na początku): ***As** it was late, we took a taxi.*\n\n**Skutek** (więc, dlatego):\n- *so* + zdanie: *It was late, **so** we took a taxi.*\n- *that's why...*: *I missed the bus. **That's why** I was late.*\n- *therefore / as a result* (bardziej formalnie, nowe zdanie): *Prices went up. **As a result**, people bought less.*\n\n**so / such ... that** (tak ..., że):\n- *It was **so** cold **that** we stayed inside.* (so + przymiotnik)\n- *It was **such** a cold day **that**...* (such + a + przymiotnik + rzeczownik)",
     "sets": [
       "b1-sent-cause-result-1",
       "b1-sent-cause-result-2",
@@ -2514,7 +2514,7 @@
     "level": "B1",
     "order": 4,
     "title": "Opowiadanie",
-    "explanation": "",
+    "explanation": "Opowiadanie na B1 ma bohatera, problem i rozwiązanie. Autor miesza **Past Simple** (kolejne zdarzenia) z **Past Continuous** (tło: *It was raining...*) i czasem **Past Perfect** (coś wcześniejszego: *She had forgotten...*).\n\nPytania sprawdzają **przyczyny i uczucia** bohaterów – szukaj przymiotników (*nervous, relieved, embarrassed*) i słów *because, so, although*.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "b1-reading-story-1",
       "b1-reading-story-2",
@@ -2527,7 +2527,7 @@
     "level": "B1",
     "order": 5,
     "title": "Recenzja",
-    "explanation": "",
+    "explanation": "Recenzja (filmu, książki, restauracji, aplikacji) łączy **opis** z **oceną**. Autor zwykle:\n- przedstawia, czym jest recenzowana rzecz,\n- wymienia **zalety** i **wady** (*the best thing about it..., the only problem is...*),\n- na końcu **poleca albo nie** i mówi, **komu**.\n\nSzukaj przymiotników oceniających (*brilliant, disappointing, overpriced*) i słów kontrastu (*but, however, although*) – pytania często dotyczą tego, co autorowi się **nie** podobało.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "b1-reading-review-1",
       "b1-reading-review-2",
@@ -2540,7 +2540,7 @@
     "level": "B1",
     "order": 6,
     "title": "Wywiad",
-    "explanation": "",
+    "explanation": "Wywiad ma format **pytanie – odpowiedź**. Pytania dziennikarza mówią, o czym będzie fragment, a odpowiedzi zawierają **fakty i opinie** rozmówcy.\n\nZwracaj uwagę na **zmiany w czasie** (*when I was young..., now..., in the future...*) i na słowa, które pokazują uczucia i opinie (*I was surprised, the hardest thing was..., I believe...*).\n\nPytania mogą brzmieć: *What does X say about...?*, *Why did X decide to...?*\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "b1-reading-interview-1",
       "b1-reading-interview-2",
@@ -2800,7 +2800,7 @@
     "level": "B1",
     "order": 3,
     "title": "Opowiadanie",
-    "explanation": "",
+    "explanation": "**Opowiadanie** na B1 ma 100–150 słów. Często dostajesz **pierwsze zdanie**, od którego musisz zacząć.\n\nBudowa:\n1. **Początek** – kto, gdzie, kiedy: *It was a cold Saturday morning when...*\n2. **Problem / zwrot akcji**: *Suddenly, ... / Just then, ... / To my surprise, ...*\n3. **Rozwinięcie** – co bohater zrobił, co czuł\n4. **Zakończenie** – rozwiązanie i uczucia: *In the end, ... / Finally, ... I felt so relieved!*\n\nCzasy: **Past Simple** (zdarzenia), **Past Continuous** (tło: *It was raining and people were hurrying home*), **Past Perfect** (wcześniej: *I realised I had left my keys*).\n\nOżyw tekst: przymiotniki (*terrified, exhausted, delighted*), przysłówki (*slowly, nervously*), krótki dialog.",
     "sets": [
       "b1-writing-story-1",
       "b1-writing-story-2",
@@ -2813,7 +2813,7 @@
     "level": "B1",
     "order": 4,
     "title": "Recenzja",
-    "explanation": "",
+    "explanation": "**Recenzja** na B1 ma 100–150 słów (film, książka, serial, restauracja, gra).\n\nBudowa:\n1. **Wstęp** – co to jest: *Last week I watched... / The Green Café is a new restaurant in...*\n2. **Opis** – o czym jest / jak tam jest (bez zdradzania zakończenia): *The film is about... / It's set in...*\n3. **Ocena** – co się podobało, a co nie: *The best thing about it is... / The only problem is... / However, ...*\n4. **Rekomendacja**: *I'd definitely recommend it to... / Don't miss it! / It's worth seeing.*\n\nPrzydatne przymiotniki: *exciting, moving* (wzruszający), *funny, boring, predictable* (przewidywalny), *delicious, overpriced, cosy, friendly*.\n\nRecenzja jest **pół-formalna**: możesz zwracać się do czytelnika (*If you like..., you'll love it*), ale bez slangu.",
     "sets": [
       "b1-writing-review-1",
       "b1-writing-review-2",
@@ -2826,7 +2826,7 @@
     "level": "B1",
     "order": 5,
     "title": "Artykuł do gazetki",
-    "explanation": "",
+    "explanation": "**Artykuł** do szkolnej gazetki, na blog czy stronę klubu ma 100–150 słów i ma **zainteresować czytelnika**.\n\nBudowa:\n1. **Tytuł** – krótki, ciekawy: *Why Everyone Should Try Climbing*\n2. **Wstęp z pytaniem do czytelnika**: *Have you ever...? / Do you know...? / Imagine...*\n3. **2 akapity treści** – przykłady, własne doświadczenie, rady\n4. **Zakończenie** – podsumowanie lub zachęta: *So why not give it a try? / What are you waiting for?*\n\nStyl: **pół-formalny**, bezpośredni, z pytaniami retorycznymi i zwrotami do czytelnika (*you*). Unikaj zwrotów listowych (*Dear..., Yours...*).",
     "sets": [
       "b1-writing-article-1",
       "b1-writing-article-2",

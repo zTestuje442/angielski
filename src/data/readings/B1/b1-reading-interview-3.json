@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-interview-3",
+  "topicId": "b1-reading-interview",
+  "title": "Life on a research ship",
+  "text": "Dr Marta Lis is a marine biologist. Every year she spends three months on a research ship in the Atlantic Ocean, studying whales. We talked to her during a short break at home in Gdynia.\n\nWhat exactly do you do on the ship?\nWe follow groups of whales and record the sounds they make. Whales \"talk\" to each other, and we want to understand how and why. We also count them and take small skin samples to check if they are healthy.\n\nWhat is a normal day like?\nThere's no normal day! It depends on the weather and on the whales. Sometimes we work from sunrise until midnight because a group of whales is near the ship. Other days the sea is too rough and we stay inside, analysing data on our computers.\n\nWhat's the hardest thing about living on a ship?\nBeing far from my family. My daughter is eight, and three months is a long time for her. We have video calls when the internet works, which isn't very often. Also, the ship is small – there are twenty people, and you can't escape from anyone!\n\nDo you ever get seasick?\nYes, during the first few days of every trip. It's awful. But after that my body gets used to it.\n\nWhat has been your most exciting moment?\nTwo years ago, a young humpback whale swam right next to our small boat and stayed with us for almost an hour. It looked at us with its huge eye. I'll never forget it.\n\nAre whales in danger?\nSome species are. The biggest problems are noise from ships, plastic in the ocean and fishing nets. The good news is that some populations are growing again, thanks to protection. So there is hope.",
+  "exercises": [
+    {
+      "id": "b1-reading-interview-3-01",
+      "type": "choice",
+      "prompt": "Marta studies whales.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...studying whales.”"
+    },
+    {
+      "id": "b1-reading-interview-3-02",
+      "type": "choice",
+      "prompt": "Marta works on the ship all year.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Spędza tam trzy miesiące w roku."
+    },
+    {
+      "id": "b1-reading-interview-3-03",
+      "type": "choice",
+      "prompt": "Marta's husband is also a biologist.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o mężu."
+    },
+    {
+      "id": "b1-reading-interview-3-04",
+      "type": "choice",
+      "prompt": "Why do they record whale sounds?",
+      "answer": "to understand how whales communicate",
+      "distractors": [
+        "to play them to tourists",
+        "to scare the whales away"
+      ],
+      "explanation": "„...we want to understand how and why.”"
+    },
+    {
+      "id": "b1-reading-interview-3-05",
+      "type": "choice",
+      "prompt": "What do they do when the sea is too rough?",
+      "answer": "They analyse data inside.",
+      "distractors": [
+        "They go home.",
+        "They swim with whales."
+      ],
+      "explanation": "„...we stay inside, analysing data on our computers.”"
+    },
+    {
+      "id": "b1-reading-interview-3-06",
+      "type": "choice",
+      "prompt": "What is the hardest thing for Marta?",
+      "answer": "being far from her family",
+      "distractors": [
+        "the food",
+        "the cold weather"
+      ],
+      "explanation": "„Being far from my family.”"
+    },
+    {
+      "id": "b1-reading-interview-3-07",
+      "type": "choice",
+      "prompt": "What is one of the dangers for whales?",
+      "answer": "noise from ships",
+      "distractors": [
+        "warm weather",
+        "tourists on beaches"
+      ],
+      "explanation": "„...noise from ships, plastic in the ocean and fishing nets.”"
+    },
+    {
+      "id": "b1-reading-interview-3-08",
+      "type": "cloze",
+      "prompt": "Do you ever get ___? (chorobę morską)",
+      "answer": "seasick",
+      "explanation": "Mieć chorobę morską: get seasick."
+    },
+    {
+      "id": "b1-reading-interview-3-09",
+      "type": "cloze",
+      "prompt": "Some populations are growing again, thanks to ___. (ochronie)",
+      "answer": "protection",
+      "explanation": "Ochrona: protection."
+    },
+    {
+      "id": "b1-reading-interview-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "marine|morski",
+        "sample|próbka",
+        "rough|wzburzony",
+        "species|gatunek"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

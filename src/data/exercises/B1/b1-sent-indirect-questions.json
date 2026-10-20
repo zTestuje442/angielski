@@ -1,0 +1,345 @@
+[
+  {
+    "id": "b1-sent-indirect-questions-1",
+    "topicId": "b1-sent-indirect-questions",
+    "exercises": [
+      {
+        "id": "b1-sent-indirect-questions-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Could you tell me...?|Czy mógłby mi pan powiedzieć...?",
+          "Do you know...?|Czy wiesz...?",
+          "I wonder...|Zastanawiam się...",
+          "I'd like to know...|Chciałbym wiedzieć..."
+        ],
+        "explanation": "Zwroty pytań pośrednich."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-02",
+        "type": "cloze",
+        "prompt": "Could you tell me where the toilets ___?",
+        "answer": "are",
+        "explanation": "Szyk twierdzący: the toilets are."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-03",
+        "type": "cloze",
+        "prompt": "Do you know ___ the museum is open today? (czy)",
+        "answer": "if",
+        "accept": [
+          "whether"
+        ],
+        "explanation": "Tak/nie: if / whether."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-04",
+        "type": "choice",
+        "prompt": "Do you know what time ___?",
+        "answer": "the bus leaves",
+        "distractors": [
+          "does the bus leave",
+          "leaves the bus"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-05",
+        "type": "choice",
+        "prompt": "Can you tell me how much ___?",
+        "answer": "this costs",
+        "distractors": [
+          "does this cost",
+          "costs this"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-06",
+        "type": "error",
+        "prompt": "Could you tell me where the station are?",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "The station – is."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-07",
+        "type": "tiles",
+        "prompt": "Czy wiesz, gdzie on mieszka?",
+        "answer": [
+          "Do",
+          "you",
+          "know",
+          "where",
+          "he",
+          "lives"
+        ],
+        "distractors": [
+          "does",
+          "live"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-08",
+        "type": "translate",
+        "prompt": "Czy mógłby mi pan powiedzieć, która jest godzina?",
+        "answer": "Could you tell me what time it is?",
+        "accept": [
+          "Could you tell me the time?",
+          "Can you tell me what time it is?",
+          "Could you please tell me what time it is?"
+        ],
+        "explanation": "Szyk twierdzący: it is."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-09",
+        "type": "choice",
+        "prompt": "Which question is polite and correct?",
+        "answer": "Do you know when the meeting starts?",
+        "distractors": [
+          "Do you know when does the meeting start?",
+          "Do you know when starts the meeting?"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-1-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie pośrednie, zacznij od „Could you tell me”.\nWhere is the post office?",
+        "answer": "Could you tell me where the post office is?",
+        "explanation": "Szyk twierdzący."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-indirect-questions-2",
+    "topicId": "b1-sent-indirect-questions",
+    "exercises": [
+      {
+        "id": "b1-sent-indirect-questions-2-01",
+        "type": "match",
+        "prompt": "Połącz pytanie bezpośrednie z pośrednim.",
+        "answer": [
+          "Where is it?|Do you know where it is?",
+          "Is it far?|Do you know if it is far?",
+          "What does it mean?|Do you know what it means?",
+          "When did she leave?|Do you know when she left?"
+        ],
+        "explanation": "Pytanie bezpośrednie i pośrednie."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-02",
+        "type": "cloze",
+        "prompt": "I wonder why she ___ angry. (jest)",
+        "answer": "is",
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-03",
+        "type": "cloze",
+        "prompt": "Do you know what this word ___? (znaczy)",
+        "answer": "means",
+        "explanation": "Bez does: this word means."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-04",
+        "type": "choice",
+        "prompt": "Could you tell me ___ the train is late?",
+        "answer": "whether",
+        "distractors": [
+          "that",
+          "what"
+        ],
+        "explanation": "Tak/nie: whether / if."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-05",
+        "type": "choice",
+        "prompt": "I'd like to know when ___.",
+        "answer": "the course starts",
+        "distractors": [
+          "does the course start",
+          "starts the course"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-06",
+        "type": "error",
+        "prompt": "Do you know where she work?",
+        "answer": [
+          "work",
+          "works"
+        ],
+        "explanation": "She – works (bez does)."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-07",
+        "type": "tiles",
+        "prompt": "Zastanawiam się, czy on przyjdzie.",
+        "answer": [
+          "I",
+          "wonder",
+          "if",
+          "he",
+          "will",
+          "come"
+        ],
+        "distractors": [
+          "does",
+          "come?"
+        ],
+        "explanation": "If + szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-08",
+        "type": "translate",
+        "prompt": "Czy wiesz, ile to kosztuje?",
+        "answer": "Do you know how much it costs?",
+        "accept": [
+          "Do you know how much this costs?",
+          "Do you know how much that costs?"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-09",
+        "type": "choice",
+        "prompt": "Which needs a question mark?",
+        "answer": "Do you know where she is",
+        "distractors": [
+          "I wonder where she is",
+          "I'd like to know where she is"
+        ],
+        "explanation": "Cały zwrot jest pytaniem."
+      },
+      {
+        "id": "b1-sent-indirect-questions-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie pośrednie, zacznij od „Do you know”.\nWhat time does the shop close?",
+        "answer": "Do you know what time the shop closes?",
+        "explanation": "Bez does; closes."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-indirect-questions-3",
+    "topicId": "b1-sent-indirect-questions",
+    "exercises": [
+      {
+        "id": "b1-sent-indirect-questions-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z użyciem.",
+        "answer": [
+          "Could you tell me...?|grzeczna prośba o informację",
+          "I was wondering if...|bardzo uprzejma prośba",
+          "Do you know...?|pytanie o wiedzę",
+          "I wonder...|rozważanie na głos"
+        ],
+        "explanation": "Zwroty i ich użycie."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-02",
+        "type": "cloze",
+        "prompt": "Can you tell me where I ___ buy tickets? (mogę)",
+        "answer": "can",
+        "explanation": "Szyk twierdzący: I can."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-03",
+        "type": "cloze",
+        "prompt": "Do you know ___ there is a pharmacy near here?",
+        "answer": "if",
+        "accept": [
+          "whether"
+        ],
+        "explanation": "If + there is."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-04",
+        "type": "choice",
+        "prompt": "I wonder what ___ for dinner.",
+        "answer": "we're having",
+        "distractors": [
+          "are we having",
+          "we having are"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-05",
+        "type": "choice",
+        "prompt": "Could you tell me how long ___?",
+        "answer": "the journey takes",
+        "distractors": [
+          "does the journey take",
+          "takes the journey"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-06",
+        "type": "error",
+        "prompt": "I'd like to know when you arrive yesterday.",
+        "answer": [
+          "arrive",
+          "arrived"
+        ],
+        "explanation": "Przeszłość bez did: arrived."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-07",
+        "type": "tiles",
+        "prompt": "Czy mógłbyś mi powiedzieć, gdzie jest bank?",
+        "answer": [
+          "Could",
+          "you",
+          "tell",
+          "me",
+          "where",
+          "the",
+          "bank",
+          "is"
+        ],
+        "distractors": [
+          "are",
+          "does"
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-08",
+        "type": "translate",
+        "prompt": "Chciałbym wiedzieć, dlaczego pociąg się spóźnia.",
+        "answer": "I would like to know why the train is late.",
+        "accept": [
+          "I'd like to know why the train is late.",
+          "I would like to know why the train is delayed.",
+          "I'd like to know why the train is delayed."
+        ],
+        "explanation": "Szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-09",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "Could you tell me if the shop is open?",
+        "distractors": [
+          "Could you tell me is the shop open?",
+          "Could you tell me if is the shop open?"
+        ],
+        "explanation": "If + szyk twierdzący."
+      },
+      {
+        "id": "b1-sent-indirect-questions-3-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie pośrednie, zacznij od „I wonder”.\nWhy did he leave so early?",
+        "answer": "I wonder why he left so early.",
+        "explanation": "Bez did; left."
+      }
+    ]
+  }
+]

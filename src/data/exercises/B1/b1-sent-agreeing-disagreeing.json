@@ -1,0 +1,341 @@
+[
+  {
+    "id": "b1-sent-agreeing-disagreeing-1",
+    "topicId": "b1-sent-agreeing-disagreeing",
+    "exercises": [
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Exactly!|Dokładnie!",
+          "You're right.|Masz rację.",
+          "I'm not sure about that.|Nie jestem tego pewien.",
+          "Neither do I.|Ja też nie."
+        ],
+        "explanation": "Zgoda i niezgoda."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-02",
+        "type": "cloze",
+        "prompt": "I agree ___ you. (z)",
+        "answer": "with",
+        "explanation": "Agree with."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-03",
+        "type": "cloze",
+        "prompt": "I see what you ___, but I don't agree. (masz na myśli)",
+        "answer": "mean",
+        "explanation": "I see what you mean."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-04",
+        "type": "choice",
+        "prompt": "\"I love this song.\" – \"So ___ I.\"",
+        "answer": "do",
+        "distractors": [
+          "am",
+          "love"
+        ],
+        "explanation": "So do I."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-05",
+        "type": "choice",
+        "prompt": "\"I don't eat meat.\" – \"___ do I.\"",
+        "answer": "Neither",
+        "distractors": [
+          "So",
+          "Either"
+        ],
+        "explanation": "Neither do I."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-06",
+        "type": "error",
+        "prompt": "I agree to you about the price.",
+        "answer": [
+          "to",
+          "with"
+        ],
+        "explanation": "Agree with somebody."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-07",
+        "type": "tiles",
+        "prompt": "Masz całkowitą rację.",
+        "answer": [
+          "You",
+          "are",
+          "absolutely",
+          "right"
+        ],
+        "distractors": [
+          "have",
+          "reason"
+        ],
+        "explanation": "Absolutely right."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-08",
+        "type": "translate",
+        "prompt": "Obawiam się, że się nie zgadzam.",
+        "answer": "I'm afraid I disagree.",
+        "accept": [
+          "I'm afraid I don't agree.",
+          "I am afraid I disagree.",
+          "I am afraid I don't agree.",
+          "I am afraid I do not agree."
+        ],
+        "explanation": "Grzeczna niezgoda."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-09",
+        "type": "choice",
+        "prompt": "Which is the most polite way to disagree?",
+        "answer": "I'm not sure I agree with that.",
+        "distractors": [
+          "You're wrong!",
+          "That's stupid."
+        ],
+        "explanation": "Zmiękczona niezgoda."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-1-10",
+        "type": "transform",
+        "prompt": "Zmiękcz niezgodę, zacznij od „I'm afraid”.\nI don't agree.",
+        "answer": "I'm afraid I don't agree.",
+        "accept": [
+          "I'm afraid I disagree.",
+          "I am afraid I don't agree.",
+          "I am afraid I disagree."
+        ],
+        "explanation": "I'm afraid..."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-agreeing-disagreeing-2",
+    "topicId": "b1-sent-agreeing-disagreeing",
+    "exercises": [
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "That's true.|To prawda.",
+          "I see it differently.|Widzę to inaczej.",
+          "That's a good point.|Dobra uwaga.",
+          "Me too.|Ja też."
+        ],
+        "explanation": "Zgoda i niezgoda."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-02",
+        "type": "cloze",
+        "prompt": "That's a good ___, but it's too expensive. (uwaga)",
+        "answer": "point",
+        "explanation": "A good point."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-03",
+        "type": "cloze",
+        "prompt": "I don't ___ agree. (naprawdę)",
+        "answer": "really",
+        "explanation": "I don't really agree."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-04",
+        "type": "choice",
+        "prompt": "\"I can't swim.\" – \"Neither ___ I.\"",
+        "answer": "can",
+        "distractors": [
+          "do",
+          "am"
+        ],
+        "explanation": "Neither can I."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-05",
+        "type": "choice",
+        "prompt": "We agreed ___ the price.",
+        "answer": "on",
+        "distractors": [
+          "with",
+          "to"
+        ],
+        "explanation": "Agree on something."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-06",
+        "type": "error",
+        "prompt": "I am agreeing with you completely.",
+        "answer": [
+          "agreeing",
+          "agree"
+        ],
+        "explanation": "Agree – bez -ing."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-07",
+        "type": "tiles",
+        "prompt": "Myślę tak samo.",
+        "answer": [
+          "I",
+          "think",
+          "so",
+          "too"
+        ],
+        "distractors": [
+          "same",
+          "yes"
+        ],
+        "explanation": "I think so too."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-08",
+        "type": "translate",
+        "prompt": "To dobra uwaga.",
+        "answer": "That's a good point.",
+        "accept": [
+          "That is a good point.",
+          "It's a good point.",
+          "It is a good point."
+        ],
+        "explanation": "A good point."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-09",
+        "type": "choice",
+        "prompt": "\"I'm tired.\" – \"So ___ I.\"",
+        "answer": "am",
+        "distractors": [
+          "do",
+          "have"
+        ],
+        "explanation": "So am I."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-2-10",
+        "type": "transform",
+        "prompt": "Zamień na częściową zgodę, zacznij od „You may be right, but”.\nYou're right. But it's very expensive.",
+        "answer": "You may be right, but it's very expensive.",
+        "accept": [
+          "You may be right, but it is very expensive."
+        ],
+        "explanation": "You may be right, but..."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-agreeing-disagreeing-3",
+    "topicId": "b1-sent-agreeing-disagreeing",
+    "exercises": [
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Absolutely!|Zdecydowanie!",
+          "I don't think so.|Nie sądzę.",
+          "Fair enough.|W porządku, rozumiem.",
+          "Not really.|Niezupełnie."
+        ],
+        "explanation": "Krótkie reakcje."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-02",
+        "type": "cloze",
+        "prompt": "\"I've never been to Spain.\" – \"Neither ___ I.\"",
+        "answer": "have",
+        "explanation": "Neither have I."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-03",
+        "type": "cloze",
+        "prompt": "I'm afraid I ___. (nie zgadzam się – jedno słowo)",
+        "answer": "disagree",
+        "explanation": "Disagree."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-04",
+        "type": "choice",
+        "prompt": "\"I didn't like the film.\" – \"___\"",
+        "answer": "Me neither.",
+        "distractors": [
+          "Me too.",
+          "So did I."
+        ],
+        "explanation": "Zgoda z przeczeniem: Me neither."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-05",
+        "type": "choice",
+        "prompt": "Which phrase shows partial agreement?",
+        "answer": "I see what you mean, but...",
+        "distractors": [
+          "Exactly!",
+          "You're wrong."
+        ],
+        "explanation": "Częściowa zgoda."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-06",
+        "type": "error",
+        "prompt": "\"I don't like it.\" – \"So do I.\"",
+        "answer": [
+          "So",
+          "Neither"
+        ],
+        "explanation": "Zgoda z przeczeniem: Neither do I."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-07",
+        "type": "tiles",
+        "prompt": "Nie do końca się z tobą zgadzam.",
+        "answer": [
+          "I",
+          "don't",
+          "completely",
+          "agree",
+          "with",
+          "you"
+        ],
+        "distractors": [
+          "to",
+          "complete"
+        ],
+        "explanation": "Don't completely agree."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-08",
+        "type": "translate",
+        "prompt": "Masz rację.",
+        "answer": "You're right.",
+        "accept": [
+          "You are right."
+        ],
+        "explanation": "You're right."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "I agree with you.",
+        "distractors": [
+          "I am agree with you.",
+          "I agree you."
+        ],
+        "explanation": "I agree with you."
+      },
+      {
+        "id": "b1-sent-agreeing-disagreeing-3-10",
+        "type": "transform",
+        "prompt": "Zareaguj zgodą, użyj „So”.\nI was really tired yesterday.",
+        "answer": "So was I.",
+        "explanation": "So + was + I."
+      }
+    ]
+  }
+]

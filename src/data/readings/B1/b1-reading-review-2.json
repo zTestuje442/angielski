@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-review-2",
+  "topicId": "b1-reading-review",
+  "title": "Book review: The Silent Station",
+  "text": "The Silent Station is the third novel by the young Scottish writer Eilidh Grant, and in my opinion it's her best so far. It's a mystery story, but it's also a book about loneliness, friendship and second chances.\n\nThe story takes place in a tiny village in the Highlands, where the last train stopped running thirty years ago. Rosie, a forty-year-old journalist from London, arrives there after losing her job and her marriage in the same month. She rents a room above the old station building, which is now a café. One night, she hears a train whistle – but there are no trains any more. As she tries to find out what is happening, she discovers a secret that the villagers have kept for decades.\n\nWhat I loved most about this book were the characters. Rosie is funny, honest and sometimes annoying, which makes her feel real. The old café owner, Hamish, is wonderful too: grumpy at first, but kind underneath. Grant also describes the landscape beautifully – you can almost feel the cold wind and smell the rain.\n\nHowever, the book isn't perfect. The first hundred pages are quite slow, and some readers might give up before the story really starts. The ending also felt a little rushed to me, as if the writer had run out of time.\n\nStill, I couldn't put it down for the last two hundred pages, and I've been thinking about it for days. If you enjoy quiet, atmospheric mysteries with interesting characters, I highly recommend it. If you prefer fast action and lots of crime, this probably isn't the book for you.",
+  "exercises": [
+    {
+      "id": "b1-reading-review-2-01",
+      "type": "choice",
+      "prompt": "The Silent Station is Eilidh Grant's first novel.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "To jej trzecia powieść."
+    },
+    {
+      "id": "b1-reading-review-2-02",
+      "type": "choice",
+      "prompt": "Rosie works as a journalist.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Rosie, a forty-year-old journalist...”"
+    },
+    {
+      "id": "b1-reading-review-2-03",
+      "type": "choice",
+      "prompt": "The book has been made into a film.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o filmie."
+    },
+    {
+      "id": "b1-reading-review-2-04",
+      "type": "choice",
+      "prompt": "Why does Rosie come to the village?",
+      "answer": "Her life in London has fallen apart.",
+      "distractors": [
+        "She wants to buy the station.",
+        "Her family lives there."
+      ],
+      "explanation": "„...after losing her job and her marriage...”"
+    },
+    {
+      "id": "b1-reading-review-2-05",
+      "type": "choice",
+      "prompt": "What is strange about the night?",
+      "answer": "She hears a train, but there are no trains.",
+      "distractors": [
+        "The café is empty.",
+        "The village has no lights."
+      ],
+      "explanation": "„...she hears a train whistle – but there are no trains any more.”"
+    },
+    {
+      "id": "b1-reading-review-2-06",
+      "type": "choice",
+      "prompt": "What does the reviewer think is weak?",
+      "answer": "the slow beginning and the rushed ending",
+      "distractors": [
+        "the characters",
+        "the descriptions of the landscape"
+      ],
+      "explanation": "Wolny początek i pospieszne zakończenie."
+    },
+    {
+      "id": "b1-reading-review-2-07",
+      "type": "choice",
+      "prompt": "Who would NOT enjoy the book, according to the reviewer?",
+      "answer": "readers who like fast action",
+      "distractors": [
+        "readers who like mysteries",
+        "readers who like interesting characters"
+      ],
+      "explanation": "„If you prefer fast action... this probably isn't the book for you.”"
+    },
+    {
+      "id": "b1-reading-review-2-08",
+      "type": "cloze",
+      "prompt": "Hamish is grumpy at first, but kind ___. (w głębi)",
+      "answer": "underneath",
+      "explanation": "W głębi: underneath."
+    },
+    {
+      "id": "b1-reading-review-2-09",
+      "type": "cloze",
+      "prompt": "I couldn't ___ it down for the last two hundred pages.",
+      "answer": "put",
+      "explanation": "Can't put a book down – nie móc się oderwać."
+    },
+    {
+      "id": "b1-reading-review-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "loneliness|samotność",
+        "grumpy|zrzędliwy",
+        "landscape|krajobraz",
+        "rushed|pospieszny"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

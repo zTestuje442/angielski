@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-story-2",
+  "topicId": "b1-reading-story",
+  "title": "The house by the lake",
+  "text": "Every summer, when I was a child, my family rented the same wooden house by a lake in Masuria. It belonged to an old man called Mr Zieliński, who lived in a small cottage next to it. He was quiet and a bit strange, and we children were afraid of him. He never smiled, and he spent hours sitting on his boat in the middle of the lake.\n\nOne August, when I was eleven, I took our little rowing boat out alone, although my parents had told me never to do that. It was a sunny afternoon and the water was calm. I rowed further and further, singing to myself. Then, suddenly, the wind changed. Dark clouds appeared, and within minutes the waves were so high that I couldn't control the boat. One of my oars fell into the water.\n\nI was terrified. I shouted for help, but the shore was too far away. Then I saw another boat coming towards me. It was Mr Zieliński. He threw me a rope, tied my boat to his and rowed us both back to the shore through the storm. He didn't say a word the whole time.\n\nWhen we arrived, my parents were waiting on the beach, white with fear. My mother hugged me and cried. Mr Zieliński just nodded and went back to his cottage.\n\nThe next morning, I knocked on his door with a cake my mother had baked. He invited me in, and for the first time I saw him smile. His walls were covered with photos of boats. \"I used to be a sailor,\" he said. That summer, he taught me how to sail. We stayed friends until he died, many years later.",
+  "exercises": [
+    {
+      "id": "b1-reading-story-2-01",
+      "type": "choice",
+      "prompt": "The family stayed in a different house every summer.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...the same wooden house...”"
+    },
+    {
+      "id": "b1-reading-story-2-02",
+      "type": "choice",
+      "prompt": "The narrator's parents had said not to take the boat out alone.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...my parents had told me never to do that.”"
+    },
+    {
+      "id": "b1-reading-story-2-03",
+      "type": "choice",
+      "prompt": "Mr Zieliński had children.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "b1-reading-story-2-04",
+      "type": "choice",
+      "prompt": "Why were the children afraid of Mr Zieliński?",
+      "answer": "He was quiet, strange and never smiled.",
+      "distractors": [
+        "He shouted at them.",
+        "He had a big dog."
+      ],
+      "explanation": "„He was quiet and a bit strange... He never smiled.”"
+    },
+    {
+      "id": "b1-reading-story-2-05",
+      "type": "choice",
+      "prompt": "What happened when the wind changed?",
+      "answer": "The waves became very high.",
+      "distractors": [
+        "The boat sank immediately.",
+        "The sun came out."
+      ],
+      "explanation": "„...the waves were so high that I couldn't control the boat.”"
+    },
+    {
+      "id": "b1-reading-story-2-06",
+      "type": "choice",
+      "prompt": "How did Mr Zieliński help?",
+      "answer": "He tied the boat to his and rowed back.",
+      "distractors": [
+        "He called the police.",
+        "He swam to the boat."
+      ],
+      "explanation": "„He threw me a rope, tied my boat to his and rowed us both back...”"
+    },
+    {
+      "id": "b1-reading-story-2-07",
+      "type": "choice",
+      "prompt": "What did the narrator learn that summer?",
+      "answer": "how to sail",
+      "distractors": [
+        "how to bake a cake",
+        "how to swim"
+      ],
+      "explanation": "„That summer, he taught me how to sail.”"
+    },
+    {
+      "id": "b1-reading-story-2-08",
+      "type": "cloze",
+      "prompt": "One of my ___ fell into the water. (wiosła)",
+      "answer": "oars",
+      "explanation": "Wiosło: oar."
+    },
+    {
+      "id": "b1-reading-story-2-09",
+      "type": "cloze",
+      "prompt": "\"I used to be a ___,\" he said. (marynarz)",
+      "answer": "sailor",
+      "explanation": "Marynarz: sailor."
+    },
+    {
+      "id": "b1-reading-story-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "rent|wynajmować",
+        "shore|brzeg",
+        "terrified|przerażony",
+        "rope|lina"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

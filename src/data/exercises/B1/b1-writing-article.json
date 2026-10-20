@@ -1,0 +1,331 @@
+[
+  {
+    "id": "b1-writing-article-1",
+    "topicId": "b1-writing-article",
+    "exercises": [
+      {
+        "id": "b1-writing-article-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Have you ever...?|Czy kiedykolwiek...?",
+          "Imagine...|Wyobraź sobie...",
+          "Why not give it a try?|Czemu nie spróbować?",
+          "What are you waiting for?|Na co czekasz?"
+        ],
+        "explanation": "Zwroty z artykułu."
+      },
+      {
+        "id": "b1-writing-article-1-02",
+        "type": "choice",
+        "prompt": "Which is the best start for an article?",
+        "answer": "Have you ever wanted to learn to dance?",
+        "distractors": [
+          "Dear readers, I am writing to inform you.",
+          "Yours sincerely, Ola"
+        ],
+        "explanation": "Pytanie do czytelnika."
+      },
+      {
+        "id": "b1-writing-article-1-03",
+        "type": "choice",
+        "prompt": "Which is a good article title?",
+        "answer": "Five Reasons to Love Rainy Days",
+        "distractors": [
+          "Dear Editor",
+          "My answer"
+        ],
+        "explanation": "Ciekawy tytuł."
+      },
+      {
+        "id": "b1-writing-article-1-04",
+        "type": "cloze",
+        "prompt": "___ you're on a beach with no phone. How do you feel? (wyobraź sobie)",
+        "answer": "Imagine",
+        "explanation": "Imagine..."
+      },
+      {
+        "id": "b1-writing-article-1-05",
+        "type": "cloze",
+        "prompt": "So why not give it a ___?",
+        "answer": "try",
+        "explanation": "Give it a try."
+      },
+      {
+        "id": "b1-writing-article-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż artykuł.",
+        "answer": [
+          "Have you ever tried cooking food from another country?",
+          "Last month I made Indian curry for the first time.",
+          "It was easier than I expected and my family loved it.",
+          "So why not choose a new recipe this weekend?"
+        ],
+        "distractors": [
+          "Yours sincerely,"
+        ],
+        "explanation": "Pytanie, doświadczenie, efekt, zachęta. Formalne zakończenie nie pasuje."
+      },
+      {
+        "id": "b1-writing-article-1-07",
+        "type": "error",
+        "prompt": "Have you ever try rock climbing?",
+        "answer": [
+          "try",
+          "tried"
+        ],
+        "explanation": "Have you ever + III forma."
+      },
+      {
+        "id": "b1-writing-article-1-08",
+        "type": "translate",
+        "prompt": "Na co czekasz?",
+        "answer": "What are you waiting for?",
+        "explanation": "Zachęta na końcu."
+      },
+      {
+        "id": "b1-writing-article-1-09",
+        "type": "transform",
+        "prompt": "Zamień na pytanie do czytelnika z „Have you ever”.\nMany people have tried yoga.",
+        "answer": "Have you ever tried yoga?",
+        "explanation": "Have you ever + III forma."
+      },
+      {
+        "id": "b1-writing-article-1-10",
+        "type": "choice",
+        "prompt": "Who reads an article for a school magazine?",
+        "answer": "other students",
+        "distractors": [
+          "a bank manager",
+          "only the teacher"
+        ],
+        "explanation": "Czytelnicy gazetki."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-article-2",
+    "topicId": "b1-writing-article",
+    "exercises": [
+      {
+        "id": "b1-writing-article-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "Firstly,|Po pierwsze",
+          "What's more,|Co więcej",
+          "For example,|Na przykład",
+          "All in all,|Podsumowując"
+        ],
+        "explanation": "Słowa łączące."
+      },
+      {
+        "id": "b1-writing-article-2-02",
+        "type": "choice",
+        "prompt": "___, cycling is good for your health.",
+        "answer": "Firstly",
+        "distractors": [
+          "Dear",
+          "Yours"
+        ],
+        "explanation": "Pierwszy argument."
+      },
+      {
+        "id": "b1-writing-article-2-03",
+        "type": "choice",
+        "prompt": "What's ___, it's cheaper than driving.",
+        "answer": "more",
+        "distractors": [
+          "most",
+          "much"
+        ],
+        "explanation": "What's more."
+      },
+      {
+        "id": "b1-writing-article-2-04",
+        "type": "cloze",
+        "prompt": "All ___ all, it's a great hobby.",
+        "answer": "in",
+        "explanation": "All in all."
+      },
+      {
+        "id": "b1-writing-article-2-05",
+        "type": "cloze",
+        "prompt": "For ___, you can join a local club. (na przykład)",
+        "answer": "example",
+        "accept": [
+          "instance"
+        ],
+        "explanation": "For example."
+      },
+      {
+        "id": "b1-writing-article-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż artykuł.",
+        "answer": [
+          "Why do so many people love running?",
+          "Firstly, you don't need any expensive equipment.",
+          "What's more, it helps you relax after a long day.",
+          "All in all, it's the perfect sport for busy people."
+        ],
+        "distractors": [
+          "Thank you for your letter."
+        ],
+        "explanation": "Pytanie, argument, kolejny argument, podsumowanie."
+      },
+      {
+        "id": "b1-writing-article-2-07",
+        "type": "error",
+        "prompt": "Running is a cheap sport. What's most, it's good for your heart.",
+        "answer": [
+          "most",
+          "more"
+        ],
+        "explanation": "What's more."
+      },
+      {
+        "id": "b1-writing-article-2-08",
+        "type": "translate",
+        "prompt": "Co więcej, to jest darmowe.",
+        "answer": "What's more, it's free.",
+        "accept": [
+          "What's more, it is free.",
+          "Moreover, it is free.",
+          "Moreover, it's free.",
+          "What is more, it is free."
+        ],
+        "explanation": "What's more."
+      },
+      {
+        "id": "b1-writing-article-2-09",
+        "type": "transform",
+        "prompt": "Zamień na zachętę z „Why not”.\nYou should try it.",
+        "answer": "Why not try it?",
+        "accept": [
+          "Why not give it a try?"
+        ],
+        "explanation": "Why not + czasownik?"
+      },
+      {
+        "id": "b1-writing-article-2-10",
+        "type": "choice",
+        "prompt": "Which sentence is too formal for an article?",
+        "answer": "I am writing to apply for the position.",
+        "distractors": [
+          "Guess what happened next!",
+          "You'll love it."
+        ],
+        "explanation": "Zwrot z podania."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-article-3",
+    "topicId": "b1-writing-article",
+    "exercises": [
+      {
+        "id": "b1-writing-article-3-01",
+        "type": "match",
+        "prompt": "Połącz część z jej rolą.",
+        "answer": [
+          "Title|przyciąga uwagę",
+          "Introduction|pytanie do czytelnika",
+          "Main paragraphs|przykłady i doświadczenia",
+          "Conclusion|zachęta lub podsumowanie"
+        ],
+        "explanation": "Części artykułu."
+      },
+      {
+        "id": "b1-writing-article-3-02",
+        "type": "choice",
+        "prompt": "Which sentence talks directly to the reader?",
+        "answer": "You'll be surprised how easy it is.",
+        "distractors": [
+          "The survey was carried out in May.",
+          "Yours faithfully,"
+        ],
+        "explanation": "Zwrot do czytelnika: you."
+      },
+      {
+        "id": "b1-writing-article-3-03",
+        "type": "choice",
+        "prompt": "I think everyone ___ try volunteering at least once.",
+        "answer": "should",
+        "distractors": [
+          "must to",
+          "ought"
+        ],
+        "explanation": "Rada: should."
+      },
+      {
+        "id": "b1-writing-article-3-04",
+        "type": "cloze",
+        "prompt": "Volunteering is a great way to meet new ___. (ludzi)",
+        "answer": "people",
+        "explanation": "People."
+      },
+      {
+        "id": "b1-writing-article-3-05",
+        "type": "cloze",
+        "prompt": "Do you know how much plastic we throw ___ every day?",
+        "answer": "away",
+        "explanation": "Throw away."
+      },
+      {
+        "id": "b1-writing-article-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż artykuł.",
+        "answer": [
+          "Do you know how much time you spend on your phone?",
+          "Most teenagers spend over five hours a day online.",
+          "Try turning your phone off for one evening a week.",
+          "You might discover how much free time you really have!"
+        ],
+        "distractors": [
+          "Dear Sir or Madam,"
+        ],
+        "explanation": "Pytanie, fakt, rada, zachęta. Formalne powitanie nie pasuje."
+      },
+      {
+        "id": "b1-writing-article-3-07",
+        "type": "error",
+        "prompt": "Everyone should tries volunteering.",
+        "answer": [
+          "tries",
+          "try"
+        ],
+        "explanation": "Should + forma podstawowa."
+      },
+      {
+        "id": "b1-writing-article-3-08",
+        "type": "translate",
+        "prompt": "Spróbuj wyłączyć telefon na jeden wieczór.",
+        "answer": "Try turning off your phone for one evening.",
+        "accept": [
+          "Try switching off your phone for one evening.",
+          "Try turning your phone off for one evening.",
+          "Try switching your phone off for one evening."
+        ],
+        "explanation": "Try + -ing."
+      },
+      {
+        "id": "b1-writing-article-3-09",
+        "type": "transform",
+        "prompt": "Zamień na pytanie retoryczne, zacznij od „Do you know”.\nWe throw away a lot of food.",
+        "answer": "Do you know how much food we throw away?",
+        "explanation": "Pytanie pośrednie: szyk twierdzący."
+      },
+      {
+        "id": "b1-writing-article-3-10",
+        "type": "choice",
+        "prompt": "How long is a B1 article?",
+        "answer": "100–150 words",
+        "distractors": [
+          "10–20 words",
+          "500 words"
+        ],
+        "explanation": "B1: 100–150 słów."
+      }
+    ]
+  }
+]

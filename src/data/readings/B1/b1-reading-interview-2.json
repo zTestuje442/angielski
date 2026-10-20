@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-interview-2",
+  "topicId": "b1-reading-interview",
+  "title": "The youngest guide",
+  "text": "At just nineteen, Oskar Wójcik is one of the youngest licensed tour guides in Kraków. He shows tourists around the city in four languages. We met him in a café in the Main Square.\n\nHow did you become a guide?\nI've always loved history. When I was fourteen, I started reading everything about Kraków, and I used to give \"tours\" to my family when relatives visited. Last year I passed the official exam. It was really hard – there were questions about every church and every king!\n\nWhich languages do you speak?\nPolish, of course, English, German and Spanish. My mother is from Spain, so Spanish was easy. I learned German at school and from watching TV series. English I practise every day with tourists.\n\nDo tourists trust such a young guide?\nAt first some of them are surprised. Once an older American man asked me if my father was the real guide! But after ten minutes, when they see how much I know, they relax. I think my age is actually an advantage: I talk to people in a natural way and I'm not boring.\n\nWhat is the most difficult part of the job?\nThe weather and the questions! In winter it's freezing, and you're outside for three hours. And tourists sometimes ask questions you can't prepare for – once someone asked me how many pigeons live in the Main Square.\n\nWhat are your plans for the future?\nI've just started studying history at university. I'd like to write a guidebook about the hidden places in Kraków – the small streets and courtyards that tourists usually miss. Maybe one day I'll make videos about them, too.",
+  "exercises": [
+    {
+      "id": "b1-reading-interview-2-01",
+      "type": "choice",
+      "prompt": "Oskar speaks four languages.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...in four languages.”"
+    },
+    {
+      "id": "b1-reading-interview-2-02",
+      "type": "choice",
+      "prompt": "The official exam was easy.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„It was really hard...”"
+    },
+    {
+      "id": "b1-reading-interview-2-03",
+      "type": "choice",
+      "prompt": "Oskar's father is also a guide.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Turysta o to pytał, ale tekst nie mówi, czy to prawda."
+    },
+    {
+      "id": "b1-reading-interview-2-04",
+      "type": "choice",
+      "prompt": "How did Oskar learn German?",
+      "answer": "at school and from TV series",
+      "distractors": [
+        "from his mother",
+        "in Germany"
+      ],
+      "explanation": "„I learned German at school and from watching TV series.”"
+    },
+    {
+      "id": "b1-reading-interview-2-05",
+      "type": "choice",
+      "prompt": "How do tourists usually react after a few minutes?",
+      "answer": "They relax.",
+      "distractors": [
+        "They ask for another guide.",
+        "They leave the tour."
+      ],
+      "explanation": "„...after ten minutes... they relax.”"
+    },
+    {
+      "id": "b1-reading-interview-2-06",
+      "type": "choice",
+      "prompt": "Why does Oskar think his age is an advantage?",
+      "answer": "He talks to people naturally and isn't boring.",
+      "distractors": [
+        "Young guides are cheaper.",
+        "Tourists prefer students."
+      ],
+      "explanation": "„I talk to people in a natural way and I'm not boring.”"
+    },
+    {
+      "id": "b1-reading-interview-2-07",
+      "type": "choice",
+      "prompt": "What does Oskar want to write?",
+      "answer": "a guidebook about hidden places",
+      "distractors": [
+        "a history textbook",
+        "a novel"
+      ],
+      "explanation": "„I'd like to write a guidebook about the hidden places...”"
+    },
+    {
+      "id": "b1-reading-interview-2-08",
+      "type": "cloze",
+      "prompt": "I used to give \"tours\" to my family when ___ visited. (krewni)",
+      "answer": "relatives",
+      "explanation": "Krewni: relatives."
+    },
+    {
+      "id": "b1-reading-interview-2-09",
+      "type": "cloze",
+      "prompt": "In winter it's ___, and you're outside for three hours. (lodowato)",
+      "answer": "freezing",
+      "explanation": "Freezing – lodowato zimno."
+    },
+    {
+      "id": "b1-reading-interview-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "licensed|licencjonowany",
+        "trust|ufać",
+        "advantage|zaleta",
+        "courtyard|podwórko, dziedziniec"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "topicId": "b1-writing-review",
+  "task": "Na anglojęzycznej stronie dla młodych widzów ukazują się recenzje. Napisz **recenzję filmu lub serialu**, który ostatnio obejrzałeś:\n\n- napisz, co to za film i o czym jest (bez zdradzania zakończenia),\n- opisz, co ci się podobało, a co nie,\n- napisz, komu go polecasz i dlaczego.",
+  "words": [
+    100,
+    150
+  ],
+  "model": "A Film That Made Me Think\n\nLast weekend I watched Wonder, an American film based on a famous novel. It's about Auggie, a ten-year-old boy with a rare face condition, who goes to a normal school for the first time.\n\nThe best thing about the film is the acting. Jacob Tremblay is brilliant as Auggie, and Julia Roberts is very moving as his mother. I also liked the way the story is told: some parts show the same events through the eyes of Auggie's sister and his friends, which makes the film more interesting.\n\nHowever, some scenes are a little too sweet, and the ending is quite predictable.\n\nStill, I'd definitely recommend Wonder to families and teenagers. It's funny and sad at the same time, and it reminds us to be kind. Don't forget your tissues!",
+  "checklist": [
+    "Recenzja ma tytuł.",
+    "We wstępie podaję tytuł i rodzaj filmu.",
+    "Krótko opisuję fabułę bez zdradzania zakończenia (It's about...).",
+    "Piszę o zaletach i wadach (The best thing about it is... / However, ...).",
+    "Kończę rekomendacją (I'd recommend it to...).",
+    "Tekst ma 100–150 słów."
+  ]
+}

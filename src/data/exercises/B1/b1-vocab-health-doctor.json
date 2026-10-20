@@ -1,0 +1,342 @@
+[
+  {
+    "id": "b1-vocab-health-doctor-1",
+    "topicId": "b1-vocab-health-doctor",
+    "exercises": [
+      {
+        "id": "b1-vocab-health-doctor-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "prescription|recepta",
+          "painkiller|środek przeciwbólowy",
+          "appointment|wizyta (umówiona)",
+          "injection|zastrzyk"
+        ],
+        "explanation": "U lekarza i w aptece."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-02",
+        "type": "cloze",
+        "prompt": "I'd like to make an ___ with Dr Nowak. (wizyta)",
+        "answer": "appointment",
+        "explanation": "Make an appointment."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-03",
+        "type": "cloze",
+        "prompt": "I've got a sore ___. It hurts when I swallow. (gardło)",
+        "answer": "throat",
+        "explanation": "Sore throat."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-04",
+        "type": "choice",
+        "prompt": "What's the ___? – I've got a terrible headache.",
+        "answer": "matter",
+        "distractors": [
+          "problem with",
+          "wrong of"
+        ],
+        "explanation": "What's the matter?"
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-05",
+        "type": "choice",
+        "prompt": "Take two ___ a day after meals.",
+        "answer": "tablets",
+        "distractors": [
+          "recipes",
+          "receipts"
+        ],
+        "explanation": "Tabletki: tablets."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-06",
+        "type": "error",
+        "prompt": "The doctor gave me a recipe for antibiotics.",
+        "answer": [
+          "recipe",
+          "prescription"
+        ],
+        "explanation": "Recepta: prescription."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-07",
+        "type": "tiles",
+        "prompt": "Mam gorączkę i boli mnie głowa.",
+        "answer": [
+          "I",
+          "have",
+          "a",
+          "temperature",
+          "and",
+          "a",
+          "headache"
+        ],
+        "distractors": [
+          "fever's",
+          "pain"
+        ],
+        "explanation": "Have a temperature."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-08",
+        "type": "translate",
+        "prompt": "Muszę iść do lekarza.",
+        "answer": "I need to see a doctor.",
+        "accept": [
+          "I have to see a doctor.",
+          "I need to go to the doctor.",
+          "I have to go to the doctor.",
+          "I must see a doctor.",
+          "I need to go to the doctor's.",
+          "I have to go to the doctor's."
+        ],
+        "explanation": "See a doctor."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-09",
+        "type": "choice",
+        "prompt": "You buy medicine at the ___.",
+        "answer": "chemist's",
+        "distractors": [
+          "chemistry",
+          "doctor's"
+        ],
+        "explanation": "Apteka: chemist's / pharmacy."
+      },
+      {
+        "id": "b1-vocab-health-doctor-1-10",
+        "type": "transform",
+        "prompt": "Zamień na radę z „should”.\nStay in bed for two days.",
+        "answer": "You should stay in bed for two days.",
+        "explanation": "Should + czasownik."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-health-doctor-2",
+    "topicId": "b1-vocab-health-doctor",
+    "exercises": [
+      {
+        "id": "b1-vocab-health-doctor-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "cough|kaszel",
+          "rash|wysypka",
+          "flu|grypa",
+          "dizzy|mający zawroty głowy"
+        ],
+        "explanation": "Objawy i choroby."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-02",
+        "type": "cloze",
+        "prompt": "I've got a cold. I can't stop ___. (kichać)",
+        "answer": "sneezing",
+        "explanation": "Sneeze → sneezing."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-03",
+        "type": "cloze",
+        "prompt": "I hope you get ___ soon! (wyzdrowiejesz)",
+        "answer": "better",
+        "explanation": "Get better."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-04",
+        "type": "choice",
+        "prompt": "My ankle is ___ after I fell.",
+        "answer": "swollen",
+        "distractors": [
+          "swallowed",
+          "sweating"
+        ],
+        "explanation": "Spuchnięty: swollen."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-05",
+        "type": "choice",
+        "prompt": "I feel ___. I think I'm going to be sick.",
+        "answer": "sick",
+        "distractors": [
+          "ill of",
+          "sickly"
+        ],
+        "explanation": "Feel sick – mdłości."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-06",
+        "type": "error",
+        "prompt": "I have got a pain in my head – I have a terrible headacke.",
+        "answer": [
+          "headacke",
+          "headache"
+        ],
+        "explanation": "Pisownia: headache."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-07",
+        "type": "tiles",
+        "prompt": "Lekarz zbadał moje gardło.",
+        "answer": [
+          "The",
+          "doctor",
+          "examined",
+          "my",
+          "throat"
+        ],
+        "distractors": [
+          "checking",
+          "throats"
+        ],
+        "explanation": "Examine."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-08",
+        "type": "translate",
+        "prompt": "Jestem uczulony na koty.",
+        "answer": "I am allergic to cats.",
+        "accept": [
+          "I'm allergic to cats."
+        ],
+        "explanation": "Allergic to."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-09",
+        "type": "choice",
+        "prompt": "Which is a symptom?",
+        "answer": "a high temperature",
+        "distractors": [
+          "a prescription",
+          "a chemist's"
+        ],
+        "explanation": "Objaw: high temperature."
+      },
+      {
+        "id": "b1-vocab-health-doctor-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie lekarza z „How long”.\nI have had this cough for a week.",
+        "answer": "How long have you had this cough?",
+        "explanation": "How long + Present Perfect."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-health-doctor-3",
+    "topicId": "b1-vocab-health-doctor",
+    "exercises": [
+      {
+        "id": "b1-vocab-health-doctor-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "get well soon|wracaj do zdrowia",
+          "make an appointment|umówić wizytę",
+          "take medicine|brać lekarstwo",
+          "feel better|czuć się lepiej"
+        ],
+        "explanation": "Wyrażenia."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-02",
+        "type": "cloze",
+        "prompt": "This cough ___ will help you. Take one spoon three times a day. (syrop)",
+        "answer": "syrup",
+        "explanation": "Cough syrup."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-03",
+        "type": "cloze",
+        "prompt": "I cut my finger. Have you got a ___? (plaster)",
+        "answer": "plaster",
+        "accept": [
+          "band-aid",
+          "bandage"
+        ],
+        "explanation": "Plaster (BrE)."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-04",
+        "type": "choice",
+        "prompt": "I've got an ___ in my ear. It's very painful.",
+        "answer": "infection",
+        "distractors": [
+          "injection",
+          "infect"
+        ],
+        "explanation": "Infekcja: infection."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-05",
+        "type": "choice",
+        "prompt": "You ___ take this medicine on an empty stomach.",
+        "answer": "mustn't",
+        "distractors": [
+          "don't must",
+          "haven't"
+        ],
+        "explanation": "Zakaz: mustn't."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-06",
+        "type": "error",
+        "prompt": "My leg hurt when I walk.",
+        "answer": [
+          "hurt",
+          "hurts"
+        ],
+        "explanation": "Leg – l. poj.: hurts."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-07",
+        "type": "tiles",
+        "prompt": "Czuję się dużo lepiej dzisiaj.",
+        "answer": [
+          "I",
+          "feel",
+          "much",
+          "better",
+          "today"
+        ],
+        "distractors": [
+          "more",
+          "good"
+        ],
+        "explanation": "Feel better."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-08",
+        "type": "translate",
+        "prompt": "Zdrowiej szybko!",
+        "answer": "Get well soon!",
+        "explanation": "Życzenia: Get well soon!"
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-09",
+        "type": "choice",
+        "prompt": "What does a doctor give you to buy medicine?",
+        "answer": "a prescription",
+        "distractors": [
+          "a recipe",
+          "a receipt"
+        ],
+        "explanation": "Recepta: prescription."
+      },
+      {
+        "id": "b1-vocab-health-doctor-3-10",
+        "type": "transform",
+        "prompt": "Zamień na grzeczną prośbę z „Could I”.\nI want to see the doctor today.",
+        "answer": "Could I see the doctor today?",
+        "accept": [
+          "Could I see the doctor today, please?",
+          "Could I see a doctor today?",
+          "Could I see a doctor today, please?"
+        ],
+        "explanation": "Could I...?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "id": "b1-vocab-travel-problems-1",
+    "topicId": "b1-vocab-travel-problems",
+    "exercises": [
+      {
+        "id": "b1-vocab-travel-problems-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "delay|opóźnienie",
+          "refund|zwrot pieniędzy",
+          "lost property|biuro rzeczy znalezionych",
+          "boarding pass|karta pokładowa"
+        ],
+        "explanation": "Kłopoty w podróży."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-02",
+        "type": "cloze",
+        "prompt": "Our flight was ___ because of the storm. (odwołany)",
+        "answer": "cancelled",
+        "accept": [
+          "canceled"
+        ],
+        "explanation": "Cancel → cancelled."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-03",
+        "type": "cloze",
+        "prompt": "We ___ the train by two minutes! (spóźniliśmy się na)",
+        "answer": "missed",
+        "explanation": "Miss a train."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-04",
+        "type": "choice",
+        "prompt": "The train is ___ by forty minutes.",
+        "answer": "delayed",
+        "distractors": [
+          "late of",
+          "postponed off"
+        ],
+        "explanation": "Be delayed."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-05",
+        "type": "choice",
+        "prompt": "I got ___ in traffic for two hours.",
+        "answer": "stuck",
+        "distractors": [
+          "stopped up",
+          "locked"
+        ],
+        "explanation": "Get stuck in traffic."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-06",
+        "type": "error",
+        "prompt": "The airline lost my baggages.",
+        "answer": [
+          "baggages",
+          "baggage"
+        ],
+        "explanation": "Baggage – niepoliczalne."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-07",
+        "type": "tiles",
+        "prompt": "Nasz samochód zepsuł się na autostradzie.",
+        "answer": [
+          "Our",
+          "car",
+          "broke",
+          "down",
+          "on",
+          "the",
+          "motorway"
+        ],
+        "distractors": [
+          "broken",
+          "breaks"
+        ],
+        "explanation": "Break down."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-08",
+        "type": "translate",
+        "prompt": "Chciałbym zwrot pieniędzy.",
+        "answer": "I would like a refund.",
+        "accept": [
+          "I'd like a refund.",
+          "I would like to get a refund.",
+          "I want a refund.",
+          "I'd like to get a refund."
+        ],
+        "explanation": "Refund."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-09",
+        "type": "choice",
+        "prompt": "You need it to get on the plane.",
+        "answer": "a boarding pass",
+        "distractors": [
+          "a refund",
+          "a delay"
+        ],
+        "explanation": "Karta pokładowa."
+      },
+      {
+        "id": "b1-vocab-travel-problems-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Our flight”.\nThe airline cancelled our flight.",
+        "answer": "Our flight was cancelled.",
+        "accept": [
+          "Our flight was cancelled by the airline.",
+          "Our flight was canceled.",
+          "Our flight was canceled by the airline."
+        ],
+        "explanation": "Was cancelled."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-travel-problems-2",
+    "topicId": "b1-vocab-travel-problems",
+    "exercises": [
+      {
+        "id": "b1-vocab-travel-problems-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "miss a connection|spóźnić się na przesiadkę",
+          "break down|zepsuć się",
+          "excess baggage|nadbagaż",
+          "travel insurance|ubezpieczenie podróżne"
+        ],
+        "explanation": "Kłopoty w podróży."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-02",
+        "type": "cloze",
+        "prompt": "Our room is too ___. There's a disco next door! (głośny)",
+        "answer": "noisy",
+        "explanation": "Noisy."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-03",
+        "type": "cloze",
+        "prompt": "I'd like to ___ about the room. The shower doesn't work. (złożyć skargę)",
+        "answer": "complain",
+        "explanation": "Complain about."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-04",
+        "type": "choice",
+        "prompt": "We missed our ___ in Frankfurt, so we arrived a day late.",
+        "answer": "connection",
+        "distractors": [
+          "connecting",
+          "link up"
+        ],
+        "explanation": "Przesiadka: connection."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-05",
+        "type": "choice",
+        "prompt": "Always buy travel ___ before a long trip.",
+        "answer": "insurance",
+        "distractors": [
+          "assurance",
+          "insure"
+        ],
+        "explanation": "Travel insurance."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-06",
+        "type": "error",
+        "prompt": "They lost my luggages at the airport.",
+        "answer": [
+          "luggages",
+          "luggage"
+        ],
+        "explanation": "Luggage – niepoliczalne."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-07",
+        "type": "tiles",
+        "prompt": "Zgubiłem portfel na dworcu.",
+        "answer": [
+          "I",
+          "lost",
+          "my",
+          "wallet",
+          "at",
+          "the",
+          "station"
+        ],
+        "distractors": [
+          "losted",
+          "on"
+        ],
+        "explanation": "Lose → lost."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-08",
+        "type": "translate",
+        "prompt": "Hotel był przepełniony.",
+        "answer": "The hotel was overbooked.",
+        "accept": [
+          "The hotel was overbooked!"
+        ],
+        "explanation": "Overbooked."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-09",
+        "type": "choice",
+        "prompt": "If your flight is very late, you can ask for ___.",
+        "answer": "compensation",
+        "distractors": [
+          "a prescription",
+          "a tip"
+        ],
+        "explanation": "Odszkodowanie: compensation."
+      },
+      {
+        "id": "b1-vocab-travel-problems-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „Where”.\nI can find the lost property office over there.",
+        "answer": "Where can I find the lost property office?",
+        "explanation": "Where can I find...?"
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-travel-problems-3",
+    "topicId": "b1-vocab-travel-problems",
+    "exercises": [
+      {
+        "id": "b1-vocab-travel-problems-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "cancel|odwołać",
+          "rebook|zmienić rezerwację",
+          "damaged|uszkodzony",
+          "compensation|odszkodowanie"
+        ],
+        "explanation": "Słowa z podróży."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-02",
+        "type": "cloze",
+        "prompt": "My suitcase arrived ___. The handle was broken. (uszkodzona)",
+        "answer": "damaged",
+        "explanation": "Damaged."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-03",
+        "type": "cloze",
+        "prompt": "We had to pay for ___ baggage – our bags were too heavy. (nadbagaż)",
+        "answer": "excess",
+        "explanation": "Excess baggage."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-04",
+        "type": "choice",
+        "prompt": "The air conditioning ___ work.",
+        "answer": "doesn't",
+        "distractors": [
+          "isn't",
+          "don't"
+        ],
+        "explanation": "Doesn't work."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-05",
+        "type": "choice",
+        "prompt": "Can I ___ my flight for tomorrow?",
+        "answer": "rebook",
+        "distractors": [
+          "rebooking",
+          "book again of"
+        ],
+        "explanation": "Rebook."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-06",
+        "type": "error",
+        "prompt": "The flight is delay because of fog.",
+        "answer": [
+          "delay",
+          "delayed"
+        ],
+        "explanation": "Be delayed."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-07",
+        "type": "tiles",
+        "prompt": "Czy może mi pan pomóc?",
+        "answer": [
+          "Could",
+          "you",
+          "help",
+          "me",
+          "please"
+        ],
+        "distractors": [
+          "helping",
+          "to"
+        ],
+        "explanation": "Could you...?"
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-08",
+        "type": "translate",
+        "prompt": "Spóźniłem się na autobus.",
+        "answer": "I missed the bus.",
+        "explanation": "Miss the bus."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Our train was cancelled.",
+        "distractors": [
+          "Our train was cancel.",
+          "Our train cancelled us."
+        ],
+        "explanation": "Was cancelled."
+      },
+      {
+        "id": "b1-vocab-travel-problems-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „so”.\nThe train was late. I missed my meeting.",
+        "answer": "The train was late, so I missed my meeting.",
+        "accept": [
+          "The train was late so I missed my meeting."
+        ],
+        "explanation": "Skutek: so."
+      }
+    ]
+  }
+]

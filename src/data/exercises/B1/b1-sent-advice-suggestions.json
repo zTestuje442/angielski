@@ -1,0 +1,350 @@
+[
+  {
+    "id": "b1-sent-advice-suggestions-1",
+    "topicId": "b1-sent-advice-suggestions",
+    "exercises": [
+      {
+        "id": "b1-sent-advice-suggestions-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "You should...|Powinieneś...",
+          "If I were you, I'd...|Na twoim miejscu...",
+          "How about...?|Może by tak...?",
+          "Shall we...?|Może byśmy...?"
+        ],
+        "explanation": "Rady i propozycje."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-02",
+        "type": "cloze",
+        "prompt": "You look tired. You ___ go to bed early. (powinieneś)",
+        "answer": "should",
+        "accept": [
+          "ought to"
+        ],
+        "explanation": "Should + czasownik."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-03",
+        "type": "cloze",
+        "prompt": "How about ___ to the cinema? (go)",
+        "answer": "going",
+        "explanation": "How about + -ing."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-04",
+        "type": "choice",
+        "prompt": "If I ___ you, I'd take the job.",
+        "answer": "were",
+        "distractors": [
+          "am",
+          "was be"
+        ],
+        "explanation": "If I were you."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-05",
+        "type": "choice",
+        "prompt": "Why don't you ___ your teacher?",
+        "answer": "ask",
+        "distractors": [
+          "to ask",
+          "asking"
+        ],
+        "explanation": "Why don't you + czasownik."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-06",
+        "type": "error",
+        "prompt": "You should seeing a doctor.",
+        "answer": [
+          "seeing",
+          "see"
+        ],
+        "explanation": "Should + forma podstawowa."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-07",
+        "type": "tiles",
+        "prompt": "Na twoim miejscu kupiłbym ten samochód.",
+        "answer": [
+          "If",
+          "I",
+          "were",
+          "you",
+          "I",
+          "would",
+          "buy",
+          "this",
+          "car"
+        ],
+        "distractors": [
+          "am",
+          "will"
+        ],
+        "explanation": "If I were you."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-08",
+        "type": "translate",
+        "prompt": "Może pójdziemy na spacer?",
+        "answer": "Shall we go for a walk?",
+        "accept": [
+          "How about going for a walk?",
+          "Why don't we go for a walk?",
+          "What about going for a walk?",
+          "Let's go for a walk."
+        ],
+        "explanation": "Shall we...?"
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-09",
+        "type": "choice",
+        "prompt": "Which is a suggestion?",
+        "answer": "Let's order pizza.",
+        "distractors": [
+          "I ordered pizza.",
+          "Pizza is good."
+        ],
+        "explanation": "Let's..."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-1-10",
+        "type": "transform",
+        "prompt": "Zamień na radę z „If I were you”.\nYou should talk to your boss.",
+        "answer": "If I were you, I would talk to my boss.",
+        "accept": [
+          "If I were you, I'd talk to my boss.",
+          "If I were you I would talk to my boss.",
+          "If I were you I'd talk to my boss."
+        ],
+        "explanation": "If I were you, I'd..."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-advice-suggestions-2",
+    "topicId": "b1-sent-advice-suggestions",
+    "exercises": [
+      {
+        "id": "b1-sent-advice-suggestions-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "You'd better...|Lepiej, żebyś...",
+          "Why don't we...?|Może byśmy...?",
+          "I suggest...|Proponuję...",
+          "You shouldn't...|Nie powinieneś..."
+        ],
+        "explanation": "Rady i propozycje."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-02",
+        "type": "cloze",
+        "prompt": "You'd better ___ or you'll miss the bus. (hurry)",
+        "answer": "hurry",
+        "explanation": "'d better + czasownik."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-03",
+        "type": "cloze",
+        "prompt": "I suggest ___ a taxi. (take)",
+        "answer": "taking",
+        "explanation": "Suggest + -ing."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-04",
+        "type": "choice",
+        "prompt": "___ we meet at six?",
+        "answer": "Shall",
+        "distractors": [
+          "Will",
+          "Do"
+        ],
+        "explanation": "Shall we...?"
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-05",
+        "type": "choice",
+        "prompt": "You ___ eat so much sugar. It's bad for you.",
+        "answer": "shouldn't",
+        "distractors": [
+          "don't should",
+          "mustn't to"
+        ],
+        "explanation": "Shouldn't."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-06",
+        "type": "error",
+        "prompt": "How about go to the beach?",
+        "answer": [
+          "go",
+          "going"
+        ],
+        "explanation": "How about + -ing."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-07",
+        "type": "tiles",
+        "prompt": "Lepiej weź parasol.",
+        "answer": [
+          "You",
+          "had",
+          "better",
+          "take",
+          "an",
+          "umbrella"
+        ],
+        "distractors": [
+          "to",
+          "taking"
+        ],
+        "explanation": "Had better + czasownik."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-08",
+        "type": "translate",
+        "prompt": "Może zapytasz nauczyciela?",
+        "answer": "Why don't you ask the teacher?",
+        "accept": [
+          "Why don't you ask your teacher?",
+          "How about asking the teacher?",
+          "How about asking your teacher?"
+        ],
+        "explanation": "Why don't you...?"
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-09",
+        "type": "choice",
+        "prompt": "Which is a warning?",
+        "answer": "You'd better be careful.",
+        "distractors": [
+          "How about a coffee?",
+          "Let's dance."
+        ],
+        "explanation": "'d better – ostrzeżenie."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-2-10",
+        "type": "transform",
+        "prompt": "Zamień na propozycję z „Let's”.\nWhy don't we go home?",
+        "answer": "Let's go home.",
+        "explanation": "Let's + czasownik."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-advice-suggestions-3",
+    "topicId": "b1-sent-advice-suggestions",
+    "exercises": [
+      {
+        "id": "b1-sent-advice-suggestions-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Let's...|Chodźmy..., zróbmy...",
+          "What about...?|A może...?",
+          "You ought to...|Powinieneś...",
+          "Why don't you...?|Może byś...?"
+        ],
+        "explanation": "Rady i propozycje."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-02",
+        "type": "cloze",
+        "prompt": "You ___ to drink more water. (powinieneś)",
+        "answer": "ought",
+        "explanation": "Ought to."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-03",
+        "type": "cloze",
+        "prompt": "What about ___ a party? (have)",
+        "answer": "having",
+        "explanation": "What about + -ing."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-04",
+        "type": "choice",
+        "prompt": "I suggest ___ earlier tomorrow.",
+        "answer": "starting",
+        "distractors": [
+          "to start",
+          "start"
+        ],
+        "explanation": "Suggest + -ing."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-05",
+        "type": "choice",
+        "prompt": "You'd better ___ late again!",
+        "answer": "not be",
+        "distractors": [
+          "don't be",
+          "not to be"
+        ],
+        "explanation": "'d better not + czasownik."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-06",
+        "type": "error",
+        "prompt": "Let's going out tonight.",
+        "answer": [
+          "going",
+          "go"
+        ],
+        "explanation": "Let's + forma podstawowa."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-07",
+        "type": "tiles",
+        "prompt": "Nie powinieneś pracować tak dużo.",
+        "answer": [
+          "You",
+          "shouldn't",
+          "work",
+          "so",
+          "much"
+        ],
+        "distractors": [
+          "to",
+          "working"
+        ],
+        "explanation": "Shouldn't + czasownik."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-08",
+        "type": "translate",
+        "prompt": "Proponuję wyjść wcześniej.",
+        "answer": "I suggest leaving earlier.",
+        "accept": [
+          "I suggest that we leave earlier.",
+          "I suggest we leave earlier.",
+          "I suggest leaving early.",
+          "I suggest that we leave early."
+        ],
+        "explanation": "Suggest + -ing."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "How about going to Italy?",
+        "distractors": [
+          "How about go to Italy?",
+          "How about to go to Italy?"
+        ],
+        "explanation": "How about + -ing."
+      },
+      {
+        "id": "b1-sent-advice-suggestions-3-10",
+        "type": "transform",
+        "prompt": "Zamień na propozycję z „How about”.\nLet's watch a film.",
+        "answer": "How about watching a film?",
+        "explanation": "How about + -ing."
+      }
+    ]
+  }
+]

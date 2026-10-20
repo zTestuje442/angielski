@@ -1,0 +1,17 @@
+{
+  "topicId": "b1-writing-article",
+  "task": "Szkolna gazetka w języku angielskim zbiera artykuły na temat:\n\n**„The best way to spend a free weekend”**\n\nNapisz **artykuł**:\n- zacznij od pytania do czytelnika,\n- opisz swój pomysł na weekend i podaj przykłady,\n- zachęć czytelników, żeby spróbowali.",
+  "words": [
+    100,
+    150
+  ],
+  "model": "Swap Your Screen for a Mountain!\n\nHow do you usually spend your free weekends? If the answer is \"on the sofa with my phone\", I have a better idea for you: go hiking.\n\nFirstly, you don't need much to start. Comfortable shoes, a waterproof jacket and a sandwich are enough. There are beautiful trails only an hour or two from most Polish cities, and many of them are easy enough for beginners.\n\nWhat's more, hiking is great for both your body and your mind. Last month I walked twenty kilometres in the Beskidy mountains with two friends. We were tired, but we talked and laughed all day, and I slept better than I had for weeks.\n\nAll in all, a weekend in the mountains is cheap, healthy and fun. So why not leave your phone in your pocket and give it a try?",
+  "checklist": [
+    "Artykuł ma ciekawy tytuł.",
+    "Zaczynam od pytania do czytelnika.",
+    "Mam co najmniej dwa argumenty z przykładem lub własnym doświadczeniem.",
+    "Używam słów łączących (Firstly, What's more, All in all).",
+    "Kończę zachętą (Why not give it a try?).",
+    "Styl pół-formalny, bez zwrotów listowych; 100–150 słów."
+  ]
+}
