@@ -1,0 +1,342 @@
+[
+  {
+    "id": "c1-sent-cohesion-reference-1",
+    "topicId": "c1-sent-cohesion-reference",
+    "exercises": [
+      {
+        "id": "c1-sent-cohesion-reference-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "the former|pierwszy z wymienionych",
+          "the latter|drugi z wymienionych",
+          "such measures|takie środki",
+          "do so|zrobić to"
+        ],
+        "explanation": "Odwołania w tekście."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-02",
+        "type": "cloze",
+        "prompt": "The government raised taxes. ___ decision was very unpopular. (ta)",
+        "answer": "This",
+        "accept": [
+          "That",
+          "The"
+        ],
+        "explanation": "This + rzeczownik podsumowujący."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-03",
+        "type": "cloze",
+        "prompt": "Many wanted to protest, but few actually did ___.",
+        "answer": "so",
+        "explanation": "Do so."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-04",
+        "type": "choice",
+        "prompt": "I like both tea and coffee, but I prefer the ___.",
+        "answer": "latter",
+        "distractors": [
+          "later",
+          "last one of"
+        ],
+        "explanation": "The latter – drugie z wymienionych."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-05",
+        "type": "choice",
+        "prompt": "Smartphones are everywhere. ___ devices have changed how we communicate.",
+        "answer": "These",
+        "distractors": [
+          "This",
+          "Those ones"
+        ],
+        "explanation": "These + l. mn."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-06",
+        "type": "error",
+        "prompt": "Some students passed the exam; other didn't.",
+        "answer": [
+          "other",
+          "others"
+        ],
+        "explanation": "Samodzielnie: others."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-07",
+        "type": "tiles",
+        "prompt": "Takie środki rzadko są popularne.",
+        "answer": [
+          "Such",
+          "measures",
+          "are",
+          "rarely",
+          "popular"
+        ],
+        "distractors": [
+          "So",
+          "measure"
+        ],
+        "explanation": "Such + rzeczownik."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-08",
+        "type": "translate",
+        "prompt": "To sugeruje, że problem jest poważny.",
+        "answer": "This suggests that the problem is serious.",
+        "accept": [
+          "This suggests the problem is serious.",
+          "That suggests that the problem is serious."
+        ],
+        "explanation": "This o całej myśli."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-09",
+        "type": "choice",
+        "prompt": "Which sentence has an unclear reference?",
+        "answer": "Anna told Kate that she was wrong.",
+        "distractors": [
+          "Anna told Kate that Kate was wrong.",
+          "Anna admitted that she herself was wrong."
+        ],
+        "explanation": "She – Anna czy Kate?"
+      },
+      {
+        "id": "c1-sent-cohesion-reference-1-10",
+        "type": "transform",
+        "prompt": "Zastąp powtórzenie słowem „ones”.\nI don't want these shoes. I want the black shoes.",
+        "answer": "I don't want these shoes. I want the black ones.",
+        "explanation": "Ones zamiast l. mn."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-cohesion-reference-2",
+    "topicId": "c1-sent-cohesion-reference",
+    "exercises": [
+      {
+        "id": "c1-sent-cohesion-reference-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "this approach|to podejście",
+          "these findings|te ustalenia",
+          "such a decision|taka decyzja",
+          "the issue|ta kwestia"
+        ],
+        "explanation": "Rzeczowniki podsumowujące."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-02",
+        "type": "cloze",
+        "prompt": "We considered a train and a car. The ___ was cheaper, so we drove. (drugi)",
+        "answer": "latter",
+        "explanation": "The latter."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-03",
+        "type": "cloze",
+        "prompt": "Prices rose by 20%. ___ an increase was unexpected. (taki)",
+        "answer": "Such",
+        "explanation": "Such + rzeczownik (bez a, gdy a jest w środku: such an increase)."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-04",
+        "type": "choice",
+        "prompt": "The study found that sleep improves memory. ___ findings support earlier research.",
+        "answer": "These",
+        "distractors": [
+          "This",
+          "Such a"
+        ],
+        "explanation": "These findings."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-05",
+        "type": "choice",
+        "prompt": "\"Will prices fall?\" \"I don't think ___.\"",
+        "answer": "so",
+        "distractors": [
+          "it",
+          "that"
+        ],
+        "explanation": "I don't think so."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-06",
+        "type": "error",
+        "prompt": "We compared two methods. The formal was faster.",
+        "answer": [
+          "formal",
+          "former"
+        ],
+        "explanation": "The former – pierwszy z wymienionych."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-07",
+        "type": "tiles",
+        "prompt": "Niewielu ludzi to zrobiło.",
+        "answer": [
+          "Few",
+          "people",
+          "did",
+          "so"
+        ],
+        "distractors": [
+          "made",
+          "it's"
+        ],
+        "explanation": "Do so."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-08",
+        "type": "translate",
+        "prompt": "Ta decyzja wywołała protesty.",
+        "answer": "This decision sparked protests.",
+        "accept": [
+          "This decision caused protests.",
+          "That decision caused protests.",
+          "This decision led to protests.",
+          "The decision sparked protests.",
+          "The decision caused protests."
+        ],
+        "explanation": "This decision + spark."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-09",
+        "type": "choice",
+        "prompt": "Which word replaces a whole previous idea?",
+        "answer": "this",
+        "distractors": [
+          "one",
+          "ones"
+        ],
+        "explanation": "This."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-2-10",
+        "type": "transform",
+        "prompt": "Zastąp powtórzenie wyrażeniem „do so”.\nShe promised to call, and she called.",
+        "answer": "She promised to call, and she did so.",
+        "accept": [
+          "She promised to call and she did so."
+        ],
+        "explanation": "Do so."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-cohesion-reference-3",
+    "topicId": "c1-sent-cohesion-reference",
+    "exercises": [
+      {
+        "id": "c1-sent-cohesion-reference-3-01",
+        "type": "match",
+        "prompt": "Połącz pojęcie z przykładem.",
+        "answer": [
+          "substitution|substytucja (one, do so)",
+          "ellipsis|elipsa (pominięcie)",
+          "reference|odwołanie (this, it)",
+          "synonym|synonim"
+        ],
+        "explanation": "Narzędzia spójności."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-02",
+        "type": "cloze",
+        "prompt": "Electric cars are quiet. ___ vehicles also produce no exhaust fumes. (te)",
+        "answer": "These",
+        "explanation": "These + synonim."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-03",
+        "type": "cloze",
+        "prompt": "Some agreed with the plan; others did ___. (nie)",
+        "answer": "not",
+        "explanation": "Elipsa z not."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-04",
+        "type": "choice",
+        "prompt": "We could take the bus or walk. I'd prefer the ___.",
+        "answer": "former",
+        "distractors": [
+          "first",
+          "former one"
+        ],
+        "explanation": "The former."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-05",
+        "type": "choice",
+        "prompt": "Many experts predicted a crisis. ___ prediction turned out to be correct.",
+        "answer": "This",
+        "distractors": [
+          "These",
+          "Such"
+        ],
+        "explanation": "This prediction."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-06",
+        "type": "error",
+        "prompt": "Some people love winter, whereas other hate it.",
+        "answer": [
+          "other",
+          "others"
+        ],
+        "explanation": "Others – samodzielnie."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-07",
+        "type": "tiles",
+        "prompt": "Takie podejście wymaga czasu.",
+        "answer": [
+          "Such",
+          "an",
+          "approach",
+          "requires",
+          "time"
+        ],
+        "distractors": [
+          "So",
+          "approaches"
+        ],
+        "explanation": "Such an + rzeczownik."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-08",
+        "type": "translate",
+        "prompt": "Zgadzam się z pierwszym, ale nie z drugim.",
+        "answer": "I agree with the former, but not with the latter.",
+        "accept": [
+          "I agree with the former but not with the latter.",
+          "I agree with the former, but not the latter.",
+          "I agree with the former but not the latter."
+        ],
+        "explanation": "The former / the latter."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-09",
+        "type": "choice",
+        "prompt": "Which sentence uses ellipsis?",
+        "answer": "I wanted to go, but I couldn't.",
+        "distractors": [
+          "I wanted to go, but I couldn't go.",
+          "I wanted to go and I went."
+        ],
+        "explanation": "Pominięty czasownik."
+      },
+      {
+        "id": "c1-sent-cohesion-reference-3-10",
+        "type": "transform",
+        "prompt": "Zastąp powtórzone słowo rzeczownikiem podsumowującym „This trend”.\nYoung people buy fewer cars. Young people buying fewer cars worries manufacturers.",
+        "answer": "Young people buy fewer cars. This trend worries manufacturers.",
+        "explanation": "Rzeczownik podsumowujący."
+      }
+    ]
+  }
+]

@@ -1838,7 +1838,7 @@
     "level": "C1",
     "order": 7,
     "title": "Słownictwo akademickie",
-    "explanation": "",
+    "explanation": "Słownictwo akademickie – słowa, które pojawiają się w tekstach naukowych, raportach i esejach (lista *Academic Word List*):\n\n**Czasowniki**: *analyse, assess* (ocenić), *assume* (założyć), *derive from* (wywodzić się z), *establish* (ustalić), *emphasise, illustrate, indicate, interpret, justify* (uzasadnić), *outline* (zarysować), *undermine* (podważyć), *underpin* (stanowić podstawę)\n\n**Rzeczowniki**: *approach* (podejście), *concept, criterion / criteria* (kryterium), *framework* (ramy), *implication* (konsekwencja, implikacja), *phenomenon / phenomena* (zjawisko), *significance, validity* (trafność), *bias* (stronniczość)\n\n**Przymiotniki**: *comprehensive* (wszechstronny), *crucial, empirical* (empiryczny), *inherent* (nieodłączny), *substantial* (znaczny), *valid, ambiguous*\n\nZwroty: *It is widely acknowledged that... / This raises the question of... / In light of these findings, ... / The data are consistent with...*\n\nUwaga na liczbę mnogą z łaciny/greki: *criterion → criteria, phenomenon → phenomena, hypothesis → hypotheses, analysis → analyses*.",
     "sets": [
       "c1-vocab-academic-1",
       "c1-vocab-academic-2",
@@ -1851,7 +1851,7 @@
     "level": "C1",
     "order": 8,
     "title": "Prawo i etyka",
-    "explanation": "",
+    "explanation": "Prawo i etyka – słownictwo z debat, artykułów i dokumentów:\n\n**Prawo**: *legislation* (ustawodawstwo), *a statute* (ustawa), *a regulation*, *comply with* (przestrzegać), *enforce* (egzekwować), *a loophole* (luka prawna), *liable* (odpowiedzialny prawnie), *a breach of contract* (naruszenie umowy), *sue* (pozwać), *a lawsuit, a verdict* (wyrok), *acquit* (uniewinnić), *convict* (skazać), *appeal* (odwołanie)\n\n**Etyka**: *a dilemma, integrity* (uczciwość), *accountability* (rozliczalność), *conflict of interest*, *whistleblower* (sygnalista), *transparency*, *consent* (zgoda), *privacy*, *moral obligation*, *unethical*\n\nZwroty: *be held accountable for* (ponosić odpowiedzialność), *in breach of* (z naruszeniem), *under the law* (zgodnie z prawem), *raise ethical concerns* (budzić wątpliwości etyczne), *a grey area* (szara strefa)",
     "sets": [
       "c1-vocab-law-ethics-1",
       "c1-vocab-law-ethics-2",
@@ -1864,7 +1864,7 @@
     "level": "C1",
     "order": 9,
     "title": "Gospodarka i globalizacja",
-    "explanation": "",
+    "explanation": "Gospodarka i globalizacja:\n\n**Wskaźniki**: *GDP* (PKB), *inflation, deflation, recession* (recesja), *a downturn* (spowolnienie), *a boom, growth, the cost of living*, *the interest rate*, *the exchange rate* (kurs walut)\n\n**Handel**: *imports / exports, tariffs* (cła), *trade barriers, free trade, a trade deficit, outsource* (zlecać na zewnątrz), *offshore*, *supply chain* (łańcuch dostaw), *multinational corporations*\n\n**Rynek pracy**: *the labour market, the minimum wage, the gig economy* (praca dorywcza przez aplikacje), *automation, redundancy* (zwolnienie z powodu likwidacji etatu)\n\n**Globalizacja**: *interconnected, a level playing field* (równe szanse), *cheap labour, brain drain* (drenaż mózgów), *economies of scale* (ekonomia skali)\n\nCzasowniki zmian: *soar, plummet* (gwałtownie wzrosnąć / spaść), *stagnate* (stać w miejscu), *recover* (odbić się), *fluctuate* (wahać się)",
     "sets": [
       "c1-vocab-economy-globalisation-1",
       "c1-vocab-economy-globalisation-2",
@@ -1877,7 +1877,7 @@
     "level": "C1",
     "order": 10,
     "title": "Psychologia i zachowanie",
-    "explanation": "",
+    "explanation": "Psychologia i zachowanie – słownictwo z artykułów i rozmów o ludziach:\n\n**Cechy i stany**: *resilient* (odporny psychicznie), *self-conscious* (skrępowany), *self-confident, introverted / extroverted, impulsive, conscientious* (sumienny), *anxious, apathetic* (apatyczny), *empathetic*\n\n**Procesy**: *cope with* (radzić sobie z), *bottle up emotions* (dusić w sobie), *procrastinate* (odkładać na później), *overthink*, *rationalise, conform* (dostosować się), *burn out* (wypalić się)\n\n**Pojęcia**: *peer pressure* (presja rówieśników), *cognitive bias, self-esteem* (poczucie własnej wartości), *a coping mechanism, a comfort zone, instant gratification* (natychmiastowa nagroda), *willpower* (siła woli)\n\nZwroty: *step out of your comfort zone, give in to temptation* (ulec pokusie), *keep your emotions in check, act on impulse*",
     "sets": [
       "c1-vocab-psychology-behaviour-1",
       "c1-vocab-psychology-behaviour-2",
@@ -1890,7 +1890,7 @@
     "level": "C1",
     "order": 11,
     "title": "Wyrażenia parowe i stałe zwroty",
-    "explanation": "",
+    "explanation": "**Wyrażenia parowe** (binomials) to stałe pary słów połączone *and / or*. Kolejność jest **nienaruszalna** – *black and white*, nigdy *white and black*:\n\n- *pros and cons* (za i przeciw), *ups and downs* (wzloty i upadki), *odds and ends* (drobiazgi)\n- *by and large* (ogólnie rzecz biorąc), *sooner or later, more or less, give or take* (mniej więcej)\n- *safe and sound* (cały i zdrowy), *sick and tired of* (mieć serdecznie dość), *peace and quiet*\n- *trial and error* (metoda prób i błędów), *rules and regulations, first and foremost* (przede wszystkim)\n- *touch and go* (niepewne), *now and then* (od czasu do czasu), *hit and miss* (raz lepiej, raz gorzej)\n- *loud and clear* (głośno i wyraźnie), *short and sweet* (krótko i na temat), *black and white*\n\n**Inne stałe zwroty**: *by no means* (bynajmniej), *to all intents and purposes* (praktycznie), *at the end of the day* (w ostatecznym rozrachunku), *on the whole* (ogólnie)",
     "sets": [
       "c1-vocab-binomials-fixed-phrases-1",
       "c1-vocab-binomials-fixed-phrases-2",
@@ -2267,7 +2267,7 @@
     "level": "C1",
     "order": 4,
     "title": "Różnorodność budowy zdań",
-    "explanation": "",
+    "explanation": "Tekst na C1 brzmi dojrzale, gdy zdania są **różnorodne**. Zamiast ciągu *Subject + verb + object*:\n\n- **zacznij od okolicznika**: ***Late at night**, the city finally fell silent.*\n- **zacznij od imiesłowu**: ***Exhausted after the journey**, she went straight to bed. / **Having checked** the data, we...*\n- **zacznij od przymiotnika**: ***Unsure what to do**, he called his sister.*\n- **użyj zdania względnego lub wtrącenia**: *The report, **published last week**, caused a scandal.*\n- **użyj inwersji lub cleft**: ***Rarely** have I seen... / **What surprised me** was...*\n- **zmieniaj długość**: po długim zdaniu krótkie robi wrażenie. *It worked.*\n\nUważaj na **wiszący imiesłów**: podmiot zdania głównego musi wykonywać czynność imiesłowu.\n- ❌ *Walking home, the rain started.*\n- ✅ *Walking home, I got caught in the rain.*",
     "sets": [
       "c1-sent-sentence-variety-1",
       "c1-sent-sentence-variety-2",
@@ -2280,7 +2280,7 @@
     "level": "C1",
     "order": 5,
     "title": "Parafrazy na poziomie C1",
-    "explanation": "",
+    "explanation": "**Parafraza na C1** – to samo znaczenie, inna struktura. Najczęstsze przekształcenia:\n\n- **nominalizacja**: *They decided quickly.* → *They made a quick decision.* / *Their decision was quick.*\n- **strona bierna bezosobowa**: *People believe he...* → *He is believed to...*\n- **inwersja**: *As soon as I arrived...* → *No sooner had I arrived than...*\n- **modalne przeszłe**: *I'm sure it wasn't easy.* → *It can't have been easy.*\n- **wyrażenia**: *I don't mind.* → *It makes no difference to me.* / *It's not worth it.* → *There's no point (in)...*\n- **porównania**: *I've never seen such a good film.* → *It's the best film I've ever seen.*\n- **phrasal verbs i idiomy**: *tolerate* → *put up with*, *postpone* → *put off*\n\nNa egzaminie (CAE Part 4) zwykle trzeba użyć **podanego słowa bez zmian** i 3–6 słów. Sprawdzaj czas, liczbę i sens.",
     "sets": [
       "c1-sent-advanced-paraphrasing-1",
       "c1-sent-advanced-paraphrasing-2",
@@ -2293,7 +2293,7 @@
     "level": "C1",
     "order": 6,
     "title": "Spójność tekstu: odwołania i zastępowanie",
-    "explanation": "",
+    "explanation": "**Spójność tekstu** (cohesion) to sieć odwołań między zdaniami. Zamiast powtarzać słowa:\n\n- **zaimki**: *it, they, this, that, these, those* – ***This** suggests that...* (*this* odnosi się do całej poprzedniej myśli)\n- **rzeczowniki podsumowujące** (*this approach, this problem, such a decision, these findings*): *The government cut taxes. **This decision** was widely criticised.*\n- **the former / the latter** – pierwszy / drugi z wymienionych\n- **substytucja**: *one / ones, do so, so / not*: *Many people wanted to leave, but few **did so**.*\n- **elipsa**: *Some students passed; others didn't (pass).*\n- **such + rzeczownik**: *Such measures are rarely popular.*\n- **synonimy i hiperonimy**: *smartphones → these devices*\n\nUwaga na niejasne odwołania: *Anna told Kate that **she** was wrong.* (która?) – w takich miejscach powtórz imię.",
     "sets": [
       "c1-sent-cohesion-reference-1",
       "c1-sent-cohesion-reference-2",
@@ -2306,7 +2306,7 @@
     "level": "C1",
     "order": 7,
     "title": "Struktury akademickie",
-    "explanation": "",
+    "explanation": "Struktury typowe dla tekstów akademickich i raportów – bezosobowe, ostrożne, zwięzłe:\n\n- **bezosobowe it**: *It is widely believed that... / It can be argued that... / It should be noted that...*\n- **there + is/are + rzeczownik**: *There is growing evidence that... / There is a tendency to...*\n- **strona bierna**: *The data were collected... / The participants were asked to...*\n- **nominalizacja**: *The implementation of the policy...* (zamiast *When they implemented the policy...*)\n- **hedging**: *appears to, tends to, may, is likely to, to some extent*\n- **porównania i kontrast**: *In contrast to..., Compared with..., Whereas...*\n- **odwołania do źródeł**: *According to Smith (2020), ... / As Smith (2020) points out, ...*\n\nUnikaj: *I think, a lot of, get, really, so* (potoczne), skrótów (*don't*) i pytań do czytelnika.",
     "sets": [
       "c1-sent-academic-structures-1",
       "c1-sent-academic-structures-2",
@@ -2670,7 +2670,7 @@
     "level": "C1",
     "order": 4,
     "title": "Recenzja",
-    "explanation": "",
+    "explanation": "Recenzje na C1 (prasowe, literackie, teatralne) są **zniuansowane**: autor rzadko ocenia jednoznacznie. Pochwały mieszają się z zastrzeżeniami (*for all its flaws..., if the second half falters...*), a ironia bywa subtelna.\n\nZwracaj uwagę na:\n- **ton** całości – entuzjastyczny, wyważony, rozczarowany,\n- słowa **koncesji** (*admittedly, granted, while...*), po których autor wraca do swojej tezy,\n- **metafory** – pytania często sprawdzają, co autor ma na myśli.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "c1-reading-review-1",
       "c1-reading-review-2",
@@ -2683,7 +2683,7 @@
     "level": "C1",
     "order": 5,
     "title": "Tekst popularnonaukowy",
-    "explanation": "",
+    "explanation": "Teksty popularnonaukowe na C1 wyjaśniają złożone zjawiska, przytaczają **badania** i **głosy ekspertów**, często z zastrzeżeniami (*preliminary findings, the evidence is mixed*).\n\nPytania sprawdzają:\n- czy odróżniasz **wynik badania** od **interpretacji** i **spekulacji**,\n- **hedging** (*may, appears, suggests*) – czy coś jest pewne, czy tylko prawdopodobne,\n- **funkcję akapitu** (wprowadza kontrargument, ilustruje tezę, podsumowuje).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "c1-reading-popular-science-1",
       "c1-reading-popular-science-2",
@@ -2696,7 +2696,7 @@
     "level": "C1",
     "order": 6,
     "title": "Proza literacka",
-    "explanation": "",
+    "explanation": "Proza literacka na C1 wymaga **interpretacji**: narrator może być nierzetelny, a sens kryje się w **obrazach, symbolach i tym, co niepowiedziane**.\n\nPytania dotyczą:\n- **nastroju i tonu** (melancholijny, ironiczny, napięty),\n- **charakteru postaci** wnioskowanego z zachowania,\n- **znaczenia przenośni** i **funkcji szczegółu** (*Why does the writer mention...?*),\n- tego, co **sugeruje** zakończenie.\n\nCzytaj powoli, zwracaj uwagę na powtarzające się motywy i kontrasty.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
     "sets": [
       "c1-reading-literary-1",
       "c1-reading-literary-2",
@@ -2956,7 +2956,7 @@
     "level": "C1",
     "order": 4,
     "title": "Raport",
-    "explanation": "",
+    "explanation": "**Raport na C1** (220–260 słów) – dla przełożonego, komisji, rady szkoły. Jest **formalny, bezosobowy i oparty na danych**, a kończy się **rekomendacjami**.\n\nStruktura z nagłówkami:\n1. **Introduction** – cel i metoda: *The purpose of this report is to assess... The findings are based on...*\n2. **Findings** (2–3 sekcje z nagłówkami) – fakty, liczby, proporcje: *A substantial proportion of respondents..., Only a minority...*\n3. **Recommendations** – konkretne, uzasadnione propozycje: *It is recommended that... be introduced. / Consideration should be given to...*\n4. **Conclusion** – podsumowanie i spodziewany efekt\n\nJęzyk C1:\n- strona bierna i bezosobowa: *It was found that..., Concerns were raised about...*\n- nominalizacja: *The introduction of..., A reduction in...*\n- hedging: *appears to, is likely to, to a certain extent*\n- subjunctive: *It is essential that the policy be reviewed.*",
     "sets": [
       "c1-writing-report-1",
       "c1-writing-report-2",
@@ -2969,7 +2969,7 @@
     "level": "C1",
     "order": 5,
     "title": "List formalny",
-    "explanation": "",
+    "explanation": "**List formalny na C1** (220–260 słów) – do redakcji, władz miasta, firmy, instytucji. Zwykle **reagujesz na problem** lub **przedstawiasz stanowisko** i proponujesz rozwiązanie.\n\n1. **Powitanie**: *Dear Sir or Madam, / Dear Editor, / Dear Councillor Nowak,*\n2. **Cel**: *I am writing in response to... / I wish to express my concern regarding...*\n3. **Argumenty / problem** – rzeczowo, z przykładami i danymi\n4. **Propozycja / oczekiwania**: *I would urge the council to... / I would be grateful if you could...*\n5. **Zakończenie**: *I trust that you will give this matter your urgent attention. / I look forward to your response.* + *Yours faithfully, / Yours sincerely,*\n\nJęzyk C1: stanowczy, ale uprzejmy; inwersja i konstrukcje formalne (*Should you require..., Were the council to...*), nominalizacja, bez emocjonalnych wykrzyknień.",
     "sets": [
       "c1-writing-formal-letter-1",
       "c1-writing-formal-letter-2",
@@ -2982,7 +2982,7 @@
     "level": "C1",
     "order": 6,
     "title": "Artykuł publicystyczny",
-    "explanation": "",
+    "explanation": "**Artykuł publicystyczny na C1** (220–260 słów) – do magazynu, na portal, do biuletynu. Ma **zaangażować czytelnika** i przedstawić **przemyślane stanowisko**, często z humorem lub osobistą perspektywą.\n\n1. **Tytuł** – intrygujący, może z grą słów\n2. **Wstęp** – hak: anegdota, prowokacyjne pytanie, zaskakujący fakt\n3. **Rozwinięcie** – 2–3 akapity z argumentami, przykładami i kontrargumentem\n4. **Zakończenie** – puenta, refleksja lub wezwanie\n\nŚrodki C1:\n- **pytania retoryczne** i zwroty do czytelnika\n- **inwersja i cleft** dla emfazy: *Rarely do we stop to ask... / What we often forget is...*\n- **idiomy i kolokacje** (z umiarem): *the tip of the iceberg, food for thought*\n- **zmienność zdań**: długie, rozbudowane zdanie, a po nim krótkie dla efektu\n\nTon: pół-formalny, osobisty, ale przemyślany – bardziej swobodny niż esej, bardziej dojrzały niż artykuł B2.",
     "sets": [
       "c1-writing-article-1",
       "c1-writing-article-2",

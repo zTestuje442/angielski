@@ -1,0 +1,118 @@
+{
+  "id": "c1-reading-popular-science-3",
+  "topicId": "c1-reading-popular-science",
+  "title": "The surprising benefits of boredom at work",
+  "text": "Most managers regard boredom as a problem to be eliminated. Bored employees, the reasoning goes, are less productive, more likely to make mistakes and more likely to leave. Companies spend considerable sums on gamified training, open-plan \"collaboration zones\" and endless streams of notifications designed to keep staff engaged. But a growing body of research suggests that a certain amount of boredom may be not only harmless but actually useful.\n\nIn one frequently discussed study, participants were first asked to complete a deliberately tedious task – copying numbers from a phone directory for fifteen minutes. They were then given a creative challenge: to think of as many uses as possible for a pair of plastic cups. Compared with a control group who had skipped the boring task, the bored participants produced more ideas, and their ideas were rated as more original. The researchers proposed that boredom triggers a search for stimulation, encouraging the mind to wander in unexpected directions.\n\nNeuroscience offers a possible mechanism. When we are not focused on an external task, a set of brain regions known as the default mode network becomes more active. This network is associated with daydreaming, autobiographical memory and imagining the future – processes that appear to play a role in creative insight. Constant stimulation, by contrast, may prevent this network from doing its work.\n\nThe findings have to be treated with some care. Laboratory tasks are a long way from real working life, and the creativity tests used in these studies measure only one narrow kind of thinking. Some later attempts to reproduce the original results have found weaker effects or none at all. Moreover, there is an important distinction between short periods of boredom and chronic boredom, which is consistently linked to stress, poor health and burnout.\n\nStill, several organisations have begun experimenting with the idea. A Danish software company introduced \"empty afternoons\" once a month, during which employees have no meetings and are discouraged from checking email. Staff are free to walk, read or simply stare out of the window. The company reports that a disproportionate number of its new product ideas now emerge from these sessions, although it admits it has no rigorous data to prove the link.\n\nPerhaps the real lesson is not that boredom is good, but that attention is a limited resource. A workplace that fills every minute may be busy, but it is not necessarily thinking.",
+  "exercises": [
+    {
+      "id": "c1-reading-popular-science-3-01",
+      "type": "choice",
+      "prompt": "Most managers see boredom as useful.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Most managers regard boredom as a problem...”"
+    },
+    {
+      "id": "c1-reading-popular-science-3-02",
+      "type": "choice",
+      "prompt": "The bored participants produced more original ideas.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...their ideas were rated as more original.”"
+    },
+    {
+      "id": "c1-reading-popular-science-3-03",
+      "type": "choice",
+      "prompt": "The Danish company has proved scientifically that empty afternoons work.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...it has no rigorous data to prove the link.”"
+    },
+    {
+      "id": "c1-reading-popular-science-3-04",
+      "type": "choice",
+      "prompt": "The study participants were all students.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, kim byli uczestnicy."
+    },
+    {
+      "id": "c1-reading-popular-science-3-05",
+      "type": "choice",
+      "prompt": "What was the boring task in the study?",
+      "answer": "copying numbers from a phone directory",
+      "distractors": [
+        "sorting plastic cups",
+        "reading emails"
+      ],
+      "explanation": "„...copying numbers from a phone directory...”"
+    },
+    {
+      "id": "c1-reading-popular-science-3-06",
+      "type": "choice",
+      "prompt": "What is the default mode network associated with?",
+      "answer": "daydreaming and imagining the future",
+      "distractors": [
+        "solving maths problems quickly",
+        "reacting to notifications"
+      ],
+      "explanation": "„...daydreaming, autobiographical memory and imagining the future...”"
+    },
+    {
+      "id": "c1-reading-popular-science-3-07",
+      "type": "choice",
+      "prompt": "What is the purpose of the fourth paragraph?",
+      "answer": "to add caution about the findings",
+      "distractors": [
+        "to describe a new experiment",
+        "to summarise the article"
+      ],
+      "explanation": "Zastrzeżenia: laboratorium, replikacje, chroniczna nuda."
+    },
+    {
+      "id": "c1-reading-popular-science-3-08",
+      "type": "choice",
+      "prompt": "What does the final sentence suggest?",
+      "answer": "Being constantly busy does not mean thinking well.",
+      "distractors": [
+        "Workplaces should ban all meetings.",
+        "Boredom always leads to good ideas."
+      ],
+      "explanation": "„...busy, but... not necessarily thinking.”"
+    },
+    {
+      "id": "c1-reading-popular-science-3-09",
+      "type": "cloze",
+      "prompt": "Chronic boredom is consistently linked to stress and ___. (wypaleniem)",
+      "answer": "burnout",
+      "accept": [
+        "poor health"
+      ],
+      "explanation": "Burnout."
+    },
+    {
+      "id": "c1-reading-popular-science-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "tedious|nużący",
+        "trigger|wywołać",
+        "insight|wgląd, olśnienie",
+        "disproportionate|nieproporcjonalny"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

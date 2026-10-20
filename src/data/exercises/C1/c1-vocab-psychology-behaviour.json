@@ -1,0 +1,346 @@
+[
+  {
+    "id": "c1-vocab-psychology-behaviour-1",
+    "topicId": "c1-vocab-psychology-behaviour",
+    "exercises": [
+      {
+        "id": "c1-vocab-psychology-behaviour-1-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "resilient|odporny psychicznie",
+          "conscientious|sumienny",
+          "self-conscious|skrępowany",
+          "apathetic|apatyczny"
+        ],
+        "explanation": "Cechy."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-02",
+        "type": "cloze",
+        "prompt": "She found it hard to ___ with the stress of her new job. (radzić sobie)",
+        "answer": "cope",
+        "explanation": "Cope with."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-03",
+        "type": "cloze",
+        "prompt": "Teenagers often give in to peer ___. (presji)",
+        "answer": "pressure",
+        "explanation": "Peer pressure."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-04",
+        "type": "choice",
+        "prompt": "He always does his work carefully and on time. He's very ___.",
+        "answer": "conscientious",
+        "distractors": [
+          "conscious",
+          "consensual"
+        ],
+        "explanation": "Sumienny: conscientious."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-05",
+        "type": "choice",
+        "prompt": "Instead of talking about his feelings, he ___ them up.",
+        "answer": "bottles",
+        "distractors": [
+          "boxes",
+          "keeps"
+        ],
+        "explanation": "Bottle up emotions."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-06",
+        "type": "error",
+        "prompt": "Low self-esteem can make people feel very self-confident.",
+        "answer": [
+          "self-confident",
+          "insecure"
+        ],
+        "explanation": "Niska samoocena → niepewność: insecure."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-07",
+        "type": "tiles",
+        "prompt": "Wyjdź ze swojej strefy komfortu.",
+        "answer": [
+          "Step",
+          "out",
+          "of",
+          "your",
+          "comfort",
+          "zone"
+        ],
+        "distractors": [
+          "comfortable",
+          "off"
+        ],
+        "explanation": "Step out of your comfort zone."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-08",
+        "type": "translate",
+        "prompt": "Ciągle odkładam rzeczy na później.",
+        "answer": "I keep procrastinating.",
+        "accept": [
+          "I always procrastinate.",
+          "I keep putting things off.",
+          "I always put things off.",
+          "I constantly procrastinate."
+        ],
+        "explanation": "Procrastinate."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-09",
+        "type": "choice",
+        "prompt": "Wanting a reward now rather than later is called instant ___.",
+        "answer": "gratification",
+        "distractors": [
+          "gratitude",
+          "graduation"
+        ],
+        "explanation": "Instant gratification."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „became totally exhausted from work” phrasal verbem z „burn”.\nAfter years of overtime, he became totally exhausted from work.",
+        "answer": "After years of overtime, he burned out.",
+        "accept": [
+          "After years of overtime, he burnt out.",
+          "After years of overtime he burned out.",
+          "After years of overtime, he was burned out.",
+          "After years of overtime, he was burnt out."
+        ],
+        "explanation": "Burn out."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-psychology-behaviour-2",
+    "topicId": "c1-vocab-psychology-behaviour",
+    "exercises": [
+      {
+        "id": "c1-vocab-psychology-behaviour-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "peer pressure|presja rówieśników",
+          "self-esteem|poczucie własnej wartości",
+          "willpower|siła woli",
+          "coping mechanism|mechanizm radzenia sobie"
+        ],
+        "explanation": "Pojęcia psychologiczne."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-02",
+        "type": "cloze",
+        "prompt": "It takes a lot of ___ to give up sugar. (siły woli)",
+        "answer": "willpower",
+        "explanation": "Willpower."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-03",
+        "type": "cloze",
+        "prompt": "She acted on ___ and bought a plane ticket to Japan. (impulsie)",
+        "answer": "impulse",
+        "explanation": "Act on impulse."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-04",
+        "type": "choice",
+        "prompt": "Children who are praised often have higher ___.",
+        "answer": "self-esteem",
+        "distractors": [
+          "self-service",
+          "self-steam"
+        ],
+        "explanation": "Self-esteem."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-05",
+        "type": "choice",
+        "prompt": "People tend to ___ to the opinions of the group.",
+        "answer": "conform",
+        "distractors": [
+          "confirm",
+          "comfort"
+        ],
+        "explanation": "Dostosować się: conform."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-06",
+        "type": "error",
+        "prompt": "She is very empathic with other people's problems and always listens.",
+        "answer": [
+          "empathic",
+          "empathetic"
+        ],
+        "explanation": "Częstsza forma: empathetic."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-07",
+        "type": "tiles",
+        "prompt": "Nie ulegaj pokusie.",
+        "answer": [
+          "Don't",
+          "give",
+          "in",
+          "to",
+          "temptation"
+        ],
+        "distractors": [
+          "up",
+          "tempted"
+        ],
+        "explanation": "Give in to temptation."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-08",
+        "type": "translate",
+        "prompt": "Trudno mi panować nad emocjami.",
+        "answer": "I find it hard to keep my emotions in check.",
+        "accept": [
+          "It is hard for me to keep my emotions in check.",
+          "I find it difficult to keep my emotions in check.",
+          "I find it hard to control my emotions.",
+          "It's hard for me to control my emotions."
+        ],
+        "explanation": "Keep emotions in check."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-09",
+        "type": "choice",
+        "prompt": "A person who recovers quickly from difficulties is ___.",
+        "answer": "resilient",
+        "distractors": [
+          "reluctant",
+          "resentful"
+        ],
+        "explanation": "Resilient."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-2-10",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z „find it hard”, zacznij od „Many introverts”.\nFor many introverts, it is hard to speak in public.",
+        "answer": "Many introverts find it hard to speak in public.",
+        "accept": [
+          "Many introverts find it difficult to speak in public."
+        ],
+        "explanation": "Find it hard to."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-psychology-behaviour-3",
+    "topicId": "c1-vocab-psychology-behaviour",
+    "exercises": [
+      {
+        "id": "c1-vocab-psychology-behaviour-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "procrastinate|zwlekać",
+          "overthink|analizować w nieskończoność",
+          "burn out|wypalić się",
+          "cope with|radzić sobie z"
+        ],
+        "explanation": "Procesy."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-02",
+        "type": "cloze",
+        "prompt": "Confirmation ___ makes us notice only information that supports our views. (stronniczość)",
+        "answer": "bias",
+        "explanation": "Confirmation bias."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-03",
+        "type": "cloze",
+        "prompt": "He's very ___-conscious about his accent. (skrępowany)",
+        "answer": "self",
+        "explanation": "Self-conscious."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-04",
+        "type": "choice",
+        "prompt": "After the loss of his job, he became ___ and stopped caring about anything.",
+        "answer": "apathetic",
+        "distractors": [
+          "sympathetic",
+          "energetic"
+        ],
+        "explanation": "Apatyczny: apathetic."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-05",
+        "type": "choice",
+        "prompt": "Exercise can be a healthy coping ___.",
+        "answer": "mechanism",
+        "distractors": [
+          "machine",
+          "mechanic"
+        ],
+        "explanation": "Coping mechanism."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-06",
+        "type": "error",
+        "prompt": "Don't overthinking it – just make a decision.",
+        "answer": [
+          "overthinking",
+          "overthink"
+        ],
+        "explanation": "Don't + forma podstawowa."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-07",
+        "type": "tiles",
+        "prompt": "Ona bardzo dobrze radzi sobie ze stresem.",
+        "answer": [
+          "She",
+          "copes",
+          "very",
+          "well",
+          "with",
+          "stress"
+        ],
+        "distractors": [
+          "handle",
+          "of"
+        ],
+        "explanation": "Cope with."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-08",
+        "type": "translate",
+        "prompt": "Presja rówieśników może być bardzo silna.",
+        "answer": "Peer pressure can be very strong.",
+        "accept": [
+          "Peer pressure can be very powerful."
+        ],
+        "explanation": "Peer pressure."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-09",
+        "type": "choice",
+        "prompt": "Which person prefers spending time alone?",
+        "answer": "an introvert",
+        "distractors": [
+          "an extrovert",
+          "a conformist"
+        ],
+        "explanation": "Introwertyk."
+      },
+      {
+        "id": "c1-vocab-psychology-behaviour-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „which” o całym zdaniu.\nHe bottles up his emotions. This makes him tense.",
+        "answer": "He bottles up his emotions, which makes him tense.",
+        "explanation": "Which o całym zdaniu."
+      }
+    ]
+  }
+]

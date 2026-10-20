@@ -1,0 +1,352 @@
+[
+  {
+    "id": "c1-vocab-binomials-fixed-phrases-1",
+    "topicId": "c1-vocab-binomials-fixed-phrases",
+    "exercises": [
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "pros and cons|za i przeciw",
+          "ups and downs|wzloty i upadki",
+          "trial and error|metoda prób i błędów",
+          "peace and quiet|cisza i spokój"
+        ],
+        "explanation": "Wyrażenia parowe."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-02",
+        "type": "cloze",
+        "prompt": "Let's weigh up the pros and ___ before we decide.",
+        "answer": "cons",
+        "explanation": "Pros and cons."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-03",
+        "type": "cloze",
+        "prompt": "I'm sick and ___ of your excuses! (mam dość)",
+        "answer": "tired",
+        "explanation": "Sick and tired of."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-04",
+        "type": "choice",
+        "prompt": "Every marriage has its ___ and downs.",
+        "answer": "ups",
+        "distractors": [
+          "highs",
+          "tops"
+        ],
+        "explanation": "Ups and downs."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-05",
+        "type": "choice",
+        "prompt": "The children came back from camp safe and ___.",
+        "answer": "sound",
+        "distractors": [
+          "healthy",
+          "well"
+        ],
+        "explanation": "Safe and sound."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-06",
+        "type": "error",
+        "prompt": "We found the answer by trial and mistake.",
+        "answer": [
+          "mistake",
+          "error"
+        ],
+        "explanation": "Trial and error."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-07",
+        "type": "tiles",
+        "prompt": "Prędzej czy później się dowie.",
+        "answer": [
+          "Sooner",
+          "or",
+          "later",
+          "she",
+          "will",
+          "find",
+          "out"
+        ],
+        "distractors": [
+          "Later",
+          "faster"
+        ],
+        "explanation": "Sooner or later."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-08",
+        "type": "translate",
+        "prompt": "Ogólnie rzecz biorąc, projekt się udał.",
+        "answer": "By and large, the project was a success.",
+        "accept": [
+          "On the whole, the project was a success.",
+          "By and large the project was a success.",
+          "Overall, the project was a success.",
+          "All in all, the project was a success."
+        ],
+        "explanation": "By and large."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-09",
+        "type": "choice",
+        "prompt": "\"I just need some peace and quiet\" means I need:",
+        "answer": "a calm place without noise",
+        "distractors": [
+          "a party",
+          "a new job"
+        ],
+        "explanation": "Cisza i spokój."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „approximately” wyrażeniem „give or take”.\nThe trip takes approximately three hours.",
+        "answer": "The trip takes three hours, give or take.",
+        "accept": [
+          "The trip takes three hours give or take.",
+          "The trip takes give or take three hours.",
+          "The trip takes three hours, give or take a few minutes."
+        ],
+        "explanation": "Give or take – mniej więcej."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-binomials-fixed-phrases-2",
+    "topicId": "c1-vocab-binomials-fixed-phrases",
+    "exercises": [
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "odds and ends|drobiazgi",
+          "now and then|od czasu do czasu",
+          "touch and go|niepewne",
+          "short and sweet|krótko i na temat"
+        ],
+        "explanation": "Wyrażenia parowe."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-02",
+        "type": "cloze",
+        "prompt": "I still see him now and ___.",
+        "answer": "then",
+        "explanation": "Now and then."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-03",
+        "type": "cloze",
+        "prompt": "Keep the speech short and ___. (na temat)",
+        "answer": "sweet",
+        "explanation": "Short and sweet."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-04",
+        "type": "choice",
+        "prompt": "It was touch and ___ whether we'd catch the plane.",
+        "answer": "go",
+        "distractors": [
+          "run",
+          "stop"
+        ],
+        "explanation": "Touch and go."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-05",
+        "type": "choice",
+        "prompt": "I heard you loud and ___.",
+        "answer": "clear",
+        "distractors": [
+          "clean",
+          "loudly"
+        ],
+        "explanation": "Loud and clear."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-06",
+        "type": "error",
+        "prompt": "I see my cousins now and than.",
+        "answer": [
+          "than",
+          "then"
+        ],
+        "explanation": "Now and then."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-07",
+        "type": "tiles",
+        "prompt": "Przede wszystkim musimy zadbać o bezpieczeństwo.",
+        "answer": [
+          "First",
+          "and",
+          "foremost",
+          "we",
+          "must",
+          "ensure",
+          "safety"
+        ],
+        "distractors": [
+          "formost",
+          "foremostly"
+        ],
+        "explanation": "First and foremost."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-08",
+        "type": "translate",
+        "prompt": "Mam serdecznie dość tej pogody.",
+        "answer": "I'm sick and tired of this weather.",
+        "accept": [
+          "I am sick and tired of this weather.",
+          "I'm sick and tired of the weather.",
+          "I am sick and tired of the weather."
+        ],
+        "explanation": "Sick and tired of."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-09",
+        "type": "choice",
+        "prompt": "Which binomial is in the correct order?",
+        "answer": "black and white",
+        "distractors": [
+          "white and black",
+          "and black white"
+        ],
+        "explanation": "Black and white."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-2-10",
+        "type": "transform",
+        "prompt": "Zastąp „occasionally” wyrażeniem „every now and then”.\nWe occasionally go to the theatre.",
+        "answer": "We go to the theatre every now and then.",
+        "accept": [
+          "Every now and then we go to the theatre.",
+          "Every now and then, we go to the theatre."
+        ],
+        "explanation": "Every now and then."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-binomials-fixed-phrases-3",
+    "topicId": "c1-vocab-binomials-fixed-phrases",
+    "exercises": [
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "by no means|bynajmniej",
+          "on the whole|ogólnie",
+          "at the end of the day|w ostatecznym rozrachunku",
+          "to all intents and purposes|praktycznie"
+        ],
+        "explanation": "Stałe zwroty."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-02",
+        "type": "cloze",
+        "prompt": "The results are by no ___ perfect, but they're encouraging.",
+        "answer": "means",
+        "explanation": "By no means."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-03",
+        "type": "cloze",
+        "prompt": "On the ___, I enjoyed the course. (ogólnie)",
+        "answer": "whole",
+        "explanation": "On the whole."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-04",
+        "type": "choice",
+        "prompt": "At the end of the ___, it's your decision.",
+        "answer": "day",
+        "distractors": [
+          "night",
+          "story"
+        ],
+        "explanation": "At the end of the day."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-05",
+        "type": "choice",
+        "prompt": "All the ___ and regulations are listed on the website.",
+        "answer": "rules",
+        "distractors": [
+          "laws",
+          "orders"
+        ],
+        "explanation": "Rules and regulations."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-06",
+        "type": "error",
+        "prompt": "The house is more and less finished.",
+        "answer": [
+          "and",
+          "or"
+        ],
+        "explanation": "More or less."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-07",
+        "type": "tiles",
+        "prompt": "Dom jest praktycznie gotowy.",
+        "answer": [
+          "To",
+          "all",
+          "intents",
+          "and",
+          "purposes",
+          "the",
+          "house",
+          "is",
+          "ready"
+        ],
+        "distractors": [
+          "purposely",
+          "intentions"
+        ],
+        "explanation": "To all intents and purposes."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-08",
+        "type": "translate",
+        "prompt": "Wróciła cała i zdrowa.",
+        "answer": "She came back safe and sound.",
+        "accept": [
+          "She returned safe and sound.",
+          "She got back safe and sound."
+        ],
+        "explanation": "Safe and sound."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-09",
+        "type": "choice",
+        "prompt": "\"Hit and miss\" means:",
+        "answer": "sometimes good, sometimes bad",
+        "distractors": [
+          "always successful",
+          "very dangerous"
+        ],
+        "explanation": "Raz lepiej, raz gorzej."
+      },
+      {
+        "id": "c1-vocab-binomials-fixed-phrases-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „approximately” wyrażeniem „more or less”.\nThe work is approximately finished.",
+        "answer": "The work is more or less finished.",
+        "explanation": "More or less."
+      }
+    ]
+  }
+]

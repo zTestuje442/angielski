@@ -1,0 +1,111 @@
+{
+  "id": "c1-reading-review-3",
+  "topicId": "c1-reading-review",
+  "title": "Album review: Northern Lines",
+  "text": "It has been seven years since Lena Wróbel released her last album, and in that time the music industry has changed beyond recognition. Streaming has made the album an endangered species; most listeners now discover songs through playlists, thirty seconds at a time. Against this background, Northern Lines – a fifty-four-minute record designed to be heard from beginning to end – feels almost like an act of defiance.\n\nThe concept is ambitious. Each of the eleven tracks is named after a station on a disused railway line in northern Poland, and the album traces a single, imaginary journey from the coast to the forests of Masuria. Field recordings – wind in the telephone wires, the creak of an abandoned platform, distant church bells – drift in and out of the arrangements, giving the record a strong sense of place.\n\nMusically, Wróbel has moved away from the guitar-based folk of her earlier work towards something stranger and more spacious. Piano and strings dominate, with occasional bursts of electronic noise that unsettle rather than decorate. Her voice, always her greatest asset, has deepened and roughened with age, and she uses it with new restraint. On the standout track, \"Szczytno, 4:12 a.m.\", she barely rises above a whisper, and the effect is hypnotic.\n\nNot everything works. The middle section of the album drifts into a pleasant but forgettable sameness, and two instrumental interludes feel more like sketches than finished pieces. Listeners who loved the catchy choruses of her debut may find much of this frustratingly slow. Lyrically, too, Wróbel occasionally reaches for profundity and lands on cliché – a line comparing memory to \"an empty waiting room\" is used, regrettably, three times.\n\nYet the closing tracks more than justify the journey, and they reward the patience that the middle section demands. Here, at last, the concept and the music fully come together. \"Last Stop\", in which the field recordings gradually swallow the music until only the sound of rain remains, is one of the most moving pieces of Polish pop in years.\n\nNorthern Lines will not top any charts, and it is unlikely to appear on many playlists. That is almost certainly the point. It asks for an hour of your undivided attention, and for the most part, it repays it generously.",
+  "exercises": [
+    {
+      "id": "c1-reading-review-3-01",
+      "type": "choice",
+      "prompt": "Wróbel's previous album came out seven years ago.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„It has been seven years since Lena Wróbel released her last album...”"
+    },
+    {
+      "id": "c1-reading-review-3-02",
+      "type": "choice",
+      "prompt": "The album is mainly based on guitar folk music.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Odeszła od gitarowego folku w stronę fortepianu i smyczków."
+    },
+    {
+      "id": "c1-reading-review-3-03",
+      "type": "choice",
+      "prompt": "Wróbel recorded the album at real railway stations.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi o nagraniach terenowych, ale nie o miejscu nagrania albumu."
+    },
+    {
+      "id": "c1-reading-review-3-04",
+      "type": "choice",
+      "prompt": "Why does the reviewer call the album \"an act of defiance\"?",
+      "answer": "It is meant to be heard as a whole in the age of playlists.",
+      "distractors": [
+        "It criticises the government.",
+        "It was released without a record company."
+      ],
+      "explanation": "Album do słuchania w całości wbrew epoce playlist."
+    },
+    {
+      "id": "c1-reading-review-3-05",
+      "type": "choice",
+      "prompt": "What is the function of the field recordings?",
+      "answer": "They create a strong sense of place.",
+      "distractors": [
+        "They hide technical mistakes.",
+        "They replace the vocals."
+      ],
+      "explanation": "„...giving the record a strong sense of place.”"
+    },
+    {
+      "id": "c1-reading-review-3-06",
+      "type": "choice",
+      "prompt": "What does the reviewer criticise?",
+      "answer": "the forgettable middle section and some clichéd lyrics",
+      "distractors": [
+        "the singer's voice",
+        "the length of the closing track"
+      ],
+      "explanation": "„...the middle section... drifts... reaches for profundity and lands on cliché...”"
+    },
+    {
+      "id": "c1-reading-review-3-07",
+      "type": "choice",
+      "prompt": "What does \"That is almost certainly the point\" refer to?",
+      "answer": "The album is deliberately not designed for charts and playlists.",
+      "distractors": [
+        "The album was a commercial failure.",
+        "The reviewer doesn't understand the album."
+      ],
+      "explanation": "Celowo nie dla list przebojów."
+    },
+    {
+      "id": "c1-reading-review-3-08",
+      "type": "cloze",
+      "prompt": "Streaming has made the album an ___ species. (zagrożony)",
+      "answer": "endangered",
+      "explanation": "Endangered species."
+    },
+    {
+      "id": "c1-reading-review-3-09",
+      "type": "cloze",
+      "prompt": "Her voice has deepened and ___ with age. (zszorstkniał)",
+      "answer": "roughened",
+      "explanation": "Roughen."
+    },
+    {
+      "id": "c1-reading-review-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "disused|nieużywany",
+        "unsettle|niepokoić",
+        "standout|wyróżniający się",
+        "undivided attention|niepodzielna uwaga"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+[
+  {
+    "id": "c1-vocab-academic-1",
+    "topicId": "c1-vocab-academic",
+    "exercises": [
+      {
+        "id": "c1-vocab-academic-1-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "assess|ocenić",
+          "justify|uzasadnić",
+          "undermine|podważyć",
+          "outline|zarysować"
+        ],
+        "explanation": "Czasowniki akademickie."
+      },
+      {
+        "id": "c1-vocab-academic-1-02",
+        "type": "cloze",
+        "prompt": "The study ___ the importance of early education. (podkreśla)",
+        "answer": "emphasises",
+        "accept": [
+          "emphasizes",
+          "stresses",
+          "highlights"
+        ],
+        "explanation": "Emphasise."
+      },
+      {
+        "id": "c1-vocab-academic-1-03",
+        "type": "cloze",
+        "prompt": "These findings have important ___ for public health. (konsekwencje)",
+        "answer": "implications",
+        "explanation": "Implications."
+      },
+      {
+        "id": "c1-vocab-academic-1-04",
+        "type": "choice",
+        "prompt": "Northern lights are a natural ___.",
+        "answer": "phenomenon",
+        "distractors": [
+          "phenomena",
+          "phenomenons"
+        ],
+        "explanation": "L. poj.: phenomenon."
+      },
+      {
+        "id": "c1-vocab-academic-1-05",
+        "type": "choice",
+        "prompt": "The selection ___ were not clearly defined.",
+        "answer": "criteria",
+        "distractors": [
+          "criterions",
+          "criterium"
+        ],
+        "explanation": "L. mn.: criteria."
+      },
+      {
+        "id": "c1-vocab-academic-1-06",
+        "type": "error",
+        "prompt": "Several hypothesis were tested in the experiment.",
+        "answer": [
+          "hypothesis",
+          "hypotheses"
+        ],
+        "explanation": "L. mn.: hypotheses."
+      },
+      {
+        "id": "c1-vocab-academic-1-07",
+        "type": "tiles",
+        "prompt": "Wyniki są zgodne z wcześniejszymi badaniami.",
+        "answer": [
+          "The",
+          "results",
+          "are",
+          "consistent",
+          "with",
+          "previous",
+          "research"
+        ],
+        "distractors": [
+          "to",
+          "researches"
+        ],
+        "explanation": "Be consistent with."
+      },
+      {
+        "id": "c1-vocab-academic-1-08",
+        "type": "translate",
+        "prompt": "Powszechnie uznaje się, że sen jest kluczowy dla zdrowia.",
+        "answer": "It is widely acknowledged that sleep is crucial for health.",
+        "accept": [
+          "It is widely recognised that sleep is crucial for health.",
+          "It is widely accepted that sleep is crucial for health.",
+          "It is widely acknowledged that sleep is crucial to health.",
+          "It is widely recognized that sleep is crucial for health."
+        ],
+        "explanation": "It is widely acknowledged that..."
+      },
+      {
+        "id": "c1-vocab-academic-1-09",
+        "type": "choice",
+        "prompt": "A ___ study is based on observation and measurement.",
+        "answer": "empirical",
+        "distractors": [
+          "empiric",
+          "imperial"
+        ],
+        "explanation": "Empiryczny: empirical."
+      },
+      {
+        "id": "c1-vocab-academic-1-10",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „The analysis of”.\nWhen we analysed the data, we found three trends.",
+        "answer": "The analysis of the data revealed three trends.",
+        "accept": [
+          "The analysis of the data showed three trends.",
+          "The analysis of the data identified three trends."
+        ],
+        "explanation": "Nominalizacja: the analysis of."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-academic-2",
+    "topicId": "c1-vocab-academic",
+    "exercises": [
+      {
+        "id": "c1-vocab-academic-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "approach|podejście",
+          "framework|ramy",
+          "bias|stronniczość",
+          "validity|trafność, ważność"
+        ],
+        "explanation": "Rzeczowniki akademickie."
+      },
+      {
+        "id": "c1-vocab-academic-2-02",
+        "type": "cloze",
+        "prompt": "The word \"democracy\" is ___ from Greek. (wywodzi się)",
+        "answer": "derived",
+        "explanation": "Be derived from."
+      },
+      {
+        "id": "c1-vocab-academic-2-03",
+        "type": "cloze",
+        "prompt": "Researchers must avoid ___ when selecting participants. (stronniczości)",
+        "answer": "bias",
+        "explanation": "Bias."
+      },
+      {
+        "id": "c1-vocab-academic-2-04",
+        "type": "choice",
+        "prompt": "The report gives a ___ overview of the market.",
+        "answer": "comprehensive",
+        "distractors": [
+          "comprehensible",
+          "comprehending"
+        ],
+        "explanation": "Wszechstronny: comprehensive."
+      },
+      {
+        "id": "c1-vocab-academic-2-05",
+        "type": "choice",
+        "prompt": "There is ___ evidence that the policy works.",
+        "answer": "substantial",
+        "distractors": [
+          "substantive of",
+          "substance"
+        ],
+        "explanation": "Znaczny: substantial."
+      },
+      {
+        "id": "c1-vocab-academic-2-06",
+        "type": "error",
+        "prompt": "The researchers made an assumption of a normal distribution and analysed the datas.",
+        "answer": [
+          "datas",
+          "data"
+        ],
+        "explanation": "Data – bez -s."
+      },
+      {
+        "id": "c1-vocab-academic-2-07",
+        "type": "tiles",
+        "prompt": "To rodzi pytanie o koszty.",
+        "answer": [
+          "This",
+          "raises",
+          "the",
+          "question",
+          "of",
+          "cost"
+        ],
+        "distractors": [
+          "rises",
+          "for"
+        ],
+        "explanation": "Raise the question of."
+      },
+      {
+        "id": "c1-vocab-academic-2-08",
+        "type": "translate",
+        "prompt": "W świetle tych wyników musimy zmienić podejście.",
+        "answer": "In light of these findings, we need to change our approach.",
+        "accept": [
+          "In the light of these findings, we need to change our approach.",
+          "In light of these results, we need to change our approach.",
+          "In light of these findings, we must change our approach.",
+          "In light of these findings we need to change our approach."
+        ],
+        "explanation": "In light of."
+      },
+      {
+        "id": "c1-vocab-academic-2-09",
+        "type": "choice",
+        "prompt": "Which plural is correct?",
+        "answer": "analyses",
+        "distractors": [
+          "analysises",
+          "analysis's"
+        ],
+        "explanation": "Analysis → analyses."
+      },
+      {
+        "id": "c1-vocab-academic-2-10",
+        "type": "transform",
+        "prompt": "Zastąp „explain why it is right” czasownikiem „justify”, zacznij od „The author”.\nThe author does not explain why the decision is right.",
+        "answer": "The author does not justify the decision.",
+        "explanation": "Justify."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-academic-3",
+    "topicId": "c1-vocab-academic",
+    "exercises": [
+      {
+        "id": "c1-vocab-academic-3-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "crucial|kluczowy",
+          "inherent|nieodłączny",
+          "ambiguous|dwuznaczny",
+          "valid|uzasadniony, ważny"
+        ],
+        "explanation": "Przymiotniki akademickie."
+      },
+      {
+        "id": "c1-vocab-academic-3-02",
+        "type": "cloze",
+        "prompt": "The results ___ that the treatment is effective. (wskazują)",
+        "answer": "indicate",
+        "accept": [
+          "suggest",
+          "show"
+        ],
+        "explanation": "Indicate."
+      },
+      {
+        "id": "c1-vocab-academic-3-03",
+        "type": "cloze",
+        "prompt": "Every method has ___ limitations. (nieodłączne)",
+        "answer": "inherent",
+        "explanation": "Inherent."
+      },
+      {
+        "id": "c1-vocab-academic-3-04",
+        "type": "choice",
+        "prompt": "These statistics ___ the government's argument.",
+        "answer": "undermine",
+        "distractors": [
+          "underline of",
+          "undertake"
+        ],
+        "explanation": "Podważyć: undermine."
+      },
+      {
+        "id": "c1-vocab-academic-3-05",
+        "type": "choice",
+        "prompt": "The question is ___ – it can be understood in two ways.",
+        "answer": "ambiguous",
+        "distractors": [
+          "ambitious",
+          "ambient"
+        ],
+        "explanation": "Dwuznaczny: ambiguous."
+      },
+      {
+        "id": "c1-vocab-academic-3-06",
+        "type": "error",
+        "prompt": "This phenomena has been studied for decades.",
+        "answer": [
+          "phenomena",
+          "phenomenon"
+        ],
+        "explanation": "L. poj.: phenomenon."
+      },
+      {
+        "id": "c1-vocab-academic-3-07",
+        "type": "tiles",
+        "prompt": "Teoria opiera się na trzech założeniach.",
+        "answer": [
+          "The",
+          "theory",
+          "is",
+          "based",
+          "on",
+          "three",
+          "assumptions"
+        ],
+        "distractors": [
+          "assumes",
+          "of"
+        ],
+        "explanation": "Be based on."
+      },
+      {
+        "id": "c1-vocab-academic-3-08",
+        "type": "translate",
+        "prompt": "Ważne jest, aby zinterpretować te dane ostrożnie.",
+        "answer": "It is important to interpret these data carefully.",
+        "accept": [
+          "It is important to interpret this data carefully.",
+          "It is important that these data are interpreted carefully.",
+          "These data must be interpreted carefully."
+        ],
+        "explanation": "Interpret."
+      },
+      {
+        "id": "c1-vocab-academic-3-09",
+        "type": "choice",
+        "prompt": "Which word means \"to establish\"?",
+        "answer": "to set up or prove something firmly",
+        "distractors": [
+          "to question something",
+          "to ignore something"
+        ],
+        "explanation": "Establish – ustalić, ugruntować."
+      },
+      {
+        "id": "c1-vocab-academic-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Three criteria”.\nThe committee established three criteria.",
+        "answer": "Three criteria were established by the committee.",
+        "accept": [
+          "Three criteria were established."
+        ],
+        "explanation": "Were established."
+      }
+    ]
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "c1-sent-advanced-paraphrasing-1",
+    "topicId": "c1-sent-advanced-paraphrasing",
+    "exercises": [
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-01",
+        "type": "transform",
+        "prompt": "Użyj słowa MADE.\nThey decided quickly. → They ___ decision.",
+        "answer": "They made a quick decision.",
+        "explanation": "Nominalizacja: make a decision."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-02",
+        "type": "transform",
+        "prompt": "Użyj słowa BELIEVED.\nPeople believe that he lives abroad. → He ___ abroad.",
+        "answer": "He is believed to live abroad.",
+        "explanation": "Is believed to."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-03",
+        "type": "transform",
+        "prompt": "Użyj słowa SOONER.\nAs soon as I arrived, it started to rain. → No ___ than it started to rain.",
+        "answer": "No sooner had I arrived than it started to rain.",
+        "explanation": "No sooner had ... than."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-04",
+        "type": "transform",
+        "prompt": "Użyj słowa CAN'T.\nI'm sure it wasn't easy for her. → It ___ for her.",
+        "answer": "It can't have been easy for her.",
+        "accept": [
+          "It cannot have been easy for her."
+        ],
+        "explanation": "Can't have been."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-05",
+        "type": "choice",
+        "prompt": "\"It makes no difference to me\" means:",
+        "answer": "I don't mind.",
+        "distractors": [
+          "I disagree.",
+          "I am very interested."
+        ],
+        "explanation": "Parafraza: I don't mind."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-06",
+        "type": "cloze",
+        "prompt": "There's no ___ in arguing about it now. (sensu)",
+        "answer": "point",
+        "explanation": "There's no point in + -ing."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-07",
+        "type": "error",
+        "prompt": "He is said to has won the lottery.",
+        "answer": [
+          "has",
+          "have"
+        ],
+        "explanation": "Is said to have + III forma."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-08",
+        "type": "tiles",
+        "prompt": "Nigdy nie widziałem tak dobrego filmu.",
+        "answer": [
+          "It",
+          "is",
+          "the",
+          "best",
+          "film",
+          "I",
+          "have",
+          "ever",
+          "seen"
+        ],
+        "distractors": [
+          "never",
+          "better"
+        ],
+        "explanation": "Stopień najwyższy + ever."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-09",
+        "type": "translate",
+        "prompt": "Nie mogę znieść tego hałasu.",
+        "answer": "I can't put up with this noise.",
+        "accept": [
+          "I can't stand this noise.",
+          "I cannot put up with this noise.",
+          "I can't bear this noise.",
+          "I cannot stand this noise."
+        ],
+        "explanation": "Put up with."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-1-10",
+        "type": "match",
+        "prompt": "Połącz czasownik z odpowiednikiem.",
+        "answer": [
+          "tolerate|put up with",
+          "postpone|put off",
+          "investigate|look into",
+          "cancel|call off"
+        ],
+        "explanation": "Czasownik i phrasal verb."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-advanced-paraphrasing-2",
+    "topicId": "c1-sent-advanced-paraphrasing",
+    "exercises": [
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-01",
+        "type": "transform",
+        "prompt": "Użyj słowa POINT.\nIt's not worth complaining. → There's ___ complaining.",
+        "answer": "There's no point in complaining.",
+        "accept": [
+          "There is no point in complaining.",
+          "There's no point complaining.",
+          "There is no point complaining."
+        ],
+        "explanation": "There's no point in + -ing."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-02",
+        "type": "transform",
+        "prompt": "Użyj słowa WISH.\nIt's a pity I didn't study medicine. → I ___ medicine.",
+        "answer": "I wish I had studied medicine.",
+        "accept": [
+          "I wish I'd studied medicine."
+        ],
+        "explanation": "Wish + Past Perfect."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-03",
+        "type": "transform",
+        "prompt": "Użyj słowa ACCOUNT.\nYou mustn't open this door for any reason. → On ___ this door.",
+        "answer": "On no account should you open this door.",
+        "accept": [
+          "On no account must you open this door."
+        ],
+        "explanation": "On no account + inwersja."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-04",
+        "type": "transform",
+        "prompt": "Użyj słowa DIFFICULTY.\nShe found it hard to understand the instructions. → She had ___ the instructions.",
+        "answer": "She had difficulty understanding the instructions.",
+        "accept": [
+          "She had difficulty in understanding the instructions."
+        ],
+        "explanation": "Have difficulty + -ing."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-05",
+        "type": "choice",
+        "prompt": "Which paraphrase keeps the meaning? \"He apologised for being late.\"",
+        "answer": "He said he was sorry for being late.",
+        "distractors": [
+          "He was late because he apologised.",
+          "He refused to apologise for being late."
+        ],
+        "explanation": "Ta sama treść."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-06",
+        "type": "cloze",
+        "prompt": "The concert was called ___ because of the storm. (odwołany)",
+        "answer": "off",
+        "explanation": "Call off."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-07",
+        "type": "error",
+        "prompt": "No sooner had I arrive than the meeting started.",
+        "answer": [
+          "arrive",
+          "arrived"
+        ],
+        "explanation": "Had + III forma."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-08",
+        "type": "tiles",
+        "prompt": "Mogłeś mi powiedzieć wcześniej.",
+        "answer": [
+          "You",
+          "could",
+          "have",
+          "told",
+          "me",
+          "earlier"
+        ],
+        "distractors": [
+          "can",
+          "tell"
+        ],
+        "explanation": "Could have + III forma."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-09",
+        "type": "translate",
+        "prompt": "Nie ma sensu czekać.",
+        "answer": "There is no point in waiting.",
+        "accept": [
+          "There's no point in waiting.",
+          "There is no point waiting.",
+          "There's no point waiting.",
+          "It's no use waiting."
+        ],
+        "explanation": "No point in + -ing."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-2-10",
+        "type": "match",
+        "prompt": "Połącz zdanie z parafrazą.",
+        "answer": [
+          "It's not worth it.|There's no point.",
+          "I don't mind.|It makes no difference to me.",
+          "As soon as...|No sooner... than",
+          "I'm sure he didn't...|He can't have..."
+        ],
+        "explanation": "Parafrazy."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-advanced-paraphrasing-3",
+    "topicId": "c1-sent-advanced-paraphrasing",
+    "exercises": [
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-01",
+        "type": "transform",
+        "prompt": "Użyj słowa HAD.\nThey only understood the problem when they saw the data. → Only when ___ did they understand the problem.",
+        "answer": "Only when they had seen the data did they understand the problem.",
+        "accept": [
+          "Only when they saw the data did they understand the problem."
+        ],
+        "explanation": "Only when + inwersja w drugiej części."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-02",
+        "type": "transform",
+        "prompt": "Użyj słowa TAKEN.\nNobody had told me about the change. → I ___ by the change.",
+        "answer": "I was taken by surprise by the change.",
+        "accept": [
+          "I was taken aback by the change."
+        ],
+        "explanation": "Be taken by surprise."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-03",
+        "type": "transform",
+        "prompt": "Użyj słowa LIKELY.\nShe will probably win. → She is ___.",
+        "answer": "She is likely to win.",
+        "explanation": "Be likely to."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-04",
+        "type": "transform",
+        "prompt": "Użyj słowa SUCCEEDED.\nHe managed to finish on time. → He ___ on time.",
+        "answer": "He succeeded in finishing on time.",
+        "explanation": "Succeed in + -ing."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-05",
+        "type": "choice",
+        "prompt": "Which paraphrase uses nominalisation?",
+        "answer": "The closure of the factory shocked everyone.",
+        "distractors": [
+          "They closed the factory and everyone was shocked.",
+          "Everyone was shocked when it closed."
+        ],
+        "explanation": "The closure of..."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-06",
+        "type": "cloze",
+        "prompt": "Under no ___ should you share your password. (okolicznościach)",
+        "answer": "circumstances",
+        "explanation": "Under no circumstances."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-07",
+        "type": "error",
+        "prompt": "She is thought to be left the country last year.",
+        "answer": [
+          "be",
+          "have"
+        ],
+        "explanation": "Przeszłość: is thought to have left."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-08",
+        "type": "tiles",
+        "prompt": "Prawdopodobnie przyjdzie później.",
+        "answer": [
+          "He",
+          "is",
+          "likely",
+          "to",
+          "come",
+          "later"
+        ],
+        "distractors": [
+          "probable",
+          "likes"
+        ],
+        "explanation": "Be likely to."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-09",
+        "type": "translate",
+        "prompt": "Zaskoczyło mnie jego zachowanie.",
+        "answer": "I was taken aback by his behaviour.",
+        "accept": [
+          "His behaviour surprised me.",
+          "I was surprised by his behaviour.",
+          "His behaviour took me by surprise.",
+          "I was taken by surprise by his behaviour.",
+          "I was surprised by his behavior.",
+          "His behavior surprised me."
+        ],
+        "explanation": "Be taken aback."
+      },
+      {
+        "id": "c1-sent-advanced-paraphrasing-3-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenie z parafrazą.",
+        "answer": [
+          "decide quickly|make a quick decision",
+          "probably will|be likely to",
+          "manage to|succeed in",
+          "close a factory|the closure of a factory"
+        ],
+        "explanation": "Parafrazy."
+      }
+    ]
+  }
+]

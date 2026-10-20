@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-literary-1",
+  "topicId": "c1-reading-literary",
+  "title": "The clockmaker's daughter",
+  "text": "My father repaired clocks for forty-one years, and in all that time I never once saw him late. He woke at six without an alarm, ate the same breakfast of rye bread and tea, and opened the shop at exactly eight, turning the sign on the door with a small, satisfied nod, as if he had just confirmed that the world was still where he had left it.\n\nThe shop was narrow and dark and smelled of oil and dust. Every wall was covered with clocks – cuckoo clocks from the mountains, brass ship's clocks, a grandfather clock with a painted moon that no longer moved – and they all ticked at slightly different speeds, so that the room was full of a soft, uneven rain of sound. As a child, I used to sit on the stool behind the counter and try to count the seconds, but I always gave up; there were too many kinds of time in that room.\n\nPeople brought him their broken clocks the way they might bring a sick animal to a vet. They stood at the counter apologising – \"It belonged to my grandmother,\" \"I know it isn't worth much\" – and my father listened without interrupting, turning the clock over in his large, careful hands. He rarely said whether he could fix it. He would simply write a number on a small brown ticket and say, \"Come back on Thursday.\" And on Thursday, almost always, the clock would be ticking.\n\nIt was only much later, after his death, that I understood what he had really been doing. Clearing out the shop, I found a drawer full of brown tickets that had never been collected. There were dozens of them, some dating back thirty years, each tied with string to a clock that worked perfectly. The owners had never returned. Perhaps they had moved away, or died, or simply forgotten. My father had kept every one, wound them each week, and never sold a single one.\n\nI sat on the old stool for a long time that evening, listening. The grandfather clock with the painted moon was still silent. But all around it, the abandoned clocks went on ticking, patiently, faithfully, keeping time for people who would never come back to hear it.\n\nI did not sell the shop. On Monday, at exactly eight o'clock, I turned the sign on the door.",
+  "exercises": [
+    {
+      "id": "c1-reading-literary-1-01",
+      "type": "choice",
+      "prompt": "The narrator's father was very punctual.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...I never once saw him late.”"
+    },
+    {
+      "id": "c1-reading-literary-1-02",
+      "type": "choice",
+      "prompt": "The father always told customers immediately if he could fix the clock.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„He rarely said whether he could fix it.”"
+    },
+    {
+      "id": "c1-reading-literary-1-03",
+      "type": "choice",
+      "prompt": "The narrator had trained as a clockmaker.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-literary-1-04",
+      "type": "choice",
+      "prompt": "What does \"a soft, uneven rain of sound\" describe?",
+      "answer": "the many clocks ticking at different speeds",
+      "distractors": [
+        "rain falling on the shop roof",
+        "customers talking quietly"
+      ],
+      "explanation": "Zegary tykające w różnym tempie."
+    },
+    {
+      "id": "c1-reading-literary-1-05",
+      "type": "choice",
+      "prompt": "How did customers feel when they brought their clocks?",
+      "answer": "apologetic and emotionally attached",
+      "distractors": [
+        "angry and impatient",
+        "proud of their expensive clocks"
+      ],
+      "explanation": "Przepraszali, mówili o babci."
+    },
+    {
+      "id": "c1-reading-literary-1-06",
+      "type": "choice",
+      "prompt": "What did the narrator discover after her father's death?",
+      "answer": "He had kept and wound uncollected clocks for years.",
+      "distractors": [
+        "He had sold many clocks secretly.",
+        "He could not fix most clocks."
+      ],
+      "explanation": "Szuflada z nieodebranymi kwitkami."
+    },
+    {
+      "id": "c1-reading-literary-1-07",
+      "type": "choice",
+      "prompt": "What does the uncollected clocks detail reveal about the father?",
+      "answer": "He was loyal and caring beyond his job.",
+      "distractors": [
+        "He was bad at business.",
+        "He forgot to contact his customers."
+      ],
+      "explanation": "Nakręcał je co tydzień i nie sprzedał żadnego."
+    },
+    {
+      "id": "c1-reading-literary-1-08",
+      "type": "choice",
+      "prompt": "What does the final sentence suggest?",
+      "answer": "The narrator will continue her father's work.",
+      "distractors": [
+        "The narrator will close the shop.",
+        "The narrator is late for work."
+      ],
+      "explanation": "O ósmej odwróciła tabliczkę – jak ojciec."
+    },
+    {
+      "id": "c1-reading-literary-1-09",
+      "type": "cloze",
+      "prompt": "He wound them each week, and never ___ a single one.",
+      "answer": "sold",
+      "explanation": "Sell → sold."
+    },
+    {
+      "id": "c1-reading-literary-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "satisfied|zadowolony",
+        "brass|mosiężny",
+        "uncollected|nieodebrany",
+        "faithfully|wiernie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

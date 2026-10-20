@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-review-2",
+  "topicId": "c1-reading-review",
+  "title": "Book review: The Algorithm of Us",
+  "text": "Books about the dangers of technology tend to fall into one of two categories: breathless warnings that the machines are coming for us, or cheerful assurances that everything will be fine if we simply learn to code. Dr Nadia Okafor's The Algorithm of Us belongs to neither, and it is all the better for it.\n\nOkafor, a sociologist who spent a decade studying online communities, is less interested in what algorithms can do than in what they reveal about us. Her central argument is deceptively simple: recommendation systems do not create our preferences so much as amplify the ones we already have, including those we would rather not admit to. The platforms, she writes, are \"mirrors with a sales target\".\n\nThe strongest chapters are those grounded in her own fieldwork. A section on parents who joined online groups for advice on sleep training, only to be drawn into increasingly extreme debates about vaccines, is both chilling and scrupulously fair. Okafor never mocks her subjects; she is genuinely curious about why intelligent, caring people end up believing things that would have seemed absurd to them a year earlier.\n\nWhere the book is less convincing is in its final third, which offers solutions. Okafor's proposals – greater transparency from tech companies, digital literacy in schools, and a \"right to a boring feed\" – are sensible enough, but they are sketched rather than developed, and she seems oddly reluctant to engage with the obvious objection that companies have little financial incentive to adopt them. After two hundred pages of sharp analysis, the ending feels like a polite shrug.\n\nStylistically, Okafor is a pleasure to read. She has a gift for the memorable phrase and a welcome habit of explaining technical concepts without either oversimplifying or showing off. Readers looking for statistics will find them in the extensive notes; everyone else can enjoy the stories.\n\nThis is not the definitive book on our relationship with technology – it is too modest, and too uncertain, for that. But its uncertainty is part of its value. In a debate dominated by people who claim to know exactly where we are heading, Okafor's willingness to say \"it's complicated\" is quietly radical.",
+  "exercises": [
+    {
+      "id": "c1-reading-review-2-01",
+      "type": "choice",
+      "prompt": "Okafor believes algorithms completely create our preferences.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Uważa, że wzmacniają istniejące preferencje."
+    },
+    {
+      "id": "c1-reading-review-2-02",
+      "type": "choice",
+      "prompt": "Okafor carried out her own research on online communities.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...grounded in her own fieldwork.”"
+    },
+    {
+      "id": "c1-reading-review-2-03",
+      "type": "choice",
+      "prompt": "The book has been translated into several languages.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-review-2-04",
+      "type": "choice",
+      "prompt": "What does Okafor mean by \"mirrors with a sales target\"?",
+      "answer": "Platforms reflect us back while trying to make money.",
+      "distractors": [
+        "Platforms are designed to sell mirrors.",
+        "Platforms show us people we would like to be."
+      ],
+      "explanation": "Lustro, które ma też cel sprzedażowy."
+    },
+    {
+      "id": "c1-reading-review-2-05",
+      "type": "choice",
+      "prompt": "How does the reviewer describe Okafor's treatment of the parents?",
+      "answer": "fair and curious, not mocking",
+      "distractors": [
+        "harsh and critical",
+        "funny and ironic"
+      ],
+      "explanation": "„Okafor never mocks her subjects...”"
+    },
+    {
+      "id": "c1-reading-review-2-06",
+      "type": "choice",
+      "prompt": "What is the reviewer's main criticism?",
+      "answer": "The solutions are underdeveloped.",
+      "distractors": [
+        "The style is difficult to read.",
+        "There are no real examples."
+      ],
+      "explanation": "„...sketched rather than developed...”"
+    },
+    {
+      "id": "c1-reading-review-2-07",
+      "type": "choice",
+      "prompt": "What does \"the ending feels like a polite shrug\" suggest?",
+      "answer": "The conclusion is weak and non-committal.",
+      "distractors": [
+        "The ending is very emotional.",
+        "The book ends suddenly in the middle of a story."
+      ],
+      "explanation": "Wzruszenie ramion – brak zaangażowania."
+    },
+    {
+      "id": "c1-reading-review-2-08",
+      "type": "choice",
+      "prompt": "Why does the reviewer value the book's uncertainty?",
+      "answer": "Most commentators claim too much certainty.",
+      "distractors": [
+        "It makes the book shorter.",
+        "It proves technology is safe."
+      ],
+      "explanation": "„...a debate dominated by people who claim to know exactly...”"
+    },
+    {
+      "id": "c1-reading-review-2-09",
+      "type": "cloze",
+      "prompt": "Her central argument is ___ simple. (zwodniczo)",
+      "answer": "deceptively",
+      "explanation": "Deceptively simple."
+    },
+    {
+      "id": "c1-reading-review-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "breathless|zdyszany, przesadnie podekscytowany",
+        "scrupulously|skrupulatnie",
+        "incentive|zachęta, bodziec",
+        "quietly radical|po cichu radykalny"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

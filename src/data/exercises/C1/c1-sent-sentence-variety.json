@@ -1,0 +1,345 @@
+[
+  {
+    "id": "c1-sent-sentence-variety-1",
+    "topicId": "c1-sent-sentence-variety",
+    "exercises": [
+      {
+        "id": "c1-sent-sentence-variety-1-01",
+        "type": "transform",
+        "prompt": "Zacznij od imiesłowu „Exhausted”.\nShe was exhausted after the journey, so she went straight to bed.",
+        "answer": "Exhausted after the journey, she went straight to bed.",
+        "explanation": "Zdanie od imiesłowu."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-02",
+        "type": "transform",
+        "prompt": "Zacznij od „Late at night”.\nThe city finally fell silent late at night.",
+        "answer": "Late at night, the city finally fell silent.",
+        "accept": [
+          "Late at night the city finally fell silent."
+        ],
+        "explanation": "Okolicznik na początku."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-03",
+        "type": "transform",
+        "prompt": "Wstaw wtrącenie „published last week” po „The report”.\nThe report caused a scandal.",
+        "answer": "The report, published last week, caused a scandal.",
+        "explanation": "Wtrącenie z przecinkami."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-04",
+        "type": "choice",
+        "prompt": "Which sentence has a dangling participle?",
+        "answer": "Walking home, the rain started.",
+        "distractors": [
+          "Walking home, I got caught in the rain.",
+          "While I was walking home, it started to rain."
+        ],
+        "explanation": "Deszcz nie szedł do domu."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-05",
+        "type": "choice",
+        "prompt": "Which sentence begins with an adjective phrase?",
+        "answer": "Unsure what to do, he called his sister.",
+        "distractors": [
+          "He called his sister because he was unsure.",
+          "His sister was called by him."
+        ],
+        "explanation": "Zdanie od przymiotnika."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-06",
+        "type": "cloze",
+        "prompt": "___ checked the figures twice, we submitted the report. (sprawdziwszy)",
+        "answer": "Having",
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-07",
+        "type": "error",
+        "prompt": "Having finish the meal, we asked for the bill.",
+        "answer": [
+          "finish",
+          "finished"
+        ],
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-08",
+        "type": "tiles",
+        "prompt": "Zaskoczony wiadomością, nie powiedział ani słowa.",
+        "answer": [
+          "Surprised",
+          "by",
+          "the",
+          "news",
+          "he",
+          "said",
+          "nothing"
+        ],
+        "distractors": [
+          "Surprising",
+          "was"
+        ],
+        "explanation": "Zdanie od imiesłowu biernego."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-09",
+        "type": "translate",
+        "prompt": "Tym, co mnie zaskoczyło, była cisza.",
+        "answer": "What surprised me was the silence.",
+        "accept": [
+          "What surprised me was the quiet."
+        ],
+        "explanation": "Cleft: What surprised me was..."
+      },
+      {
+        "id": "c1-sent-sentence-variety-1-10",
+        "type": "match",
+        "prompt": "Połącz przykłady z techniką.",
+        "answer": [
+          "Late at night, ...|okolicznik na początku",
+          "Having checked..., ...|imiesłów na początku",
+          "Unsure what to do, ...|przymiotnik na początku",
+          "What surprised me was...|zdanie rozszczepione"
+        ],
+        "explanation": "Sposoby rozpoczęcia zdania."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-sentence-variety-2",
+    "topicId": "c1-sent-sentence-variety",
+    "exercises": [
+      {
+        "id": "c1-sent-sentence-variety-2-01",
+        "type": "transform",
+        "prompt": "Zacznij od „Having”.\nAfter we had analysed the results, we changed our strategy.",
+        "answer": "Having analysed the results, we changed our strategy.",
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-02",
+        "type": "transform",
+        "prompt": "Zacznij od „Rarely”.\nI have rarely seen such dedication.",
+        "answer": "Rarely have I seen such dedication.",
+        "explanation": "Inwersja po Rarely."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-03",
+        "type": "transform",
+        "prompt": "Zacznij od „Built”.\nThe bridge was built in 1890 and it is still in use.",
+        "answer": "Built in 1890, the bridge is still in use.",
+        "accept": [
+          "Built in 1890 the bridge is still in use."
+        ],
+        "explanation": "Imiesłów bierny na początku."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-04",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Looking out of the window, I saw a fox.",
+        "distractors": [
+          "Looking out of the window, a fox appeared.",
+          "Looking out of the window, the fox was seen by me."
+        ],
+        "explanation": "Podmiot wykonuje czynność imiesłowu."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-05",
+        "type": "choice",
+        "prompt": "Which technique makes a short sentence powerful?",
+        "answer": "placing it after several long sentences",
+        "distractors": [
+          "repeating it three times",
+          "starting it with \"And\""
+        ],
+        "explanation": "Kontrast długości."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-06",
+        "type": "cloze",
+        "prompt": "___ to the hospital, she was told to wait. (przywieziona – take)",
+        "answer": "Taken",
+        "accept": [
+          "Brought"
+        ],
+        "explanation": "Imiesłów bierny na początku."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-07",
+        "type": "error",
+        "prompt": "Opened the door, I noticed a strong smell.",
+        "answer": [
+          "Opened",
+          "Opening"
+        ],
+        "explanation": "Czynność równoczesna: -ing."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-08",
+        "type": "tiles",
+        "prompt": "Nie wiedząc, gdzie jest, poprosiła o pomoc.",
+        "answer": [
+          "Not",
+          "knowing",
+          "where",
+          "she",
+          "was",
+          "she",
+          "asked",
+          "for",
+          "help"
+        ],
+        "distractors": [
+          "didn't",
+          "knew"
+        ],
+        "explanation": "Not + -ing."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-09",
+        "type": "translate",
+        "prompt": "Późnym wieczorem w końcu skończyliśmy.",
+        "answer": "Late in the evening, we finally finished.",
+        "accept": [
+          "Late in the evening we finally finished.",
+          "Late that evening, we finally finished.",
+          "Late that evening we finally finished."
+        ],
+        "explanation": "Okolicznik na początku."
+      },
+      {
+        "id": "c1-sent-sentence-variety-2-10",
+        "type": "match",
+        "prompt": "Połącz przykłady z techniką.",
+        "answer": [
+          "Exhausted, she...|imiesłów bierny",
+          "Having eaten, we...|imiesłów uprzedni",
+          "Not knowing..., he...|przeczenie z imiesłowem",
+          "Rarely have I...|inwersja"
+        ],
+        "explanation": "Techniki."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-sentence-variety-3",
+    "topicId": "c1-sent-sentence-variety",
+    "exercises": [
+      {
+        "id": "c1-sent-sentence-variety-3-01",
+        "type": "transform",
+        "prompt": "Połącz w jedno zdanie, zaczynając od „Unable”.\nHe was unable to sleep. He went for a walk.",
+        "answer": "Unable to sleep, he went for a walk.",
+        "explanation": "Przymiotnik na początku."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-02",
+        "type": "transform",
+        "prompt": "Zacznij od „What”.\nThe price of the tickets shocked us.",
+        "answer": "What shocked us was the price of the tickets.",
+        "explanation": "Cleft: What + czasownik + was."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-03",
+        "type": "transform",
+        "prompt": "Zacznij od „Despite”.\nAlthough she was tired, she kept writing.",
+        "answer": "Despite being tired, she kept writing.",
+        "accept": [
+          "Despite her tiredness, she kept writing.",
+          "Despite feeling tired, she kept writing."
+        ],
+        "explanation": "Despite + -ing."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-04",
+        "type": "choice",
+        "prompt": "Which version is the most varied and natural?",
+        "answer": "Tired but happy, we finally reached the top.",
+        "distractors": [
+          "We were tired. We were happy. We reached the top.",
+          "We reached the top and we were tired and we were happy."
+        ],
+        "explanation": "Zróżnicowana budowa."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-05",
+        "type": "choice",
+        "prompt": "\"The novel, ___ in 1925, is still popular.\"",
+        "answer": "written",
+        "distractors": [
+          "writing",
+          "wrote"
+        ],
+        "explanation": "Wtrącenie z imiesłowem biernym."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-06",
+        "type": "cloze",
+        "prompt": "___ in a small village, she had never seen the sea. (wychowana – bring up)",
+        "answer": "Brought up",
+        "accept": [
+          "Raised"
+        ],
+        "explanation": "Imiesłów bierny."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-07",
+        "type": "error",
+        "prompt": "Drove to work, I saw an accident.",
+        "answer": [
+          "Drove",
+          "Driving"
+        ],
+        "explanation": "Imiesłów czynny: -ing."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-08",
+        "type": "tiles",
+        "prompt": "Rzadko widziałem tak piękny zachód słońca.",
+        "answer": [
+          "Rarely",
+          "have",
+          "I",
+          "seen",
+          "such",
+          "a",
+          "beautiful",
+          "sunset"
+        ],
+        "distractors": [
+          "so",
+          "seeing"
+        ],
+        "explanation": "Inwersja."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-09",
+        "type": "translate",
+        "prompt": "Przestraszony hałasem, pies uciekł.",
+        "answer": "Frightened by the noise, the dog ran away.",
+        "accept": [
+          "Scared by the noise, the dog ran away.",
+          "Frightened by the noise the dog ran away."
+        ],
+        "explanation": "Imiesłów bierny."
+      },
+      {
+        "id": "c1-sent-sentence-variety-3-10",
+        "type": "match",
+        "prompt": "Połącz technikę z efektem.",
+        "answer": [
+          "short sentence after long ones|emfaza",
+          "participle clause|zwięzłość",
+          "fronted adverbial|ustawienie sceny",
+          "cleft sentence|wyróżnienie"
+        ],
+        "explanation": "Technika i efekt."
+      }
+    ]
+  }
+]

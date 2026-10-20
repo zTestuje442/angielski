@@ -1,0 +1,353 @@
+[
+  {
+    "id": "c1-vocab-law-ethics-1",
+    "topicId": "c1-vocab-law-ethics",
+    "exercises": [
+      {
+        "id": "c1-vocab-law-ethics-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "loophole|luka prawna",
+          "liable|odpowiedzialny prawnie",
+          "sue|pozwać",
+          "verdict|werdykt"
+        ],
+        "explanation": "Prawo."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-02",
+        "type": "cloze",
+        "prompt": "All companies must comply ___ the new regulations.",
+        "answer": "with",
+        "explanation": "Comply with."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-03",
+        "type": "cloze",
+        "prompt": "The jury reached a ___ after three days. (werdykt)",
+        "answer": "verdict",
+        "explanation": "Verdict."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-04",
+        "type": "choice",
+        "prompt": "Clever accountants found a ___ in the tax law.",
+        "answer": "loophole",
+        "distractors": [
+          "keyhole",
+          "manhole"
+        ],
+        "explanation": "Luka prawna: loophole."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-05",
+        "type": "choice",
+        "prompt": "She decided to ___ the company for discrimination.",
+        "answer": "sue",
+        "distractors": [
+          "accuse of",
+          "judge up"
+        ],
+        "explanation": "Pozwać: sue."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-06",
+        "type": "error",
+        "prompt": "The company was found liable of the damage.",
+        "answer": [
+          "of",
+          "for"
+        ],
+        "explanation": "Liable for."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-07",
+        "type": "tiles",
+        "prompt": "Politycy muszą ponosić odpowiedzialność za swoje decyzje.",
+        "answer": [
+          "Politicians",
+          "must",
+          "be",
+          "held",
+          "accountable",
+          "for",
+          "their",
+          "decisions"
+        ],
+        "distractors": [
+          "responsibly",
+          "to"
+        ],
+        "explanation": "Be held accountable for."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-08",
+        "type": "translate",
+        "prompt": "Ta praktyka budzi poważne wątpliwości etyczne.",
+        "answer": "This practice raises serious ethical concerns.",
+        "accept": [
+          "This practice raises serious ethical questions.",
+          "The practice raises serious ethical concerns.",
+          "This practice raises serious ethical doubts."
+        ],
+        "explanation": "Raise ethical concerns."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-09",
+        "type": "choice",
+        "prompt": "A person who reports wrongdoing inside an organisation is a ___.",
+        "answer": "whistleblower",
+        "distractors": [
+          "witness",
+          "lawyer"
+        ],
+        "explanation": "Sygnalista: whistleblower."
+      },
+      {
+        "id": "c1-vocab-law-ethics-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The defendant”.\nThe court acquitted the defendant.",
+        "answer": "The defendant was acquitted by the court.",
+        "accept": [
+          "The defendant was acquitted."
+        ],
+        "explanation": "Was acquitted."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-law-ethics-2",
+    "topicId": "c1-vocab-law-ethics",
+    "exercises": [
+      {
+        "id": "c1-vocab-law-ethics-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "integrity|uczciwość",
+          "accountability|rozliczalność",
+          "transparency|przejrzystość",
+          "consent|zgoda"
+        ],
+        "explanation": "Etyka."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-02",
+        "type": "cloze",
+        "prompt": "The data was used without the patients' ___. (zgody)",
+        "answer": "consent",
+        "explanation": "Consent."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-03",
+        "type": "cloze",
+        "prompt": "As a judge, she has a ___ of interest in this case. (konflikt)",
+        "answer": "conflict",
+        "explanation": "Conflict of interest."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-04",
+        "type": "choice",
+        "prompt": "The police are responsible for ___ the law.",
+        "answer": "enforcing",
+        "distractors": [
+          "reinforcing",
+          "forcing in"
+        ],
+        "explanation": "Egzekwować: enforce."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-05",
+        "type": "choice",
+        "prompt": "Using AI to write exam answers is a moral grey ___.",
+        "answer": "area",
+        "distractors": [
+          "zone",
+          "field"
+        ],
+        "explanation": "A grey area."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-06",
+        "type": "error",
+        "prompt": "He was convicted for fraud and sentenced to five years.",
+        "answer": [
+          "for",
+          "of"
+        ],
+        "explanation": "Convicted of."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-07",
+        "type": "tiles",
+        "prompt": "Firma działała z naruszeniem umowy.",
+        "answer": [
+          "The",
+          "company",
+          "acted",
+          "in",
+          "breach",
+          "of",
+          "the",
+          "contract"
+        ],
+        "distractors": [
+          "broken",
+          "on"
+        ],
+        "explanation": "In breach of."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-08",
+        "type": "translate",
+        "prompt": "Zgodnie z prawem masz prawo do adwokata.",
+        "answer": "Under the law, you have the right to a lawyer.",
+        "accept": [
+          "By law, you have the right to a lawyer.",
+          "Under the law you have the right to a lawyer.",
+          "According to the law, you have the right to a lawyer."
+        ],
+        "explanation": "Under the law."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-09",
+        "type": "choice",
+        "prompt": "A politician who never lies has great ___.",
+        "answer": "integrity",
+        "distractors": [
+          "intensity",
+          "integration"
+        ],
+        "explanation": "Integrity."
+      },
+      {
+        "id": "c1-vocab-law-ethics-2-10",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „The lack of”.\nThe process was not transparent, which worried investors.",
+        "answer": "The lack of transparency worried investors.",
+        "accept": [
+          "The lack of transparency in the process worried investors."
+        ],
+        "explanation": "The lack of + rzeczownik."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-law-ethics-3",
+    "topicId": "c1-vocab-law-ethics",
+    "exercises": [
+      {
+        "id": "c1-vocab-law-ethics-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "acquit|uniewinnić",
+          "convict|skazać",
+          "appeal|odwołanie, odwołać się",
+          "enforce|egzekwować"
+        ],
+        "explanation": "Procedury prawne."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-02",
+        "type": "cloze",
+        "prompt": "His lawyers plan to ___ against the verdict. (odwołać się)",
+        "answer": "appeal",
+        "explanation": "Appeal against."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-03",
+        "type": "cloze",
+        "prompt": "New ___ will protect workers' rights. (ustawodawstwo)",
+        "answer": "legislation",
+        "explanation": "Legislation – niepoliczalne."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-04",
+        "type": "choice",
+        "prompt": "Doctors face an ethical ___ when resources are limited.",
+        "answer": "dilemma",
+        "distractors": [
+          "dilemmas of",
+          "dial"
+        ],
+        "explanation": "Dylemat: dilemma."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-05",
+        "type": "choice",
+        "prompt": "Testing cosmetics on animals is widely seen as ___.",
+        "answer": "unethical",
+        "distractors": [
+          "inethical",
+          "disethical"
+        ],
+        "explanation": "Unethical."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-06",
+        "type": "error",
+        "prompt": "The government introduced new legislations on data protection.",
+        "answer": [
+          "legislations",
+          "legislation"
+        ],
+        "explanation": "Legislation – niepoliczalne."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-07",
+        "type": "tiles",
+        "prompt": "Mają moralny obowiązek pomóc.",
+        "answer": [
+          "They",
+          "have",
+          "a",
+          "moral",
+          "obligation",
+          "to",
+          "help"
+        ],
+        "distractors": [
+          "obliged",
+          "of"
+        ],
+        "explanation": "Moral obligation."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-08",
+        "type": "translate",
+        "prompt": "Został uniewinniony ze wszystkich zarzutów.",
+        "answer": "He was acquitted of all charges.",
+        "accept": [
+          "He was cleared of all charges.",
+          "He was acquitted on all charges."
+        ],
+        "explanation": "Acquit of."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-09",
+        "type": "choice",
+        "prompt": "Which collocation is correct?",
+        "answer": "comply with the rules",
+        "distractors": [
+          "comply to the rules",
+          "comply the rules"
+        ],
+        "explanation": "Comply with."
+      },
+      {
+        "id": "c1-vocab-law-ethics-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The law”.\nThe police rarely enforce this law.",
+        "answer": "The law is rarely enforced.",
+        "accept": [
+          "The law is rarely enforced by the police.",
+          "This law is rarely enforced.",
+          "This law is rarely enforced by the police."
+        ],
+        "explanation": "Is enforced."
+      }
+    ]
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "id": "c1-writing-report-1",
+    "topicId": "c1-writing-report",
+    "exercises": [
+      {
+        "id": "c1-writing-report-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z funkcją.",
+        "answer": [
+          "The purpose of this report is to...|cel",
+          "The findings are based on...|metoda",
+          "It is recommended that...|zalecenie",
+          "Consideration should be given to...|sugestia do rozważenia"
+        ],
+        "explanation": "Zwroty raportu."
+      },
+      {
+        "id": "c1-writing-report-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is impersonal?",
+        "answer": "Concerns were raised about the cost.",
+        "distractors": [
+          "I was worried about the cost.",
+          "We all hated the cost."
+        ],
+        "explanation": "Strona bierna, bezosobowo."
+      },
+      {
+        "id": "c1-writing-report-1-03",
+        "type": "choice",
+        "prompt": "A ___ proportion of respondents were dissatisfied.",
+        "answer": "substantial",
+        "distractors": [
+          "substance",
+          "substantive of"
+        ],
+        "explanation": "A substantial proportion."
+      },
+      {
+        "id": "c1-writing-report-1-04",
+        "type": "cloze",
+        "prompt": "It is recommended that the system ___ replaced. (subjunctive)",
+        "answer": "be",
+        "explanation": "It is recommended that + be."
+      },
+      {
+        "id": "c1-writing-report-1-05",
+        "type": "cloze",
+        "prompt": "Only a ___ of staff use the gym regularly. (mniejszość)",
+        "answer": "minority",
+        "explanation": "A minority of."
+      },
+      {
+        "id": "c1-writing-report-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż wstęp raportu.",
+        "answer": [
+          "Introduction",
+          "The purpose of this report is to assess staff satisfaction with the new flexible working policy.",
+          "The findings are based on a survey of 120 employees and five follow-up interviews."
+        ],
+        "distractors": [
+          "Hope you enjoy reading it!"
+        ],
+        "explanation": "Nagłówek, cel, metoda. Potoczne zdanie nie pasuje."
+      },
+      {
+        "id": "c1-writing-report-1-07",
+        "type": "error",
+        "prompt": "It is essential that the policy is reviewed annually.",
+        "answer": [
+          "is",
+          "be"
+        ],
+        "explanation": "It is essential that + be (subjunctive)."
+      },
+      {
+        "id": "c1-writing-report-1-08",
+        "type": "translate",
+        "prompt": "Należy rozważyć wprowadzenie pracy zdalnej.",
+        "answer": "Consideration should be given to introducing remote work.",
+        "accept": [
+          "Consideration should be given to the introduction of remote work.",
+          "The introduction of remote work should be considered.",
+          "It is recommended that remote work be introduced."
+        ],
+        "explanation": "Consideration should be given to + -ing."
+      },
+      {
+        "id": "c1-writing-report-1-09",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „A reduction in”.\nIf we reduce meetings, staff will be more productive.",
+        "answer": "A reduction in meetings is likely to increase staff productivity.",
+        "accept": [
+          "A reduction in meetings would make staff more productive.",
+          "A reduction in meetings would increase staff productivity.",
+          "A reduction in meetings is likely to make staff more productive.",
+          "A reduction in meetings will make staff more productive."
+        ],
+        "explanation": "A reduction in + hedging."
+      },
+      {
+        "id": "c1-writing-report-1-10",
+        "type": "choice",
+        "prompt": "What makes a C1 report different from a B2 report?",
+        "answer": "more nominalisation, hedging and precise vocabulary",
+        "distractors": [
+          "no headings",
+          "an informal tone"
+        ],
+        "explanation": "Bogatszy, precyzyjniejszy język."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-report-2",
+    "topicId": "c1-writing-report",
+    "exercises": [
+      {
+        "id": "c1-writing-report-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "a substantial proportion|znaczna część",
+          "the vast majority|zdecydowana większość",
+          "a minority|mniejszość",
+          "roughly a third|mniej więcej jedna trzecia"
+        ],
+        "explanation": "Proporcje."
+      },
+      {
+        "id": "c1-writing-report-2-02",
+        "type": "choice",
+        "prompt": "It ___ found that most employees prefer hybrid work.",
+        "answer": "was",
+        "distractors": [
+          "were",
+          "has found"
+        ],
+        "explanation": "It was found that..."
+      },
+      {
+        "id": "c1-writing-report-2-03",
+        "type": "choice",
+        "prompt": "The new system ___ to have improved efficiency.",
+        "answer": "appears",
+        "distractors": [
+          "appear",
+          "is appearing"
+        ],
+        "explanation": "Hedging: appears to."
+      },
+      {
+        "id": "c1-writing-report-2-04",
+        "type": "cloze",
+        "prompt": "The ___ of the new software was delayed by two months. (wdrożenie)",
+        "answer": "implementation",
+        "explanation": "Nominalizacja."
+      },
+      {
+        "id": "c1-writing-report-2-05",
+        "type": "cloze",
+        "prompt": "___ a certain extent, the changes have been successful.",
+        "answer": "To",
+        "explanation": "To a certain extent."
+      },
+      {
+        "id": "c1-writing-report-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż sekcję z rekomendacjami.",
+        "answer": [
+          "Recommendations",
+          "It is recommended that meeting-free afternoons be introduced twice a week.",
+          "Furthermore, consideration should be given to upgrading the video conferencing equipment."
+        ],
+        "distractors": [
+          "Thanks a lot and see you soon!"
+        ],
+        "explanation": "Nagłówek i dwa zalecenia. Potoczne pożegnanie nie pasuje."
+      },
+      {
+        "id": "c1-writing-report-2-07",
+        "type": "error",
+        "prompt": "The vast majority of respondent expressed satisfaction.",
+        "answer": [
+          "respondent",
+          "respondents"
+        ],
+        "explanation": "The majority of + l. mn."
+      },
+      {
+        "id": "c1-writing-report-2-08",
+        "type": "translate",
+        "prompt": "Zdecydowana większość ankietowanych popiera zmianę.",
+        "answer": "The vast majority of respondents support the change.",
+        "accept": [
+          "The vast majority of respondents supports the change.",
+          "The vast majority of the respondents support the change.",
+          "The vast majority of respondents are in favour of the change."
+        ],
+        "explanation": "The vast majority of."
+      },
+      {
+        "id": "c1-writing-report-2-09",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Several problems”.\nThe survey identified several problems.",
+        "answer": "Several problems were identified in the survey.",
+        "accept": [
+          "Several problems were identified by the survey.",
+          "Several problems were identified."
+        ],
+        "explanation": "Strona bierna."
+      },
+      {
+        "id": "c1-writing-report-2-10",
+        "type": "choice",
+        "prompt": "Which sentence is the most cautious?",
+        "answer": "The policy is likely to reduce costs to some extent.",
+        "distractors": [
+          "The policy will definitely cut costs.",
+          "The policy is amazing."
+        ],
+        "explanation": "Hedging: likely, to some extent."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-report-3",
+    "topicId": "c1-writing-report",
+    "exercises": [
+      {
+        "id": "c1-writing-report-3-01",
+        "type": "match",
+        "prompt": "Połącz sekcję z treścią.",
+        "answer": [
+          "Introduction|cel i metoda",
+          "Findings|fakty i dane",
+          "Recommendations|propozycje",
+          "Conclusion|podsumowanie i efekt"
+        ],
+        "explanation": "Części raportu."
+      },
+      {
+        "id": "c1-writing-report-3-02",
+        "type": "choice",
+        "prompt": "Which heading is suitable for a C1 report?",
+        "answer": "Impact on staff wellbeing",
+        "distractors": [
+          "My feelings about the office",
+          "Hello everyone"
+        ],
+        "explanation": "Rzeczowy nagłówek."
+      },
+      {
+        "id": "c1-writing-report-3-03",
+        "type": "choice",
+        "prompt": "If the recommendations ___ implemented, satisfaction should increase.",
+        "answer": "are",
+        "distractors": [
+          "will be",
+          "would"
+        ],
+        "explanation": "If + czas teraźniejszy."
+      },
+      {
+        "id": "c1-writing-report-3-04",
+        "type": "cloze",
+        "prompt": "___ the high initial cost, the investment would pay for itself within two years. (pomimo)",
+        "answer": "Despite",
+        "accept": [
+          "Notwithstanding"
+        ],
+        "explanation": "Despite + rzeczownik."
+      },
+      {
+        "id": "c1-writing-report-3-05",
+        "type": "cloze",
+        "prompt": "The data ___ that younger employees value flexibility most. (sugerują)",
+        "answer": "suggest",
+        "accept": [
+          "suggests",
+          "indicate",
+          "indicates",
+          "show",
+          "shows"
+        ],
+        "explanation": "The data suggest."
+      },
+      {
+        "id": "c1-writing-report-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie raportu.",
+        "answer": [
+          "Conclusion",
+          "Overall, the new policy has been well received by staff.",
+          "If the above recommendations are implemented, both productivity and morale are likely to improve."
+        ],
+        "distractors": [
+          "I am writing to complain about the canteen."
+        ],
+        "explanation": "Nagłówek, ocena ogólna, spodziewany efekt. Zdanie z listu nie pasuje."
+      },
+      {
+        "id": "c1-writing-report-3-07",
+        "type": "error",
+        "prompt": "The datas indicate a clear preference for hybrid work.",
+        "answer": [
+          "datas",
+          "data"
+        ],
+        "explanation": "Data – bez -s."
+      },
+      {
+        "id": "c1-writing-report-3-08",
+        "type": "translate",
+        "prompt": "Ogólnie rzecz biorąc, nowa polityka została dobrze przyjęta.",
+        "answer": "Overall, the new policy has been well received.",
+        "accept": [
+          "On the whole, the new policy has been well received.",
+          "Overall, the new policy was well received.",
+          "By and large, the new policy has been well received."
+        ],
+        "explanation": "Overall + strona bierna."
+      },
+      {
+        "id": "c1-writing-report-3-09",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z subjunctive, zacznij od „It is essential that”.\nThe company must review the policy every year.",
+        "answer": "It is essential that the policy be reviewed every year.",
+        "accept": [
+          "It is essential that the company review the policy every year.",
+          "It is essential that the policy be reviewed annually."
+        ],
+        "explanation": "It is essential that + be."
+      },
+      {
+        "id": "c1-writing-report-3-10",
+        "type": "choice",
+        "prompt": "How long is a C1 report?",
+        "answer": "220–260 words",
+        "distractors": [
+          "80–100 words",
+          "500–600 words"
+        ],
+        "explanation": "C1: 220–260 słów."
+      }
+    ]
+  }
+]

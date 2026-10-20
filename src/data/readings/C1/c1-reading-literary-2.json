@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-literary-2",
+  "topicId": "c1-reading-literary",
+  "title": "The visitor",
+  "text": "The first time the stranger appeared, Ewa assumed he was lost. It was a grey afternoon in early March, and she was standing at the kitchen window, waiting for the kettle to boil, when she noticed a man in a long dark coat standing at the end of the garden, just beyond the old apple tree. He was not doing anything. He was simply looking at the house.\n\nShe watched him for perhaps a minute. Then the kettle clicked off, she turned to pour the water, and when she looked back he was gone.\n\nHe returned the following Tuesday, and the Tuesday after that, always at the same time, always in the same place. He never came closer, never tried the gate, never seemed to notice her watching. Her husband, Adam, laughed when she told him. \"A birdwatcher,\" he said. \"Or someone from the council, measuring the boundary.\" But he did not offer to go out and ask.\n\nBy the fourth week, Ewa had begun to arrange her afternoons around the visits. She told herself it was caution. She noted the time in a small notebook – 3.40, 3.42, 3.39 – and the weather, and the colour of his scarf, which was the only thing that ever changed. She found herself wondering what he saw when he looked at the house: the peeling paint around the windows, perhaps, or the swing that nobody had used for years, still hanging from the apple tree, moving slightly in the wind.\n\nOn the sixth Tuesday, she put on her coat and walked down the garden.\n\nHe did not move as she approached. Up close, he was older than she had thought, his face lined and tired, and he was holding something in his gloved hands: a small, faded photograph. He held it out to her without a word.\n\nIt showed the same garden, the same apple tree, the same swing – but newer, brighter, and on the swing sat a boy of about six, laughing at whoever held the camera.\n\n\"I lived here,\" the man said at last, in a voice rough from not being used. \"Until I was nine. They told me last month that I don't have much time left.\" He looked past her, at the swing. \"I just wanted to see it again.\"\n\nEwa stood beside him for a long while. Then she opened the gate.",
+  "exercises": [
+    {
+      "id": "c1-reading-literary-2-01",
+      "type": "choice",
+      "prompt": "Ewa first saw the stranger in early March.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...a grey afternoon in early March...”"
+    },
+    {
+      "id": "c1-reading-literary-2-02",
+      "type": "choice",
+      "prompt": "Adam went outside to talk to the stranger.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...he did not offer to go out and ask.”"
+    },
+    {
+      "id": "c1-reading-literary-2-03",
+      "type": "choice",
+      "prompt": "Ewa and Adam have children.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Huśtawka jest nieużywana, ale tekst nie mówi o ich dzieciach."
+    },
+    {
+      "id": "c1-reading-literary-2-04",
+      "type": "choice",
+      "prompt": "Why did Ewa keep a notebook?",
+      "answer": "She was watching the visits closely.",
+      "distractors": [
+        "Adam asked her to.",
+        "The police told her to."
+      ],
+      "explanation": "Zapisywała godziny, pogodę i kolor szalika."
+    },
+    {
+      "id": "c1-reading-literary-2-05",
+      "type": "choice",
+      "prompt": "What does Ewa's growing interest suggest?",
+      "answer": "Her fear was turning into curiosity.",
+      "distractors": [
+        "She wanted to sell the house.",
+        "She knew the man already."
+      ],
+      "explanation": "Układała popołudnia wokół wizyt."
+    },
+    {
+      "id": "c1-reading-literary-2-06",
+      "type": "choice",
+      "prompt": "What is the significance of the swing?",
+      "answer": "It links the man's childhood to the house.",
+      "distractors": [
+        "It is dangerous and needs repair.",
+        "Ewa used it as a child."
+      ],
+      "explanation": "Na zdjęciu chłopiec na tej samej huśtawce."
+    },
+    {
+      "id": "c1-reading-literary-2-07",
+      "type": "choice",
+      "prompt": "Why did the man come back every week?",
+      "answer": "He was ill and wanted to see his childhood home.",
+      "distractors": [
+        "He wanted to buy the house.",
+        "He was measuring the garden for the council."
+      ],
+      "explanation": "„...I don't have much time left... I just wanted to see it again.”"
+    },
+    {
+      "id": "c1-reading-literary-2-08",
+      "type": "choice",
+      "prompt": "What does \"she opened the gate\" suggest?",
+      "answer": "She welcomes him in.",
+      "distractors": [
+        "She asks him to leave.",
+        "She is going for a walk."
+      ],
+      "explanation": "Gest zaproszenia."
+    },
+    {
+      "id": "c1-reading-literary-2-09",
+      "type": "cloze",
+      "prompt": "His voice was rough from not being ___.",
+      "answer": "used",
+      "explanation": "Not being used."
+    },
+    {
+      "id": "c1-reading-literary-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "assume|założyć",
+        "boundary|granica (działki)",
+        "peeling|łuszczący się",
+        "faded|wyblakły"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

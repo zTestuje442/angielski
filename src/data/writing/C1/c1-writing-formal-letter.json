@@ -1,0 +1,18 @@
+{
+  "topicId": "c1-writing-formal-letter",
+  "task": "Lokalna gazeta opublikowała artykuł o planach władz miasta, by **zamienić park w centrum na parking wielopoziomowy**. Napisz **list formalny do redakcji**:\n\n- wyraź swoje stanowisko wobec planu,\n- przedstaw argumenty, odwołując się do faktów i przykładów,\n- zaproponuj alternatywne rozwiązanie problemu z parkowaniem,\n- zakończ list formalnie.",
+  "words": [
+    220,
+    260
+  ],
+  "model": "Dear Sir or Madam,\n\nI am writing in response to your article of 12 May concerning the council's plan to replace Słoneczny Park with a multi-storey car park. I wish to express my strong opposition to this proposal.\n\nNot only is the park the only significant green space in the city centre, but it is also used daily by hundreds of residents, from parents with young children to elderly people who rely on it for exercise and company. Its loss would have a considerable impact on the quality of life in the area, particularly for those who do not own a garden.\n\nFurthermore, the claim that the car park would solve the city's traffic problems seems questionable at best. Experience from other cities suggests that additional parking tends to attract more cars into the centre, thereby increasing congestion and air pollution rather than reducing them.\n\nRather than sacrificing the park, the council could consider expanding the existing park-and-ride scheme on the outskirts and improving bus connections to the centre. Such measures would address the shortage of parking spaces while encouraging more sustainable forms of transport.\n\nShould the council proceed with its plan, I fear it would be a decision that future generations would deeply regret. I would therefore urge it to reconsider and to consult residents before any final decision is taken.\n\nI trust that this issue will receive the public attention it deserves.\n\nYours faithfully,\nKatarzyna Malinowska",
+  "checklist": [
+    "Zaczynam od „Dear Sir or Madam,” i kończę „Yours faithfully,” z imieniem i nazwiskiem.",
+    "Pierwszy akapit podaje powód listu i moje stanowisko.",
+    "Argumenty są rzeczowe, z przykładami (park, mieszkańcy, korki, zanieczyszczenie).",
+    "Proponuję konkretne rozwiązanie alternatywne.",
+    "Używam struktur C1: inwersji (Not only is..., Should the council...), nominalizacji, hedgingu.",
+    "Ton jest stanowczy, ale uprzejmy, bez emocjonalnych wykrzyknień.",
+    "Tekst ma 220–260 słów."
+  ]
+}

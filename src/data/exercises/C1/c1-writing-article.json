@@ -1,0 +1,331 @@
+[
+  {
+    "id": "c1-writing-article-1",
+    "topicId": "c1-writing-article",
+    "exercises": [
+      {
+        "id": "c1-writing-article-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "a hook|haczyk (przyciągający początek)",
+          "a punchline|puenta",
+          "a rhetorical question|pytanie retoryczne",
+          "food for thought|coś do przemyślenia"
+        ],
+        "explanation": "Elementy artykułu."
+      },
+      {
+        "id": "c1-writing-article-1-02",
+        "type": "choice",
+        "prompt": "Which opening is the strongest hook?",
+        "answer": "Last Tuesday, I spent forty minutes choosing a toothpaste.",
+        "distractors": [
+          "This article is about shopping.",
+          "Shopping is an activity that people do."
+        ],
+        "explanation": "Anegdota jako hak."
+      },
+      {
+        "id": "c1-writing-article-1-03",
+        "type": "choice",
+        "prompt": "___ do we stop to ask where our clothes come from.",
+        "answer": "Rarely",
+        "distractors": [
+          "Rare",
+          "Seldomly"
+        ],
+        "explanation": "Inwersja po Rarely."
+      },
+      {
+        "id": "c1-writing-article-1-04",
+        "type": "cloze",
+        "prompt": "What we often ___ is that choice can be exhausting. (zapominamy)",
+        "answer": "forget",
+        "explanation": "Cleft: What we often forget is..."
+      },
+      {
+        "id": "c1-writing-article-1-05",
+        "type": "cloze",
+        "prompt": "These complaints are just the tip of the ___.",
+        "answer": "iceberg",
+        "explanation": "The tip of the iceberg."
+      },
+      {
+        "id": "c1-writing-article-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż wstęp artykułu.",
+        "answer": [
+          "Last Tuesday, I spent forty minutes choosing a toothpaste.",
+          "There were sixty-three varieties on the shelf.",
+          "I left with none of them."
+        ],
+        "distractors": [
+          "Yours faithfully,"
+        ],
+        "explanation": "Anegdota, szczegół, puenta. Formalne zakończenie listu nie pasuje."
+      },
+      {
+        "id": "c1-writing-article-1-07",
+        "type": "error",
+        "prompt": "Rarely do we stopped to think about it.",
+        "answer": [
+          "stopped",
+          "stop"
+        ],
+        "explanation": "Do + forma podstawowa."
+      },
+      {
+        "id": "c1-writing-article-1-08",
+        "type": "translate",
+        "prompt": "Rzadko zastanawiamy się, skąd pochodzi nasze jedzenie.",
+        "answer": "Rarely do we wonder where our food comes from.",
+        "accept": [
+          "We rarely wonder where our food comes from.",
+          "Rarely do we think about where our food comes from.",
+          "We rarely think about where our food comes from."
+        ],
+        "explanation": "Inwersja po Rarely."
+      },
+      {
+        "id": "c1-writing-article-1-09",
+        "type": "transform",
+        "prompt": "Zacznij od „What”.\nWe often forget that rest is productive too.",
+        "answer": "What we often forget is that rest is productive too.",
+        "explanation": "Cleft: What + zdanie + is."
+      },
+      {
+        "id": "c1-writing-article-1-10",
+        "type": "choice",
+        "prompt": "Which ending leaves the reader with food for thought?",
+        "answer": "Perhaps the real luxury today is having fewer options.",
+        "distractors": [
+          "Thank you for reading.",
+          "Yours sincerely, Anna"
+        ],
+        "explanation": "Refleksja na koniec."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-article-2",
+    "topicId": "c1-writing-article",
+    "exercises": [
+      {
+        "id": "c1-writing-article-2-01",
+        "type": "match",
+        "prompt": "Połącz konstrukcję z typem.",
+        "answer": [
+          "Rarely do we...|inwersja",
+          "What strikes me is...|zdanie rozszczepione",
+          "Not once did I...|inwersja z przeczeniem",
+          "It was then that...|wyróżnienie czasu"
+        ],
+        "explanation": "Emfaza w artykule."
+      },
+      {
+        "id": "c1-writing-article-2-02",
+        "type": "choice",
+        "prompt": "Which title is the most intriguing?",
+        "answer": "The Tyranny of Choice",
+        "distractors": [
+          "An Article About Shopping",
+          "Shopping: Information"
+        ],
+        "explanation": "Intrygujący tytuł."
+      },
+      {
+        "id": "c1-writing-article-2-03",
+        "type": "choice",
+        "prompt": "After three long sentences, the writer adds: \"It didn't work.\" Why?",
+        "answer": "to create emphasis",
+        "distractors": [
+          "to save space",
+          "because of a grammar rule"
+        ],
+        "explanation": "Krótkie zdanie po długich – efekt."
+      },
+      {
+        "id": "c1-writing-article-2-04",
+        "type": "cloze",
+        "prompt": "Not ___ did I imagine how difficult it would be. (ani razu)",
+        "answer": "once",
+        "explanation": "Not once + inwersja."
+      },
+      {
+        "id": "c1-writing-article-2-05",
+        "type": "cloze",
+        "prompt": "It was ___ that I realised my mistake. (właśnie wtedy)",
+        "answer": "then",
+        "explanation": "It was then that..."
+      },
+      {
+        "id": "c1-writing-article-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż akapit z kontrargumentem.",
+        "answer": [
+          "Of course, some would argue that more choice means more freedom.",
+          "To a certain extent, they have a point.",
+          "Yet freedom that leaves us anxious and exhausted is hardly worth celebrating."
+        ],
+        "distractors": [
+          "I look forward to hearing from you."
+        ],
+        "explanation": "Kontrargument, przyznanie racji, odpowiedź. Formułka z listu nie pasuje."
+      },
+      {
+        "id": "c1-writing-article-2-07",
+        "type": "error",
+        "prompt": "Not once did I regretted my decision.",
+        "answer": [
+          "regretted",
+          "regret"
+        ],
+        "explanation": "Did + forma podstawowa."
+      },
+      {
+        "id": "c1-writing-article-2-08",
+        "type": "translate",
+        "prompt": "Dopiero wtedy zrozumiałem, jak bardzo się myliłem.",
+        "answer": "Only then did I realise how wrong I had been.",
+        "accept": [
+          "Only then did I realize how wrong I had been.",
+          "It was only then that I realised how wrong I had been.",
+          "Only then did I understand how wrong I had been.",
+          "It was only then that I realized how wrong I had been."
+        ],
+        "explanation": "Only then + inwersja."
+      },
+      {
+        "id": "c1-writing-article-2-09",
+        "type": "transform",
+        "prompt": "Przepisz z inwersją, zacznij od „Little”.\nWe had no idea how much our habits would change.",
+        "answer": "Little did we know how much our habits would change.",
+        "explanation": "Little + did + podmiot."
+      },
+      {
+        "id": "c1-writing-article-2-10",
+        "type": "choice",
+        "prompt": "Which tone suits a C1 article?",
+        "answer": "personal but thoughtful",
+        "distractors": [
+          "strictly impersonal",
+          "full of slang"
+        ],
+        "explanation": "Osobisty, ale przemyślany."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-article-3",
+    "topicId": "c1-writing-article",
+    "exercises": [
+      {
+        "id": "c1-writing-article-3-01",
+        "type": "match",
+        "prompt": "Połącz część z rolą.",
+        "answer": [
+          "Introduction|haczyk",
+          "Body|argumenty i kontrargument",
+          "Conclusion|puenta lub wezwanie",
+          "Title|intryguje"
+        ],
+        "explanation": "Części artykułu."
+      },
+      {
+        "id": "c1-writing-article-3-02",
+        "type": "choice",
+        "prompt": "Which sentence uses an idiom appropriately?",
+        "answer": "For many families, a weekly takeaway is the icing on the cake.",
+        "distractors": [
+          "The cake is icing.",
+          "Icing the cake is weekly."
+        ],
+        "explanation": "Idiom: the icing on the cake."
+      },
+      {
+        "id": "c1-writing-article-3-03",
+        "type": "choice",
+        "prompt": "Which sentence addresses the reader directly?",
+        "answer": "When did you last do absolutely nothing?",
+        "distractors": [
+          "People rarely do nothing.",
+          "Doing nothing is rare."
+        ],
+        "explanation": "Pytanie do czytelnika."
+      },
+      {
+        "id": "c1-writing-article-3-04",
+        "type": "cloze",
+        "prompt": "So next time you feel the urge to check your phone, why ___ simply look out of the window?",
+        "answer": "not",
+        "explanation": "Why not + czasownik?"
+      },
+      {
+        "id": "c1-writing-article-3-05",
+        "type": "cloze",
+        "prompt": "We live in an age of ___ distraction. (nieustannego)",
+        "answer": "constant",
+        "accept": [
+          "endless",
+          "permanent",
+          "continuous"
+        ],
+        "explanation": "Constant distraction."
+      },
+      {
+        "id": "c1-writing-article-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie artykułu.",
+        "answer": [
+          "We will never have fewer notifications than we do today.",
+          "But we can choose how often we answer them.",
+          "And that choice, it turns out, is entirely ours."
+        ],
+        "distractors": [
+          "In conclusion, the survey results are presented in the table."
+        ],
+        "explanation": "Fakt, kontrast, puenta. Zdanie z raportu nie pasuje."
+      },
+      {
+        "id": "c1-writing-article-3-07",
+        "type": "error",
+        "prompt": "Have you ever wonder why weekends feel so short?",
+        "answer": [
+          "wonder",
+          "wondered"
+        ],
+        "explanation": "Have you ever + III forma."
+      },
+      {
+        "id": "c1-writing-article-3-08",
+        "type": "translate",
+        "prompt": "Żyjemy w epoce nieustannego rozproszenia.",
+        "answer": "We live in an age of constant distraction.",
+        "accept": [
+          "We are living in an age of constant distraction.",
+          "We live in an era of constant distraction."
+        ],
+        "explanation": "An age of."
+      },
+      {
+        "id": "c1-writing-article-3-09",
+        "type": "transform",
+        "prompt": "Zacznij od „It was only when”.\nI understood the problem only when I stopped working.",
+        "answer": "It was only when I stopped working that I understood the problem.",
+        "explanation": "It was only when ... that."
+      },
+      {
+        "id": "c1-writing-article-3-10",
+        "type": "choice",
+        "prompt": "How long is a C1 article?",
+        "answer": "220–260 words",
+        "distractors": [
+          "100–120 words",
+          "400–500 words"
+        ],
+        "explanation": "C1: 220–260 słów."
+      }
+    ]
+  }
+]

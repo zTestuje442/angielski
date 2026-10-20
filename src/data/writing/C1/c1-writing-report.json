@@ -1,0 +1,18 @@
+{
+  "topicId": "c1-writing-report",
+  "task": "Dyrektor twojej szkoły językowej poprosił cię o **raport** na temat tego, **jak kursanci korzystają z platformy e-learningowej** wprowadzonej rok temu.\n\nNa podstawie (wymyślonej) ankiety:\n- opisz, z czego kursanci są zadowoleni,\n- przedstaw główne problemy, podając dane,\n- zaproponuj co najmniej dwie zmiany i uzasadnij je.\n\nUżyj nagłówków i stylu formalnego.",
+  "words": [
+    220,
+    260
+  ],
+  "model": "Report on the use of the e-learning platform\n\nIntroduction\nThe purpose of this report is to assess how students have used the e-learning platform introduced last September and to recommend improvements. The findings are based on an online survey completed by 140 students and on usage data provided by the IT department.\n\nPositive aspects\nThe vast majority of respondents (82%) consider the platform a valuable addition to classroom lessons. The interactive grammar exercises proved particularly popular, and many students reported that the instant feedback helped them identify recurring mistakes. Usage data confirms that the platform is accessed most frequently in the week before tests.\n\nProblems identified\nHowever, a substantial proportion of students (41%) find the platform difficult to use on mobile phones, which is how most of them prefer to study. In addition, roughly a third said that the speaking activities were of limited value, since they receive no personal feedback on their recordings. Teachers, meanwhile, expressed concern that they lack the time to monitor students' progress effectively.\n\nRecommendations\nFirstly, it is recommended that the mobile version of the platform be redesigned as a matter of priority. Secondly, consideration should be given to introducing short, fortnightly feedback sessions in which teachers comment on selected recordings. Finally, a simple progress dashboard would allow teachers to identify struggling students at a glance.\n\nConclusion\nOverall, the platform has been well received. Were the recommendations above implemented, it is likely to become an even more effective tool for independent learning.",
+  "checklist": [
+    "Raport ma tytuł i nagłówki sekcji.",
+    "Wstęp podaje cel i źródło danych.",
+    "Przedstawiam zalety i problemy z danymi (the vast majority, a substantial proportion, roughly a third).",
+    "Używam strony biernej, nominalizacji i hedgingu (proved, is likely to, consideration should be given to).",
+    "Mam co najmniej dwie uzasadnione rekomendacje, w tym konstrukcję z subjunctive lub inwersją.",
+    "Zakończenie podsumowuje i wskazuje spodziewany efekt.",
+    "Tekst ma 220–260 słów."
+  ]
+}

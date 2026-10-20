@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-review-1",
+  "topicId": "c1-reading-review",
+  "title": "Theatre review: The Glass Orchard",
+  "text": "There is a moment, about forty minutes into The Glass Orchard, when the entire audience at the Wrocław Contemporary Theatre seems to stop breathing. An elderly woman, played with extraordinary restraint by Halina Rogalska, picks up a broken teacup, looks at it for what feels like a full minute, and quietly puts it back on the table. Nothing is said. Nothing needs to be.\n\nIt is a testament to the confidence of the young director, Igor Mazur, that he allows such silences to fill the stage. His adaptation of the novel by Teresa Wilk – a family saga spanning three generations and two wars – could easily have collapsed under the weight of its own history. Instead, Mazur strips the story back to a single room, a single table and a handful of objects that pass from hand to hand across the decades. The result is intimate, often devastating, and occasionally maddening. The design is equally sparse: a bare wooden floor, a single window and a light that slowly shifts from morning to evening over the course of the play, quietly marking the passing years.\n\nThe cast is uniformly strong. Rogalska is the emotional centre of the production, but special mention must go to Marek Sobczak, who plays three generations of men in the same family with only the subtlest changes in posture and voice. By the end, the audience is no longer quite sure which of them is speaking – which, one suspects, is precisely the point.\n\nThe production's weaknesses, however, are hard to ignore. At just under three hours with one interval, it tests the patience of even the most devoted theatregoer. The second act, in particular, loses momentum, with several scenes that repeat emotional beats we have already experienced. A bolder editor would have cut twenty minutes without losing anything essential. There are also moments when Mazur's fondness for symbolism tips over into self-indulgence: the slowly falling glass leaves in the final scene are beautiful the first time, rather less so the fourth.\n\nFor all its flaws, though, this is serious, ambitious theatre that trusts its audience to think. In a season dominated by safe revivals and celebrity casting, that alone makes it worth seeing. Just be sure to have a strong coffee during the interval.",
+  "exercises": [
+    {
+      "id": "c1-reading-review-1-01",
+      "type": "choice",
+      "prompt": "The play is based on a novel.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„His adaptation of the novel by Teresa Wilk...”"
+    },
+    {
+      "id": "c1-reading-review-1-02",
+      "type": "choice",
+      "prompt": "Mazur kept all the locations from the original story.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...strips the story back to a single room...”"
+    },
+    {
+      "id": "c1-reading-review-1-03",
+      "type": "choice",
+      "prompt": "Halina Rogalska has won awards for this role.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie wspomina o nagrodach."
+    },
+    {
+      "id": "c1-reading-review-1-04",
+      "type": "choice",
+      "prompt": "What does the reviewer suggest about the silent moment with the teacup?",
+      "answer": "It is very powerful.",
+      "distractors": [
+        "It is too long and boring.",
+        "It was a mistake by the actress."
+      ],
+      "explanation": "Widownia „wstrzymuje oddech”."
+    },
+    {
+      "id": "c1-reading-review-1-05",
+      "type": "choice",
+      "prompt": "Why is Marek Sobczak praised?",
+      "answer": "He plays three generations with subtle changes.",
+      "distractors": [
+        "He directed the play.",
+        "He wrote the music."
+      ],
+      "explanation": "„...plays three generations of men... with only the subtlest changes...”"
+    },
+    {
+      "id": "c1-reading-review-1-06",
+      "type": "choice",
+      "prompt": "What is the reviewer's main criticism?",
+      "answer": "The play is too long and the second act drags.",
+      "distractors": [
+        "The actors are weak.",
+        "The story is too simple."
+      ],
+      "explanation": "„...it tests the patience... The second act... loses momentum.”"
+    },
+    {
+      "id": "c1-reading-review-1-07",
+      "type": "choice",
+      "prompt": "What does the comment about the falling leaves suggest?",
+      "answer": "Repeated symbolism becomes less effective.",
+      "distractors": [
+        "The leaves are badly made.",
+        "The final scene is the best part."
+      ],
+      "explanation": "„...beautiful the first time, rather less so the fourth.”"
+    },
+    {
+      "id": "c1-reading-review-1-08",
+      "type": "choice",
+      "prompt": "What is the overall tone of the review?",
+      "answer": "positive but critical",
+      "distractors": [
+        "completely negative",
+        "uncritically enthusiastic"
+      ],
+      "explanation": "„For all its flaws... worth seeing.”"
+    },
+    {
+      "id": "c1-reading-review-1-09",
+      "type": "cloze",
+      "prompt": "It is a ___ to the confidence of the director that he allows such silences. (dowodem)",
+      "answer": "testament",
+      "explanation": "Be a testament to."
+    },
+    {
+      "id": "c1-reading-review-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "restraint|powściągliwość",
+        "devastating|druzgocący, poruszający",
+        "momentum|rozpęd, tempo",
+        "self-indulgence|pobłażanie sobie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

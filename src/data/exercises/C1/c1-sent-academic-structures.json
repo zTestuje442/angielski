@@ -1,0 +1,357 @@
+[
+  {
+    "id": "c1-sent-academic-structures-1",
+    "topicId": "c1-sent-academic-structures",
+    "exercises": [
+      {
+        "id": "c1-sent-academic-structures-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "It is widely believed that...|Powszechnie uważa się, że...",
+          "It should be noted that...|Należy zauważyć, że...",
+          "There is growing evidence that...|Coraz więcej dowodów wskazuje, że...",
+          "According to Smith (2020),...|Według Smitha (2020)..."
+        ],
+        "explanation": "Struktury akademickie."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-02",
+        "type": "cloze",
+        "prompt": "It ___ be argued that the policy has failed. (można)",
+        "answer": "can",
+        "accept": [
+          "could",
+          "may",
+          "might"
+        ],
+        "explanation": "It can be argued that..."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-03",
+        "type": "cloze",
+        "prompt": "___ is growing evidence that diet affects mood.",
+        "answer": "There",
+        "explanation": "There is growing evidence..."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-04",
+        "type": "choice",
+        "prompt": "The participants ___ asked to complete a questionnaire.",
+        "answer": "were",
+        "distractors": [
+          "was",
+          "have"
+        ],
+        "explanation": "Strona bierna l. mn.: were."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-05",
+        "type": "choice",
+        "prompt": "Which sentence is the most academic?",
+        "answer": "A considerable number of respondents expressed concern.",
+        "distractors": [
+          "Lots of people were really worried.",
+          "I think a lot of people got worried."
+        ],
+        "explanation": "Formalne słownictwo."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-06",
+        "type": "error",
+        "prompt": "According with Smith (2020), the results are reliable.",
+        "answer": [
+          "with",
+          "to"
+        ],
+        "explanation": "According to."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-07",
+        "type": "tiles",
+        "prompt": "Należy zauważyć, że próba była niewielka.",
+        "answer": [
+          "It",
+          "should",
+          "be",
+          "noted",
+          "that",
+          "the",
+          "sample",
+          "was",
+          "small"
+        ],
+        "distractors": [
+          "noting",
+          "notes"
+        ],
+        "explanation": "It should be noted that..."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-08",
+        "type": "translate",
+        "prompt": "W przeciwieństwie do wcześniejszych badań, to badanie objęło dzieci.",
+        "answer": "In contrast to previous studies, this study included children.",
+        "accept": [
+          "Unlike previous studies, this study included children.",
+          "In contrast to earlier studies, this study included children.",
+          "Unlike earlier studies, this study included children."
+        ],
+        "explanation": "In contrast to."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-09",
+        "type": "choice",
+        "prompt": "Which phrase is NOT suitable for an academic text?",
+        "answer": "a lot of",
+        "distractors": [
+          "a considerable amount of",
+          "a significant number of"
+        ],
+        "explanation": "A lot of – potoczne."
+      },
+      {
+        "id": "c1-sent-academic-structures-1-10",
+        "type": "transform",
+        "prompt": "Zamień na zdanie bezosobowe, zacznij od „It is widely believed”.\nMany people believe that exercise improves memory.",
+        "answer": "It is widely believed that exercise improves memory.",
+        "explanation": "It is widely believed that..."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-academic-structures-2",
+    "topicId": "c1-sent-academic-structures",
+    "exercises": [
+      {
+        "id": "c1-sent-academic-structures-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "In contrast to...|W przeciwieństwie do...",
+          "Compared with...|W porównaniu z...",
+          "to some extent|do pewnego stopnia",
+          "tends to|ma tendencję do"
+        ],
+        "explanation": "Porównania i hedging."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-02",
+        "type": "cloze",
+        "prompt": "Compared ___ urban areas, rural areas have fewer doctors.",
+        "answer": "with",
+        "accept": [
+          "to"
+        ],
+        "explanation": "Compared with / to."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-03",
+        "type": "cloze",
+        "prompt": "Social media ___ to amplify extreme opinions. (ma tendencję)",
+        "answer": "tends",
+        "explanation": "Tend to."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-04",
+        "type": "choice",
+        "prompt": "As Kowalski (2019) points ___, the data are incomplete.",
+        "answer": "out",
+        "distractors": [
+          "at",
+          "up"
+        ],
+        "explanation": "Point out."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-05",
+        "type": "choice",
+        "prompt": "The ___ of the new system took two years.",
+        "answer": "implementation",
+        "distractors": [
+          "implement",
+          "implementing of"
+        ],
+        "explanation": "Nominalizacja."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-06",
+        "type": "error",
+        "prompt": "The data was collected from 2015 to 2020 and they shows a clear trend.",
+        "answer": [
+          "shows",
+          "show"
+        ],
+        "explanation": "They – show (data jako l. mn.)."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-07",
+        "type": "tiles",
+        "prompt": "Wyniki wydają się potwierdzać hipotezę.",
+        "answer": [
+          "The",
+          "results",
+          "appear",
+          "to",
+          "confirm",
+          "the",
+          "hypothesis"
+        ],
+        "distractors": [
+          "appearing",
+          "confirms"
+        ],
+        "explanation": "Appear to – hedging."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-08",
+        "type": "translate",
+        "prompt": "Istnieje tendencja do przeceniania własnych umiejętności.",
+        "answer": "There is a tendency to overestimate one's own abilities.",
+        "accept": [
+          "There is a tendency to overestimate our own abilities.",
+          "There is a tendency for people to overestimate their own abilities.",
+          "People tend to overestimate their own abilities."
+        ],
+        "explanation": "There is a tendency to..."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-09",
+        "type": "choice",
+        "prompt": "Which sentence uses hedging?",
+        "answer": "This may be partly due to economic factors.",
+        "distractors": [
+          "This is due to economic factors.",
+          "Economic factors are the only reason."
+        ],
+        "explanation": "May, partly – ostrożność."
+      },
+      {
+        "id": "c1-sent-academic-structures-2-10",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „The introduction of”.\nWhen the government introduced the tax, prices rose.",
+        "answer": "The introduction of the tax led to a rise in prices.",
+        "accept": [
+          "The introduction of the tax caused prices to rise.",
+          "The introduction of the tax resulted in a rise in prices.",
+          "The introduction of the tax led to higher prices."
+        ],
+        "explanation": "Nominalizacja."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-academic-structures-3",
+    "topicId": "c1-sent-academic-structures",
+    "exercises": [
+      {
+        "id": "c1-sent-academic-structures-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "data were collected|dane zebrano",
+          "participants were asked|uczestników poproszono",
+          "the findings indicate|wyniki wskazują",
+          "further research is needed|potrzebne są dalsze badania"
+        ],
+        "explanation": "Zwroty raportu naukowego."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-02",
+        "type": "cloze",
+        "prompt": "Further research is ___ to confirm these results. (potrzebne)",
+        "answer": "needed",
+        "accept": [
+          "required",
+          "necessary"
+        ],
+        "explanation": "Further research is needed."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-03",
+        "type": "cloze",
+        "prompt": "___ some extent, the policy was successful. (do pewnego)",
+        "answer": "To",
+        "explanation": "To some extent."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-04",
+        "type": "choice",
+        "prompt": "Which verb is the most cautious?",
+        "answer": "suggest",
+        "distractors": [
+          "prove",
+          "show clearly"
+        ],
+        "explanation": "Suggest – ostrożne."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-05",
+        "type": "choice",
+        "prompt": "___ the high cost, the project was approved.",
+        "answer": "Despite",
+        "distractors": [
+          "Although",
+          "Whereas"
+        ],
+        "explanation": "Despite + rzeczownik."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-06",
+        "type": "error",
+        "prompt": "It is generally excepted that early education is important.",
+        "answer": [
+          "excepted",
+          "accepted"
+        ],
+        "explanation": "It is generally accepted that..."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-07",
+        "type": "tiles",
+        "prompt": "Potrzebne są dalsze badania.",
+        "answer": [
+          "Further",
+          "research",
+          "is",
+          "needed"
+        ],
+        "distractors": [
+          "Farther",
+          "researches"
+        ],
+        "explanation": "Further research."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-08",
+        "type": "translate",
+        "prompt": "Wyniki należy interpretować ostrożnie.",
+        "answer": "The results should be interpreted with caution.",
+        "accept": [
+          "The results should be interpreted carefully.",
+          "The results must be interpreted with caution.",
+          "The results must be interpreted carefully."
+        ],
+        "explanation": "Should be interpreted."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-09",
+        "type": "choice",
+        "prompt": "Which sentence is too informal for a report?",
+        "answer": "The results were really cool.",
+        "distractors": [
+          "The results were encouraging.",
+          "The results were promising."
+        ],
+        "explanation": "Really cool – potoczne."
+      },
+      {
+        "id": "c1-sent-academic-structures-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The interviews”.\nWe recorded and transcribed the interviews.",
+        "answer": "The interviews were recorded and transcribed.",
+        "explanation": "Strona bierna."
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "topicId": "c1-writing-article",
+  "task": "Magazyn internetowy dla młodych profesjonalistów publikuje cykl tekstów pod hasłem:\n\n**„Less is more?”**\n\nNapisz **artykuł**, w którym zastanowisz się, czy posiadanie mniej (rzeczy, aplikacji, obowiązków, wyborów) może poprawić jakość życia:\n- zacznij od haczyka, który zainteresuje czytelnika,\n- przedstaw swoje stanowisko z przykładami (także z własnego życia),\n- odnieś się do opinii przeciwnej,\n- zakończ refleksją lub puentą.",
+  "words": [
+    220,
+    260
+  ],
+  "model": "The Tyranny of Choice\n\nLast Tuesday, I spent forty minutes in a supermarket choosing a toothpaste. There were sixty-three varieties on the shelf: whitening, sensitive, herbal, charcoal. I left with none of them.\n\nIt is a trivial example, but it points to something bigger. Rarely do we stop to consider how much energy we spend on decisions that hardly matter. Which of the twelve streaming services should I pay for? Which of the four hundred unread emails deserves an answer first? Each choice is small; together, they are exhausting.\n\nWhat strikes me most is how freely we invite this burden into our lives. A year ago, I deleted every app on my phone that I had not opened in a month. Thirty-one disappeared. I did not miss a single one. Instead, I found myself reading more, sleeping better and, perhaps surprisingly, making better decisions about the things that really count.\n\nOf course, some would argue that more choice means more freedom, and that minimalism is a luxury only the comfortable can afford. To a certain extent, they have a point: for many people, the problem is too few options, not too many. Yet freedom that leaves us anxious and drained is hardly worth celebrating.\n\nPerhaps the question is not whether to have less, but whether we choose what we have deliberately. So the next time you face sixty-three toothpastes, take the first one that looks reasonable. Your brain has better things to do.",
+  "checklist": [
+    "Artykuł ma intrygujący tytuł i haczyk na początku (anegdota, pytanie, zaskakujący fakt).",
+    "Przedstawiam stanowisko z przykładami, w tym z własnego doświadczenia.",
+    "Odnoszę się do opinii przeciwnej i odpowiadam na nią.",
+    "Używam struktur C1 dla emfazy: inwersji (Rarely do we...) i zdań rozszczepionych (What strikes me is...).",
+    "Zmieniam długość zdań; kończę puentą lub refleksją.",
+    "Ton osobisty, ale przemyślany; 220–260 słów."
+  ]
+}

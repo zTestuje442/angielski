@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-popular-science-1",
+  "topicId": "c1-reading-popular-science",
+  "title": "Why we remember the beginning and the end",
+  "text": "Ask someone to memorise a list of twenty words and then write down as many as they can, and a curious pattern almost always emerges. People remember the first few words very well and the last few words very well, but the words in the middle tend to vanish. Psychologists call this the serial position effect, and it has been replicated in hundreds of experiments since it was first described in the late nineteenth century.\n\nThe effect has two components. The advantage for the first items, known as the primacy effect, is thought to arise because early words receive more mental rehearsal: when you hear the first word, you can repeat it to yourself several times before the next one arrives. By the time you reach the tenth word, your attention is divided among many, and each receives less processing. The advantage for the last items, the recency effect, has a different explanation. Those words are still in short-term memory when you begin to recall them, so they can simply be \"read off\" before they fade.\n\nEvidence for this two-part explanation comes from a simple manipulation. If participants are asked to count backwards for thirty seconds before writing down the list, the recency effect disappears, while the primacy effect remains intact. The distraction empties short-term memory but does not affect items that have already been rehearsed into long-term storage.\n\nThe serial position effect is not merely a laboratory curiosity. It appears to influence judgements in a surprising range of real-world settings. Studies of music and singing competitions, for example, have found that performers who appear at the very beginning or very end of a programme tend to receive higher scores, regardless of their actual quality. Similar patterns have been reported in job interviews, wine tastings and even, some researchers argue, in the order in which candidates appear on ballot papers.\n\nNot all researchers are convinced that these real-world effects are as strong as headlines suggest. Critics point out that many of the studies are small, and that in competitions, organisers may deliberately place stronger performers at the end. Nevertheless, the practical lesson seems reasonably safe: if you want something to be remembered, put it first or last – and if you are the one judging, be aware that the middle may deserve a second look.",
+  "exercises": [
+    {
+      "id": "c1-reading-popular-science-1-01",
+      "type": "choice",
+      "prompt": "The serial position effect was first described in the nineteenth century.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...first described in the late nineteenth century.”"
+    },
+    {
+      "id": "c1-reading-popular-science-1-02",
+      "type": "choice",
+      "prompt": "Counting backwards removes the primacy effect.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Znika efekt świeżości (recency), a pierwszeństwa zostaje."
+    },
+    {
+      "id": "c1-reading-popular-science-1-03",
+      "type": "choice",
+      "prompt": "Older people show a stronger serial position effect.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o wieku."
+    },
+    {
+      "id": "c1-reading-popular-science-1-04",
+      "type": "choice",
+      "prompt": "What explains the primacy effect?",
+      "answer": "Early items are rehearsed more.",
+      "distractors": [
+        "Early items stay in short-term memory.",
+        "Early items are usually easier words."
+      ],
+      "explanation": "„...early words receive more mental rehearsal...”"
+    },
+    {
+      "id": "c1-reading-popular-science-1-05",
+      "type": "choice",
+      "prompt": "Why do people remember the last items?",
+      "answer": "They are still in short-term memory.",
+      "distractors": [
+        "They are repeated many times.",
+        "They are written down first."
+      ],
+      "explanation": "„Those words are still in short-term memory...”"
+    },
+    {
+      "id": "c1-reading-popular-science-1-06",
+      "type": "choice",
+      "prompt": "What is the purpose of the fourth paragraph?",
+      "answer": "to show the effect may matter outside the laboratory",
+      "distractors": [
+        "to criticise the original experiment",
+        "to explain how memory works in animals"
+      ],
+      "explanation": "Przykłady z życia: konkursy, rozmowy, wybory."
+    },
+    {
+      "id": "c1-reading-popular-science-1-07",
+      "type": "choice",
+      "prompt": "What do critics say about real-world studies?",
+      "answer": "Many are small and may have other explanations.",
+      "distractors": [
+        "They are all completely reliable.",
+        "They prove the effect is stronger than in labs."
+      ],
+      "explanation": "„...many of the studies are small... organisers may deliberately place stronger performers at the end.”"
+    },
+    {
+      "id": "c1-reading-popular-science-1-08",
+      "type": "choice",
+      "prompt": "What practical advice does the writer give judges?",
+      "answer": "Pay extra attention to items in the middle.",
+      "distractors": [
+        "Always choose the first candidate.",
+        "Ignore the last candidates."
+      ],
+      "explanation": "„...the middle may deserve a second look.”"
+    },
+    {
+      "id": "c1-reading-popular-science-1-09",
+      "type": "cloze",
+      "prompt": "The effect has been ___ in hundreds of experiments. (powtórzony)",
+      "answer": "replicated",
+      "explanation": "Replicate."
+    },
+    {
+      "id": "c1-reading-popular-science-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "rehearsal|powtarzanie (w myślach)",
+        "recall|przypominać sobie",
+        "intact|nienaruszony",
+        "ballot paper|karta do głosowania"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

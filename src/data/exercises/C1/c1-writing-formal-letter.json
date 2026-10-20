@@ -1,0 +1,341 @@
+[
+  {
+    "id": "c1-writing-formal-letter-1",
+    "topicId": "c1-writing-formal-letter",
+    "exercises": [
+      {
+        "id": "c1-writing-formal-letter-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "I wish to express my concern...|Pragnę wyrazić zaniepokojenie...",
+          "I am writing in response to...|Piszę w odpowiedzi na...",
+          "I would urge you to...|Usilnie proszę o...",
+          "I trust that you will...|Ufam, że..."
+        ],
+        "explanation": "Zwroty listu formalnego."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is firm but polite?",
+        "answer": "I would urge the council to reconsider this decision.",
+        "distractors": [
+          "Change this stupid decision now!",
+          "You must be joking."
+        ],
+        "explanation": "Stanowczo, ale uprzejmie."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-03",
+        "type": "choice",
+        "prompt": "___ you require further information, please do not hesitate to contact me.",
+        "answer": "Should",
+        "distractors": [
+          "Would",
+          "If would"
+        ],
+        "explanation": "Inwersja: Should you require..."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-04",
+        "type": "cloze",
+        "prompt": "I am writing in ___ to your article of 5 March. (odpowiedzi)",
+        "answer": "response",
+        "explanation": "In response to."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-05",
+        "type": "cloze",
+        "prompt": "I wish to express my ___ regarding the closure of the library. (zaniepokojenie)",
+        "answer": "concern",
+        "explanation": "Express concern."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż początek listu.",
+        "answer": [
+          "Dear Sir or Madam,",
+          "I am writing in response to your article on the planned closure of Riverside Library.",
+          "I wish to express my deep concern about this decision."
+        ],
+        "distractors": [
+          "Cheers mate,"
+        ],
+        "explanation": "Powitanie, cel, stanowisko. Potoczne zakończenie nie pasuje."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-07",
+        "type": "error",
+        "prompt": "I am writing with regard of the proposed changes.",
+        "answer": [
+          "of",
+          "to"
+        ],
+        "explanation": "With regard to."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-08",
+        "type": "translate",
+        "prompt": "Ufam, że potraktują Państwo tę sprawę priorytetowo.",
+        "answer": "I trust that you will give this matter your urgent attention.",
+        "accept": [
+          "I trust you will give this matter your urgent attention.",
+          "I trust that you will treat this matter as a priority.",
+          "I trust you will treat this matter as a priority."
+        ],
+        "explanation": "I trust that..."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-09",
+        "type": "transform",
+        "prompt": "Przepisz z inwersją, zacznij od „Were the council”.\nIf the council closed the library, many residents would suffer.",
+        "answer": "Were the council to close the library, many residents would suffer.",
+        "explanation": "Were + podmiot + to."
+      },
+      {
+        "id": "c1-writing-formal-letter-1-10",
+        "type": "choice",
+        "prompt": "You start with \"Dear Councillor Nowak\". How do you end?",
+        "answer": "Yours sincerely,",
+        "distractors": [
+          "Yours faithfully,",
+          "Love,"
+        ],
+        "explanation": "Znane nazwisko: Yours sincerely."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-formal-letter-2",
+    "topicId": "c1-writing-formal-letter",
+    "exercises": [
+      {
+        "id": "c1-writing-formal-letter-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "the closure|zamknięcie",
+          "the proposal|propozycja",
+          "the residents|mieszkańcy",
+          "the decision|decyzja"
+        ],
+        "explanation": "Rzeczowniki w listach do władz."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-02",
+        "type": "choice",
+        "prompt": "Which sentence uses nominalisation?",
+        "answer": "The closure of the library would affect hundreds of families.",
+        "distractors": [
+          "If they close the library, families will suffer.",
+          "They want to close it."
+        ],
+        "explanation": "The closure of..."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-03",
+        "type": "choice",
+        "prompt": "I would be grateful ___ you could reply by the end of the month.",
+        "answer": "if",
+        "distractors": [
+          "that",
+          "for"
+        ],
+        "explanation": "Grateful if..."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-04",
+        "type": "cloze",
+        "prompt": "Not ___ is the plan expensive, but it is also unnecessary.",
+        "answer": "only",
+        "explanation": "Not only + inwersja."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-05",
+        "type": "cloze",
+        "prompt": "I look forward to your ___. (odpowiedzi)",
+        "answer": "response",
+        "accept": [
+          "reply"
+        ],
+        "explanation": "Your response."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż akapit z propozycją.",
+        "answer": [
+          "Rather than closing the library, the council could consider sharing the building with a local café.",
+          "Such an arrangement would reduce costs while keeping the service open.",
+          "Similar schemes have proved successful in several nearby towns."
+        ],
+        "distractors": [
+          "Write back soon!"
+        ],
+        "explanation": "Propozycja, korzyść, przykład. Potoczny zwrot nie pasuje."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-07",
+        "type": "error",
+        "prompt": "Should you required further details, please contact me.",
+        "answer": [
+          "required",
+          "require"
+        ],
+        "explanation": "Should + forma podstawowa."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-08",
+        "type": "translate",
+        "prompt": "Usilnie proszę radę o ponowne rozważenie tej decyzji.",
+        "answer": "I would urge the council to reconsider this decision.",
+        "accept": [
+          "I urge the council to reconsider this decision.",
+          "I would strongly urge the council to reconsider this decision."
+        ],
+        "explanation": "Urge somebody to."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-09",
+        "type": "transform",
+        "prompt": "Połącz zdania z „Not only ... but also”.\nThe plan is costly. It is unpopular.",
+        "answer": "Not only is the plan costly, but it is also unpopular.",
+        "accept": [
+          "Not only is the plan costly but it is also unpopular.",
+          "Not only is the plan costly, it is also unpopular."
+        ],
+        "explanation": "Not only + inwersja."
+      },
+      {
+        "id": "c1-writing-formal-letter-2-10",
+        "type": "choice",
+        "prompt": "Which ending is suitable?",
+        "answer": "I look forward to your response.",
+        "distractors": [
+          "Bye for now!",
+          "Take care x"
+        ],
+        "explanation": "Formalne zakończenie."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-formal-letter-3",
+    "topicId": "c1-writing-formal-letter",
+    "exercises": [
+      {
+        "id": "c1-writing-formal-letter-3-01",
+        "type": "match",
+        "prompt": "Połącz powitanie z zakończeniem.",
+        "answer": [
+          "Dear Sir or Madam,|Yours faithfully,",
+          "Dear Ms Kowalska,|Yours sincerely,"
+        ],
+        "explanation": "Powitanie i zakończenie."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-02",
+        "type": "choice",
+        "prompt": "Which sentence presents evidence?",
+        "answer": "According to the council's own figures, visitor numbers have risen by 15%.",
+        "distractors": [
+          "Everyone knows the library is great.",
+          "I really love the library."
+        ],
+        "explanation": "Dane jako dowód."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-03",
+        "type": "choice",
+        "prompt": "I am ___ that the decision was taken without consulting residents.",
+        "answer": "concerned",
+        "distractors": [
+          "concerning",
+          "concern"
+        ],
+        "explanation": "Be concerned that..."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-04",
+        "type": "cloze",
+        "prompt": "The decision was taken without ___ residents. (konsultacji z)",
+        "answer": "consulting",
+        "explanation": "Without + -ing."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-05",
+        "type": "cloze",
+        "prompt": "I trust that you will give this matter your ___ attention. (pilną)",
+        "answer": "urgent",
+        "accept": [
+          "immediate",
+          "careful",
+          "full"
+        ],
+        "explanation": "Urgent attention."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie listu.",
+        "answer": [
+          "I trust that you will give this matter your urgent attention.",
+          "I look forward to your response.",
+          "Yours faithfully,",
+          "Marta Zielińska"
+        ],
+        "distractors": [
+          "Lots of love,"
+        ],
+        "explanation": "Formułki, zakończenie, podpis. Nieformalne pożegnanie nie pasuje."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-07",
+        "type": "error",
+        "prompt": "I am concerning about the lack of public consultation.",
+        "answer": [
+          "concerning",
+          "concerned"
+        ],
+        "explanation": "Uczucie: concerned."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-08",
+        "type": "translate",
+        "prompt": "Decyzję podjęto bez konsultacji z mieszkańcami.",
+        "answer": "The decision was taken without consulting residents.",
+        "accept": [
+          "The decision was made without consulting residents.",
+          "The decision was taken without consulting the residents.",
+          "The decision was made without consulting the residents."
+        ],
+        "explanation": "Without + -ing."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-09",
+        "type": "transform",
+        "prompt": "Zamień na formalne zdanie, zacznij od „I wish to express”.\nI'm really unhappy about the new parking fees.",
+        "answer": "I wish to express my dissatisfaction with the new parking fees.",
+        "accept": [
+          "I wish to express my concern about the new parking fees.",
+          "I wish to express my concern regarding the new parking fees.",
+          "I wish to express my dissatisfaction regarding the new parking fees."
+        ],
+        "explanation": "Express dissatisfaction with."
+      },
+      {
+        "id": "c1-writing-formal-letter-3-10",
+        "type": "choice",
+        "prompt": "How long is a C1 formal letter?",
+        "answer": "220–260 words",
+        "distractors": [
+          "50–80 words",
+          "600–700 words"
+        ],
+        "explanation": "C1: 220–260 słów."
+      }
+    ]
+  }
+]

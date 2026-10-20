@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-popular-science-2",
+  "topicId": "c1-reading-popular-science",
+  "title": "The forest that talks",
+  "text": "For most of the twentieth century, foresters thought of trees as individuals competing for light, water and nutrients. A healthy forest, according to this view, was one in which the strongest trees were given space to grow, and weaker neighbours were removed. Over the past three decades, however, a series of studies has suggested that the reality may be far more cooperative – and far stranger.\n\nBeneath the forest floor lies a vast network of fungal threads, known as mycorrhizal networks, which connect the roots of different trees. The relationship between fungi and trees has been understood for a long time: the fungi help trees absorb water and minerals, and in return receive sugars produced by photosynthesis. What surprised researchers was evidence that these networks might also transfer resources between trees. In a widely cited experiment in the 1990s, scientists labelled carbon in birch trees and later detected it in nearby fir trees, apparently carried through the fungal network.\n\nSubsequent studies reported even more striking findings. Large, old trees – sometimes called \"mother trees\" – appeared to be connected to dozens of younger trees and to send them carbon, especially when the young trees were growing in deep shade. Some experiments suggested that trees under attack from insects might release chemical signals through the network, prompting neighbours to strengthen their defences.\n\nThese ideas spread rapidly beyond scientific journals. Popular books and documentaries described a \"wood wide web\" through which trees communicate, share and even care for their offspring. The image is undeniably appealing, and it has encouraged more sustainable forestry practices in some regions.\n\nYet in recent years a number of scientists have urged caution. A 2023 review of the evidence concluded that many of the most famous claims rest on a small number of field studies, some of which could be explained in other ways. Carbon may move between trees, for instance, but in quantities too small to make a significant difference to their survival. And the language of \"mothers\" and \"communication\", critics argue, risks turning interesting but limited findings into a fairy tale.\n\nNone of this means that forests are simply collections of isolated competitors. The fungal networks are real, and they clearly matter. But how much trees actually help one another remains, for now, an open question – one that will be answered not by metaphors, but by more data.",
+  "exercises": [
+    {
+      "id": "c1-reading-popular-science-2-01",
+      "type": "choice",
+      "prompt": "Twentieth-century foresters saw trees mainly as competitors.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...thought of trees as individuals competing...”"
+    },
+    {
+      "id": "c1-reading-popular-science-2-02",
+      "type": "choice",
+      "prompt": "The 2023 review confirmed all the famous claims about mother trees.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Przegląd wskazał, że wiele twierdzeń opiera się na niewielu badaniach."
+    },
+    {
+      "id": "c1-reading-popular-science-2-03",
+      "type": "choice",
+      "prompt": "The birch and fir experiment was carried out in Canada.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie podaje miejsca."
+    },
+    {
+      "id": "c1-reading-popular-science-2-04",
+      "type": "choice",
+      "prompt": "What do trees give the fungi?",
+      "answer": "sugars",
+      "distractors": [
+        "water",
+        "minerals"
+      ],
+      "explanation": "„...in return receive sugars...”"
+    },
+    {
+      "id": "c1-reading-popular-science-2-05",
+      "type": "choice",
+      "prompt": "What did the 1990s experiment appear to show?",
+      "answer": "Carbon moved from birch to fir trees.",
+      "distractors": [
+        "Fungi can produce light.",
+        "Fir trees attack birch trees."
+      ],
+      "explanation": "„...labelled carbon in birch trees and later detected it in nearby fir trees...”"
+    },
+    {
+      "id": "c1-reading-popular-science-2-06",
+      "type": "choice",
+      "prompt": "What is the function of the fourth paragraph?",
+      "answer": "to show how the ideas became popular",
+      "distractors": [
+        "to present new experiments",
+        "to criticise documentaries strongly"
+      ],
+      "explanation": "Popularne książki i filmy."
+    },
+    {
+      "id": "c1-reading-popular-science-2-07",
+      "type": "choice",
+      "prompt": "What is the critics' main concern about the language used?",
+      "answer": "It exaggerates limited findings.",
+      "distractors": [
+        "It is too technical.",
+        "It ignores the role of fungi."
+      ],
+      "explanation": "„...risks turning interesting but limited findings into a fairy tale.”"
+    },
+    {
+      "id": "c1-reading-popular-science-2-08",
+      "type": "choice",
+      "prompt": "What is the writer's overall position?",
+      "answer": "The networks exist, but the extent of cooperation is uncertain.",
+      "distractors": [
+        "Trees definitely care for their young.",
+        "The networks do not exist."
+      ],
+      "explanation": "„...how much trees actually help one another remains... an open question.”"
+    },
+    {
+      "id": "c1-reading-popular-science-2-09",
+      "type": "cloze",
+      "prompt": "Researchers have urged ___ about the most famous claims. (ostrożności)",
+      "answer": "caution",
+      "explanation": "Urge caution."
+    },
+    {
+      "id": "c1-reading-popular-science-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "nutrients|składniki odżywcze",
+        "offspring|potomstwo",
+        "undeniably|niezaprzeczalnie",
+        "striking|uderzający"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

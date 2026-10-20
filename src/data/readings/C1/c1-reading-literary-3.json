@@ -1,0 +1,118 @@
+{
+  "id": "c1-reading-literary-3",
+  "topicId": "c1-reading-literary",
+  "title": "Snow day",
+  "text": "The snow began just after midnight, and by morning the whole city had stopped. No buses ran. The schools were closed. The radio announcer, sounding almost cheerful, advised everyone to stay at home unless their journey was absolutely essential. For the first time in eleven years, Piotr had nowhere he needed to be.\n\nHe did not know what to do with this. For eleven years, his days had been arranged with the precision of a railway timetable: the 6.15 alarm, the 7.02 tram, the meetings, the emails that arrived faster than he could answer them, the evening calls with clients in other time zones. He had been, by any reasonable measure, successful. He had also, he realised now, standing in his socks in the silent kitchen, not looked out of his own window in daylight for months.\n\nThe street below was unrecognisable. The parked cars had become soft white hills. A man was walking down the middle of the road – the middle of the road! – with a small child on his shoulders, both of them laughing. Further along, a group of teenagers had abandoned any pretence of being too old for snowball fights.\n\nPiotr made coffee and sat at the window. His phone buzzed twice on the table behind him, then a third time. He did not turn around. He watched an old woman from the building opposite step carefully out of her door, look at the snow with an expression of deep suspicion, and then, slowly, begin to clear a path with a broom that was much too small for the job.\n\nHe finished his coffee. Then, without quite deciding to, he put on his boots and coat, found a shovel in the cellar that he could not remember buying, and went downstairs.\n\nThe woman looked up as he approached. \"You're from the fourth floor,\" she said. It was not a question. \"You always walk very fast.\"\n\n\"Not today,\" Piotr said.\n\nThey worked for an hour, side by side, mostly in silence. When the path was finished, she invited him in for tea, and he accepted, and stayed for two hours listening to her talk about the winter of 1979, when the snow had reached the first-floor windows and nobody had cared about anything except bread and coal.\n\nThat evening, the radio announced that the roads would be cleared by morning and life would return to normal. Piotr listened, nodded, and set his alarm for 6.15. Then, after a moment's thought, he changed it to 7.00.",
+  "exercises": [
+    {
+      "id": "c1-reading-literary-3-01",
+      "type": "choice",
+      "prompt": "Public transport stopped because of the snow.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„No buses ran.”"
+    },
+    {
+      "id": "c1-reading-literary-3-02",
+      "type": "choice",
+      "prompt": "Piotr often looked out of his window during the day.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...not looked out of his own window in daylight for months.”"
+    },
+    {
+      "id": "c1-reading-literary-3-03",
+      "type": "choice",
+      "prompt": "Piotr's company told him to work from home.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-literary-3-04",
+      "type": "choice",
+      "prompt": "What does the comparison with a railway timetable show?",
+      "answer": "Piotr's life was rigidly organised.",
+      "distractors": [
+        "Piotr works for a railway company.",
+        "Piotr loves travelling by train."
+      ],
+      "explanation": "Precyzyjnie zaplanowane dni."
+    },
+    {
+      "id": "c1-reading-literary-3-05",
+      "type": "choice",
+      "prompt": "Why does Piotr ignore his phone?",
+      "answer": "He is absorbed in watching the street.",
+      "distractors": [
+        "The battery is dead.",
+        "He is angry with his clients."
+      ],
+      "explanation": "Nie odwraca się, obserwuje ulicę."
+    },
+    {
+      "id": "c1-reading-literary-3-06",
+      "type": "choice",
+      "prompt": "What does the old woman's comment \"You always walk very fast\" suggest?",
+      "answer": "She has noticed his busy, hurried life.",
+      "distractors": [
+        "She doesn't like him.",
+        "She wants him to leave."
+      ],
+      "explanation": "Zauważała jego pośpiech."
+    },
+    {
+      "id": "c1-reading-literary-3-07",
+      "type": "choice",
+      "prompt": "What does the change of alarm time at the end suggest?",
+      "answer": "Piotr has decided to slow down a little.",
+      "distractors": [
+        "Piotr has lost his job.",
+        "The trams will start later."
+      ],
+      "explanation": "Mała, ale znacząca zmiana."
+    },
+    {
+      "id": "c1-reading-literary-3-08",
+      "type": "choice",
+      "prompt": "What is the overall tone of the story?",
+      "answer": "quietly hopeful",
+      "distractors": [
+        "tragic",
+        "angry"
+      ],
+      "explanation": "Spokojna przemiana bohatera."
+    },
+    {
+      "id": "c1-reading-literary-3-09",
+      "type": "cloze",
+      "prompt": "The teenagers had abandoned any ___ of being too old for snowball fights. (udawania)",
+      "answer": "pretence",
+      "accept": [
+        "pretense"
+      ],
+      "explanation": "Pretence."
+    },
+    {
+      "id": "c1-reading-literary-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "essential|niezbędny",
+        "precision|precyzja",
+        "suspicion|podejrzliwość",
+        "cellar|piwnica"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

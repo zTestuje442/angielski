@@ -1,0 +1,350 @@
+[
+  {
+    "id": "c1-vocab-economy-globalisation-1",
+    "topicId": "c1-vocab-economy-globalisation",
+    "exercises": [
+      {
+        "id": "c1-vocab-economy-globalisation-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "recession|recesja",
+          "tariff|cło",
+          "supply chain|łańcuch dostaw",
+          "brain drain|drenaż mózgów"
+        ],
+        "explanation": "Gospodarka."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-02",
+        "type": "cloze",
+        "prompt": "Inflation has pushed up the cost of ___. (utrzymania)",
+        "answer": "living",
+        "explanation": "The cost of living."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-03",
+        "type": "cloze",
+        "prompt": "Many companies ___ customer service to India. (zlecają na zewnątrz)",
+        "answer": "outsource",
+        "explanation": "Outsource."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-04",
+        "type": "choice",
+        "prompt": "House prices ___ by 20% in a single year.",
+        "answer": "soared",
+        "distractors": [
+          "soured",
+          "sored"
+        ],
+        "explanation": "Gwałtownie wzrosnąć: soar."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-05",
+        "type": "choice",
+        "prompt": "The economy has started to ___ after the crisis.",
+        "answer": "recover",
+        "distractors": [
+          "recoup up",
+          "discover"
+        ],
+        "explanation": "Odbić się: recover."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-06",
+        "type": "error",
+        "prompt": "Many factories closed when the economy fall into recession.",
+        "answer": [
+          "fall",
+          "fell"
+        ],
+        "explanation": "Przeszłość: fell."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-07",
+        "type": "tiles",
+        "prompt": "Kurs walut waha się każdego dnia.",
+        "answer": [
+          "The",
+          "exchange",
+          "rate",
+          "fluctuates",
+          "every",
+          "day"
+        ],
+        "distractors": [
+          "changing",
+          "rates"
+        ],
+        "explanation": "Fluctuate."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-08",
+        "type": "translate",
+        "prompt": "Bezrobocie gwałtownie spadło.",
+        "answer": "Unemployment has fallen sharply.",
+        "accept": [
+          "Unemployment has plummeted.",
+          "Unemployment fell sharply.",
+          "Unemployment plummeted.",
+          "Unemployment has dropped sharply.",
+          "Unemployment dropped sharply."
+        ],
+        "explanation": "Fall sharply / plummet."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-09",
+        "type": "choice",
+        "prompt": "When a country imports more than it exports, it has a trade ___.",
+        "answer": "deficit",
+        "distractors": [
+          "surplus",
+          "deficiency"
+        ],
+        "explanation": "Deficyt handlowy."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-1-10",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „The rise in”.\nPrices rose, which hit poorer families hardest.",
+        "answer": "The rise in prices hit poorer families hardest.",
+        "explanation": "The rise in + rzeczownik."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-economy-globalisation-2",
+    "topicId": "c1-vocab-economy-globalisation",
+    "exercises": [
+      {
+        "id": "c1-vocab-economy-globalisation-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "gig economy|gospodarka dorywcza",
+          "redundancy|zwolnienie (likwidacja etatu)",
+          "minimum wage|płaca minimalna",
+          "labour market|rynek pracy"
+        ],
+        "explanation": "Rynek pracy."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-02",
+        "type": "cloze",
+        "prompt": "Big companies benefit from economies of ___. (skali)",
+        "answer": "scale",
+        "explanation": "Economies of scale."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-03",
+        "type": "cloze",
+        "prompt": "After the factory closed, 300 workers were made ___. (zwolnieni)",
+        "answer": "redundant",
+        "explanation": "Be made redundant."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-04",
+        "type": "choice",
+        "prompt": "Share prices ___ after the scandal – they lost 60% in a day.",
+        "answer": "plummeted",
+        "distractors": [
+          "soared",
+          "stagnated"
+        ],
+        "explanation": "Gwałtownie spaść: plummet."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-05",
+        "type": "choice",
+        "prompt": "Small firms want a level playing ___ with large corporations.",
+        "answer": "field",
+        "distractors": [
+          "ground",
+          "pitch"
+        ],
+        "explanation": "A level playing field."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-06",
+        "type": "error",
+        "prompt": "Many young doctors leave the country, which causes a brain drainage.",
+        "answer": [
+          "drainage",
+          "drain"
+        ],
+        "explanation": "Brain drain."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-07",
+        "type": "tiles",
+        "prompt": "Automatyzacja zagraża wielu miejscom pracy.",
+        "answer": [
+          "Automation",
+          "threatens",
+          "many",
+          "jobs"
+        ],
+        "distractors": [
+          "threats",
+          "automatic"
+        ],
+        "explanation": "Threaten."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-08",
+        "type": "translate",
+        "prompt": "Wiele korporacji międzynarodowych przenosi produkcję za granicę.",
+        "answer": "Many multinational corporations move production abroad.",
+        "accept": [
+          "Many multinational corporations are moving production abroad.",
+          "Many multinational companies move production abroad.",
+          "Many multinational companies are moving production abroad.",
+          "Many multinational corporations relocate production abroad."
+        ],
+        "explanation": "Multinational corporations."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-09",
+        "type": "choice",
+        "prompt": "A period of fast economic growth is a ___.",
+        "answer": "boom",
+        "distractors": [
+          "downturn",
+          "recession"
+        ],
+        "explanation": "Boom."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-2-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „How”.\nThe pandemic affected global supply chains.",
+        "answer": "How did the pandemic affect global supply chains?",
+        "explanation": "How + did + affect."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-economy-globalisation-3",
+    "topicId": "c1-vocab-economy-globalisation",
+    "exercises": [
+      {
+        "id": "c1-vocab-economy-globalisation-3-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "soar|gwałtownie rosnąć",
+          "plummet|gwałtownie spadać",
+          "stagnate|stać w miejscu",
+          "fluctuate|wahać się"
+        ],
+        "explanation": "Czasowniki zmian."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-02",
+        "type": "cloze",
+        "prompt": "Wages have ___ for years while prices keep rising. (stoją w miejscu)",
+        "answer": "stagnated",
+        "accept": [
+          "stalled"
+        ],
+        "explanation": "Stagnate."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-03",
+        "type": "cloze",
+        "prompt": "Globalisation has made the world economy more ___. (współzależna)",
+        "answer": "interconnected",
+        "accept": [
+          "interdependent"
+        ],
+        "explanation": "Interconnected."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-04",
+        "type": "choice",
+        "prompt": "Removing trade ___ can increase competition.",
+        "answer": "barriers",
+        "distractors": [
+          "borders up",
+          "barricades"
+        ],
+        "explanation": "Trade barriers."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-05",
+        "type": "choice",
+        "prompt": "The country's ___ grew by 3% last year.",
+        "answer": "GDP",
+        "distractors": [
+          "PKB",
+          "DPG"
+        ],
+        "explanation": "PKB: GDP."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-06",
+        "type": "error",
+        "prompt": "The economy is in a deep recess.",
+        "answer": [
+          "recess",
+          "recession"
+        ],
+        "explanation": "Recesja: recession."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-07",
+        "type": "tiles",
+        "prompt": "Rząd podniósł płacę minimalną.",
+        "answer": [
+          "The",
+          "government",
+          "raised",
+          "the",
+          "minimum",
+          "wage"
+        ],
+        "distractors": [
+          "rose",
+          "minimal"
+        ],
+        "explanation": "Raise the minimum wage."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-08",
+        "type": "translate",
+        "prompt": "Wiele firm korzysta z taniej siły roboczej.",
+        "answer": "Many companies take advantage of cheap labour.",
+        "accept": [
+          "Many companies benefit from cheap labour.",
+          "Many companies use cheap labour.",
+          "Many companies take advantage of cheap labor.",
+          "Many companies benefit from cheap labor.",
+          "Many companies use cheap labor."
+        ],
+        "explanation": "Cheap labour."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-09",
+        "type": "choice",
+        "prompt": "Which verb describes a very fast fall?",
+        "answer": "plummet",
+        "distractors": [
+          "soar",
+          "recover"
+        ],
+        "explanation": "Plummet."
+      },
+      {
+        "id": "c1-vocab-economy-globalisation-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Hundreds of workers”.\nThe company made hundreds of workers redundant.",
+        "answer": "Hundreds of workers were made redundant.",
+        "accept": [
+          "Hundreds of workers were made redundant by the company."
+        ],
+        "explanation": "Were made redundant."
+      }
+    ]
+  }
+]
