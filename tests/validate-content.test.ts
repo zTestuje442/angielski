@@ -26,9 +26,9 @@ describe("validateContent: curriculum.json z repo", () => {
   const r = validateContent(curriculum, files);
 
   it("nie ma błędów", () => expect(r.errors).toEqual([]));
-  it("zawiera wszystkie 158 tematów A1–C1 po 3 zestawy", () => {
-    expect(r.topics).toBe(158);
-    expect(r.sets).toBe(158 * 3);
+  it("zawiera wszystkie 230 tematów A1–C1 po 3 zestawy", () => {
+    expect(r.topics).toBe(230);
+    expect(r.sets).toBe(230 * 3);
   });
 });
 

@@ -1,12 +1,12 @@
 # Linki „Dodatkowo” – do ręcznej decyzji
 
-Zebrane linki: 629. Przypisane: 278. Tematy z linkami: 144 z 158.
+Zebrane linki: 629. Przypisane: 320. Tematy z linkami: 178 z 230.
 
 Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/rules.json`.
 
-## Linki bez tematu (351)
+## Linki bez tematu (309)
 
-### PEG (29)
+### PEG (27)
 
 - [Present Perfect Simple Form](https://www.perfect-english-grammar.com/present-perfect.html)
 - [Future Perfect Continuous Form](https://www.perfect-english-grammar.com/future-perfect-continuous.html)
@@ -26,8 +26,6 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Gerunds and Infinitives After Certain Verbs 1](https://www.perfect-english-grammar.com/gerunds-and-infinitives-verbs-1.html)
 - [Gerunds and Infinitives After Certain Verbs 2](https://www.perfect-english-grammar.com/gerunds-and-infinitives-verbs-2.html)
 - [Gerunds and Infinitives After Certain Verbs 3](https://www.perfect-english-grammar.com/gerunds-and-infinitives-verbs-3.html)
-- [Subject Questions](https://www.perfect-english-grammar.com/subject-questions.html)
-- [Indirect Questions](https://www.perfect-english-grammar.com/indirect-questions.html)
 - [Negative Questions](https://www.perfect-english-grammar.com/negative-questions.html)
 - [How to use comparative adjectives](https://www.perfect-english-grammar.com/comparatives.html)
 - [Gradable and ungradable adjectives](https://www.perfect-english-grammar.com/gradable-and-ungradable-adjectives.html)
@@ -38,13 +36,11 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Verbs + Prepositions](https://www.perfect-english-grammar.com/verbs-and-prepositions.html)
 - [As and Like](https://www.perfect-english-grammar.com/as-and-like.html)
 
-### BC (178)
+### BC (140)
 
-- [Infinitive of purpose](https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/infinitive-purpose)
 - [Adjectives: gradable and non-gradable](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/adjectives-gradable-non-gradable)
 - [British English and American English](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/british-english-american-english)
 - [Capital letters and apostrophes](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/capital-letters-apostrophes)
-- [Modifying comparatives](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modifying-comparatives)
 - [Past ability](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-ability)
 - [Reflexive pronouns](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reflexive-pronouns)
 - [Stative verbs](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/stative-verbs)
@@ -54,26 +50,17 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Advanced present simple and continuous](https://learnenglish.britishcouncil.org/free-resources/grammar/c1/advanced-present-simple-continuous)
 - [Patterns with reporting verbs](https://learnenglish.britishcouncil.org/free-resources/grammar/c1/patterns-reporting-verbs)
 - [Possession and noun modifiers](https://learnenglish.britishcouncil.org/free-resources/grammar/c1/possession-noun-modifiers)
-- [Accessories](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/accessories)
 - [Actions](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/actions)
-- [Appearance 1](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/appearance-1)
 - [Bedrooms](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/bedrooms)
 - [Clothes 2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/clothes-2)
-- [Everyday objects](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/everyday-objects)
-- [Farm animals](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/farm-animals)
 - [Food in Britain 1](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/food-britain-1)
 - [Food in Britain 2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/food-britain-2)
 - [Fruit 1](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/fruit-1)
-- [Kitchens 1](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/kitchens-1)
 - [Moving](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/moving)
 - [Nature 1](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/nature-1)
-- [Restaurants 1](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/restaurants-1)
 - [Snacks and desserts in Britain](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/snacks-desserts-britain)
 - [Transport 2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/transport-2)
-- [Appearance 2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/appearance-2)
 - [Bathrooms](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/bathrooms)
-- [Beaches](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/beaches)
-- [Bicycles and motorbikes](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/bicycles-motorbikes)
 - [Body parts 2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/body-parts-2)
 - [Cars](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/cars)
 - [Christmas in the UK](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/christmas-uk)
@@ -87,14 +74,9 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Tools](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/tools)
 - [Vegetables 1](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/vegetables-1)
 - [Vegetables 2](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/vegetables-2)
-- [Wild animals](https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/wild-animals)
 - [A poster for exam candidates](https://learnenglish.britishcouncil.org/free-resources/reading/a1/poster-exam-candidates)
-- [A restaurant menu](https://learnenglish.britishcouncil.org/free-resources/reading/a1/restaurant-menu)
 - [A study timetable](https://learnenglish.britishcouncil.org/free-resources/reading/a1/study-timetable)
-- [An airport departures board](https://learnenglish.britishcouncil.org/free-resources/reading/a1/airport-departures-board)
-- [Business cards](https://learnenglish.britishcouncil.org/free-resources/reading/a1/business-cards)
 - [Dictionary definitions](https://learnenglish.britishcouncil.org/free-resources/reading/a1/dictionary-definitions)
-- [Holiday home adverts](https://learnenglish.britishcouncil.org/free-resources/reading/a1/holiday-home-adverts)
 - [Job adverts](https://learnenglish.britishcouncil.org/free-resources/reading/a1/job-adverts)
 - [Student card application](https://learnenglish.britishcouncil.org/free-resources/reading/a1/student-card-application)
 - [A message to a new friend](https://learnenglish.britishcouncil.org/free-resources/reading/a2/message-new-friend)
@@ -103,20 +85,15 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [An invitation to a job interview](https://learnenglish.britishcouncil.org/free-resources/reading/a2/invitation-job-interview)
 - [Choosing a conference venue](https://learnenglish.britishcouncil.org/free-resources/reading/a2/choosing-conference-venue)
 - [English course prospectus](https://learnenglish.britishcouncil.org/free-resources/reading/a2/english-course-prospectus)
-- [Professional profile summaries](https://learnenglish.britishcouncil.org/free-resources/reading/a2/professional-profile-summaries)
 - [A conference programme](https://learnenglish.britishcouncil.org/free-resources/reading/b1/conference-programme)
 - [A flyer for a gym](https://learnenglish.britishcouncil.org/free-resources/reading/b1/flyer-gym)
 - [A travel guide](https://learnenglish.britishcouncil.org/free-resources/reading/b1/travel-guide)
-- [Digital habits across generations](https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations)
 - [Encyclopedia entry](https://learnenglish.britishcouncil.org/free-resources/reading/b1/encyclopedia-entry)
 - [Innovation in business](https://learnenglish.britishcouncil.org/free-resources/reading/b1/innovation-business)
 - [Planning an event](https://learnenglish.britishcouncil.org/free-resources/reading/b1/planning-event)
 - [Robot teachers](https://learnenglish.britishcouncil.org/free-resources/reading/b1/robot-teachers)
 - [Social media influencers](https://learnenglish.britishcouncil.org/free-resources/reading/b1/social-media-influencers)
-- [The legend of fairies](https://learnenglish.britishcouncil.org/free-resources/reading/b1/legend-fairies)
-- [A short story extract](https://learnenglish.britishcouncil.org/free-resources/reading/b2/short-story-extract)
 - [An email from a friend](https://learnenglish.britishcouncil.org/free-resources/reading/b2/email-friend)
-- [Asteroids](https://learnenglish.britishcouncil.org/free-resources/reading/b2/asteroids)
 - [Cultural expectations and leadership](https://learnenglish.britishcouncil.org/free-resources/reading/b2/cultural-expectations-leadership)
 - [Instant messages](https://learnenglish.britishcouncil.org/free-resources/reading/b2/instant-messages)
 - [Millennials in the workplace](https://learnenglish.britishcouncil.org/free-resources/reading/b2/millennials-workplace)
@@ -124,19 +101,15 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [The Buy Nothing movement](https://learnenglish.britishcouncil.org/free-resources/reading/b2/buy-nothing-movement)
 - [Why bridges collapse](https://learnenglish.britishcouncil.org/free-resources/reading/b2/why-bridges-collapse)
 - [Work–life balance](https://learnenglish.britishcouncil.org/free-resources/reading/b2/work-life-balance)
-- [A biography of Kilian Jornet](https://learnenglish.britishcouncil.org/free-resources/reading/c1/biography-kilian-jornet)
 - [A threat to bananas](https://learnenglish.britishcouncil.org/free-resources/reading/c1/threat-bananas)
 - [Cultural behaviour in business](https://learnenglish.britishcouncil.org/free-resources/reading/c1/cultural-behaviour-business)
-- [Four book summaries](https://learnenglish.britishcouncil.org/free-resources/reading/c1/four-book-summaries)
 - [Horror film clichés](https://learnenglish.britishcouncil.org/free-resources/reading/c1/horror-film-cliches)
-- [Life on Mars](https://learnenglish.britishcouncil.org/free-resources/reading/c1/life-mars)
 - [Managing a problem](https://learnenglish.britishcouncil.org/free-resources/reading/c1/managing-problem)
 - [Political manifestos](https://learnenglish.britishcouncil.org/free-resources/reading/c1/political-manifestos)
 - [Sustainable supermarkets](https://learnenglish.britishcouncil.org/free-resources/reading/c1/sustainable-supermarkets)
 - [The state of the world](https://learnenglish.britishcouncil.org/free-resources/reading/c1/state-world)
 - [A message to say you're late](https://learnenglish.britishcouncil.org/free-resources/writing/a1/message-say-youre-late)
 - [A noticeboard message](https://learnenglish.britishcouncil.org/free-resources/writing/a1/noticeboard-message)
-- [A text message invitation](https://learnenglish.britishcouncil.org/free-resources/writing/a1/text-message-invitation)
 - [A thank-you email](https://learnenglish.britishcouncil.org/free-resources/writing/a1/thank-you-email)
 - [An email to book a hotel](https://learnenglish.britishcouncil.org/free-resources/writing/a1/email-book-hotel)
 - [An email to confirm an appointment](https://learnenglish.britishcouncil.org/free-resources/writing/a1/email-confirm-appointment)
@@ -144,9 +117,7 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Emails about studying in the UK](https://learnenglish.britishcouncil.org/free-resources/writing/a1/emails-about-studying-uk)
 - [How to complete an application form in English – A1 beginner writing lesson with an example form, tips and exercises](https://learnenglish.britishcouncil.org/free-resources/writing/a1/how-complete-application-form-english-a1-beginner-writing-lesson-example)
 - [Instructions for a colleague](https://learnenglish.britishcouncil.org/free-resources/writing/a1/instructions-colleague)
-- [Online course introductions](https://learnenglish.britishcouncil.org/free-resources/writing/a1/online-course-introductions)
 - [Social media posts](https://learnenglish.britishcouncil.org/free-resources/writing/a1/social-media-posts)
-- [A personal profile](https://learnenglish.britishcouncil.org/free-resources/writing/a2/personal-profile)
 - [An accommodation form](https://learnenglish.britishcouncil.org/free-resources/writing/a2/accommodation-form)
 - [An email about a business event](https://learnenglish.britishcouncil.org/free-resources/writing/a2/email-about-business-event)
 - [An email cover letter](https://learnenglish.britishcouncil.org/free-resources/writing/a2/email-cover-letter)
@@ -158,28 +129,20 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [A class forum](https://learnenglish.britishcouncil.org/free-resources/writing/b1/class-forum)
 - [A professional profile](https://learnenglish.britishcouncil.org/free-resources/writing/b1/professional-profile)
 - [A report on a student meeting](https://learnenglish.britishcouncil.org/free-resources/writing/b1/report-student-meeting)
-- [A restaurant review](https://learnenglish.britishcouncil.org/free-resources/writing/b1/restaurant-review)
 - [A thank-you message](https://learnenglish.britishcouncil.org/free-resources/writing/b1/thank-you-message)
-- [An email to explain an accommodation problem](https://learnenglish.britishcouncil.org/free-resources/writing/b1/email-explain-accommodation-problem)
 - [An email to invite someone to a job interview](https://learnenglish.britishcouncil.org/free-resources/writing/b1/email-invite-someone-job-interview)
 - [Describing a bar chart](https://learnenglish.britishcouncil.org/free-resources/writing/b1/describing-bar-chart)
 - [Describing charts](https://learnenglish.britishcouncil.org/free-resources/writing/b1/describing-charts)
 - [New Year's resolutions](https://learnenglish.britishcouncil.org/free-resources/writing/b1/new-years-resolutions)
 - [Reflective writing](https://learnenglish.britishcouncil.org/free-resources/writing/b1/reflective-writing)
-- [A covering email](https://learnenglish.britishcouncil.org/free-resources/writing/b2/covering-email)
-- [A CV](https://learnenglish.britishcouncil.org/free-resources/writing/b2/cv)
 - [A summary of a line graph](https://learnenglish.britishcouncil.org/free-resources/writing/b2/summary-line-graph)
-- [An advert](https://learnenglish.britishcouncil.org/free-resources/writing/b2/advert)
 - [An email to request time off](https://learnenglish.britishcouncil.org/free-resources/writing/b2/email-request-time)
 - [An informal email to a friend](https://learnenglish.britishcouncil.org/free-resources/writing/b2/informal-email-friend)
 - [Comparing two charts](https://learnenglish.britishcouncil.org/free-resources/writing/b2/comparing-two-charts)
-- [A report on a research study](https://learnenglish.britishcouncil.org/free-resources/writing/c1/report-research-study)
 - [An email explaining an incident](https://learnenglish.britishcouncil.org/free-resources/writing/c1/email-explaining-incident)
 - [An email to a friend](https://learnenglish.britishcouncil.org/free-resources/writing/c1/email-friend)
 - [Conference bios](https://learnenglish.britishcouncil.org/free-resources/writing/c1/conference-bios)
 - [Describing a table](https://learnenglish.britishcouncil.org/free-resources/writing/c1/describing-table)
-- [The changing workplace](https://learnenglish.britishcouncil.org/free-resources/writing/c1/changing-workplace)
-- [Where adjectives go in a sentence](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/where-adjectives-go-sentence)
 - [Adjectives with '-ing' and '-ed'](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adjectives-ing-ed)
 - [Adjective order](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adjective-order)
 - [Comparative and superlative adjectives](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/comparative-superlative-adjectives)
@@ -187,9 +150,6 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Noun modifiers](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/noun-modifiers)
 - [Possessives: reciprocal pronouns](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/possessives-reciprocal-pronouns)
 - [How we make adverbials](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/how-we-make-adverbials)
-- [Adverbials of place](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adverbials-place)
-- [Adverbials of time](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adverbials-time)
-- [Comparative and superlative adverbs](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/comparative-superlative-adverbs)
 - [Interrogative determiners: 'which' and 'what'](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/interrogative-determiners-which-what)
 - [Count nouns](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/count-nouns)
 - [Uncount nouns](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/uncount-nouns)
@@ -219,7 +179,7 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Wishes and hypotheses](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/wishes-hypotheses)
 - [Clause structure and verb patterns](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/clause-structure-verb-patterns)
 
-### ang.pl (144)
+### ang.pl (142)
 
 - [Rzeczowniki: wiadomości ogólne](https://www.ang.pl/gramatyka/rzeczowniki/wstep)
 - [Rzeczowniki: rzeczowniki złożone](https://www.ang.pl/gramatyka/rzeczowniki/zlozone)
@@ -258,7 +218,6 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [czasowniki modalne: możliwość](https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-modalne/mozliwosc)
 - [czasowniki modalne: pozwolenie](https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-modalne/mozliwosc-prosby-pozwolenie)
 - [czasowniki modalne: umiejętności](https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-modalne/umiejetnosci)
-- [Czasowniki modalne i półmodalne opis: rady i zalecenia](https://www.ang.pl/gramatyka/czasowniki/modalne/rady-zalecenia)
 - [czasowniki modalne: zestawienie](https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-modalne/zestawienie)
 - [Czasowniki posiłkowe](https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-posilkowe)
 - [Czasowniki: Czasowniki posiłkowe do/have/be](https://www.ang.pl/gramatyka/czasowniki/posilkowe)
@@ -274,7 +233,6 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Czasowniki: Czasowniki angielskie z przyimkami](https://www.ang.pl/gramatyka/czasowniki/czasownik-plus-przyimek)
 - [Czasowniki: Konstrukcje czasownikowe](https://www.ang.pl/gramatyka/czasowniki/konstrukcje-czasownikowe)
 - [Przysłówki: tworzenie](https://www.ang.pl/gramatyka/przyslowki/tworzenie)
-- [Przysłówki: Przysłówki czasu](https://www.ang.pl/gramatyka/przyslowki/czasu)
 - [Przysłówki: Przysłówki miejsca](https://www.ang.pl/gramatyka/przyslowki/miejsca)
 - [Przysłówki: Przysłówki stopnia](https://www.ang.pl/gramatyka/przyslowki/stopnia)
 - [Przysłówki: Stopniowanie przysłówków](https://www.ang.pl/gramatyka/przyslowki/stopniowanie)
@@ -366,19 +324,57 @@ Plik generuje `node scripts/collect-links.ts`. Przypisania są w `scripts/links/
 - [Stopniowanie angielskich przymiotników](https://www.ang.pl/slownictwo/stopniowanie-przymiotnikow)
 - [Filologia angielska](https://www.ang.pl/slownictwo/filologia)
 
-## Tematy bez linków (14)
+## Tematy bez linków (52)
 
 - a1-imperative – A1 Tryb rozkazujący
 - a1-vocab-family – A1 Rodzina
+- a1-vocab-countries-nationalities – A1 Kraje, narodowości i języki
+- a2-vocab-housework – A2 Obowiązki domowe
 - b1-vocab-work-office – B1 Praca i biuro: spotkania, e-maile, telefon
 - b1-vocab-technology – B1 Technologia i komputery
 - b1-vocab-emotions-character – B1 Emocje i charakter
 - b1-vocab-media – B1 Media
 - b1-vocab-environment – B1 Środowisko
+- b1-vocab-relationships – B1 Relacje i życie towarzyskie
+- b1-vocab-health-doctor – B1 Zdrowie: u lekarza i w aptece
+- b1-vocab-money-banking – B1 Pieniądze i bank
+- b1-vocab-crime-law – B1 Przestępstwa i prawo
 - b2-vocab-public-administration – B2 Administracja publiczna i urzędy
 - b2-vocab-it-software-testing – B2 IT i testowanie oprogramowania
-- b2-vocab-false-friends – B2 False friends PL–EN
+- b2-vocab-false-friends – B2 Fałszywi przyjaciele PL–EN
+- b2-vocab-politics-society – B2 Polityka i społeczeństwo
+- b2-vocab-housing-property – B2 Mieszkanie i nieruchomości
+- b2-vocab-verb-collocations – B2 Kolokacje z czasownikami: take, keep, catch, pay
 - c1-vocab-synonyms-nuance – C1 Synonimy i niuanse znaczeń
+- c1-vocab-academic – C1 Słownictwo akademickie
+- c1-vocab-law-ethics – C1 Prawo i etyka
+- c1-vocab-economy-globalisation – C1 Gospodarka i globalizacja
+- c1-vocab-psychology-behaviour – C1 Psychologia i zachowanie
+- c1-vocab-binomials-fixed-phrases – C1 Wyrażenia parowe i stałe zwroty
+- a1-sent-yes-no-short-answers – A1 Pytania tak/nie i krótkie odpowiedzi
+- a2-sent-past-stories – A2 Opowiadanie o przeszłości: first, then, after that
+- a2-sent-opinions-reasons – A2 Opinia i uzasadnienie
 - b1-sent-work-phrases – B1 Zwroty w pracy: spotkania, e-maile, telefon
-- b2-sent-key-word-transformations – B2 Parafrazy: key word transformations
+- b1-sent-agreeing-disagreeing – B1 Zgoda i niezgoda
+- b1-sent-cause-result – B1 Przyczyna i skutek
+- b2-sent-key-word-transformations – B2 Parafrazy ze słowem kluczowym
+- b2-sent-contrast-concession – B2 Kontrast i przyznanie racji
+- b2-sent-conditionals-without-if – B2 Warunki bez if: unless, provided, in case
+- b2-sent-diplomatic-language – B2 Dyplomatyczne sformułowania
 - c1-sent-inversion-emphasis-practice – C1 Inwersja i emfaza w praktyce
+- c1-sent-sentence-variety – C1 Różnorodność budowy zdań
+- c1-sent-advanced-paraphrasing – C1 Parafrazy na poziomie C1
+- c1-sent-cohesion-reference – C1 Spójność tekstu: odwołania i zastępowanie
+- c1-sent-academic-structures – C1 Struktury akademickie
+- a1-reading-postcard – A1 Pocztówka
+- a2-reading-story – A2 Krótkie opowiadanie
+- b1-reading-review – B1 Recenzja
+- b1-reading-interview – B1 Wywiad
+- b2-reading-report – B2 Raport
+- c1-reading-literary – C1 Proza literacka
+- a2-writing-postcard – A2 Pocztówka
+- b1-writing-story – B1 Opowiadanie
+- b1-writing-article – B1 Artykuł do gazetki
+- b2-writing-article – B2 Artykuł
+- b2-writing-review – B2 Recenzja
+- c1-writing-formal-letter – C1 List formalny

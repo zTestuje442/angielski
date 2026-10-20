@@ -1186,6 +1186,44 @@
       "source": "BC"
     }
   ],
+  "a1-vocab-personal-info": [
+    {
+      "title": "Business cards",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/a1/business-cards",
+      "source": "BC"
+    }
+  ],
+  "a1-vocab-animals": [
+    {
+      "title": "Farm animals",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/farm-animals",
+      "source": "BC"
+    },
+    {
+      "title": "Wild animals",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/wild-animals",
+      "source": "BC"
+    }
+  ],
+  "a1-vocab-everyday-objects": [
+    {
+      "title": "Everyday objects",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/everyday-objects",
+      "source": "BC"
+    },
+    {
+      "title": "Accessories",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/accessories",
+      "source": "BC"
+    }
+  ],
+  "a1-vocab-adjectives-opposites": [
+    {
+      "title": "Where adjectives go in a sentence",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/where-adjectives-go-sentence",
+      "source": "BC"
+    }
+  ],
   "a2-vocab-shopping": [
     {
       "title": "Shopping",
@@ -1265,6 +1303,44 @@
       "source": "BC"
     }
   ],
+  "a2-vocab-restaurant-cooking": [
+    {
+      "title": "Restaurants 1",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/restaurants-1",
+      "source": "BC"
+    },
+    {
+      "title": "Kitchens 1",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/kitchens-1",
+      "source": "BC"
+    }
+  ],
+  "a2-vocab-sport": [
+    {
+      "title": "Bicycles and motorbikes",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/bicycles-motorbikes",
+      "source": "BC"
+    }
+  ],
+  "a2-vocab-holidays-hotels": [
+    {
+      "title": "Beaches",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/beaches",
+      "source": "BC"
+    }
+  ],
+  "a2-vocab-appearance-personality": [
+    {
+      "title": "Appearance 1",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/appearance-1",
+      "source": "BC"
+    },
+    {
+      "title": "Appearance 2",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/appearance-2",
+      "source": "BC"
+    }
+  ],
   "b1-vocab-phrasal-verbs-basics": [
     {
       "title": "Phrasal Verbs 1 Explanation",
@@ -1291,6 +1367,13 @@
     {
       "title": "Delexical verbs: 'have', 'take', 'make', 'give', 'go' and 'do'",
       "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/delexical-verbs-have-take-make-give-go-do",
+      "source": "BC"
+    }
+  ],
+  "b1-vocab-travel-problems": [
+    {
+      "title": "An email to explain an accommodation problem",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/b1/email-explain-accommodation-problem",
       "source": "BC"
     }
   ],
@@ -1342,6 +1425,20 @@
       "title": "Say and Tell",
       "url": "https://www.perfect-english-grammar.com/say-and-tell.html",
       "source": "PEG"
+    }
+  ],
+  "b2-vocab-science-research": [
+    {
+      "title": "Asteroids",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/b2/asteroids",
+      "source": "BC"
+    }
+  ],
+  "b2-vocab-marketing-advertising": [
+    {
+      "title": "An advert",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/b2/advert",
+      "source": "BC"
     }
   ],
   "c1-vocab-idioms-expressions": [
@@ -1418,6 +1515,32 @@
       "source": "ang.pl"
     }
   ],
+  "a1-sent-introductions": [
+    {
+      "title": "Online course introductions",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/a1/online-course-introductions",
+      "source": "BC"
+    }
+  ],
+  "a1-sent-describing-places": [
+    {
+      "title": "Adverbials of place",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adverbials-place",
+      "source": "BC"
+    }
+  ],
+  "a1-sent-time-expressions": [
+    {
+      "title": "Adverbials of time",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adverbials-time",
+      "source": "BC"
+    },
+    {
+      "title": "Przysłówki: Przysłówki czasu",
+      "url": "https://www.ang.pl/gramatyka/przyslowki/czasu",
+      "source": "ang.pl"
+    }
+  ],
   "a2-sent-linking": [
     {
       "title": "Spójniki: Reason Linking Words",
@@ -1442,11 +1565,44 @@
       "source": "ang.pl"
     }
   ],
+  "a2-sent-comparisons": [
+    {
+      "title": "Modifying comparatives",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modifying-comparatives",
+      "source": "BC"
+    },
+    {
+      "title": "Comparative and superlative adverbs",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/comparative-superlative-adverbs",
+      "source": "BC"
+    }
+  ],
+  "a2-sent-subject-object-questions": [
+    {
+      "title": "Subject Questions",
+      "url": "https://www.perfect-english-grammar.com/subject-questions.html",
+      "source": "PEG"
+    }
+  ],
   "b1-sent-complex-when-if-although": [
     {
       "title": "Contrasting ideas: 'although', 'despite' and others",
       "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others",
       "source": "BC"
+    }
+  ],
+  "b1-sent-indirect-questions": [
+    {
+      "title": "Indirect Questions",
+      "url": "https://www.perfect-english-grammar.com/indirect-questions.html",
+      "source": "PEG"
+    }
+  ],
+  "b1-sent-advice-suggestions": [
+    {
+      "title": "Czasowniki modalne i półmodalne opis: rady i zalecenia",
+      "url": "https://www.ang.pl/gramatyka/czasowniki/modalne/rady-zalecenia",
+      "source": "ang.pl"
     }
   ],
   "b2-sent-adverb-position": [
@@ -1476,6 +1632,13 @@
       "title": "Zaimki: względne",
       "url": "https://www.ang.pl/gramatyka/zaimki/wzgledne",
       "source": "ang.pl"
+    }
+  ],
+  "b2-sent-purpose-result": [
+    {
+      "title": "Infinitive of purpose",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/infinitive-purpose",
+      "source": "BC"
     }
   ],
   "c1-sent-formal-phrases": [
@@ -1513,6 +1676,25 @@
       "source": "BC"
     }
   ],
+  "a1-reading-profile": [
+    {
+      "title": "Professional profile summaries",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/a2/professional-profile-summaries",
+      "source": "BC"
+    }
+  ],
+  "a1-reading-timetable-menu": [
+    {
+      "title": "A restaurant menu",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/a1/restaurant-menu",
+      "source": "BC"
+    },
+    {
+      "title": "An airport departures board",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/a1/airport-departures-board",
+      "source": "BC"
+    }
+  ],
   "a2-reading-email": [
     {
       "title": "An email from a friend",
@@ -1531,6 +1713,20 @@
     {
       "title": "Study skills tips",
       "url": "https://learnenglish.britishcouncil.org/free-resources/reading/a2/study-skills-tips",
+      "source": "BC"
+    }
+  ],
+  "a2-reading-advert": [
+    {
+      "title": "Holiday home adverts",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/a1/holiday-home-adverts",
+      "source": "BC"
+    }
+  ],
+  "a2-reading-blog": [
+    {
+      "title": "Digital habits across generations",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/b1/digital-habits-across-generations",
       "source": "BC"
     }
   ],
@@ -1555,6 +1751,13 @@
       "source": "BC"
     }
   ],
+  "b1-reading-story": [
+    {
+      "title": "The legend of fairies",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/b1/legend-fairies",
+      "source": "BC"
+    }
+  ],
   "b2-reading-article": [
     {
       "title": "The sharing economy",
@@ -1573,6 +1776,20 @@
     {
       "title": "Giving instructions by email",
       "url": "https://learnenglish.britishcouncil.org/free-resources/writing/b2/giving-instructions-email",
+      "source": "BC"
+    }
+  ],
+  "b2-reading-biography": [
+    {
+      "title": "A biography of Kilian Jornet",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/c1/biography-kilian-jornet",
+      "source": "BC"
+    }
+  ],
+  "b2-reading-story": [
+    {
+      "title": "A short story extract",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/b2/short-story-extract",
       "source": "BC"
     }
   ],
@@ -1597,6 +1814,20 @@
       "source": "BC"
     }
   ],
+  "c1-reading-review": [
+    {
+      "title": "Four book summaries",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/c1/four-book-summaries",
+      "source": "BC"
+    }
+  ],
+  "c1-reading-popular-science": [
+    {
+      "title": "Life on Mars",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/reading/c1/life-mars",
+      "source": "BC"
+    }
+  ],
   "a2-writing-short-message": [
     {
       "title": "Messaging to make plans",
@@ -1611,6 +1842,20 @@
       "source": "BC"
     }
   ],
+  "a2-writing-invitation": [
+    {
+      "title": "A text message invitation",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/a1/text-message-invitation",
+      "source": "BC"
+    }
+  ],
+  "a2-writing-about-me": [
+    {
+      "title": "A personal profile",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/a2/personal-profile",
+      "source": "BC"
+    }
+  ],
   "b1-writing-informal-email": [
     {
       "title": "An email giving holiday advice",
@@ -1622,6 +1867,13 @@
     {
       "title": "My last holiday",
       "url": "https://learnenglish.britishcouncil.org/free-resources/writing/a2/my-last-holiday",
+      "source": "BC"
+    }
+  ],
+  "b1-writing-review": [
+    {
+      "title": "A restaurant review",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/b1/restaurant-review",
       "source": "BC"
     }
   ],
@@ -1651,6 +1903,18 @@
       "source": "BC"
     }
   ],
+  "b2-writing-cover-letter": [
+    {
+      "title": "A covering email",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/b2/covering-email",
+      "source": "BC"
+    },
+    {
+      "title": "A CV",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/b2/cv",
+      "source": "BC"
+    }
+  ],
   "c1-writing-proposal": [
     {
       "title": "A proposal for a digital newspaper",
@@ -1674,6 +1938,20 @@
     {
       "title": "An essay about women in science",
       "url": "https://learnenglish.britishcouncil.org/free-resources/writing/c1/essay-about-women-science",
+      "source": "BC"
+    }
+  ],
+  "c1-writing-report": [
+    {
+      "title": "A report on a research study",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/c1/report-research-study",
+      "source": "BC"
+    }
+  ],
+  "c1-writing-article": [
+    {
+      "title": "The changing workplace",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/writing/c1/changing-workplace",
       "source": "BC"
     }
   ]

@@ -54,4 +54,11 @@ Plansza: `plansza.html`, zrzuty: `zrzuty/`.
 30. Publiczne repo `zTestuje442/angielski`. Każdy push na `main` uruchamia GitHub Actions: walidacja treści, lint, testy, build i publikacja na GitHub Pages (https://ztestuje442.github.io/angielski/).
 31. Adres i klucz Supabase są w sekretach repo (`VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`), nie w kodzie. `base` = `/angielski/` tylko dla buildu i podglądu; dev i testy działają pod „/”.
 
+## Po fazie 6
+
+32. Menu w całości po polsku: zakładki „Czytanie” i „Pisanie”, polskie tytuły tematów (nazwy czasów jak „Present Simple” zostają, bo to przyjęte terminy).
+33. Przy każdym zadaniu ikona z podpisem mówi, co trzeba zrobić: tłumaczenie, pytanie, przeczenie, łączenie zdań, przekształcenie, luka, wybór, prawda czy fałsz, pary, układanie, poprawianie błędu. Rodzaj przekształcenia rozpoznajemy po poleceniu w pierwszej linii (`src/lib/taskKind.ts`).
+34. Rozbudowa treści: +72 tematy (słownictwo 25, zdania 20, czytanie 15 z 45 tekstami, pisanie 12 z zadaniami otwartymi); razem 230 tematów. Tematy na wzór list British Council i zagadnień egzaminów Cambridge; zadania i teksty pisane od zera.
+35. W zadaniu „znajdź błąd” całe poprawione zdanie też jest dobrą odpowiedzią. Enter po sprawdzeniu przechodzi dalej niezależnie od fokusu.
+
 Dodatkowo z weryfikacji: Barlow Condensed i Atkinson Hyperlegible Next mają pełne polskie znaki, ale nie mają glifu ✓, więc znaczniki są ikonami SVG. Fonty w aplikacji zapisane w projekcie (@fontsource).
