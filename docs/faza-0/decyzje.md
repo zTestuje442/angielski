@@ -47,5 +47,11 @@ Plansza: `plansza.html`, zrzuty: `zrzuty/`.
 26. Przypisanie linków do tematów jest ręczne, w `scripts/links/rules.json` (temat → lista URL-i). Skrypt zgłasza linki bez tematu, reguły, których adresu nie ma już w spisach, i tematy bez linków w `docs/faza-5/niedopasowane.md`. Jeden URL trafia najwyżej do jednego tematu.
 27. Tytuły z drzewiastego spisu ang.pl dostają nazwę rodzica („Present Perfect: for i since”), bo same podstrony nazywają się „zastosowanie” czy „pytania i przeczenia”.
 28. Checkbox „zrobione” przy linku zapisuje się w postępie (`links`: URL → `{ done, at }`) i synchronizuje; w merge wygrywa późniejsze kliknięcie, przy remisie „zrobione”. Linki nie wpływają na zaliczenie tematu.
+29. Po otwarciu tematu kliknięciem ścieżka przewija się do niego, jeśli zwinięcie panelu powyżej wypchnęło go poza ekran. Linki w wyjaśnieniach (`[tekst](https://...)`) otwierają się w nowej karcie.
+
+## Faza 6
+
+30. Publiczne repo `zTestuje442/angielski`. Każdy push na `main` uruchamia GitHub Actions: walidacja treści, lint, testy, build i publikacja na GitHub Pages (https://ztestuje442.github.io/angielski/).
+31. Adres i klucz Supabase są w sekretach repo (`VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`), nie w kodzie. `base` = `/angielski/` tylko dla buildu i podglądu; dev i testy działają pod „/”.
 
 Dodatkowo z weryfikacji: Barlow Condensed i Atkinson Hyperlegible Next mają pełne polskie znaki, ale nie mają glifu ✓, więc znaczniki są ikonami SVG. Fonty w aplikacji zapisane w projekcie (@fontsource).
