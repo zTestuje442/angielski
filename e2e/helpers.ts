@@ -42,8 +42,8 @@ export async function currentExercise(page: Page): Promise<Exercise> {
   return ex;
 }
 
-/** Odpowiada poprawnie na bieżące zadanie (myszą/wpisywaniem) i przechodzi dalej. */
-export async function answerCorrectly(page: Page) {
+/** Odpowiada poprawnie na bieżące zadanie (myszą/wpisywaniem) i przechodzi dalej: kliknięciem „Dalej” albo Enterem. */
+export async function answerCorrectly(page: Page, next: "click" | "enter" = "click") {
   const ex = await currentExercise(page);
   const a = ex.answer;
   switch (ex.type) {
@@ -79,7 +79,11 @@ export async function answerCorrectly(page: Page) {
     }
   }
   await expect(page.locator(".verdict")).toHaveText("Dobrze");
-  await page.getByRole("button", { name: "Dalej" }).click();
+  if (next === "click") await page.getByRole("button", { name: "Dalej" }).click();
+  else {
+    await expect(page.getByRole("button", { name: "Dalej" })).toBeFocused();
+    await page.keyboard.press("Enter");
+  }
 }
 
 /** Przechodzi cały otwarty zestaw bezbłędnie i wraca na ścieżkę. */

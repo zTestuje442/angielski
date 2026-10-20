@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import { useState, type ComponentType, type ReactNode } from "react";
+import { useEffect, useState, type ComponentType, type ReactNode } from "react";
 import { checkAnswer, correctAnswerText, type Given } from "../../lib/check.ts";
 import type { ExerciseType, PlayableExercise } from "../../types.ts";
 import { Choice } from "./Choice.tsx";
@@ -46,6 +46,22 @@ export function ExerciseView({ exercise, retryNote, onAnswered, onNext }: Props)
   const View = VIEWS[exercise.type];
   const answered = correct !== null;
 
+  // Po sprawdzeniu Enter przechodzi dalej, gdziekolwiek jest fokus (pole odpowiedzi, opcja, kafelek, „Dalej”).
+  // preventDefault blokuje kliknięcie przycisku, który dostanie fokus na następnym ekranie (np. w podsumowaniu).
+  // Wyjątek: inne przyciski i linki poza zadaniem („Zakończ”) działają same.
+  useEffect(() => {
+    if (!answered) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key !== "Enter" || e.repeat || e.ctrlKey || e.altKey || e.metaKey || e.shiftKey) return;
+      const t = e.target instanceof Element ? e.target : null;
+      if (t?.closest("a, button") && !t.closest(".ex-body, .bar-action")) return;
+      e.preventDefault();
+      onNext();
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [answered, onNext]);
+
   const submit = (given: Given) => {
     if (answered) return;
     const ok = checkAnswer(exercise, given);
@@ -85,9 +101,10 @@ export function ExerciseView({ exercise, retryNote, onAnswered, onNext }: Props)
           </div>
         )}
         <div className="bar-action">
+          {/* Osobne klucze: „Dalej” to nowy element, więc autoFocus przenosi na niego fokus. */}
           {answered
-            ? <button className="btn btn-next" type="button" autoFocus onClick={onNext}>Dalej</button>
-            : exercise.type !== "choice" && <button className="btn btn-next" type="submit" form={FORM_ID} disabled={!ready}>Sprawdź</button>}
+            ? <button key="next" className="btn btn-next" type="button" autoFocus onClick={onNext}>Dalej</button>
+            : exercise.type !== "choice" && <button key="check" className="btn btn-next" type="submit" form={FORM_ID} disabled={!ready}>Sprawdź</button>}
         </div>
       </div>
     </div>

@@ -1,5 +1,5 @@
 import { expect } from "@playwright/test";
-import { completeOpenSet, seedBeforeForSince, test, TOPIC } from "./helpers.ts";
+import { answerCorrectly, completeOpenSet, currentExercise, seedBeforeForSince, test, TOPIC } from "./helpers.ts";
 
 test("[Ścieżka] widać temat „dziś”, a po zaliczeniu wszystkich zestawów znacznik przechodzi dalej", async ({ page }) => {
   test.slow(); // 3 zestawy = 30 zadań
@@ -42,4 +42,32 @@ test("[Postęp] zaliczony zestaw zostaje zaliczony po przeładowaniu", async ({ 
   const set1 = page.locator(`[data-set=${TOPIC}-1]`);
   await expect(set1).toContainText("100%");
   await expect(set1).toContainText(", zaliczony");
+});
+
+test("[Klawiatura] Enter sprawdza odpowiedź, a kolejny Enter przechodzi do następnego zadania", async ({ page }) => {
+  await seedBeforeForSince(page);
+  await page.goto("/");
+  await page.getByRole("button", { name: "Zacznij zestaw 1" }).click();
+  const counter = page.getByText(/Pytanie \d+ z \d+/);
+  await expect(page.locator("[data-exercise]")).toBeVisible();
+
+  // Po sprawdzeniu fokus jest na „Dalej”; jeden Enter = dokładnie jedno zadanie dalej.
+  for (let n = 1; await page.locator("[data-exercise]").count(); n++) {
+    await expect(counter).toContainText(`Pytanie ${n} z`);
+    await answerCorrectly(page, "enter");
+  }
+  await expect(page.getByRole("status")).toContainText("Zestaw zaliczony");
+});
+
+test("[Klawiatura] Enter przechodzi dalej także, gdy fokus nie jest na „Dalej”", async ({ page }) => {
+  await seedBeforeForSince(page);
+  await page.goto("/");
+  await page.getByRole("button", { name: "Zacznij zestaw 1" }).click();
+  const { answer, type } = await currentExercise(page);
+  expect(type).toBe("cloze");
+  await page.getByLabel("Luka").fill(answer as string);
+  await page.keyboard.press("Enter");
+  await page.getByLabel("Luka").focus();
+  await page.keyboard.press("Enter");
+  await expect(page.getByText(/Pytanie \d+ z \d+/)).toContainText("Pytanie 2 z");
 });
