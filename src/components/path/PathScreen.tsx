@@ -7,7 +7,7 @@ import { SyncButton, type SyncProps } from "./SyncDialog.tsx";
 import { Trail } from "./Trail.tsx";
 
 const SECTION_NAMES: Record<Section, string> = {
-  grammar: "Gramatyka", vocabulary: "Słownictwo", sentences: "Zdania", reading: "Reading", writing: "Writing",
+  grammar: "Gramatyka", vocabulary: "Słownictwo", sentences: "Zdania", reading: "Czytanie", writing: "Pisanie",
 };
 
 interface Props {
@@ -56,7 +56,7 @@ export function PathScreen({ progress, section, onSection, onLevel, onStart, onW
             {LEVELS.map(l => {
               const off = section === "writing" && l === "A1";
               return (
-                <button key={l} type="button" aria-pressed={l === level} disabled={off} title={off ? "Writing od A2" : undefined}
+                <button key={l} type="button" aria-pressed={l === level} disabled={off} title={off ? "Pisanie od A2" : undefined}
                   onClick={() => onLevel(l)}>
                   <Sign level={l} size="s" />{l}{off && <span className="off-note">od A2</span>}
                 </button>

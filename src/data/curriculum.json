@@ -498,7 +498,7 @@
     "section": "grammar",
     "level": "B1",
     "order": 5,
-    "title": "Zero i first conditional",
+    "title": "Okres warunkowy zerowy i pierwszy",
     "explanation": "**Zero conditional** – fakty, prawa natury, rzeczy zawsze prawdziwe:\n**If + Present Simple, Present Simple** – *If you heat ice, it **melts**.*\n\n**First conditional** – realna sytuacja w przyszłości:\n**If + Present Simple, will + czasownik** – *If it **rains** tomorrow, we**'ll stay** at home.*\n\nNajczęstszy błąd: po **if** nie ma *will*! *If it **rains*** (nie *If it will rain*).\n\nW drugiej części może być też tryb rozkazujący albo *can / may*: *If you need help, **call** me.*\n\n**unless** = *if not* (chyba że): *I won't go **unless** you come.* = *I won't go if you don't come.*\n\nKolejność części można zamienić. Gdy *if* jest na początku, stawiamy przecinek: *If you hurry, you'll catch the bus. / You'll catch the bus if you hurry.*",
     "sets": [
       "b1-zero-first-conditional-1",
@@ -511,7 +511,7 @@
     "section": "grammar",
     "level": "B1",
     "order": 6,
-    "title": "Second conditional",
+    "title": "Drugi okres warunkowy",
     "explanation": "**Second conditional** opisuje sytuacje **nierealne albo mało prawdopodobne** – teraz lub w przyszłości:\n\n**If + Past Simple, would + czasownik**\n- *If I **had** more time, I **would learn** Spanish.* (ale nie mam czasu)\n- *What **would** you **do** if you **won** the lottery?*\n\nMimo formy przeszłej chodzi o teraźniejszość. Po polsku: „gdybym miał...”.\n\nZ **be** w części z *if* często używamy **were** dla wszystkich osób: *If I **were** rich... If she **were** here...* (w mowie potocznej też *was*).\n\nRada: ***If I were you**, I would...* (Na twoim miejscu...)\n\nZamiast *would* może być **could** (mógłbym): *If we had a garden, we **could** have a dog.*\n\nPorównaj z first conditional:\n- *If it **rains**, I'**ll** stay home.* – realne\n- *If I **were** a bird, I'**d** fly.* – nierealne",
     "sets": [
       "b1-second-conditional-1",
@@ -654,7 +654,7 @@
     "section": "grammar",
     "level": "B1",
     "order": 17,
-    "title": "Question tags",
+    "title": "Pytania rozłączne (question tags)",
     "explanation": "**Question tags** to krótkie pytania na końcu zdania (po polsku „prawda?”, „nie?”):\n\n- zdanie **twierdzące** → tag **przeczący**: *You're a student, **aren't you**?*\n- zdanie **przeczące** → tag **twierdzący**: *She doesn't eat meat, **does she**?*\n\nTag powtarza **czasownik posiłkowy** z zdania (*be, have, can, will...*), a gdy go nie ma – używa **do / does / did**:\n- *He **can** swim, **can't** he?*\n- *They **went** to Rome, **didn't** they?*\n- *You **like** coffee, **don't** you?*\n\nW tagu jest zawsze **zaimek**: *Tom has got a car, hasn't **he**?*\n\nWyjątki: *I'm right, **aren't I**? Let's go, **shall we**? Open the window, **will you**?* · *There's a bank, **isn't there**?* · *Nobody called, **did they**?* (nobody ma znaczenie przeczące)",
     "sets": [
       "b1-question-tags-1",
@@ -771,7 +771,7 @@
     "section": "grammar",
     "level": "B2",
     "order": 7,
-    "title": "Third conditional",
+    "title": "Trzeci okres warunkowy",
     "explanation": "**Third conditional** – **nierealna przeszłość**: wyobrażamy sobie inny przebieg zdarzeń, których już nie zmienimy.\n\n**If + Past Perfect, would have + III forma**\n- *If I **had known**, I **would have told** you.* (ale nie wiedziałem, więc nie powiedziałem)\n- *If it **hadn't rained**, we **would have gone** to the beach.*\n\nZamiast *would* może być **could have** (mógłbym) albo **might have** (może by): *We **could have taken** a taxi. They **might have won**.*\n\nSkróty: *If I'**d** known, I'**d** have come.* (pierwsze *'d* = *had*, drugie = *would*)\n\nNajczęstszy błąd: *would* po *if*: ~~If I would have known~~ → *If I **had known***.\n\nPo polsku: „gdybym wiedział, powiedziałbym ci” – ta sama forma co dla teraźniejszości, więc z kontekstu trzeba wyczuć, że chodzi o przeszłość.",
     "sets": [
       "b2-third-conditional-1",
@@ -784,7 +784,7 @@
     "section": "grammar",
     "level": "B2",
     "order": 8,
-    "title": "Mixed conditionals",
+    "title": "Mieszane okresy warunkowe",
     "explanation": "**Mixed conditionals** łączą przeszłość i teraźniejszość:\n\n**1. Przeszła przyczyna → teraźniejszy skutek**\n**If + Past Perfect, would + czasownik**\n- *If I **had taken** that job, I **would be** rich **now**.* (nie przyjąłem – nie jestem bogaty)\n- *If I **hadn't eaten** so much, I **wouldn't feel** sick now.*\n\n**2. Stała cecha / sytuacja teraz → przeszły skutek**\n**If + Past Simple, would have + III forma**\n- *If I **weren't** afraid of flying, I **would have gone** to Australia last year.* (boję się zawsze)\n- *If he **spoke** Spanish, he **would have understood** them yesterday.*\n\nPodpowiedź: patrz na określenia czasu (*now, today, yesterday, last year*) i pytaj, która część dotyczy przeszłości, a która teraźniejszości.",
     "sets": [
       "b2-mixed-conditionals-1",
@@ -862,7 +862,7 @@
     "section": "grammar",
     "level": "B2",
     "order": 14,
-    "title": "Reporting verbs",
+    "title": "Czasowniki relacjonujące (reporting verbs)",
     "explanation": "Zamiast ciągle *said / told* używamy czasowników, które oddają **intencję** mówiącego. Każdy ma swoją konstrukcję:\n\n- **+ to**: *promise, refuse, agree, offer, threaten* – *He **promised to call** me.*\n- **+ osoba + to**: *advise, warn, remind, encourage, persuade, tell, ask* – *She **advised me to see** a doctor.*\n- **+ -ing**: *suggest, deny, admit, recommend* – *She **suggested going** to the cinema. He **denied stealing** the money.*\n- **+ przyimek + -ing**: *apologise **for**, insist **on**, accuse somebody **of**, blame somebody **for**, congratulate somebody **on***\n\nUwaga na **suggest**: *She suggested **going*** albo *She suggested **that we go*** (nie *suggested us to go*).\n\nCzasowniki relacjonujące dają tekstowi precyzję: *\"I didn't take it!\"* → *He **denied taking** it.*",
     "sets": [
       "b2-reporting-verbs-1",
@@ -927,7 +927,7 @@
     "section": "grammar",
     "level": "B2",
     "order": 19,
-    "title": "Gerund po przyimkach",
+    "title": "Forma -ing po przyimkach",
     "explanation": "Po **przyimku** czasownik ma zawsze formę **-ing** (gerund):\n\n- po przymiotniku z przyimkiem: *interested **in learning**, good **at fixing**, afraid **of flying**, tired **of waiting**, responsible **for organising***\n- po czasowniku z przyimkiem: *think **about changing**, insist **on paying**, succeed **in passing**, apologise **for being***\n- po samodzielnych przyimkach: ***without saying**, **instead of complaining**, **before leaving**, **after finishing**, **by reading**, **despite feeling***\n\nSzczególnie zdradliwe jest **to** jako przyimek: *look forward **to seeing**, be used **to working**, object **to being**, in addition **to having***.\n\nWyrażenia: *There's no point **(in) worrying**. How about **going** out? What about **ordering** pizza?*\n\n**by + -ing** wyraża sposób: *You can improve your English **by reading** more.*",
     "sets": [
       "b2-gerund-after-prepositions-1",
@@ -979,7 +979,7 @@
     "section": "grammar",
     "level": "C1",
     "order": 3,
-    "title": "Cleft sentences",
+    "title": "Zdania rozszczepione (cleft sentences)",
     "explanation": "**Cleft sentences** (zdania rozszczepione) wyróżniają jedną część zdania:\n\n**It is / was ... that / who ...**\n- *Tom broke the window.* → ***It was Tom who** broke the window.* (to Tom, a nie ktoś inny)\n- → ***It was the window that** Tom broke.*\n- → ***It was yesterday that** he broke it.*\n\n**What ... is / was ...** (to, co...)\n- *I need a holiday.* → ***What I need is** a holiday.*\n- *He lost his job.* → ***What happened was that** he lost his job.*\n- *She called the police.* → ***What she did was (to) call** the police.*\n\nInne: ***All I want is** some peace.* (jedyne, czego chcę) · ***The reason (why)** I left **was that**... · ***The thing that** annoys me **is**... · ***The person who** helped me **was**...*\n\nUwaga: po *What ... did was* czasownik w formie podstawowej (z *to* lub bez).",
     "sets": [
       "c1-cleft-sentences-1",
@@ -1018,7 +1018,7 @@
     "section": "grammar",
     "level": "C1",
     "order": 6,
-    "title": "Konstrukcje formalne i subjunctive",
+    "title": "Konstrukcje formalne i tryb łączący (subjunctive)",
     "explanation": "**Subjunctive** (tryb łączący) to forma podstawowa czasownika (bez *-s*, bez czasu przeszłego) po czasownikach i wyrażeniach oznaczających **żądanie, propozycję lub konieczność**. Typowy dla stylu formalnego:\n\n- **suggest, recommend, insist, demand, request, propose, ask + that**: *The doctor **recommended that** he **stop** smoking.* (nie *stops*) *They **insisted that** she **be** present.*\n- **It is essential / vital / important / crucial / necessary + that**: *It is **essential that** every student **attend** the meeting.*\n- przeczenie: **not + forma podstawowa**: *We suggest that he **not** **travel** alone.*\n\nW brytyjskim angielskim często zamiast tego: ***should** + czasownik*: *They insisted that she **should be** present.*\n\nUtarte zwroty: ***God save** the King, **Long live**..., **So be it**, **Be that as it may**, **if need be**, **as it were**.*\n\n**were** w zdaniach nierealnych: *If I **were**..., I wish he **were** here, as if it **were** true.*",
     "sets": [
       "c1-formal-subjunctive-1",
@@ -1096,7 +1096,7 @@
     "section": "grammar",
     "level": "C1",
     "order": 12,
-    "title": "Future in the past",
+    "title": "Przyszłość z perspektywy przeszłości (future in the past)",
     "explanation": "**Future in the past** – mówimy o przyszłości z perspektywy przeszłości (co ktoś planował, przewidywał, miał zrobić):\n\n- **would**: *I knew she **would** be late.* (wiedziałem, że się spóźni)\n- **was / were going to**: *I **was going to** call you, but I forgot.* (zamierzałem)\n- **was / were about to**: *We **were about to** leave when it started to rain.* (właśnie mieliśmy)\n- **was / were to**: *He **was to** become president.* (los, przeznaczenie) · ***was to have + III forma***: *She **was to have married** him, but...* (plan, który się nie spełnił)\n- **was / were due to**: *The train **was due to** arrive at 6.*\n- **Past Continuous** dla ustalonego planu: *I **was meeting** Tom at six, so I couldn't stay.*\n\nTe formy są częste w opowiadaniu i mowie zależnej: *He said he **would** call.*",
     "sets": [
       "c1-future-in-the-past-1",
@@ -1369,7 +1369,7 @@
     "section": "vocabulary",
     "level": "B1",
     "order": 6,
-    "title": "Phrasal verbs: podstawy",
+    "title": "Czasowniki frazowe: podstawy",
     "explanation": "**Phrasal verbs** to czasownik + partykuła (*up, off, on, out, after...*), który razem ma nowe znaczenie:\n\n- *give up* – rzucić, poddać się · *look after* – opiekować się · *look for* – szukać · *look up* – sprawdzić (w słowniku)\n- *find out* – dowiedzieć się · *fill in* – wypełnić · *pick up* – odebrać kogoś · *run out of* – skończyć się (np. mleko)\n- *put on / take off* – założyć / zdjąć · *turn on / off / up / down* – włączyć / wyłączyć / pogłośnić / ściszyć\n- *get on / off* – wsiąść / wysiąść · *get up* – wstać · *grow up* – dorastać\n- *set off* – wyruszyć · *break down* – zepsuć się · *carry on* – kontynuować · *hold on* – poczekać\n\nGdy phrasal verb ma dopełnienie-zaimek, zaimek stoi w środku: *Put **it** on. Pick **me** up.* (nie *Put on it*).",
     "sets": [
       "b1-vocab-phrasal-verbs-basics-1",
@@ -1447,7 +1447,7 @@
     "section": "vocabulary",
     "level": "B2",
     "order": 5,
-    "title": "Phrasal verbs: zaawansowane",
+    "title": "Czasowniki frazowe: zaawansowane",
     "explanation": "Phrasal verbs na B2 – w pracy i w życiu codziennym:\n\n- **bring up** – poruszyć temat; wychować: *She **brought up** an interesting point.*\n- **carry out** – przeprowadzić (badanie, test): *We **carried out** a survey.*\n- **come up with** – wymyślić: *He **came up with** a great idea.*\n- **figure out** – rozgryźć: *I can't **figure out** how it works.*\n- **put off** – odłożyć na później: *Don't **put off** the decision.*\n- **set up** – założyć, skonfigurować: *They **set up** a company.*\n- **turn down** – odrzucić: *She **turned down** the offer.*\n- **run out of** – skończyć się (zapasy): *We've **run out of** coffee.*\n- **look into** – zbadać sprawę: *We'll **look into** the problem.*\n- **take over** – przejąć: *A bigger company **took** us **over**.*\n- **point out** – zwrócić uwagę: *She **pointed out** a mistake.*\n- **get across** – przekazać (myśl): *It's hard to **get** my message **across**.*\n\nRozdzielne (*set it up, turn it down*) – zaimek **musi** stać w środku: *turn **it** down* (nie *turn down it*).",
     "sets": [
       "b2-vocab-phrasal-verbs-advanced-1",
@@ -1473,7 +1473,7 @@
     "section": "vocabulary",
     "level": "B2",
     "order": 7,
-    "title": "False friends PL–EN",
+    "title": "Fałszywi przyjaciele PL–EN",
     "explanation": "**False friends** – słowa podobne do polskich, ale o innym znaczeniu:\n\n- **actually** = właściwie, tak naprawdę (aktualnie = *currently, at the moment*)\n- **eventually** = w końcu (ewentualnie = *possibly, alternatively*)\n- **sympathetic** = współczujący (sympatyczny = *nice, friendly*)\n- **pathetic** = żałosny (patetyczny = *pompous*)\n- **fabric** = tkanina (fabryka = *factory*)\n- **lecture** = wykład (lektura = *reading, set book*)\n- **receipt** = paragon (recepta = *prescription*)\n- **chef** = kucharz (szef = *boss*)\n- **closet** = szafa (klozet = *toilet*)\n- **extra** = dodatkowy (ekstra = *great, cool*)\n- **ordinary** = zwyczajny (ordynarny = *vulgar, rude*)\n- **preservative** = konserwant (prezerwatywa = *condom*)\n- **gymnasium** = sala gimnastyczna (gimnazjum = *junior high school*)\n- **apartment** = mieszkanie (apartament = *luxury flat*)\n- **control** = kontrolować, sterować (kontrola biletów = *ticket inspection*)\n- **billion** = miliard (bilion = *trillion*)",
     "sets": [
       "b2-vocab-false-friends-1",
@@ -1564,7 +1564,7 @@
     "section": "vocabulary",
     "level": "C1",
     "order": 6,
-    "title": "Hedging: ostrożne formułowanie",
+    "title": "Ostrożne formułowanie (hedging)",
     "explanation": "**Hedging** to ostrożne formułowanie twierdzeń. W tekstach akademickich, raportach i dyplomacji unika się kategoryczności – brzmi to bardziej profesjonalnie i uczciwie.\n\n**Czasowniki**: *seem, appear, tend to, suggest, indicate*\n- *The results **suggest** that... It **appears** that... People **tend to**...*\n\n**Modalne**: *may, might, could*\n- *This **may** be due to...*\n\n**Przysłówki**: *possibly, probably, arguably, apparently, presumably, relatively, somewhat, largely*\n- ***Arguably**, it is the best solution.*\n\n**Przymiotniki i rzeczowniki**: *likely, unlikely, possible, a possibility, a tendency*\n- *It is **likely** that... There is **a tendency** to...*\n\n**Zwroty**:\n- *To some extent / to a certain degree* – do pewnego stopnia\n- *It could be argued that...* – można by argumentować, że...\n- *There is some evidence that...*\n- *In most cases / generally speaking*\n\nPorównaj: *Social media **causes** depression.* (kategorycznie) → *Social media **may contribute to** depression **in some cases**.* (ostrożnie)",
     "sets": [
       "c1-vocab-hedging-1",
@@ -1681,7 +1681,7 @@
     "section": "sentences",
     "level": "B2",
     "order": 3,
-    "title": "Parafrazy: key word transformations",
+    "title": "Parafrazy ze słowem kluczowym",
     "explanation": "**Key word transformation** (jak na egzaminie FCE): przepisz zdanie tak, by znaczyło to samo, używając **podanego słowa bez zmian** i zwykle **2–5 słów**.\n\nTypowe wzorce:\n- **too / enough**: *It's too cold to swim.* → *It isn't **warm enough** to swim.*\n- **czas**: *I started working here three years ago.* → *I **have been working** here for three years.*\n- **strona bierna**: *They will finish it soon.* → *It **will be finished** soon.*\n- **mowa zależna**: *\"I'll call you,\" he said.* → *He **promised to** call me.*\n- **wish / if only**: *I'm sorry I didn't go.* → *I **wish I had** gone.*\n- **modalne w przeszłości**: *I'm sure he forgot.* → *He **must have** forgotten.*\n- **used to / be used to**: *I'm not familiar with driving on the left.* → *I'm **not used to** driving on the left.*\n- **phrasal verbs i wyrażenia**: *postpone* → *put off*; *It isn't worth it* → *There's no point*.\n- **porównania**: *Nobody in the class is taller than Tom.* → *Tom is **the tallest** in the class.*\n\nPamiętaj: nie zmieniaj słowa kluczowego i sprawdź, czy czas i sens się zgadzają.",
     "sets": [
       "b2-sent-key-word-transformations-1",
@@ -1993,7 +1993,7 @@
     "section": "writing",
     "level": "B2",
     "order": 2,
-    "title": "Opinion essay",
+    "title": "Rozprawka z opinią",
     "explanation": "**Opinion essay** (rozprawka z opinią) na B2 ma 140–190 słów i 4 akapity:\n\n1. **Wstęp** – przedstaw temat i swoje zdanie: *Nowadays, more and more people... **In my opinion**, ...*\n2. **Argument 1** z przykładem: ***Firstly**, ... **For example**, ...*\n3. **Argument 2** (albo kontrargument i odpowiedź na niego): ***Secondly**, ... / **On the other hand**, some people argue that... **However**, ...*\n4. **Zakończenie** – podsumuj i powtórz opinię innymi słowami: ***To sum up / In conclusion**, I believe that...*\n\nPrzydatne:\n- opinia: *I strongly believe that... / It seems to me that... / I am convinced that...*\n- dodawanie: *Moreover, / Furthermore, / What is more,*\n- kontrast: *However, / Although... / Despite + -ing / rzeczownik*\n- przykład: *For instance, / such as*\n\nStyl neutralny lub formalny – bez skrótów i bez zwrotów do czytelnika jak w liście.",
     "sets": [
       "b2-writing-opinion-essay-1",

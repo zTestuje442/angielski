@@ -1,6 +1,7 @@
 import { motion } from "motion/react";
 import { useEffect, useState, type ComponentType, type ReactNode } from "react";
 import { checkAnswer, correctAnswerText, type Given } from "../../lib/check.ts";
+import { taskKind } from "../../lib/taskKind.ts";
 import type { ExerciseType, PlayableExercise } from "../../types.ts";
 import { Choice } from "./Choice.tsx";
 import { Cloze } from "./Cloze.tsx";
@@ -8,6 +9,7 @@ import { ErrorSpot } from "./ErrorSpot.tsx";
 import { FreeText } from "./FreeText.tsx";
 import { Match } from "./Match.tsx";
 import { FORM_ID, type ExerciseProps } from "./parts.tsx";
+import { TaskBadge } from "./TaskBadge.tsx";
 import { Tiles } from "./Tiles.tsx";
 
 const VIEWS: Record<ExerciseType, ComponentType<ExerciseProps>> = {
@@ -71,7 +73,7 @@ export function ExerciseView({ exercise, retryNote, onAnswered, onNext }: Props)
 
   const task = (
     <div className={`ex-body${answered ? (correct ? " was-ok" : " was-bad") : ""}`} data-exercise={exercise.id}>
-      <p className="instr">{INSTRUCTIONS[exercise.type]}</p>
+      <p className="instr"><TaskBadge kind={taskKind(exercise)} />{INSTRUCTIONS[exercise.type]}</p>
       <View exercise={exercise} answered={answered} onSubmit={submit} onReady={setReady} />
     </div>
   );
