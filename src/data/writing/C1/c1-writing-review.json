@@ -1,0 +1,19 @@
+{
+  "topicId": "c1-writing-review",
+  "task": "Anglojęzyczny portal kulturalny zbiera recenzje **książek, filmów lub seriali, które zmieniły sposób myślenia czytelników**. Napisz **recenzję** (review):\n\n- krótko przedstaw dzieło (bez zdradzania zakończenia),\n- oceń jego mocne i słabe strony,\n- wyjaśnij, co zmieniło w twoim myśleniu,\n- napisz, komu je polecasz.\n\nStyl pół-formalny: możesz zwracać się do czytelnika, ale bez slangu.",
+  "words": [
+    220,
+    260
+  ],
+  "model": "A quiet revolution on the page\n\nHave you ever finished a book and felt that you were seeing the world slightly differently? That is exactly how I felt after reading Klara and the Sun by Kazuo Ishiguro.\n\nSet in an unnamed country in the near future, the novel is narrated by Klara, an \"Artificial Friend\" bought to keep a sick teenage girl company. Through Klara's eyes, we observe a family struggling with loneliness, ambition and fear of loss. Without giving too much away, I can say that the story raises a deceptively simple question: what makes a person irreplaceable?\n\nWhat makes the book stand out is its voice. Klara's observations are precise, innocent and often unintentionally funny, and Ishiguro's restrained prose makes the emotional moments all the more powerful. Admittedly, the pace is somewhat slow, and readers who expect a fast-moving science-fiction thriller may find the first half rather uneventful.\n\nHowever, it was precisely this slowness that changed my thinking. Like many people working in technology, I tended to see artificial intelligence purely in terms of efficiency. Klara made me consider, for the first time, what kindness and loyalty might mean for a machine – and, more uncomfortably, how carelessly humans sometimes treat each other.\n\nAll in all, this is a gentle, thought-provoking novel that stays with you long after the final page. I would thoroughly recommend it to anyone interested in technology, ethics or simply beautifully written fiction. Just don't expect explosions.",
+  "checklist": [
+    "Recenzja ma tytuł i ciekawy początek (pytanie, „hak”).",
+    "Krótko przedstawiam dzieło i tło (Set in..., The story follows...), bez spoilerów.",
+    "Oceniam mocne i słabe strony (What makes it stand out is... / Admittedly, ...).",
+    "Wyjaśniam, co zmieniło w moim myśleniu – z osobistym przykładem.",
+    "Używam precyzyjnych przymiotników zamiast good / bad / nice.",
+    "Kończę jasną rekomendacją (I would thoroughly recommend it to...).",
+    "Styl pół-formalny: zwracam się do czytelnika, ale bez slangu.",
+    "Tekst ma 220–260 słów."
+  ]
+}

@@ -1,0 +1,343 @@
+[
+  {
+    "id": "c1-vocab-advanced-word-formation-1",
+    "topicId": "c1-vocab-advanced-word-formation",
+    "exercises": [
+      {
+        "id": "c1-vocab-advanced-word-formation-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "malfunction|usterka",
+          "outnumber|przewyższać liczebnie",
+          "counterproductive|przynoszący odwrotny skutek",
+          "non-existent|nieistniejący"
+        ],
+        "explanation": "Przedrostki."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-02",
+        "type": "cloze",
+        "prompt": "Punishing children too often can be ___. (PRODUCTIVE – przeciw)",
+        "answer": "counterproductive",
+        "explanation": "Counter- + productive."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-03",
+        "type": "cloze",
+        "prompt": "The plane crashed because of a technical ___. (FUNCTION)",
+        "answer": "malfunction",
+        "explanation": "Mal- = źle."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-04",
+        "type": "choice",
+        "prompt": "The benefits ___ the risks.",
+        "answer": "outweigh",
+        "distractors": [
+          "overweigh",
+          "underweigh"
+        ],
+        "explanation": "Out- = przewyższać."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-05",
+        "type": "choice",
+        "prompt": "The ___ of the river is about 20 metres here. (DEEP)",
+        "answer": "depth",
+        "distractors": [
+          "deepness",
+          "deepth"
+        ],
+        "explanation": "Deep → depth."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-06",
+        "type": "error",
+        "prompt": "Strong leadershipness is essential in a crisis.",
+        "answer": [
+          "leadershipness",
+          "leadership"
+        ],
+        "explanation": "-ship: leadership."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-07",
+        "type": "tiles",
+        "prompt": "Musimy ustalić priorytety zadań.",
+        "answer": [
+          "We",
+          "need",
+          "to",
+          "prioritise",
+          "our",
+          "tasks"
+        ],
+        "distractors": [
+          "priority",
+          "prioritising"
+        ],
+        "explanation": "-ise: prioritise."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-08",
+        "type": "translate",
+        "prompt": "Czy mógłbyś to wyjaśnić?",
+        "answer": "Could you clarify that?",
+        "accept": [
+          "Could you clarify this?",
+          "Could you clarify it?",
+          "Could you explain that?",
+          "Could you explain this?",
+          "Could you explain it?"
+        ],
+        "explanation": "Clear → clarify."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-09",
+        "type": "choice",
+        "prompt": "Which word means \"unclear, with more than one meaning\"?",
+        "answer": "ambiguous",
+        "distractors": [
+          "ambitious",
+          "ambivalent"
+        ],
+        "explanation": "Ambiguous."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-1-10",
+        "type": "transform",
+        "prompt": "Utwórz rzeczownik od „broad” i napisz całe zdanie.\nWe were impressed by the ___ of her knowledge.",
+        "answer": "We were impressed by the breadth of her knowledge.",
+        "explanation": "Broad → breadth."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-advanced-word-formation-2",
+    "topicId": "c1-vocab-advanced-word-formation",
+    "exercises": [
+      {
+        "id": "c1-vocab-advanced-word-formation-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z rzeczownikami.",
+        "answer": [
+          "child|childhood",
+          "free|freedom",
+          "friend|friendship",
+          "wise|wisdom"
+        ],
+        "explanation": "Rzeczowniki abstrakcyjne."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-02",
+        "type": "cloze",
+        "prompt": "She is very ___ – she never gives up. (PERSIST)",
+        "answer": "persistent",
+        "explanation": "Persist → persistent."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-03",
+        "type": "cloze",
+        "prompt": "A good manager must be ___. (DECIDE)",
+        "answer": "decisive",
+        "explanation": "Decide → decisive."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-04",
+        "type": "choice",
+        "prompt": "The instructions were not ___. Nobody understood them.",
+        "answer": "comprehensible",
+        "distractors": [
+          "comprehensive",
+          "comprehending"
+        ],
+        "explanation": "Comprehensible – zrozumiały (comprehensive – wszechstronny)."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-05",
+        "type": "choice",
+        "prompt": "Many children in the region suffer from ___. (NUTRITION – źle)",
+        "answer": "malnutrition",
+        "distractors": [
+          "unnutrition",
+          "disnutrition"
+        ],
+        "explanation": "Mal- + nutrition."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-06",
+        "type": "error",
+        "prompt": "The new software has simplicated the process.",
+        "answer": [
+          "simplicated",
+          "simplified"
+        ],
+        "explanation": "Simple → simplify → simplified."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-07",
+        "type": "error",
+        "prompt": "He gave a very persuading speech.",
+        "answer": [
+          "persuading",
+          "persuasive"
+        ],
+        "explanation": "Persuade → persuasive."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-08",
+        "type": "tiles",
+        "prompt": "Nasza drużyna przewyższyła konkurencję.",
+        "answer": [
+          "Our",
+          "team",
+          "outperformed",
+          "the",
+          "competition"
+        ],
+        "distractors": [
+          "overperformed",
+          "performed"
+        ],
+        "explanation": "Out- = przewyższyć."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-09",
+        "type": "translate",
+        "prompt": "To jest organizacja non-profit.",
+        "answer": "This is a non-profit organisation.",
+        "accept": [
+          "It is a non-profit organisation.",
+          "This is a non-profit organization.",
+          "It is a non-profit organization.",
+          "This is a not-for-profit organisation."
+        ],
+        "explanation": "Non- + profit."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-2-10",
+        "type": "choice",
+        "prompt": "Pod względem czasu, ten plan jest lepszy. → ___, this plan is better.",
+        "answer": "Time-wise",
+        "distractors": [
+          "Timely",
+          "Timeful"
+        ],
+        "explanation": "-wise = pod względem."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-advanced-word-formation-3",
+    "topicId": "c1-vocab-advanced-word-formation",
+    "exercises": [
+      {
+        "id": "c1-vocab-advanced-word-formation-3-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z rzeczownikami.",
+        "answer": [
+          "long|length",
+          "strong|strength",
+          "hot|heat",
+          "high|height"
+        ],
+        "explanation": "Przymiotnik i rzeczownik."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-02",
+        "type": "cloze",
+        "prompt": "The ___ of the bridge is 300 metres. (LONG)",
+        "answer": "length",
+        "explanation": "Long → length."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-03",
+        "type": "cloze",
+        "prompt": "Many people with ___ find it hard to get a job. (ABLE)",
+        "answer": "disabilities",
+        "accept": [
+          "disability"
+        ],
+        "explanation": "Able → disability (dwie zmiany)."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-04",
+        "type": "choice",
+        "prompt": "He is completely ___ – you can't trust him.",
+        "answer": "unreliable",
+        "distractors": [
+          "disreliable",
+          "unrelying"
+        ],
+        "explanation": "Rely → reliable → unreliable."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-05",
+        "type": "choice",
+        "prompt": "We received an ___ number of applications.",
+        "answer": "overwhelming",
+        "distractors": [
+          "overwhelmed",
+          "overwhelm"
+        ],
+        "explanation": "Over- + whelming."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-06",
+        "type": "error",
+        "prompt": "Her speech was very sympathy – everyone felt better.",
+        "answer": [
+          "sympathy",
+          "sympathetic"
+        ],
+        "explanation": "Przymiotnik: sympathetic."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-07",
+        "type": "error",
+        "prompt": "The report gives a comprehensible overview of the market.",
+        "answer": [
+          "comprehensible",
+          "comprehensive"
+        ],
+        "explanation": "Wszechstronny: comprehensive."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-08",
+        "type": "tiles",
+        "prompt": "Niedoceniliśmy ich siły.",
+        "answer": [
+          "We",
+          "underestimated",
+          "their",
+          "strength"
+        ],
+        "distractors": [
+          "overestimated",
+          "strong"
+        ],
+        "explanation": "Under- + strong → strength."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-09",
+        "type": "translate",
+        "prompt": "Zrozumiałem to w dzieciństwie.",
+        "answer": "I understood it in my childhood.",
+        "accept": [
+          "I understood it as a child.",
+          "I understood it when I was a child.",
+          "I understood this in my childhood."
+        ],
+        "explanation": "-hood: childhood."
+      },
+      {
+        "id": "c1-vocab-advanced-word-formation-3-10",
+        "type": "transform",
+        "prompt": "Utwórz przymiotnik od „decide” z przedrostkiem przeczącym i napisz całe zdanie.\nHe is very ___ – he can never choose.",
+        "answer": "He is very indecisive – he can never choose.",
+        "explanation": "In- + decisive."
+      }
+    ]
+  }
+]

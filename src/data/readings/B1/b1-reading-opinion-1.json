@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-opinion-1",
+  "topicId": "b1-reading-opinion",
+  "title": "Why my children won't get smartphones until they're 14",
+  "text": "Last week my eleven-year-old daughter came home from school in tears. \"Everyone in my class has a smartphone except me,\" she said. \"I feel like an alien.\" I understand her – nobody wants to be different at that age. But my husband and I have made a decision, and we're sticking to it: no smartphone until fourteen.\n\nLet me explain why. Firstly, I believe that smartphones are designed to be addictive. Games and social media apps are created by very clever people whose job is to keep us scrolling for as long as possible. If adults find it hard to put their phones down – and I certainly do – how can we expect a child to manage it?\n\nSecondly, I worry about what children see online. Even with parental controls, it's almost impossible to stop them from finding violent or upsetting content, or from being contacted by strangers. And cyberbullying doesn't stop when a child leaves the school gate; it follows them home and into their bedroom.\n\nFinally, I want my children to have a real childhood – to get bored, to climb trees, to read books and to talk to each other at dinner instead of staring at screens.\n\nOf course, I'm not against technology. My daughter has a simple phone which she can use to call and text us, so she's safe when she travels to school by herself. She also uses our family laptop for homework.\n\nSome friends say I'm being too strict and that my children will fall behind. Maybe they're right. But I'd rather my daughter feels a bit left out now than spends her teenage years glued to a screen.",
+  "exercises": [
+    {
+      "id": "b1-reading-opinion-1-01",
+      "type": "choice",
+      "prompt": "The writer's daughter is eleven years old.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...my eleven-year-old daughter...”"
+    },
+    {
+      "id": "b1-reading-opinion-1-02",
+      "type": "choice",
+      "prompt": "The writer says she never finds it hard to put her phone down.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„If adults find it hard to put their phones down – and I certainly do...”"
+    },
+    {
+      "id": "b1-reading-opinion-1-03",
+      "type": "choice",
+      "prompt": "The writer's son has a smartphone.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi nic o synu ani jego telefonie."
+    },
+    {
+      "id": "b1-reading-opinion-1-04",
+      "type": "choice",
+      "prompt": "What is the writer's first argument?",
+      "answer": "Smartphones are designed to be addictive.",
+      "distractors": [
+        "Smartphones are too expensive.",
+        "Children can't do homework on them."
+      ],
+      "explanation": "„Firstly, I believe that smartphones are designed to be addictive.”"
+    },
+    {
+      "id": "b1-reading-opinion-1-05",
+      "type": "choice",
+      "prompt": "Why does the daughter have a simple phone?",
+      "answer": "so she can contact her parents and be safe",
+      "distractors": [
+        "so she can play games",
+        "because all her friends have one"
+      ],
+      "explanation": "„...which she can use to call and text us, so she's safe...”"
+    },
+    {
+      "id": "b1-reading-opinion-1-06",
+      "type": "choice",
+      "prompt": "What do some of the writer's friends think?",
+      "answer": "She is too strict.",
+      "distractors": [
+        "She should buy a laptop.",
+        "Her daughter is addicted."
+      ],
+      "explanation": "„Some friends say I'm being too strict...”"
+    },
+    {
+      "id": "b1-reading-opinion-1-07",
+      "type": "cloze",
+      "prompt": "Cyberbullying doesn't stop when a child leaves the school ___.",
+      "answer": "gate",
+      "explanation": "Brama szkoły: school gate."
+    },
+    {
+      "id": "b1-reading-opinion-1-08",
+      "type": "cloze",
+      "prompt": "I'd rather my daughter feels a bit left ___ now.",
+      "answer": "out",
+      "explanation": "Czuć się wykluczonym: feel left out."
+    },
+    {
+      "id": "b1-reading-opinion-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "addictive|uzależniający",
+        "stranger|obcy",
+        "strict|surowy",
+        "fall behind|zostać w tyle"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

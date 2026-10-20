@@ -1,0 +1,330 @@
+[
+  {
+    "id": "a2-sent-everyday-phrases-1",
+    "topicId": "a2-sent-everyday-phrases",
+    "exercises": [
+      {
+        "id": "a2-sent-everyday-phrases-1-01",
+        "type": "choice",
+        "prompt": "___ you open the window, please?",
+        "answer": "Could",
+        "distractors": [
+          "Should",
+          "Would like"
+        ],
+        "explanation": "Grzeczna prośba: Could you...?"
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-02",
+        "type": "choice",
+        "prompt": "Can I ___ your pen?",
+        "answer": "borrow",
+        "distractors": [
+          "lend",
+          "borrowing"
+        ],
+        "explanation": "Pożyczyć od kogoś: borrow."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-03",
+        "type": "cloze",
+        "prompt": "Could you ___ me the way to the station? (powiedzieć)",
+        "answer": "tell",
+        "accept": [
+          "show"
+        ],
+        "explanation": "Wskazać drogę: tell (albo show) me the way."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-04",
+        "type": "cloze",
+        "prompt": "___ I have the bill, please?",
+        "answer": "Can",
+        "accept": [
+          "Could",
+          "May"
+        ],
+        "explanation": "Prośba: Can / Could / May I have...?"
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-05",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Could you help me?|Czy mógłbyś mi pomóc?",
+          "Can I sit here?|Czy mogę tu usiąść?",
+          "Do you mind if I open the window?|Czy masz coś przeciwko, żebym otworzył okno?",
+          "Could you repeat that, please?|Czy możesz to powtórzyć?"
+        ],
+        "explanation": "Grzeczne prośby."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-06",
+        "type": "tiles",
+        "prompt": "Czy mógłbyś mówić wolniej?",
+        "answer": [
+          "Could",
+          "you",
+          "speak",
+          "more",
+          "slowly"
+        ],
+        "explanation": "Could you + speak."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-07",
+        "type": "transform",
+        "prompt": "Zamień na grzeczną prośbę z „Could you” i „please”.\nClose the door.",
+        "answer": "Could you close the door, please?",
+        "accept": [
+          "Could you close the door please?",
+          "Could you please close the door?"
+        ],
+        "explanation": "Could you..., please?"
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-08",
+        "type": "error",
+        "prompt": "Could you borrow me your car?",
+        "answer": [
+          "borrow",
+          "lend"
+        ],
+        "explanation": "Pożyczyć komuś: lend."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-09",
+        "type": "translate",
+        "prompt": "Czy możesz mi pomóc?",
+        "answer": "Can you help me?",
+        "accept": [
+          "Could you help me?"
+        ],
+        "explanation": "Prośba: Can / Could you...?"
+      },
+      {
+        "id": "a2-sent-everyday-phrases-1-10",
+        "type": "choice",
+        "prompt": "Can I use your phone? — Sure, ___ ahead.",
+        "answer": "go",
+        "distractors": [
+          "come",
+          "make"
+        ],
+        "explanation": "Proszę bardzo: Go ahead."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-everyday-phrases-2",
+    "topicId": "a2-sent-everyday-phrases",
+    "exercises": [
+      {
+        "id": "a2-sent-everyday-phrases-2-01",
+        "type": "cloze",
+        "prompt": "___ go to the beach! (Chodźmy)",
+        "answer": "Let's",
+        "explanation": "Propozycja: Let's."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-02",
+        "type": "cloze",
+        "prompt": "Why ___ we have a picnic? (Może byśmy)",
+        "answer": "don't",
+        "explanation": "Why don't we...?"
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-03",
+        "type": "cloze",
+        "prompt": "How ___ going to the cinema? (Może)",
+        "answer": "about",
+        "explanation": "How about + -ing?"
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-04",
+        "type": "choice",
+        "prompt": "Shall we ___ a taxi?",
+        "answer": "take",
+        "distractors": [
+          "taking",
+          "to take"
+        ],
+        "explanation": "Shall we + forma podstawowa."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-05",
+        "type": "choice",
+        "prompt": "What about ___ a pizza?",
+        "answer": "ordering",
+        "distractors": [
+          "order",
+          "to order"
+        ],
+        "explanation": "Po about: -ing."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-06",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Let's go!|Chodźmy!",
+          "Shall we...?|Może byśmy...?",
+          "Why don't we...?|Dlaczego by nie...?",
+          "Good idea!|Dobry pomysł!"
+        ],
+        "explanation": "Propozycje i reakcje."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-07",
+        "type": "tiles",
+        "prompt": "Może pójdziemy na spacer?",
+        "answer": [
+          "Why",
+          "don't",
+          "we",
+          "go",
+          "for",
+          "a",
+          "walk"
+        ],
+        "explanation": "Why don't we + go."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-08",
+        "type": "error",
+        "prompt": "How about go to the park?",
+        "answer": [
+          "go",
+          "going"
+        ],
+        "explanation": "How about + -ing."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-09",
+        "type": "transform",
+        "prompt": "Zaproponuj to samo, zacznij od „Let's”.\nShall we watch a film?",
+        "answer": "Let's watch a film.",
+        "explanation": "Let's + czasownik."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-2-10",
+        "type": "translate",
+        "prompt": "Dobry pomysł!",
+        "answer": "Good idea!",
+        "accept": [
+          "That is a good idea!",
+          "Great idea!"
+        ],
+        "explanation": "Good idea!"
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-everyday-phrases-3",
+    "topicId": "a2-sent-everyday-phrases",
+    "exercises": [
+      {
+        "id": "a2-sent-everyday-phrases-3-01",
+        "type": "cloze",
+        "prompt": "I'm ___ I'm late. (przepraszam)",
+        "answer": "sorry",
+        "explanation": "Przepraszam za spóźnienie: I'm sorry I'm late."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-02",
+        "type": "cloze",
+        "prompt": "Excuse ___, where's the toilet?",
+        "answer": "me",
+        "explanation": "Zaczepiając kogoś: Excuse me."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-03",
+        "type": "cloze",
+        "prompt": "Thank you very much! — You're ___.",
+        "answer": "welcome",
+        "explanation": "Odpowiedź na dziękuję: You're welcome."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-04",
+        "type": "choice",
+        "prompt": "I'm sorry I broke your cup. — Don't ___. It's OK.",
+        "answer": "worry",
+        "distractors": [
+          "sorry",
+          "mind"
+        ],
+        "explanation": "Nie martw się: Don't worry."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-05",
+        "type": "choice",
+        "prompt": "___ me, is this seat free?",
+        "answer": "Excuse",
+        "distractors": [
+          "Forgive",
+          "Apologise"
+        ],
+        "explanation": "Zaczepiając kogoś: Excuse me."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-06",
+        "type": "match",
+        "prompt": "Połącz zwroty z odpowiedziami.",
+        "answer": [
+          "Thank you.|You're welcome.",
+          "Sorry I'm late.|No problem.",
+          "Have a nice day!|You too!",
+          "How are you?|Fine, thanks."
+        ],
+        "explanation": "Typowe reakcje."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-07",
+        "type": "tiles",
+        "prompt": "Przepraszam, nie rozumiem.",
+        "answer": [
+          "Sorry",
+          "I",
+          "don't",
+          "understand"
+        ],
+        "explanation": "Sorry, I don't understand."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-08",
+        "type": "error",
+        "prompt": "Thank you! — You are welcomed.",
+        "answer": [
+          "welcomed",
+          "welcome"
+        ],
+        "explanation": "You're welcome (bez -d)."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-09",
+        "type": "translate",
+        "prompt": "Przepraszam za spóźnienie.",
+        "answer": "Sorry I am late.",
+        "accept": [
+          "Sorry for being late.",
+          "I am sorry I am late.",
+          "I am sorry for being late.",
+          "Sorry for the delay."
+        ],
+        "explanation": "Sorry I'm late albo Sorry for being late."
+      },
+      {
+        "id": "a2-sent-everyday-phrases-3-10",
+        "type": "transform",
+        "prompt": "Odpowiedz grzecznie na podziękowanie.\nThank you for your help!",
+        "answer": "You are welcome.",
+        "accept": [
+          "No problem.",
+          "Not at all.",
+          "My pleasure."
+        ],
+        "explanation": "You're welcome. Też: No problem."
+      }
+    ]
+  }
+]

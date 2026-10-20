@@ -1,0 +1,115 @@
+{
+  "id": "b2-reading-instructions-1",
+  "topicId": "b2-reading-instructions",
+  "title": "How to write a bug report developers will love",
+  "text": "Every software tester has experienced it: you report a bug, and a few days later it comes back marked \"Cannot reproduce\" or \"Works as designed\". In many cases, the problem is not the bug itself but the way it was reported. A clear, complete report saves everyone time and greatly increases the chances that the issue will actually be fixed. Here is how to write one.\n\n1. Check whether the bug has already been reported\nBefore you start writing, search the bug tracker. Duplicate reports waste time and make it harder to see how serious a problem is. If you find an existing report, add any new information to it instead of creating a new one.\n\n2. Write a short, specific title\nThe title should describe the problem, not your feelings about it. \"Login doesn't work!!!\" tells the developer almost nothing. \"Login fails with valid password when email contains capital letters\" tells them exactly where to look. A good rule is that someone should understand the bug from the title alone.\n\n3. List the steps to reproduce\nThis is the most important part of the report. Write numbered steps, starting from a clearly defined point, such as \"Open the app as a logged-out user\". Include all the data you used. Do not assume that the developer knows what you were doing – if a step seems too obvious to mention, mention it anyway.\n\n4. Describe the expected and actual results\nExplain what should have happened and what happened instead. For example: \"Expected: the user is taken to the dashboard. Actual: an error message 'Something went wrong' appears.\" If the expected behaviour is described in the requirements, add a link to them.\n\n5. Add evidence and details about the environment\nAttach screenshots, a short video or log files. State the version of the application, the operating system, the browser and the device. Many bugs appear only in one environment, so this information can save hours of investigation.\n\n6. Set the severity carefully\nSeverity describes the impact of the bug on users, not how annoying it is for you. A typo on the \"About us\" page is not critical, even if you find it irritating. Exaggerating severity makes the whole team trust your reports less. If you are unsure, discuss it with the team lead.\n\nFinally, remember that a bug report is a message to a colleague, not an accusation. Keep the tone neutral and factual. Developers who receive clear, polite reports are far more likely to fix the problem quickly – and to thank you for finding it.",
+  "exercises": [
+    {
+      "id": "b2-reading-instructions-1-01",
+      "type": "choice",
+      "prompt": "You should create a new report even if the bug has already been reported.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...add any new information to it instead of creating a new one.”"
+    },
+    {
+      "id": "b2-reading-instructions-1-02",
+      "type": "choice",
+      "prompt": "The steps to reproduce are the most important part of the report.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„This is the most important part of the report.”"
+    },
+    {
+      "id": "b2-reading-instructions-1-03",
+      "type": "choice",
+      "prompt": "Every report must include a video.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Wideo to jedna z możliwości: screenshots, a short video or log files."
+    },
+    {
+      "id": "b2-reading-instructions-1-04",
+      "type": "choice",
+      "prompt": "Bug reports should be written in English.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o języku zgłoszeń."
+    },
+    {
+      "id": "b2-reading-instructions-1-05",
+      "type": "choice",
+      "prompt": "What makes a good title?",
+      "answer": "It describes the problem specifically.",
+      "distractors": [
+        "It shows how frustrated you are.",
+        "It is as long as possible."
+      ],
+      "explanation": "„The title should describe the problem, not your feelings about it.”"
+    },
+    {
+      "id": "b2-reading-instructions-1-06",
+      "type": "choice",
+      "prompt": "Why should you include information about the environment?",
+      "answer": "Some bugs only appear in one environment.",
+      "distractors": [
+        "Developers need it to log in.",
+        "It makes the report longer."
+      ],
+      "explanation": "„Many bugs appear only in one environment.”"
+    },
+    {
+      "id": "b2-reading-instructions-1-07",
+      "type": "choice",
+      "prompt": "What does severity describe?",
+      "answer": "the impact of the bug on users",
+      "distractors": [
+        "how annoying the bug is for the tester",
+        "how long the fix will take"
+      ],
+      "explanation": "„Severity describes the impact of the bug on users.”"
+    },
+    {
+      "id": "b2-reading-instructions-1-08",
+      "type": "choice",
+      "prompt": "What should you do if you are unsure about severity?",
+      "answer": "discuss it with the team lead",
+      "distractors": [
+        "mark it as critical",
+        "leave it empty"
+      ],
+      "explanation": "„If you are unsure, discuss it with the team lead.”"
+    },
+    {
+      "id": "b2-reading-instructions-1-09",
+      "type": "cloze",
+      "prompt": "If a step seems too obvious to mention, mention it ___.",
+      "answer": "anyway",
+      "explanation": "I tak: anyway."
+    },
+    {
+      "id": "b2-reading-instructions-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "duplicate|duplikat",
+        "evidence|dowód",
+        "exaggerate|przesadzać",
+        "accusation|oskarżenie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

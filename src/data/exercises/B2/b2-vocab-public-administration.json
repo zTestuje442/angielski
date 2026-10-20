@@ -1,0 +1,357 @@
+[
+  {
+    "id": "b2-vocab-public-administration-1",
+    "topicId": "b2-vocab-public-administration",
+    "exercises": [
+      {
+        "id": "b2-vocab-public-administration-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "fill in a form|wypełnić formularz",
+          "submit an application|złożyć wniosek",
+          "renew a passport|przedłużyć paszport",
+          "pay a fine|zapłacić grzywnę"
+        ],
+        "explanation": "Formalności."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-02",
+        "type": "cloze",
+        "prompt": "Please ___ in this form and sign it at the bottom.",
+        "answer": "fill",
+        "explanation": "Fill in a form."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-03",
+        "type": "cloze",
+        "prompt": "My passport has ___. I need a new one. (stracił ważność)",
+        "answer": "expired",
+        "explanation": "Stracić ważność: expire."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-04",
+        "type": "choice",
+        "prompt": "You need to ___ for a building permit.",
+        "answer": "apply",
+        "distractors": [
+          "ask on",
+          "request for"
+        ],
+        "explanation": "Apply for a permit."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-05",
+        "type": "choice",
+        "prompt": "Applications must be submitted ___ 14 days.",
+        "answer": "within",
+        "distractors": [
+          "during",
+          "inside of"
+        ],
+        "explanation": "W ciągu: within."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-06",
+        "type": "error",
+        "prompt": "I need to apply on a new ID card.",
+        "answer": [
+          "on",
+          "for"
+        ],
+        "explanation": "Apply for."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-07",
+        "type": "tiles",
+        "prompt": "Muszę zameldować się w urzędzie.",
+        "answer": [
+          "I",
+          "have",
+          "to",
+          "register",
+          "at",
+          "the",
+          "town",
+          "hall"
+        ],
+        "distractors": [
+          "sign",
+          "on"
+        ],
+        "explanation": "Register."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-08",
+        "type": "translate",
+        "prompt": "Ile wynosi opłata?",
+        "answer": "How much is the fee?",
+        "accept": [
+          "What is the fee?",
+          "How much is the charge?",
+          "What's the fee?"
+        ],
+        "explanation": "Opłata za usługę: fee."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-09",
+        "type": "choice",
+        "prompt": "A person who works for a government department is a ___.",
+        "answer": "civil servant",
+        "distractors": [
+          "state officer",
+          "civil worker"
+        ],
+        "explanation": "Urzędnik państwowy: civil servant."
+      },
+      {
+        "id": "b2-vocab-public-administration-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The form”.\nYou must sign the form.",
+        "answer": "The form must be signed.",
+        "explanation": "Must be signed."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-public-administration-2",
+    "topicId": "b2-vocab-public-administration",
+    "exercises": [
+      {
+        "id": "b2-vocab-public-administration-2-01",
+        "type": "match",
+        "prompt": "Połącz instytucje z tłumaczeniem.",
+        "answer": [
+          "tax office|urząd skarbowy",
+          "registry office|urząd stanu cywilnego",
+          "town hall|ratusz",
+          "ministry|ministerstwo"
+        ],
+        "explanation": "Instytucje."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-02",
+        "type": "cloze",
+        "prompt": "Is this ID card still ___? (ważny)",
+        "answer": "valid",
+        "explanation": "Ważny: valid."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-03",
+        "type": "cloze",
+        "prompt": "He got a ___ for parking in the wrong place. (mandat)",
+        "answer": "fine",
+        "accept": [
+          "ticket",
+          "parking ticket"
+        ],
+        "explanation": "Mandat: fine."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-04",
+        "type": "choice",
+        "prompt": "Getting a permit takes months because of all the red ___.",
+        "answer": "tape",
+        "distractors": [
+          "line",
+          "paper"
+        ],
+        "explanation": "Biurokracja: red tape."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-05",
+        "type": "choice",
+        "prompt": "All documents must be prepared in accordance ___ the regulations.",
+        "answer": "with",
+        "distractors": [
+          "to",
+          "of"
+        ],
+        "explanation": "In accordance with."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-06",
+        "type": "error",
+        "prompt": "The deadline for submiting tax returns is 30 April.",
+        "answer": [
+          "submiting",
+          "submitting"
+        ],
+        "explanation": "Pisownia: submitting."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-07",
+        "type": "error",
+        "prompt": "He works as a civil servent at the Ministry of Finance.",
+        "answer": [
+          "servent",
+          "servant"
+        ],
+        "explanation": "Pisownia: civil servant."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-08",
+        "type": "tiles",
+        "prompt": "Wniosek został odrzucony.",
+        "answer": [
+          "The",
+          "application",
+          "was",
+          "rejected"
+        ],
+        "distractors": [
+          "refused",
+          "is"
+        ],
+        "explanation": "Reject."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-09",
+        "type": "translate",
+        "prompt": "Proszę przynieść dowód osobisty.",
+        "answer": "Please bring your ID card.",
+        "accept": [
+          "Please bring your identity card.",
+          "Please bring your ID.",
+          "Please bring an ID card.",
+          "Please bring your identification."
+        ],
+        "explanation": "ID card."
+      },
+      {
+        "id": "b2-vocab-public-administration-2-10",
+        "type": "choice",
+        "prompt": "A formal process in which companies compete for a public contract is a ___.",
+        "answer": "tender",
+        "distractors": [
+          "contest",
+          "bet"
+        ],
+        "explanation": "Przetarg: tender."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-public-administration-3",
+    "topicId": "b2-vocab-public-administration",
+    "exercises": [
+      {
+        "id": "b2-vocab-public-administration-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "requirements|wymagania",
+          "regulations|przepisy",
+          "local authority|władze lokalne",
+          "public consultation|konsultacje społeczne"
+        ],
+        "explanation": "Słownictwo urzędowe."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-02",
+        "type": "cloze",
+        "prompt": "The council has ___ a new budget for road repairs. (zatwierdziła)",
+        "answer": "approved",
+        "accept": [
+          "accepted",
+          "adopted",
+          "passed"
+        ],
+        "explanation": "Zatwierdzić: approve."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-03",
+        "type": "cloze",
+        "prompt": "You will receive a decision ___ 30 days of submitting your application.",
+        "answer": "within",
+        "explanation": "Within ... of."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-04",
+        "type": "choice",
+        "prompt": "The office is responsible ___ issuing driving licences.",
+        "answer": "for",
+        "distractors": [
+          "of",
+          "about"
+        ],
+        "explanation": "Responsible for."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-05",
+        "type": "choice",
+        "prompt": "Which document proves where you live?",
+        "answer": "proof of address",
+        "distractors": [
+          "birth certificate",
+          "driving licence"
+        ],
+        "explanation": "Potwierdzenie adresu: proof of address."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-06",
+        "type": "error",
+        "prompt": "I need to extend my driving licence – it expires next month.",
+        "answer": [
+          "extend",
+          "renew"
+        ],
+        "explanation": "Odnowić dokument: renew."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-07",
+        "type": "error",
+        "prompt": "Your application has been excepted.",
+        "answer": [
+          "excepted",
+          "accepted"
+        ],
+        "explanation": "Przyjęty: accepted (except = oprócz)."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-08",
+        "type": "tiles",
+        "prompt": "Formularz trzeba złożyć do końca miesiąca.",
+        "answer": [
+          "The",
+          "form",
+          "must",
+          "be",
+          "submitted",
+          "by",
+          "the",
+          "end",
+          "of",
+          "the",
+          "month"
+        ],
+        "distractors": [
+          "until",
+          "be submit"
+        ],
+        "explanation": "Submit by."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-09",
+        "type": "translate",
+        "prompt": "Muszę przedłużyć paszport.",
+        "answer": "I need to renew my passport.",
+        "accept": [
+          "I have to renew my passport.",
+          "I must renew my passport."
+        ],
+        "explanation": "Przedłużyć dokument: renew."
+      },
+      {
+        "id": "b2-vocab-public-administration-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The decision”.\nThe council will announce the decision next week.",
+        "answer": "The decision will be announced next week.",
+        "accept": [
+          "The decision will be announced by the council next week."
+        ],
+        "explanation": "Will be + III forma."
+      }
+    ]
+  }
+]

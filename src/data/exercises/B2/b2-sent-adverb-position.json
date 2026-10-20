@@ -1,0 +1,335 @@
+[
+  {
+    "id": "b2-sent-adverb-position-1",
+    "topicId": "b2-sent-adverb-position",
+    "exercises": [
+      {
+        "id": "b2-sent-adverb-position-1-01",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "She always gets up early.",
+        "distractors": [
+          "She gets always up early.",
+          "Always she gets up early."
+        ],
+        "explanation": "Przed czasownikiem głównym."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "He is never late.",
+        "distractors": [
+          "He never is late.",
+          "He is late never."
+        ],
+        "explanation": "Po be."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-03",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "I have already finished.",
+        "distractors": [
+          "I already have finished it yet.",
+          "I have finished already it."
+        ],
+        "explanation": "Po pierwszym czasowniku posiłkowym."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-04",
+        "type": "cloze",
+        "prompt": "I can ___ remember his name. (nigdy)",
+        "answer": "never",
+        "explanation": "Po modalnym: can never."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-05",
+        "type": "cloze",
+        "prompt": "Have you finished your report ___? (już – w pytaniu)",
+        "answer": "yet",
+        "explanation": "Yet na końcu pytania."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-06",
+        "type": "error",
+        "prompt": "Have you finished it already? No, not still.",
+        "answer": [
+          "still",
+          "yet"
+        ],
+        "explanation": "W krótkim przeczeniu: not yet."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-07",
+        "type": "tiles",
+        "prompt": "Ona zawsze pije kawę rano.",
+        "answer": [
+          "She",
+          "always",
+          "drinks",
+          "coffee",
+          "in",
+          "the",
+          "morning"
+        ],
+        "distractors": [
+          "is",
+          "drink"
+        ],
+        "explanation": "Przed czasownikiem głównym."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-08",
+        "type": "translate",
+        "prompt": "Nigdy nie byłem w Japonii.",
+        "answer": "I have never been to Japan.",
+        "accept": [
+          "I've never been to Japan."
+        ],
+        "explanation": "Po czasowniku posiłkowym."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-09",
+        "type": "match",
+        "prompt": "Połącz przysłówki ze znaczeniem.",
+        "answer": [
+          "already|już (w twierdzeniach)",
+          "yet|już / jeszcze (w pytaniach i przeczeniach)",
+          "still|wciąż",
+          "just|właśnie"
+        ],
+        "explanation": "Already, yet, still, just."
+      },
+      {
+        "id": "b2-sent-adverb-position-1-10",
+        "type": "transform",
+        "prompt": "Wstaw „usually” we właściwe miejsce.\nWe go to the gym on Mondays.",
+        "answer": "We usually go to the gym on Mondays.",
+        "explanation": "Przed czasownikiem głównym."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-adverb-position-2",
+    "topicId": "b2-sent-adverb-position",
+    "exercises": [
+      {
+        "id": "b2-sent-adverb-position-2-01",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Fortunately, nobody was hurt.",
+        "distractors": [
+          "Nobody fortunately, was hurt.",
+          "Nobody was, fortunately hurt."
+        ],
+        "explanation": "Przysłówek zdaniowy na początku."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-02",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "He still lives with his parents.",
+        "distractors": [
+          "He lives still with his parents.",
+          "Still he lives with his parents yet."
+        ],
+        "explanation": "Still przed czasownikiem."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-03",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "She drove carefully along the road.",
+        "distractors": [
+          "She drove along carefully the road.",
+          "She carefully drove along carefully."
+        ],
+        "explanation": "Sposób przy czasowniku."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-04",
+        "type": "cloze",
+        "prompt": "We have ___ arrived. (właśnie)",
+        "answer": "just",
+        "explanation": "Po have: have just."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-05",
+        "type": "cloze",
+        "prompt": "They will ___ be here soon. (pewnie)",
+        "answer": "probably",
+        "explanation": "Po will: will probably."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-06",
+        "type": "error",
+        "prompt": "I yet haven't seen that film.",
+        "answer": [
+          "yet",
+          "still"
+        ],
+        "explanation": "Przed haven't: still (I still haven't seen it)."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-07",
+        "type": "tiles",
+        "prompt": "Mój brat też gra na gitarze.",
+        "answer": [
+          "My",
+          "brother",
+          "also",
+          "plays",
+          "the",
+          "guitar"
+        ],
+        "distractors": [
+          "as",
+          "play"
+        ],
+        "explanation": "Also przed czasownikiem głównym."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-08",
+        "type": "translate",
+        "prompt": "Na szczęście zdążyliśmy na pociąg.",
+        "answer": "Fortunately, we caught the train.",
+        "accept": [
+          "Luckily, we caught the train.",
+          "Fortunately we caught the train.",
+          "Luckily we caught the train.",
+          "Fortunately, we made it to the train.",
+          "Fortunately, we made the train.",
+          "Luckily, we made the train."
+        ],
+        "explanation": "Przysłówek zdaniowy na początku."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-09",
+        "type": "transform",
+        "prompt": "Wstaw „often” we właściwe miejsce.\nShe has helped me.",
+        "answer": "She has often helped me.",
+        "explanation": "Po pierwszym czasowniku posiłkowym."
+      },
+      {
+        "id": "b2-sent-adverb-position-2-10",
+        "type": "transform",
+        "prompt": "Wstaw „well” we właściwe miejsce.\nHe plays the piano.",
+        "answer": "He plays the piano well.",
+        "explanation": "Sposób po dopełnieniu."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-adverb-position-3",
+    "topicId": "b2-sent-adverb-position",
+    "exercises": [
+      {
+        "id": "b2-sent-adverb-position-3-01",
+        "type": "choice",
+        "prompt": "\"Only I saw Tom.\" means:",
+        "answer": "Nobody else saw Tom.",
+        "distractors": [
+          "I saw nobody except Tom.",
+          "I saw Tom only once."
+        ],
+        "explanation": "Only przy słowie, którego dotyczy."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-02",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "You can always call me.",
+        "distractors": [
+          "You always can call me.",
+          "You can call always me."
+        ],
+        "explanation": "Po modalnym."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-03",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Even my grandma uses a smartphone.",
+        "distractors": [
+          "My grandma uses even a smartphone even.",
+          "My grandma even a smartphone uses."
+        ],
+        "explanation": "Even przed słowem, którego dotyczy."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-04",
+        "type": "cloze",
+        "prompt": "She ___ looks tired these days. (zawsze)",
+        "answer": "always",
+        "explanation": "Przed czasownikiem głównym."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-05",
+        "type": "cloze",
+        "prompt": "The film was ___ boring that I fell asleep. (tak)",
+        "answer": "so",
+        "explanation": "So + przymiotnik + that."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-06",
+        "type": "error",
+        "prompt": "He has yet not called me.",
+        "answer": [
+          "yet",
+          "still"
+        ],
+        "explanation": "Przed przeczeniem: still (He has still not called)."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-07",
+        "type": "tiles",
+        "prompt": "Prawdopodobnie przyjdę późno.",
+        "answer": [
+          "I",
+          "will",
+          "probably",
+          "come",
+          "late"
+        ],
+        "distractors": [
+          "probable",
+          "am"
+        ],
+        "explanation": "Po will: will probably."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-08",
+        "type": "translate",
+        "prompt": "Jeszcze nie skończyłem.",
+        "answer": "I have not finished yet.",
+        "accept": [
+          "I haven't finished yet.",
+          "I have not finished it yet.",
+          "I haven't finished it yet.",
+          "I still haven't finished."
+        ],
+        "explanation": "Yet na końcu przeczenia."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-09",
+        "type": "match",
+        "prompt": "Połącz przysłówki z tłumaczeniem.",
+        "answer": [
+          "Fortunately|Na szczęście",
+          "Apparently|Podobno",
+          "Obviously|Oczywiście",
+          "Surprisingly|Co zaskakujące"
+        ],
+        "explanation": "Przysłówki zdaniowe."
+      },
+      {
+        "id": "b2-sent-adverb-position-3-10",
+        "type": "transform",
+        "prompt": "Wstaw „just” we właściwe miejsce.\nThe meeting has finished.",
+        "answer": "The meeting has just finished.",
+        "explanation": "Po have/has."
+      }
+    ]
+  }
+]

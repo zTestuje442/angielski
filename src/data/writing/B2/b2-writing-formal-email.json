@@ -1,0 +1,19 @@
+{
+  "topicId": "b2-writing-formal-email",
+  "task": "Szkoła językowa w Londynie reklamuje **dwutygodniowy kurs angielskiego biznesowego** latem. Napisz **e-mail formalny** do koordynatorki kursu, **Ms Clark**:\n\n- przedstaw się i napisz, dlaczego interesuje cię kurs,\n- zapytaj o termin, cenę i poziom grup,\n- zapytaj, czy szkoła pomaga w znalezieniu zakwaterowania,\n- poproś o odpowiedź.\n\nPamiętaj o stylu formalnym: bez skrótów i potocznych słów.",
+  "words": [
+    140,
+    190
+  ],
+  "model": "Dear Ms Clark,\n\nI am writing to enquire about the two-week Business English course advertised on your website.\n\nI work as a software tester for an international company in Warsaw, and I use English every day in meetings and emails. However, I would like to improve my presentation and negotiation skills, which is why your course seems ideal for me.\n\nI would be grateful if you could provide some further information. Firstly, could you please let me know the exact dates of the course in July and how much it costs? Secondly, I would like to know how students are placed in groups. My level is B2, so I would prefer a group of a similar level.\n\nFurthermore, I would like to ask whether your school can help students find accommodation. If possible, I would prefer to stay with a host family.\n\nThank you in advance for your help. I look forward to hearing from you.\n\nYours sincerely,\nAnna Kowalska",
+  "checklist": [
+    "Zaczynam od „Dear Ms Clark,” i kończę „Yours sincerely,” z imieniem i nazwiskiem.",
+    "Pierwsze zdanie mówi o celu e-maila (I am writing to enquire about...).",
+    "Przedstawiam się i wyjaśniam, dlaczego interesuje mnie kurs.",
+    "Pytam o termin, cenę, poziom grup i zakwaterowanie.",
+    "Używam formalnych próśb (I would be grateful if you could... / Could you please let me know...).",
+    "Nie używam skrótów (I am, do not) ani potocznych słów.",
+    "Kończę formułą „I look forward to hearing from you.”",
+    "Tekst ma 140–190 słów."
+  ]
+}

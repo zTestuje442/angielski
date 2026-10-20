@@ -1,0 +1,336 @@
+[
+  {
+    "id": "a2-vocab-shopping-1",
+    "topicId": "a2-vocab-shopping",
+    "exercises": [
+      {
+        "id": "a2-vocab-shopping-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "shop assistant|sprzedawca",
+          "customer|klient",
+          "receipt|paragon",
+          "cash|gotówka"
+        ],
+        "explanation": "Słowa ze sklepu."
+      },
+      {
+        "id": "a2-vocab-shopping-1-02",
+        "type": "choice",
+        "prompt": "How much ___ these jeans?",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "does"
+        ],
+        "explanation": "Jeans to liczba mnoga: are."
+      },
+      {
+        "id": "a2-vocab-shopping-1-03",
+        "type": "choice",
+        "prompt": "Can I pay ___ card?",
+        "answer": "by",
+        "distractors": [
+          "with the",
+          "on"
+        ],
+        "explanation": "Płacić kartą: pay by card."
+      },
+      {
+        "id": "a2-vocab-shopping-1-04",
+        "type": "cloze",
+        "prompt": "Can I try it ___? (przymierzyć)",
+        "answer": "on",
+        "explanation": "Przymierzyć: try on."
+      },
+      {
+        "id": "a2-vocab-shopping-1-05",
+        "type": "cloze",
+        "prompt": "It's too expensive. Have you got anything ___? (tańszego)",
+        "answer": "cheaper",
+        "explanation": "Tańszy: cheaper."
+      },
+      {
+        "id": "a2-vocab-shopping-1-06",
+        "type": "error",
+        "prompt": "How much costs this T-shirt?",
+        "answer": [
+          "costs",
+          "is"
+        ],
+        "explanation": "Pytamy: How much is...? albo How much does it cost?"
+      },
+      {
+        "id": "a2-vocab-shopping-1-07",
+        "type": "tiles",
+        "prompt": "Szukam czarnej kurtki.",
+        "answer": [
+          "I'm",
+          "looking",
+          "for",
+          "a",
+          "black",
+          "jacket"
+        ],
+        "explanation": "Szukać: look for."
+      },
+      {
+        "id": "a2-vocab-shopping-1-08",
+        "type": "translate",
+        "prompt": "Czy mogę zapłacić kartą?",
+        "answer": "Can I pay by card?",
+        "accept": [
+          "Can I pay with a card?",
+          "Can I pay with my card?",
+          "Could I pay by card?"
+        ],
+        "explanation": "Kartą: by card."
+      },
+      {
+        "id": "a2-vocab-shopping-1-09",
+        "type": "transform",
+        "prompt": "Zamień na grzeczną prośbę, zacznij od „Could I”.\nGive me a bag.",
+        "answer": "Could I have a bag, please?",
+        "accept": [
+          "Could I have a bag?",
+          "Could I have a bag please?"
+        ],
+        "explanation": "Could I have..., please?"
+      },
+      {
+        "id": "a2-vocab-shopping-1-10",
+        "type": "choice",
+        "prompt": "This shirt is on ___ – 50% off!",
+        "answer": "sale",
+        "distractors": [
+          "sell",
+          "sold"
+        ],
+        "explanation": "Na wyprzedaży: on sale."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-shopping-2",
+    "topicId": "a2-vocab-shopping",
+    "exercises": [
+      {
+        "id": "a2-vocab-shopping-2-01",
+        "type": "match",
+        "prompt": "Połącz sklepy z tłumaczeniem.",
+        "answer": [
+          "baker's|piekarnia",
+          "butcher's|sklep mięsny",
+          "newsagent's|kiosk z gazetami",
+          "shoe shop|sklep obuwniczy"
+        ],
+        "explanation": "Nazwy sklepów."
+      },
+      {
+        "id": "a2-vocab-shopping-2-02",
+        "type": "choice",
+        "prompt": "You can buy bread at the ___.",
+        "answer": "baker's",
+        "distractors": [
+          "butcher's",
+          "chemist's"
+        ],
+        "explanation": "Chleb kupujemy w piekarni."
+      },
+      {
+        "id": "a2-vocab-shopping-2-03",
+        "type": "choice",
+        "prompt": "I'd like to ___ this jumper. It's too small.",
+        "answer": "return",
+        "distractors": [
+          "give",
+          "bring"
+        ],
+        "explanation": "Zwrócić towar: return."
+      },
+      {
+        "id": "a2-vocab-shopping-2-04",
+        "type": "cloze",
+        "prompt": "The shop ___ at 9 a.m. (otwiera się)",
+        "answer": "opens",
+        "explanation": "Sklep otwiera się: opens."
+      },
+      {
+        "id": "a2-vocab-shopping-2-05",
+        "type": "cloze",
+        "prompt": "Excuse me, where are the ___ rooms? (przymierzalnie)",
+        "answer": "changing",
+        "accept": [
+          "fitting"
+        ],
+        "explanation": "Przymierzalnia: changing room."
+      },
+      {
+        "id": "a2-vocab-shopping-2-06",
+        "type": "error",
+        "prompt": "Can I have the receive, please?",
+        "answer": [
+          "receive",
+          "receipt"
+        ],
+        "explanation": "Paragon: receipt."
+      },
+      {
+        "id": "a2-vocab-shopping-2-07",
+        "type": "tiles",
+        "prompt": "Czy macie to w mniejszym rozmiarze?",
+        "answer": [
+          "Have",
+          "you",
+          "got",
+          "this",
+          "in",
+          "a",
+          "smaller",
+          "size"
+        ],
+        "explanation": "W rozmiarze: in a size."
+      },
+      {
+        "id": "a2-vocab-shopping-2-08",
+        "type": "translate",
+        "prompt": "Ile to kosztuje?",
+        "answer": "How much is it?",
+        "accept": [
+          "How much does it cost?",
+          "How much is this?",
+          "How much does this cost?"
+        ],
+        "explanation": "How much is...?"
+      },
+      {
+        "id": "a2-vocab-shopping-2-09",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nloaf",
+        "answer": "loaves",
+        "explanation": "Loaf – loaves (-f → -ves)."
+      },
+      {
+        "id": "a2-vocab-shopping-2-10",
+        "type": "choice",
+        "prompt": "Do you want to pay in ___ or by card?",
+        "answer": "cash",
+        "distractors": [
+          "money",
+          "coins"
+        ],
+        "explanation": "Gotówką: in cash."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-shopping-3",
+    "topicId": "a2-vocab-shopping",
+    "exercises": [
+      {
+        "id": "a2-vocab-shopping-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "order|zamówić",
+          "deliver|dostarczyć",
+          "basket|koszyk",
+          "discount|zniżka"
+        ],
+        "explanation": "Zakupy w sieci."
+      },
+      {
+        "id": "a2-vocab-shopping-3-02",
+        "type": "cloze",
+        "prompt": "I ___ a new phone online last week. (zamówiłem)",
+        "answer": "ordered",
+        "explanation": "Order + -ed."
+      },
+      {
+        "id": "a2-vocab-shopping-3-03",
+        "type": "cloze",
+        "prompt": "The parcel will be ___ tomorrow. (dostarczona)",
+        "answer": "delivered",
+        "explanation": "Deliver + -ed."
+      },
+      {
+        "id": "a2-vocab-shopping-3-04",
+        "type": "choice",
+        "prompt": "Can I get a ___? I'm a student.",
+        "answer": "discount",
+        "distractors": [
+          "discharge",
+          "reduce"
+        ],
+        "explanation": "Zniżka: discount."
+      },
+      {
+        "id": "a2-vocab-shopping-3-05",
+        "type": "choice",
+        "prompt": "These shoes don't ___ me. They're too big.",
+        "answer": "fit",
+        "distractors": [
+          "suit",
+          "match"
+        ],
+        "explanation": "Rozmiar: fit."
+      },
+      {
+        "id": "a2-vocab-shopping-3-06",
+        "type": "error",
+        "prompt": "I'd like to buy a jar of bread.",
+        "answer": [
+          "jar",
+          "loaf"
+        ],
+        "explanation": "Bochenek chleba: a loaf of bread."
+      },
+      {
+        "id": "a2-vocab-shopping-3-07",
+        "type": "error",
+        "prompt": "Red really fits you.",
+        "answer": [
+          "fits",
+          "suits"
+        ],
+        "explanation": "Dobrze w czymś wyglądać: suit."
+      },
+      {
+        "id": "a2-vocab-shopping-3-08",
+        "type": "tiles",
+        "prompt": "Chciałbym to zwrócić.",
+        "answer": [
+          "I'd",
+          "like",
+          "to",
+          "return",
+          "this"
+        ],
+        "explanation": "Zwrócić: return."
+      },
+      {
+        "id": "a2-vocab-shopping-3-09",
+        "type": "translate",
+        "prompt": "To jest za drogie.",
+        "answer": "It is too expensive.",
+        "accept": [
+          "This is too expensive.",
+          "That is too expensive."
+        ],
+        "explanation": "Za drogie: too expensive."
+      },
+      {
+        "id": "a2-vocab-shopping-3-10",
+        "type": "choice",
+        "prompt": "A ___ of milk, please.",
+        "answer": "carton",
+        "distractors": [
+          "slice",
+          "loaf"
+        ],
+        "explanation": "Karton mleka: a carton of milk."
+      }
+    ]
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "id": "b2-vocab-confusing-words-1",
+    "topicId": "b2-vocab-confusing-words",
+    "exercises": [
+      {
+        "id": "b2-vocab-confusing-words-1-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "borrow|pożyczyć od kogoś",
+          "lend|pożyczyć komuś",
+          "steal|ukraść (rzecz)",
+          "rob|okraść (osobę, bank)"
+        ],
+        "explanation": "Mylone czasowniki."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-02",
+        "type": "choice",
+        "prompt": "Can you ___ me some money?",
+        "answer": "lend",
+        "distractors": [
+          "borrow",
+          "rent"
+        ],
+        "explanation": "Pożyczyć komuś: lend."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-03",
+        "type": "choice",
+        "prompt": "She ___ me a funny story.",
+        "answer": "told",
+        "distractors": [
+          "said",
+          "spoke"
+        ],
+        "explanation": "Tell a story."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-04",
+        "type": "cloze",
+        "prompt": "I've ___ a mistake in my essay. (popełniłem)",
+        "answer": "made",
+        "explanation": "Make a mistake."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-05",
+        "type": "cloze",
+        "prompt": "Can you ___ me a favour?",
+        "answer": "do",
+        "explanation": "Do somebody a favour."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-06",
+        "type": "error",
+        "prompt": "He said me that he was busy.",
+        "answer": [
+          "said",
+          "told"
+        ],
+        "explanation": "Tell somebody."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-07",
+        "type": "tiles",
+        "prompt": "Czy mogę pożyczyć twój samochód?",
+        "answer": [
+          "Can",
+          "I",
+          "borrow",
+          "your",
+          "car"
+        ],
+        "distractors": [
+          "lend",
+          "lent"
+        ],
+        "explanation": "Borrow – od kogoś."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-08",
+        "type": "translate",
+        "prompt": "Muszę zrobić zakupy.",
+        "answer": "I need to do the shopping.",
+        "accept": [
+          "I have to do the shopping.",
+          "I must do the shopping.",
+          "I need to go shopping.",
+          "I have to go shopping."
+        ],
+        "explanation": "Do the shopping."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-09",
+        "type": "choice",
+        "prompt": "I need to ___ an important decision.",
+        "answer": "make",
+        "distractors": [
+          "do",
+          "take up"
+        ],
+        "explanation": "Make a decision."
+      },
+      {
+        "id": "b2-vocab-confusing-words-1-10",
+        "type": "transform",
+        "prompt": "Zamień „borrow” na „lend”, zacznij od „Can you lend”.\nCan I borrow your umbrella?",
+        "answer": "Can you lend me your umbrella?",
+        "accept": [
+          "Can you lend me your umbrella, please?"
+        ],
+        "explanation": "Lend somebody something."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-confusing-words-2",
+    "topicId": "b2-vocab-confusing-words",
+    "exercises": [
+      {
+        "id": "b2-vocab-confusing-words-2-01",
+        "type": "match",
+        "prompt": "Połącz czasownik z rzeczownikami.",
+        "answer": [
+          "make|a cake, a mistake, a phone call",
+          "do|homework, the shopping, research"
+        ],
+        "explanation": "Make czy do."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-02",
+        "type": "choice",
+        "prompt": "Prices ___ by 5% last year.",
+        "answer": "rose",
+        "distractors": [
+          "raised",
+          "arose up"
+        ],
+        "explanation": "Rosnąć samo: rise."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-03",
+        "type": "choice",
+        "prompt": "The thieves ___ a bank in the city centre.",
+        "answer": "robbed",
+        "distractors": [
+          "stole",
+          "thieved"
+        ],
+        "explanation": "Okraść bank: rob."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-04",
+        "type": "cloze",
+        "prompt": "Don't ___ your keys again! (zgub)",
+        "answer": "lose",
+        "explanation": "Zgubić: lose."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-05",
+        "type": "cloze",
+        "prompt": "These trousers are too ___. I need a belt. (luźne)",
+        "answer": "loose",
+        "explanation": "Luźny: loose."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-06",
+        "type": "error",
+        "prompt": "Someone robbed my bike!",
+        "answer": [
+          "robbed",
+          "stole"
+        ],
+        "explanation": "Ukraść rzecz: steal."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-07",
+        "type": "error",
+        "prompt": "The weather can effect your mood.",
+        "answer": [
+          "effect",
+          "affect"
+        ],
+        "explanation": "Czasownik: affect."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-08",
+        "type": "tiles",
+        "prompt": "Przypomnij mi, żebym kupił mleko.",
+        "answer": [
+          "Remind",
+          "me",
+          "to",
+          "buy",
+          "milk"
+        ],
+        "distractors": [
+          "Remember",
+          "buying"
+        ],
+        "explanation": "Remind – przypomnieć komuś."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-09",
+        "type": "translate",
+        "prompt": "Ona dużo zarabia.",
+        "answer": "She earns a lot.",
+        "accept": [
+          "She earns a lot of money.",
+          "She makes a lot of money."
+        ],
+        "explanation": "Zarabiać: earn."
+      },
+      {
+        "id": "b2-vocab-confusing-words-2-10",
+        "type": "choice",
+        "prompt": "He ___ the lottery last year.",
+        "answer": "won",
+        "distractors": [
+          "earned",
+          "gained up"
+        ],
+        "explanation": "Wygrać: win."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-confusing-words-3",
+    "topicId": "b2-vocab-confusing-words",
+    "exercises": [
+      {
+        "id": "b2-vocab-confusing-words-3-01",
+        "type": "match",
+        "prompt": "Połącz czasownik z rzeczownikami.",
+        "answer": [
+          "say|hello, sorry, goodbye",
+          "tell|the truth, a lie, a joke"
+        ],
+        "explanation": "Say czy tell."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-02",
+        "type": "cloze",
+        "prompt": "Please ___ your hand if you have a question. (podnieś)",
+        "answer": "raise",
+        "accept": [
+          "put up"
+        ],
+        "explanation": "Podnieść coś: raise."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-03",
+        "type": "cloze",
+        "prompt": "Could you ___ me the time, please?",
+        "answer": "tell",
+        "explanation": "Tell the time."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-04",
+        "type": "choice",
+        "prompt": "We are ___ good progress with the project.",
+        "answer": "making",
+        "distractors": [
+          "doing",
+          "taking"
+        ],
+        "explanation": "Make progress."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-05",
+        "type": "choice",
+        "prompt": "Can you ___ me your notes from the lecture?",
+        "answer": "lend",
+        "distractors": [
+          "borrow",
+          "loan from"
+        ],
+        "explanation": "Lend somebody something."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-06",
+        "type": "error",
+        "prompt": "I always do my best and I do a lot of effort.",
+        "answer": [
+          "do",
+          "make"
+        ],
+        "explanation": "Make an effort."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-07",
+        "type": "error",
+        "prompt": "Don't forget to remember me about the meeting.",
+        "answer": [
+          "remember",
+          "remind"
+        ],
+        "explanation": "Przypomnieć komuś: remind."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-08",
+        "type": "tiles",
+        "prompt": "Zrobiła dużo hałasu.",
+        "answer": [
+          "She",
+          "made",
+          "a",
+          "lot",
+          "of",
+          "noise"
+        ],
+        "distractors": [
+          "did",
+          "much"
+        ],
+        "explanation": "Make noise."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-09",
+        "type": "translate",
+        "prompt": "Pożyczyłem od niej książkę.",
+        "answer": "I borrowed a book from her.",
+        "accept": [
+          "I borrowed the book from her.",
+          "She lent me a book.",
+          "She lent me the book."
+        ],
+        "explanation": "Borrow from."
+      },
+      {
+        "id": "b2-vocab-confusing-words-3-10",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną z „tell”, zacznij od „She told me”.\nShe said to me, \"I'm leaving.\"",
+        "answer": "She told me that she was leaving.",
+        "accept": [
+          "She told me she was leaving."
+        ],
+        "explanation": "Tell + osoba."
+      }
+    ]
+  }
+]

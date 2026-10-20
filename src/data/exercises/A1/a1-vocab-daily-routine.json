@@ -1,0 +1,333 @@
+[
+  {
+    "id": "a1-vocab-daily-routine-1",
+    "topicId": "a1-vocab-daily-routine",
+    "exercises": [
+      {
+        "id": "a1-vocab-daily-routine-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "get up|wstawać",
+          "have a shower|brać prysznic",
+          "go to bed|iść spać",
+          "have breakfast|jeść śniadanie"
+        ],
+        "explanation": "Podstawowe czynności dnia."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-02",
+        "type": "choice",
+        "prompt": "I ___ at 7 o'clock and get up at 7:10.",
+        "answer": "wake up",
+        "distractors": [
+          "go to bed",
+          "fall asleep"
+        ],
+        "explanation": "Najpierw budzimy się: wake up."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-03",
+        "type": "choice",
+        "prompt": "I ___ my teeth twice a day.",
+        "answer": "brush",
+        "distractors": [
+          "wash up",
+          "comb"
+        ],
+        "explanation": "Zęby myjemy szczoteczką: brush your teeth."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-04",
+        "type": "cloze",
+        "prompt": "I ___ dressed after breakfast.",
+        "answer": "get",
+        "explanation": "Ubrać się: get dressed."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-05",
+        "type": "cloze",
+        "prompt": "I ___ home from work at six.",
+        "answer": "get",
+        "accept": [
+          "come"
+        ],
+        "explanation": "Wrócić do domu: get home."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-06",
+        "type": "error",
+        "prompt": "I make my homework in the evening.",
+        "answer": [
+          "make",
+          "do"
+        ],
+        "explanation": "Homework łączy się z do."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-07",
+        "type": "tiles",
+        "prompt": "Wstaję o siódmej.",
+        "answer": [
+          "I",
+          "get",
+          "up",
+          "at",
+          "seven"
+        ],
+        "explanation": "Wstawać: get up."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-08",
+        "type": "translate",
+        "prompt": "Chodzę spać o jedenastej.",
+        "answer": "I go to bed at eleven.",
+        "accept": [
+          "I go to bed at 11.",
+          "I go to sleep at eleven.",
+          "I go to sleep at 11."
+        ],
+        "explanation": "Iść spać: go to bed."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-09",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „she”.\nI have a shower.",
+        "answer": "She has a shower.",
+        "explanation": "She + has."
+      },
+      {
+        "id": "a1-vocab-daily-routine-1-10",
+        "type": "choice",
+        "prompt": "After work I ___ dinner.",
+        "answer": "cook",
+        "distractors": [
+          "wake",
+          "brush"
+        ],
+        "explanation": "Obiad gotujemy: cook dinner."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-daily-routine-2",
+    "topicId": "a1-vocab-daily-routine",
+    "exercises": [
+      {
+        "id": "a1-vocab-daily-routine-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "go to work|iść do pracy",
+          "have lunch|jeść obiad",
+          "watch TV|oglądać telewizję",
+          "do the shopping|robić zakupy"
+        ],
+        "explanation": "Czynności w ciągu dnia."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-02",
+        "type": "cloze",
+        "prompt": "On Saturdays I ___ the shopping.",
+        "answer": "do",
+        "explanation": "Robić zakupy: do the shopping."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-03",
+        "type": "cloze",
+        "prompt": "I ___ the dishes after dinner. (zmywać)",
+        "answer": "wash",
+        "accept": [
+          "do"
+        ],
+        "explanation": "Zmywać: wash the dishes (albo do the dishes)."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-04",
+        "type": "choice",
+        "prompt": "I ___ a bus to work.",
+        "answer": "take",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Jechać autobusem: take a bus."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-05",
+        "type": "choice",
+        "prompt": "My dad ___ the dog every morning.",
+        "answer": "walks",
+        "distractors": [
+          "goes",
+          "does"
+        ],
+        "explanation": "Wyprowadzać psa: walk the dog."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-06",
+        "type": "error",
+        "prompt": "She does a shower every morning.",
+        "answer": [
+          "does",
+          "has"
+        ],
+        "accept": [
+          "takes"
+        ],
+        "explanation": "Brać prysznic: have a shower."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-07",
+        "type": "tiles",
+        "prompt": "Po pracy odpoczywam.",
+        "answer": [
+          "I",
+          "relax",
+          "after",
+          "work"
+        ],
+        "explanation": "Odpoczywać: relax."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-08",
+        "type": "translate",
+        "prompt": "Zwykle jem śniadanie w pracy.",
+        "answer": "I usually have breakfast at work.",
+        "accept": [
+          "I usually eat breakfast at work."
+        ],
+        "explanation": "Jeść śniadanie: have breakfast."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-09",
+        "type": "transform",
+        "prompt": "Ułóż zdanie w Present Simple.\nhe / go to work / by bike",
+        "answer": "He goes to work by bike.",
+        "explanation": "He + goes."
+      },
+      {
+        "id": "a1-vocab-daily-routine-2-10",
+        "type": "choice",
+        "prompt": "I'm tired. I want to ___ a nap.",
+        "answer": "take",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Uciąć sobie drzemkę: take (albo have) a nap."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-daily-routine-3",
+    "topicId": "a1-vocab-daily-routine",
+    "exercises": [
+      {
+        "id": "a1-vocab-daily-routine-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "make the bed|ścielić łóżko",
+          "do homework|odrabiać lekcje",
+          "check emails|sprawdzać maile",
+          "take a break|robić przerwę"
+        ],
+        "explanation": "Kolokacje z make, do, check, take."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-02",
+        "type": "cloze",
+        "prompt": "I ___ my emails in the morning.",
+        "answer": "check",
+        "explanation": "Sprawdzać maile: check emails."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-03",
+        "type": "cloze",
+        "prompt": "I ___ my bed every morning. (ścielić)",
+        "answer": "make",
+        "explanation": "Ścielić łóżko: make the bed."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-04",
+        "type": "choice",
+        "prompt": "What time do you usually ___ home?",
+        "answer": "leave",
+        "distractors": [
+          "live",
+          "exit"
+        ],
+        "explanation": "Wychodzić z domu: leave home."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-05",
+        "type": "choice",
+        "prompt": "I ___ to music on the bus.",
+        "answer": "listen",
+        "distractors": [
+          "hear",
+          "watch"
+        ],
+        "explanation": "Słuchać muzyki: listen to music."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-06",
+        "type": "error",
+        "prompt": "I listen music every day.",
+        "answer": [
+          "listen",
+          "listen to"
+        ],
+        "explanation": "Listen zawsze z to: listen to music."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-07",
+        "type": "tiles",
+        "prompt": "W weekendy śpię długo.",
+        "answer": [
+          "At",
+          "weekends",
+          "I",
+          "sleep",
+          "late"
+        ],
+        "accept": [
+          "I sleep late at weekends"
+        ],
+        "explanation": "Spać długo: sleep late."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-08",
+        "type": "translate",
+        "prompt": "O której wracasz do domu?",
+        "answer": "What time do you get home?",
+        "accept": [
+          "What time do you come home?",
+          "When do you get home?",
+          "When do you come home?",
+          "What time do you go home?"
+        ],
+        "explanation": "Wracać do domu: get / come home."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-09",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou get up early.",
+        "answer": "Do you get up early?",
+        "explanation": "Do + you + get up."
+      },
+      {
+        "id": "a1-vocab-daily-routine-3-10",
+        "type": "choice",
+        "prompt": "First I ___, then I get dressed.",
+        "answer": "have a shower",
+        "distractors": [
+          "go to bed",
+          "have dinner"
+        ],
+        "explanation": "Rano: najpierw prysznic, potem ubieranie."
+      }
+    ]
+  }
+]

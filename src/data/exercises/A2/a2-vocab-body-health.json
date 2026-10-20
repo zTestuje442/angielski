@@ -1,0 +1,330 @@
+[
+  {
+    "id": "a2-vocab-body-health-1",
+    "topicId": "a2-vocab-body-health",
+    "exercises": [
+      {
+        "id": "a2-vocab-body-health-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "head|głowa",
+          "shoulder|bark, ramię",
+          "knee|kolano",
+          "neck|szyja"
+        ],
+        "explanation": "Części ciała."
+      },
+      {
+        "id": "a2-vocab-body-health-1-02",
+        "type": "choice",
+        "prompt": "You see with your ___.",
+        "answer": "eyes",
+        "distractors": [
+          "ears",
+          "nose"
+        ],
+        "explanation": "Widzimy oczami."
+      },
+      {
+        "id": "a2-vocab-body-health-1-03",
+        "type": "choice",
+        "prompt": "You have ten ___ on your hands.",
+        "answer": "fingers",
+        "distractors": [
+          "toes",
+          "feet"
+        ],
+        "explanation": "Palce u rąk: fingers."
+      },
+      {
+        "id": "a2-vocab-body-health-1-04",
+        "type": "cloze",
+        "prompt": "I have two ___ and ten toes. (stopy)",
+        "answer": "feet",
+        "explanation": "Foot → feet."
+      },
+      {
+        "id": "a2-vocab-body-health-1-05",
+        "type": "cloze",
+        "prompt": "He hurt his ___ playing football. (kostka)",
+        "answer": "ankle",
+        "explanation": "Kostka: ankle."
+      },
+      {
+        "id": "a2-vocab-body-health-1-06",
+        "type": "error",
+        "prompt": "I brush my tooths every day.",
+        "answer": [
+          "tooths",
+          "teeth"
+        ],
+        "explanation": "Tooth → teeth."
+      },
+      {
+        "id": "a2-vocab-body-health-1-07",
+        "type": "tiles",
+        "prompt": "Boli mnie głowa.",
+        "answer": [
+          "I",
+          "have",
+          "got",
+          "a",
+          "headache"
+        ],
+        "explanation": "Ból głowy: a headache."
+      },
+      {
+        "id": "a2-vocab-body-health-1-08",
+        "type": "translate",
+        "prompt": "Mam niebieskie oczy.",
+        "answer": "I have got blue eyes.",
+        "accept": [
+          "I have blue eyes."
+        ],
+        "explanation": "Have got + blue eyes."
+      },
+      {
+        "id": "a2-vocab-body-health-1-09",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nfoot",
+        "answer": "feet",
+        "explanation": "Foot – feet."
+      },
+      {
+        "id": "a2-vocab-body-health-1-10",
+        "type": "choice",
+        "prompt": "My ___ hurts. I can't hear well.",
+        "answer": "ear",
+        "distractors": [
+          "eye",
+          "knee"
+        ],
+        "explanation": "Słyszymy uchem."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-body-health-2",
+    "topicId": "a2-vocab-body-health",
+    "exercises": [
+      {
+        "id": "a2-vocab-body-health-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "headache|ból głowy",
+          "stomachache|ból brzucha",
+          "sore throat|ból gardła",
+          "cough|kaszel"
+        ],
+        "explanation": "Dolegliwości."
+      },
+      {
+        "id": "a2-vocab-body-health-2-02",
+        "type": "choice",
+        "prompt": "I've got a ___. My temperature is 39°C.",
+        "answer": "fever",
+        "distractors": [
+          "cold",
+          "cough"
+        ],
+        "explanation": "Wysoka temperatura: fever."
+      },
+      {
+        "id": "a2-vocab-body-health-2-03",
+        "type": "choice",
+        "prompt": "You should take some ___ for your headache.",
+        "answer": "medicine",
+        "distractors": [
+          "recipe",
+          "receipt"
+        ],
+        "explanation": "Lek: medicine."
+      },
+      {
+        "id": "a2-vocab-body-health-2-04",
+        "type": "cloze",
+        "prompt": "I feel ___. I think I've got the flu. (źle, chory)",
+        "answer": "ill",
+        "accept": [
+          "sick",
+          "unwell",
+          "bad",
+          "awful",
+          "terrible"
+        ],
+        "explanation": "Chory: ill."
+      },
+      {
+        "id": "a2-vocab-body-health-2-05",
+        "type": "cloze",
+        "prompt": "What's the ___ with you? (Co ci jest?)",
+        "answer": "matter",
+        "explanation": "What's the matter?"
+      },
+      {
+        "id": "a2-vocab-body-health-2-06",
+        "type": "error",
+        "prompt": "My head aches. I have a headpain.",
+        "answer": [
+          "headpain",
+          "headache"
+        ],
+        "explanation": "Ból głowy: headache."
+      },
+      {
+        "id": "a2-vocab-body-health-2-07",
+        "type": "tiles",
+        "prompt": "Mam katar.",
+        "answer": [
+          "I",
+          "have",
+          "got",
+          "a",
+          "cold"
+        ],
+        "explanation": "Przeziębienie, katar: a cold."
+      },
+      {
+        "id": "a2-vocab-body-health-2-08",
+        "type": "translate",
+        "prompt": "Muszę iść do dentysty.",
+        "answer": "I have to go to the dentist.",
+        "accept": [
+          "I must go to the dentist.",
+          "I need to go to the dentist.",
+          "I have to go to the dentist's.",
+          "I must go to the dentist's.",
+          "I need to go to the dentist's.",
+          "I have to see a dentist.",
+          "I must see a dentist.",
+          "I need to see a dentist."
+        ],
+        "explanation": "Have to + go to the dentist."
+      },
+      {
+        "id": "a2-vocab-body-health-2-09",
+        "type": "transform",
+        "prompt": "Zmień na radę z „should”, zacznij od „You”.\nStay in bed.",
+        "answer": "You should stay in bed.",
+        "explanation": "Rada: should."
+      },
+      {
+        "id": "a2-vocab-body-health-2-10",
+        "type": "choice",
+        "prompt": "The doctor gave me a ___ for antibiotics.",
+        "answer": "prescription",
+        "distractors": [
+          "receipt",
+          "recipe"
+        ],
+        "explanation": "Recepta: prescription."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-body-health-3",
+    "topicId": "a2-vocab-body-health",
+    "exercises": [
+      {
+        "id": "a2-vocab-body-health-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "healthy|zdrowy",
+          "exercise|ćwiczyć",
+          "diet|dieta",
+          "rest|odpoczynek"
+        ],
+        "explanation": "Zdrowy styl życia."
+      },
+      {
+        "id": "a2-vocab-body-health-3-02",
+        "type": "cloze",
+        "prompt": "You should ___ more and eat less sugar. (ćwiczyć)",
+        "answer": "exercise",
+        "explanation": "Ćwiczyć: exercise."
+      },
+      {
+        "id": "a2-vocab-body-health-3-03",
+        "type": "cloze",
+        "prompt": "Get well ___! (Wracaj do zdrowia!)",
+        "answer": "soon",
+        "explanation": "Get well soon!"
+      },
+      {
+        "id": "a2-vocab-body-health-3-04",
+        "type": "choice",
+        "prompt": "I need to make an ___ with the doctor.",
+        "answer": "appointment",
+        "distractors": [
+          "meeting",
+          "date"
+        ],
+        "explanation": "Wizyta u lekarza: appointment."
+      },
+      {
+        "id": "a2-vocab-body-health-3-05",
+        "type": "choice",
+        "prompt": "She ___ her arm when she fell off her bike.",
+        "answer": "broke",
+        "distractors": [
+          "hurt off",
+          "cut off"
+        ],
+        "explanation": "Złamać: break → broke."
+      },
+      {
+        "id": "a2-vocab-body-health-3-06",
+        "type": "error",
+        "prompt": "I've got a bad cough and a sore troat.",
+        "answer": [
+          "troat",
+          "throat"
+        ],
+        "explanation": "Gardło: throat."
+      },
+      {
+        "id": "a2-vocab-body-health-3-07",
+        "type": "error",
+        "prompt": "Smoking is bad to your health.",
+        "answer": [
+          "to",
+          "for"
+        ],
+        "explanation": "Bad for your health."
+      },
+      {
+        "id": "a2-vocab-body-health-3-08",
+        "type": "tiles",
+        "prompt": "Jak się dziś czujesz?",
+        "answer": [
+          "How",
+          "are",
+          "you",
+          "feeling",
+          "today"
+        ],
+        "explanation": "How are you feeling?"
+      },
+      {
+        "id": "a2-vocab-body-health-3-09",
+        "type": "translate",
+        "prompt": "Złamałem nogę.",
+        "answer": "I broke my leg.",
+        "accept": [
+          "I have broken my leg."
+        ],
+        "explanation": "Break → broke."
+      },
+      {
+        "id": "a2-vocab-body-health-3-10",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nan unhealthy diet",
+        "answer": "a healthy diet",
+        "explanation": "Unhealthy – healthy."
+      }
+    ]
+  }
+]

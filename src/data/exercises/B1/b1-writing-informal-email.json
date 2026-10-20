@@ -1,0 +1,347 @@
+[
+  {
+    "id": "b1-writing-informal-email-1",
+    "topicId": "b1-writing-informal-email",
+    "exercises": [
+      {
+        "id": "b1-writing-informal-email-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "Thanks for your email.|otwarcie",
+          "Anyway, ...|zmiana tematu",
+          "Guess what? ...|wprowadzenie nowiny",
+          "Take care,|zakończenie"
+        ],
+        "explanation": "Funkcje zwrotów w e-mailu nieformalnym."
+      },
+      {
+        "id": "b1-writing-informal-email-1-02",
+        "type": "choice",
+        "prompt": "Which opening is informal?",
+        "answer": "It was great to hear from you!",
+        "distractors": [
+          "I am writing to inform you that...",
+          "With reference to your letter..."
+        ],
+        "explanation": "Nieformalnie: It was great to hear from you!"
+      },
+      {
+        "id": "b1-writing-informal-email-1-03",
+        "type": "choice",
+        "prompt": "Which phrase changes the topic?",
+        "answer": "Anyway, ...",
+        "distractors": [
+          "Moreover, ...",
+          "Yours faithfully, ..."
+        ],
+        "explanation": "Zmiana tematu: Anyway."
+      },
+      {
+        "id": "b1-writing-informal-email-1-04",
+        "type": "cloze",
+        "prompt": "Sorry I haven't written ___ ages. (od wieków)",
+        "answer": "for",
+        "explanation": "For ages."
+      },
+      {
+        "id": "b1-writing-informal-email-1-05",
+        "type": "cloze",
+        "prompt": "Give my love ___ your parents. (pozdrów)",
+        "answer": "to",
+        "explanation": "Give my love to..."
+      },
+      {
+        "id": "b1-writing-informal-email-1-06",
+        "type": "tiles",
+        "prompt": "E-mail od Kasi do Lucy.",
+        "answer": [
+          "Hi Lucy,",
+          "Thanks for your email – it was great to hear from you!",
+          "Guess what? I've just passed my driving test!",
+          "Anyway, how are things with you?",
+          "Take care,",
+          "Kasia"
+        ],
+        "distractors": [
+          "Yours faithfully,"
+        ],
+        "explanation": "Otwarcie, nowina, pytanie do adresata, zakończenie. Formalne „Yours faithfully” nie pasuje."
+      },
+      {
+        "id": "b1-writing-informal-email-1-07",
+        "type": "error",
+        "prompt": "I'm looking forward to see you soon.",
+        "answer": [
+          "see",
+          "seeing"
+        ],
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b1-writing-informal-email-1-08",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „so”.\nI was really busy last month. I did not write.",
+        "answer": "I was really busy last month, so I did not write.",
+        "accept": [
+          "I was really busy last month so I did not write."
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "b1-writing-informal-email-1-09",
+        "type": "translate",
+        "prompt": "Pozdrów ode mnie rodziców.",
+        "answer": "Say hello to your parents from me.",
+        "accept": [
+          "Give my love to your parents.",
+          "Give my regards to your parents.",
+          "Say hi to your parents from me.",
+          "Say hello to your parents for me.",
+          "Say hi to your parents for me."
+        ],
+        "explanation": "Pozdrowienia: say hello / give my love."
+      },
+      {
+        "id": "b1-writing-informal-email-1-10",
+        "type": "choice",
+        "prompt": "Which ending is informal?",
+        "answer": "Lots of love,",
+        "distractors": [
+          "Yours sincerely,",
+          "Respectfully,"
+        ],
+        "explanation": "Nieformalnie: Lots of love."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-informal-email-2",
+    "topicId": "b1-writing-informal-email",
+    "exercises": [
+      {
+        "id": "b1-writing-informal-email-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "That's great news!|reakcja na dobrą wiadomość",
+          "I'm so sorry to hear that.|reakcja na złą wiadomość",
+          "Let me know what you think.|prośba o opinię",
+          "Write back soon!|prośba o odpowiedź"
+        ],
+        "explanation": "Reakcje i prośby."
+      },
+      {
+        "id": "b1-writing-informal-email-2-02",
+        "type": "cloze",
+        "prompt": "I'm so sorry to ___ about your grandma.",
+        "answer": "hear",
+        "explanation": "Sorry to hear about..."
+      },
+      {
+        "id": "b1-writing-informal-email-2-03",
+        "type": "cloze",
+        "prompt": "That's great ___! Congratulations! (wiadomość)",
+        "answer": "news",
+        "explanation": "Great news!"
+      },
+      {
+        "id": "b1-writing-informal-email-2-04",
+        "type": "choice",
+        "prompt": "Thanks ___ inviting me to your wedding!",
+        "answer": "for",
+        "distractors": [
+          "to",
+          "of"
+        ],
+        "explanation": "Thanks for + -ing."
+      },
+      {
+        "id": "b1-writing-informal-email-2-05",
+        "type": "choice",
+        "prompt": "I can't wait ___ you!",
+        "answer": "to see",
+        "distractors": [
+          "seeing",
+          "see"
+        ],
+        "explanation": "Can't wait + to."
+      },
+      {
+        "id": "b1-writing-informal-email-2-06",
+        "type": "error",
+        "prompt": "Congratulation on your new job!",
+        "answer": [
+          "Congratulation",
+          "Congratulations"
+        ],
+        "explanation": "Zawsze w liczbie mnogiej: Congratulations."
+      },
+      {
+        "id": "b1-writing-informal-email-2-07",
+        "type": "error",
+        "prompt": "Sorry for not write sooner.",
+        "answer": [
+          "write",
+          "writing"
+        ],
+        "explanation": "Po for: -ing."
+      },
+      {
+        "id": "b1-writing-informal-email-2-08",
+        "type": "tiles",
+        "prompt": "E-mail od Toma do Sama.",
+        "answer": [
+          "Hi Sam,",
+          "Sorry I didn't write sooner – I've been really busy at work.",
+          "Congratulations on your new flat!",
+          "Are you having a party? Let me know!",
+          "Cheers,",
+          "Tom"
+        ],
+        "distractors": [
+          "I am writing to apply for the position."
+        ],
+        "explanation": "Przeprosiny, gratulacje, pytanie, zakończenie. Zdanie z podania o pracę nie pasuje."
+      },
+      {
+        "id": "b1-writing-informal-email-2-09",
+        "type": "translate",
+        "prompt": "Gratulacje z okazji nowej pracy!",
+        "answer": "Congratulations on your new job!",
+        "explanation": "Congratulations on..."
+      },
+      {
+        "id": "b1-writing-informal-email-2-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because”.\nI could not come to your party. I was ill.",
+        "answer": "I could not come to your party because I was ill.",
+        "explanation": "Przyczyna: because."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-informal-email-3",
+    "topicId": "b1-writing-informal-email",
+    "exercises": [
+      {
+        "id": "b1-writing-informal-email-3-01",
+        "type": "match",
+        "prompt": "Połącz słowo potoczne z neutralnym.",
+        "answer": [
+          "kids|children",
+          "mum|mother",
+          "get|receive",
+          "stuff|things"
+        ],
+        "explanation": "Słowo potoczne i jego neutralny odpowiednik."
+      },
+      {
+        "id": "b1-writing-informal-email-3-02",
+        "type": "cloze",
+        "prompt": "I'm ___ busy at the moment. (naprawdę)",
+        "answer": "really",
+        "explanation": "Naprawdę: really."
+      },
+      {
+        "id": "b1-writing-informal-email-3-03",
+        "type": "cloze",
+        "prompt": "What have you been ___ to? (co porabiasz)",
+        "answer": "up",
+        "explanation": "What have you been up to?"
+      },
+      {
+        "id": "b1-writing-informal-email-3-04",
+        "type": "choice",
+        "prompt": "Which word is informal?",
+        "answer": "awesome",
+        "distractors": [
+          "excellent",
+          "satisfactory"
+        ],
+        "explanation": "Potocznie: awesome."
+      },
+      {
+        "id": "b1-writing-informal-email-3-05",
+        "type": "choice",
+        "prompt": "___ to hear you're feeling better!",
+        "answer": "Glad",
+        "distractors": [
+          "Pleased of",
+          "Happy of"
+        ],
+        "explanation": "Glad to hear..."
+      },
+      {
+        "id": "b1-writing-informal-email-3-06",
+        "type": "error",
+        "prompt": "My holiday in Croatia were amazing.",
+        "answer": [
+          "were",
+          "was"
+        ],
+        "explanation": "My holiday = it: was."
+      },
+      {
+        "id": "b1-writing-informal-email-3-07",
+        "type": "error",
+        "prompt": "Hope your doing well.",
+        "answer": [
+          "your",
+          "you're"
+        ],
+        "explanation": "You're = you are."
+      },
+      {
+        "id": "b1-writing-informal-email-3-08",
+        "type": "tiles",
+        "prompt": "E-mail od Ani do Kate.",
+        "answer": [
+          "Hi Kate,",
+          "How are you? Hope you're doing well.",
+          "I'm writing to tell you about my trip to Croatia.",
+          "It was amazing – the sea was so clear!",
+          "See you soon,",
+          "Ania"
+        ],
+        "distractors": [
+          "Dear Sir or Madam,"
+        ],
+        "explanation": "Powitanie, zagajenie, temat, szczegóły, zakończenie. Formalne powitanie nie pasuje."
+      },
+      {
+        "id": "b1-writing-informal-email-3-09",
+        "type": "translate",
+        "prompt": "Co u ciebie słychać?",
+        "answer": "How are things?",
+        "accept": [
+          "How are you?",
+          "How are you doing?",
+          "What's new?",
+          "What have you been up to?",
+          "How is it going?",
+          "How are things with you?"
+        ],
+        "explanation": "Potocznie: How are things?"
+      },
+      {
+        "id": "b1-writing-informal-email-3-10",
+        "type": "transform",
+        "prompt": "Zamień formalne słowo na potoczne.\nI received your message.",
+        "answer": "I got your message.",
+        "explanation": "Receive → get."
+      },
+      {
+        "id": "b1-writing-informal-email-3-11",
+        "type": "choice",
+        "prompt": "Which sentence is the most informal?",
+        "answer": "Can't wait to see you!",
+        "distractors": [
+          "I look forward to meeting you.",
+          "I would be grateful if you could reply."
+        ],
+        "explanation": "Nieformalnie: Can't wait to see you!"
+      }
+    ]
+  }
+]

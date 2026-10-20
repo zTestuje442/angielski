@@ -1,0 +1,344 @@
+[
+  {
+    "id": "b2-past-modals-1",
+    "topicId": "b2-past-modals",
+    "exercises": [
+      {
+        "id": "b2-past-modals-1-01",
+        "type": "cloze",
+        "prompt": "He's late. He must ___ missed the bus.",
+        "answer": "have",
+        "explanation": "Must have + III forma."
+      },
+      {
+        "id": "b2-past-modals-1-02",
+        "type": "cloze",
+        "prompt": "You should have ___ me! I would have helped. (tell)",
+        "answer": "told",
+        "explanation": "Should have told."
+      },
+      {
+        "id": "b2-past-modals-1-03",
+        "type": "choice",
+        "prompt": "She can't ___ that – she was with me all evening.",
+        "answer": "have done",
+        "distractors": [
+          "do",
+          "had done"
+        ],
+        "explanation": "Niemożliwe w przeszłości: can't have done."
+      },
+      {
+        "id": "b2-past-modals-1-04",
+        "type": "choice",
+        "prompt": "I ___ studied more. I failed the exam.",
+        "answer": "should have",
+        "distractors": [
+          "must have",
+          "can't have"
+        ],
+        "explanation": "Żal: should have."
+      },
+      {
+        "id": "b2-past-modals-1-05",
+        "type": "cloze",
+        "prompt": "They ___ have got lost – they don't know the area. (mogli)",
+        "answer": "might",
+        "accept": [
+          "may",
+          "could"
+        ],
+        "explanation": "Możliwe: might have."
+      },
+      {
+        "id": "b2-past-modals-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "must have done|na pewno zrobił",
+          "can't have done|na pewno nie zrobił",
+          "might have done|może zrobił",
+          "should have done|powinien był zrobić"
+        ],
+        "explanation": "Modalne w przeszłości."
+      },
+      {
+        "id": "b2-past-modals-1-07",
+        "type": "error",
+        "prompt": "You should have came earlier.",
+        "answer": [
+          "came",
+          "come"
+        ],
+        "explanation": "Should have + III forma."
+      },
+      {
+        "id": "b2-past-modals-1-08",
+        "type": "tiles",
+        "prompt": "Musiała zapomnieć o spotkaniu.",
+        "answer": [
+          "She",
+          "must",
+          "have",
+          "forgotten",
+          "about",
+          "the",
+          "meeting"
+        ],
+        "distractors": [
+          "had",
+          "forgot"
+        ],
+        "explanation": "Must have + III forma."
+      },
+      {
+        "id": "b2-past-modals-1-09",
+        "type": "translate",
+        "prompt": "Nie powinieneś był tego mówić.",
+        "answer": "You should not have said that.",
+        "accept": [
+          "You should not have said it."
+        ],
+        "explanation": "Shouldn't have + III forma."
+      },
+      {
+        "id": "b2-past-modals-1-10",
+        "type": "transform",
+        "prompt": "Wyraź pewność z „must have”, zacznij od „The thief must”.\nI'm sure the thief came in through the window.",
+        "answer": "The thief must have come in through the window.",
+        "explanation": "Must have come."
+      }
+    ]
+  },
+  {
+    "id": "b2-past-modals-2",
+    "topicId": "b2-past-modals",
+    "exercises": [
+      {
+        "id": "b2-past-modals-2-01",
+        "type": "cloze",
+        "prompt": "The road is wet. It ___ have rained. (na pewno)",
+        "answer": "must",
+        "explanation": "Pewność: must have."
+      },
+      {
+        "id": "b2-past-modals-2-02",
+        "type": "cloze",
+        "prompt": "He ___ have seen us – he didn't say hello. (na pewno nie)",
+        "answer": "can't",
+        "accept": [
+          "couldn't",
+          "cannot"
+        ],
+        "explanation": "Niemożliwe: can't have."
+      },
+      {
+        "id": "b2-past-modals-2-03",
+        "type": "choice",
+        "prompt": "I don't know where my keys are. I ___ left them at work.",
+        "answer": "might have",
+        "distractors": [
+          "must",
+          "should"
+        ],
+        "explanation": "Możliwe: might have."
+      },
+      {
+        "id": "b2-past-modals-2-04",
+        "type": "choice",
+        "prompt": "You ___ have bought me a present! That's so kind.",
+        "answer": "shouldn't",
+        "distractors": [
+          "mustn't",
+          "can't"
+        ],
+        "explanation": "Grzecznościowe: You shouldn't have!"
+      },
+      {
+        "id": "b2-past-modals-2-05",
+        "type": "choice",
+        "prompt": "We ___ have taken a taxi – the walk was only five minutes.",
+        "answer": "needn't",
+        "distractors": [
+          "mustn't",
+          "can't"
+        ],
+        "explanation": "Niepotrzebne: needn't have."
+      },
+      {
+        "id": "b2-past-modals-2-06",
+        "type": "transform",
+        "prompt": "Wyraź krytykę z „shouldn't have”, zacznij od „You”.\nYou ate all the cake – that was bad.",
+        "answer": "You should not have eaten all the cake.",
+        "explanation": "Shouldn't have eaten."
+      },
+      {
+        "id": "b2-past-modals-2-07",
+        "type": "transform",
+        "prompt": "Wyraź niemożliwość z „can't have”, zacznij od „She”.\nI'm sure she didn't see the email.",
+        "answer": "She cannot have seen the email.",
+        "accept": [
+          "She couldn't have seen the email."
+        ],
+        "explanation": "Can't have seen."
+      },
+      {
+        "id": "b2-past-modals-2-08",
+        "type": "tiles",
+        "prompt": "Mogłeś mnie zabić!",
+        "answer": [
+          "You",
+          "could",
+          "have",
+          "killed",
+          "me"
+        ],
+        "distractors": [
+          "can",
+          "kill"
+        ],
+        "explanation": "Could have + III forma."
+      },
+      {
+        "id": "b2-past-modals-2-09",
+        "type": "error",
+        "prompt": "She might has missed the train.",
+        "answer": [
+          "has",
+          "have"
+        ],
+        "explanation": "Might have + III forma."
+      },
+      {
+        "id": "b2-past-modals-2-10",
+        "type": "translate",
+        "prompt": "Powinienem był cię posłuchać.",
+        "answer": "I should have listened to you.",
+        "explanation": "Should have listened."
+      }
+    ]
+  },
+  {
+    "id": "b2-past-modals-3",
+    "topicId": "b2-past-modals",
+    "exercises": [
+      {
+        "id": "b2-past-modals-3-01",
+        "type": "choice",
+        "prompt": "It ___ been Tom you saw – he's in Spain.",
+        "answer": "can't have",
+        "distractors": [
+          "mustn't have",
+          "shouldn't have"
+        ],
+        "explanation": "Niemożliwe: can't have."
+      },
+      {
+        "id": "b2-past-modals-3-02",
+        "type": "choice",
+        "prompt": "I ___ called you, but I didn't have your number.",
+        "answer": "would have",
+        "distractors": [
+          "must have",
+          "can't have"
+        ],
+        "explanation": "Zrobiłbym, ale...: would have."
+      },
+      {
+        "id": "b2-past-modals-3-03",
+        "type": "cloze",
+        "prompt": "They could ___ won if they had tried harder.",
+        "answer": "have",
+        "explanation": "Could have won."
+      },
+      {
+        "id": "b2-past-modals-3-04",
+        "type": "cloze",
+        "prompt": "You ___ have worried – everything was fine. (nie musiałeś)",
+        "answer": "needn't",
+        "accept": [
+          "shouldn't",
+          "should not"
+        ],
+        "explanation": "Niepotrzebne: needn't have."
+      },
+      {
+        "id": "b2-past-modals-3-05",
+        "type": "cloze",
+        "prompt": "She looks happy. She must have ___ good news. (get)",
+        "answer": "got",
+        "accept": [
+          "gotten",
+          "received",
+          "heard"
+        ],
+        "explanation": "Must have got."
+      },
+      {
+        "id": "b2-past-modals-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Na pewno był zmęczony.|He must have been tired.",
+          "Może był zmęczony.|He might have been tired.",
+          "Niemożliwe, żeby był zmęczony.|He can't have been tired.",
+          "Powinien był odpocząć.|He should have rested."
+        ],
+        "explanation": "Przypuszczenia i krytyka."
+      },
+      {
+        "id": "b2-past-modals-3-07",
+        "type": "error",
+        "prompt": "You mustn't have shouted at her – it was rude.",
+        "answer": [
+          "mustn't",
+          "shouldn't"
+        ],
+        "explanation": "Krytyka: shouldn't have."
+      },
+      {
+        "id": "b2-past-modals-3-08",
+        "type": "error",
+        "prompt": "I could have went to Harvard, but I chose Oxford.",
+        "answer": [
+          "went",
+          "gone"
+        ],
+        "explanation": "Could have + III forma."
+      },
+      {
+        "id": "b2-past-modals-3-09",
+        "type": "tiles",
+        "prompt": "Na pewno zostawiłem portfel w domu.",
+        "answer": [
+          "I",
+          "must",
+          "have",
+          "left",
+          "my",
+          "wallet",
+          "at",
+          "home"
+        ],
+        "distractors": [
+          "should",
+          "leave"
+        ],
+        "explanation": "Must have left."
+      },
+      {
+        "id": "b2-past-modals-3-10",
+        "type": "translate",
+        "prompt": "Może źle zrozumiałem.",
+        "answer": "I might have misunderstood.",
+        "accept": [
+          "I may have misunderstood.",
+          "Maybe I misunderstood.",
+          "I could have misunderstood.",
+          "Perhaps I misunderstood."
+        ],
+        "explanation": "Możliwe: might have."
+      }
+    ]
+  }
+]

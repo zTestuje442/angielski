@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-notice-2",
+  "topicId": "a2-reading-notice",
+  "title": "Greenway Gym – new rules",
+  "text": "GREENWAY GYM – NEW RULES FROM 1 MARCH\n\nTo make the gym better for everyone, please follow these rules:\n\n• Always bring a towel and put it on the machines when you use them.\n• Please clean the machines after you use them. You can find cleaning spray next to the mirrors.\n• Don't use a machine for more than 20 minutes when other people are waiting.\n• Put the weights back after you finish.\n• Phones: you can listen to music with headphones, but please don't make phone calls in the gym area.\n• Children under 16 can only use the gym with an adult.\n• Lockers are free, but you need to bring your own lock. Don't leave your things in a locker overnight.\n\nOpening hours are also changing. From 1 March, the gym will open at 6 a.m. (not 7 a.m.) on weekdays. At weekends it will be open from 8 a.m. to 8 p.m.\n\nQuestions? Speak to any member of staff.\nThank you!",
+  "exercises": [
+    {
+      "id": "a2-reading-notice-2-01",
+      "type": "choice",
+      "prompt": "From March, the gym opens earlier on weekdays.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "Od marca w dni robocze o 6:00 zamiast 7:00."
+    },
+    {
+      "id": "a2-reading-notice-2-02",
+      "type": "choice",
+      "prompt": "You can make phone calls in the gym area.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...please don't make phone calls in the gym area.”"
+    },
+    {
+      "id": "a2-reading-notice-2-03",
+      "type": "choice",
+      "prompt": "The gym has got a swimming pool.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "O basenie nic nie ma."
+    },
+    {
+      "id": "a2-reading-notice-2-04",
+      "type": "choice",
+      "prompt": "Where is the cleaning spray?",
+      "answer": "next to the mirrors",
+      "distractors": [
+        "at the reception",
+        "in the lockers"
+      ],
+      "explanation": "„...cleaning spray next to the mirrors.”"
+    },
+    {
+      "id": "a2-reading-notice-2-05",
+      "type": "choice",
+      "prompt": "How long can you use a machine when people are waiting?",
+      "answer": "20 minutes",
+      "distractors": [
+        "10 minutes",
+        "an hour"
+      ],
+      "explanation": "„...not more than 20 minutes when other people are waiting.”"
+    },
+    {
+      "id": "a2-reading-notice-2-06",
+      "type": "choice",
+      "prompt": "What do you need to use a locker?",
+      "answer": "your own lock",
+      "distractors": [
+        "some money",
+        "a key from the staff"
+      ],
+      "explanation": "„Lockers are free, but you need to bring your own lock.”"
+    },
+    {
+      "id": "a2-reading-notice-2-07",
+      "type": "cloze",
+      "prompt": "Put the ___ back after you finish.",
+      "answer": "weights",
+      "explanation": "Odłóż ciężarki."
+    },
+    {
+      "id": "a2-reading-notice-2-08",
+      "type": "cloze",
+      "prompt": "Children under 16 can only use the gym with an ___.",
+      "answer": "adult",
+      "explanation": "Z osobą dorosłą."
+    },
+    {
+      "id": "a2-reading-notice-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "towel|ręcznik",
+        "locker|szafka",
+        "overnight|na noc",
+        "staff|personel"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

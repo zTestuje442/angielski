@@ -1,0 +1,326 @@
+[
+  {
+    "id": "b2-present-perfect-continuous-1",
+    "topicId": "b2-present-perfect-continuous",
+    "exercises": [
+      {
+        "id": "b2-present-perfect-continuous-1-01",
+        "type": "cloze",
+        "prompt": "I've been ___ for you for an hour! (wait)",
+        "answer": "waiting",
+        "explanation": "Have been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-02",
+        "type": "cloze",
+        "prompt": "She has ___ learning French since January.",
+        "answer": "been",
+        "explanation": "Has been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-03",
+        "type": "choice",
+        "prompt": "How long ___ you been living here?",
+        "answer": "have",
+        "distractors": [
+          "are",
+          "did"
+        ],
+        "explanation": "How long have you been...?"
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-04",
+        "type": "choice",
+        "prompt": "You look tired. ___ you been working all night?",
+        "answer": "Have",
+        "distractors": [
+          "Did",
+          "Are"
+        ],
+        "explanation": "Pytanie: Have you been...?"
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-05",
+        "type": "cloze",
+        "prompt": "It ___ been raining all morning. (has / have)",
+        "answer": "has",
+        "explanation": "It + has been."
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I've been waiting.|Czekam (od jakiegoś czasu).",
+          "She's been crying.|Płakała (widać ślady).",
+          "How long have you been...?|Od jak dawna...?",
+          "It's been raining.|Pada (od dłuższego czasu)."
+        ],
+        "explanation": "Czynność trwająca albo jej ślady."
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-07",
+        "type": "error",
+        "prompt": "We've been wait for ages.",
+        "answer": [
+          "wait",
+          "waiting"
+        ],
+        "explanation": "Have been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-08",
+        "type": "tiles",
+        "prompt": "Od rana pracuję nad tym raportem.",
+        "answer": [
+          "I've",
+          "been",
+          "working",
+          "on",
+          "this",
+          "report",
+          "since",
+          "this",
+          "morning"
+        ],
+        "distractors": [
+          "for",
+          "worked"
+        ],
+        "explanation": "Since + moment."
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-09",
+        "type": "translate",
+        "prompt": "Od jak dawna uczysz się angielskiego?",
+        "answer": "How long have you been learning English?",
+        "accept": [
+          "How long have you been studying English?",
+          "How long have you learned English?",
+          "How long have you studied English?"
+        ],
+        "explanation": "How long + have been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-1-10",
+        "type": "transform",
+        "prompt": "Połącz w jedno zdanie z Present Perfect Continuous i „for”.\nI started reading this book two hours ago. I'm still reading it.",
+        "answer": "I have been reading this book for two hours.",
+        "explanation": "Trwa do teraz: have been reading + for."
+      }
+    ]
+  },
+  {
+    "id": "b2-present-perfect-continuous-2",
+    "topicId": "b2-present-perfect-continuous",
+    "exercises": [
+      {
+        "id": "b2-present-perfect-continuous-2-01",
+        "type": "cloze",
+        "prompt": "Your hands are dirty. What have you been ___? (do)",
+        "answer": "doing",
+        "explanation": "Ślady czynności: have been doing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-02",
+        "type": "cloze",
+        "prompt": "They've ___ arguing again – I can hear them.",
+        "answer": "been",
+        "explanation": "Have been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-03",
+        "type": "choice",
+        "prompt": "He's out of breath because he ___.",
+        "answer": "has been running",
+        "distractors": [
+          "is been running",
+          "runs"
+        ],
+        "explanation": "Widać skutki: has been running."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-04",
+        "type": "choice",
+        "prompt": "I ___ this game since 6 p.m. and I still haven't won.",
+        "answer": "have been playing",
+        "distractors": [
+          "am playing",
+          "played"
+        ],
+        "explanation": "Od 18:00 do teraz: have been playing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-05",
+        "type": "cloze",
+        "prompt": "We ___ well recently. (not / sleep)",
+        "answer": "haven't been sleeping",
+        "accept": [
+          "have not been sleeping"
+        ],
+        "explanation": "Przeczenie: haven't been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-06",
+        "type": "transform",
+        "prompt": "Zadaj pytanie z „How long”.\nShe has been working here for three years.",
+        "answer": "How long has she been working here?",
+        "explanation": "How long + has + she + been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-07",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nI have been feeling well lately.",
+        "answer": "I have not been feeling well lately.",
+        "explanation": "Haven't been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-08",
+        "type": "tiles",
+        "prompt": "Czym się ostatnio zajmowałeś?",
+        "answer": [
+          "What",
+          "have",
+          "you",
+          "been",
+          "doing",
+          "lately"
+        ],
+        "distractors": [
+          "did",
+          "done"
+        ],
+        "explanation": "What have you been doing?"
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-09",
+        "type": "error",
+        "prompt": "It has being snowing since Monday.",
+        "answer": [
+          "being",
+          "been"
+        ],
+        "explanation": "Has been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-2-10",
+        "type": "translate",
+        "prompt": "Pada od trzech dni.",
+        "answer": "It has been raining for three days.",
+        "explanation": "Trzy dni to okres: for."
+      }
+    ]
+  },
+  {
+    "id": "b2-present-perfect-continuous-3",
+    "topicId": "b2-present-perfect-continuous",
+    "exercises": [
+      {
+        "id": "b2-present-perfect-continuous-3-01",
+        "type": "choice",
+        "prompt": "Sorry I'm late. ___ long?",
+        "answer": "Have you been waiting",
+        "distractors": [
+          "Did you wait",
+          "Are you waiting"
+        ],
+        "explanation": "Czekasz do teraz: Have you been waiting?"
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-02",
+        "type": "choice",
+        "prompt": "Her eyes are red. She ___.",
+        "answer": "has been crying",
+        "distractors": [
+          "has cried",
+          "cries"
+        ],
+        "explanation": "Widać ślady: has been crying."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-03",
+        "type": "cloze",
+        "prompt": "How long has he ___ driving? (be)",
+        "answer": "been",
+        "explanation": "Has been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-04",
+        "type": "cloze",
+        "prompt": "I've been ___ to call you all day. (try)",
+        "answer": "trying",
+        "explanation": "Have been + trying."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-05",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "for|przez (okres)",
+          "since|od (moment)",
+          "recently|ostatnio",
+          "all day|cały dzień"
+        ],
+        "explanation": "Określenia czasu."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-06",
+        "type": "error",
+        "prompt": "I've been working here since five years.",
+        "answer": [
+          "since",
+          "for"
+        ],
+        "explanation": "Pięć lat to okres: for."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-07",
+        "type": "error",
+        "prompt": "She's been study all night.",
+        "answer": [
+          "study",
+          "studying"
+        ],
+        "explanation": "Has been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-08",
+        "type": "tiles",
+        "prompt": "Ona od miesięcy szuka pracy.",
+        "answer": [
+          "She",
+          "has",
+          "been",
+          "looking",
+          "for",
+          "a",
+          "job",
+          "for",
+          "months"
+        ],
+        "distractors": [
+          "since",
+          "looked"
+        ],
+        "explanation": "Okres: for months."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-09",
+        "type": "translate",
+        "prompt": "Co robiłeś przez cały dzień?",
+        "answer": "What have you been doing all day?",
+        "accept": [
+          "What did you do all day?"
+        ],
+        "explanation": "Do teraz: have been doing."
+      },
+      {
+        "id": "b2-present-perfect-continuous-3-10",
+        "type": "transform",
+        "prompt": "Połącz w jedno zdanie z Present Perfect Continuous i „since”.\nThey started building the bridge in 2022. They are still building it.",
+        "answer": "They have been building the bridge since 2022.",
+        "explanation": "Since + moment początku."
+      }
+    ]
+  }
+]

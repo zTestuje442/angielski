@@ -1,0 +1,341 @@
+[
+  {
+    "id": "a2-sent-linking-1",
+    "topicId": "a2-sent-linking",
+    "exercises": [
+      {
+        "id": "a2-sent-linking-1-01",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „and”.\nI got up. I had a shower.",
+        "answer": "I got up and had a shower.",
+        "accept": [
+          "I got up and I had a shower."
+        ],
+        "explanation": "Ten sam podmiot – można go nie powtarzać."
+      },
+      {
+        "id": "a2-sent-linking-1-02",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „but”.\nThe hotel was nice. It was expensive.",
+        "answer": "The hotel was nice, but it was expensive.",
+        "accept": [
+          "The hotel was nice but it was expensive."
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-sent-linking-1-03",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because”.\nI took a taxi. I was late.",
+        "answer": "I took a taxi because I was late.",
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-sent-linking-1-04",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „so”.\nIt was cold. I put on a coat.",
+        "answer": "It was cold, so I put on a coat.",
+        "accept": [
+          "It was cold so I put on a coat."
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-sent-linking-1-05",
+        "type": "choice",
+        "prompt": "I was hungry, ___ I made a sandwich.",
+        "answer": "so",
+        "distractors": [
+          "because",
+          "but"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-sent-linking-1-06",
+        "type": "choice",
+        "prompt": "She can't come ___ she's ill.",
+        "answer": "because",
+        "distractors": [
+          "so",
+          "and"
+        ],
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-sent-linking-1-07",
+        "type": "tiles",
+        "prompt": "Lubię pływać, ale nie lubię biegać.",
+        "answer": [
+          "I",
+          "like",
+          "swimming",
+          "but",
+          "I",
+          "don't",
+          "like",
+          "running"
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-sent-linking-1-08",
+        "type": "tiles",
+        "prompt": "Poszliśmy do kina i obejrzeliśmy komedię.",
+        "answer": [
+          "We",
+          "went",
+          "to",
+          "the",
+          "cinema",
+          "and",
+          "watched",
+          "a",
+          "comedy"
+        ],
+        "explanation": "Dwie czynności: and."
+      },
+      {
+        "id": "a2-sent-linking-1-09",
+        "type": "error",
+        "prompt": "I was tired because I went to bed.",
+        "answer": [
+          "because",
+          "so"
+        ],
+        "explanation": "Skutek zmęczenia: so."
+      },
+      {
+        "id": "a2-sent-linking-1-10",
+        "type": "match",
+        "prompt": "Połącz początki zdań z zakończeniami.",
+        "answer": [
+          "I was thirsty,|so I drank some water.",
+          "I didn't go out|because it was raining.",
+          "She's clever,|but she's lazy.",
+          "We went to the beach|and swam in the sea."
+        ],
+        "explanation": "Dopasuj początek do sensownego końca."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-linking-2",
+    "topicId": "a2-sent-linking",
+    "exercises": [
+      {
+        "id": "a2-sent-linking-2-01",
+        "type": "cloze",
+        "prompt": "___, I get up. Then I have breakfast. (najpierw)",
+        "answer": "First",
+        "explanation": "Najpierw: first."
+      },
+      {
+        "id": "a2-sent-linking-2-02",
+        "type": "cloze",
+        "prompt": "I had lunch. ___ that, I went for a walk. (po)",
+        "answer": "After",
+        "explanation": "Po tym: after that."
+      },
+      {
+        "id": "a2-sent-linking-2-03",
+        "type": "cloze",
+        "prompt": "We visited the castle and ___ we went to a restaurant. (potem)",
+        "answer": "then",
+        "explanation": "Potem: then."
+      },
+      {
+        "id": "a2-sent-linking-2-04",
+        "type": "choice",
+        "prompt": "First open the box, ___ take out the instructions.",
+        "answer": "then",
+        "distractors": [
+          "but",
+          "because"
+        ],
+        "explanation": "Kolejny krok: then."
+      },
+      {
+        "id": "a2-sent-linking-2-05",
+        "type": "choice",
+        "prompt": "___, we got home at midnight. (w końcu)",
+        "answer": "Finally",
+        "distractors": [
+          "First",
+          "Then"
+        ],
+        "explanation": "Na koniec: finally."
+      },
+      {
+        "id": "a2-sent-linking-2-06",
+        "type": "tiles",
+        "prompt": "Najpierw zjadłem śniadanie, a potem poszedłem do pracy.",
+        "answer": [
+          "First",
+          "I",
+          "had",
+          "breakfast",
+          "and",
+          "then",
+          "I",
+          "went",
+          "to",
+          "work"
+        ],
+        "explanation": "First... and then..."
+      },
+      {
+        "id": "a2-sent-linking-2-07",
+        "type": "transform",
+        "prompt": "Połącz zdania słowami „and then”.\nWe went shopping. We had a coffee.",
+        "answer": "We went shopping and then we had a coffee.",
+        "accept": [
+          "We went shopping and then had a coffee.",
+          "We went shopping, then we had a coffee."
+        ],
+        "explanation": "Kolejność: and then."
+      },
+      {
+        "id": "a2-sent-linking-2-08",
+        "type": "error",
+        "prompt": "I finish work and than I go home.",
+        "answer": [
+          "than",
+          "then"
+        ],
+        "explanation": "Potem: then (than = niż)."
+      },
+      {
+        "id": "a2-sent-linking-2-09",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "first|najpierw",
+          "then|potem",
+          "after that|po tym",
+          "finally|na koniec"
+        ],
+        "explanation": "Słowa porządkujące kolejność."
+      },
+      {
+        "id": "a2-sent-linking-2-10",
+        "type": "translate",
+        "prompt": "Najpierw zadzwoń do mnie.",
+        "answer": "Call me first.",
+        "accept": [
+          "First call me.",
+          "First, call me."
+        ],
+        "explanation": "Najpierw: first."
+      }
+    ]
+  },
+  {
+    "id": "a2-sent-linking-3",
+    "topicId": "a2-sent-linking",
+    "exercises": [
+      {
+        "id": "a2-sent-linking-3-01",
+        "type": "cloze",
+        "prompt": "I like pizza. My sister likes it ___. (też – na końcu)",
+        "answer": "too",
+        "explanation": "Na końcu zdania: too."
+      },
+      {
+        "id": "a2-sent-linking-3-02",
+        "type": "cloze",
+        "prompt": "She speaks English and she ___ speaks French. (także)",
+        "answer": "also",
+        "explanation": "Przed czasownikiem: also."
+      },
+      {
+        "id": "a2-sent-linking-3-03",
+        "type": "cloze",
+        "prompt": "___ I was a child, I lived in Gdynia. (kiedy)",
+        "answer": "When",
+        "explanation": "Kiedy: when."
+      },
+      {
+        "id": "a2-sent-linking-3-04",
+        "type": "choice",
+        "prompt": "I'm hungry. — Me ___!",
+        "answer": "too",
+        "distractors": [
+          "also",
+          "so"
+        ],
+        "explanation": "Ja też: Me too."
+      },
+      {
+        "id": "a2-sent-linking-3-05",
+        "type": "choice",
+        "prompt": "Call me ___ you get home.",
+        "answer": "when",
+        "distractors": [
+          "so",
+          "but"
+        ],
+        "explanation": "Kiedy: when."
+      },
+      {
+        "id": "a2-sent-linking-3-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „when” na początku.\nI was young. I played the piano.",
+        "answer": "When I was young, I played the piano.",
+        "accept": [
+          "When I was young I played the piano.",
+          "I played the piano when I was young."
+        ],
+        "explanation": "When na początku – przecinek."
+      },
+      {
+        "id": "a2-sent-linking-3-07",
+        "type": "tiles",
+        "prompt": "On też gra na gitarze.",
+        "answer": [
+          "He",
+          "also",
+          "plays",
+          "the",
+          "guitar"
+        ],
+        "explanation": "Also przed czasownikiem."
+      },
+      {
+        "id": "a2-sent-linking-3-08",
+        "type": "error",
+        "prompt": "She likes dogs and I like them to.",
+        "answer": [
+          "to",
+          "too"
+        ],
+        "explanation": "Też: too."
+      },
+      {
+        "id": "a2-sent-linking-3-09",
+        "type": "translate",
+        "prompt": "Zadzwonię, kiedy przyjadę.",
+        "answer": "I will call when I arrive.",
+        "accept": [
+          "I will call you when I arrive.",
+          "I will phone you when I arrive.",
+          "I will call you when I get there.",
+          "I will call when I get there."
+        ],
+        "explanation": "Po when czas teraźniejszy: when I arrive."
+      },
+      {
+        "id": "a2-sent-linking-3-10",
+        "type": "match",
+        "prompt": "Połącz słowa ze znaczeniem.",
+        "answer": [
+          "too|też (na końcu zdania)",
+          "also|też (przed czasownikiem)",
+          "when|kiedy",
+          "then|potem"
+        ],
+        "explanation": "Słowa łączące."
+      }
+    ]
+  }
+]

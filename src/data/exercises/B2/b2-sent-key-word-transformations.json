@@ -1,0 +1,336 @@
+[
+  {
+    "id": "b2-sent-key-word-transformations-1",
+    "topicId": "b2-sent-key-word-transformations",
+    "exercises": [
+      {
+        "id": "b2-sent-key-word-transformations-1-01",
+        "type": "transform",
+        "prompt": "Użyj słowa ENOUGH.\nIt's too cold to swim. → It isn't ___ to swim.",
+        "answer": "It isn't warm enough to swim.",
+        "accept": [
+          "It is not warm enough to swim."
+        ],
+        "explanation": "Too cold → not warm enough."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-02",
+        "type": "transform",
+        "prompt": "Użyj słowa FOR.\nI started working here three years ago. → I ___ three years.",
+        "answer": "I have been working here for three years.",
+        "accept": [
+          "I have worked here for three years.",
+          "I've been working here for three years.",
+          "I've worked here for three years."
+        ],
+        "explanation": "Present Perfect Continuous + for."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-03",
+        "type": "transform",
+        "prompt": "Użyj słowa MUST.\nI'm sure he forgot about it. → He ___ about it.",
+        "answer": "He must have forgotten about it.",
+        "explanation": "Must have + III forma."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-04",
+        "type": "transform",
+        "prompt": "Użyj słowa WISH.\nI'm sorry I didn't go to the party. → I ___ to the party.",
+        "answer": "I wish I had gone to the party.",
+        "accept": [
+          "I wish that I had gone to the party.",
+          "I wish I'd gone to the party."
+        ],
+        "explanation": "Wish + Past Perfect."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-05",
+        "type": "choice",
+        "prompt": "\"They will finish the bridge next year.\" → The bridge ___ next year. (BE)",
+        "answer": "will be finished",
+        "distractors": [
+          "will finish",
+          "is being finish"
+        ],
+        "explanation": "Strona bierna: will be finished."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-06",
+        "type": "choice",
+        "prompt": "\"Nobody in the class is taller than Tom.\" → Tom is ___ in the class. (TALLEST)",
+        "answer": "the tallest",
+        "distractors": [
+          "tallest of",
+          "the most tall"
+        ],
+        "explanation": "Stopień najwyższy: the tallest."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-07",
+        "type": "cloze",
+        "prompt": "\"Let's postpone the meeting.\" → Let's put ___ the meeting. (OFF)",
+        "answer": "off",
+        "explanation": "Postpone → put off."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-08",
+        "type": "error",
+        "prompt": "I'm not used to drive on the left.",
+        "answer": [
+          "drive",
+          "driving"
+        ],
+        "explanation": "Be used to + -ing."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-09",
+        "type": "tiles",
+        "prompt": "Nie warto się martwić.",
+        "answer": [
+          "There",
+          "is",
+          "no",
+          "point",
+          "in",
+          "worrying"
+        ],
+        "distractors": [
+          "worth",
+          "worry"
+        ],
+        "explanation": "No point in + -ing."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-1-10",
+        "type": "translate",
+        "prompt": "Żałuję, że nie uczyłem się więcej.",
+        "answer": "I wish I had studied more.",
+        "accept": [
+          "I wish I'd studied more.",
+          "I regret not studying more.",
+          "I regret that I did not study more.",
+          "If only I had studied more."
+        ],
+        "explanation": "Wish + Past Perfect."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-key-word-transformations-2",
+    "topicId": "b2-sent-key-word-transformations",
+    "exercises": [
+      {
+        "id": "b2-sent-key-word-transformations-2-01",
+        "type": "transform",
+        "prompt": "Użyj słowa PROMISED.\n\"I'll call you tomorrow,\" he said to me. → He ___ me the next day.",
+        "answer": "He promised to call me the next day.",
+        "explanation": "Promise + to."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-02",
+        "type": "transform",
+        "prompt": "Użyj słowa CAN'T.\nI'm sure she wasn't at home. → She ___ at home.",
+        "answer": "She can't have been at home.",
+        "accept": [
+          "She cannot have been at home."
+        ],
+        "explanation": "Can't have been."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-03",
+        "type": "transform",
+        "prompt": "Użyj słowa HAD.\nThe hairdresser cut my hair yesterday. → I ___ yesterday.",
+        "answer": "I had my hair cut yesterday.",
+        "explanation": "Have something done."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-04",
+        "type": "transform",
+        "prompt": "Użyj słowa UNLESS.\nIf you don't hurry, you'll miss the bus. → You'll miss the bus ___.",
+        "answer": "You'll miss the bus unless you hurry.",
+        "accept": [
+          "You will miss the bus unless you hurry."
+        ],
+        "explanation": "Unless = if not."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-05",
+        "type": "choice",
+        "prompt": "\"It was such a boring film that I fell asleep.\" → The film was ___ I fell asleep. (SO)",
+        "answer": "so boring that",
+        "distractors": [
+          "such boring that",
+          "so bored that"
+        ],
+        "explanation": "So + przymiotnik + that."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-06",
+        "type": "choice",
+        "prompt": "\"I haven't seen him for ages.\" → It's ages ___ him. (SINCE)",
+        "answer": "since I last saw",
+        "distractors": [
+          "since I have seen",
+          "that I didn't see"
+        ],
+        "explanation": "It's ages since I last saw..."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-07",
+        "type": "cloze",
+        "prompt": "\"She didn't take the money,\" he said. → He denied ___ the money. (TAKING)",
+        "answer": "taking",
+        "explanation": "Deny + -ing."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-08",
+        "type": "error",
+        "prompt": "It's not worth repair this old car.",
+        "answer": [
+          "repair",
+          "repairing"
+        ],
+        "explanation": "Worth + -ing."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-09",
+        "type": "tiles",
+        "prompt": "Gdybym miał czas pomógłbym ci.",
+        "answer": [
+          "If",
+          "I",
+          "had",
+          "time",
+          "I",
+          "would",
+          "help",
+          "you"
+        ],
+        "distractors": [
+          "has",
+          "helped"
+        ],
+        "explanation": "Drugi tryb warunkowy."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-2-10",
+        "type": "translate",
+        "prompt": "Pozwolono nam wyjść wcześniej.",
+        "answer": "We were allowed to leave early.",
+        "accept": [
+          "We were allowed to leave earlier.",
+          "We were let out early."
+        ],
+        "explanation": "Be allowed to."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-key-word-transformations-3",
+    "topicId": "b2-sent-key-word-transformations",
+    "exercises": [
+      {
+        "id": "b2-sent-key-word-transformations-3-01",
+        "type": "transform",
+        "prompt": "Użyj słowa SUCCEEDED.\nShe managed to pass the exam. → She ___ the exam.",
+        "answer": "She succeeded in passing the exam.",
+        "explanation": "Succeed in + -ing."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-02",
+        "type": "transform",
+        "prompt": "Użyj słowa LOOKING.\nI'm excited about seeing you next week. → I'm ___ you next week.",
+        "answer": "I'm looking forward to seeing you next week.",
+        "accept": [
+          "I am looking forward to seeing you next week."
+        ],
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-03",
+        "type": "transform",
+        "prompt": "Użyj słowa WOULD.\nI didn't know you were ill, so I didn't visit you. → If I had known you were ill, I ___ you.",
+        "answer": "If I had known you were ill, I would have visited you.",
+        "explanation": "Trzeci tryb warunkowy."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-04",
+        "type": "transform",
+        "prompt": "Użyj słowa ASKED.\n\"Where do you live?\" she said to me. → She ___ lived.",
+        "answer": "She asked me where I lived.",
+        "explanation": "Pytanie zależne: szyk twierdzący."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-05",
+        "type": "choice",
+        "prompt": "\"It's possible that they got lost.\" → They ___ lost. (MIGHT)",
+        "answer": "might have got",
+        "distractors": [
+          "might get",
+          "might be got"
+        ],
+        "explanation": "Might have + III forma."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-06",
+        "type": "choice",
+        "prompt": "\"He started smoking ten years ago and still smokes.\" → He ___ for ten years. (HAS)",
+        "answer": "has been smoking",
+        "distractors": [
+          "has smoked since",
+          "has started smoking"
+        ],
+        "explanation": "Present Perfect Continuous + for."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-07",
+        "type": "cloze",
+        "prompt": "\"They are building a new school.\" → A new school is ___ built. (BEING)",
+        "answer": "being",
+        "explanation": "Strona bierna Continuous: is being built."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-08",
+        "type": "error",
+        "prompt": "You had better seeing a doctor.",
+        "answer": [
+          "seeing",
+          "see"
+        ],
+        "explanation": "Had better + forma podstawowa."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-09",
+        "type": "tiles",
+        "prompt": "Nie mogę się doczekać wakacji.",
+        "answer": [
+          "I",
+          "can't",
+          "wait",
+          "for",
+          "the",
+          "holidays"
+        ],
+        "distractors": [
+          "to",
+          "waiting"
+        ],
+        "explanation": "Can't wait for."
+      },
+      {
+        "id": "b2-sent-key-word-transformations-3-10",
+        "type": "translate",
+        "prompt": "Ten film nie jest tak dobry jak książka.",
+        "answer": "The film is not as good as the book.",
+        "accept": [
+          "The film isn't as good as the book.",
+          "This film is not as good as the book.",
+          "This film isn't as good as the book.",
+          "The movie is not as good as the book.",
+          "The movie isn't as good as the book."
+        ],
+        "explanation": "Not as ... as."
+      }
+    ]
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "id": "c1-emphasis-1",
+    "topicId": "c1-emphasis",
+    "exercises": [
+      {
+        "id": "c1-emphasis-1-01",
+        "type": "cloze",
+        "prompt": "I ___ like your new haircut! It really suits you.",
+        "answer": "do",
+        "explanation": "Emfaza: do + czasownik."
+      },
+      {
+        "id": "c1-emphasis-1-02",
+        "type": "cloze",
+        "prompt": "This is the ___ thing I needed!",
+        "answer": "very",
+        "explanation": "The very – właśnie ten."
+      },
+      {
+        "id": "c1-emphasis-1-03",
+        "type": "choice",
+        "prompt": "It was ___ a boring lecture that I fell asleep.",
+        "answer": "such",
+        "distractors": [
+          "so",
+          "very"
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "c1-emphasis-1-04",
+        "type": "choice",
+        "prompt": "What ___ earth are you doing?",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "What on earth...?"
+      },
+      {
+        "id": "c1-emphasis-1-05",
+        "type": "choice",
+        "prompt": "She is ___ the best student in the class.",
+        "answer": "by far",
+        "distractors": [
+          "very",
+          "too far"
+        ],
+        "explanation": "By far + stopień najwyższy."
+      },
+      {
+        "id": "c1-emphasis-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "I did tell you!|Przecież ci mówiłem!",
+          "the very beginning|sam początek",
+          "no idea whatsoever|zupełnie żadnego pojęcia",
+          "by far the best|zdecydowanie najlepszy"
+        ],
+        "explanation": "Wzmocnienia."
+      },
+      {
+        "id": "c1-emphasis-1-07",
+        "type": "error",
+        "prompt": "I was very exhausted after the marathon.",
+        "answer": [
+          "very",
+          "absolutely"
+        ],
+        "explanation": "Mocny przymiotnik: absolutely exhausted."
+      },
+      {
+        "id": "c1-emphasis-1-08",
+        "type": "tiles",
+        "prompt": "Przecież ci mówiłem!",
+        "answer": [
+          "I",
+          "did",
+          "tell",
+          "you"
+        ],
+        "distractors": [
+          "telling",
+          "was"
+        ],
+        "explanation": "Did + czasownik."
+      },
+      {
+        "id": "c1-emphasis-1-09",
+        "type": "translate",
+        "prompt": "Nie mam zupełnie żadnego pojęcia.",
+        "answer": "I have no idea whatsoever.",
+        "accept": [
+          "I have absolutely no idea.",
+          "I have no idea at all.",
+          "I've no idea whatsoever."
+        ],
+        "explanation": "Whatsoever po przeczeniu."
+      },
+      {
+        "id": "c1-emphasis-1-10",
+        "type": "transform",
+        "prompt": "Dodaj emfazę z „does”.\nShe knows a lot about history.",
+        "answer": "She does know a lot about history.",
+        "explanation": "Does + forma podstawowa."
+      }
+    ]
+  },
+  {
+    "id": "c1-emphasis-2",
+    "topicId": "c1-emphasis",
+    "exercises": [
+      {
+        "id": "c1-emphasis-2-01",
+        "type": "cloze",
+        "prompt": "They are ___ nice people. (tacy)",
+        "answer": "such",
+        "explanation": "Such + l. mnoga (bez a)."
+      },
+      {
+        "id": "c1-emphasis-2-02",
+        "type": "cloze",
+        "prompt": "I spoke to the director ___. (we własnej osobie)",
+        "answer": "himself",
+        "accept": [
+          "herself"
+        ],
+        "explanation": "Emfatyczne -self."
+      },
+      {
+        "id": "c1-emphasis-2-03",
+        "type": "choice",
+        "prompt": "Why ___ did you tell her?",
+        "answer": "ever",
+        "distractors": [
+          "always",
+          "never"
+        ],
+        "explanation": "Why ever...? – zdziwienie."
+      },
+      {
+        "id": "c1-emphasis-2-04",
+        "type": "choice",
+        "prompt": "He ___ apologise, but she didn't accept it.",
+        "answer": "did",
+        "distractors": [
+          "was",
+          "has"
+        ],
+        "explanation": "Emfaza: did + forma podstawowa."
+      },
+      {
+        "id": "c1-emphasis-2-05",
+        "type": "choice",
+        "prompt": "The food was ___ delicious that we ordered more.",
+        "answer": "so",
+        "distractors": [
+          "such",
+          "such a"
+        ],
+        "explanation": "So + przymiotnik."
+      },
+      {
+        "id": "c1-emphasis-2-06",
+        "type": "transform",
+        "prompt": "Dodaj emfazę z „did”.\nI locked the door.",
+        "answer": "I did lock the door.",
+        "explanation": "Did + forma podstawowa."
+      },
+      {
+        "id": "c1-emphasis-2-07",
+        "type": "transform",
+        "prompt": "Zacznij od „It was such”.\nThe day was so hot that we stayed inside.",
+        "answer": "It was such a hot day that we stayed inside.",
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "c1-emphasis-2-08",
+        "type": "tiles",
+        "prompt": "Ostatnią rzeczą, jakiej chcę, jest kłótnia.",
+        "answer": [
+          "The",
+          "last",
+          "thing",
+          "I",
+          "want",
+          "is",
+          "an",
+          "argument"
+        ],
+        "distractors": [
+          "are",
+          "what"
+        ],
+        "explanation": "The last thing I want is..."
+      },
+      {
+        "id": "c1-emphasis-2-09",
+        "type": "error",
+        "prompt": "It was so a long journey that we were exhausted.",
+        "answer": [
+          "so",
+          "such"
+        ],
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "c1-emphasis-2-10",
+        "type": "translate",
+        "prompt": "To jest absolutnie niesamowite!",
+        "answer": "This is absolutely amazing!",
+        "accept": [
+          "It is absolutely amazing!",
+          "That is absolutely amazing!",
+          "This is absolutely incredible!",
+          "It is absolutely incredible!",
+          "That is absolutely incredible!"
+        ],
+        "explanation": "Absolutely + mocny przymiotnik."
+      }
+    ]
+  },
+  {
+    "id": "c1-emphasis-3",
+    "topicId": "c1-emphasis",
+    "exercises": [
+      {
+        "id": "c1-emphasis-3-01",
+        "type": "choice",
+        "prompt": "At the ___ end of the film, everything changes.",
+        "answer": "very",
+        "distractors": [
+          "much",
+          "such"
+        ],
+        "explanation": "At the very end."
+      },
+      {
+        "id": "c1-emphasis-3-02",
+        "type": "choice",
+        "prompt": "I'm ___ certain that I saw him.",
+        "answer": "absolutely",
+        "distractors": [
+          "very much",
+          "quite very"
+        ],
+        "explanation": "Absolutely certain."
+      },
+      {
+        "id": "c1-emphasis-3-03",
+        "type": "cloze",
+        "prompt": "There's no evidence ___ that he was involved. (zupełnie żadnych)",
+        "answer": "whatsoever",
+        "accept": [
+          "at all"
+        ],
+        "explanation": "Whatsoever po przeczeniu."
+      },
+      {
+        "id": "c1-emphasis-3-04",
+        "type": "cloze",
+        "prompt": "You ___ look tired. Have a rest. (naprawdę)",
+        "answer": "do",
+        "explanation": "Emfaza: do look."
+      },
+      {
+        "id": "c1-emphasis-3-05",
+        "type": "cloze",
+        "prompt": "Where on ___ did you find that hat?",
+        "answer": "earth",
+        "explanation": "Where on earth...?"
+      },
+      {
+        "id": "c1-emphasis-3-06",
+        "type": "match",
+        "prompt": "Połącz wzmacniacz z przymiotnikami.",
+        "answer": [
+          "absolutely|exhausted, furious, delighted",
+          "very|tired, angry, happy"
+        ],
+        "explanation": "Wzmacniacze z przymiotnikami."
+      },
+      {
+        "id": "c1-emphasis-3-07",
+        "type": "error",
+        "prompt": "He doesn't have any money whatever.",
+        "answer": [
+          "whatever",
+          "whatsoever"
+        ],
+        "explanation": "Po przeczeniu: whatsoever."
+      },
+      {
+        "id": "c1-emphasis-3-08",
+        "type": "error",
+        "prompt": "She does works hard, but she earns little.",
+        "answer": [
+          "works",
+          "work"
+        ],
+        "explanation": "Does + forma podstawowa."
+      },
+      {
+        "id": "c1-emphasis-3-09",
+        "type": "tiles",
+        "prompt": "To był zdecydowanie najgorszy dzień w moim życiu.",
+        "answer": [
+          "It",
+          "was",
+          "by",
+          "far",
+          "the",
+          "worst",
+          "day",
+          "of",
+          "my",
+          "life"
+        ],
+        "distractors": [
+          "very",
+          "worse"
+        ],
+        "explanation": "By far + stopień najwyższy."
+      },
+      {
+        "id": "c1-emphasis-3-10",
+        "type": "translate",
+        "prompt": "Byli tak mili, że nie mogłem odmówić.",
+        "answer": "They were so nice that I could not refuse.",
+        "accept": [
+          "They were so kind that I could not refuse.",
+          "They were such nice people that I could not refuse.",
+          "They were so nice that I couldn't say no.",
+          "They were so kind that I couldn't say no."
+        ],
+        "explanation": "So + przymiotnik + that."
+      }
+    ]
+  }
+]

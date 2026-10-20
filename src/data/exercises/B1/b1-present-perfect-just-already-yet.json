@@ -1,0 +1,323 @@
+[
+  {
+    "id": "b1-present-perfect-just-already-yet-1",
+    "topicId": "b1-present-perfect-just-already-yet",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-just-already-yet-1-01",
+        "type": "cloze",
+        "prompt": "I've ___ finished my homework. (właśnie)",
+        "answer": "just",
+        "explanation": "Właśnie: just, między have a III formą."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-02",
+        "type": "cloze",
+        "prompt": "Have you finished ___?",
+        "answer": "yet",
+        "explanation": "W pytaniu: yet na końcu."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-03",
+        "type": "cloze",
+        "prompt": "She has ___ seen this film. She doesn't want to see it again. (już)",
+        "answer": "already",
+        "explanation": "Już (w twierdzeniu): already."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-04",
+        "type": "choice",
+        "prompt": "Has the post arrived ___?",
+        "answer": "yet",
+        "distractors": [
+          "already",
+          "just"
+        ],
+        "explanation": "Pytanie: yet na końcu."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-05",
+        "type": "choice",
+        "prompt": "Don't worry, I've ___ paid the bill.",
+        "answer": "already",
+        "distractors": [
+          "yet",
+          "still"
+        ],
+        "explanation": "Już zapłaciłem: already."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-06",
+        "type": "match",
+        "prompt": "Połącz słowa ze znaczeniem.",
+        "answer": [
+          "just|właśnie",
+          "already|już (w twierdzeniu)",
+          "yet (w pytaniu)|już?",
+          "not yet|jeszcze nie"
+        ],
+        "explanation": "Just, already, yet."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-07",
+        "type": "tiles",
+        "prompt": "Właśnie zjadłem obiad.",
+        "answer": [
+          "I",
+          "have",
+          "just",
+          "had",
+          "lunch"
+        ],
+        "distractors": [
+          "yet"
+        ],
+        "explanation": "Have just + III forma."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-08",
+        "type": "error",
+        "prompt": "I haven't finished it already.",
+        "answer": [
+          "already",
+          "yet"
+        ],
+        "explanation": "W przeczeniu: yet."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-09",
+        "type": "translate",
+        "prompt": "Czy już kupiłeś bilety?",
+        "answer": "Have you bought the tickets yet?",
+        "accept": [
+          "Have you already bought the tickets?",
+          "Have you bought tickets yet?",
+          "Have you got the tickets yet?"
+        ],
+        "explanation": "Pytanie: yet na końcu."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-1-10",
+        "type": "transform",
+        "prompt": "Napisz przeczenie z „yet”.\nThe bus has arrived.",
+        "answer": "The bus has not arrived yet.",
+        "explanation": "Przeczenie + yet na końcu."
+      }
+    ]
+  },
+  {
+    "id": "b1-present-perfect-just-already-yet-2",
+    "topicId": "b1-present-perfect-just-already-yet",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-just-already-yet-2-01",
+        "type": "cloze",
+        "prompt": "We haven't decided ___.",
+        "answer": "yet",
+        "explanation": "Jeszcze nie: not ... yet."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-02",
+        "type": "cloze",
+        "prompt": "He has ___ left. You missed him by a minute. (właśnie)",
+        "answer": "just",
+        "explanation": "Przed chwilą: just."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-03",
+        "type": "choice",
+        "prompt": "Is Tom here? — No, he ___ arrived yet.",
+        "answer": "hasn't",
+        "distractors": [
+          "didn't",
+          "isn't"
+        ],
+        "explanation": "Present Perfect: hasn't arrived yet."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-04",
+        "type": "choice",
+        "prompt": "I've ___ told you three times!",
+        "answer": "already",
+        "distractors": [
+          "yet",
+          "just yet"
+        ],
+        "explanation": "Już: already."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-05",
+        "type": "cloze",
+        "prompt": "Have you ___ the new James Bond film yet? (see)",
+        "answer": "seen",
+        "explanation": "III forma: seen."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-06",
+        "type": "transform",
+        "prompt": "Wstaw „already” we właściwe miejsce.\nI have read this book.",
+        "answer": "I have already read this book.",
+        "explanation": "Already między have a III formą."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-07",
+        "type": "transform",
+        "prompt": "Wstaw „just” we właściwe miejsce.\nShe has called me.",
+        "answer": "She has just called me.",
+        "explanation": "Just między has a III formą."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-08",
+        "type": "tiles",
+        "prompt": "Jeszcze nie spakowałem walizki.",
+        "answer": [
+          "I",
+          "haven't",
+          "packed",
+          "my",
+          "suitcase",
+          "yet"
+        ],
+        "distractors": [
+          "already"
+        ],
+        "explanation": "Przeczenie + yet na końcu."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-09",
+        "type": "error",
+        "prompt": "Have you finished your dinner just?",
+        "answer": [
+          "just",
+          "yet"
+        ],
+        "explanation": "W pytaniu na końcu: yet."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-2-10",
+        "type": "translate",
+        "prompt": "Już to zrobiłem.",
+        "answer": "I have already done it.",
+        "accept": [
+          "I have done it already.",
+          "I have already done that.",
+          "I have done that already."
+        ],
+        "explanation": "Already + III forma."
+      }
+    ]
+  },
+  {
+    "id": "b1-present-perfect-just-already-yet-3",
+    "topicId": "b1-present-perfect-just-already-yet",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-just-already-yet-3-01",
+        "type": "choice",
+        "prompt": "Where's Anna? — She's ___ gone out.",
+        "answer": "just",
+        "distractors": [
+          "yet",
+          "ever"
+        ],
+        "explanation": "Przed chwilą wyszła: just."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-02",
+        "type": "choice",
+        "prompt": "Have you had breakfast ___? — Not yet.",
+        "answer": "yet",
+        "distractors": [
+          "already",
+          "just"
+        ],
+        "explanation": "Pytanie: yet."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-03",
+        "type": "cloze",
+        "prompt": "The film has ___ started. Hurry up! (już)",
+        "answer": "already",
+        "explanation": "Już: already."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-04",
+        "type": "cloze",
+        "prompt": "I can't believe it! I've ___ won the lottery! (właśnie)",
+        "answer": "just",
+        "explanation": "Właśnie: just."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-05",
+        "type": "match",
+        "prompt": "Połącz pytania z odpowiedziami.",
+        "answer": [
+          "Have you done it yet?|No, not yet.",
+          "Has she left?|Yes, she's just gone.",
+          "Do you want to see it?|No, I've already seen it."
+        ],
+        "explanation": "Typowe pytania i odpowiedzi."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-06",
+        "type": "error",
+        "prompt": "She has already wrote the report.",
+        "answer": [
+          "wrote",
+          "written"
+        ],
+        "explanation": "III forma: written."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-07",
+        "type": "error",
+        "prompt": "I have just saw him.",
+        "answer": [
+          "saw",
+          "seen"
+        ],
+        "explanation": "III forma: seen."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-08",
+        "type": "tiles",
+        "prompt": "Czy już skończyłeś?",
+        "answer": [
+          "Have",
+          "you",
+          "finished",
+          "yet"
+        ],
+        "distractors": [
+          "did",
+          "still"
+        ],
+        "explanation": "Pytanie: yet na końcu."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-09",
+        "type": "translate",
+        "prompt": "Właśnie wróciła z pracy.",
+        "answer": "She has just come back from work.",
+        "accept": [
+          "She has just got back from work.",
+          "She has just returned from work.",
+          "She has just come home from work.",
+          "She has just got home from work."
+        ],
+        "explanation": "Has just + III forma."
+      },
+      {
+        "id": "b1-present-perfect-just-already-yet-3-10",
+        "type": "transform",
+        "prompt": "Odpowiedz przecząco pełnym zdaniem z „yet”.\nHave you cleaned your room?",
+        "answer": "No, I have not cleaned it yet.",
+        "accept": [
+          "No, I have not cleaned my room yet.",
+          "No, not yet."
+        ],
+        "explanation": "Not ... yet."
+      }
+    ]
+  }
+]

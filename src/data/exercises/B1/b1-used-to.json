@@ -1,0 +1,323 @@
+[
+  {
+    "id": "b1-used-to-1",
+    "topicId": "b1-used-to",
+    "exercises": [
+      {
+        "id": "b1-used-to-1-01",
+        "type": "cloze",
+        "prompt": "I ___ to play the piano, but I stopped.",
+        "answer": "used",
+        "explanation": "Kiedyś (już nie): used to."
+      },
+      {
+        "id": "b1-used-to-1-02",
+        "type": "cloze",
+        "prompt": "She used to ___ long hair. (have)",
+        "answer": "have",
+        "explanation": "Used to + forma podstawowa."
+      },
+      {
+        "id": "b1-used-to-1-03",
+        "type": "choice",
+        "prompt": "We ___ live in a small village when I was a child.",
+        "answer": "used to",
+        "distractors": [
+          "use to",
+          "were used to"
+        ],
+        "explanation": "Twierdzenie: used to."
+      },
+      {
+        "id": "b1-used-to-1-04",
+        "type": "choice",
+        "prompt": "Did you ___ to like school?",
+        "answer": "use",
+        "distractors": [
+          "used",
+          "using"
+        ],
+        "explanation": "Po did: use to (bez -d)."
+      },
+      {
+        "id": "b1-used-to-1-05",
+        "type": "cloze",
+        "prompt": "I didn't ___ to like coffee, but now I love it.",
+        "answer": "use",
+        "explanation": "Po didn't: use to."
+      },
+      {
+        "id": "b1-used-to-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "used to|kiedyś (a teraz już nie)",
+          "didn't use to|kiedyś nie",
+          "Did you use to...?|Czy kiedyś...?",
+          "usually|zwykle (teraz)"
+        ],
+        "explanation": "Used to i usually."
+      },
+      {
+        "id": "b1-used-to-1-07",
+        "type": "error",
+        "prompt": "I use to smoke, but I stopped.",
+        "answer": [
+          "use",
+          "used"
+        ],
+        "explanation": "W twierdzeniu: used to."
+      },
+      {
+        "id": "b1-used-to-1-08",
+        "type": "tiles",
+        "prompt": "Kiedyś mieszkałem w Gdańsku.",
+        "answer": [
+          "I",
+          "used",
+          "to",
+          "live",
+          "in",
+          "Gdańsk"
+        ],
+        "distractors": [
+          "was",
+          "living"
+        ],
+        "explanation": "Used to + live."
+      },
+      {
+        "id": "b1-used-to-1-09",
+        "type": "translate",
+        "prompt": "Kiedyś grałem w piłkę.",
+        "answer": "I used to play football.",
+        "explanation": "Kiedyś, a teraz już nie: used to."
+      },
+      {
+        "id": "b1-used-to-1-10",
+        "type": "transform",
+        "prompt": "Napisz zdanie z „used to”, zacznij od „I”.\nI played tennis when I was young, but I don't now.",
+        "answer": "I used to play tennis.",
+        "accept": [
+          "I used to play tennis when I was young."
+        ],
+        "explanation": "Kiedyś, a teraz nie: used to."
+      }
+    ]
+  },
+  {
+    "id": "b1-used-to-2",
+    "topicId": "b1-used-to",
+    "exercises": [
+      {
+        "id": "b1-used-to-2-01",
+        "type": "cloze",
+        "prompt": "There ___ to be a cinema here, but now it's a supermarket.",
+        "answer": "used",
+        "explanation": "There used to be."
+      },
+      {
+        "id": "b1-used-to-2-02",
+        "type": "cloze",
+        "prompt": "Where did you use ___ live?",
+        "answer": "to",
+        "explanation": "Did + use to."
+      },
+      {
+        "id": "b1-used-to-2-03",
+        "type": "choice",
+        "prompt": "My dad ___ use to cook, but now he cooks every day.",
+        "answer": "didn't",
+        "distractors": [
+          "doesn't",
+          "wasn't"
+        ],
+        "explanation": "Przeczenie: didn't use to."
+      },
+      {
+        "id": "b1-used-to-2-04",
+        "type": "choice",
+        "prompt": "He used to ___ a lot, but now he's very fit.",
+        "answer": "eat",
+        "distractors": [
+          "eating",
+          "eats"
+        ],
+        "explanation": "Used to + forma podstawowa."
+      },
+      {
+        "id": "b1-used-to-2-05",
+        "type": "cloze",
+        "prompt": "Did they use to ___ on holiday to Spain? (go)",
+        "answer": "go",
+        "explanation": "Use to + go."
+      },
+      {
+        "id": "b1-used-to-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nShe used to wear glasses.",
+        "answer": "She did not use to wear glasses.",
+        "explanation": "Didn't use to."
+      },
+      {
+        "id": "b1-used-to-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou used to have a dog.",
+        "answer": "Did you use to have a dog?",
+        "explanation": "Did + you + use to."
+      },
+      {
+        "id": "b1-used-to-2-08",
+        "type": "tiles",
+        "prompt": "Czy kiedyś bałeś się ciemności?",
+        "answer": [
+          "Did",
+          "you",
+          "use",
+          "to",
+          "be",
+          "afraid",
+          "of",
+          "the",
+          "dark"
+        ],
+        "distractors": [
+          "used"
+        ],
+        "explanation": "Did + you + use to."
+      },
+      {
+        "id": "b1-used-to-2-09",
+        "type": "error",
+        "prompt": "Did you used to live here?",
+        "answer": [
+          "used",
+          "use"
+        ],
+        "explanation": "Po did: use to."
+      },
+      {
+        "id": "b1-used-to-2-10",
+        "type": "translate",
+        "prompt": "Kiedyś nie lubiłem warzyw.",
+        "answer": "I did not use to like vegetables.",
+        "accept": [
+          "I never used to like vegetables."
+        ],
+        "explanation": "Didn't use to."
+      }
+    ]
+  },
+  {
+    "id": "b1-used-to-3",
+    "topicId": "b1-used-to",
+    "exercises": [
+      {
+        "id": "b1-used-to-3-01",
+        "type": "choice",
+        "prompt": "I ___ to the gym yesterday.",
+        "answer": "went",
+        "distractors": [
+          "used to go",
+          "use to go"
+        ],
+        "explanation": "Jedno zdarzenie: Past Simple."
+      },
+      {
+        "id": "b1-used-to-3-02",
+        "type": "choice",
+        "prompt": "When I was a student, I ___ to bed very late.",
+        "answer": "used to go",
+        "distractors": [
+          "use to go",
+          "am used to go"
+        ],
+        "explanation": "Przeszły zwyczaj: used to."
+      },
+      {
+        "id": "b1-used-to-3-03",
+        "type": "choice",
+        "prompt": "I ___ get up early now. I'm a teacher.",
+        "answer": "usually",
+        "distractors": [
+          "used to",
+          "use to"
+        ],
+        "explanation": "Zwyczaj teraz: usually."
+      },
+      {
+        "id": "b1-used-to-3-04",
+        "type": "cloze",
+        "prompt": "My grandparents ___ to live on a farm.",
+        "answer": "used",
+        "explanation": "Used to."
+      },
+      {
+        "id": "b1-used-to-3-05",
+        "type": "cloze",
+        "prompt": "We used ___ have a car, but we sold it.",
+        "answer": "to",
+        "explanation": "Used to."
+      },
+      {
+        "id": "b1-used-to-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Kiedyś grałem w tenisa.|I used to play tennis.",
+          "Zwykle gram w tenisa.|I usually play tennis.",
+          "Wczoraj grałem w tenisa.|I played tennis yesterday."
+        ],
+        "explanation": "Used to, usually i Past Simple."
+      },
+      {
+        "id": "b1-used-to-3-07",
+        "type": "error",
+        "prompt": "We used to went camping every summer.",
+        "answer": [
+          "went",
+          "go"
+        ],
+        "explanation": "Used to + forma podstawowa."
+      },
+      {
+        "id": "b1-used-to-3-08",
+        "type": "tiles",
+        "prompt": "Ta ulica była kiedyś bardzo cicha.",
+        "answer": [
+          "This",
+          "street",
+          "used",
+          "to",
+          "be",
+          "very",
+          "quiet"
+        ],
+        "distractors": [
+          "was",
+          "use"
+        ],
+        "explanation": "Used to be."
+      },
+      {
+        "id": "b1-used-to-3-09",
+        "type": "translate",
+        "prompt": "Kiedyś pracowała w szpitalu.",
+        "answer": "She used to work in a hospital.",
+        "explanation": "Przeszły stan, który się skończył: used to."
+      },
+      {
+        "id": "b1-used-to-3-10",
+        "type": "transform",
+        "prompt": "Przepisz z „used to”.\nAs a child, I believed in ghosts.",
+        "answer": "As a child, I used to believe in ghosts.",
+        "accept": [
+          "As a child I used to believe in ghosts.",
+          "I used to believe in ghosts as a child.",
+          "I used to believe in ghosts when I was a child."
+        ],
+        "explanation": "Przeszły stan: used to."
+      }
+    ]
+  }
+]

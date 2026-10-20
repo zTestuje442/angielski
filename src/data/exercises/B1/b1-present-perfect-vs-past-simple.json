@@ -1,0 +1,329 @@
+[
+  {
+    "id": "b1-present-perfect-vs-past-simple-1",
+    "topicId": "b1-present-perfect-vs-past-simple",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-01",
+        "type": "choice",
+        "prompt": "I ___ to Paris in 2018.",
+        "answer": "went",
+        "distractors": [
+          "have been",
+          "have gone"
+        ],
+        "explanation": "Konkretny rok: Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-02",
+        "type": "choice",
+        "prompt": "I ___ to Paris three times.",
+        "answer": "have been",
+        "distractors": [
+          "went",
+          "was"
+        ],
+        "explanation": "Doświadczenie bez czasu: Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-03",
+        "type": "choice",
+        "prompt": "Have you ever ___ a famous person?",
+        "answer": "met",
+        "distractors": [
+          "meet",
+          "meeting"
+        ],
+        "explanation": "Present Perfect: have + met."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-04",
+        "type": "cloze",
+        "prompt": "When ___ you start working here?",
+        "answer": "did",
+        "explanation": "When...? – Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-05",
+        "type": "cloze",
+        "prompt": "I ___ him since we were kids. (know)",
+        "answer": "have known",
+        "explanation": "Stan do dziś (since): Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-06",
+        "type": "cloze",
+        "prompt": "We ___ here in 2015. (move)",
+        "answer": "moved",
+        "explanation": "Konkretny rok: Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-07",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Byłem tam w 2019.|I was there in 2019.",
+          "Byłem tam dwa razy.|I have been there twice.",
+          "Kiedy przyjechałeś?|When did you arrive?",
+          "Jak długo tu jesteś?|How long have you been here?"
+        ],
+        "explanation": "Kiedy – Past Simple; doświadczenie i czas trwania – Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-08",
+        "type": "error",
+        "prompt": "Did you ever been to Rome?",
+        "answer": [
+          "Did",
+          "Have"
+        ],
+        "explanation": "Doświadczenie: Have you ever been...?"
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-09",
+        "type": "tiles",
+        "prompt": "Nigdy nie jadłem sushi.",
+        "answer": [
+          "I",
+          "have",
+          "never",
+          "eaten",
+          "sushi"
+        ],
+        "distractors": [
+          "ate",
+          "did"
+        ],
+        "explanation": "Doświadczenie: have never + III forma."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-1-10",
+        "type": "translate",
+        "prompt": "Kiedy go poznałeś?",
+        "answer": "When did you meet him?",
+        "explanation": "When – Past Simple."
+      }
+    ]
+  },
+  {
+    "id": "b1-present-perfect-vs-past-simple-2",
+    "topicId": "b1-present-perfect-vs-past-simple",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-01",
+        "type": "cloze",
+        "prompt": "She ___ here for five years, and she still loves it. (work)",
+        "answer": "has worked",
+        "explanation": "Nadal pracuje: Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-02",
+        "type": "cloze",
+        "prompt": "She ___ there for five years, but then she left. (work)",
+        "answer": "worked",
+        "explanation": "Zakończone: Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-03",
+        "type": "choice",
+        "prompt": "How long ___ you lived in Warsaw?",
+        "answer": "have",
+        "distractors": [
+          "did",
+          "are"
+        ],
+        "explanation": "Czas trwania do dziś: Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-04",
+        "type": "choice",
+        "prompt": "When ___ the accident happen?",
+        "answer": "did",
+        "distractors": [
+          "has",
+          "have"
+        ],
+        "explanation": "When – Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-05",
+        "type": "choice",
+        "prompt": "This is the best book I ___ ever read.",
+        "answer": "have",
+        "distractors": [
+          "did",
+          "was"
+        ],
+        "explanation": "Doświadczenie: have ever read."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-06",
+        "type": "transform",
+        "prompt": "Zadaj pytanie z „How long”.\nYou have known her for years.",
+        "answer": "How long have you known her?",
+        "explanation": "How long + have + you + known."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-07",
+        "type": "tiles",
+        "prompt": "Mieszkałem w Londynie przez dwa lata.",
+        "answer": [
+          "I",
+          "lived",
+          "in",
+          "London",
+          "for",
+          "two",
+          "years"
+        ],
+        "distractors": [
+          "have",
+          "since"
+        ],
+        "explanation": "Zakończone (już tam nie mieszkam): Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-08",
+        "type": "error",
+        "prompt": "She has broke her arm.",
+        "answer": [
+          "broke",
+          "broken"
+        ],
+        "explanation": "III forma: broken."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-09",
+        "type": "translate",
+        "prompt": "Byłeś kiedyś w Hiszpanii?",
+        "answer": "Have you ever been to Spain?",
+        "explanation": "Doświadczenie: Have you ever been to...?"
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-2-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Skończyłem (i jest gotowe).|I've finished.",
+          "Skończyłem o piątej.|I finished at five.",
+          "Nigdy go nie spotkałem.|I've never met him.",
+          "Spotkałem go wczoraj.|I met him yesterday."
+        ],
+        "explanation": "Z czasem – Past Simple; bez czasu – Present Perfect."
+      }
+    ]
+  },
+  {
+    "id": "b1-present-perfect-vs-past-simple-3",
+    "topicId": "b1-present-perfect-vs-past-simple",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-01",
+        "type": "cloze",
+        "prompt": "Have you seen Ann? — Yes, I ___ her this morning. (see)",
+        "answer": "saw",
+        "explanation": "Ten poranek już minął, konkretny moment: Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-02",
+        "type": "cloze",
+        "prompt": "I ___ Ann today. Is she ill? (not / see)",
+        "answer": "haven't seen",
+        "accept": [
+          "have not seen"
+        ],
+        "explanation": "Dzień jeszcze trwa: Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-03",
+        "type": "choice",
+        "prompt": "Shakespeare ___ many plays.",
+        "answer": "wrote",
+        "distractors": [
+          "has written",
+          "writes"
+        ],
+        "explanation": "Szekspir nie żyje – zamknięta przeszłość: Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-04",
+        "type": "choice",
+        "prompt": "My sister ___ three books so far.",
+        "answer": "has written",
+        "distractors": [
+          "wrote",
+          "writes"
+        ],
+        "explanation": "So far – do teraz: Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-05",
+        "type": "choice",
+        "prompt": "What time ___ you get up today?",
+        "answer": "did",
+        "distractors": [
+          "have",
+          "are"
+        ],
+        "explanation": "Konkretna godzina: Past Simple."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-06",
+        "type": "tiles",
+        "prompt": "Ile razy byłeś w Paryżu?",
+        "answer": [
+          "How",
+          "many",
+          "times",
+          "have",
+          "you",
+          "been",
+          "to",
+          "Paris"
+        ],
+        "distractors": [
+          "did",
+          "were"
+        ],
+        "explanation": "Doświadczenie: have you been."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-07",
+        "type": "error",
+        "prompt": "He has wrote three emails today.",
+        "answer": [
+          "wrote",
+          "written"
+        ],
+        "explanation": "III forma: written."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-08",
+        "type": "error",
+        "prompt": "We visited Kraków several times since 2015.",
+        "answer": [
+          "visited",
+          "have visited"
+        ],
+        "explanation": "Since 2015 – do teraz: Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-09",
+        "type": "translate",
+        "prompt": "Nie widziałem go od poniedziałku.",
+        "answer": "I have not seen him since Monday.",
+        "explanation": "Since – Present Perfect."
+      },
+      {
+        "id": "b1-present-perfect-vs-past-simple-3-10",
+        "type": "transform",
+        "prompt": "Zmień na Present Perfect z „since 2010”.\nI started working here in 2010.",
+        "answer": "I have worked here since 2010.",
+        "accept": [
+          "I have been working here since 2010."
+        ],
+        "explanation": "Since + Present Perfect."
+      }
+    ]
+  }
+]

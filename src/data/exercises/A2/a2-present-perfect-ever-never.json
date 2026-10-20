@@ -1,0 +1,300 @@
+[
+  {
+    "id": "a2-present-perfect-ever-never-1",
+    "topicId": "a2-present-perfect-ever-never",
+    "exercises": [
+      {
+        "id": "a2-present-perfect-ever-never-1-01",
+        "type": "cloze",
+        "prompt": "I have ___ been to Japan. (nigdy)",
+        "answer": "never",
+        "explanation": "Nigdy: never, między have a III formą."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-02",
+        "type": "cloze",
+        "prompt": "Have you ___ eaten sushi? (kiedykolwiek)",
+        "answer": "ever",
+        "explanation": "Kiedykolwiek: ever."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-03",
+        "type": "cloze",
+        "prompt": "She has ___ this film three times. (see)",
+        "answer": "seen",
+        "explanation": "See → seen."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-04",
+        "type": "choice",
+        "prompt": "___ you ever been to London?",
+        "answer": "Have",
+        "distractors": [
+          "Did",
+          "Are"
+        ],
+        "explanation": "Present Perfect: Have you ever...?"
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-05",
+        "type": "choice",
+        "prompt": "He has never ___ a horse.",
+        "answer": "ridden",
+        "distractors": [
+          "rode",
+          "ride"
+        ],
+        "explanation": "Ride → rode → ridden."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-06",
+        "type": "match",
+        "prompt": "Połącz czasownik z III formą.",
+        "answer": [
+          "go|gone",
+          "see|seen",
+          "eat|eaten",
+          "be|been"
+        ],
+        "explanation": "III formy nieregularne."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-07",
+        "type": "error",
+        "prompt": "I have never saw snow.",
+        "answer": [
+          "saw",
+          "seen"
+        ],
+        "explanation": "Po have potrzebna III forma: seen."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-08",
+        "type": "tiles",
+        "prompt": "Nigdy nie byłem w Hiszpanii.",
+        "answer": [
+          "I",
+          "have",
+          "never",
+          "been",
+          "to",
+          "Spain"
+        ],
+        "explanation": "Have never been to."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-09",
+        "type": "translate",
+        "prompt": "Czy kiedykolwiek grałeś w golfa?",
+        "answer": "Have you ever played golf?",
+        "explanation": "Have you ever + III forma."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-1-10",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „ever”.\nYou have met a famous person.",
+        "answer": "Have you ever met a famous person?",
+        "explanation": "Have + you + ever + met."
+      }
+    ]
+  },
+  {
+    "id": "a2-present-perfect-ever-never-2",
+    "topicId": "a2-present-perfect-ever-never",
+    "exercises": [
+      {
+        "id": "a2-present-perfect-ever-never-2-01",
+        "type": "cloze",
+        "prompt": "Has she ever ___ a car? (drive)",
+        "answer": "driven",
+        "explanation": "Drive → driven."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-02",
+        "type": "cloze",
+        "prompt": "Have you ever been to Paris? — Yes, I ___.",
+        "answer": "have",
+        "explanation": "Krótka odpowiedź: Yes, I have."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-03",
+        "type": "cloze",
+        "prompt": "Has he ever tried skiing? — No, he ___.",
+        "answer": "hasn't",
+        "explanation": "Krótka odpowiedź: No, he hasn't."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-04",
+        "type": "choice",
+        "prompt": "I've never ___ such a beautiful place.",
+        "answer": "seen",
+        "distractors": [
+          "saw",
+          "see"
+        ],
+        "explanation": "III forma: seen."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-05",
+        "type": "choice",
+        "prompt": "They ___ never been abroad.",
+        "answer": "have",
+        "distractors": [
+          "has",
+          "are"
+        ],
+        "explanation": "They + have."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-06",
+        "type": "transform",
+        "prompt": "Zmień na przeczenie z „never”.\nI have flown in a plane.",
+        "answer": "I have never flown in a plane.",
+        "explanation": "Never między have a III formą."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-07",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „she”.\nI have never cooked a turkey.",
+        "answer": "She has never cooked a turkey.",
+        "explanation": "She + has."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-08",
+        "type": "tiles",
+        "prompt": "Czy kiedykolwiek widziałeś ducha?",
+        "answer": [
+          "Have",
+          "you",
+          "ever",
+          "seen",
+          "a",
+          "ghost"
+        ],
+        "explanation": "Have + you + ever + seen."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-09",
+        "type": "error",
+        "prompt": "Have you ever went to Italy?",
+        "answer": [
+          "went",
+          "been"
+        ],
+        "explanation": "Byłeś w: have you ever been to."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-2-10",
+        "type": "translate",
+        "prompt": "Ona nigdy nie jadła ostryg.",
+        "answer": "She has never eaten oysters.",
+        "explanation": "She has never + eaten."
+      }
+    ]
+  },
+  {
+    "id": "a2-present-perfect-ever-never-3",
+    "topicId": "a2-present-perfect-ever-never",
+    "exercises": [
+      {
+        "id": "a2-present-perfect-ever-never-3-01",
+        "type": "choice",
+        "prompt": "I've been to Rome. I ___ there in 2019.",
+        "answer": "went",
+        "distractors": [
+          "have gone",
+          "have been"
+        ],
+        "explanation": "Podany czas (in 2019): Past Simple."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-02",
+        "type": "choice",
+        "prompt": "Have you ever lost your wallet? — Yes, I ___ it last year.",
+        "answer": "lost",
+        "distractors": [
+          "have lost",
+          "lose"
+        ],
+        "explanation": "Last year: Past Simple."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-03",
+        "type": "cloze",
+        "prompt": "I have ___ a book. (write)",
+        "answer": "written",
+        "explanation": "Write → written."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-04",
+        "type": "cloze",
+        "prompt": "We have never ___ to Africa. (be)",
+        "answer": "been",
+        "explanation": "Be → been."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-05",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "Have you ever...?|Czy kiedykolwiek...?",
+          "I've never...|Nigdy nie...",
+          "once|raz",
+          "twice|dwa razy"
+        ],
+        "explanation": "Wyrażenia doświadczenia."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-06",
+        "type": "error",
+        "prompt": "She has visit Rome twice.",
+        "answer": [
+          "visit",
+          "visited"
+        ],
+        "explanation": "Po has potrzebna III forma."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-07",
+        "type": "error",
+        "prompt": "Did you ever been to Spain?",
+        "answer": [
+          "Did",
+          "Have"
+        ],
+        "explanation": "Present Perfect: Have you ever been...?"
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-08",
+        "type": "tiles",
+        "prompt": "Byłem w Paryżu dwa razy.",
+        "answer": [
+          "I",
+          "have",
+          "been",
+          "to",
+          "Paris",
+          "twice"
+        ],
+        "explanation": "Doświadczenie: have been."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-09",
+        "type": "translate",
+        "prompt": "Czy kiedykolwiek spałeś w namiocie?",
+        "answer": "Have you ever slept in a tent?",
+        "explanation": "Sleep → slept."
+      },
+      {
+        "id": "a2-present-perfect-ever-never-3-10",
+        "type": "transform",
+        "prompt": "Powiedz, kiedy to było: użyj Past Simple i „last summer” na końcu.\nI have been to Greece.",
+        "answer": "I went to Greece last summer.",
+        "accept": [
+          "I was in Greece last summer."
+        ],
+        "explanation": "Konkretny czas: Past Simple."
+      }
+    ]
+  }
+]

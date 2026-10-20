@@ -1,0 +1,335 @@
+[
+  {
+    "id": "b2-third-conditional-1",
+    "topicId": "b2-third-conditional",
+    "exercises": [
+      {
+        "id": "b2-third-conditional-1-01",
+        "type": "cloze",
+        "prompt": "If I had known, I ___ have told you.",
+        "answer": "would",
+        "explanation": "Skutek: would have."
+      },
+      {
+        "id": "b2-third-conditional-1-02",
+        "type": "cloze",
+        "prompt": "If she ___, she would have passed. (study)",
+        "answer": "had studied",
+        "explanation": "Po if: Past Perfect."
+      },
+      {
+        "id": "b2-third-conditional-1-03",
+        "type": "choice",
+        "prompt": "If we had left earlier, we ___ the train.",
+        "answer": "would have caught",
+        "distractors": [
+          "would catch",
+          "had caught"
+        ],
+        "explanation": "Would have + III forma."
+      },
+      {
+        "id": "b2-third-conditional-1-04",
+        "type": "choice",
+        "prompt": "He wouldn't have been late if he ___ the bus.",
+        "answer": "hadn't missed",
+        "distractors": [
+          "didn't miss",
+          "wouldn't miss"
+        ],
+        "explanation": "Po if: Past Perfect."
+      },
+      {
+        "id": "b2-third-conditional-1-05",
+        "type": "cloze",
+        "prompt": "What would you have ___ if you had lost your passport? (do)",
+        "answer": "done",
+        "explanation": "Would have done."
+      },
+      {
+        "id": "b2-third-conditional-1-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Gdybym wiedział, powiedziałbym ci.|If I had known, I would have told you.",
+          "Gdyby nie padało, poszlibyśmy na plażę.|If it hadn't rained, we would have gone to the beach.",
+          "Gdybyś zapytał, pomógłbym ci.|If you had asked, I would have helped you.",
+          "Gdyby wzięli mapę, nie zgubiliby się.|If they had taken a map, they wouldn't have got lost."
+        ],
+        "explanation": "Nierealna przeszłość."
+      },
+      {
+        "id": "b2-third-conditional-1-07",
+        "type": "error",
+        "prompt": "If you had told me, I would helped you.",
+        "answer": [
+          "helped",
+          "have helped"
+        ],
+        "explanation": "Would have + III forma."
+      },
+      {
+        "id": "b2-third-conditional-1-08",
+        "type": "tiles",
+        "prompt": "Gdybym miał czas, przyszedłbym (wczoraj).",
+        "answer": [
+          "If",
+          "I",
+          "had",
+          "had",
+          "time",
+          "I",
+          "would",
+          "have",
+          "come"
+        ],
+        "distractors": [
+          "will",
+          "came"
+        ],
+        "explanation": "If + had had, would have come."
+      },
+      {
+        "id": "b2-third-conditional-1-09",
+        "type": "translate",
+        "prompt": "Gdybyś zadzwonił, przyjechałbym po ciebie.",
+        "answer": "If you had called, I would have picked you up.",
+        "accept": [
+          "If you had called me, I would have picked you up.",
+          "If you had phoned, I would have picked you up.",
+          "If you had called, I would have come for you.",
+          "If you had phoned me, I would have picked you up."
+        ],
+        "explanation": "If + Past Perfect, would have."
+      },
+      {
+        "id": "b2-third-conditional-1-10",
+        "type": "transform",
+        "prompt": "Zamień na trzeci tryb warunkowy, zacznij od „If I had known”.\nI didn't know her number, so I didn't call her.",
+        "answer": "If I had known her number, I would have called her.",
+        "explanation": "If + had known, would have called."
+      }
+    ]
+  },
+  {
+    "id": "b2-third-conditional-2",
+    "topicId": "b2-third-conditional",
+    "exercises": [
+      {
+        "id": "b2-third-conditional-2-01",
+        "type": "cloze",
+        "prompt": "If it ___, we would have played tennis. (not / rain)",
+        "answer": "hadn't rained",
+        "accept": [
+          "had not rained"
+        ],
+        "explanation": "Po if: hadn't + III forma."
+      },
+      {
+        "id": "b2-third-conditional-2-02",
+        "type": "cloze",
+        "prompt": "She would have come if you ___ invited her.",
+        "answer": "had",
+        "explanation": "Po if: had invited."
+      },
+      {
+        "id": "b2-third-conditional-2-03",
+        "type": "choice",
+        "prompt": "If I had seen the sign, I ___.",
+        "answer": "wouldn't have parked there",
+        "distractors": [
+          "didn't park there",
+          "won't park there"
+        ],
+        "explanation": "Skutek: wouldn't have + III forma."
+      },
+      {
+        "id": "b2-third-conditional-2-04",
+        "type": "choice",
+        "prompt": "___ you have gone if they had asked you?",
+        "answer": "Would",
+        "distractors": [
+          "Will",
+          "Had"
+        ],
+        "explanation": "Pytanie: Would you have...?"
+      },
+      {
+        "id": "b2-third-conditional-2-05",
+        "type": "choice",
+        "prompt": "If he ___ more careful, he wouldn't have had the accident.",
+        "answer": "had been",
+        "distractors": [
+          "was",
+          "would be"
+        ],
+        "explanation": "Po if: had been."
+      },
+      {
+        "id": "b2-third-conditional-2-06",
+        "type": "transform",
+        "prompt": "Zamień na trzeci tryb warunkowy, zacznij od „If we had had”.\nWe got lost because we didn't have a map.",
+        "answer": "If we had had a map, we would not have got lost.",
+        "explanation": "Had had + would not have got lost."
+      },
+      {
+        "id": "b2-third-conditional-2-07",
+        "type": "transform",
+        "prompt": "Zamień na trzeci tryb warunkowy, zacznij od „If he had not been”.\nHe was tired, so he made mistakes.",
+        "answer": "If he had not been tired, he would not have made mistakes.",
+        "explanation": "If + hadn't been, wouldn't have made."
+      },
+      {
+        "id": "b2-third-conditional-2-08",
+        "type": "tiles",
+        "prompt": "Co byś zrobił, gdybyś wygrał?",
+        "answer": [
+          "What",
+          "would",
+          "you",
+          "have",
+          "done",
+          "if",
+          "you",
+          "had",
+          "won"
+        ],
+        "distractors": [
+          "did",
+          "will"
+        ],
+        "explanation": "Would have done + if + had won."
+      },
+      {
+        "id": "b2-third-conditional-2-09",
+        "type": "error",
+        "prompt": "If she had asked me, I would have say yes.",
+        "answer": [
+          "say",
+          "said"
+        ],
+        "explanation": "Would have + III forma."
+      },
+      {
+        "id": "b2-third-conditional-2-10",
+        "type": "translate",
+        "prompt": "Gdybym nie zaspał, nie spóźniłbym się.",
+        "answer": "If I had not overslept, I would not have been late.",
+        "explanation": "If + hadn't overslept, wouldn't have been."
+      }
+    ]
+  },
+  {
+    "id": "b2-third-conditional-3",
+    "topicId": "b2-third-conditional",
+    "exercises": [
+      {
+        "id": "b2-third-conditional-3-01",
+        "type": "choice",
+        "prompt": "If you ___ me, I would have lent you the money.",
+        "answer": "had asked",
+        "distractors": [
+          "asked",
+          "would ask"
+        ],
+        "explanation": "Po if: Past Perfect."
+      },
+      {
+        "id": "b2-third-conditional-3-02",
+        "type": "choice",
+        "prompt": "They ___ the match if their best player hadn't been injured.",
+        "answer": "might have won",
+        "distractors": [
+          "might win",
+          "had won"
+        ],
+        "explanation": "Niepewny skutek: might have won."
+      },
+      {
+        "id": "b2-third-conditional-3-03",
+        "type": "cloze",
+        "prompt": "If I'd known you were coming, I ___ have made a cake.",
+        "answer": "would",
+        "accept": [
+          "could",
+          "might"
+        ],
+        "explanation": "Skutek: would have."
+      },
+      {
+        "id": "b2-third-conditional-3-04",
+        "type": "cloze",
+        "prompt": "We could have ___ a taxi if we had had more money. (take)",
+        "answer": "taken",
+        "explanation": "Could have taken."
+      },
+      {
+        "id": "b2-third-conditional-3-05",
+        "type": "cloze",
+        "prompt": "If the weather had been better, the trip ___ have been perfect.",
+        "answer": "would",
+        "explanation": "Would have been."
+      },
+      {
+        "id": "b2-third-conditional-3-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "would have|byłby (pewny skutek)",
+          "could have|mógłby (możliwość)",
+          "might have|może by (niepewny skutek)"
+        ],
+        "explanation": "Modalne w trzecim trybie."
+      },
+      {
+        "id": "b2-third-conditional-3-07",
+        "type": "error",
+        "prompt": "If I had left earlier, I would have catch the bus.",
+        "answer": [
+          "catch",
+          "caught"
+        ],
+        "explanation": "Would have + III forma."
+      },
+      {
+        "id": "b2-third-conditional-3-08",
+        "type": "error",
+        "prompt": "If she has studied, she would have passed.",
+        "answer": [
+          "has",
+          "had"
+        ],
+        "explanation": "Po if: Past Perfect."
+      },
+      {
+        "id": "b2-third-conditional-3-09",
+        "type": "tiles",
+        "prompt": "Gdybyś mnie posłuchał, to by się nie wydarzyło.",
+        "answer": [
+          "If",
+          "you",
+          "had",
+          "listened",
+          "to",
+          "me",
+          "this",
+          "wouldn't",
+          "have",
+          "happened"
+        ],
+        "distractors": [
+          "will",
+          "listen"
+        ],
+        "explanation": "If + had listened, wouldn't have happened."
+      },
+      {
+        "id": "b2-third-conditional-3-10",
+        "type": "translate",
+        "prompt": "Gdybym wiedział, nie przyszedłbym.",
+        "answer": "If I had known, I would not have come.",
+        "explanation": "If + had known, wouldn't have come."
+      }
+    ]
+  }
+]

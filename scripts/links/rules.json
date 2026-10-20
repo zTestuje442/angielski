@@ -1,0 +1,568 @@
+{
+  "a1-to-be": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-be",
+    "https://www.ang.pl/gramatyka/czasownik/be"
+  ],
+  "a1-pronouns": [
+    "https://www.perfect-english-grammar.com/possessive-adjectives.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/personal-pronouns",
+    "https://www.ang.pl/gramatyka/zaimki/osobowe",
+    "https://www.ang.pl/gramatyka/zaimki/przymiotnik-dzierzawczy"
+  ],
+  "a1-plurals": [
+    "https://www.ang.pl/gramatyka/rzeczowniki/liczba-mnoga"
+  ],
+  "a1-articles-demonstratives": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/indefinite-article",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/demonstratives",
+    "https://www.ang.pl/gramatyka/przedimki/nieokreslony-a-an",
+    "https://www.ang.pl/gramatyka/zaimki/wskazujace"
+  ],
+  "a1-there-is-are": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/using-there-there-are"
+  ],
+  "a1-have-got": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple-have-got",
+    "https://www.ang.pl/gramatyka/czasownik/have-got"
+  ],
+  "a1-present-simple": [
+    "https://www.perfect-english-grammar.com/present-simple.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+    "https://www.ang.pl/gramatyka/czas/present-simple"
+  ],
+  "a1-adverbs-of-frequency": [
+    "https://www.perfect-english-grammar.com/adverbs-of-frequency.html",
+    "https://www.ang.pl/gramatyka/przyslowki/czestotliwosci"
+  ],
+  "a1-can": [
+    "https://www.perfect-english-grammar.com/modal-verbs-of-ability.html",
+    "https://www.ang.pl/gramatyka/czasowniki/modalne/can"
+  ],
+  "a1-present-continuous": [
+    "https://www.perfect-english-grammar.com/present-continuous.html",
+    "https://www.ang.pl/gramatyka/czas/present-continuous"
+  ],
+  "a1-present-simple-vs-continuous": [
+    "https://www.perfect-english-grammar.com/present-simple-or-present-continuous.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/talking-about-present"
+  ],
+  "a1-countable-uncountable-some-any": [
+    "https://www.perfect-english-grammar.com/some-and-any.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable",
+    "https://www.ang.pl/gramatyka/rzeczowniki/policzalne-niepoliczalne"
+  ],
+  "a1-prepositions-in-on-at": [
+    "https://www.perfect-english-grammar.com/prepositions-of-time.html",
+    "https://www.perfect-english-grammar.com/prepositions-of-place.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/prepositions-place"
+  ],
+  "a1-past-simple-to-be": [
+    "https://www.perfect-english-grammar.com/past-simple.html"
+  ],
+  "a1-past-simple-regular": [
+    "https://www.perfect-english-grammar.com/past-simple-use.html",
+    "https://www.ang.pl/gramatyka/czas/past-simple",
+    "https://www.ang.pl/gramatyka/czasowniki/regularne"
+  ],
+  "a1-wh-questions": [
+    "https://www.perfect-english-grammar.com/questions.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/question-forms",
+    "https://www.ang.pl/gramatyka/zaimki/pytajace"
+  ],
+  "a2-past-simple-irregular": [
+    "https://www.perfect-english-grammar.com/irregular-verbs.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/irregular-verbs",
+    "https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-nieregularne"
+  ],
+  "a2-past-continuous": [
+    "https://www.perfect-english-grammar.com/past-continuous.html",
+    "https://www.ang.pl/gramatyka/czas/past-continuous"
+  ],
+  "a2-past-simple-vs-continuous": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/past-continuous-past-simple",
+    "https://www.ang.pl/gramatyka/czas/past-continuous/zastosowanie"
+  ],
+  "a2-quantifiers": [
+    "https://www.perfect-english-grammar.com/a-little-a-few.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/quantifiers",
+    "https://www.ang.pl/gramatyka/rzeczowniki/quantifiers"
+  ],
+  "a2-comparatives-superlatives": [
+    "https://www.perfect-english-grammar.com/adjectives-comparative-and-superlative.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/comparative-adjectives",
+    "https://www.ang.pl/gramatyka/przymiotniki/stopniowanie"
+  ],
+  "a2-adverbs-of-manner": [
+    "https://www.perfect-english-grammar.com/adjectives-and-adverbs.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adverbials-manner",
+    "https://www.ang.pl/gramatyka/przyslowki/sposobu"
+  ],
+  "a2-going-to": [
+    "https://www.perfect-english-grammar.com/will-or-be-going-to.html",
+    "https://www.ang.pl/gramatyka/formy-wyrazania-przyszlosci/to-be-going-to"
+  ],
+  "a2-will": [
+    "https://www.perfect-english-grammar.com/simple-future.html",
+    "https://www.ang.pl/gramatyka/formy-wyrazania-przyszlosci/will-future"
+  ],
+  "a2-present-continuous-future": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-forms-will-be-going-present-continuous",
+    "https://www.ang.pl/gramatyka/formy-wyrazania-przyszlosci/present-continuous"
+  ],
+  "a2-have-to-must": [
+    "https://www.perfect-english-grammar.com/modal-verbs-of-obligation.html",
+    "https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-modalne/obowiazki-i-potrzeby",
+    "https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-modalne/brak-potrzeby"
+  ],
+  "a2-should": [
+    "https://www.ang.pl/gramatyka/czasowniki/modalne/should"
+  ],
+  "a2-present-perfect-ever-never": [
+    "https://www.perfect-english-grammar.com/present-perfect-use.html",
+    "https://www.ang.pl/gramatyka/czas/present-perfect/never-ever"
+  ],
+  "a2-articles-basics": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/definite-article",
+    "https://www.ang.pl/gramatyka/przedimki/okreslony-the"
+  ],
+  "a2-like-love-hate-ing": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/verbs-followed-ing-or-infinitive",
+    "https://www.ang.pl/gramatyka/czasowniki-verbs/ing-form-and-to-infinitive"
+  ],
+  "a2-want-would-like-to": [
+    "https://www.ang.pl/gramatyka/czasowniki-verbs/ing-form-and-to-infinitive/to-infinitive"
+  ],
+  "a2-conjunctions": [
+    "https://www.ang.pl/gramatyka/spojniki/wstep"
+  ],
+  "a2-object-pronouns-possessive-s": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/possessive-s",
+    "https://www.ang.pl/gramatyka/zaimki/osobowe-funkcja-dopelnienia",
+    "https://www.ang.pl/gramatyka/rzeczowniki/dopelniacz-saksonski"
+  ],
+  "b1-present-perfect-just-already-yet": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect-just-yet-still-already",
+    "https://www.ang.pl/gramatyka/czas/present-perfect/just-already-yet"
+  ],
+  "b1-present-perfect-for-since": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/perfect-aspect",
+    "https://www.ang.pl/gramatyka/czas/present-perfect/for-since"
+  ],
+  "b1-present-perfect-vs-past-simple": [
+    "https://www.perfect-english-grammar.com/present-perfect-or-past-simple.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect",
+    "https://www.ang.pl/gramatyka/czas/present-perfect/zastosowanie"
+  ],
+  "b1-used-to": [
+    "https://www.perfect-english-grammar.com/used-to.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2-grammar/past-habits-used-to-would-past-simple"
+  ],
+  "b1-zero-first-conditional": [
+    "https://www.perfect-english-grammar.com/zero-conditional.html",
+    "https://www.perfect-english-grammar.com/first-conditional.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-zero-first-second",
+    "https://www.ang.pl/gramatyka/okresy-warunkowe/first-conditional"
+  ],
+  "b1-second-conditional": [
+    "https://www.perfect-english-grammar.com/second-conditional.html",
+    "https://www.ang.pl/gramatyka/okresy-warunkowe/second-conditional"
+  ],
+  "b1-time-clauses": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/verbs-time-clauses-if-clauses",
+    "https://www.ang.pl/gramatyka/spojniki/time-linking-words"
+  ],
+  "b1-gerund-infinitive": [
+    "https://www.perfect-english-grammar.com/gerunds-and-infinitives.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/verbs-followed-ing-or-infinitive-change-meaning",
+    "https://www.ang.pl/gramatyka/czasowniki-verbs/ing-form-and-to-infinitive/ing-form-or-to-infinitive"
+  ],
+  "b1-ed-ing-adjectives": [
+    "https://www.perfect-english-grammar.com/participle-adjectives.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/adjectives-ending-ed-ing",
+    "https://www.ang.pl/gramatyka/przymiotniki/koncowka-ed-ing"
+  ],
+  "b1-adjectives-prepositions": [
+    "https://www.perfect-english-grammar.com/adjectives-and-prepositions.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/adjectives-prepositions",
+    "https://www.ang.pl/gramatyka/przymiotniki/z-przyimkami"
+  ],
+  "b1-passive-present-past": [
+    "https://www.perfect-english-grammar.com/passive.html",
+    "https://www.ang.pl/gramatyka/strona-bierna/czasy-simple"
+  ],
+  "b1-defining-relative-clauses": [
+    "https://www.perfect-english-grammar.com/relative-clauses.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-defining-relative-clauses",
+    "https://www.ang.pl/gramatyka/zdanie/relative-clauses"
+  ],
+  "b1-reported-speech-basics": [
+    "https://www.perfect-english-grammar.com/reported-speech.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-statements",
+    "https://www.ang.pl/gramatyka/mowa-zalezna/nastepstwo-czasow"
+  ],
+  "b1-modals-deduction": [
+    "https://www.perfect-english-grammar.com/modal-verbs-of-probability.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modals-deductions-about-present",
+    "https://www.ang.pl/gramatyka/czasowniki-verbs/czasowniki-modalne/pewnosc"
+  ],
+  "b1-articles-the-zero": [
+    "https://www.perfect-english-grammar.com/bed-home-work-town.html",
+    "https://www.ang.pl/gramatyka/przedimki/przedimek-zerowy"
+  ],
+  "b1-both-either-neither": [
+    "https://www.ang.pl/gramatyka/spojniki/either-neither",
+    "https://www.ang.pl/gramatyka/zaimki/rozdzielcze"
+  ],
+  "b1-question-tags": [
+    "https://www.perfect-english-grammar.com/tag-questions.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/question-tags",
+    "https://www.ang.pl/gramatyka/zdanie/question-tags"
+  ],
+  "b1-so-such-too-enough": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/intensifiers-so-such",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/using-enough"
+  ],
+  "b1-future-forms": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/talking-about-future",
+    "https://www.ang.pl/gramatyka/formy-wyrazania-przyszlosci/present-simple"
+  ],
+  "b2-present-perfect-continuous": [
+    "https://www.perfect-english-grammar.com/present-perfect-continuous.html",
+    "https://www.ang.pl/gramatyka/czas/present-perfect-continuous"
+  ],
+  "b2-present-perfect-simple-vs-continuous": [
+    "https://www.perfect-english-grammar.com/present-perfect-simple-or-present-perfect-continuous.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect-simple-continuous"
+  ],
+  "b2-past-perfect-simple": [
+    "https://www.perfect-english-grammar.com/past-perfect.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-perfect",
+    "https://www.ang.pl/gramatyka/czas/past-perfect"
+  ],
+  "b2-past-perfect-continuous": [
+    "https://www.perfect-english-grammar.com/past-perfect-continuous.html",
+    "https://www.ang.pl/gramatyka/czas/past-perfect-continuous"
+  ],
+  "b2-narrative-tenses": [
+    "https://www.perfect-english-grammar.com/past-perfect-use.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/talking-about-past"
+  ],
+  "b2-future-continuous-perfect": [
+    "https://www.perfect-english-grammar.com/future-continuous.html",
+    "https://www.perfect-english-grammar.com/future-perfect.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/future-continuous-future-perfect",
+    "https://www.ang.pl/gramatyka/czas/future-perfect"
+  ],
+  "b2-third-conditional": [
+    "https://www.perfect-english-grammar.com/third-conditional.html",
+    "https://www.ang.pl/gramatyka/okresy-warunkowe/third-conditional"
+  ],
+  "b2-mixed-conditionals": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/conditionals-third-mixed",
+    "https://www.ang.pl/gramatyka/okresy-warunkowe/mixed-conditionals"
+  ],
+  "b2-wish-if-only": [
+    "https://www.perfect-english-grammar.com/wish.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/wishes-wish-if-only",
+    "https://www.ang.pl/gramatyka/unreal-past-wish-subjunctive/wish"
+  ],
+  "b2-passive-all-tenses": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/passives",
+    "https://www.ang.pl/gramatyka/strona-bierna/czasy-continuous",
+    "https://www.ang.pl/gramatyka/strona-bierna/czasy-perfect"
+  ],
+  "b2-passive-modals": [
+    "https://www.ang.pl/gramatyka/strona-bierna/czasowniki-modalne"
+  ],
+  "b2-have-something-done": [
+    "https://www.perfect-english-grammar.com/causatives-have-get.html",
+    "https://www.ang.pl/gramatyka/strona-bierna/causative-have"
+  ],
+  "b2-reported-questions-commands": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-questions",
+    "https://www.ang.pl/gramatyka/mowa-zalezna/tworzenie-pytan"
+  ],
+  "b2-reporting-verbs": [
+    "https://www.perfect-english-grammar.com/reporting-verbs.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-reporting-verbs",
+    "https://www.ang.pl/gramatyka/mowa-zalezna/reporting-verbs"
+  ],
+  "b2-non-defining-relative-clauses": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/relative-clauses-non-defining-relative-clauses",
+    "https://www.ang.pl/gramatyka/zdanie/defining-non-defining-relative-clauses"
+  ],
+  "b2-past-modals": [
+    "https://www.perfect-english-grammar.com/past-modals.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modals-deductions-about-past"
+  ],
+  "b2-used-to-be-get-used-to": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2-grammar/different-uses-of-used-to"
+  ],
+  "b2-advanced-articles": [
+    "https://www.perfect-english-grammar.com/superlatives.html",
+    "https://www.ang.pl/gramatyka/przedimki/inne"
+  ],
+  "b2-gerund-after-prepositions": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/ing-forms",
+    "https://www.ang.pl/gramatyka/rzeczowniki/odczasownikowy"
+  ],
+  "b2-make-let-allow": [
+    "https://www.perfect-english-grammar.com/let-and-make.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/modals-permission-obligation"
+  ],
+  "c1-inversion": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/inversion-after-negative-adverbials",
+    "https://www.ang.pl/gramatyka/zdanie/inversion"
+  ],
+  "c1-inverted-conditionals": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/inversion-conditionals"
+  ],
+  "c1-cleft-sentences": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/emphasis-cleft-sentences-inversion-auxiliaries"
+  ],
+  "c1-participle-clauses": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/participle-clauses"
+  ],
+  "c1-impersonal-passive": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/advanced-passives-review",
+    "https://www.ang.pl/gramatyka/strona-bierna/konstrukcje-bezosobowe"
+  ],
+  "c1-formal-subjunctive": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/unreal-time"
+  ],
+  "c1-emphasis": [
+    "https://www.perfect-english-grammar.com/intensifiers.html",
+    "https://www.ang.pl/gramatyka/zdanie/emphatic-structures",
+    "https://www.ang.pl/gramatyka/przymiotniki/slabe-mocne"
+  ],
+  "c1-advanced-modals": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/modals-probability",
+    "https://www.ang.pl/gramatyka/czasowniki/modalne/need"
+  ],
+  "c1-ellipsis-substitution": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/ellipsis",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/one-ones"
+  ],
+  "c1-discourse-markers": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/contrasting-ideas",
+    "https://www.ang.pl/gramatyka/spojniki/concession-linking-words",
+    "https://www.ang.pl/gramatyka/spojniki/purpose-linking-words"
+  ],
+  "c1-nominalisation": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/noun-phrases",
+    "https://www.ang.pl/gramatyka/word-formation/zasady-slowotworstwa/v-n"
+  ],
+  "c1-future-in-the-past": [
+    "https://www.perfect-english-grammar.com/would.html",
+    "https://www.ang.pl/gramatyka/formy-wyrazania-przyszlosci/to-be-to"
+  ],
+  "c1-advanced-determiners": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/specific-general-determiners"
+  ],
+  "a1-vocab-numbers-dates-time": [
+    "https://www.ang.pl/gramatyka/liczebniki/glowne",
+    "https://www.ang.pl/gramatyka/liczebniki/daty"
+  ],
+  "a1-vocab-home": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/homes",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/living-rooms"
+  ],
+  "a1-vocab-food-drink": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/meals-cooking",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/drinks"
+  ],
+  "a1-vocab-colours-clothes": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/colours",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/clothes-1"
+  ],
+  "a1-vocab-daily-routine": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/daily-routine-vocabulary-a1-beginner-english-vocabulary-lesson"
+  ],
+  "a1-vocab-town-directions": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/places-town-1",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/around-town"
+  ],
+  "a2-vocab-shopping": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/shopping",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/money"
+  ],
+  "a2-vocab-travel-transport": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/transport-1",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/air-travel",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/hotels"
+  ],
+  "a2-vocab-weather": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/weather"
+  ],
+  "a2-vocab-body-health": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/body-parts-1",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/health"
+  ],
+  "a2-vocab-free-time": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/holidays",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/b1-b2/football"
+  ],
+  "a2-vocab-jobs": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/jobs-1",
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/jobs-2"
+  ],
+  "a2-vocab-education": [
+    "https://learnenglish.britishcouncil.org/free-resources/vocabulary/a1-a2/school"
+  ],
+  "b1-vocab-phrasal-verbs-basics": [
+    "https://www.perfect-english-grammar.com/phrasal-verbs-1.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/phrasal-verbs",
+    "https://www.ang.pl/gramatyka/czasowniki/phrasal-verbs"
+  ],
+  "b1-vocab-collocations-make-do-have-take": [
+    "https://www.perfect-english-grammar.com/make-or-do.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/delexical-verbs-have-take-make-give-go-do"
+  ],
+  "b2-vocab-business-finance": [
+    "https://www.ang.pl/slownictwo/business-english"
+  ],
+  "b2-vocab-word-formation": [
+    "https://www.ang.pl/gramatyka/word-formation/przyrostki-i-przedrostki",
+    "https://www.ang.pl/gramatyka/word-formation/przyrostki-i-przedrostki/znaczenie-przeciwne-lub-negatywne"
+  ],
+  "b2-vocab-phrasal-verbs-advanced": [
+    "https://www.perfect-english-grammar.com/phrasal-verbs-2.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/word-order-phrasal-verbs",
+    "https://www.ang.pl/slownictwo/phrasal-verbs"
+  ],
+  "b2-vocab-idioms-basics": [
+    "https://www.ang.pl/slownictwo/idiomy"
+  ],
+  "b2-vocab-confusing-words": [
+    "https://www.perfect-english-grammar.com/say-and-tell.html"
+  ],
+  "c1-vocab-idioms-expressions": [
+    "https://www.ang.pl/slownictwo/przyslowia"
+  ],
+  "c1-vocab-advanced-collocations": [
+    "https://www.perfect-english-grammar.com/preposition-collocations-1.html",
+    "https://www.ang.pl/gramatyka/przymiotniki/kolokacje"
+  ],
+  "c1-vocab-formal-informal-register": [
+    "https://www.ang.pl/slownictwo/slang"
+  ],
+  "c1-vocab-advanced-word-formation": [
+    "https://www.ang.pl/gramatyka/word-formation/slowotworstwo",
+    "https://www.ang.pl/gramatyka/word-formation/przyrostki-i-przedrostki/pochodzenia-lacinskiego"
+  ],
+  "c1-vocab-hedging": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/adverbials-probability",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/mitigators"
+  ],
+  "a1-sent-word-order": [
+    "https://www.ang.pl/gramatyka/zdanie/szyk-zdania"
+  ],
+  "a1-sent-negatives-questions": [
+    "https://www.perfect-english-grammar.com/negative-sentences-in-english-grammar.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/questions-negatives",
+    "https://www.ang.pl/gramatyka/zdanie/krotkie-odpowiedzi"
+  ],
+  "a2-sent-linking": [
+    "https://www.ang.pl/gramatyka/spojniki/reason-linking-words",
+    "https://www.ang.pl/gramatyka/spojniki/result-linking-words"
+  ],
+  "a2-sent-everyday-phrases": [
+    "https://www.ang.pl/gramatyka/czasowniki/modalne/prosby",
+    "https://www.ang.pl/gramatyka/czasowniki/modalne/propozycje-oferty"
+  ],
+  "b1-sent-complex-when-if-although": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/contrasting-ideas-although-despite-others"
+  ],
+  "b2-sent-adverb-position": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/where-adverbials-go-sentence",
+    "https://www.ang.pl/gramatyka/przyslowki/pozycja-zdanie"
+  ],
+  "b2-sent-relative-linking": [
+    "https://www.perfect-english-grammar.com/relative-pronouns.html",
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/relative-pronouns-relative-clauses",
+    "https://www.ang.pl/gramatyka/zaimki/wzgledne"
+  ],
+  "c1-sent-formal-phrases": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/c1/email-request"
+  ],
+  "c1-sent-concision": [
+    "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/avoiding-repetition-text"
+  ],
+  "a1-reading-email": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/a1/text-messages-friend"
+  ],
+  "a1-reading-notice": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/a1/poster-work"
+  ],
+  "a1-reading-instructions": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/a1/notes-work"
+  ],
+  "a2-reading-email": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/a2/email-friend"
+  ],
+  "a2-reading-notice": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/a2/airport-notice"
+  ],
+  "a2-reading-article": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/a2/study-skills-tips"
+  ],
+  "b1-reading-email": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/b1/email-request-help"
+  ],
+  "b1-reading-article": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/b1/how-spot-fake-news"
+  ],
+  "b1-reading-opinion": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/b1/martian-book-review"
+  ],
+  "b2-reading-article": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/b2/sharing-economy"
+  ],
+  "b2-reading-opinion": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/b2/plastic-ocean-film-review"
+  ],
+  "b2-reading-instructions": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/b2/giving-instructions-email"
+  ],
+  "c1-reading-article": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/c1/how-humans-evolved-language"
+  ],
+  "c1-reading-opinion": [
+    "https://learnenglish.britishcouncil.org/free-resources/reading/c1/giving-receiving-positive-feedback"
+  ],
+  "c1-reading-formal-email": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/c1/response-complaint"
+  ],
+  "a2-writing-short-message": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/a2/messaging-make-plans"
+  ],
+  "a2-writing-simple-email": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/a2/email-explaining-problem"
+  ],
+  "b1-writing-informal-email": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/b1/email-giving-holiday-advice"
+  ],
+  "b1-writing-description": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/a2/my-last-holiday"
+  ],
+  "b2-writing-formal-email": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/b2/letter-complaint",
+    "https://learnenglish.britishcouncil.org/free-resources/writing/b2/email-your-professor"
+  ],
+  "b2-writing-opinion-essay": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/b2/opinion-essay"
+  ],
+  "b2-writing-report": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/b2/report-working-abroad"
+  ],
+  "c1-writing-proposal": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/c1/proposal-digital-newspaper"
+  ],
+  "c1-writing-review": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/c1/music-review"
+  ],
+  "c1-writing-argumentative-essay": [
+    "https://learnenglish.britishcouncil.org/free-resources/writing/c1/opinion-essay",
+    "https://learnenglish.britishcouncil.org/free-resources/writing/c1/essay-about-women-science"
+  ]
+}

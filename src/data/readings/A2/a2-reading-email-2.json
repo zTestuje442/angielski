@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-email-2",
+  "topicId": "a2-reading-email",
+  "title": "Holiday problems",
+  "text": "Hi Kasia,\n\nGreetings from Portugal! We arrived on Saturday, but our holiday didn't start very well. First, our flight was three hours late, so we got to the hotel after midnight. Then we found out that our room was not ready, and we had to sleep in a small room next to the kitchen. It was very noisy!\n\nLuckily, things are much better now. On Sunday morning we moved to a big room with a balcony and a view of the sea. The hotel staff were very nice and gave us a free dinner because of the problems.\n\nThe beach is only five minutes from the hotel. The water is quite cold, but Tomek swims every day. I prefer lying in the sun and reading. Yesterday we rented bikes and rode along the coast to a small fishing village. We ate the best fish of our lives there!\n\nWe're coming back next Friday. I'll bring you some Portuguese biscuits.\n\nLove,\nEwa",
+  "exercises": [
+    {
+      "id": "a2-reading-email-2-01",
+      "type": "choice",
+      "prompt": "Their flight arrived on time.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Lot był spóźniony trzy godziny."
+    },
+    {
+      "id": "a2-reading-email-2-02",
+      "type": "choice",
+      "prompt": "The hotel gave them a free dinner.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...gave us a free dinner because of the problems.”"
+    },
+    {
+      "id": "a2-reading-email-2-03",
+      "type": "choice",
+      "prompt": "Ewa swims in the sea every day.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Codziennie pływa Tomek; Ewa woli leżeć na słońcu."
+    },
+    {
+      "id": "a2-reading-email-2-04",
+      "type": "choice",
+      "prompt": "The hotel has got a swimming pool.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "O basenie tekst nie mówi."
+    },
+    {
+      "id": "a2-reading-email-2-05",
+      "type": "choice",
+      "prompt": "Why did they get to the hotel late?",
+      "answer": "Their flight was late.",
+      "distractors": [
+        "They took the wrong bus.",
+        "The hotel was far from the airport."
+      ],
+      "explanation": "„...our flight was three hours late.”"
+    },
+    {
+      "id": "a2-reading-email-2-06",
+      "type": "choice",
+      "prompt": "What did they do yesterday?",
+      "answer": "They rode bikes to a fishing village.",
+      "distractors": [
+        "They went swimming.",
+        "They moved to a new room."
+      ],
+      "explanation": "„Yesterday we rented bikes and rode along the coast...”"
+    },
+    {
+      "id": "a2-reading-email-2-07",
+      "type": "cloze",
+      "prompt": "On Sunday morning we moved to a big room with a ___.",
+      "answer": "balcony",
+      "explanation": "Pokój z balkonem."
+    },
+    {
+      "id": "a2-reading-email-2-08",
+      "type": "cloze",
+      "prompt": "The beach is only five ___ from the hotel.",
+      "answer": "minutes",
+      "explanation": "Plaża jest pięć minut od hotelu."
+    },
+    {
+      "id": "a2-reading-email-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "late|spóźniony",
+        "noisy|hałaśliwy",
+        "rent|wypożyczyć",
+        "coast|wybrzeże"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

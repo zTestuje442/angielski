@@ -1,0 +1,348 @@
+[
+  {
+    "id": "b2-writing-opinion-essay-1",
+    "topicId": "b2-writing-opinion-essay",
+    "exercises": [
+      {
+        "id": "b2-writing-opinion-essay-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "In my opinion, ...|wyrażenie opinii",
+          "Moreover, ...|dodanie argumentu",
+          "On the other hand, ...|kontrargument",
+          "To sum up, ...|zakończenie"
+        ],
+        "explanation": "Funkcje zwrotów w rozprawce."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is a good introduction?",
+        "answer": "Nowadays, many people work from home, and I believe this is a positive change.",
+        "distractors": [
+          "Hi everyone, let's talk about work!",
+          "To sum up, working from home is good."
+        ],
+        "explanation": "Wstęp: temat + opinia."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-03",
+        "type": "choice",
+        "prompt": "Which linker introduces an example?",
+        "answer": "For instance,",
+        "distractors": [
+          "However,",
+          "In conclusion,"
+        ],
+        "explanation": "Przykład: For instance."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-04",
+        "type": "cloze",
+        "prompt": "___ conclusion, I believe that the advantages outweigh the disadvantages.",
+        "answer": "In",
+        "explanation": "In conclusion."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-05",
+        "type": "cloze",
+        "prompt": "___ the other hand, some people argue that it is too expensive.",
+        "answer": "On",
+        "explanation": "On the other hand."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż akapit rozprawki.",
+        "answer": [
+          "Firstly, working from home saves time.",
+          "For example, people do not have to travel to the office.",
+          "Moreover, they can organise their day more flexibly."
+        ],
+        "distractors": [
+          "Love,"
+        ],
+        "explanation": "Argument, przykład, kolejny argument. „Love” jest zakończeniem listu."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-07",
+        "type": "error",
+        "prompt": "Despite the cost is high, many people buy electric cars.",
+        "answer": [
+          "Despite",
+          "Although"
+        ],
+        "explanation": "Although + zdanie; despite + rzeczownik."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-08",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „Although”.\nIt is expensive. Many people buy it.",
+        "answer": "Although it is expensive, many people buy it.",
+        "accept": [
+          "Although it is expensive many people buy it.",
+          "Many people buy it although it is expensive."
+        ],
+        "explanation": "Although + zdanie."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-09",
+        "type": "translate",
+        "prompt": "Jestem przekonany, że to dobry pomysł.",
+        "answer": "I am convinced that this is a good idea.",
+        "accept": [
+          "I am convinced that it is a good idea.",
+          "I am sure that this is a good idea.",
+          "I am sure that it is a good idea.",
+          "I am convinced this is a good idea.",
+          "I am convinced it is a good idea."
+        ],
+        "explanation": "I am convinced that..."
+      },
+      {
+        "id": "b2-writing-opinion-essay-1-10",
+        "type": "choice",
+        "prompt": "Which sentence is too informal for an essay?",
+        "answer": "Social media is totally awesome, right?",
+        "distractors": [
+          "Social media has many advantages.",
+          "Social media can be very useful."
+        ],
+        "explanation": "Potocznie: totally awesome, right?"
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-opinion-essay-2",
+    "topicId": "b2-writing-opinion-essay",
+    "exercises": [
+      {
+        "id": "b2-writing-opinion-essay-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "Firstly,|pierwszy argument",
+          "Secondly,|drugi argument",
+          "However,|kontrast",
+          "In conclusion,|zakończenie"
+        ],
+        "explanation": "Kolejność argumentów."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-02",
+        "type": "choice",
+        "prompt": "Which linker adds another argument?",
+        "answer": "What is more,",
+        "distractors": [
+          "Nevertheless,",
+          "Instead,"
+        ],
+        "explanation": "Dodawanie: What is more."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-03",
+        "type": "choice",
+        "prompt": "___ studying hard, he failed the exam.",
+        "answer": "Despite",
+        "distractors": [
+          "Although",
+          "However"
+        ],
+        "explanation": "Despite + -ing."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-04",
+        "type": "cloze",
+        "prompt": "It ___ to me that people spend too much time online. (wydaje się)",
+        "answer": "seems",
+        "explanation": "It seems to me that..."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-05",
+        "type": "cloze",
+        "prompt": "Some people argue ___ cars should be banned from city centres.",
+        "answer": "that",
+        "explanation": "Argue that..."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie rozprawki.",
+        "answer": [
+          "To sum up, public transport should be free.",
+          "It would reduce traffic and pollution.",
+          "Therefore, I strongly believe that the government should pay for it."
+        ],
+        "distractors": [
+          "See you soon!"
+        ],
+        "explanation": "Podsumowanie, uzasadnienie, powtórzenie opinii. „See you soon!” to zakończenie listu."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-07",
+        "type": "error",
+        "prompt": "In the other hand, free transport would cost a lot.",
+        "answer": [
+          "In",
+          "On"
+        ],
+        "explanation": "On the other hand."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-08",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „However”.\nCars are convenient. They pollute the air.",
+        "answer": "Cars are convenient. However, they pollute the air.",
+        "accept": [
+          "Cars are convenient; however, they pollute the air.",
+          "Cars are convenient. However they pollute the air."
+        ],
+        "explanation": "However na początku drugiego zdania."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-09",
+        "type": "translate",
+        "prompt": "Moim zdaniem szkoły powinny uczyć programowania.",
+        "answer": "In my opinion, schools should teach programming.",
+        "accept": [
+          "In my opinion schools should teach programming.",
+          "In my view, schools should teach programming.",
+          "I think that schools should teach programming.",
+          "I think schools should teach programming.",
+          "In my opinion, schools should teach coding."
+        ],
+        "explanation": "In my opinion."
+      },
+      {
+        "id": "b2-writing-opinion-essay-2-10",
+        "type": "choice",
+        "prompt": "What should the conclusion of an opinion essay do?",
+        "answer": "Summarise the arguments and restate your opinion.",
+        "distractors": [
+          "Introduce a completely new argument.",
+          "Ask the reader to write back."
+        ],
+        "explanation": "Zakończenie podsumowuje."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-opinion-essay-3",
+    "topicId": "b2-writing-opinion-essay",
+    "exercises": [
+      {
+        "id": "b2-writing-opinion-essay-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "such as|taki jak",
+          "as a result|w rezultacie",
+          "therefore|dlatego",
+          "although|chociaż"
+        ],
+        "explanation": "Słowa łączące."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-02",
+        "type": "choice",
+        "prompt": "Which sentence expresses a strong opinion?",
+        "answer": "I strongly believe that this law is unfair.",
+        "distractors": [
+          "Maybe this law is a bit unfair, I don't know.",
+          "This law exists."
+        ],
+        "explanation": "I strongly believe that..."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-03",
+        "type": "choice",
+        "prompt": "Many teenagers spend hours online. ___, they do less sport.",
+        "answer": "As a result",
+        "distractors": [
+          "For example",
+          "Although"
+        ],
+        "explanation": "Skutek: As a result."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-04",
+        "type": "cloze",
+        "prompt": "Many countries, ___ as Norway and Sweden, have high taxes.",
+        "answer": "such",
+        "explanation": "Such as."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-05",
+        "type": "cloze",
+        "prompt": "I am ___ convinced that we need more green spaces. (całkowicie)",
+        "answer": "totally",
+        "accept": [
+          "completely",
+          "absolutely",
+          "fully"
+        ],
+        "explanation": "Wzmocnienie opinii."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż wstęp rozprawki.",
+        "answer": [
+          "Nowadays, many young people want to study abroad.",
+          "Some believe it is the best way to get a good job.",
+          "In my opinion, it has more advantages than disadvantages."
+        ],
+        "distractors": [
+          "Thanks for your letter."
+        ],
+        "explanation": "Temat, kontekst, opinia. „Thanks for your letter” pasuje do listu."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-07",
+        "type": "error",
+        "prompt": "Altough it is expensive, it is worth buying.",
+        "answer": [
+          "Altough",
+          "Although"
+        ],
+        "explanation": "Pisownia: although."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-08",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „Therefore”.\nCycling is healthy and cheap. More people should cycle to work.",
+        "answer": "Cycling is healthy and cheap. Therefore, more people should cycle to work.",
+        "accept": [
+          "Cycling is healthy and cheap; therefore, more people should cycle to work.",
+          "Cycling is healthy and cheap. Therefore more people should cycle to work."
+        ],
+        "explanation": "Therefore na początku zdania."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-09",
+        "type": "translate",
+        "prompt": "Podsumowując, zalety przeważają nad wadami.",
+        "answer": "To sum up, the advantages outweigh the disadvantages.",
+        "accept": [
+          "In conclusion, the advantages outweigh the disadvantages.",
+          "To sum up, the advantages are greater than the disadvantages.",
+          "In conclusion, the advantages are greater than the disadvantages.",
+          "To conclude, the advantages outweigh the disadvantages."
+        ],
+        "explanation": "To sum up / In conclusion."
+      },
+      {
+        "id": "b2-writing-opinion-essay-3-10",
+        "type": "choice",
+        "prompt": "Which sentence is suitable for an essay?",
+        "answer": "There are several reasons why this is important.",
+        "distractors": [
+          "There's loads of reasons, you know.",
+          "Trust me, it's important!"
+        ],
+        "explanation": "Styl neutralny."
+      }
+    ]
+  }
+]

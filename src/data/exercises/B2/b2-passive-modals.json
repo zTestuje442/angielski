@@ -1,0 +1,334 @@
+[
+  {
+    "id": "b2-passive-modals-1",
+    "topicId": "b2-passive-modals",
+    "exercises": [
+      {
+        "id": "b2-passive-modals-1-01",
+        "type": "cloze",
+        "prompt": "The work must ___ finished by Friday.",
+        "answer": "be",
+        "explanation": "Modal + be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-1-02",
+        "type": "cloze",
+        "prompt": "This medicine should be ___ after meals. (take)",
+        "answer": "taken",
+        "explanation": "Should be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-1-03",
+        "type": "choice",
+        "prompt": "The problem can ___ easily.",
+        "answer": "be solved",
+        "distractors": [
+          "solve",
+          "be solve"
+        ],
+        "explanation": "Can be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-1-04",
+        "type": "choice",
+        "prompt": "Mobile phones ___ during the exam.",
+        "answer": "must not be used",
+        "distractors": [
+          "must not use",
+          "must not been used"
+        ],
+        "explanation": "Must not be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-1-05",
+        "type": "cloze",
+        "prompt": "The tickets can ___ bought online.",
+        "answer": "be",
+        "explanation": "Can be bought."
+      },
+      {
+        "id": "b2-passive-modals-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "must be done|musi być zrobione",
+          "can be done|może być zrobione",
+          "should be done|powinno być zrobione",
+          "might have been done|mogło zostać zrobione"
+        ],
+        "explanation": "Strona bierna z modalnymi."
+      },
+      {
+        "id": "b2-passive-modals-1-07",
+        "type": "error",
+        "prompt": "The windows should be clean every week.",
+        "answer": [
+          "clean",
+          "cleaned"
+        ],
+        "explanation": "Should be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-1-08",
+        "type": "tiles",
+        "prompt": "To musi zostać naprawione natychmiast.",
+        "answer": [
+          "This",
+          "must",
+          "be",
+          "repaired",
+          "immediately"
+        ],
+        "distractors": [
+          "been",
+          "repair"
+        ],
+        "explanation": "Must be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-1-09",
+        "type": "translate",
+        "prompt": "Ten formularz powinien być podpisany.",
+        "answer": "This form should be signed.",
+        "accept": [
+          "The form should be signed.",
+          "This form must be signed.",
+          "The form must be signed."
+        ],
+        "explanation": "Should be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The room”.\nYou must clean the room.",
+        "answer": "The room must be cleaned.",
+        "explanation": "Must be + III forma."
+      }
+    ]
+  },
+  {
+    "id": "b2-passive-modals-2",
+    "topicId": "b2-passive-modals",
+    "exercises": [
+      {
+        "id": "b2-passive-modals-2-01",
+        "type": "cloze",
+        "prompt": "The letter might have ___ lost in the post.",
+        "answer": "been",
+        "explanation": "Przeszłość: might have been."
+      },
+      {
+        "id": "b2-passive-modals-2-02",
+        "type": "cloze",
+        "prompt": "Children under 12 must ___ accompanied by an adult.",
+        "answer": "be",
+        "explanation": "Must be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-2-03",
+        "type": "choice",
+        "prompt": "The accident could ___ avoided.",
+        "answer": "have been",
+        "distractors": [
+          "be been",
+          "has been"
+        ],
+        "explanation": "Przeszłość: could have been."
+      },
+      {
+        "id": "b2-passive-modals-2-04",
+        "type": "choice",
+        "prompt": "These documents ___ to anyone.",
+        "answer": "mustn't be shown",
+        "distractors": [
+          "mustn't show",
+          "mustn't been shown"
+        ],
+        "explanation": "Mustn't be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-2-05",
+        "type": "choice",
+        "prompt": "The meeting ___ postponed – the boss is ill.",
+        "answer": "will have to be",
+        "distractors": [
+          "will have be",
+          "has to been"
+        ],
+        "explanation": "Will have to be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-2-06",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The report”.\nSomeone should have checked the report.",
+        "answer": "The report should have been checked.",
+        "explanation": "Should have been + III forma."
+      },
+      {
+        "id": "b2-passive-modals-2-07",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Food”.\nYou can't take food into the cinema.",
+        "answer": "Food cannot be taken into the cinema.",
+        "explanation": "Cannot be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-2-08",
+        "type": "tiles",
+        "prompt": "To mogło zostać zrobione lepiej.",
+        "answer": [
+          "It",
+          "could",
+          "have",
+          "been",
+          "done",
+          "better"
+        ],
+        "distractors": [
+          "be",
+          "did"
+        ],
+        "explanation": "Could have been + III forma."
+      },
+      {
+        "id": "b2-passive-modals-2-09",
+        "type": "error",
+        "prompt": "The car must have be stolen last night.",
+        "answer": [
+          "be",
+          "been"
+        ],
+        "explanation": "Must have been."
+      },
+      {
+        "id": "b2-passive-modals-2-10",
+        "type": "translate",
+        "prompt": "Gdzie można kupić bilety?",
+        "answer": "Where can tickets be bought?",
+        "accept": [
+          "Where can the tickets be bought?",
+          "Where can I buy tickets?",
+          "Where can I buy the tickets?",
+          "Where can you buy tickets?"
+        ],
+        "explanation": "Can be bought (albo forma czynna)."
+      }
+    ]
+  },
+  {
+    "id": "b2-passive-modals-3",
+    "topicId": "b2-passive-modals",
+    "exercises": [
+      {
+        "id": "b2-passive-modals-3-01",
+        "type": "choice",
+        "prompt": "Smoking ___ in public places.",
+        "answer": "should be banned",
+        "distractors": [
+          "should ban",
+          "should banned"
+        ],
+        "explanation": "Should be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-3-02",
+        "type": "choice",
+        "prompt": "The parcel ___ yesterday, but it hasn't arrived.",
+        "answer": "should have been delivered",
+        "distractors": [
+          "should be delivered",
+          "should have delivered"
+        ],
+        "explanation": "Przeszłość: should have been."
+      },
+      {
+        "id": "b2-passive-modals-3-03",
+        "type": "cloze",
+        "prompt": "The answer can be ___ on page 12. (find)",
+        "answer": "found",
+        "explanation": "Can be found."
+      },
+      {
+        "id": "b2-passive-modals-3-04",
+        "type": "cloze",
+        "prompt": "Such mistakes ___ be tolerated. (nie mogą)",
+        "answer": "can't",
+        "accept": [
+          "cannot",
+          "mustn't",
+          "must not",
+          "shouldn't",
+          "should not"
+        ],
+        "explanation": "Can't be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-3-05",
+        "type": "cloze",
+        "prompt": "The bridge may ___ closed next week.",
+        "answer": "be",
+        "explanation": "May be closed."
+      },
+      {
+        "id": "b2-passive-modals-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Ktoś powinien był to sprawdzić.|It should have been checked.",
+          "Trzeba to sprawdzić.|It must be checked.",
+          "Można to sprawdzić.|It can be checked."
+        ],
+        "explanation": "Teraźniejszość i przeszłość."
+      },
+      {
+        "id": "b2-passive-modals-3-07",
+        "type": "error",
+        "prompt": "The rules have to be follow.",
+        "answer": [
+          "follow",
+          "followed"
+        ],
+        "explanation": "Have to be + III forma."
+      },
+      {
+        "id": "b2-passive-modals-3-08",
+        "type": "error",
+        "prompt": "This could has been done yesterday.",
+        "answer": [
+          "has",
+          "have"
+        ],
+        "explanation": "Could have been."
+      },
+      {
+        "id": "b2-passive-modals-3-09",
+        "type": "tiles",
+        "prompt": "Pieniądze mogły zostać skradzione.",
+        "answer": [
+          "The",
+          "money",
+          "might",
+          "have",
+          "been",
+          "stolen"
+        ],
+        "distractors": [
+          "be",
+          "stole"
+        ],
+        "explanation": "Might have been + III forma."
+      },
+      {
+        "id": "b2-passive-modals-3-10",
+        "type": "translate",
+        "prompt": "Ten problem nie może zostać zignorowany.",
+        "answer": "This problem cannot be ignored.",
+        "accept": [
+          "This problem must not be ignored.",
+          "The problem cannot be ignored.",
+          "The problem must not be ignored."
+        ],
+        "explanation": "Cannot be + III forma."
+      }
+    ]
+  }
+]

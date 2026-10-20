@@ -1,0 +1,314 @@
+[
+  {
+    "id": "a1-wh-questions-1",
+    "topicId": "a1-wh-questions",
+    "exercises": [
+      {
+        "id": "a1-wh-questions-1-01",
+        "type": "choice",
+        "prompt": "___ is your name?",
+        "answer": "What",
+        "distractors": [
+          "Who",
+          "Where"
+        ],
+        "explanation": "Imię: What is your name?"
+      },
+      {
+        "id": "a1-wh-questions-1-02",
+        "type": "choice",
+        "prompt": "___ do you live?",
+        "answer": "Where",
+        "distractors": [
+          "What",
+          "Who"
+        ],
+        "explanation": "Gdzie: where."
+      },
+      {
+        "id": "a1-wh-questions-1-03",
+        "type": "choice",
+        "prompt": "___ is that man?",
+        "answer": "Who",
+        "distractors": [
+          "What",
+          "Where"
+        ],
+        "explanation": "Kim jest: who."
+      },
+      {
+        "id": "a1-wh-questions-1-04",
+        "type": "cloze",
+        "prompt": "___ old are you?",
+        "answer": "How",
+        "explanation": "Wiek: How old...?"
+      },
+      {
+        "id": "a1-wh-questions-1-05",
+        "type": "cloze",
+        "prompt": "___ is your birthday? — In May.",
+        "answer": "When",
+        "explanation": "Kiedy: when."
+      },
+      {
+        "id": "a1-wh-questions-1-06",
+        "type": "match",
+        "prompt": "Połącz słowa pytające ze znaczeniem.",
+        "answer": [
+          "where|gdzie",
+          "when|kiedy",
+          "why|dlaczego",
+          "who|kto"
+        ],
+        "explanation": "Podstawowe słowa pytające."
+      },
+      {
+        "id": "a1-wh-questions-1-07",
+        "type": "tiles",
+        "prompt": "Gdzie mieszkasz?",
+        "answer": [
+          "Where",
+          "do",
+          "you",
+          "live"
+        ],
+        "explanation": "Where + do + you + live."
+      },
+      {
+        "id": "a1-wh-questions-1-08",
+        "type": "error",
+        "prompt": "Where you live?",
+        "answer": [
+          "you",
+          "do you"
+        ],
+        "explanation": "W Present Simple potrzebne do: Where do you live?"
+      },
+      {
+        "id": "a1-wh-questions-1-09",
+        "type": "translate",
+        "prompt": "Dlaczego jesteś smutny?",
+        "answer": "Why are you sad?",
+        "explanation": "Why + are + you."
+      },
+      {
+        "id": "a1-wh-questions-1-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o „in Gdynia”.\nShe works in Gdynia.",
+        "answer": "Where does she work?",
+        "explanation": "Where + does + she + work (bez -s)."
+      }
+    ]
+  },
+  {
+    "id": "a1-wh-questions-2",
+    "topicId": "a1-wh-questions",
+    "exercises": [
+      {
+        "id": "a1-wh-questions-2-01",
+        "type": "cloze",
+        "prompt": "___ much is this T-shirt?",
+        "answer": "How",
+        "explanation": "Ile kosztuje: How much...?"
+      },
+      {
+        "id": "a1-wh-questions-2-02",
+        "type": "cloze",
+        "prompt": "___ time is it?",
+        "answer": "What",
+        "explanation": "Która godzina: What time is it?"
+      },
+      {
+        "id": "a1-wh-questions-2-03",
+        "type": "choice",
+        "prompt": "___ bag is this? — It's Tom's.",
+        "answer": "Whose",
+        "distractors": [
+          "Who",
+          "Who's"
+        ],
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "a1-wh-questions-2-04",
+        "type": "choice",
+        "prompt": "___ do you go to work? — By car.",
+        "answer": "How",
+        "distractors": [
+          "What",
+          "Where"
+        ],
+        "explanation": "Jak (czym): how."
+      },
+      {
+        "id": "a1-wh-questions-2-05",
+        "type": "match",
+        "prompt": "Połącz pytania z odpowiedziami.",
+        "answer": [
+          "How old are you?|I'm twenty.",
+          "Where are you from?|From Poland.",
+          "What do you do?|I'm a nurse.",
+          "When do you get up?|At seven."
+        ],
+        "explanation": "What do you do? pyta o zawód."
+      },
+      {
+        "id": "a1-wh-questions-2-06",
+        "type": "tiles",
+        "prompt": "O której zaczyna się film?",
+        "answer": [
+          "What",
+          "time",
+          "does",
+          "the",
+          "film",
+          "start"
+        ],
+        "explanation": "What time + does + the film + start."
+      },
+      {
+        "id": "a1-wh-questions-2-07",
+        "type": "error",
+        "prompt": "What do she want?",
+        "answer": [
+          "do",
+          "does"
+        ],
+        "explanation": "She łączy się z does."
+      },
+      {
+        "id": "a1-wh-questions-2-08",
+        "type": "translate",
+        "prompt": "Ile kosztują te buty?",
+        "answer": "How much are these shoes?",
+        "accept": [
+          "How much do these shoes cost?"
+        ],
+        "explanation": "Cena: How much are...?"
+      },
+      {
+        "id": "a1-wh-questions-2-09",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o „at 8”.\nThe lesson starts at 8.",
+        "answer": "When does the lesson start?",
+        "accept": [
+          "What time does the lesson start?"
+        ],
+        "explanation": "When/What time + does + start."
+      },
+      {
+        "id": "a1-wh-questions-2-10",
+        "type": "cloze",
+        "prompt": "___ are you late? — Because the bus didn't come.",
+        "answer": "Why",
+        "explanation": "Odpowiedź because – pytanie why."
+      }
+    ]
+  },
+  {
+    "id": "a1-wh-questions-3",
+    "topicId": "a1-wh-questions",
+    "exercises": [
+      {
+        "id": "a1-wh-questions-3-01",
+        "type": "cloze",
+        "prompt": "Where ___ you yesterday?",
+        "answer": "were",
+        "explanation": "Przeszłość, to be z you: were."
+      },
+      {
+        "id": "a1-wh-questions-3-02",
+        "type": "cloze",
+        "prompt": "What ___ you do last weekend?",
+        "answer": "did",
+        "explanation": "Past Simple: What did you do?"
+      },
+      {
+        "id": "a1-wh-questions-3-03",
+        "type": "choice",
+        "prompt": "Who ___ your best friend?",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "do"
+        ],
+        "explanation": "Your best friend – jedna osoba: is."
+      },
+      {
+        "id": "a1-wh-questions-3-04",
+        "type": "choice",
+        "prompt": "How many brothers ___ you got?",
+        "answer": "have",
+        "distractors": [
+          "has",
+          "do"
+        ],
+        "explanation": "Have you got...?"
+      },
+      {
+        "id": "a1-wh-questions-3-05",
+        "type": "tiles",
+        "prompt": "Kiedy wróciłeś do domu?",
+        "answer": [
+          "When",
+          "did",
+          "you",
+          "come",
+          "home"
+        ],
+        "explanation": "When + did + you + come."
+      },
+      {
+        "id": "a1-wh-questions-3-06",
+        "type": "tiles",
+        "prompt": "Kim jest ta kobieta?",
+        "answer": [
+          "Who",
+          "is",
+          "that",
+          "woman"
+        ],
+        "explanation": "Who + is."
+      },
+      {
+        "id": "a1-wh-questions-3-07",
+        "type": "error",
+        "prompt": "Where did you went?",
+        "answer": [
+          "went",
+          "go"
+        ],
+        "explanation": "Po did forma podstawowa: go."
+      },
+      {
+        "id": "a1-wh-questions-3-08",
+        "type": "error",
+        "prompt": "How many sister have you got?",
+        "answer": [
+          "sister",
+          "sisters"
+        ],
+        "explanation": "How many + liczba mnoga."
+      },
+      {
+        "id": "a1-wh-questions-3-09",
+        "type": "translate",
+        "prompt": "Co robisz w weekendy?",
+        "answer": "What do you do at weekends?",
+        "accept": [
+          "What do you do on weekends?",
+          "What do you do at the weekend?",
+          "What do you do on the weekend?"
+        ],
+        "explanation": "Zwyczaj: Present Simple."
+      },
+      {
+        "id": "a1-wh-questions-3-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o „Anna”.\nAnna lives here.",
+        "answer": "Who lives here?",
+        "explanation": "Pytanie o podmiot: who + lives, bez does."
+      }
+    ]
+  }
+]

@@ -1,0 +1,343 @@
+[
+  {
+    "id": "b1-vocab-environment-1",
+    "topicId": "b1-vocab-environment",
+    "exercises": [
+      {
+        "id": "b1-vocab-environment-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "pollution|zanieczyszczenie",
+          "recycle|segregować, przetwarzać",
+          "waste|odpady; marnować",
+          "climate change|zmiana klimatu"
+        ],
+        "explanation": "Słowa o środowisku."
+      },
+      {
+        "id": "b1-vocab-environment-1-02",
+        "type": "choice",
+        "prompt": "We should ___ plastic bottles.",
+        "answer": "recycle",
+        "distractors": [
+          "recover",
+          "reuse up"
+        ],
+        "explanation": "Przetwarzać: recycle."
+      },
+      {
+        "id": "b1-vocab-environment-1-03",
+        "type": "choice",
+        "prompt": "Air ___ is a big problem in many cities.",
+        "answer": "pollution",
+        "distractors": [
+          "pollute",
+          "polluted"
+        ],
+        "explanation": "Rzeczownik: pollution."
+      },
+      {
+        "id": "b1-vocab-environment-1-04",
+        "type": "cloze",
+        "prompt": "Don't ___ water – turn off the tap. (marnować)",
+        "answer": "waste",
+        "explanation": "Marnować: waste."
+      },
+      {
+        "id": "b1-vocab-environment-1-05",
+        "type": "cloze",
+        "prompt": "Solar ___ is a clean source of energy. (energia)",
+        "answer": "energy",
+        "accept": [
+          "power"
+        ],
+        "explanation": "Energia słoneczna: solar energy / power."
+      },
+      {
+        "id": "b1-vocab-environment-1-06",
+        "type": "error",
+        "prompt": "We must protect the environmental.",
+        "answer": [
+          "environmental",
+          "environment"
+        ],
+        "explanation": "Rzeczownik: environment."
+      },
+      {
+        "id": "b1-vocab-environment-1-07",
+        "type": "tiles",
+        "prompt": "Powinniśmy oszczędzać energię.",
+        "answer": [
+          "We",
+          "should",
+          "save",
+          "energy"
+        ],
+        "distractors": [
+          "spend",
+          "safe"
+        ],
+        "explanation": "Oszczędzać: save."
+      },
+      {
+        "id": "b1-vocab-environment-1-08",
+        "type": "translate",
+        "prompt": "Segreguję śmieci.",
+        "answer": "I sort my rubbish.",
+        "accept": [
+          "I recycle my rubbish.",
+          "I sort my waste.",
+          "I recycle.",
+          "I separate my rubbish.",
+          "I sort my garbage.",
+          "I recycle my waste."
+        ],
+        "explanation": "Segregować: sort / recycle."
+      },
+      {
+        "id": "b1-vocab-environment-1-09",
+        "type": "transform",
+        "prompt": "Utwórz rzeczownik.\npollute",
+        "answer": "pollution",
+        "explanation": "Pollute + -ion."
+      },
+      {
+        "id": "b1-vocab-environment-1-10",
+        "type": "choice",
+        "prompt": "Many animals are ___ because their homes are destroyed.",
+        "answer": "endangered",
+        "distractors": [
+          "dangerous",
+          "endangering"
+        ],
+        "explanation": "Zagrożone: endangered."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-environment-2",
+    "topicId": "b1-vocab-environment",
+    "exercises": [
+      {
+        "id": "b1-vocab-environment-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "global warming|globalne ocieplenie",
+          "rainforest|las deszczowy",
+          "flood|powódź",
+          "drought|susza"
+        ],
+        "explanation": "Zjawiska."
+      },
+      {
+        "id": "b1-vocab-environment-2-02",
+        "type": "cloze",
+        "prompt": "There was no rain for months, so there was a ___. (susza)",
+        "answer": "drought",
+        "explanation": "Susza: drought."
+      },
+      {
+        "id": "b1-vocab-environment-2-03",
+        "type": "cloze",
+        "prompt": "The river rose and there was a terrible ___. (powódź)",
+        "answer": "flood",
+        "explanation": "Powódź: flood."
+      },
+      {
+        "id": "b1-vocab-environment-2-04",
+        "type": "choice",
+        "prompt": "Cutting down trees is called ___.",
+        "answer": "deforestation",
+        "distractors": [
+          "reforestation",
+          "afforestation"
+        ],
+        "explanation": "Wylesianie: deforestation."
+      },
+      {
+        "id": "b1-vocab-environment-2-05",
+        "type": "choice",
+        "prompt": "Electric cars are better for the environment because they don't ___ fumes.",
+        "answer": "produce",
+        "distractors": [
+          "make up",
+          "give up"
+        ],
+        "explanation": "Wytwarzać: produce."
+      },
+      {
+        "id": "b1-vocab-environment-2-06",
+        "type": "error",
+        "prompt": "Plastic bags are very bad to the environment.",
+        "answer": [
+          "to",
+          "for"
+        ],
+        "explanation": "Bad for."
+      },
+      {
+        "id": "b1-vocab-environment-2-07",
+        "type": "error",
+        "prompt": "I always bring my own bag – it's more eco-friendship.",
+        "answer": [
+          "eco-friendship",
+          "eco-friendly"
+        ],
+        "explanation": "Ekologiczny: eco-friendly."
+      },
+      {
+        "id": "b1-vocab-environment-2-08",
+        "type": "tiles",
+        "prompt": "Temperatury na Ziemi rosną.",
+        "answer": [
+          "Temperatures",
+          "on",
+          "Earth",
+          "are",
+          "rising"
+        ],
+        "distractors": [
+          "raising",
+          "grow"
+        ],
+        "explanation": "Rosnąć: rise."
+      },
+      {
+        "id": "b1-vocab-environment-2-09",
+        "type": "translate",
+        "prompt": "To jest przyjazne dla środowiska.",
+        "answer": "This is environmentally friendly.",
+        "accept": [
+          "This is eco-friendly.",
+          "It is eco-friendly.",
+          "It is environmentally friendly.",
+          "This is good for the environment.",
+          "It is good for the environment."
+        ],
+        "explanation": "Eco-friendly / environmentally friendly."
+      },
+      {
+        "id": "b1-vocab-environment-2-10",
+        "type": "transform",
+        "prompt": "Utwórz przymiotnik.\nenvironment",
+        "answer": "environmental",
+        "explanation": "Environment + -al."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-environment-3",
+    "topicId": "b1-vocab-environment",
+    "exercises": [
+      {
+        "id": "b1-vocab-environment-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "reduce|ograniczać",
+          "reuse|używać ponownie",
+          "renewable|odnawialny",
+          "litter|śmieci na ulicy"
+        ],
+        "explanation": "Działania."
+      },
+      {
+        "id": "b1-vocab-environment-3-02",
+        "type": "cloze",
+        "prompt": "Wind and solar power are ___ energy sources. (odnawialne)",
+        "answer": "renewable",
+        "explanation": "Odnawialne: renewable."
+      },
+      {
+        "id": "b1-vocab-environment-3-03",
+        "type": "cloze",
+        "prompt": "Don't drop ___ in the park! (śmieci)",
+        "answer": "litter",
+        "explanation": "Śmieci na ziemi: litter."
+      },
+      {
+        "id": "b1-vocab-environment-3-04",
+        "type": "choice",
+        "prompt": "We should use public ___ instead of cars.",
+        "answer": "transport",
+        "distractors": [
+          "transfer",
+          "traffic"
+        ],
+        "explanation": "Transport publiczny: public transport."
+      },
+      {
+        "id": "b1-vocab-environment-3-05",
+        "type": "choice",
+        "prompt": "Turn ___ the lights when you leave the room.",
+        "answer": "off",
+        "distractors": [
+          "down",
+          "out"
+        ],
+        "explanation": "Wyłączyć: turn off."
+      },
+      {
+        "id": "b1-vocab-environment-3-06",
+        "type": "error",
+        "prompt": "We must take care of our planet before it's too lately.",
+        "answer": [
+          "lately",
+          "late"
+        ],
+        "explanation": "Za późno: too late."
+      },
+      {
+        "id": "b1-vocab-environment-3-07",
+        "type": "error",
+        "prompt": "Factories produce a lot of carbon dioxyde.",
+        "answer": [
+          "dioxyde",
+          "dioxide"
+        ],
+        "explanation": "Pisownia: dioxide."
+      },
+      {
+        "id": "b1-vocab-environment-3-08",
+        "type": "tiles",
+        "prompt": "Bierz krótsze prysznice, żeby oszczędzać wodę.",
+        "answer": [
+          "Take",
+          "shorter",
+          "showers",
+          "to",
+          "save",
+          "water"
+        ],
+        "distractors": [
+          "for",
+          "safe"
+        ],
+        "explanation": "Cel: to + save."
+      },
+      {
+        "id": "b1-vocab-environment-3-09",
+        "type": "translate",
+        "prompt": "Musimy chronić lasy.",
+        "answer": "We must protect forests.",
+        "accept": [
+          "We have to protect forests.",
+          "We must protect the forests.",
+          "We have to protect the forests.",
+          "We need to protect forests.",
+          "We need to protect the forests."
+        ],
+        "explanation": "Chronić: protect."
+      },
+      {
+        "id": "b1-vocab-environment-3-10",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nnon-renewable energy",
+        "answer": "renewable energy",
+        "explanation": "Odnawialna: renewable."
+      }
+    ]
+  }
+]

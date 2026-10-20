@@ -1,0 +1,341 @@
+[
+  {
+    "id": "b2-vocab-idioms-basics-1",
+    "topicId": "b2-vocab-idioms-basics",
+    "exercises": [
+      {
+        "id": "b2-vocab-idioms-basics-1-01",
+        "type": "match",
+        "prompt": "Połącz idiomy z tłumaczeniem.",
+        "answer": [
+          "a piece of cake|bułka z masłem",
+          "break the ice|przełamać lody",
+          "once in a blue moon|raz na ruski rok",
+          "cost an arm and a leg|kosztować majątek"
+        ],
+        "explanation": "Idiomy."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-02",
+        "type": "choice",
+        "prompt": "The exam was a piece of ___.",
+        "answer": "cake",
+        "distractors": [
+          "bread",
+          "pie"
+        ],
+        "explanation": "A piece of cake."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-03",
+        "type": "choice",
+        "prompt": "I only see my cousins once in a blue ___.",
+        "answer": "moon",
+        "distractors": [
+          "sky",
+          "sun"
+        ],
+        "explanation": "Once in a blue moon."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-04",
+        "type": "cloze",
+        "prompt": "That new car must have cost an arm and a ___!",
+        "answer": "leg",
+        "explanation": "Cost an arm and a leg."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-05",
+        "type": "cloze",
+        "prompt": "He told a joke to break the ___.",
+        "answer": "ice",
+        "explanation": "Break the ice."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-06",
+        "type": "error",
+        "prompt": "I'm feeling a bit under the rain today.",
+        "answer": [
+          "rain",
+          "weather"
+        ],
+        "explanation": "Under the weather."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-07",
+        "type": "tiles",
+        "prompt": "Trafiłeś w sedno.",
+        "answer": [
+          "You",
+          "hit",
+          "the",
+          "nail",
+          "on",
+          "the",
+          "head"
+        ],
+        "distractors": [
+          "hammer",
+          "in"
+        ],
+        "explanation": "Hit the nail on the head."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-08",
+        "type": "translate",
+        "prompt": "Skończmy na dziś.",
+        "answer": "Let's call it a day.",
+        "accept": [
+          "Let us call it a day."
+        ],
+        "explanation": "Call it a day."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-09",
+        "type": "choice",
+        "prompt": "\"I'm a bit under the weather\" means:",
+        "answer": "I feel slightly ill.",
+        "distractors": [
+          "I'm outside in bad weather.",
+          "I'm very happy."
+        ],
+        "explanation": "Under the weather = nie najlepiej się czuć."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-1-10",
+        "type": "transform",
+        "prompt": "Zastąp słowo „very easy” idiomem.\nThe test was very easy.",
+        "answer": "The test was a piece of cake.",
+        "explanation": "A piece of cake."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-idioms-basics-2",
+    "topicId": "b2-vocab-idioms-basics",
+    "exercises": [
+      {
+        "id": "b2-vocab-idioms-basics-2-01",
+        "type": "match",
+        "prompt": "Połącz idiomy z tłumaczeniem.",
+        "answer": [
+          "the last straw|kropla, która przelała czarę",
+          "get cold feet|stchórzyć",
+          "let the cat out of the bag|wygadać sekret",
+          "in hot water|w tarapatach"
+        ],
+        "explanation": "Idiomy."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-02",
+        "type": "choice",
+        "prompt": "He was going to propose, but he got cold ___.",
+        "answer": "feet",
+        "distractors": [
+          "hands",
+          "legs"
+        ],
+        "explanation": "Get cold feet."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-03",
+        "type": "choice",
+        "prompt": "Who let the cat out of the ___? It was supposed to be a surprise!",
+        "answer": "bag",
+        "distractors": [
+          "box",
+          "house"
+        ],
+        "explanation": "Let the cat out of the bag."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-04",
+        "type": "cloze",
+        "prompt": "He's in hot ___ with his boss for missing the deadline.",
+        "answer": "water",
+        "explanation": "In hot water."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-05",
+        "type": "cloze",
+        "prompt": "When he was late again, it was the last ___.",
+        "answer": "straw",
+        "explanation": "The last straw."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-06",
+        "type": "error",
+        "prompt": "Losing that job was a blessing in disguising – I found a better one.",
+        "answer": [
+          "disguising",
+          "disguise"
+        ],
+        "explanation": "A blessing in disguise."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-07",
+        "type": "tiles",
+        "prompt": "Bądźmy zgodni co do planu.",
+        "answer": [
+          "Let's",
+          "make",
+          "sure",
+          "we're",
+          "on",
+          "the",
+          "same",
+          "page"
+        ],
+        "distractors": [
+          "book",
+          "at"
+        ],
+        "explanation": "On the same page."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-08",
+        "type": "translate",
+        "prompt": "Wygadał sekret.",
+        "answer": "He let the cat out of the bag.",
+        "accept": [
+          "He gave away the secret.",
+          "He told the secret.",
+          "He revealed the secret."
+        ],
+        "explanation": "Let the cat out of the bag."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-09",
+        "type": "choice",
+        "prompt": "\"Don't cut corners\" means:",
+        "answer": "Don't do things badly to save time or money.",
+        "distractors": [
+          "Don't drive too fast.",
+          "Don't waste paper."
+        ],
+        "explanation": "Cut corners = iść na skróty."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-2-10",
+        "type": "choice",
+        "prompt": "Which sentence is NOT suitable for a formal report?",
+        "answer": "It cost an arm and a leg.",
+        "distractors": [
+          "It was very expensive.",
+          "The costs were significant."
+        ],
+        "explanation": "Idiomy są potoczne."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-idioms-basics-3",
+    "topicId": "b2-vocab-idioms-basics",
+    "exercises": [
+      {
+        "id": "b2-vocab-idioms-basics-3-01",
+        "type": "match",
+        "prompt": "Połącz idiomy z tłumaczeniem.",
+        "answer": [
+          "call it a day|skończyć na dziś",
+          "cut corners|iść na skróty",
+          "on the same page|zgodni",
+          "a blessing in disguise|szczęście w nieszczęściu"
+        ],
+        "explanation": "Idiomy."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-02",
+        "type": "cloze",
+        "prompt": "It's late – let's call it a ___.",
+        "answer": "day",
+        "explanation": "Call it a day."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-03",
+        "type": "cloze",
+        "prompt": "We can't cut ___ on safety.",
+        "answer": "corners",
+        "explanation": "Cut corners."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-04",
+        "type": "choice",
+        "prompt": "I think you've hit the ___ on the head.",
+        "answer": "nail",
+        "distractors": [
+          "point",
+          "hammer"
+        ],
+        "explanation": "Hit the nail on the head."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-05",
+        "type": "choice",
+        "prompt": "Missing the train turned out to be a blessing in ___.",
+        "answer": "disguise",
+        "distractors": [
+          "secret",
+          "surprise"
+        ],
+        "explanation": "A blessing in disguise."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-06",
+        "type": "error",
+        "prompt": "Fixing that bug was a piece of cookie.",
+        "answer": [
+          "cookie",
+          "cake"
+        ],
+        "explanation": "A piece of cake."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-07",
+        "type": "error",
+        "prompt": "We need to be on the same side before the meeting with the client.",
+        "answer": [
+          "side",
+          "page"
+        ],
+        "explanation": "On the same page."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-08",
+        "type": "tiles",
+        "prompt": "Wpadłem w tarapaty.",
+        "answer": [
+          "I",
+          "got",
+          "into",
+          "hot",
+          "water"
+        ],
+        "distractors": [
+          "warm",
+          "on"
+        ],
+        "explanation": "In hot water."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-09",
+        "type": "translate",
+        "prompt": "To kosztowało majątek.",
+        "answer": "It cost an arm and a leg.",
+        "accept": [
+          "It cost a fortune.",
+          "That cost an arm and a leg.",
+          "That cost a fortune."
+        ],
+        "explanation": "Cost an arm and a leg."
+      },
+      {
+        "id": "b2-vocab-idioms-basics-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „very rarely” idiomem.\nI go to the theatre very rarely.",
+        "answer": "I go to the theatre once in a blue moon.",
+        "explanation": "Once in a blue moon."
+      }
+    ]
+  }
+]

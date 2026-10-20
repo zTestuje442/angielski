@@ -1,0 +1,312 @@
+[
+  {
+    "id": "a1-imperative-1",
+    "topicId": "a1-imperative",
+    "exercises": [
+      {
+        "id": "a1-imperative-1-01",
+        "type": "cloze",
+        "prompt": "___ the door, please. It's cold. (close)",
+        "answer": "Close",
+        "explanation": "Polecenie: forma podstawowa, bez podmiotu."
+      },
+      {
+        "id": "a1-imperative-1-02",
+        "type": "cloze",
+        "prompt": "___ touch that! It's hot.",
+        "answer": "Don't",
+        "explanation": "Zakaz: Don't + czasownik."
+      },
+      {
+        "id": "a1-imperative-1-03",
+        "type": "choice",
+        "prompt": "___ quiet, please!",
+        "answer": "Be",
+        "distractors": [
+          "Are",
+          "Is"
+        ],
+        "explanation": "Z to be w poleceniu: Be."
+      },
+      {
+        "id": "a1-imperative-1-04",
+        "type": "choice",
+        "prompt": "___ late tomorrow!",
+        "answer": "Don't be",
+        "distractors": [
+          "Not be",
+          "Don't"
+        ],
+        "explanation": "Zakaz z to be: Don't be."
+      },
+      {
+        "id": "a1-imperative-1-05",
+        "type": "tiles",
+        "prompt": "Usiądź, proszę.",
+        "answer": [
+          "Sit",
+          "down",
+          "please"
+        ],
+        "explanation": "Polecenie: sit down."
+      },
+      {
+        "id": "a1-imperative-1-06",
+        "type": "tiles",
+        "prompt": "Nie otwieraj okna.",
+        "answer": [
+          "Don't",
+          "open",
+          "the",
+          "window"
+        ],
+        "explanation": "Zakaz: Don't + open."
+      },
+      {
+        "id": "a1-imperative-1-07",
+        "type": "error",
+        "prompt": "Opens your books.",
+        "answer": [
+          "Opens",
+          "Open"
+        ],
+        "explanation": "W poleceniu czasownik bez -s."
+      },
+      {
+        "id": "a1-imperative-1-08",
+        "type": "error",
+        "prompt": "No run in the corridor.",
+        "answer": [
+          "No",
+          "Don't"
+        ],
+        "explanation": "Zakaz: Don't run."
+      },
+      {
+        "id": "a1-imperative-1-09",
+        "type": "translate",
+        "prompt": "Zadzwoń do mnie później.",
+        "answer": "Call me later.",
+        "accept": [
+          "Phone me later.",
+          "Ring me later."
+        ],
+        "explanation": "Polecenie: forma podstawowa."
+      },
+      {
+        "id": "a1-imperative-1-10",
+        "type": "match",
+        "prompt": "Połącz polecenia z tłumaczeniem.",
+        "answer": [
+          "Stop!|Stój!",
+          "Listen!|Słuchaj!",
+          "Hurry up!|Pospiesz się!",
+          "Don't worry!|Nie martw się!"
+        ],
+        "explanation": "Krótkie polecenia w trybie rozkazującym."
+      }
+    ]
+  },
+  {
+    "id": "a1-imperative-2",
+    "topicId": "a1-imperative",
+    "exercises": [
+      {
+        "id": "a1-imperative-2-01",
+        "type": "cloze",
+        "prompt": "___ your hands before dinner. (wash)",
+        "answer": "Wash",
+        "explanation": "Polecenie: forma podstawowa."
+      },
+      {
+        "id": "a1-imperative-2-02",
+        "type": "cloze",
+        "prompt": "Please ___ me your name. (tell)",
+        "answer": "tell",
+        "explanation": "Po please forma podstawowa."
+      },
+      {
+        "id": "a1-imperative-2-03",
+        "type": "choice",
+        "prompt": "___ go there. It's dangerous.",
+        "answer": "Don't",
+        "distractors": [
+          "Not",
+          "No"
+        ],
+        "explanation": "Zakaz: Don't."
+      },
+      {
+        "id": "a1-imperative-2-04",
+        "type": "choice",
+        "prompt": "Turn ___ at the bank.",
+        "answer": "left",
+        "distractors": [
+          "to left",
+          "lefts"
+        ],
+        "explanation": "Skręć w lewo: turn left."
+      },
+      {
+        "id": "a1-imperative-2-05",
+        "type": "transform",
+        "prompt": "Zmień na zakaz.\nEat in the classroom.",
+        "answer": "Don't eat in the classroom.",
+        "explanation": "Zakaz: Don't + czasownik."
+      },
+      {
+        "id": "a1-imperative-2-06",
+        "type": "transform",
+        "prompt": "Zmień na polecenie.\nYou must be careful.",
+        "answer": "Be careful.",
+        "explanation": "Polecenie z to be: Be careful."
+      },
+      {
+        "id": "a1-imperative-2-07",
+        "type": "tiles",
+        "prompt": "Nie bądź smutny.",
+        "answer": [
+          "Don't",
+          "be",
+          "sad"
+        ],
+        "explanation": "Zakaz z to be: Don't be."
+      },
+      {
+        "id": "a1-imperative-2-08",
+        "type": "error",
+        "prompt": "Please sits here.",
+        "answer": [
+          "sits",
+          "sit"
+        ],
+        "explanation": "Polecenie bez -s."
+      },
+      {
+        "id": "a1-imperative-2-09",
+        "type": "translate",
+        "prompt": "Nie jedz tego!",
+        "answer": "Don't eat that!",
+        "accept": [
+          "Don't eat this!"
+        ],
+        "explanation": "Zakaz: Don't eat."
+      },
+      {
+        "id": "a1-imperative-2-10",
+        "type": "match",
+        "prompt": "Połącz polecenia z tłumaczeniem.",
+        "answer": [
+          "Turn left|Skręć w lewo",
+          "Go straight on|Idź prosto",
+          "Turn right|Skręć w prawo",
+          "Stop here|Zatrzymaj się tutaj"
+        ],
+        "explanation": "Wskazówki drogi to tryb rozkazujący."
+      }
+    ]
+  },
+  {
+    "id": "a1-imperative-3",
+    "topicId": "a1-imperative",
+    "exercises": [
+      {
+        "id": "a1-imperative-3-01",
+        "type": "cloze",
+        "prompt": "___ go to the cinema tonight!",
+        "answer": "Let's",
+        "explanation": "Propozycja: Let's + czasownik."
+      },
+      {
+        "id": "a1-imperative-3-02",
+        "type": "choice",
+        "prompt": "Let's ___ a pizza.",
+        "answer": "order",
+        "distractors": [
+          "to order",
+          "ordering"
+        ],
+        "explanation": "Po let's forma podstawowa."
+      },
+      {
+        "id": "a1-imperative-3-03",
+        "type": "choice",
+        "prompt": "___ make a noise. The baby is sleeping.",
+        "answer": "Don't",
+        "distractors": [
+          "Let's",
+          "Not"
+        ],
+        "explanation": "Zakaz: Don't."
+      },
+      {
+        "id": "a1-imperative-3-04",
+        "type": "tiles",
+        "prompt": "Chodźmy na spacer.",
+        "answer": [
+          "Let's",
+          "go",
+          "for",
+          "a",
+          "walk"
+        ],
+        "explanation": "Propozycja: Let's go."
+      },
+      {
+        "id": "a1-imperative-3-05",
+        "type": "tiles",
+        "prompt": "Pomóż mi, proszę.",
+        "answer": [
+          "Help",
+          "me",
+          "please"
+        ],
+        "explanation": "Polecenie: help me."
+      },
+      {
+        "id": "a1-imperative-3-06",
+        "type": "error",
+        "prompt": "Let's plays a game.",
+        "answer": [
+          "plays",
+          "play"
+        ],
+        "explanation": "Po let's bez -s."
+      },
+      {
+        "id": "a1-imperative-3-07",
+        "type": "error",
+        "prompt": "Please waits for me.",
+        "answer": [
+          "waits",
+          "wait"
+        ],
+        "explanation": "Polecenie bez -s."
+      },
+      {
+        "id": "a1-imperative-3-08",
+        "type": "translate",
+        "prompt": "Zróbmy przerwę.",
+        "answer": "Let's take a break.",
+        "accept": [
+          "Let's have a break."
+        ],
+        "explanation": "Propozycja: Let's..."
+      },
+      {
+        "id": "a1-imperative-3-09",
+        "type": "transform",
+        "prompt": "Zaproponuj to samo, zacznij od „Let's”.\nWe can watch a film.",
+        "answer": "Let's watch a film.",
+        "explanation": "Let's + czasownik."
+      },
+      {
+        "id": "a1-imperative-3-10",
+        "type": "cloze",
+        "prompt": "___ careful! The floor is wet.",
+        "answer": "Be",
+        "explanation": "Polecenie z to be: Be careful."
+      }
+    ]
+  }
+]

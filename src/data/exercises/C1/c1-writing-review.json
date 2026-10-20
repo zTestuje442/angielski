@@ -1,0 +1,339 @@
+[
+  {
+    "id": "c1-writing-review-1",
+    "topicId": "c1-writing-review",
+    "exercises": [
+      {
+        "id": "c1-writing-review-1-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "gripping|trzymający w napięciu",
+          "thought-provoking|skłaniający do refleksji",
+          "overrated|przereklamowany",
+          "mediocre|przeciętny"
+        ],
+        "explanation": "Przymiotniki w recenzji."
+      },
+      {
+        "id": "c1-writing-review-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is a good hook?",
+        "answer": "If you're looking for a film that will keep you on the edge of your seat, look no further.",
+        "distractors": [
+          "This is a review of a film.",
+          "I watched a film yesterday."
+        ],
+        "explanation": "Hak: zwrócenie się do czytelnika."
+      },
+      {
+        "id": "c1-writing-review-1-03",
+        "type": "choice",
+        "prompt": "Which sentence describes the setting?",
+        "answer": "Set in 1920s Berlin, the film follows a young detective.",
+        "distractors": [
+          "I loved it so much.",
+          "Give it a miss."
+        ],
+        "explanation": "Set in... – miejsce i czas akcji."
+      },
+      {
+        "id": "c1-writing-review-1-04",
+        "type": "cloze",
+        "prompt": "I would thoroughly ___ it to anyone who loves history. (polecić)",
+        "answer": "recommend",
+        "explanation": "Thoroughly recommend."
+      },
+      {
+        "id": "c1-writing-review-1-05",
+        "type": "cloze",
+        "prompt": "The museum is well ___ a visit. (warte)",
+        "answer": "worth",
+        "explanation": "Well worth a visit."
+      },
+      {
+        "id": "c1-writing-review-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż fragment recenzji.",
+        "answer": [
+          "Set in a small Scottish village, the novel tells the story of two sisters.",
+          "What makes it stand out is its beautiful language.",
+          "I would thoroughly recommend it to anyone who enjoys family dramas."
+        ],
+        "distractors": [
+          "Yours faithfully,"
+        ],
+        "explanation": "Opis, ocena, rekomendacja. Formalne zakończenie listu nie pasuje."
+      },
+      {
+        "id": "c1-writing-review-1-07",
+        "type": "error",
+        "prompt": "The plot was so gripped that I couldn't put the book down.",
+        "answer": [
+          "gripped",
+          "gripping"
+        ],
+        "explanation": "Przymiotnik na -ing: gripping."
+      },
+      {
+        "id": "c1-writing-review-1-08",
+        "type": "transform",
+        "prompt": "Złagodź krytykę, zacznij od „Admittedly”.\nThe ending is predictable.",
+        "answer": "Admittedly, the ending is somewhat predictable.",
+        "accept": [
+          "Admittedly, the ending is predictable.",
+          "Admittedly, the ending is a little predictable.",
+          "Admittedly, the ending is rather predictable.",
+          "Admittedly, the ending is slightly predictable."
+        ],
+        "explanation": "Admittedly + hedging."
+      },
+      {
+        "id": "c1-writing-review-1-09",
+        "type": "translate",
+        "prompt": "Jedyną wadą jest cena.",
+        "answer": "The only drawback is the price.",
+        "accept": [
+          "The only disadvantage is the price.",
+          "The only downside is the price.",
+          "The only drawback is the cost.",
+          "The only weakness is the price."
+        ],
+        "explanation": "The only drawback is..."
+      },
+      {
+        "id": "c1-writing-review-1-10",
+        "type": "choice",
+        "prompt": "Which sentence contains a spoiler?",
+        "answer": "In the end, the detective turns out to be the killer.",
+        "distractors": [
+          "The detective faces a difficult case.",
+          "The film is set in Paris."
+        ],
+        "explanation": "Spoiler zdradza zakończenie."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-review-2",
+    "topicId": "c1-writing-review",
+    "exercises": [
+      {
+        "id": "c1-writing-review-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "breathtaking|zapierający dech",
+          "predictable|przewidywalny",
+          "far-fetched|naciągany",
+          "a must-see|pozycja obowiązkowa"
+        ],
+        "explanation": "Słownictwo recenzji."
+      },
+      {
+        "id": "c1-writing-review-2-02",
+        "type": "choice",
+        "prompt": "Which sentence is a balanced opinion?",
+        "answer": "Although the acting is superb, the plot is rather far-fetched.",
+        "distractors": [
+          "It's the worst film ever made.",
+          "Everything about it is perfect."
+        ],
+        "explanation": "Zrównoważona ocena."
+      },
+      {
+        "id": "c1-writing-review-2-03",
+        "type": "choice",
+        "prompt": "\"Give it a miss\" means:",
+        "answer": "Don't watch / visit it.",
+        "distractors": [
+          "Watch it twice.",
+          "Buy it as a gift."
+        ],
+        "explanation": "Give it a miss – odpuść."
+      },
+      {
+        "id": "c1-writing-review-2-04",
+        "type": "cloze",
+        "prompt": "The scenery in the film is absolutely ___. (zapierający dech)",
+        "answer": "breathtaking",
+        "accept": [
+          "stunning",
+          "spectacular"
+        ],
+        "explanation": "Breathtaking."
+      },
+      {
+        "id": "c1-writing-review-2-05",
+        "type": "cloze",
+        "prompt": "Unless you are a die-___ fan, you might find it boring.",
+        "answer": "hard",
+        "explanation": "Die-hard fan."
+      },
+      {
+        "id": "c1-writing-review-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż wstęp recenzji aplikacji.",
+        "answer": [
+          "Have you ever forgotten an important deadline?",
+          "If so, TaskFlow might be just what you need.",
+          "The app allows users to plan their week in minutes."
+        ],
+        "distractors": [
+          "I am writing to complain about your service."
+        ],
+        "explanation": "Pytanie-hak, odpowiedź, opis. Zdanie z reklamacji nie pasuje."
+      },
+      {
+        "id": "c1-writing-review-2-07",
+        "type": "error",
+        "prompt": "The special effects are breathtaken.",
+        "answer": [
+          "breathtaken",
+          "breathtaking"
+        ],
+        "explanation": "Przymiotnik: breathtaking."
+      },
+      {
+        "id": "c1-writing-review-2-08",
+        "type": "transform",
+        "prompt": "Zacznij od „What makes”.\nThe soundtrack makes this film special.",
+        "answer": "What makes this film special is the soundtrack.",
+        "explanation": "Cleft: What makes ... is..."
+      },
+      {
+        "id": "c1-writing-review-2-09",
+        "type": "translate",
+        "prompt": "To pozycja obowiązkowa dla fanów fantastyki.",
+        "answer": "It is a must-see for fans of fantasy.",
+        "accept": [
+          "It's a must-see for fantasy fans.",
+          "It is a must-see for fantasy fans.",
+          "This is a must-see for fans of fantasy.",
+          "This is a must-see for fantasy fans.",
+          "It is a must-read for fantasy fans.",
+          "It is a must-read for fans of fantasy."
+        ],
+        "explanation": "A must-see."
+      },
+      {
+        "id": "c1-writing-review-2-10",
+        "type": "choice",
+        "prompt": "Which tense is usually used to describe the plot?",
+        "answer": "Present Simple",
+        "distractors": [
+          "Past Perfect",
+          "Future Continuous"
+        ],
+        "explanation": "Fabułę opisujemy w Present Simple."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-review-3",
+    "topicId": "c1-writing-review",
+    "exercises": [
+      {
+        "id": "c1-writing-review-3-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "superb|znakomity",
+          "dull|nudny",
+          "overpriced|przepłacony",
+          "cosy|przytulny"
+        ],
+        "explanation": "Przymiotniki o restauracji i miejscach."
+      },
+      {
+        "id": "c1-writing-review-3-02",
+        "type": "choice",
+        "prompt": "Which sentence is the most vivid?",
+        "answer": "The tiny, candlelit restaurant has a wonderfully cosy atmosphere.",
+        "distractors": [
+          "The restaurant is nice.",
+          "The restaurant is good and nice."
+        ],
+        "explanation": "Konkretne, obrazowe przymiotniki."
+      },
+      {
+        "id": "c1-writing-review-3-03",
+        "type": "choice",
+        "prompt": "Which ending is a recommendation?",
+        "answer": "Book a table in advance – you won't regret it.",
+        "distractors": [
+          "The restaurant opened in 2015.",
+          "The waiter's name was Tom."
+        ],
+        "explanation": "Rekomendacja z bezpośrednim zwrotem."
+      },
+      {
+        "id": "c1-writing-review-3-04",
+        "type": "cloze",
+        "prompt": "The food was superb, but the desserts were somewhat ___. (przepłacone)",
+        "answer": "overpriced",
+        "explanation": "Overpriced."
+      },
+      {
+        "id": "c1-writing-review-3-05",
+        "type": "cloze",
+        "prompt": "The service ___ a lot to be desired. (pozostawiała wiele do życzenia)",
+        "answer": "left",
+        "explanation": "Leave a lot to be desired."
+      },
+      {
+        "id": "c1-writing-review-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie recenzji restauracji.",
+        "answer": [
+          "All in all, Casa Verde is a real gem.",
+          "The food is superb and the staff are friendly.",
+          "Book a table in advance – you won't regret it."
+        ],
+        "distractors": [
+          "Please find attached my CV."
+        ],
+        "explanation": "Podsumowanie, uzasadnienie, rekomendacja. Zdanie z podania nie pasuje."
+      },
+      {
+        "id": "c1-writing-review-3-07",
+        "type": "error",
+        "prompt": "The lecture was so bored that half the audience left.",
+        "answer": [
+          "bored",
+          "boring"
+        ],
+        "explanation": "Przymiotnik na -ing: boring."
+      },
+      {
+        "id": "c1-writing-review-3-08",
+        "type": "transform",
+        "prompt": "Złagodź krytykę, użyj „somewhat”.\nThe second half is slow.",
+        "answer": "The second half is somewhat slow.",
+        "explanation": "Somewhat – nieco."
+      },
+      {
+        "id": "c1-writing-review-3-09",
+        "type": "translate",
+        "prompt": "Obsługa pozostawiała wiele do życzenia.",
+        "answer": "The service left a lot to be desired.",
+        "accept": [
+          "The service left much to be desired.",
+          "The service left a great deal to be desired."
+        ],
+        "explanation": "Leave a lot to be desired."
+      },
+      {
+        "id": "c1-writing-review-3-10",
+        "type": "choice",
+        "prompt": "Which style is best for a review in a magazine?",
+        "answer": "semi-formal and lively",
+        "distractors": [
+          "very formal and impersonal",
+          "full of slang"
+        ],
+        "explanation": "Pół-formalny, żywy."
+      }
+    ]
+  }
+]

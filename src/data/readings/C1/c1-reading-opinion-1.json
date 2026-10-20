@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-opinion-1",
+  "topicId": "c1-reading-opinion",
+  "title": "In defence of boredom",
+  "text": "When did you last feel truly bored? I don't mean the mild irritation of waiting for a kettle to boil, which most of us now fill by checking our phones. I mean the long, empty, slightly painful boredom of childhood summers – the kind that seemed to stretch for hours and from which, eventually, something unexpected would emerge.\n\nI suspect that for many adults the honest answer is: years ago. We have built a world in which boredom has become almost impossible. Every gap in the day, however small, can be filled instantly with news, messages, videos and games. On the bus, in the queue, even in the bathroom, we reach for the screen with the automatic reflex of a smoker reaching for a cigarette.\n\nThis is generally presented as progress, and in many ways it is. Granted, nobody misses the tedium of a delayed train without a book. But I have come to believe that in eliminating boredom we have lost something valuable – something that our constantly entertained minds may need more than we realise.\n\nPsychologists have long noted that boredom is not simply the absence of stimulation; it is an uncomfortable signal that pushes us to look for meaning. In several experiments, participants who were first given a deliberately dull task – copying numbers from a telephone directory, for instance – later produced more creative answers in problem-solving exercises than those who had not been bored. The mind, left without input, begins to wander, and wandering is where many of our best ideas come from.\n\nI am not suggesting that we throw away our phones and return to staring at the wallpaper. That would be both unrealistic and, frankly, rather pretentious. Nor am I claiming that every bored moment produces a masterpiece; most of my own produce nothing more remarkable than a vague plan to reorganise the kitchen cupboards. My point is simply that we should stop treating boredom as an enemy to be defeated at all costs.\n\nParents, in particular, might reconsider their instinct to fill every free hour of their children's lives with activities and entertainment. A child who is allowed to be bored for an afternoon may grumble, but they are also likely to invent a game, build a den or start a story. These are not trivial achievements; they are the foundations of independence and imagination.\n\nAs for the rest of us, the remedy is simple, if not easy. Leave your phone in your pocket for the next ten minutes of waiting. Look out of the window on a train. Go for a walk without headphones. At first, the silence may feel almost unbearable. Persevere. Somewhere on the other side of that discomfort is a mind that has room to think again – and perhaps, if you are lucky, an idea that no algorithm could ever have recommended to you.",
+  "exercises": [
+    {
+      "id": "c1-reading-opinion-1-01",
+      "type": "choice",
+      "prompt": "The writer believes most adults are bored very often.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Autor sądzi, że dorośli rzadko się nudzą – wypełniają każdą lukę."
+    },
+    {
+      "id": "c1-reading-opinion-1-02",
+      "type": "choice",
+      "prompt": "In the experiments, bored participants were later more creative.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...later produced more creative answers...”"
+    },
+    {
+      "id": "c1-reading-opinion-1-03",
+      "type": "choice",
+      "prompt": "The writer has written a novel during a bored moment.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...nothing more remarkable than a vague plan to reorganise the kitchen cupboards.”"
+    },
+    {
+      "id": "c1-reading-opinion-1-04",
+      "type": "choice",
+      "prompt": "The writer has children.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-opinion-1-05",
+      "type": "choice",
+      "prompt": "Why does the writer compare phone users to smokers?",
+      "answer": "to show that reaching for the phone is an automatic habit",
+      "distractors": [
+        "to suggest phones damage health",
+        "to criticise smokers"
+      ],
+      "explanation": "„...with the automatic reflex of a smoker...”"
+    },
+    {
+      "id": "c1-reading-opinion-1-06",
+      "type": "choice",
+      "prompt": "What does the writer mean by \"Granted, nobody misses the tedium...\"?",
+      "answer": "The writer admits that filling boredom has some benefits.",
+      "distractors": [
+        "The writer loves delayed trains.",
+        "The writer thinks books are boring."
+      ],
+      "explanation": "Granted – ustępstwo przed powrotem do tezy."
+    },
+    {
+      "id": "c1-reading-opinion-1-07",
+      "type": "choice",
+      "prompt": "What does the writer say about throwing away phones?",
+      "answer": "It would be unrealistic and pretentious.",
+      "distractors": [
+        "Everyone should do it immediately.",
+        "It is the only solution."
+      ],
+      "explanation": "„...both unrealistic and, frankly, rather pretentious.”"
+    },
+    {
+      "id": "c1-reading-opinion-1-08",
+      "type": "choice",
+      "prompt": "What does the writer imply about children who are bored?",
+      "answer": "They often become creative and independent.",
+      "distractors": [
+        "They need more organised activities.",
+        "They should be given phones."
+      ],
+      "explanation": "„...invent a game, build a den or start a story.”"
+    },
+    {
+      "id": "c1-reading-opinion-1-09",
+      "type": "cloze",
+      "prompt": "Somewhere on the other side of that ___ is a mind that has room to think again.",
+      "answer": "discomfort",
+      "explanation": "Dyskomfort: discomfort."
+    },
+    {
+      "id": "c1-reading-opinion-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "tedium|nuda, monotonia",
+        "pretentious|pretensjonalny",
+        "grumble|marudzić",
+        "persevere|wytrwać"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

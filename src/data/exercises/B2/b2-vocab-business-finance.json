@@ -1,0 +1,358 @@
+[
+  {
+    "id": "b2-vocab-business-finance-1",
+    "topicId": "b2-vocab-business-finance",
+    "exercises": [
+      {
+        "id": "b2-vocab-business-finance-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "profit|zysk",
+          "loss|strata",
+          "revenue|przychód",
+          "debt|dług"
+        ],
+        "explanation": "Podstawowe pojęcia finansowe."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-02",
+        "type": "choice",
+        "prompt": "The company made a ___ of £2 million last year.",
+        "answer": "profit",
+        "distractors": [
+          "benefit",
+          "gain up"
+        ],
+        "explanation": "Zysk: make a profit."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-03",
+        "type": "choice",
+        "prompt": "Sales rose ___ 10% last quarter.",
+        "answer": "by",
+        "distractors": [
+          "of",
+          "with"
+        ],
+        "explanation": "Zmiana o: by."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-04",
+        "type": "cloze",
+        "prompt": "Our main ___ is a German company. (konkurent)",
+        "answer": "competitor",
+        "explanation": "Konkurent: competitor."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-05",
+        "type": "cloze",
+        "prompt": "We need to ___ costs this year. (obciąć)",
+        "answer": "cut",
+        "accept": [
+          "reduce",
+          "lower"
+        ],
+        "explanation": "Cut costs."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-06",
+        "type": "error",
+        "prompt": "They opened a new branch in Gdańsk and it quickly did a profit.",
+        "answer": [
+          "did",
+          "made"
+        ],
+        "explanation": "Make a profit."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-07",
+        "type": "tiles",
+        "prompt": "Firma zbankrutowała w zeszłym roku.",
+        "answer": [
+          "The",
+          "company",
+          "went",
+          "bankrupt",
+          "last",
+          "year"
+        ],
+        "distractors": [
+          "became",
+          "made"
+        ],
+        "explanation": "Go bankrupt."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-08",
+        "type": "translate",
+        "prompt": "Ceny wzrosły o pięć procent.",
+        "answer": "Prices rose by five percent.",
+        "accept": [
+          "Prices increased by five percent.",
+          "Prices went up by five percent.",
+          "Prices rose by 5%.",
+          "Prices increased by 5%.",
+          "Prices went up by 5%.",
+          "Prices rose by five per cent.",
+          "Prices increased by five per cent."
+        ],
+        "explanation": "Wzrost o: rise by."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-09",
+        "type": "choice",
+        "prompt": "A company's main office is its ___.",
+        "answer": "headquarters",
+        "distractors": [
+          "branch",
+          "subsidiary"
+        ],
+        "explanation": "Siedziba: headquarters."
+      },
+      {
+        "id": "b2-vocab-business-finance-1-10",
+        "type": "transform",
+        "prompt": "Użyj „fall” w Past Simple, zacznij od „Profits”.\nProfits decreased by 3%.",
+        "answer": "Profits fell by 3%.",
+        "accept": [
+          "Profits fell by three percent.",
+          "Profits fell by 3 percent."
+        ],
+        "explanation": "Decrease → fall (fell)."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-business-finance-2",
+    "topicId": "b2-vocab-business-finance",
+    "exercises": [
+      {
+        "id": "b2-vocab-business-finance-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "salary|pensja",
+          "loan|pożyczka",
+          "mortgage|kredyt hipoteczny",
+          "savings|oszczędności"
+        ],
+        "explanation": "Pieniądze osobiste."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-02",
+        "type": "cloze",
+        "prompt": "The bank has raised the interest ___. (stopa)",
+        "answer": "rate",
+        "explanation": "Interest rate."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-03",
+        "type": "cloze",
+        "prompt": "It took us 20 years to pay ___ our mortgage.",
+        "answer": "off",
+        "explanation": "Spłacić: pay off."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-04",
+        "type": "choice",
+        "prompt": "I'd like to apply ___ a loan.",
+        "answer": "for",
+        "distractors": [
+          "to",
+          "on"
+        ],
+        "explanation": "Apply for."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-05",
+        "type": "choice",
+        "prompt": "We sent the client an ___ for the work.",
+        "answer": "invoice",
+        "distractors": [
+          "account",
+          "receipt of"
+        ],
+        "explanation": "Faktura: invoice."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-06",
+        "type": "error",
+        "prompt": "He borrowed a loan from the bank to buy a car.",
+        "answer": [
+          "borrowed",
+          "took"
+        ],
+        "explanation": "Take out a loan / take a loan."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-07",
+        "type": "error",
+        "prompt": "My monthly sallary is paid on the 10th.",
+        "answer": [
+          "sallary",
+          "salary"
+        ],
+        "explanation": "Pisownia: salary."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-08",
+        "type": "tiles",
+        "prompt": "Musimy trzymać się budżetu.",
+        "answer": [
+          "We",
+          "need",
+          "to",
+          "stick",
+          "to",
+          "the",
+          "budget"
+        ],
+        "distractors": [
+          "stay",
+          "on"
+        ],
+        "explanation": "Stick to the budget."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-09",
+        "type": "translate",
+        "prompt": "Ile wynosi oprocentowanie?",
+        "answer": "What is the interest rate?",
+        "accept": [
+          "What's the interest rate?",
+          "How high is the interest rate?"
+        ],
+        "explanation": "Interest rate."
+      },
+      {
+        "id": "b2-vocab-business-finance-2-10",
+        "type": "choice",
+        "prompt": "If a company neither makes a profit nor a loss, it ___.",
+        "answer": "breaks even",
+        "distractors": [
+          "breaks down",
+          "gets even"
+        ],
+        "explanation": "Wyjść na zero: break even."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-business-finance-3",
+    "topicId": "b2-vocab-business-finance",
+    "exercises": [
+      {
+        "id": "b2-vocab-business-finance-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "shareholder|udziałowiec",
+          "board of directors|zarząd",
+          "subsidiary|spółka zależna",
+          "market share|udział w rynku"
+        ],
+        "explanation": "Struktura firmy."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-02",
+        "type": "cloze",
+        "prompt": "They are going to ___ a new product in May. (wprowadzić na rynek)",
+        "answer": "launch",
+        "explanation": "Launch a product."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-03",
+        "type": "cloze",
+        "prompt": "She ___ her own business – a small bakery. (prowadzi)",
+        "answer": "runs",
+        "accept": [
+          "has",
+          "owns"
+        ],
+        "explanation": "Run a business."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-04",
+        "type": "choice",
+        "prompt": "Unemployment has fallen ___ 5%. (do poziomu)",
+        "answer": "to",
+        "distractors": [
+          "by",
+          "at"
+        ],
+        "explanation": "Do poziomu: to."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-05",
+        "type": "choice",
+        "prompt": "The company plans to invest ___ new technology.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "into it"
+        ],
+        "explanation": "Invest in."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-06",
+        "type": "error",
+        "prompt": "Our earnings rose with 20% this year.",
+        "answer": [
+          "with",
+          "by"
+        ],
+        "explanation": "Rise by."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-07",
+        "type": "error",
+        "prompt": "The company made a big lost last year.",
+        "answer": [
+          "lost",
+          "loss"
+        ],
+        "explanation": "Rzeczownik: loss."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-08",
+        "type": "tiles",
+        "prompt": "Firma zatrudnia ponad sto osób.",
+        "answer": [
+          "The",
+          "company",
+          "employs",
+          "over",
+          "a",
+          "hundred",
+          "people"
+        ],
+        "distractors": [
+          "works",
+          "of"
+        ],
+        "explanation": "Employ."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-09",
+        "type": "translate",
+        "prompt": "Nasza firma ma siedzibę w Warszawie.",
+        "answer": "Our company has its headquarters in Warsaw.",
+        "accept": [
+          "Our company is based in Warsaw.",
+          "Our company's headquarters are in Warsaw.",
+          "Our company's headquarters is in Warsaw.",
+          "Our firm is based in Warsaw."
+        ],
+        "explanation": "Siedziba: headquarters."
+      },
+      {
+        "id": "b2-vocab-business-finance-3-10",
+        "type": "transform",
+        "prompt": "Zamień na zdanie z „make a loss”, zacznij od „The shop”.\nThe shop lost money last year.",
+        "answer": "The shop made a loss last year.",
+        "explanation": "Make a loss."
+      }
+    ]
+  }
+]

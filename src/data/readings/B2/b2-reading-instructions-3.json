@@ -1,0 +1,115 @@
+{
+  "id": "b2-reading-instructions-3",
+  "topicId": "b2-reading-instructions",
+  "title": "Your new office chair: setup guide",
+  "text": "Thank you for choosing the ErgoFlex office chair. Correctly adjusting your chair can reduce back and neck pain, improve your concentration and make long working days far more comfortable. Please read these instructions carefully before use, and keep them for future reference.\n\nBefore you begin\nCheck that all the parts listed on page 2 are in the box. Assemble the chair on a soft surface, such as a carpet or the cardboard from the packaging, to avoid scratching the parts. You will need about fifteen minutes and the hexagonal key provided. Do not use electric screwdrivers, as they may damage the threads.\n\nStep 1: Seat height\nSit on the chair with your feet flat on the floor. Pull the lever on the right side under the seat to raise or lower it. Your knees should be at the same height as your hips or slightly lower. If your feet do not reach the floor when your desk is at the correct height, use a footrest.\n\nStep 2: Seat depth\nSlide the seat forwards or backwards using the button at the front. There should be a gap of about three fingers between the front edge of the seat and the back of your knees. A seat that is too deep can reduce blood circulation in your legs.\n\nStep 3: Backrest and lumbar support\nAdjust the backrest so that it supports the natural curve of your lower back. Turn the knob on the back of the chair to move the lumbar support up or down until you feel it gently pressing against the small of your back. The backrest can be locked in an upright position or left free to recline. For computer work, we recommend a slight recline of about 100 to 110 degrees.\n\nStep 4: Armrests\nYour shoulders should be relaxed and your elbows bent at roughly ninety degrees. Raise or lower the armrests so that your forearms rest on them lightly without lifting your shoulders. If the armrests stop you from getting close enough to your desk, lower them completely.\n\nSafety and care\nThe chair is designed for one person weighing no more than 120 kg. Never stand on the chair or use it as a ladder. Clean the fabric with a damp cloth and mild soap; do not use bleach or other strong chemicals. Check the screws every six months and tighten them if necessary.\n\nEven the best chair cannot replace movement. Stand up, stretch and walk around for a few minutes at least once an hour.",
+  "exercises": [
+    {
+      "id": "b2-reading-instructions-3-01",
+      "type": "choice",
+      "prompt": "You should assemble the chair on a hard floor.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Assemble the chair on a soft surface...”"
+    },
+    {
+      "id": "b2-reading-instructions-3-02",
+      "type": "choice",
+      "prompt": "An electric screwdriver can be used to assemble the chair.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Do not use electric screwdrivers...”"
+    },
+    {
+      "id": "b2-reading-instructions-3-03",
+      "type": "choice",
+      "prompt": "The chair is available in several colours.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o kolorach."
+    },
+    {
+      "id": "b2-reading-instructions-3-04",
+      "type": "choice",
+      "prompt": "Your knees should be slightly lower than or level with your hips.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Your knees should be at the same height as your hips or slightly lower.”"
+    },
+    {
+      "id": "b2-reading-instructions-3-05",
+      "type": "choice",
+      "prompt": "What should you do if your feet don't reach the floor?",
+      "answer": "use a footrest",
+      "distractors": [
+        "raise the seat",
+        "lower the desk"
+      ],
+      "explanation": "„...use a footrest.”"
+    },
+    {
+      "id": "b2-reading-instructions-3-06",
+      "type": "choice",
+      "prompt": "How big should the gap between the seat and your knees be?",
+      "answer": "about three fingers",
+      "distractors": [
+        "about ten centimetres",
+        "no gap at all"
+      ],
+      "explanation": "„...a gap of about three fingers...”"
+    },
+    {
+      "id": "b2-reading-instructions-3-07",
+      "type": "choice",
+      "prompt": "What should you do if the armrests stop you from getting close to the desk?",
+      "answer": "lower them completely",
+      "distractors": [
+        "remove the backrest",
+        "raise the seat"
+      ],
+      "explanation": "„If the armrests stop you... lower them completely.”"
+    },
+    {
+      "id": "b2-reading-instructions-3-08",
+      "type": "choice",
+      "prompt": "How should you clean the fabric?",
+      "answer": "with a damp cloth and mild soap",
+      "distractors": [
+        "with bleach",
+        "in a washing machine"
+      ],
+      "explanation": "„Clean the fabric with a damp cloth and mild soap.”"
+    },
+    {
+      "id": "b2-reading-instructions-3-09",
+      "type": "cloze",
+      "prompt": "Check the screws every six months and ___ them if necessary.",
+      "answer": "tighten",
+      "explanation": "Dokręcić: tighten."
+    },
+    {
+      "id": "b2-reading-instructions-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "assemble|złożyć, zmontować",
+        "lever|dźwignia",
+        "recline|odchylić się",
+        "damp|wilgotny"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "b2-future-continuous-perfect-1",
+    "topicId": "b2-future-continuous-perfect",
+    "exercises": [
+      {
+        "id": "b2-future-continuous-perfect-1-01",
+        "type": "cloze",
+        "prompt": "This time tomorrow I'll ___ lying on the beach.",
+        "answer": "be",
+        "explanation": "Will be + -ing."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-02",
+        "type": "cloze",
+        "prompt": "By next year, I will have ___ my degree. (finish)",
+        "answer": "finished",
+        "explanation": "Will have + III forma."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-03",
+        "type": "choice",
+        "prompt": "Don't call me at 8 – I ___ dinner.",
+        "answer": "will be having",
+        "distractors": [
+          "will have had",
+          "have"
+        ],
+        "explanation": "W trakcie o 8: will be having."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-04",
+        "type": "choice",
+        "prompt": "By the time you get here, we ___ everything.",
+        "answer": "will have eaten",
+        "distractors": [
+          "will be eating",
+          "eat"
+        ],
+        "explanation": "Zakończone przed: will have eaten."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-05",
+        "type": "cloze",
+        "prompt": "In 2030 I ___ here for twenty years. (work)",
+        "answer": "will have worked",
+        "accept": [
+          "will have been working"
+        ],
+        "explanation": "Do 2030: will have worked."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "will be doing|w trakcie w danym momencie",
+          "will have done|zakończone przed danym momentem",
+          "by|najpóźniej do",
+          "this time next week|o tej porze w przyszłym tygodniu"
+        ],
+        "explanation": "Formy i wyrażenia."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-07",
+        "type": "error",
+        "prompt": "By Friday I will finished the report.",
+        "answer": [
+          "finished",
+          "have finished"
+        ],
+        "explanation": "Will have + III forma."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-08",
+        "type": "tiles",
+        "prompt": "Jutro o tej porze będę leciał do Nowego Jorku.",
+        "answer": [
+          "This",
+          "time",
+          "tomorrow",
+          "I'll",
+          "be",
+          "flying",
+          "to",
+          "New",
+          "York"
+        ],
+        "distractors": [
+          "have",
+          "flew"
+        ],
+        "explanation": "W trakcie: will be flying."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-09",
+        "type": "translate",
+        "prompt": "Do końca roku skończymy projekt.",
+        "answer": "We will have finished the project by the end of the year.",
+        "accept": [
+          "By the end of the year we will have finished the project.",
+          "By the end of the year, we will have finished the project."
+        ],
+        "explanation": "Przed terminem: will have finished."
+      },
+      {
+        "id": "b2-future-continuous-perfect-1-10",
+        "type": "transform",
+        "prompt": "Zapisz w Future Continuous, zacznij od „At 10 a.m. tomorrow”.\nI / have a meeting",
+        "answer": "At 10 a.m. tomorrow I will be having a meeting.",
+        "accept": [
+          "At 10 a.m. tomorrow, I will be having a meeting."
+        ],
+        "explanation": "W trakcie: will be having."
+      }
+    ]
+  },
+  {
+    "id": "b2-future-continuous-perfect-2",
+    "topicId": "b2-future-continuous-perfect",
+    "exercises": [
+      {
+        "id": "b2-future-continuous-perfect-2-01",
+        "type": "cloze",
+        "prompt": "Will you ___ using the car tonight? I'd like to borrow it.",
+        "answer": "be",
+        "explanation": "Grzeczne pytanie: Will you be using...?"
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-02",
+        "type": "cloze",
+        "prompt": "By the time she's 30, she'll ___ visited 50 countries.",
+        "answer": "have",
+        "explanation": "Will have + III forma."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-03",
+        "type": "choice",
+        "prompt": "In ten years' time, people ___ in self-driving cars.",
+        "answer": "will be travelling",
+        "distractors": [
+          "will have travelled",
+          "travel"
+        ],
+        "explanation": "W trakcie w przyszłości: will be travelling."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-04",
+        "type": "choice",
+        "prompt": "By 6 p.m. they ___ the work.",
+        "answer": "won't have finished",
+        "distractors": [
+          "won't be finishing",
+          "don't finish"
+        ],
+        "explanation": "Nie zakończą przed: won't have finished."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-05",
+        "type": "choice",
+        "prompt": "Don't worry, I ___ you at the airport.",
+        "answer": "will be waiting for",
+        "distractors": [
+          "will have waited for",
+          "wait for"
+        ],
+        "explanation": "W trakcie: will be waiting."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-06",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou will have finished by Monday.",
+        "answer": "Will you have finished by Monday?",
+        "explanation": "Will przed podmiotem."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-07",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nWe will be working on Saturday.",
+        "answer": "We will not be working on Saturday.",
+        "explanation": "Won't be + -ing."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-08",
+        "type": "tiles",
+        "prompt": "Czy jutro będziesz potrzebował laptopa?",
+        "answer": [
+          "Will",
+          "you",
+          "be",
+          "needing",
+          "the",
+          "laptop",
+          "tomorrow"
+        ],
+        "distractors": [
+          "have",
+          "needed"
+        ],
+        "explanation": "Grzeczne pytanie: Will you be + -ing."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-09",
+        "type": "error",
+        "prompt": "This time next week I will lie on a beach in Greece.",
+        "answer": [
+          "lie",
+          "be lying"
+        ],
+        "explanation": "W trakcie: will be lying."
+      },
+      {
+        "id": "b2-future-continuous-perfect-2-10",
+        "type": "translate",
+        "prompt": "Do piątku przeczytam tę książkę.",
+        "answer": "I will have read this book by Friday.",
+        "accept": [
+          "By Friday I will have read this book.",
+          "I will have read the book by Friday.",
+          "By Friday, I will have read this book.",
+          "I will have finished this book by Friday."
+        ],
+        "explanation": "Przed piątkiem: will have read."
+      }
+    ]
+  },
+  {
+    "id": "b2-future-continuous-perfect-3",
+    "topicId": "b2-future-continuous-perfect",
+    "exercises": [
+      {
+        "id": "b2-future-continuous-perfect-3-01",
+        "type": "choice",
+        "prompt": "When you arrive, I ___ my bags. Come in and wait.",
+        "answer": "will be packing",
+        "distractors": [
+          "will have packed",
+          "pack"
+        ],
+        "explanation": "W trakcie: will be packing."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-02",
+        "type": "choice",
+        "prompt": "When you arrive, I ___ my bags, so we can leave immediately.",
+        "answer": "will have packed",
+        "distractors": [
+          "will be packing",
+          "packed"
+        ],
+        "explanation": "Zakończone: will have packed."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-03",
+        "type": "cloze",
+        "prompt": "In June we will have ___ married for ten years. (be)",
+        "answer": "been",
+        "explanation": "Will have been."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-04",
+        "type": "cloze",
+        "prompt": "Next week at this time, I'll be ___ in Rome. (sit)",
+        "answer": "sitting",
+        "explanation": "Will be sitting."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-05",
+        "type": "cloze",
+        "prompt": "By 2040, scientists will have ___ a cure for this disease. (find)",
+        "answer": "found",
+        "explanation": "Will have found."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Będę jadł obiad o 7.|I'll be having dinner at 7.",
+          "Zjem obiad przed 7.|I'll have had dinner by 7.",
+          "Zjem obiad o 7.|I'll have dinner at 7."
+        ],
+        "explanation": "Trzy formy przyszłości."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-07",
+        "type": "error",
+        "prompt": "By next month, I will have been live here for a year.",
+        "answer": [
+          "live",
+          "living"
+        ],
+        "explanation": "Will have been + -ing."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-08",
+        "type": "error",
+        "prompt": "Will you be come to the party?",
+        "answer": [
+          "come",
+          "coming"
+        ],
+        "explanation": "Will be + -ing."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-09",
+        "type": "tiles",
+        "prompt": "Do tego czasu wszyscy już wyjdą.",
+        "answer": [
+          "By",
+          "then",
+          "everyone",
+          "will",
+          "have",
+          "left"
+        ],
+        "distractors": [
+          "be",
+          "leaving"
+        ],
+        "explanation": "Zakończone: will have left."
+      },
+      {
+        "id": "b2-future-continuous-perfect-3-10",
+        "type": "translate",
+        "prompt": "O północy będę spał.",
+        "answer": "I will be sleeping at midnight.",
+        "accept": [
+          "At midnight I will be sleeping.",
+          "I will be asleep at midnight.",
+          "At midnight I will be asleep."
+        ],
+        "explanation": "W trakcie: will be sleeping."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-notice-3",
+  "topicId": "a2-reading-notice",
+  "title": "City Bikes – how it works",
+  "text": "CITY BIKES – HOW IT WORKS\n\nCity Bikes are a cheap and easy way to get around the city. There are 80 stations in the city centre and near the university.\n\n1. Download the City Bikes app and create an account. You need a bank card.\n2. Find a station near you on the map in the app.\n3. Scan the code on the bike to unlock it.\n4. Enjoy your ride! Remember to ride on the bike paths, not on the pavement.\n5. When you finish, return the bike to any station and lock it.\n\nPrices: The first 20 minutes are free. After that, every 30 minutes cost 2 zł. A day ticket costs 15 zł.\n\nImportant information:\n• You must be 16 or older to rent a bike.\n• Bikes are available from April to November.\n• If the bike has a problem, report it in the app and leave it at the station.\n• If you don't return the bike in 12 hours, you will pay a fine of 200 zł.\n\nHave a safe ride!",
+  "exercises": [
+    {
+      "id": "a2-reading-notice-3-01",
+      "type": "choice",
+      "prompt": "You can rent a City Bike in January.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Rowery są dostępne od kwietnia do listopada."
+    },
+    {
+      "id": "a2-reading-notice-3-02",
+      "type": "choice",
+      "prompt": "The first twenty minutes are free.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„The first 20 minutes are free.”"
+    },
+    {
+      "id": "a2-reading-notice-3-03",
+      "type": "choice",
+      "prompt": "The bikes are electric.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czy rowery są elektryczne."
+    },
+    {
+      "id": "a2-reading-notice-3-04",
+      "type": "choice",
+      "prompt": "What do you need to create an account?",
+      "answer": "a bank card",
+      "distractors": [
+        "a passport",
+        "a student card"
+      ],
+      "explanation": "„You need a bank card.”"
+    },
+    {
+      "id": "a2-reading-notice-3-05",
+      "type": "choice",
+      "prompt": "Where should you ride?",
+      "answer": "on the bike paths",
+      "distractors": [
+        "on the pavement",
+        "only near the university"
+      ],
+      "explanation": "„...ride on the bike paths, not on the pavement.”"
+    },
+    {
+      "id": "a2-reading-notice-3-06",
+      "type": "choice",
+      "prompt": "What should you do if the bike has a problem?",
+      "answer": "report it in the app",
+      "distractors": [
+        "take it home",
+        "call the police"
+      ],
+      "explanation": "„...report it in the app and leave it at the station.”"
+    },
+    {
+      "id": "a2-reading-notice-3-07",
+      "type": "cloze",
+      "prompt": "Scan the ___ on the bike to unlock it.",
+      "answer": "code",
+      "explanation": "Zeskanuj kod."
+    },
+    {
+      "id": "a2-reading-notice-3-08",
+      "type": "cloze",
+      "prompt": "If you don't return the bike in 12 hours, you will pay a ___.",
+      "answer": "fine",
+      "explanation": "Kara: fine."
+    },
+    {
+      "id": "a2-reading-notice-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "download|pobrać",
+        "unlock|odblokować",
+        "pavement|chodnik",
+        "fine|kara"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

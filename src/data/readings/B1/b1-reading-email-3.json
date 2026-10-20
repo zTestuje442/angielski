@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-email-3",
+  "topicId": "b1-reading-email",
+  "title": "Volunteering at the shelter",
+  "text": "Hi Emily,\n\nHow are you? I hope your exams went well! I wanted to tell you about something new in my life: since September I've been volunteering at an animal shelter on the edge of town.\n\nI go there every Wednesday afternoon and on Saturday mornings. At first I thought I would just play with puppies, but the work is much harder than that! We clean the cages, prepare food, wash the dogs and take them for long walks in the forest. Some of the animals have been badly treated, so they are scared of people. It can take weeks before they let you touch them.\n\nMy favourite dog is called Bruno. He's an old, grey dog with only three legs – he lost one in an accident. When he arrived, he hid in the corner and didn't eat for two days. Now he runs to the gate as soon as he sees me! The staff say he probably won't find a new family because most people want young dogs. I'm trying to convince my parents to adopt him, but our flat is quite small and Dad isn't keen.\n\nThe best moment so far was when a family came to take home a cat that had lived at the shelter for over a year. Everybody cried, even the manager!\n\nIf you're interested, the shelter always needs volunteers. You don't need any experience – they give you training on the first day. And if you can't give your time, they're happy to receive old blankets and towels.\n\nWrite soon and tell me your news!\nHugs,\nMartyna",
+  "exercises": [
+    {
+      "id": "b1-reading-email-3-01",
+      "type": "choice",
+      "prompt": "Martyna started volunteering in September.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...since September I've been volunteering...”"
+    },
+    {
+      "id": "b1-reading-email-3-02",
+      "type": "choice",
+      "prompt": "The work at the shelter is easier than Martyna expected.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...the work is much harder than that!”"
+    },
+    {
+      "id": "b1-reading-email-3-03",
+      "type": "choice",
+      "prompt": "Martyna's mum wants to adopt Bruno.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi tylko, że tata nie jest chętny."
+    },
+    {
+      "id": "b1-reading-email-3-04",
+      "type": "choice",
+      "prompt": "Why are some animals scared of people?",
+      "answer": "They were badly treated in the past.",
+      "distractors": [
+        "They are very old.",
+        "They have never seen people."
+      ],
+      "explanation": "„Some of the animals have been badly treated...”"
+    },
+    {
+      "id": "b1-reading-email-3-05",
+      "type": "choice",
+      "prompt": "What happened when Bruno arrived?",
+      "answer": "He hid and didn't eat for two days.",
+      "distractors": [
+        "He ran to the gate.",
+        "He lost his leg."
+      ],
+      "explanation": "„...he hid in the corner and didn't eat for two days.”"
+    },
+    {
+      "id": "b1-reading-email-3-06",
+      "type": "choice",
+      "prompt": "What do new volunteers get on the first day?",
+      "answer": "training",
+      "distractors": [
+        "a dog",
+        "a blanket"
+      ],
+      "explanation": "„...they give you training on the first day.”"
+    },
+    {
+      "id": "b1-reading-email-3-07",
+      "type": "cloze",
+      "prompt": "Bruno lost one of his legs in an ___.",
+      "answer": "accident",
+      "explanation": "Wypadek: accident."
+    },
+    {
+      "id": "b1-reading-email-3-08",
+      "type": "cloze",
+      "prompt": "Most people want ___ dogs.",
+      "answer": "young",
+      "explanation": "Większość chce młodych psów."
+    },
+    {
+      "id": "b1-reading-email-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "shelter|schronisko",
+        "cage|klatka",
+        "adopt|adoptować",
+        "convince|przekonać"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

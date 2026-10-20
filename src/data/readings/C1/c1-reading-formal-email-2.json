@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-formal-email-2",
+  "topicId": "c1-reading-formal-email",
+  "title": "New hybrid working policy",
+  "text": "Subject: Updated hybrid working policy – effective 1 March\n\nDear colleagues,\n\nFollowing the consultation carried out in November and the feedback many of you provided, I am writing to inform you of the changes to our hybrid working policy, which will come into effect on 1 March.\n\nOver the past two years, our flexible arrangements have, on the whole, been a success. Productivity has remained stable, and the staff survey showed that the majority of you value the ability to work from home. At the same time, a number of concerns were raised: new employees reported feeling isolated, some teams found it difficult to collaborate on complex projects, and meeting rooms were often either empty or overbooked. The updated policy aims to address these issues while preserving the flexibility that most of you appreciate.\n\nKey changes\n\n1. Anchor days. Each team will agree on two fixed \"anchor days\" per week, on which all team members are expected to be in the office. Team leaders should confirm their chosen days to HR by 15 February. Beyond these two days, employees may continue to work from home or from the office as they prefer.\n\n2. New starters. During their first three months, new employees will be asked to spend at least three days a week in the office, in order to build relationships and learn from colleagues more easily. Exceptions may be agreed with their line manager.\n\n3. Working from abroad. Employees may now work from another EU country for up to 20 working days per calendar year, provided that they obtain approval from their manager and HR at least two weeks in advance. Due to tax and legal restrictions, working from countries outside the EU is not permitted, except in exceptional circumstances.\n\n4. Home office allowance. The monthly allowance for internet and electricity costs will increase from €30 to €40. In addition, every employee will be entitled to a one-off payment of up to €300 towards ergonomic equipment, such as a chair or monitor, on presentation of a receipt.\n\nWe recognise that these changes may require some of you to adjust your routines, particularly those with caring responsibilities. If you have any concerns about how the new policy will affect you personally, please speak to your line manager or contact the HR team directly. Individual arrangements will continue to be considered on a case-by-case basis.\n\nWe are also exploring the possibility of introducing a desk booking system later in the year, and we will share more information about this in due course.\n\nThank you for your continued commitment and for your constructive feedback during the consultation process.\n\nKind regards,\n\nJoanna Malinowska\nHead of People and Culture",
+  "exercises": [
+    {
+      "id": "c1-reading-formal-email-2-01",
+      "type": "choice",
+      "prompt": "Most employees value being able to work from home.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...the majority of you value the ability to work from home.”"
+    },
+    {
+      "id": "c1-reading-formal-email-2-02",
+      "type": "choice",
+      "prompt": "All teams will be in the office on the same two days.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Każdy zespół ustala własne anchor days."
+    },
+    {
+      "id": "c1-reading-formal-email-2-03",
+      "type": "choice",
+      "prompt": "New employees can never work from home during their first three months.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...at least three days a week in the office... Exceptions may be agreed.”"
+    },
+    {
+      "id": "c1-reading-formal-email-2-04",
+      "type": "choice",
+      "prompt": "Employees can work from outside the EU in exceptional circumstances.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...not permitted, except in exceptional circumstances.”"
+    },
+    {
+      "id": "c1-reading-formal-email-2-05",
+      "type": "choice",
+      "prompt": "The desk booking system will be introduced in March.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Firma dopiero rozważa: „We are also exploring the possibility...”"
+    },
+    {
+      "id": "c1-reading-formal-email-2-06",
+      "type": "choice",
+      "prompt": "Which problem with the previous arrangements is mentioned?",
+      "answer": "New employees felt isolated.",
+      "distractors": [
+        "Productivity fell sharply.",
+        "Employees refused to come to the office."
+      ],
+      "explanation": "„...new employees reported feeling isolated...”"
+    },
+    {
+      "id": "c1-reading-formal-email-2-07",
+      "type": "choice",
+      "prompt": "What must employees do before working from another EU country?",
+      "answer": "get approval at least two weeks in advance",
+      "distractors": [
+        "inform HR on the same day",
+        "pay extra tax"
+      ],
+      "explanation": "„...obtain approval... at least two weeks in advance.”"
+    },
+    {
+      "id": "c1-reading-formal-email-2-08",
+      "type": "choice",
+      "prompt": "How can employees receive the one-off €300 payment?",
+      "answer": "by presenting a receipt for ergonomic equipment",
+      "distractors": [
+        "automatically every month",
+        "by working from home three days a week"
+      ],
+      "explanation": "„...on presentation of a receipt.”"
+    },
+    {
+      "id": "c1-reading-formal-email-2-09",
+      "type": "cloze",
+      "prompt": "Individual arrangements will continue to be considered on a case-by-case ___.",
+      "answer": "basis",
+      "explanation": "On a case-by-case basis."
+    },
+    {
+      "id": "c1-reading-formal-email-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "come into effect|wejść w życie",
+        "allowance|dodatek",
+        "one-off payment|jednorazowa płatność",
+        "in due course|w swoim czasie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

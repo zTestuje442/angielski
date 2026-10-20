@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-notice-1",
+  "topicId": "a2-reading-notice",
+  "title": "Riverside Community Centre",
+  "text": "RIVERSIDE COMMUNITY CENTRE\nSummer courses – July and August\n\nCooking for beginners\nLearn to make easy and healthy meals. Tuesdays, 6–8 p.m. Price: £60 for 6 lessons (food included). Maximum 10 people.\n\nPhotography\nBring your camera or phone and learn how to take better photos. Saturdays, 10 a.m. – 12 p.m. Price: £45 for 4 lessons. Some lessons are outside, so wear comfortable clothes.\n\nSpanish for travellers\nUseful words and phrases for your holiday. Mondays and Wednesdays, 7–8 p.m. Price: £50 for 8 lessons. No experience needed.\n\nYoga in the park\nEvery Sunday at 9 a.m. in Riverside Park. Free! Bring a mat and some water. If it rains, the class is in the main hall.\n\nHow to book: Visit the reception (open Monday to Friday, 9 a.m. – 5 p.m.) or call 0161 496 0723. Students and people over 65 get a 20% discount on all paid courses.",
+  "exercises": [
+    {
+      "id": "a2-reading-notice-1-01",
+      "type": "choice",
+      "prompt": "The cooking course is on Tuesday evenings.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Tuesdays, 6–8 p.m.”"
+    },
+    {
+      "id": "a2-reading-notice-1-02",
+      "type": "choice",
+      "prompt": "You need to pay for yoga.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Joga w parku jest bezpłatna: „Free!”."
+    },
+    {
+      "id": "a2-reading-notice-1-03",
+      "type": "choice",
+      "prompt": "The photography teacher is a professional photographer.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Ogłoszenie nie mówi, kim jest nauczyciel."
+    },
+    {
+      "id": "a2-reading-notice-1-04",
+      "type": "choice",
+      "prompt": "How many lessons are in the photography course?",
+      "answer": "four",
+      "distractors": [
+        "six",
+        "eight"
+      ],
+      "explanation": "„£45 for 4 lessons.”"
+    },
+    {
+      "id": "a2-reading-notice-1-05",
+      "type": "choice",
+      "prompt": "Where is the yoga class when it rains?",
+      "answer": "in the main hall",
+      "distractors": [
+        "in the park",
+        "at the reception"
+      ],
+      "explanation": "„If it rains, the class is in the main hall.”"
+    },
+    {
+      "id": "a2-reading-notice-1-06",
+      "type": "choice",
+      "prompt": "Who can get a discount?",
+      "answer": "students and people over 65",
+      "distractors": [
+        "everybody in July",
+        "people who book by phone"
+      ],
+      "explanation": "„Students and people over 65 get a 20% discount...”"
+    },
+    {
+      "id": "a2-reading-notice-1-07",
+      "type": "cloze",
+      "prompt": "The reception is open from Monday to ___.",
+      "answer": "Friday",
+      "explanation": "Recepcja działa od poniedziałku do piątku."
+    },
+    {
+      "id": "a2-reading-notice-1-08",
+      "type": "cloze",
+      "prompt": "For yoga, bring a ___ and some water.",
+      "answer": "mat",
+      "explanation": "Mata do jogi: mat."
+    },
+    {
+      "id": "a2-reading-notice-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "beginners|początkujący",
+        "included|wliczony",
+        "experience|doświadczenie",
+        "discount|zniżka"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

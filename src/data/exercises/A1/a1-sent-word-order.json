@@ -1,0 +1,346 @@
+[
+  {
+    "id": "a1-sent-word-order-1",
+    "topicId": "a1-sent-word-order",
+    "exercises": [
+      {
+        "id": "a1-sent-word-order-1-01",
+        "type": "tiles",
+        "prompt": "Gram w piłkę w parku w soboty.",
+        "answer": [
+          "I",
+          "play",
+          "football",
+          "in",
+          "the",
+          "park",
+          "on",
+          "Saturdays"
+        ],
+        "explanation": "Kto – co robi – co – gdzie – kiedy."
+      },
+      {
+        "id": "a1-sent-word-order-1-02",
+        "type": "tiles",
+        "prompt": "Anna czyta książkę w domu.",
+        "answer": [
+          "Anna",
+          "reads",
+          "a",
+          "book",
+          "at",
+          "home"
+        ],
+        "explanation": "Podmiot, czasownik, dopełnienie, miejsce."
+      },
+      {
+        "id": "a1-sent-word-order-1-03",
+        "type": "tiles",
+        "prompt": "Mój brat pracuje w banku.",
+        "answer": [
+          "My",
+          "brother",
+          "works",
+          "in",
+          "a",
+          "bank"
+        ],
+        "explanation": "Podmiot – czasownik – miejsce."
+      },
+      {
+        "id": "a1-sent-word-order-1-04",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "I eat breakfast at home every day.",
+        "distractors": [
+          "I every day eat breakfast at home.",
+          "At home I breakfast eat every day."
+        ],
+        "explanation": "Kto – co robi – co – gdzie – kiedy."
+      },
+      {
+        "id": "a1-sent-word-order-1-05",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "She speaks English very well.",
+        "distractors": [
+          "She speaks very well English.",
+          "She very well speaks English."
+        ],
+        "explanation": "Nic nie stoi między czasownikiem a dopełnieniem."
+      },
+      {
+        "id": "a1-sent-word-order-1-06",
+        "type": "transform",
+        "prompt": "Ułóż wyrazy w poprawnej kolejności.\nlikes / Tom / pizza",
+        "answer": "Tom likes pizza.",
+        "explanation": "Kto – co robi – co."
+      },
+      {
+        "id": "a1-sent-word-order-1-07",
+        "type": "transform",
+        "prompt": "Ułóż wyrazy w poprawnej kolejności.\nat school / we / every day / are",
+        "answer": "We are at school every day.",
+        "explanation": "Miejsce przed czasem."
+      },
+      {
+        "id": "a1-sent-word-order-1-08",
+        "type": "translate",
+        "prompt": "Codziennie piję kawę w pracy.",
+        "answer": "I drink coffee at work every day.",
+        "accept": [
+          "Every day I drink coffee at work."
+        ],
+        "explanation": "Co – gdzie – kiedy."
+      },
+      {
+        "id": "a1-sent-word-order-1-09",
+        "type": "translate",
+        "prompt": "Oni mieszkają w Londynie.",
+        "answer": "They live in London.",
+        "explanation": "Podmiot – czasownik – miejsce."
+      },
+      {
+        "id": "a1-sent-word-order-1-10",
+        "type": "tiles",
+        "prompt": "Wczoraj odwiedziliśmy babcię.",
+        "answer": [
+          "We",
+          "visited",
+          "our",
+          "grandma",
+          "yesterday"
+        ],
+        "accept": [
+          "Yesterday we visited our grandma"
+        ],
+        "explanation": "Czas na końcu (albo na początku)."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-word-order-2",
+    "topicId": "a1-sent-word-order",
+    "exercises": [
+      {
+        "id": "a1-sent-word-order-2-01",
+        "type": "choice",
+        "prompt": "___ is cold today.",
+        "answer": "It",
+        "distractors": [
+          "Is",
+          "Its"
+        ],
+        "explanation": "Podmiot jest obowiązkowy: It is cold."
+      },
+      {
+        "id": "a1-sent-word-order-2-02",
+        "type": "choice",
+        "prompt": "Where is Tom? — ___ is in the kitchen.",
+        "answer": "He",
+        "distractors": [
+          "Is",
+          "His"
+        ],
+        "explanation": "Podmiot: he."
+      },
+      {
+        "id": "a1-sent-word-order-2-03",
+        "type": "error",
+        "prompt": "Is raining.",
+        "answer": [
+          "Is",
+          "It's"
+        ],
+        "explanation": "Brakuje podmiotu: It's raining."
+      },
+      {
+        "id": "a1-sent-word-order-2-04",
+        "type": "error",
+        "prompt": "Am hungry.",
+        "answer": [
+          "Am",
+          "I'm"
+        ],
+        "explanation": "Brakuje podmiotu: I'm hungry."
+      },
+      {
+        "id": "a1-sent-word-order-2-05",
+        "type": "tiles",
+        "prompt": "Jest późno.",
+        "answer": [
+          "It",
+          "is",
+          "late"
+        ],
+        "explanation": "Po angielsku podmiot it."
+      },
+      {
+        "id": "a1-sent-word-order-2-06",
+        "type": "tiles",
+        "prompt": "Lubię to.",
+        "answer": [
+          "I",
+          "like",
+          "it"
+        ],
+        "explanation": "Podmiot I i dopełnienie it."
+      },
+      {
+        "id": "a1-sent-word-order-2-07",
+        "type": "transform",
+        "prompt": "Dodaj podmiot „we”.\nAre in the garden.",
+        "answer": "We are in the garden.",
+        "explanation": "Podmiot na początku."
+      },
+      {
+        "id": "a1-sent-word-order-2-08",
+        "type": "translate",
+        "prompt": "Pada śnieg.",
+        "answer": "It is snowing.",
+        "explanation": "Pogoda: podmiot it."
+      },
+      {
+        "id": "a1-sent-word-order-2-09",
+        "type": "translate",
+        "prompt": "Jest dziesiąta.",
+        "answer": "It is ten o'clock.",
+        "accept": [
+          "It is ten.",
+          "It is 10 o'clock.",
+          "It is 10."
+        ],
+        "explanation": "Godzina: podmiot it."
+      },
+      {
+        "id": "a1-sent-word-order-2-10",
+        "type": "cloze",
+        "prompt": "Do you like coffee? — Yes, I like ___.",
+        "answer": "it",
+        "explanation": "Po like potrzebne dopełnienie: it."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-word-order-3",
+    "topicId": "a1-sent-word-order",
+    "exercises": [
+      {
+        "id": "a1-sent-word-order-3-01",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "We watched a film last night.",
+        "distractors": [
+          "We watched last night a film.",
+          "Last night a film we watched."
+        ],
+        "explanation": "Dopełnienie zaraz po czasowniku, czas na końcu."
+      },
+      {
+        "id": "a1-sent-word-order-3-02",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "He plays the guitar very well.",
+        "distractors": [
+          "He plays very well the guitar.",
+          "Very well he plays the guitar."
+        ],
+        "explanation": "Very well po dopełnieniu."
+      },
+      {
+        "id": "a1-sent-word-order-3-03",
+        "type": "tiles",
+        "prompt": "W sobotę kupiłem nowy telefon.",
+        "answer": [
+          "I",
+          "bought",
+          "a",
+          "new",
+          "phone",
+          "on",
+          "Saturday"
+        ],
+        "accept": [
+          "On Saturday I bought a new phone"
+        ],
+        "explanation": "Kto – co robi – co – kiedy."
+      },
+      {
+        "id": "a1-sent-word-order-3-04",
+        "type": "tiles",
+        "prompt": "Mama gotuje obiad w kuchni.",
+        "answer": [
+          "Mum",
+          "is",
+          "cooking",
+          "dinner",
+          "in",
+          "the",
+          "kitchen"
+        ],
+        "explanation": "Podmiot – czasownik – co – gdzie."
+      },
+      {
+        "id": "a1-sent-word-order-3-05",
+        "type": "transform",
+        "prompt": "Ułóż wyrazy w poprawnej kolejności.\nin the morning / my dad / the newspaper / reads",
+        "answer": "My dad reads the newspaper in the morning.",
+        "accept": [
+          "In the morning my dad reads the newspaper."
+        ],
+        "explanation": "Kto – co robi – co – kiedy."
+      },
+      {
+        "id": "a1-sent-word-order-3-06",
+        "type": "transform",
+        "prompt": "Ułóż wyrazy w poprawnej kolejności.\nto work / by bus / go / I",
+        "answer": "I go to work by bus.",
+        "explanation": "Kto – co robi – dokąd – jak."
+      },
+      {
+        "id": "a1-sent-word-order-3-07",
+        "type": "translate",
+        "prompt": "Spotykam przyjaciół w kawiarni w piątki.",
+        "answer": "I meet my friends in a café on Fridays.",
+        "accept": [
+          "I meet friends in a café on Fridays.",
+          "I meet my friends at a café on Fridays.",
+          "I meet friends at a café on Fridays.",
+          "I meet my friends in a cafe on Fridays.",
+          "I meet friends in a cafe on Fridays.",
+          "I meet my friends at a cafe on Fridays.",
+          "I meet friends at a cafe on Fridays.",
+          "On Fridays I meet my friends in a café.",
+          "On Fridays I meet friends in a café."
+        ],
+        "explanation": "Gdzie przed kiedy."
+      },
+      {
+        "id": "a1-sent-word-order-3-08",
+        "type": "translate",
+        "prompt": "On bardzo dobrze gra w tenisa.",
+        "answer": "He plays tennis very well.",
+        "explanation": "Very well po dopełnieniu."
+      },
+      {
+        "id": "a1-sent-word-order-3-09",
+        "type": "cloze",
+        "prompt": "She speaks English ___ well.",
+        "answer": "very",
+        "explanation": "Bardzo dobrze: very well."
+      },
+      {
+        "id": "a1-sent-word-order-3-10",
+        "type": "match",
+        "prompt": "Połącz części zdania z nazwami.",
+        "answer": [
+          "kto|subject (I, Anna)",
+          "co robi|verb (play, eat)",
+          "co|object (football, a book)",
+          "gdzie i kiedy|place, time (at home, today)"
+        ],
+        "explanation": "Kolejność części zdania."
+      }
+    ]
+  }
+]

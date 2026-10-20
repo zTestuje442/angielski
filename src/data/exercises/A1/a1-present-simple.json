@@ -1,0 +1,292 @@
+[
+  {
+    "id": "a1-present-simple-1",
+    "topicId": "a1-present-simple",
+    "exercises": [
+      {
+        "id": "a1-present-simple-1-01",
+        "type": "cloze",
+        "prompt": "She ___ in a bank. (work)",
+        "answer": "works",
+        "explanation": "She + czasownik z -s."
+      },
+      {
+        "id": "a1-present-simple-1-02",
+        "type": "cloze",
+        "prompt": "I ___ coffee every morning. (drink)",
+        "answer": "drink",
+        "explanation": "Z I bez końcówki."
+      },
+      {
+        "id": "a1-present-simple-1-03",
+        "type": "cloze",
+        "prompt": "He ___ TV in the evening. (watch)",
+        "answer": "watches",
+        "explanation": "Po -ch dodajemy -es."
+      },
+      {
+        "id": "a1-present-simple-1-04",
+        "type": "cloze",
+        "prompt": "My mum ___ to work by bus. (go)",
+        "answer": "goes",
+        "explanation": "Go → goes."
+      },
+      {
+        "id": "a1-present-simple-1-05",
+        "type": "choice",
+        "prompt": "Tom ___ English and German.",
+        "answer": "speaks",
+        "distractors": [
+          "speak",
+          "speaking"
+        ],
+        "explanation": "Tom = he, więc -s."
+      },
+      {
+        "id": "a1-present-simple-1-06",
+        "type": "choice",
+        "prompt": "We ___ in a small town.",
+        "answer": "live",
+        "distractors": [
+          "lives",
+          "living"
+        ],
+        "explanation": "Z we bez końcówki."
+      },
+      {
+        "id": "a1-present-simple-1-07",
+        "type": "match",
+        "prompt": "Połącz bezokolicznik z formą dla he/she/it.",
+        "answer": [
+          "play|plays",
+          "watch|watches",
+          "study|studies",
+          "have|has"
+        ],
+        "explanation": "-s, -es, -ies i nieregularne has."
+      },
+      {
+        "id": "a1-present-simple-1-08",
+        "type": "tiles",
+        "prompt": "Ona lubi muzykę.",
+        "answer": [
+          "She",
+          "likes",
+          "music"
+        ],
+        "explanation": "She + likes."
+      },
+      {
+        "id": "a1-present-simple-1-09",
+        "type": "error",
+        "prompt": "My brother play football.",
+        "answer": [
+          "play",
+          "plays"
+        ],
+        "explanation": "My brother = he, więc plays."
+      },
+      {
+        "id": "a1-present-simple-1-10",
+        "type": "translate",
+        "prompt": "Pracuję w biurze.",
+        "answer": "I work in an office.",
+        "explanation": "I + work; office zaczyna się od samogłoski: an office."
+      }
+    ]
+  },
+  {
+    "id": "a1-present-simple-2",
+    "topicId": "a1-present-simple",
+    "exercises": [
+      {
+        "id": "a1-present-simple-2-01",
+        "type": "cloze",
+        "prompt": "I ___ like fish.",
+        "answer": "don't",
+        "explanation": "Przeczenie z I: don't."
+      },
+      {
+        "id": "a1-present-simple-2-02",
+        "type": "cloze",
+        "prompt": "She ___ eat meat.",
+        "answer": "doesn't",
+        "explanation": "Przeczenie z she: doesn't."
+      },
+      {
+        "id": "a1-present-simple-2-03",
+        "type": "choice",
+        "prompt": "They ___ live here.",
+        "answer": "don't",
+        "distractors": [
+          "doesn't",
+          "not"
+        ],
+        "explanation": "They + don't."
+      },
+      {
+        "id": "a1-present-simple-2-04",
+        "type": "choice",
+        "prompt": "He doesn't ___ to school on Saturdays.",
+        "answer": "go",
+        "distractors": [
+          "goes",
+          "going"
+        ],
+        "explanation": "Po doesn't czasownik bez -s."
+      },
+      {
+        "id": "a1-present-simple-2-05",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nI play the piano.",
+        "answer": "I do not play the piano.",
+        "explanation": "I + don't + czasownik."
+      },
+      {
+        "id": "a1-present-simple-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nShe drinks tea.",
+        "answer": "She does not drink tea.",
+        "explanation": "She + doesn't + drink (bez -s)."
+      },
+      {
+        "id": "a1-present-simple-2-07",
+        "type": "tiles",
+        "prompt": "On nie pracuje w weekendy.",
+        "answer": [
+          "He",
+          "does",
+          "not",
+          "work",
+          "at",
+          "weekends"
+        ],
+        "explanation": "He + does not + work."
+      },
+      {
+        "id": "a1-present-simple-2-08",
+        "type": "error",
+        "prompt": "She don't like cats.",
+        "answer": [
+          "don't",
+          "doesn't"
+        ],
+        "explanation": "She łączy się z doesn't."
+      },
+      {
+        "id": "a1-present-simple-2-09",
+        "type": "error",
+        "prompt": "He doesn't speaks French.",
+        "answer": [
+          "speaks",
+          "speak"
+        ],
+        "explanation": "Po doesn't czasownik bez -s."
+      },
+      {
+        "id": "a1-present-simple-2-10",
+        "type": "translate",
+        "prompt": "Nie mieszkamy w Warszawie.",
+        "answer": "We do not live in Warsaw.",
+        "explanation": "We + don't + live."
+      }
+    ]
+  },
+  {
+    "id": "a1-present-simple-3",
+    "topicId": "a1-present-simple",
+    "exercises": [
+      {
+        "id": "a1-present-simple-3-01",
+        "type": "cloze",
+        "prompt": "___ you like pizza?",
+        "answer": "Do",
+        "explanation": "Pytanie z you: Do...?"
+      },
+      {
+        "id": "a1-present-simple-3-02",
+        "type": "cloze",
+        "prompt": "___ she work at weekends?",
+        "answer": "Does",
+        "explanation": "Pytanie z she: Does...?"
+      },
+      {
+        "id": "a1-present-simple-3-03",
+        "type": "cloze",
+        "prompt": "Do you speak English? — Yes, I ___.",
+        "answer": "do",
+        "explanation": "Krótka odpowiedź: Yes, I do."
+      },
+      {
+        "id": "a1-present-simple-3-04",
+        "type": "cloze",
+        "prompt": "Does he play tennis? — No, he ___.",
+        "answer": "doesn't",
+        "explanation": "Krótka odpowiedź: No, he doesn't."
+      },
+      {
+        "id": "a1-present-simple-3-05",
+        "type": "choice",
+        "prompt": "Where ___ your parents live?",
+        "answer": "do",
+        "distractors": [
+          "does",
+          "are"
+        ],
+        "explanation": "Your parents = they: Where do they live?"
+      },
+      {
+        "id": "a1-present-simple-3-06",
+        "type": "choice",
+        "prompt": "What time ___ the film start?",
+        "answer": "does",
+        "distractors": [
+          "do",
+          "is"
+        ],
+        "explanation": "The film = it: does."
+      },
+      {
+        "id": "a1-present-simple-3-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nShe lives in Poznań.",
+        "answer": "Does she live in Poznań?",
+        "accept": [
+          "Does she live in Poznan?"
+        ],
+        "explanation": "Does + she + live (bez -s)."
+      },
+      {
+        "id": "a1-present-simple-3-08",
+        "type": "tiles",
+        "prompt": "Czy twój brat gra na gitarze?",
+        "answer": [
+          "Does",
+          "your",
+          "brother",
+          "play",
+          "the",
+          "guitar"
+        ],
+        "explanation": "Does + podmiot + czasownik bez -s."
+      },
+      {
+        "id": "a1-present-simple-3-09",
+        "type": "error",
+        "prompt": "Does she likes chocolate?",
+        "answer": [
+          "likes",
+          "like"
+        ],
+        "explanation": "Po does czasownik bez -s."
+      },
+      {
+        "id": "a1-present-simple-3-10",
+        "type": "translate",
+        "prompt": "Gdzie pracujesz?",
+        "answer": "Where do you work?",
+        "explanation": "Where + do + you + work."
+      }
+    ]
+  }
+]

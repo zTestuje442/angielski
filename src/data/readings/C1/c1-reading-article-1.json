@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-article-1",
+  "topicId": "c1-reading-article",
+  "title": "Why we put things off",
+  "text": "It is commonly assumed that procrastination is a problem of time management. If only we planned our days more carefully, the thinking goes, we would stop leaving important tasks until the last minute. Yet a growing body of research suggests that this view is fundamentally mistaken. Procrastination, psychologists now argue, has far less to do with time than with emotion.\n\n\"People don't delay tasks because they can't read a calendar,\" says Dr Fiona Hale, who has studied the subject for over fifteen years. \"They delay them because the task makes them feel something unpleasant – boredom, anxiety, self-doubt – and putting it off offers immediate relief.\" In other words, procrastination is a form of mood repair. We swap a difficult feeling now for a much bigger problem later, and our brains, which are wired to prioritise short-term rewards, are surprisingly willing to make that trade.\n\nThis explains why procrastination is so often accompanied by guilt. Most procrastinators know perfectly well what they should be doing; the knowledge simply doesn't translate into action. Worse still, the guilt itself becomes another negative emotion to avoid, creating a vicious circle in which every delay makes the next one more likely.\n\nIf procrastination is emotional, then traditional productivity advice may be of limited use. Detailed to-do lists and colour-coded calendars can even backfire, as they make the size of the task more visible and therefore more intimidating. Instead, researchers recommend strategies that target feelings directly. One of the most effective appears to be breaking a task down into a first step so small that it is almost impossible to resist – opening the document, writing a single sentence, or reading the first page. Once people have started, the anxiety usually fades, and continuing becomes much easier.\n\nAnother surprisingly powerful technique is self-forgiveness. In one well-known study, students who forgave themselves for procrastinating before their first exam were significantly less likely to procrastinate before the next one. Being harsh on oneself, by contrast, appeared to increase the tendency to avoid work. \"Self-criticism feels responsible,\" Dr Hale explains, \"but it actually adds to the emotional burden that caused the delay in the first place.\"\n\nNot all experts are entirely convinced. Some point out that the emotional model does not explain why certain people procrastinate on tasks they actually enjoy, or why procrastination varies so dramatically between cultures. Others warn against turning a normal human habit into a medical condition. \"A little delay is not a disorder,\" says economist Paul Brennan. \"Sometimes waiting is simply a rational way of collecting more information before acting.\"\n\nNevertheless, the shift in thinking has practical consequences. Companies are beginning to reconsider deadlines and workloads, recognising that pressure alone rarely produces results. Universities are introducing workshops that focus less on planning and more on managing stress. And for the rest of us, the message is oddly reassuring: the next time you find yourself cleaning the kitchen instead of writing that report, you are not lazy. You are simply trying to feel better – just not in the most effective way.",
+  "exercises": [
+    {
+      "id": "c1-reading-article-1-01",
+      "type": "choice",
+      "prompt": "The article claims that the traditional view of procrastination is correct.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...this view is fundamentally mistaken.”"
+    },
+    {
+      "id": "c1-reading-article-1-02",
+      "type": "choice",
+      "prompt": "According to Dr Hale, procrastination gives people short-term relief.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...putting it off offers immediate relief.”"
+    },
+    {
+      "id": "c1-reading-article-1-03",
+      "type": "choice",
+      "prompt": "Dr Hale procrastinated while writing her research.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-article-1-04",
+      "type": "choice",
+      "prompt": "Why can detailed to-do lists backfire?",
+      "answer": "They make the task look bigger and more intimidating.",
+      "distractors": [
+        "They take too long to write.",
+        "People lose them easily."
+      ],
+      "explanation": "„...make the size of the task more visible and therefore more intimidating.”"
+    },
+    {
+      "id": "c1-reading-article-1-05",
+      "type": "choice",
+      "prompt": "What happened to students who forgave themselves?",
+      "answer": "They procrastinated less before the next exam.",
+      "distractors": [
+        "They got better marks immediately.",
+        "They stopped feeling guilty about everything."
+      ],
+      "explanation": "„...were significantly less likely to procrastinate before the next one.”"
+    },
+    {
+      "id": "c1-reading-article-1-06",
+      "type": "choice",
+      "prompt": "What is Paul Brennan's view?",
+      "answer": "Some delay can be a rational choice.",
+      "distractors": [
+        "Procrastination is a serious illness.",
+        "Emotions have nothing to do with it."
+      ],
+      "explanation": "„Sometimes waiting is simply a rational way of collecting more information.”"
+    },
+    {
+      "id": "c1-reading-article-1-07",
+      "type": "choice",
+      "prompt": "What is the purpose of the sixth paragraph (\"Not all experts...\")?",
+      "answer": "to present doubts about the emotional model",
+      "distractors": [
+        "to give more examples of procrastination",
+        "to summarise the article"
+      ],
+      "explanation": "Akapit przedstawia zastrzeżenia krytyków."
+    },
+    {
+      "id": "c1-reading-article-1-08",
+      "type": "choice",
+      "prompt": "What is the tone of the final sentence?",
+      "answer": "reassuring and slightly humorous",
+      "distractors": [
+        "angry and critical",
+        "sad and pessimistic"
+      ],
+      "explanation": "„...the message is oddly reassuring.”"
+    },
+    {
+      "id": "c1-reading-article-1-09",
+      "type": "cloze",
+      "prompt": "Every delay makes the next one more likely, creating a vicious ___.",
+      "answer": "circle",
+      "explanation": "Błędne koło: vicious circle."
+    },
+    {
+      "id": "c1-reading-article-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "fundamentally|zasadniczo",
+        "intimidating|onieśmielający",
+        "backfire|przynieść odwrotny skutek",
+        "burden|ciężar"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

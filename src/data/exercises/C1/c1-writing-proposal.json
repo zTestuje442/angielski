@@ -1,0 +1,357 @@
+[
+  {
+    "id": "c1-writing-proposal-1",
+    "topicId": "c1-writing-proposal",
+    "exercises": [
+      {
+        "id": "c1-writing-proposal-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "The purpose of this proposal is to...|cel",
+          "At present, ...|obecna sytuacja",
+          "I would propose that...|propozycja",
+          "I would urge the board to...|wezwanie do decyzji"
+        ],
+        "explanation": "Funkcje zwrotów w propozycji."
+      },
+      {
+        "id": "c1-writing-proposal-1-02",
+        "type": "choice",
+        "prompt": "How is a proposal different from a report?",
+        "answer": "It suggests future action and tries to persuade.",
+        "distractors": [
+          "It only describes the past.",
+          "It is always informal."
+        ],
+        "explanation": "Propozycja patrzy w przyszłość i przekonuje."
+      },
+      {
+        "id": "c1-writing-proposal-1-03",
+        "type": "choice",
+        "prompt": "Which sentence is a good opening?",
+        "answer": "This proposal outlines a plan to reduce energy costs in our office.",
+        "distractors": [
+          "Hi everyone, I've got an idea!",
+          "Energy is expensive, isn't it?"
+        ],
+        "explanation": "This proposal outlines..."
+      },
+      {
+        "id": "c1-writing-proposal-1-04",
+        "type": "cloze",
+        "prompt": "I recommend that the company ___ in new software. (invest – subjunctive)",
+        "answer": "invest",
+        "accept": [
+          "should invest"
+        ],
+        "explanation": "Recommend that + forma podstawowa."
+      },
+      {
+        "id": "c1-writing-proposal-1-05",
+        "type": "cloze",
+        "prompt": "The initial cost would be ___ by long-term savings. (zrekompensowany)",
+        "answer": "offset",
+        "accept": [
+          "outweighed",
+          "balanced"
+        ],
+        "explanation": "Offset – zrekompensować."
+      },
+      {
+        "id": "c1-writing-proposal-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż wstęp propozycji.",
+        "answer": [
+          "Introduction",
+          "The purpose of this proposal is to suggest ways of improving staff wellbeing.",
+          "It is based on feedback from a recent employee survey."
+        ],
+        "distractors": [
+          "Hope you like it, guys!"
+        ],
+        "explanation": "Nagłówek, cel, źródło. Potoczne zakończenie nie pasuje."
+      },
+      {
+        "id": "c1-writing-proposal-1-07",
+        "type": "error",
+        "prompt": "I would propose that the canteen opens earlier.",
+        "answer": [
+          "opens",
+          "open"
+        ],
+        "explanation": "Propose that + forma podstawowa (subjunctive)."
+      },
+      {
+        "id": "c1-writing-proposal-1-08",
+        "type": "transform",
+        "prompt": "Zamień na formalną propozycję, zacznij od „It would be advisable”.\nWe should hire two more people.",
+        "answer": "It would be advisable to hire two more people.",
+        "accept": [
+          "It would be advisable to recruit two more people.",
+          "It would be advisable to employ two more people.",
+          "It would be advisable to hire two additional people."
+        ],
+        "explanation": "It would be advisable to..."
+      },
+      {
+        "id": "c1-writing-proposal-1-09",
+        "type": "translate",
+        "prompt": "Jestem przekonany, że te zmiany przyniosą korzyści.",
+        "answer": "I am confident that these changes would be beneficial.",
+        "accept": [
+          "I am confident that these changes will be beneficial.",
+          "I am convinced that these changes would be beneficial.",
+          "I am confident that these changes would bring benefits.",
+          "I am confident that these changes will bring benefits.",
+          "I am sure that these changes will be beneficial."
+        ],
+        "explanation": "I am confident that..."
+      },
+      {
+        "id": "c1-writing-proposal-1-10",
+        "type": "choice",
+        "prompt": "Which heading suits a proposal?",
+        "answer": "Proposed changes",
+        "distractors": [
+          "My diary",
+          "Dear Sir"
+        ],
+        "explanation": "Rzeczowy nagłówek."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-proposal-2",
+    "topicId": "c1-writing-proposal",
+    "exercises": [
+      {
+        "id": "c1-writing-proposal-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "This would enable...|korzyść",
+          "The main drawback would be...|wada",
+          "One option would be to...|wariant",
+          "In the long term...|perspektywa"
+        ],
+        "explanation": "Uzasadnianie propozycji."
+      },
+      {
+        "id": "c1-writing-proposal-2-02",
+        "type": "choice",
+        "prompt": "Which sentence presents a benefit?",
+        "answer": "This would enable staff to work more flexibly.",
+        "distractors": [
+          "Staff are unhappy.",
+          "The office opened in 2010."
+        ],
+        "explanation": "This would enable..."
+      },
+      {
+        "id": "c1-writing-proposal-2-03",
+        "type": "choice",
+        "prompt": "Which sentence is suitably cautious?",
+        "answer": "It is likely that productivity would increase.",
+        "distractors": [
+          "Productivity will definitely double.",
+          "Everyone will love it."
+        ],
+        "explanation": "Hedging: it is likely that..."
+      },
+      {
+        "id": "c1-writing-proposal-2-04",
+        "type": "cloze",
+        "prompt": "One option ___ be to introduce flexible hours.",
+        "answer": "would",
+        "explanation": "One option would be to..."
+      },
+      {
+        "id": "c1-writing-proposal-2-05",
+        "type": "cloze",
+        "prompt": "Many employees have expressed ___ about the lack of parking. (obawy)",
+        "answer": "concern",
+        "accept": [
+          "concerns"
+        ],
+        "explanation": "Express concern about."
+      },
+      {
+        "id": "c1-writing-proposal-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż sekcję z korzyściami.",
+        "answer": [
+          "Benefits",
+          "The new system would reduce costs by around 15%.",
+          "Furthermore, it would enable staff to save time on routine tasks."
+        ],
+        "distractors": [
+          "Lots of love,"
+        ],
+        "explanation": "Nagłówek i dwie korzyści. Zakończenie listu nie pasuje."
+      },
+      {
+        "id": "c1-writing-proposal-2-07",
+        "type": "error",
+        "prompt": "This solution would enable staff to working from home.",
+        "answer": [
+          "working",
+          "work"
+        ],
+        "explanation": "Enable somebody to + forma podstawowa."
+      },
+      {
+        "id": "c1-writing-proposal-2-08",
+        "type": "transform",
+        "prompt": "Zamień na formalny zwrot, zacznij od „I would urge”.\nPlease, board, accept this plan.",
+        "answer": "I would urge the board to accept this plan.",
+        "accept": [
+          "I would urge the board to approve this plan.",
+          "I would urge the board to adopt this plan."
+        ],
+        "explanation": "I would urge... to..."
+      },
+      {
+        "id": "c1-writing-proposal-2-09",
+        "type": "translate",
+        "prompt": "Obecnie wielu pracowników dojeżdża samochodem.",
+        "answer": "At present, many employees commute by car.",
+        "accept": [
+          "At present, many employees drive to work.",
+          "Currently, many employees commute by car.",
+          "Currently, many employees drive to work.",
+          "At present many employees commute by car.",
+          "At present, a lot of employees drive to work."
+        ],
+        "explanation": "At present."
+      },
+      {
+        "id": "c1-writing-proposal-2-10",
+        "type": "choice",
+        "prompt": "What should the conclusion of a proposal do?",
+        "answer": "Encourage the reader to approve the plan.",
+        "distractors": [
+          "Introduce new problems.",
+          "Tell a personal story."
+        ],
+        "explanation": "Wezwanie do decyzji."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-proposal-3",
+    "topicId": "c1-writing-proposal",
+    "exercises": [
+      {
+        "id": "c1-writing-proposal-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "introduce|wprowadzić",
+          "implement|wdrożyć",
+          "allocate funds|przydzielić środki",
+          "pilot scheme|program pilotażowy"
+        ],
+        "explanation": "Słownictwo propozycji."
+      },
+      {
+        "id": "c1-writing-proposal-3-02",
+        "type": "choice",
+        "prompt": "Which sentence suggests a gradual approach?",
+        "answer": "I would recommend starting with a three-month pilot scheme.",
+        "distractors": [
+          "Let's just do it now.",
+          "We should change everything tomorrow."
+        ],
+        "explanation": "Pilot scheme."
+      },
+      {
+        "id": "c1-writing-proposal-3-03",
+        "type": "choice",
+        "prompt": "Funds should be ___ to staff training.",
+        "answer": "allocated",
+        "distractors": [
+          "located",
+          "allowed"
+        ],
+        "explanation": "Allocate funds to."
+      },
+      {
+        "id": "c1-writing-proposal-3-04",
+        "type": "cloze",
+        "prompt": "The plan could be ___ in stages. (wdrożony)",
+        "answer": "implemented",
+        "accept": [
+          "introduced"
+        ],
+        "explanation": "Implement."
+      },
+      {
+        "id": "c1-writing-proposal-3-05",
+        "type": "cloze",
+        "prompt": "___ the long term, the investment would pay for itself.",
+        "answer": "In",
+        "explanation": "In the long term."
+      },
+      {
+        "id": "c1-writing-proposal-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie propozycji.",
+        "answer": [
+          "Conclusion",
+          "The proposed changes would benefit both the company and its employees.",
+          "I would therefore urge the management to approve them."
+        ],
+        "distractors": [
+          "Write back soon!"
+        ],
+        "explanation": "Nagłówek, podsumowanie, wezwanie. Zwrot z listu nie pasuje."
+      },
+      {
+        "id": "c1-writing-proposal-3-07",
+        "type": "error",
+        "prompt": "It is essential that the plan is approved before May.",
+        "answer": [
+          "is",
+          "be"
+        ],
+        "explanation": "It is essential that + be (subjunctive)."
+      },
+      {
+        "id": "c1-writing-proposal-3-08",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „The introduction of”.\nIf we introduce flexible hours, staff will be happier.",
+        "answer": "The introduction of flexible hours would make staff happier.",
+        "accept": [
+          "The introduction of flexible hours will make staff happier.",
+          "The introduction of flexible hours would make the staff happier."
+        ],
+        "explanation": "Nominalizacja."
+      },
+      {
+        "id": "c1-writing-proposal-3-09",
+        "type": "translate",
+        "prompt": "Proponuję, aby firma przydzieliła więcej środków na szkolenia.",
+        "answer": "I propose that the company allocate more funds to training.",
+        "accept": [
+          "I propose that the company should allocate more funds to training.",
+          "I suggest that the company allocate more funds to training.",
+          "I suggest that the company should allocate more funds to training.",
+          "I propose that the company allocates more funds to training."
+        ],
+        "explanation": "Propose that + subjunctive."
+      },
+      {
+        "id": "c1-writing-proposal-3-10",
+        "type": "choice",
+        "prompt": "Which verb form is typical of proposals?",
+        "answer": "would + infinitive",
+        "distractors": [
+          "Past Perfect",
+          "Past Continuous"
+        ],
+        "explanation": "Would – hipotetyczne skutki."
+      }
+    ]
+  }
+]

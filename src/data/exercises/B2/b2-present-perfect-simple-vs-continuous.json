@@ -1,0 +1,333 @@
+[
+  {
+    "id": "b2-present-perfect-simple-vs-continuous-1",
+    "topicId": "b2-present-perfect-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-01",
+        "type": "choice",
+        "prompt": "I ___ three emails this morning.",
+        "answer": "have written",
+        "distractors": [
+          "have been writing",
+          "wrote been"
+        ],
+        "explanation": "Ile zrobiono: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-02",
+        "type": "choice",
+        "prompt": "I ___ emails all morning – I'm so bored.",
+        "answer": "have been writing",
+        "distractors": [
+          "have written",
+          "am writing"
+        ],
+        "explanation": "Jak długo: continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-03",
+        "type": "choice",
+        "prompt": "She ___ her keys. Can you help her look for them?",
+        "answer": "has lost",
+        "distractors": [
+          "has been losing",
+          "lost been"
+        ],
+        "explanation": "Wynik (nie ma kluczy): simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-04",
+        "type": "cloze",
+        "prompt": "I ___ the kitchen – that's why I'm covered in paint. (paint)",
+        "answer": "have been painting",
+        "explanation": "Czynność i jej ślady: continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-05",
+        "type": "cloze",
+        "prompt": "I ___ the kitchen. Come and see! (paint)",
+        "answer": "have painted",
+        "explanation": "Gotowe: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-06",
+        "type": "match",
+        "prompt": "Połącz znaczenie z czasem.",
+        "answer": [
+          "wynik, ile zrobiono|Present Perfect Simple",
+          "czynność, jak długo trwa|Present Perfect Continuous"
+        ],
+        "explanation": "Simple czy continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-07",
+        "type": "tiles",
+        "prompt": "Ile stron już przeczytałeś?",
+        "answer": [
+          "How",
+          "many",
+          "pages",
+          "have",
+          "you",
+          "read"
+        ],
+        "distractors": [
+          "been",
+          "reading"
+        ],
+        "explanation": "Ile: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-08",
+        "type": "translate",
+        "prompt": "Uczę się do egzaminu od rana.",
+        "answer": "I have been studying for the exam since this morning.",
+        "accept": [
+          "I have been studying for the exam since the morning.",
+          "I have been revising for the exam since this morning.",
+          "I have been learning for the exam since this morning."
+        ],
+        "explanation": "Jak długo: continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-09",
+        "type": "transform",
+        "prompt": "Zmień na Present Perfect Simple, żeby podkreślić wynik, zacznij od „I have cleaned”.\nI have been cleaning the house (i skończyłem cały dom).",
+        "answer": "I have cleaned the whole house.",
+        "explanation": "Wynik: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-1-10",
+        "type": "choice",
+        "prompt": "Which verb is NOT usually used in the continuous form?",
+        "answer": "know",
+        "distractors": [
+          "work",
+          "wait"
+        ],
+        "explanation": "Know to czasownik stanu."
+      }
+    ]
+  },
+  {
+    "id": "b2-present-perfect-simple-vs-continuous-2",
+    "topicId": "b2-present-perfect-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-01",
+        "type": "cloze",
+        "prompt": "He ___ tennis for two hours – he must be exhausted. (play)",
+        "answer": "has been playing",
+        "explanation": "Jak długo: continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-02",
+        "type": "cloze",
+        "prompt": "He ___ three matches so far. (win)",
+        "answer": "has won",
+        "explanation": "Ile: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-03",
+        "type": "choice",
+        "prompt": "I ___ this book twice.",
+        "answer": "have read",
+        "distractors": [
+          "have been reading",
+          "am read"
+        ],
+        "explanation": "Liczba razy: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-04",
+        "type": "choice",
+        "prompt": "It's the first time I ___ sushi.",
+        "answer": "have eaten",
+        "distractors": [
+          "have been eating",
+          "eat"
+        ],
+        "explanation": "It's the first time + simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-05",
+        "type": "choice",
+        "prompt": "They ___ married for ten years.",
+        "answer": "have been",
+        "distractors": [
+          "have been being",
+          "are"
+        ],
+        "explanation": "Be – stan: have been."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-06",
+        "type": "transform",
+        "prompt": "Zamień na Present Perfect Continuous, zacznij od „I have been”.\nI have waited here for an hour.",
+        "answer": "I have been waiting here for an hour.",
+        "explanation": "Czynność trwająca: continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-07",
+        "type": "tiles",
+        "prompt": "Ostatnio dużo myślałem o przeprowadzce.",
+        "answer": [
+          "I've",
+          "been",
+          "thinking",
+          "a",
+          "lot",
+          "about",
+          "moving"
+        ],
+        "distractors": [
+          "thought",
+          "think"
+        ],
+        "explanation": "Czynność trwająca: continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-08",
+        "type": "error",
+        "prompt": "She's been worked here since May.",
+        "answer": [
+          "worked",
+          "working"
+        ],
+        "explanation": "Has been + -ing."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-09",
+        "type": "translate",
+        "prompt": "Skończyłem raport.",
+        "answer": "I have finished the report.",
+        "accept": [
+          "I finished the report.",
+          "I have finished my report.",
+          "I finished my report."
+        ],
+        "explanation": "Wynik: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-2-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I've been reading your book.|Czytam twoją książkę (jeszcze nie skończyłem).",
+          "I've read your book.|Przeczytałem twoją książkę.",
+          "She's been cooking.|Gotowała (czuć zapach).",
+          "She's cooked dinner.|Ugotowała obiad (jest gotowy)."
+        ],
+        "explanation": "Czynność czy wynik."
+      }
+    ]
+  },
+  {
+    "id": "b2-present-perfect-simple-vs-continuous-3",
+    "topicId": "b2-present-perfect-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-01",
+        "type": "choice",
+        "prompt": "I ___ to call you five times!",
+        "answer": "have tried",
+        "distractors": [
+          "have been trying",
+          "try"
+        ],
+        "explanation": "Liczba razy: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-02",
+        "type": "choice",
+        "prompt": "How long ___ each other?",
+        "answer": "have you known",
+        "distractors": [
+          "have you been knowing",
+          "do you know"
+        ],
+        "explanation": "Know – czasownik stanu: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-03",
+        "type": "cloze",
+        "prompt": "Sorry about the mess – we ___. (decorate)",
+        "answer": "have been decorating",
+        "explanation": "Czynność i ślady: continuous."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-04",
+        "type": "cloze",
+        "prompt": "She ___ the project. (already / finish)",
+        "answer": "has already finished",
+        "explanation": "Wynik: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-05",
+        "type": "cloze",
+        "prompt": "I ___ him for ages. (not / see)",
+        "answer": "haven't seen",
+        "accept": [
+          "have not seen"
+        ],
+        "explanation": "Przeczenie z for: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Pracuję tu od roku.|I've been working here for a year.",
+          "Znam go od roku.|I've known him for a year.",
+          "Napisałem dwa listy.|I've written two letters.",
+          "Piszę listy od rana.|I've been writing letters since the morning."
+        ],
+        "explanation": "Simple i continuous w praktyce."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-07",
+        "type": "tiles",
+        "prompt": "Właśnie skończyłem malować płot.",
+        "answer": [
+          "I've",
+          "just",
+          "finished",
+          "painting",
+          "the",
+          "fence"
+        ],
+        "distractors": [
+          "been",
+          "paint"
+        ],
+        "explanation": "Wynik: just finished."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-08",
+        "type": "translate",
+        "prompt": "Ile razy byłeś w Londynie?",
+        "answer": "How many times have you been to London?",
+        "explanation": "Ile razy: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-09",
+        "type": "transform",
+        "prompt": "Zmień na Present Perfect Simple i dodaj „five times”, zacznij od „I have called”.\nI have been calling her.",
+        "answer": "I have called her five times.",
+        "explanation": "Liczba razy: simple."
+      },
+      {
+        "id": "b2-present-perfect-simple-vs-continuous-3-10",
+        "type": "choice",
+        "prompt": "Look! Someone ___ all my chocolate – the box is empty!",
+        "answer": "has eaten",
+        "distractors": [
+          "has been eating",
+          "eats"
+        ],
+        "explanation": "Wynik (pudełko puste): simple."
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "id": "a1-reading-notice-3",
+  "topicId": "a1-reading-notice",
+  "title": "Lost cat",
+  "text": "LOST CAT\n\nCan you help us? We can't find our cat. Her name is Mimi. She is small and grey with white feet and green eyes. She is three years old and she has got a red collar.\n\nMimi is very friendly, but she is afraid of dogs. She was in our garden in Lake Street on Monday evening, and now we can't find her.\n\nPlease look in your garden and garage. If you see Mimi, please call Tom on 600 111 222.\n\nThank you!",
+  "exercises": [
+    {
+      "id": "a1-reading-notice-3-01",
+      "type": "choice",
+      "prompt": "Mimi is a grey cat.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„She is small and grey...”"
+    },
+    {
+      "id": "a1-reading-notice-3-02",
+      "type": "choice",
+      "prompt": "Mimi likes dogs.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...she is afraid of dogs.”"
+    },
+    {
+      "id": "a1-reading-notice-3-03",
+      "type": "choice",
+      "prompt": "Mimi was lost on Sunday.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Mimi była w ogrodzie w poniedziałek wieczorem."
+    },
+    {
+      "id": "a1-reading-notice-3-04",
+      "type": "choice",
+      "prompt": "Mimi likes fish.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Ogłoszenie nie mówi, co Mimi lubi jeść."
+    },
+    {
+      "id": "a1-reading-notice-3-05",
+      "type": "choice",
+      "prompt": "What colour are Mimi's eyes?",
+      "answer": "green",
+      "distractors": [
+        "blue",
+        "grey"
+      ],
+      "explanation": "„...white feet and green eyes.”"
+    },
+    {
+      "id": "a1-reading-notice-3-06",
+      "type": "choice",
+      "prompt": "How old is Mimi?",
+      "answer": "three",
+      "distractors": [
+        "two",
+        "five"
+      ],
+      "explanation": "„She is three years old.”"
+    },
+    {
+      "id": "a1-reading-notice-3-07",
+      "type": "cloze",
+      "prompt": "She is afraid of ___.",
+      "answer": "dogs",
+      "explanation": "Mimi boi się psów."
+    },
+    {
+      "id": "a1-reading-notice-3-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "lost|zaginiony",
+        "collar|obroża",
+        "afraid of|bać się",
+        "feet|łapy, stopy"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

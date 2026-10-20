@@ -1,0 +1,312 @@
+[
+  {
+    "id": "a1-vocab-family-1",
+    "topicId": "a1-vocab-family",
+    "exercises": [
+      {
+        "id": "a1-vocab-family-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "mother|matka",
+          "father|ojciec",
+          "sister|siostra",
+          "brother|brat"
+        ],
+        "explanation": "Najbliższa rodzina."
+      },
+      {
+        "id": "a1-vocab-family-1-02",
+        "type": "choice",
+        "prompt": "My mother's mother is my ___.",
+        "answer": "grandmother",
+        "distractors": [
+          "aunt",
+          "sister"
+        ],
+        "explanation": "Mama mamy to babcia."
+      },
+      {
+        "id": "a1-vocab-family-1-03",
+        "type": "choice",
+        "prompt": "My father's brother is my ___.",
+        "answer": "uncle",
+        "distractors": [
+          "cousin",
+          "nephew"
+        ],
+        "explanation": "Brat taty to wujek."
+      },
+      {
+        "id": "a1-vocab-family-1-04",
+        "type": "cloze",
+        "prompt": "My aunt's son is my ___.",
+        "answer": "cousin",
+        "explanation": "Syn cioci to kuzyn."
+      },
+      {
+        "id": "a1-vocab-family-1-05",
+        "type": "cloze",
+        "prompt": "My parents are my mother and my ___.",
+        "answer": "father",
+        "explanation": "Rodzice to mama i tata."
+      },
+      {
+        "id": "a1-vocab-family-1-06",
+        "type": "error",
+        "prompt": "My mother's sister is my uncle.",
+        "answer": [
+          "uncle",
+          "aunt"
+        ],
+        "explanation": "Siostra mamy to ciocia: aunt."
+      },
+      {
+        "id": "a1-vocab-family-1-07",
+        "type": "tiles",
+        "prompt": "To jest mój dziadek.",
+        "answer": [
+          "This",
+          "is",
+          "my",
+          "grandfather"
+        ],
+        "explanation": "Dziadek = grandfather."
+      },
+      {
+        "id": "a1-vocab-family-1-08",
+        "type": "translate",
+        "prompt": "Mam dwóch braci.",
+        "answer": "I have got two brothers.",
+        "accept": [
+          "I have two brothers."
+        ],
+        "explanation": "Have got + two brothers."
+      },
+      {
+        "id": "a1-vocab-family-1-09",
+        "type": "transform",
+        "prompt": "Napisz formę żeńską.\nhusband",
+        "answer": "wife",
+        "explanation": "Mąż – husband, żona – wife."
+      },
+      {
+        "id": "a1-vocab-family-1-10",
+        "type": "choice",
+        "prompt": "Your son's son is your ___.",
+        "answer": "grandson",
+        "distractors": [
+          "nephew",
+          "son-in-law"
+        ],
+        "explanation": "Syn syna to wnuk."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-family-2",
+    "topicId": "a1-vocab-family",
+    "exercises": [
+      {
+        "id": "a1-vocab-family-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "husband|mąż",
+          "wife|żona",
+          "son|syn",
+          "daughter|córka"
+        ],
+        "explanation": "Małżonkowie i dzieci."
+      },
+      {
+        "id": "a1-vocab-family-2-02",
+        "type": "cloze",
+        "prompt": "My sister's daughter is my ___.",
+        "answer": "niece",
+        "explanation": "Córka siostry to siostrzenica: niece."
+      },
+      {
+        "id": "a1-vocab-family-2-03",
+        "type": "cloze",
+        "prompt": "My brother's son is my ___.",
+        "answer": "nephew",
+        "explanation": "Syn brata to bratanek: nephew."
+      },
+      {
+        "id": "a1-vocab-family-2-04",
+        "type": "choice",
+        "prompt": "My parents' parents are my ___.",
+        "answer": "grandparents",
+        "distractors": [
+          "cousins",
+          "children"
+        ],
+        "explanation": "Rodzice rodziców to dziadkowie."
+      },
+      {
+        "id": "a1-vocab-family-2-05",
+        "type": "choice",
+        "prompt": "A child with no brothers or sisters is an ___ child.",
+        "answer": "only",
+        "distractors": [
+          "alone",
+          "single"
+        ],
+        "explanation": "Jedynak to an only child."
+      },
+      {
+        "id": "a1-vocab-family-2-06",
+        "type": "error",
+        "prompt": "My father's father is my grandmother.",
+        "answer": [
+          "grandmother",
+          "grandfather"
+        ],
+        "explanation": "Ojciec taty to dziadek."
+      },
+      {
+        "id": "a1-vocab-family-2-07",
+        "type": "tiles",
+        "prompt": "Moja siostra ma dwoje dzieci.",
+        "answer": [
+          "My",
+          "sister",
+          "has",
+          "got",
+          "two",
+          "children"
+        ],
+        "explanation": "Has got + two children."
+      },
+      {
+        "id": "a1-vocab-family-2-08",
+        "type": "translate",
+        "prompt": "Jak ma na imię twoja żona?",
+        "answer": "What is your wife's name?",
+        "explanation": "Imię żony: your wife's name."
+      },
+      {
+        "id": "a1-vocab-family-2-09",
+        "type": "transform",
+        "prompt": "Napisz formę męską.\nniece",
+        "answer": "nephew",
+        "explanation": "Niece – nephew."
+      },
+      {
+        "id": "a1-vocab-family-2-10",
+        "type": "choice",
+        "prompt": "Mark and Kate are married. Kate is Mark's ___.",
+        "answer": "wife",
+        "distractors": [
+          "sister",
+          "daughter"
+        ],
+        "explanation": "Żona to wife."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-family-3",
+    "topicId": "a1-vocab-family",
+    "exercises": [
+      {
+        "id": "a1-vocab-family-3-01",
+        "type": "cloze",
+        "prompt": "Anna is Tom's mother. Tom is Anna's ___.",
+        "answer": "son",
+        "explanation": "Tom jest jej synem."
+      },
+      {
+        "id": "a1-vocab-family-3-02",
+        "type": "cloze",
+        "prompt": "Ben is Lucy's father. Lucy is Ben's ___.",
+        "answer": "daughter",
+        "explanation": "Lucy jest jego córką."
+      },
+      {
+        "id": "a1-vocab-family-3-03",
+        "type": "choice",
+        "prompt": "Brothers and sisters are ___.",
+        "answer": "siblings",
+        "distractors": [
+          "cousins",
+          "parents"
+        ],
+        "explanation": "Rodzeństwo to siblings."
+      },
+      {
+        "id": "a1-vocab-family-3-04",
+        "type": "choice",
+        "prompt": "My husband's mother is my ___.",
+        "answer": "mother-in-law",
+        "distractors": [
+          "stepmother",
+          "grandmother"
+        ],
+        "explanation": "Teściowa to mother-in-law."
+      },
+      {
+        "id": "a1-vocab-family-3-05",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "grandson|wnuk",
+          "granddaughter|wnuczka",
+          "uncle|wujek",
+          "aunt|ciocia"
+        ],
+        "explanation": "Grand- przy wnukach i dziadkach."
+      },
+      {
+        "id": "a1-vocab-family-3-06",
+        "type": "error",
+        "prompt": "Peter is my aunt. He is my mum's brother.",
+        "answer": [
+          "aunt",
+          "uncle"
+        ],
+        "explanation": "Brat mamy to wujek."
+      },
+      {
+        "id": "a1-vocab-family-3-07",
+        "type": "tiles",
+        "prompt": "Moi dziadkowie mieszkają na wsi.",
+        "answer": [
+          "My",
+          "grandparents",
+          "live",
+          "in",
+          "the",
+          "country"
+        ],
+        "explanation": "Na wsi: in the country."
+      },
+      {
+        "id": "a1-vocab-family-3-08",
+        "type": "translate",
+        "prompt": "To jest mój kuzyn, Adam.",
+        "answer": "This is my cousin, Adam.",
+        "explanation": "Cousin = kuzyn/kuzynka."
+      },
+      {
+        "id": "a1-vocab-family-3-09",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nchild",
+        "answer": "children",
+        "explanation": "Child – children."
+      },
+      {
+        "id": "a1-vocab-family-3-10",
+        "type": "choice",
+        "prompt": "Your sister's husband is your ___.",
+        "answer": "brother-in-law",
+        "distractors": [
+          "stepbrother",
+          "uncle"
+        ],
+        "explanation": "Mąż siostry to szwagier."
+      }
+    ]
+  }
+]

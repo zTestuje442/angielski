@@ -1,0 +1,303 @@
+[
+  {
+    "id": "a2-adverbs-of-manner-1",
+    "topicId": "a2-adverbs-of-manner",
+    "exercises": [
+      {
+        "id": "a2-adverbs-of-manner-1-01",
+        "type": "cloze",
+        "prompt": "She sings ___. (beautiful)",
+        "answer": "beautifully",
+        "explanation": "Beautiful + -ly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-02",
+        "type": "cloze",
+        "prompt": "He drives very ___. (careful)",
+        "answer": "carefully",
+        "explanation": "Careful + -ly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-03",
+        "type": "cloze",
+        "prompt": "Please speak ___. (slow)",
+        "answer": "slowly",
+        "explanation": "Slow + -ly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-04",
+        "type": "choice",
+        "prompt": "He runs very ___.",
+        "answer": "fast",
+        "distractors": [
+          "fastly",
+          "quick"
+        ],
+        "explanation": "Fast to także przysłówek, bez -ly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-05",
+        "type": "choice",
+        "prompt": "You did that ___!",
+        "answer": "well",
+        "distractors": [
+          "good",
+          "goodly"
+        ],
+        "explanation": "Przysłówek od good: well."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-06",
+        "type": "match",
+        "prompt": "Połącz przymiotnik z przysłówkiem.",
+        "answer": [
+          "quick|quickly",
+          "easy|easily",
+          "good|well",
+          "hard|hard"
+        ],
+        "explanation": "-ly, -ily i formy nieregularne."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-07",
+        "type": "error",
+        "prompt": "She speaks English very good.",
+        "answer": [
+          "good",
+          "well"
+        ],
+        "explanation": "Jak mówi? Przysłówek: well."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-08",
+        "type": "error",
+        "prompt": "He works hardly every day.",
+        "answer": [
+          "hardly",
+          "hard"
+        ],
+        "explanation": "Ciężko = hard; hardly znaczy prawie wcale."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-09",
+        "type": "tiles",
+        "prompt": "Mów ciszej, proszę.",
+        "answer": [
+          "Please",
+          "speak",
+          "more",
+          "quietly"
+        ],
+        "explanation": "Quiet → quietly; ciszej: more quietly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-1-10",
+        "type": "translate",
+        "prompt": "On gotuje bardzo dobrze.",
+        "answer": "He cooks very well.",
+        "explanation": "Dobrze = well."
+      }
+    ]
+  },
+  {
+    "id": "a2-adverbs-of-manner-2",
+    "topicId": "a2-adverbs-of-manner",
+    "exercises": [
+      {
+        "id": "a2-adverbs-of-manner-2-01",
+        "type": "choice",
+        "prompt": "She is a ___ driver.",
+        "answer": "careful",
+        "distractors": [
+          "carefully",
+          "carefuly"
+        ],
+        "explanation": "Przed rzeczownikiem przymiotnik."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-02",
+        "type": "choice",
+        "prompt": "She drives ___.",
+        "answer": "carefully",
+        "distractors": [
+          "careful",
+          "care"
+        ],
+        "explanation": "Opisuje czasownik: przysłówek."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-03",
+        "type": "choice",
+        "prompt": "The test was ___.",
+        "answer": "easy",
+        "distractors": [
+          "easily",
+          "easyly"
+        ],
+        "explanation": "Po be przymiotnik."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-04",
+        "type": "choice",
+        "prompt": "I passed the test ___.",
+        "answer": "easily",
+        "distractors": [
+          "easy",
+          "easyly"
+        ],
+        "explanation": "Opisuje czasownik: przysłówek."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-05",
+        "type": "cloze",
+        "prompt": "He is a ___ cook. (good)",
+        "answer": "good",
+        "explanation": "Przed rzeczownikiem przymiotnik: good."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-06",
+        "type": "cloze",
+        "prompt": "He cooks ___. (good)",
+        "answer": "well",
+        "explanation": "Opisuje czasownik: well."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-07",
+        "type": "transform",
+        "prompt": "Zamień przymiotnik na przysłówek.\nHe is a slow walker.",
+        "answer": "He walks slowly.",
+        "explanation": "Slow walker → walks slowly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-08",
+        "type": "transform",
+        "prompt": "Zamień przymiotnik na przysłówek.\nShe is a fast swimmer.",
+        "answer": "She swims fast.",
+        "explanation": "Fast bez -ly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-09",
+        "type": "tiles",
+        "prompt": "Odpowiedziała szybko.",
+        "answer": [
+          "She",
+          "answered",
+          "quickly"
+        ],
+        "explanation": "Quick → quickly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-2-10",
+        "type": "error",
+        "prompt": "Your English is very well.",
+        "answer": [
+          "well",
+          "good"
+        ],
+        "explanation": "Po be przymiotnik: good."
+      }
+    ]
+  },
+  {
+    "id": "a2-adverbs-of-manner-3",
+    "topicId": "a2-adverbs-of-manner",
+    "exercises": [
+      {
+        "id": "a2-adverbs-of-manner-3-01",
+        "type": "cloze",
+        "prompt": "They played ___ and won the match. (brilliant)",
+        "answer": "brilliantly",
+        "explanation": "Brilliant + -ly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-02",
+        "type": "cloze",
+        "prompt": "The children were playing ___ in the garden. (happy)",
+        "answer": "happily",
+        "explanation": "Happy → happily."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-03",
+        "type": "cloze",
+        "prompt": "He came home ___ last night. (late)",
+        "answer": "late",
+        "explanation": "Late to także przysłówek."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-04",
+        "type": "choice",
+        "prompt": "I can't hear you. Can you speak ___?",
+        "answer": "louder",
+        "distractors": [
+          "more loud",
+          "loudlier"
+        ],
+        "explanation": "Głośniej: louder."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-05",
+        "type": "choice",
+        "prompt": "She smiled ___ at me.",
+        "answer": "warmly",
+        "distractors": [
+          "warm",
+          "warmful"
+        ],
+        "explanation": "Opisuje czasownik: warmly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-06",
+        "type": "match",
+        "prompt": "Połącz przysłówki z tłumaczeniem.",
+        "answer": [
+          "badly|źle",
+          "early|wcześnie",
+          "quietly|cicho",
+          "angrily|ze złością"
+        ],
+        "explanation": "Przysłówki sposobu."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-07",
+        "type": "error",
+        "prompt": "He answered the question correct.",
+        "answer": [
+          "correct",
+          "correctly"
+        ],
+        "explanation": "Jak odpowiedział? correctly."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-08",
+        "type": "error",
+        "prompt": "The train arrived lately.",
+        "answer": [
+          "lately",
+          "late"
+        ],
+        "explanation": "Spóźniony = late; lately to ostatnio."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-09",
+        "type": "tiles",
+        "prompt": "Proszę, jedź ostrożnie.",
+        "answer": [
+          "Please",
+          "drive",
+          "carefully"
+        ],
+        "explanation": "Careful → carefully."
+      },
+      {
+        "id": "a2-adverbs-of-manner-3-10",
+        "type": "translate",
+        "prompt": "Ona dobrze mówi po angielsku.",
+        "answer": "She speaks English well.",
+        "accept": [
+          "She speaks good English."
+        ],
+        "explanation": "Przysłówek po dopełnieniu."
+      }
+    ]
+  }
+]

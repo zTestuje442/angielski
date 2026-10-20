@@ -1,0 +1,327 @@
+[
+  {
+    "id": "a1-vocab-home-1",
+    "topicId": "a1-vocab-home",
+    "exercises": [
+      {
+        "id": "a1-vocab-home-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "kitchen|kuchnia",
+          "bedroom|sypialnia",
+          "bathroom|łazienka",
+          "living room|salon"
+        ],
+        "explanation": "Podstawowe pomieszczenia."
+      },
+      {
+        "id": "a1-vocab-home-1-02",
+        "type": "choice",
+        "prompt": "You cook in the ___.",
+        "answer": "kitchen",
+        "distractors": [
+          "bedroom",
+          "garage"
+        ],
+        "explanation": "Gotujemy w kuchni."
+      },
+      {
+        "id": "a1-vocab-home-1-03",
+        "type": "choice",
+        "prompt": "You sleep in the ___.",
+        "answer": "bedroom",
+        "distractors": [
+          "kitchen",
+          "hall"
+        ],
+        "explanation": "Śpimy w sypialni."
+      },
+      {
+        "id": "a1-vocab-home-1-04",
+        "type": "cloze",
+        "prompt": "We keep the car in the ___.",
+        "answer": "garage",
+        "explanation": "Samochód stoi w garażu."
+      },
+      {
+        "id": "a1-vocab-home-1-05",
+        "type": "cloze",
+        "prompt": "You have a shower in the ___.",
+        "answer": "bathroom",
+        "explanation": "Prysznic jest w łazience."
+      },
+      {
+        "id": "a1-vocab-home-1-06",
+        "type": "error",
+        "prompt": "We eat dinner in the garage.",
+        "answer": [
+          "garage",
+          "dining room"
+        ],
+        "accept": [
+          "kitchen"
+        ],
+        "explanation": "Jemy w jadalni: dining room."
+      },
+      {
+        "id": "a1-vocab-home-1-07",
+        "type": "tiles",
+        "prompt": "Moja sypialnia jest mała.",
+        "answer": [
+          "My",
+          "bedroom",
+          "is",
+          "small"
+        ],
+        "explanation": "Bedroom = sypialnia."
+      },
+      {
+        "id": "a1-vocab-home-1-08",
+        "type": "translate",
+        "prompt": "W moim domu są trzy sypialnie.",
+        "answer": "There are three bedrooms in my house.",
+        "accept": [
+          "My house has got three bedrooms.",
+          "My house has three bedrooms."
+        ],
+        "explanation": "There are + liczba mnoga."
+      },
+      {
+        "id": "a1-vocab-home-1-09",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nshelf",
+        "answer": "shelves",
+        "explanation": "Shelf – shelves (-f → -ves)."
+      },
+      {
+        "id": "a1-vocab-home-1-10",
+        "type": "choice",
+        "prompt": "The room at the top of a house is the ___.",
+        "answer": "attic",
+        "distractors": [
+          "cellar",
+          "hall"
+        ],
+        "explanation": "Na samej górze jest strych: attic."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-home-2",
+    "topicId": "a1-vocab-home",
+    "exercises": [
+      {
+        "id": "a1-vocab-home-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "bed|łóżko",
+          "table|stół",
+          "chair|krzesło",
+          "wardrobe|szafa"
+        ],
+        "explanation": "Podstawowe meble."
+      },
+      {
+        "id": "a1-vocab-home-2-02",
+        "type": "choice",
+        "prompt": "You put your clothes in a ___.",
+        "answer": "wardrobe",
+        "distractors": [
+          "fridge",
+          "sink"
+        ],
+        "explanation": "Ubrania wkładamy do szafy."
+      },
+      {
+        "id": "a1-vocab-home-2-03",
+        "type": "choice",
+        "prompt": "You keep food cold in a ___.",
+        "answer": "fridge",
+        "distractors": [
+          "cooker",
+          "shower"
+        ],
+        "explanation": "Jedzenie trzymamy w lodówce."
+      },
+      {
+        "id": "a1-vocab-home-2-04",
+        "type": "cloze",
+        "prompt": "I wash the dishes in the ___.",
+        "answer": "sink",
+        "explanation": "Naczynia myjemy w zlewie: sink."
+      },
+      {
+        "id": "a1-vocab-home-2-05",
+        "type": "cloze",
+        "prompt": "I sit on the ___ and watch TV.",
+        "answer": "sofa",
+        "accept": [
+          "couch"
+        ],
+        "explanation": "Na kanapie: sofa."
+      },
+      {
+        "id": "a1-vocab-home-2-06",
+        "type": "error",
+        "prompt": "I sleep in a big wardrobe.",
+        "answer": [
+          "wardrobe",
+          "bed"
+        ],
+        "explanation": "Śpimy w łóżku: bed."
+      },
+      {
+        "id": "a1-vocab-home-2-07",
+        "type": "tiles",
+        "prompt": "Lampa jest na biurku.",
+        "answer": [
+          "The",
+          "lamp",
+          "is",
+          "on",
+          "the",
+          "desk"
+        ],
+        "explanation": "Biurko = desk."
+      },
+      {
+        "id": "a1-vocab-home-2-08",
+        "type": "translate",
+        "prompt": "Potrzebuję nowego krzesła.",
+        "answer": "I need a new chair.",
+        "explanation": "Krzesło = chair."
+      },
+      {
+        "id": "a1-vocab-home-2-09",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "cooker|kuchenka",
+          "mirror|lustro",
+          "carpet|dywan",
+          "shelf|półka"
+        ],
+        "explanation": "Sprzęty i wyposażenie."
+      },
+      {
+        "id": "a1-vocab-home-2-10",
+        "type": "choice",
+        "prompt": "You look at yourself in a ___.",
+        "answer": "mirror",
+        "distractors": [
+          "window",
+          "carpet"
+        ],
+        "explanation": "Przeglądamy się w lustrze."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-home-3",
+    "topicId": "a1-vocab-home",
+    "exercises": [
+      {
+        "id": "a1-vocab-home-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "flat|mieszkanie",
+          "floor|piętro, podłoga",
+          "stairs|schody",
+          "garden|ogród"
+        ],
+        "explanation": "Floor ma dwa znaczenia."
+      },
+      {
+        "id": "a1-vocab-home-3-02",
+        "type": "cloze",
+        "prompt": "I live on the third ___.",
+        "answer": "floor",
+        "explanation": "Piętro: floor."
+      },
+      {
+        "id": "a1-vocab-home-3-03",
+        "type": "cloze",
+        "prompt": "We go up the ___ to the bedroom.",
+        "answer": "stairs",
+        "explanation": "Schody: stairs."
+      },
+      {
+        "id": "a1-vocab-home-3-04",
+        "type": "choice",
+        "prompt": "It's hot in here. Please open the ___.",
+        "answer": "window",
+        "distractors": [
+          "carpet",
+          "shelf"
+        ],
+        "explanation": "Otwieramy okno."
+      },
+      {
+        "id": "a1-vocab-home-3-05",
+        "type": "choice",
+        "prompt": "Please close the front ___ when you go out.",
+        "answer": "door",
+        "distractors": [
+          "wall",
+          "ceiling"
+        ],
+        "explanation": "Drzwi wejściowe: front door."
+      },
+      {
+        "id": "a1-vocab-home-3-06",
+        "type": "error",
+        "prompt": "Our flat is on the second flor.",
+        "answer": [
+          "flor",
+          "floor"
+        ],
+        "explanation": "Pisownia: floor."
+      },
+      {
+        "id": "a1-vocab-home-3-07",
+        "type": "tiles",
+        "prompt": "Mieszkamy w mieszkaniu w centrum miasta.",
+        "answer": [
+          "We",
+          "live",
+          "in",
+          "a",
+          "flat",
+          "in",
+          "the",
+          "city",
+          "centre"
+        ],
+        "explanation": "Mieszkanie: flat."
+      },
+      {
+        "id": "a1-vocab-home-3-08",
+        "type": "translate",
+        "prompt": "W kuchni jest lodówka.",
+        "answer": "There is a fridge in the kitchen.",
+        "explanation": "There is + lodówka."
+      },
+      {
+        "id": "a1-vocab-home-3-09",
+        "type": "transform",
+        "prompt": "Zapisz brytyjskie słowo zamiast amerykańskiego.\napartment",
+        "answer": "flat",
+        "explanation": "Po brytyjsku mieszkanie to flat."
+      },
+      {
+        "id": "a1-vocab-home-3-10",
+        "type": "choice",
+        "prompt": "The part of the room you walk on is the ___.",
+        "answer": "floor",
+        "distractors": [
+          "ceiling",
+          "roof"
+        ],
+        "explanation": "Chodzimy po podłodze: floor."
+      }
+    ]
+  }
+]

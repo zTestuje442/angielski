@@ -1,0 +1,93 @@
+{
+  "id": "a1-reading-notice-1",
+  "topicId": "a1-reading-notice",
+  "title": "City Swimming Pool",
+  "text": "CITY SWIMMING POOL\n\nOpening hours:\nMonday – Friday: 6 a.m. – 10 p.m.\nSaturday and Sunday: 8 a.m. – 8 p.m.\n\nTickets: adults £5, children (under 12) £3.\n\nChildren under 8 must swim with an adult.\nPlease have a shower before you swim.\nNo food or drinks near the pool.\nYou can buy a towel at the reception for £2.\n\nSwimming lessons for children every Saturday at 10 a.m. Ask at the reception!",
+  "exercises": [
+    {
+      "id": "a1-reading-notice-1-01",
+      "type": "choice",
+      "prompt": "The pool opens at 6 a.m. on Sunday.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "W weekend basen jest otwarty od 8 a.m."
+    },
+    {
+      "id": "a1-reading-notice-1-02",
+      "type": "choice",
+      "prompt": "A ticket for a 10-year-old child is £3.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "Dzieci poniżej 12 lat płacą £3."
+    },
+    {
+      "id": "a1-reading-notice-1-03",
+      "type": "choice",
+      "prompt": "You can eat near the pool.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„No food or drinks near the pool.”"
+    },
+    {
+      "id": "a1-reading-notice-1-04",
+      "type": "choice",
+      "prompt": "There is a café at the pool.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Ogłoszenie nie mówi nic o kawiarni."
+    },
+    {
+      "id": "a1-reading-notice-1-05",
+      "type": "choice",
+      "prompt": "When are the swimming lessons?",
+      "answer": "on Saturday morning",
+      "distractors": [
+        "on Sunday evening",
+        "every day"
+      ],
+      "explanation": "„every Saturday at 10 a.m.”"
+    },
+    {
+      "id": "a1-reading-notice-1-06",
+      "type": "choice",
+      "prompt": "How much is a towel?",
+      "answer": "£2",
+      "distractors": [
+        "£3",
+        "£5"
+      ],
+      "explanation": "„You can buy a towel... for £2.”"
+    },
+    {
+      "id": "a1-reading-notice-1-07",
+      "type": "cloze",
+      "prompt": "Please have a ___ before you swim.",
+      "answer": "shower",
+      "explanation": "Przed pływaniem trzeba wziąć prysznic."
+    },
+    {
+      "id": "a1-reading-notice-1-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "opening hours|godziny otwarcia",
+        "adult|dorosły",
+        "under 12|poniżej 12 lat",
+        "reception|recepcja"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

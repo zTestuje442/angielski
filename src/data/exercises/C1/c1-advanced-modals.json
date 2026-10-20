@@ -1,0 +1,336 @@
+[
+  {
+    "id": "c1-advanced-modals-1",
+    "topicId": "c1-advanced-modals",
+    "exercises": [
+      {
+        "id": "c1-advanced-modals-1-01",
+        "type": "cloze",
+        "prompt": "You needn't ___ brought food – we had plenty.",
+        "answer": "have",
+        "explanation": "Needn't have + III forma."
+      },
+      {
+        "id": "c1-advanced-modals-1-02",
+        "type": "cloze",
+        "prompt": "He's bound ___ forget. He always does.",
+        "answer": "to",
+        "explanation": "Be bound to."
+      },
+      {
+        "id": "c1-advanced-modals-1-03",
+        "type": "choice",
+        "prompt": "The bus isn't coming. We might ___ well walk.",
+        "answer": "as",
+        "distractors": [
+          "so",
+          "too"
+        ],
+        "explanation": "Might as well."
+      },
+      {
+        "id": "c1-advanced-modals-1-04",
+        "type": "choice",
+        "prompt": "I ___ take a taxi, so I walked.",
+        "answer": "didn't need to",
+        "distractors": [
+          "needn't have",
+          "mustn't"
+        ],
+        "explanation": "Didn't need to – nie było trzeba (i nie zrobiłem)."
+      },
+      {
+        "id": "c1-advanced-modals-1-05",
+        "type": "choice",
+        "prompt": "You ___ call me yesterday! What happened?",
+        "answer": "were supposed to",
+        "distractors": [
+          "were bound to",
+          "might as well"
+        ],
+        "explanation": "Be supposed to – oczekiwanie."
+      },
+      {
+        "id": "c1-advanced-modals-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "needn't have done|niepotrzebnie zrobił",
+          "be bound to|na pewno",
+          "might as well|równie dobrze można",
+          "be supposed to|mieć coś zrobić"
+        ],
+        "explanation": "Zaawansowane modalne."
+      },
+      {
+        "id": "c1-advanced-modals-1-07",
+        "type": "error",
+        "prompt": "You needn't have came so early.",
+        "answer": [
+          "came",
+          "come"
+        ],
+        "explanation": "Needn't have + III forma."
+      },
+      {
+        "id": "c1-advanced-modals-1-08",
+        "type": "tiles",
+        "prompt": "Całkiem możliwe, że ona ma rację.",
+        "answer": [
+          "She",
+          "may",
+          "well",
+          "be",
+          "right"
+        ],
+        "distractors": [
+          "good",
+          "is"
+        ],
+        "explanation": "May well – całkiem możliwe."
+      },
+      {
+        "id": "c1-advanced-modals-1-09",
+        "type": "translate",
+        "prompt": "Wolałbym, żebyś tu nie palił.",
+        "answer": "I would rather you did not smoke here.",
+        "accept": [
+          "I'd rather you didn't smoke here.",
+          "I would rather you didn't smoke here.",
+          "I would prefer it if you did not smoke here.",
+          "I would prefer you not to smoke here."
+        ],
+        "explanation": "Would rather + osoba + Past Simple."
+      },
+      {
+        "id": "c1-advanced-modals-1-10",
+        "type": "transform",
+        "prompt": "Użyj „bound”.\nI'm sure it will rain tomorrow.",
+        "answer": "It is bound to rain tomorrow.",
+        "explanation": "Be bound to."
+      }
+    ]
+  },
+  {
+    "id": "c1-advanced-modals-2",
+    "topicId": "c1-advanced-modals",
+    "exercises": [
+      {
+        "id": "c1-advanced-modals-2-01",
+        "type": "cloze",
+        "prompt": "You are ___ report to the manager at 9 a.m. (masz – formalnie)",
+        "answer": "to",
+        "explanation": "Be to – formalne polecenie."
+      },
+      {
+        "id": "c1-advanced-modals-2-02",
+        "type": "cloze",
+        "prompt": "It may ___ be the best solution. (całkiem możliwe)",
+        "answer": "well",
+        "explanation": "May well."
+      },
+      {
+        "id": "c1-advanced-modals-2-03",
+        "type": "choice",
+        "prompt": "You'd ___ not be late again.",
+        "answer": "better",
+        "distractors": [
+          "rather",
+          "best to"
+        ],
+        "explanation": "Had better not."
+      },
+      {
+        "id": "c1-advanced-modals-2-04",
+        "type": "choice",
+        "prompt": "I'd rather you ___ tell anyone.",
+        "answer": "didn't",
+        "distractors": [
+          "don't",
+          "won't"
+        ],
+        "explanation": "Would rather + osoba + Past Simple."
+      },
+      {
+        "id": "c1-advanced-modals-2-05",
+        "type": "choice",
+        "prompt": "The tenant ___ pay the rent on the first day of each month.",
+        "answer": "shall",
+        "distractors": [
+          "would",
+          "might"
+        ],
+        "explanation": "Shall w dokumentach formalnych."
+      },
+      {
+        "id": "c1-advanced-modals-2-06",
+        "type": "transform",
+        "prompt": "Użyj „needn't”.\nIt wasn't necessary for you to buy flowers, but you did.",
+        "answer": "You needn't have bought flowers.",
+        "explanation": "Needn't have + III forma."
+      },
+      {
+        "id": "c1-advanced-modals-2-07",
+        "type": "transform",
+        "prompt": "Użyj „supposed”.\nThe plan was for us to meet at six.",
+        "answer": "We were supposed to meet at six.",
+        "explanation": "Be supposed to."
+      },
+      {
+        "id": "c1-advanced-modals-2-08",
+        "type": "tiles",
+        "prompt": "Prezydent ma odwiedzić Japonię w przyszłym miesiącu.",
+        "answer": [
+          "The",
+          "President",
+          "is",
+          "to",
+          "visit",
+          "Japan",
+          "next",
+          "month"
+        ],
+        "distractors": [
+          "would",
+          "visiting"
+        ],
+        "explanation": "Be to – oficjalny plan."
+      },
+      {
+        "id": "c1-advanced-modals-2-09",
+        "type": "error",
+        "prompt": "You needn't have worry so much.",
+        "answer": [
+          "worry",
+          "worried"
+        ],
+        "explanation": "Needn't have + III forma."
+      },
+      {
+        "id": "c1-advanced-modals-2-10",
+        "type": "translate",
+        "prompt": "Skoro już tu jesteśmy, równie dobrze możemy coś zjeść.",
+        "answer": "Since we are here, we might as well eat something.",
+        "accept": [
+          "Since we're here, we might as well eat something.",
+          "As we are here, we might as well eat something.",
+          "Since we are here, we may as well eat something.",
+          "Now that we are here, we might as well eat something."
+        ],
+        "explanation": "Might as well."
+      }
+    ]
+  },
+  {
+    "id": "c1-advanced-modals-3",
+    "topicId": "c1-advanced-modals",
+    "exercises": [
+      {
+        "id": "c1-advanced-modals-3-01",
+        "type": "choice",
+        "prompt": "This medicine is ___ be taken with food.",
+        "answer": "to",
+        "distractors": [
+          "supposed",
+          "bound"
+        ],
+        "explanation": "Be to – instrukcja."
+      },
+      {
+        "id": "c1-advanced-modals-3-02",
+        "type": "choice",
+        "prompt": "Prices are ___ to rise after the election.",
+        "answer": "bound",
+        "distractors": [
+          "supposed as",
+          "liable of"
+        ],
+        "explanation": "Be bound to."
+      },
+      {
+        "id": "c1-advanced-modals-3-03",
+        "type": "cloze",
+        "prompt": "We ___ have taken the umbrella – it didn't rain. (niepotrzebnie)",
+        "answer": "needn't",
+        "explanation": "Needn't have."
+      },
+      {
+        "id": "c1-advanced-modals-3-04",
+        "type": "cloze",
+        "prompt": "You're not ___ to park here. (nie wolno, wg zasad)",
+        "answer": "supposed",
+        "accept": [
+          "allowed",
+          "permitted"
+        ],
+        "explanation": "Not supposed to – zasada."
+      },
+      {
+        "id": "c1-advanced-modals-3-05",
+        "type": "cloze",
+        "prompt": "He could ___ be the next CEO. (całkiem możliwe)",
+        "answer": "well",
+        "explanation": "Could well."
+      },
+      {
+        "id": "c1-advanced-modals-3-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "needn't have bought|kupił niepotrzebnie",
+          "didn't need to buy|nie musiał kupować (i nie kupił)"
+        ],
+        "explanation": "Needn't have czy didn't need to."
+      },
+      {
+        "id": "c1-advanced-modals-3-07",
+        "type": "error",
+        "prompt": "You had better apologising.",
+        "answer": [
+          "apologising",
+          "apologise"
+        ],
+        "explanation": "Had better + forma podstawowa."
+      },
+      {
+        "id": "c1-advanced-modals-3-08",
+        "type": "error",
+        "prompt": "He's bound being late again.",
+        "answer": [
+          "being",
+          "be"
+        ],
+        "explanation": "Be bound to + forma podstawowa."
+      },
+      {
+        "id": "c1-advanced-modals-3-09",
+        "type": "tiles",
+        "prompt": "Wolałbym nie mówić o tym.",
+        "answer": [
+          "I'd",
+          "rather",
+          "not",
+          "talk",
+          "about",
+          "it"
+        ],
+        "distractors": [
+          "to",
+          "don't"
+        ],
+        "explanation": "Would rather not."
+      },
+      {
+        "id": "c1-advanced-modals-3-10",
+        "type": "translate",
+        "prompt": "Miałeś do mnie zadzwonić!",
+        "answer": "You were supposed to call me!",
+        "accept": [
+          "You were meant to call me!",
+          "You were supposed to phone me!"
+        ],
+        "explanation": "Be supposed to."
+      }
+    ]
+  }
+]

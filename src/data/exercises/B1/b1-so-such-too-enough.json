@@ -1,0 +1,327 @@
+[
+  {
+    "id": "b1-so-such-too-enough-1",
+    "topicId": "b1-so-such-too-enough",
+    "exercises": [
+      {
+        "id": "b1-so-such-too-enough-1-01",
+        "type": "cloze",
+        "prompt": "It was ___ a good film! (taki)",
+        "answer": "such",
+        "explanation": "Such a + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-02",
+        "type": "cloze",
+        "prompt": "The film was ___ good! (taki)",
+        "answer": "so",
+        "explanation": "So + przymiotnik."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-03",
+        "type": "cloze",
+        "prompt": "This coffee is ___ hot to drink. (zbyt)",
+        "answer": "too",
+        "explanation": "Zbyt: too."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-04",
+        "type": "choice",
+        "prompt": "She's not old ___ to drive.",
+        "answer": "enough",
+        "distractors": [
+          "too",
+          "so"
+        ],
+        "explanation": "Przymiotnik + enough."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-05",
+        "type": "choice",
+        "prompt": "It's ___ cold that we can't go out.",
+        "answer": "so",
+        "distractors": [
+          "such",
+          "too"
+        ],
+        "explanation": "So + przymiotnik + that."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-06",
+        "type": "match",
+        "prompt": "Połącz zasadę z przykładem.",
+        "answer": [
+          "so + przymiotnik|so tired",
+          "such a + przymiotnik + rzeczownik|such a nice day",
+          "too + przymiotnik|too expensive",
+          "przymiotnik + enough|big enough"
+        ],
+        "explanation": "Budowa wyrażeń."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-07",
+        "type": "error",
+        "prompt": "It was so a long day.",
+        "answer": [
+          "so",
+          "such"
+        ],
+        "explanation": "Z rzeczownikiem: such a long day."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-08",
+        "type": "tiles",
+        "prompt": "Było za zimno, żeby pływać.",
+        "answer": [
+          "It",
+          "was",
+          "too",
+          "cold",
+          "to",
+          "swim"
+        ],
+        "distractors": [
+          "enough",
+          "so"
+        ],
+        "explanation": "Too + przymiotnik + to."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-09",
+        "type": "translate",
+        "prompt": "Ona jest taka miła!",
+        "answer": "She is so nice!",
+        "accept": [
+          "She is so kind!",
+          "She is such a nice person!"
+        ],
+        "explanation": "So + przymiotnik."
+      },
+      {
+        "id": "b1-so-such-too-enough-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „too ... to”.\nThe box is very heavy. I can't lift it.",
+        "answer": "The box is too heavy to lift.",
+        "accept": [
+          "The box is too heavy for me to lift."
+        ],
+        "explanation": "Too + przymiotnik + to."
+      }
+    ]
+  },
+  {
+    "id": "b1-so-such-too-enough-2",
+    "topicId": "b1-so-such-too-enough",
+    "exercises": [
+      {
+        "id": "b1-so-such-too-enough-2-01",
+        "type": "cloze",
+        "prompt": "We don't have ___ time to finish. (wystarczająco)",
+        "answer": "enough",
+        "explanation": "Enough + rzeczownik."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-02",
+        "type": "cloze",
+        "prompt": "They are ___ nice people! (takimi)",
+        "answer": "such",
+        "explanation": "Such + przymiotnik + rzeczownik w l. mnogiej."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-03",
+        "type": "choice",
+        "prompt": "I'm ___ tired that I can't think.",
+        "answer": "so",
+        "distractors": [
+          "such",
+          "too"
+        ],
+        "explanation": "So + przymiotnik + that."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-04",
+        "type": "choice",
+        "prompt": "Is the room big ___ for four people?",
+        "answer": "enough",
+        "distractors": [
+          "too",
+          "so"
+        ],
+        "explanation": "Przymiotnik + enough."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-05",
+        "type": "choice",
+        "prompt": "It was ___ weather that we stayed inside.",
+        "answer": "such bad",
+        "distractors": [
+          "so bad",
+          "such a bad"
+        ],
+        "explanation": "Weather jest niepoliczalne: such bad weather."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-06",
+        "type": "transform",
+        "prompt": "Przepisz z „such”, zacznij od „It was”.\nThe book was so interesting.",
+        "answer": "It was such an interesting book.",
+        "explanation": "Such an + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-07",
+        "type": "transform",
+        "prompt": "Przepisz z „not ... enough” i słowem „warm”.\nThe water is too cold to swim in.",
+        "answer": "The water is not warm enough to swim in.",
+        "explanation": "Not + przymiotnik + enough."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-08",
+        "type": "tiles",
+        "prompt": "Nie mamy wystarczająco dużo krzeseł.",
+        "answer": [
+          "We",
+          "don't",
+          "have",
+          "enough",
+          "chairs"
+        ],
+        "distractors": [
+          "too",
+          "many"
+        ],
+        "explanation": "Enough + rzeczownik."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-09",
+        "type": "error",
+        "prompt": "There are too much people here.",
+        "answer": [
+          "much",
+          "many"
+        ],
+        "explanation": "People – policzalne: too many."
+      },
+      {
+        "id": "b1-so-such-too-enough-2-10",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z tłumaczeniem.",
+        "answer": [
+          "so ... that|tak ... że",
+          "such ... that|taki ... że",
+          "too ... to|zbyt ... żeby",
+          "enough ... to|wystarczająco ... żeby"
+        ],
+        "explanation": "Konstrukcje."
+      }
+    ]
+  },
+  {
+    "id": "b1-so-such-too-enough-3",
+    "topicId": "b1-so-such-too-enough",
+    "exercises": [
+      {
+        "id": "b1-so-such-too-enough-3-01",
+        "type": "choice",
+        "prompt": "He speaks ___ quickly that I can't understand him.",
+        "answer": "so",
+        "distractors": [
+          "such",
+          "too"
+        ],
+        "explanation": "So + przysłówek + that."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-02",
+        "type": "choice",
+        "prompt": "I've had ___ to eat, thanks.",
+        "answer": "enough",
+        "distractors": [
+          "too",
+          "such"
+        ],
+        "explanation": "Dość: enough."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-03",
+        "type": "choice",
+        "prompt": "This bag is ___ expensive for me.",
+        "answer": "too",
+        "distractors": [
+          "enough",
+          "such"
+        ],
+        "explanation": "Za drogi: too expensive."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-04",
+        "type": "cloze",
+        "prompt": "It was ___ an easy test that everybody passed.",
+        "answer": "such",
+        "explanation": "Such an + przymiotnik + rzeczownik."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-05",
+        "type": "cloze",
+        "prompt": "Are you old ___ to watch this film?",
+        "answer": "enough",
+        "explanation": "Przymiotnik + enough."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-06",
+        "type": "error",
+        "prompt": "She's too young for drive.",
+        "answer": [
+          "for",
+          "to"
+        ],
+        "explanation": "Too + przymiotnik + to + czasownik."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-07",
+        "type": "error",
+        "prompt": "It was such beautiful that I cried.",
+        "answer": [
+          "such",
+          "so"
+        ],
+        "explanation": "Bez rzeczownika: so beautiful."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-08",
+        "type": "tiles",
+        "prompt": "Ten problem jest zbyt trudny dla mnie.",
+        "answer": [
+          "This",
+          "problem",
+          "is",
+          "too",
+          "difficult",
+          "for",
+          "me"
+        ],
+        "distractors": [
+          "enough",
+          "so"
+        ],
+        "explanation": "Too + przymiotnik + for."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-09",
+        "type": "translate",
+        "prompt": "Nie jestem wystarczająco wysoki.",
+        "answer": "I am not tall enough.",
+        "explanation": "Przymiotnik + enough."
+      },
+      {
+        "id": "b1-so-such-too-enough-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „so ... that”.\nIt was very hot. We went to the beach.",
+        "answer": "It was so hot that we went to the beach.",
+        "accept": [
+          "It was so hot we went to the beach."
+        ],
+        "explanation": "So + przymiotnik + that."
+      }
+    ]
+  }
+]

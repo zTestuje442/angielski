@@ -1,0 +1,354 @@
+[
+  {
+    "id": "b1-sent-work-phrases-1",
+    "topicId": "b1-sent-work-phrases",
+    "exercises": [
+      {
+        "id": "b1-sent-work-phrases-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Let's get started.|Zaczynajmy.",
+          "Could you repeat that?|Czy możesz to powtórzyć?",
+          "I agree with you.|Zgadzam się z tobą.",
+          "Let's move on.|Przejdźmy dalej."
+        ],
+        "explanation": "Zwroty ze spotkań."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-02",
+        "type": "choice",
+        "prompt": "I'm sorry to ___, but I have a question.",
+        "answer": "interrupt",
+        "distractors": [
+          "disturb on",
+          "break"
+        ],
+        "explanation": "Przerwać komuś: interrupt."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-03",
+        "type": "choice",
+        "prompt": "I'm afraid I ___ agree.",
+        "answer": "don't",
+        "distractors": [
+          "am not",
+          "not"
+        ],
+        "explanation": "Agree to czasownik: I don't agree."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-04",
+        "type": "cloze",
+        "prompt": "In my ___, we need more time. (zdanie, opinia)",
+        "answer": "opinion",
+        "explanation": "In my opinion."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-05",
+        "type": "cloze",
+        "prompt": "Let's move ___ to the next point.",
+        "answer": "on",
+        "explanation": "Move on to."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-06",
+        "type": "error",
+        "prompt": "I'm agree with Mark.",
+        "answer": [
+          "I'm",
+          "I"
+        ],
+        "explanation": "Agree to czasownik: I agree."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-07",
+        "type": "tiles",
+        "prompt": "Czy możemy wrócić do tego później?",
+        "answer": [
+          "Can",
+          "we",
+          "come",
+          "back",
+          "to",
+          "this",
+          "later"
+        ],
+        "distractors": [
+          "return",
+          "again"
+        ],
+        "explanation": "Wrócić do: come back to."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-08",
+        "type": "translate",
+        "prompt": "Co o tym myślisz?",
+        "answer": "What do you think about it?",
+        "accept": [
+          "What do you think about this?",
+          "What do you think of it?",
+          "What do you think of this?",
+          "What do you think?"
+        ],
+        "explanation": "What do you think about / of...?"
+      },
+      {
+        "id": "b1-sent-work-phrases-1-09",
+        "type": "transform",
+        "prompt": "Wyraź to grzeczniej, zacznij od „I'm afraid”.\nYou're wrong.",
+        "answer": "I am afraid you are wrong.",
+        "accept": [
+          "I am afraid I disagree."
+        ],
+        "explanation": "Łagodzenie: I'm afraid..."
+      },
+      {
+        "id": "b1-sent-work-phrases-1-10",
+        "type": "choice",
+        "prompt": "To ___ up, we need to cut costs.",
+        "answer": "sum",
+        "distractors": [
+          "close",
+          "end"
+        ],
+        "explanation": "Podsumowując: to sum up."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-work-phrases-2",
+    "topicId": "b1-sent-work-phrases",
+    "exercises": [
+      {
+        "id": "b1-sent-work-phrases-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "I'm writing to...|Piszę, aby...",
+          "Please find attached...|W załączeniu przesyłam...",
+          "Could you let me know...?|Czy możesz dać znać...?",
+          "Best regards,|Pozdrawiam"
+        ],
+        "explanation": "Zwroty z e-maili."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-02",
+        "type": "cloze",
+        "prompt": "I'm writing ___ ask about the project.",
+        "answer": "to",
+        "explanation": "Cel: I'm writing to..."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-03",
+        "type": "cloze",
+        "prompt": "Please let me ___ if you have any questions.",
+        "answer": "know",
+        "explanation": "Let me know."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-04",
+        "type": "choice",
+        "prompt": "I look forward to ___ from you.",
+        "answer": "hearing",
+        "distractors": [
+          "hear",
+          "heard"
+        ],
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-05",
+        "type": "choice",
+        "prompt": "Could you send me the report ___ Friday?",
+        "answer": "by",
+        "distractors": [
+          "until",
+          "to"
+        ],
+        "explanation": "Najpóźniej do: by."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-06",
+        "type": "error",
+        "prompt": "Please find attachment the invoice.",
+        "answer": [
+          "attachment",
+          "attached"
+        ],
+        "explanation": "Please find attached..."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-07",
+        "type": "error",
+        "prompt": "Thank you for your quick replay.",
+        "answer": [
+          "replay",
+          "reply"
+        ],
+        "explanation": "Odpowiedź: reply."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-08",
+        "type": "tiles",
+        "prompt": "Daj mi znać, czy ci to pasuje.",
+        "answer": [
+          "Let",
+          "me",
+          "know",
+          "if",
+          "this",
+          "suits",
+          "you"
+        ],
+        "distractors": [
+          "fits",
+          "say"
+        ],
+        "explanation": "Pasować (termin): suit."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-09",
+        "type": "translate",
+        "prompt": "W załączniku przesyłam umowę.",
+        "answer": "Please find the contract attached.",
+        "accept": [
+          "Please find attached the contract.",
+          "The contract is attached.",
+          "I attach the contract.",
+          "I have attached the contract."
+        ],
+        "explanation": "Please find ... attached."
+      },
+      {
+        "id": "b1-sent-work-phrases-2-10",
+        "type": "choice",
+        "prompt": "I apologise ___ the delay.",
+        "answer": "for",
+        "distractors": [
+          "of",
+          "about"
+        ],
+        "explanation": "Apologise for."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-work-phrases-3",
+    "topicId": "b1-sent-work-phrases",
+    "exercises": [
+      {
+        "id": "b1-sent-work-phrases-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Speaking.|Przy telefonie.",
+          "Hold on a moment.|Proszę chwilę poczekać.",
+          "I'll put you through.|Przełączę pana.",
+          "Can I take a message?|Czy mogę przekazać wiadomość?"
+        ],
+        "explanation": "Zwroty telefoniczne."
+      },
+      {
+        "id": "b1-sent-work-phrases-3-02",
+        "type": "cloze",
+        "prompt": "Could I ___ to Ms Nowak, please?",
+        "answer": "speak",
+        "explanation": "Could I speak to...?"
+      },
+      {
+        "id": "b1-sent-work-phrases-3-03",
+        "type": "cloze",
+        "prompt": "I'm afraid she's not ___ at the moment.",
+        "answer": "available",
+        "accept": [
+          "here",
+          "in"
+        ],
+        "explanation": "Niedostępna: not available."
+      },
+      {
+        "id": "b1-sent-work-phrases-3-04",
+        "type": "choice",
+        "prompt": "Who's ___, please?",
+        "answer": "calling",
+        "distractors": [
+          "speaking to",
+          "talking"
+        ],
+        "explanation": "Kto mówi: Who's calling?"
+      },
+      {
+        "id": "b1-sent-work-phrases-3-05",
+        "type": "choice",
+        "prompt": "Could you ___ me back this afternoon?",
+        "answer": "call",
+        "distractors": [
+          "phone to",
+          "ring to"
+        ],
+        "explanation": "Oddzwonić: call back."
+      },
+      {
+        "id": "b1-sent-work-phrases-3-06",
+        "type": "error",
+        "prompt": "Sorry, you have a wrong number.",
+        "answer": [
+          "a",
+          "the"
+        ],
+        "explanation": "Pomyłka: the wrong number."
+      },
+      {
+        "id": "b1-sent-work-phrases-3-07",
+        "type": "error",
+        "prompt": "Can you speak more slow, please?",
+        "answer": [
+          "slow",
+          "slowly"
+        ],
+        "explanation": "Przysłówek: slowly."
+      },
+      {
+        "id": "b1-sent-work-phrases-3-08",
+        "type": "tiles",
+        "prompt": "Przepraszam, nie dosłyszałem.",
+        "answer": [
+          "Sorry",
+          "I",
+          "didn't",
+          "catch",
+          "that"
+        ],
+        "distractors": [
+          "catched",
+          "took"
+        ],
+        "explanation": "Nie dosłyszeć: not catch."
+      },
+      {
+        "id": "b1-sent-work-phrases-3-09",
+        "type": "translate",
+        "prompt": "Czy mogę zostawić wiadomość?",
+        "answer": "Can I leave a message?",
+        "accept": [
+          "Could I leave a message?",
+          "May I leave a message?"
+        ],
+        "explanation": "Zostawić wiadomość: leave a message."
+      },
+      {
+        "id": "b1-sent-work-phrases-3-10",
+        "type": "transform",
+        "prompt": "Zmień na grzeczne pytanie, zacznij od „Could you”.\nSpell your name.",
+        "answer": "Could you spell your name, please?",
+        "accept": [
+          "Could you spell your name?",
+          "Could you please spell your name?",
+          "Could you spell your name please?"
+        ],
+        "explanation": "Could you..., please?"
+      }
+    ]
+  }
+]

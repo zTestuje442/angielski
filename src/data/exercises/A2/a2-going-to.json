@@ -1,0 +1,306 @@
+[
+  {
+    "id": "a2-going-to-1",
+    "topicId": "a2-going-to",
+    "exercises": [
+      {
+        "id": "a2-going-to-1-01",
+        "type": "cloze",
+        "prompt": "I ___ going to visit my grandma tomorrow.",
+        "answer": "am",
+        "explanation": "I + am + going to."
+      },
+      {
+        "id": "a2-going-to-1-02",
+        "type": "cloze",
+        "prompt": "They are ___ to buy a new car.",
+        "answer": "going",
+        "explanation": "Be going to."
+      },
+      {
+        "id": "a2-going-to-1-03",
+        "type": "cloze",
+        "prompt": "She is going ___ study medicine.",
+        "answer": "to",
+        "explanation": "Going to + czasownik."
+      },
+      {
+        "id": "a2-going-to-1-04",
+        "type": "choice",
+        "prompt": "We ___ going to watch a film tonight.",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "will"
+        ],
+        "explanation": "We + are + going to."
+      },
+      {
+        "id": "a2-going-to-1-05",
+        "type": "choice",
+        "prompt": "Look at those clouds! It ___ rain.",
+        "answer": "is going to",
+        "distractors": [
+          "going to",
+          "goes to"
+        ],
+        "explanation": "Widać chmury: is going to."
+      },
+      {
+        "id": "a2-going-to-1-06",
+        "type": "match",
+        "prompt": "Połącz polskie formy z angielskimi.",
+        "answer": [
+          "zamierzam|I am going to",
+          "zamierzasz|you are going to",
+          "on zamierza|he is going to",
+          "oni zamierzają|they are going to"
+        ],
+        "explanation": "Am/is/are + going to."
+      },
+      {
+        "id": "a2-going-to-1-07",
+        "type": "error",
+        "prompt": "He is going to plays tennis.",
+        "answer": [
+          "plays",
+          "play"
+        ],
+        "explanation": "Po going to forma podstawowa."
+      },
+      {
+        "id": "a2-going-to-1-08",
+        "type": "tiles",
+        "prompt": "Zamierzam nauczyć się gotować.",
+        "answer": [
+          "I",
+          "am",
+          "going",
+          "to",
+          "learn",
+          "to",
+          "cook"
+        ],
+        "explanation": "Am going to + learn."
+      },
+      {
+        "id": "a2-going-to-1-09",
+        "type": "translate",
+        "prompt": "Co zamierzasz robić w weekend?",
+        "answer": "What are you going to do at the weekend?",
+        "accept": [
+          "What are you going to do this weekend?",
+          "What are you going to do on the weekend?"
+        ],
+        "explanation": "What + are + you + going to do."
+      },
+      {
+        "id": "a2-going-to-1-10",
+        "type": "transform",
+        "prompt": "Zapisz jako plan z „going to”.\nI want to paint my room.",
+        "answer": "I am going to paint my room.",
+        "explanation": "Am going to + paint."
+      }
+    ]
+  },
+  {
+    "id": "a2-going-to-2",
+    "topicId": "a2-going-to",
+    "exercises": [
+      {
+        "id": "a2-going-to-2-01",
+        "type": "cloze",
+        "prompt": "I'm not ___ to tell him.",
+        "answer": "going",
+        "explanation": "Not going to."
+      },
+      {
+        "id": "a2-going-to-2-02",
+        "type": "cloze",
+        "prompt": "___ you going to call her?",
+        "answer": "Are",
+        "explanation": "Pytanie: Are + you + going to."
+      },
+      {
+        "id": "a2-going-to-2-03",
+        "type": "cloze",
+        "prompt": "Is it going to snow? — No, it ___.",
+        "answer": "isn't",
+        "explanation": "Krótka odpowiedź: No, it isn't."
+      },
+      {
+        "id": "a2-going-to-2-04",
+        "type": "choice",
+        "prompt": "She ___ going to come. She's ill.",
+        "answer": "isn't",
+        "distractors": [
+          "doesn't",
+          "won't"
+        ],
+        "explanation": "She + isn't + going to."
+      },
+      {
+        "id": "a2-going-to-2-05",
+        "type": "choice",
+        "prompt": "When ___ they going to arrive?",
+        "answer": "are",
+        "distractors": [
+          "do",
+          "is"
+        ],
+        "explanation": "They + are."
+      },
+      {
+        "id": "a2-going-to-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nWe are going to stay at home.",
+        "answer": "We are not going to stay at home.",
+        "explanation": "Are not + going to."
+      },
+      {
+        "id": "a2-going-to-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nHe is going to sell his bike.",
+        "answer": "Is he going to sell his bike?",
+        "explanation": "Is przechodzi przed podmiot."
+      },
+      {
+        "id": "a2-going-to-2-08",
+        "type": "tiles",
+        "prompt": "Czy zamierzasz to kupić?",
+        "answer": [
+          "Are",
+          "you",
+          "going",
+          "to",
+          "buy",
+          "it"
+        ],
+        "explanation": "Are + you + going to."
+      },
+      {
+        "id": "a2-going-to-2-09",
+        "type": "error",
+        "prompt": "Are she going to help us?",
+        "answer": [
+          "Are",
+          "Is"
+        ],
+        "explanation": "She + is."
+      },
+      {
+        "id": "a2-going-to-2-10",
+        "type": "translate",
+        "prompt": "Nie zamierzam czekać.",
+        "answer": "I am not going to wait.",
+        "explanation": "Am not going to."
+      }
+    ]
+  },
+  {
+    "id": "a2-going-to-3",
+    "topicId": "a2-going-to",
+    "exercises": [
+      {
+        "id": "a2-going-to-3-01",
+        "type": "choice",
+        "prompt": "Be careful! You ___ fall!",
+        "answer": "are going to",
+        "distractors": [
+          "going to",
+          "are go to"
+        ],
+        "explanation": "Widać, co się stanie: are going to."
+      },
+      {
+        "id": "a2-going-to-3-02",
+        "type": "choice",
+        "prompt": "The sky is grey. It ___ rain.",
+        "answer": "is going to",
+        "distractors": [
+          "going",
+          "goes"
+        ],
+        "explanation": "Przewidywanie z tego, co widać."
+      },
+      {
+        "id": "a2-going-to-3-03",
+        "type": "cloze",
+        "prompt": "She's pregnant. She is ___ to have a baby.",
+        "answer": "going",
+        "explanation": "Przewidywanie: going to."
+      },
+      {
+        "id": "a2-going-to-3-04",
+        "type": "cloze",
+        "prompt": "We're late. We ___ going to miss the train!",
+        "answer": "are",
+        "explanation": "We + are."
+      },
+      {
+        "id": "a2-going-to-3-05",
+        "type": "match",
+        "prompt": "Połącz sytuacje z przewidywaniem.",
+        "answer": [
+          "Look at the clouds.|It's going to rain.",
+          "He's running too fast.|He's going to fall.",
+          "I've bought some paint.|I'm going to paint the kitchen.",
+          "She's got her books.|She's going to study."
+        ],
+        "explanation": "Z tego, co widać, wynika, co się stanie."
+      },
+      {
+        "id": "a2-going-to-3-06",
+        "type": "error",
+        "prompt": "I going to see a film tonight.",
+        "answer": [
+          "going",
+          "am going"
+        ],
+        "explanation": "Brakuje am: I am going to."
+      },
+      {
+        "id": "a2-going-to-3-07",
+        "type": "error",
+        "prompt": "They is going to win.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "They + are."
+      },
+      {
+        "id": "a2-going-to-3-08",
+        "type": "tiles",
+        "prompt": "Ona zamierza zostać lekarką.",
+        "answer": [
+          "She",
+          "is",
+          "going",
+          "to",
+          "become",
+          "a",
+          "doctor"
+        ],
+        "explanation": "Is going to + become."
+      },
+      {
+        "id": "a2-going-to-3-09",
+        "type": "translate",
+        "prompt": "Zaraz będzie padać.",
+        "answer": "It is going to rain.",
+        "accept": [
+          "It is about to rain."
+        ],
+        "explanation": "Widać deszcz: is going to."
+      },
+      {
+        "id": "a2-going-to-3-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „they”.\nI am going to travel.",
+        "answer": "They are going to travel.",
+        "explanation": "They + are."
+      }
+    ]
+  }
+]

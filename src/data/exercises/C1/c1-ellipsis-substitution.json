@@ -1,0 +1,335 @@
+[
+  {
+    "id": "c1-ellipsis-substitution-1",
+    "topicId": "c1-ellipsis-substitution",
+    "exercises": [
+      {
+        "id": "c1-ellipsis-substitution-1-01",
+        "type": "cloze",
+        "prompt": "I don't like the blue shirt. I prefer the red ___.",
+        "answer": "one",
+        "explanation": "One zamiast rzeczownika."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-02",
+        "type": "cloze",
+        "prompt": "\"Will it rain tomorrow?\" \"I hope ___.\" (nie)",
+        "answer": "not",
+        "explanation": "I hope not."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-03",
+        "type": "choice",
+        "prompt": "I love jazz. – So ___ I.",
+        "answer": "do",
+        "distractors": [
+          "am",
+          "love"
+        ],
+        "explanation": "So + do + I."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-04",
+        "type": "choice",
+        "prompt": "\"Is she coming?\" \"I think ___.\"",
+        "answer": "so",
+        "distractors": [
+          "it",
+          "yes"
+        ],
+        "explanation": "I think so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-05",
+        "type": "choice",
+        "prompt": "I can't swim. – ___ can I.",
+        "answer": "Neither",
+        "distractors": [
+          "So",
+          "Either"
+        ],
+        "explanation": "Neither can I."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "I hope so.|Mam nadzieję, że tak.",
+          "I'm afraid not.|Obawiam się, że nie.",
+          "So do I.|Ja też.",
+          "Neither do I.|Ja też nie."
+        ],
+        "explanation": "Substytucja."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-07",
+        "type": "error",
+        "prompt": "These shoes are more comfortable than the old one.",
+        "answer": [
+          "one",
+          "ones"
+        ],
+        "explanation": "Liczba mnoga: ones."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-08",
+        "type": "tiles",
+        "prompt": "Nie chciałem iść ale musiałem.",
+        "answer": [
+          "I",
+          "didn't",
+          "want",
+          "to",
+          "go",
+          "but",
+          "I",
+          "had",
+          "to"
+        ],
+        "distractors": [
+          "going",
+          "must"
+        ],
+        "explanation": "Elipsa po to."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-09",
+        "type": "translate",
+        "prompt": "Chętnie! (na zaproszenie: Would you like to come?)",
+        "answer": "I would love to.",
+        "accept": [
+          "I'd love to.",
+          "I'd love to!",
+          "I would love to!"
+        ],
+        "explanation": "Elipsa po to: I'd love to."
+      },
+      {
+        "id": "c1-ellipsis-substitution-1-10",
+        "type": "transform",
+        "prompt": "Zastąp powtórzenie słowem „ones”.\nI don't like these apples. Give me the green apples.",
+        "answer": "I don't like these apples. Give me the green ones.",
+        "explanation": "Ones zamiast rzeczownika w l. mn."
+      }
+    ]
+  },
+  {
+    "id": "c1-ellipsis-substitution-2",
+    "topicId": "c1-ellipsis-substitution",
+    "exercises": [
+      {
+        "id": "c1-ellipsis-substitution-2-01",
+        "type": "cloze",
+        "prompt": "\"Have you finished?\" \"Yes, I ___.\"",
+        "answer": "have",
+        "explanation": "Elipsa po posiłkowym."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-02",
+        "type": "cloze",
+        "prompt": "He promised to help, and he did ___.",
+        "answer": "so",
+        "explanation": "Do so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-03",
+        "type": "choice",
+        "prompt": "\"Is the shop open?\" \"I'm afraid ___.\"",
+        "answer": "not",
+        "distractors": [
+          "no",
+          "it isn't so"
+        ],
+        "explanation": "I'm afraid not."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-04",
+        "type": "choice",
+        "prompt": "Are you free tonight? If ___, let's go out.",
+        "answer": "so",
+        "distractors": [
+          "yes",
+          "it"
+        ],
+        "explanation": "If so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-05",
+        "type": "choice",
+        "prompt": "She can't come, but I ___.",
+        "answer": "can",
+        "distractors": [
+          "come",
+          "can come it"
+        ],
+        "explanation": "Elipsa po modalnym."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-06",
+        "type": "transform",
+        "prompt": "Skróć odpowiedź, użyj „think so”.\n\"Is he at home?\" \"I think that he is at home.\"",
+        "answer": "I think so.",
+        "explanation": "I think so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-07",
+        "type": "transform",
+        "prompt": "Zareaguj zgodą, użyj „Neither”.\nI haven't seen that film.",
+        "answer": "Neither have I.",
+        "accept": [
+          "Nor have I."
+        ],
+        "explanation": "Neither + have + I."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-08",
+        "type": "tiles",
+        "prompt": "Ona lubi kawę a ja też.",
+        "answer": [
+          "She",
+          "likes",
+          "coffee",
+          "and",
+          "so",
+          "do",
+          "I"
+        ],
+        "distractors": [
+          "like",
+          "am"
+        ],
+        "explanation": "So do I."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-09",
+        "type": "error",
+        "prompt": "I don't eat meat and neither do my wife.",
+        "answer": [
+          "do",
+          "does"
+        ],
+        "explanation": "Neither + does (my wife = she)."
+      },
+      {
+        "id": "c1-ellipsis-substitution-2-10",
+        "type": "translate",
+        "prompt": "Mam nadzieję, że nie.",
+        "answer": "I hope not.",
+        "explanation": "I hope not."
+      }
+    ]
+  },
+  {
+    "id": "c1-ellipsis-substitution-3",
+    "topicId": "c1-ellipsis-substitution",
+    "exercises": [
+      {
+        "id": "c1-ellipsis-substitution-3-01",
+        "type": "choice",
+        "prompt": "\"Will you be there?\" \"I expect ___.\"",
+        "answer": "so",
+        "distractors": [
+          "it",
+          "that"
+        ],
+        "explanation": "I expect so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-02",
+        "type": "choice",
+        "prompt": "If you haven't done it yet, please ___ now.",
+        "answer": "do so",
+        "distractors": [
+          "do it so",
+          "make so"
+        ],
+        "explanation": "Do so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-03",
+        "type": "cloze",
+        "prompt": "You can borrow my pen if you haven't got ___. (jakiś)",
+        "answer": "one",
+        "explanation": "One zamiast a pen."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-04",
+        "type": "cloze",
+        "prompt": "I wanted to visit her, but I didn't have time ___. (to)",
+        "answer": "to",
+        "explanation": "Elipsa po to."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-05",
+        "type": "cloze",
+        "prompt": "\"Is it going to be difficult?\" \"I suppose ___.\"",
+        "answer": "so",
+        "accept": [
+          "not"
+        ],
+        "explanation": "I suppose so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "If so, ...|Jeśli tak, ...",
+          "If not, ...|Jeśli nie, ...",
+          "I'd love to.|Chętnie.",
+          "I'd rather not.|Wolałbym nie."
+        ],
+        "explanation": "Krótkie odpowiedzi."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-07",
+        "type": "error",
+        "prompt": "I like this car more than that ones.",
+        "answer": [
+          "ones",
+          "one"
+        ],
+        "explanation": "Liczba pojedyncza: that one."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-08",
+        "type": "error",
+        "prompt": "\"Are you coming?\" \"I don't think it.\"",
+        "answer": [
+          "it",
+          "so"
+        ],
+        "explanation": "I don't think so."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-09",
+        "type": "tiles",
+        "prompt": "Jeśli nie, zadzwoń do mnie.",
+        "answer": [
+          "If",
+          "not",
+          "call",
+          "me"
+        ],
+        "distractors": [
+          "no",
+          "isn't"
+        ],
+        "explanation": "If not."
+      },
+      {
+        "id": "c1-ellipsis-substitution-3-10",
+        "type": "translate",
+        "prompt": "Ja też nie umiem pływać.",
+        "answer": "Neither can I.",
+        "accept": [
+          "Nor can I.",
+          "I can't swim either.",
+          "I cannot swim either."
+        ],
+        "explanation": "Neither can I."
+      }
+    ]
+  }
+]

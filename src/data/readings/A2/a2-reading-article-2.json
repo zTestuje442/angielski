@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-article-2",
+  "topicId": "a2-reading-article",
+  "title": "A day with a zookeeper",
+  "text": "Anna Kowalska is 34 and she works at a zoo. She looks after the giraffes and zebras. We asked her about her job.\n\nWhat time does your day start?\nI start work at 7 a.m. First, I check all the animals. I look at their eyes, legs and skin to see if they are healthy. Then I clean their houses. It's not the nicest part of the job, but it's very important.\n\nWhat do the animals eat?\nGiraffes eat leaves, hay and vegetables. A giraffe can eat about 30 kilos of food a day! In summer, visitors can feed them in the afternoon, but only with special food from us.\n\nWhat do you like most about your job?\nEvery animal has its own personality. Our oldest giraffe, Mira, is very calm, but the young ones are curious and sometimes naughty. I love watching them.\n\nIs there anything you don't like?\nWinter is hard. I work outside in the cold and the rain. And I don't have much time for holidays – the animals need us every day.\n\nWhat do you need to become a zookeeper?\nYou need to love animals, of course, and you need to be strong and patient. Most zookeepers study biology or work as volunteers first.",
+  "exercises": [
+    {
+      "id": "a2-reading-article-2-01",
+      "type": "choice",
+      "prompt": "Anna looks after lions.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Anna opiekuje się żyrafami i zebrami."
+    },
+    {
+      "id": "a2-reading-article-2-02",
+      "type": "choice",
+      "prompt": "Anna starts work at seven o'clock.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„I start work at 7 a.m.”"
+    },
+    {
+      "id": "a2-reading-article-2-03",
+      "type": "choice",
+      "prompt": "Anna has worked at the zoo for ten years.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, od kiedy Anna tam pracuje."
+    },
+    {
+      "id": "a2-reading-article-2-04",
+      "type": "choice",
+      "prompt": "What does Anna do first every day?",
+      "answer": "She checks the animals.",
+      "distractors": [
+        "She cleans the houses.",
+        "She feeds the visitors."
+      ],
+      "explanation": "„First, I check all the animals.”"
+    },
+    {
+      "id": "a2-reading-article-2-05",
+      "type": "choice",
+      "prompt": "What is Mira like?",
+      "answer": "calm",
+      "distractors": [
+        "naughty",
+        "curious"
+      ],
+      "explanation": "„Our oldest giraffe, Mira, is very calm...”"
+    },
+    {
+      "id": "a2-reading-article-2-06",
+      "type": "choice",
+      "prompt": "Why is winter hard for Anna?",
+      "answer": "She works outside in the cold and rain.",
+      "distractors": [
+        "The animals don't eat.",
+        "There are a lot of visitors."
+      ],
+      "explanation": "„I work outside in the cold and the rain.”"
+    },
+    {
+      "id": "a2-reading-article-2-07",
+      "type": "cloze",
+      "prompt": "A giraffe can eat about 30 kilos of ___ a day.",
+      "answer": "food",
+      "explanation": "Około 30 kg jedzenia dziennie."
+    },
+    {
+      "id": "a2-reading-article-2-08",
+      "type": "cloze",
+      "prompt": "You need to be strong and ___.",
+      "answer": "patient",
+      "explanation": "Cierpliwy: patient."
+    },
+    {
+      "id": "a2-reading-article-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "look after|opiekować się",
+        "healthy|zdrowy",
+        "curious|ciekawski",
+        "volunteer|wolontariusz"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

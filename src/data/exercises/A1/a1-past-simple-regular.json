@@ -1,0 +1,310 @@
+[
+  {
+    "id": "a1-past-simple-regular-1",
+    "topicId": "a1-past-simple-regular",
+    "exercises": [
+      {
+        "id": "a1-past-simple-regular-1-01",
+        "type": "cloze",
+        "prompt": "I ___ my grandma yesterday. (visit)",
+        "answer": "visited",
+        "explanation": "Visit + -ed."
+      },
+      {
+        "id": "a1-past-simple-regular-1-02",
+        "type": "cloze",
+        "prompt": "We ___ TV last night. (watch)",
+        "answer": "watched",
+        "explanation": "Watch + -ed."
+      },
+      {
+        "id": "a1-past-simple-regular-1-03",
+        "type": "cloze",
+        "prompt": "She ___ the room. (clean)",
+        "answer": "cleaned",
+        "explanation": "Clean + -ed."
+      },
+      {
+        "id": "a1-past-simple-regular-1-04",
+        "type": "choice",
+        "prompt": "He ___ in London in 2010.",
+        "answer": "lived",
+        "distractors": [
+          "live",
+          "lives"
+        ],
+        "explanation": "In 2010 – przeszłość: lived."
+      },
+      {
+        "id": "a1-past-simple-regular-1-05",
+        "type": "choice",
+        "prompt": "They ___ football after school yesterday.",
+        "answer": "played",
+        "distractors": [
+          "play",
+          "playing"
+        ],
+        "explanation": "Yesterday – przeszłość: played."
+      },
+      {
+        "id": "a1-past-simple-regular-1-06",
+        "type": "match",
+        "prompt": "Połącz czasownik z formą przeszłą.",
+        "answer": [
+          "stop|stopped",
+          "study|studied",
+          "like|liked",
+          "plan|planned"
+        ],
+        "explanation": "Podwojenie, -ied, samo -d."
+      },
+      {
+        "id": "a1-past-simple-regular-1-07",
+        "type": "tiles",
+        "prompt": "Wczoraj pracowałem do piątej.",
+        "answer": [
+          "I",
+          "worked",
+          "until",
+          "five",
+          "yesterday"
+        ],
+        "accept": [
+          "Yesterday I worked until five"
+        ],
+        "explanation": "Work + -ed."
+      },
+      {
+        "id": "a1-past-simple-regular-1-08",
+        "type": "error",
+        "prompt": "She cook dinner yesterday.",
+        "answer": [
+          "cook",
+          "cooked"
+        ],
+        "explanation": "Yesterday – potrzebny czas przeszły: cooked."
+      },
+      {
+        "id": "a1-past-simple-regular-1-09",
+        "type": "translate",
+        "prompt": "Zadzwoniłem do niej wczoraj.",
+        "answer": "I called her yesterday.",
+        "accept": [
+          "I phoned her yesterday.",
+          "Yesterday I called her.",
+          "Yesterday I phoned her."
+        ],
+        "explanation": "Call + -ed."
+      },
+      {
+        "id": "a1-past-simple-regular-1-10",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły i dodaj „last week” na końcu.\nI help my dad.",
+        "answer": "I helped my dad last week.",
+        "explanation": "Help + -ed."
+      }
+    ]
+  },
+  {
+    "id": "a1-past-simple-regular-2",
+    "topicId": "a1-past-simple-regular",
+    "exercises": [
+      {
+        "id": "a1-past-simple-regular-2-01",
+        "type": "cloze",
+        "prompt": "I ___ like the film.",
+        "answer": "didn't",
+        "explanation": "Przeczenie: didn't + forma podstawowa."
+      },
+      {
+        "id": "a1-past-simple-regular-2-02",
+        "type": "cloze",
+        "prompt": "___ you enjoy the party?",
+        "answer": "Did",
+        "explanation": "Pytanie: Did + podmiot + forma podstawowa."
+      },
+      {
+        "id": "a1-past-simple-regular-2-03",
+        "type": "cloze",
+        "prompt": "Did she call you? — Yes, she ___.",
+        "answer": "did",
+        "explanation": "Krótka odpowiedź: Yes, she did."
+      },
+      {
+        "id": "a1-past-simple-regular-2-04",
+        "type": "choice",
+        "prompt": "We didn't ___ the bus.",
+        "answer": "miss",
+        "distractors": [
+          "missed",
+          "missing"
+        ],
+        "explanation": "Po didn't forma podstawowa."
+      },
+      {
+        "id": "a1-past-simple-regular-2-05",
+        "type": "choice",
+        "prompt": "What time ___ the train arrive?",
+        "answer": "did",
+        "distractors": [
+          "was",
+          "do"
+        ],
+        "explanation": "Pytanie w przeszłości: did."
+      },
+      {
+        "id": "a1-past-simple-regular-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nHe opened the window.",
+        "answer": "He did not open the window.",
+        "explanation": "Didn't + open (bez -ed)."
+      },
+      {
+        "id": "a1-past-simple-regular-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThey arrived late.",
+        "answer": "Did they arrive late?",
+        "explanation": "Did + they + arrive."
+      },
+      {
+        "id": "a1-past-simple-regular-2-08",
+        "type": "tiles",
+        "prompt": "Czy oglądałeś mecz?",
+        "answer": [
+          "Did",
+          "you",
+          "watch",
+          "the",
+          "match"
+        ],
+        "explanation": "Did + you + watch."
+      },
+      {
+        "id": "a1-past-simple-regular-2-09",
+        "type": "error",
+        "prompt": "Did you listened to me?",
+        "answer": [
+          "listened",
+          "listen"
+        ],
+        "explanation": "Po did forma podstawowa."
+      },
+      {
+        "id": "a1-past-simple-regular-2-10",
+        "type": "translate",
+        "prompt": "Nie czekaliśmy długo.",
+        "answer": "We did not wait long.",
+        "accept": [
+          "We did not wait for long."
+        ],
+        "explanation": "Didn't + wait."
+      }
+    ]
+  },
+  {
+    "id": "a1-past-simple-regular-3",
+    "topicId": "a1-past-simple-regular",
+    "exercises": [
+      {
+        "id": "a1-past-simple-regular-3-01",
+        "type": "cloze",
+        "prompt": "The train ___ at the station. (stop)",
+        "answer": "stopped",
+        "explanation": "Stop → stopped (podwójne p)."
+      },
+      {
+        "id": "a1-past-simple-regular-3-02",
+        "type": "cloze",
+        "prompt": "I ___ hard for the test. (study)",
+        "answer": "studied",
+        "explanation": "Study → studied."
+      },
+      {
+        "id": "a1-past-simple-regular-3-03",
+        "type": "cloze",
+        "prompt": "She ___ to Spain two years ago. (travel)",
+        "answer": "travelled",
+        "accept": [
+          "traveled"
+        ],
+        "explanation": "Travel → travelled (w amerykańskim: traveled)."
+      },
+      {
+        "id": "a1-past-simple-regular-3-04",
+        "type": "choice",
+        "prompt": "We moved here three years ___.",
+        "answer": "ago",
+        "distractors": [
+          "before",
+          "last"
+        ],
+        "explanation": "Trzy lata temu: three years ago."
+      },
+      {
+        "id": "a1-past-simple-regular-3-05",
+        "type": "choice",
+        "prompt": "I ___ my homework last night.",
+        "answer": "finished",
+        "distractors": [
+          "finish",
+          "finishd"
+        ],
+        "explanation": "Finish + -ed."
+      },
+      {
+        "id": "a1-past-simple-regular-3-06",
+        "type": "tiles",
+        "prompt": "Zamknęła drzwi.",
+        "answer": [
+          "She",
+          "closed",
+          "the",
+          "door"
+        ],
+        "explanation": "Close + -d."
+      },
+      {
+        "id": "a1-past-simple-regular-3-07",
+        "type": "error",
+        "prompt": "He tryed to help.",
+        "answer": [
+          "tryed",
+          "tried"
+        ],
+        "explanation": "Try → tried."
+      },
+      {
+        "id": "a1-past-simple-regular-3-08",
+        "type": "error",
+        "prompt": "I watch a great film last night.",
+        "answer": [
+          "watch",
+          "watched"
+        ],
+        "explanation": "Last night – czas przeszły."
+      },
+      {
+        "id": "a1-past-simple-regular-3-09",
+        "type": "translate",
+        "prompt": "Mieszkali w Krakowie pięć lat temu.",
+        "answer": "They lived in Kraków five years ago.",
+        "accept": [
+          "They lived in Krakow five years ago."
+        ],
+        "explanation": "Live + -d; temu = ago."
+      },
+      {
+        "id": "a1-past-simple-regular-3-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "yesterday|wczoraj",
+          "last night|wczoraj wieczorem",
+          "two days ago|dwa dni temu",
+          "last year|w zeszłym roku"
+        ],
+        "explanation": "Określenia czasu dla Past Simple."
+      }
+    ]
+  }
+]

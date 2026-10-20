@@ -1,0 +1,316 @@
+[
+  {
+    "id": "a2-vocab-jobs-1",
+    "topicId": "a2-vocab-jobs",
+    "exercises": [
+      {
+        "id": "a2-vocab-jobs-1-01",
+        "type": "match",
+        "prompt": "Połącz zawody z tłumaczeniem.",
+        "answer": [
+          "nurse|pielęgniarka",
+          "lawyer|prawnik",
+          "plumber|hydraulik",
+          "waiter|kelner"
+        ],
+        "explanation": "Zawody."
+      },
+      {
+        "id": "a2-vocab-jobs-1-02",
+        "type": "choice",
+        "prompt": "A ___ works in a school.",
+        "answer": "teacher",
+        "distractors": [
+          "farmer",
+          "pilot"
+        ],
+        "explanation": "W szkole pracuje nauczyciel."
+      },
+      {
+        "id": "a2-vocab-jobs-1-03",
+        "type": "choice",
+        "prompt": "A ___ flies planes.",
+        "answer": "pilot",
+        "distractors": [
+          "driver",
+          "sailor"
+        ],
+        "explanation": "Samoloty pilotuje pilot."
+      },
+      {
+        "id": "a2-vocab-jobs-1-04",
+        "type": "cloze",
+        "prompt": "My mum is a ___. She works in a hospital and helps doctors.",
+        "answer": "nurse",
+        "explanation": "Pielęgniarka: nurse."
+      },
+      {
+        "id": "a2-vocab-jobs-1-05",
+        "type": "cloze",
+        "prompt": "A ___ repairs cars. (mechanik)",
+        "answer": "mechanic",
+        "explanation": "Mechanik: mechanic."
+      },
+      {
+        "id": "a2-vocab-jobs-1-06",
+        "type": "error",
+        "prompt": "She is a doctor in a restaurant – she cooks food.",
+        "answer": [
+          "doctor",
+          "chef"
+        ],
+        "accept": [
+          "cook"
+        ],
+        "explanation": "W restauracji gotuje kucharz: chef (albo cook)."
+      },
+      {
+        "id": "a2-vocab-jobs-1-07",
+        "type": "tiles",
+        "prompt": "Czym się zajmujesz?",
+        "answer": [
+          "What",
+          "do",
+          "you",
+          "do"
+        ],
+        "explanation": "Pytanie o zawód: What do you do?"
+      },
+      {
+        "id": "a2-vocab-jobs-1-08",
+        "type": "translate",
+        "prompt": "Mój tata jest kierowcą autobusu.",
+        "answer": "My dad is a bus driver.",
+        "accept": [
+          "My father is a bus driver."
+        ],
+        "explanation": "Zawód z a."
+      },
+      {
+        "id": "a2-vocab-jobs-1-09",
+        "type": "transform",
+        "prompt": "Utwórz nazwę zawodu.\nteach",
+        "answer": "teacher",
+        "explanation": "Teach + -er."
+      },
+      {
+        "id": "a2-vocab-jobs-1-10",
+        "type": "choice",
+        "prompt": "What does your sister ___? — She's a vet.",
+        "answer": "do",
+        "distractors": [
+          "make",
+          "work"
+        ],
+        "explanation": "What does she do?"
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-jobs-2",
+    "topicId": "a2-vocab-jobs",
+    "exercises": [
+      {
+        "id": "a2-vocab-jobs-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "salary|pensja",
+          "boss|szef",
+          "colleague|współpracownik",
+          "office|biuro"
+        ],
+        "explanation": "Słowa z pracy."
+      },
+      {
+        "id": "a2-vocab-jobs-2-02",
+        "type": "cloze",
+        "prompt": "I work ___ a big company. (dla)",
+        "answer": "for",
+        "explanation": "Pracować dla: work for."
+      },
+      {
+        "id": "a2-vocab-jobs-2-03",
+        "type": "cloze",
+        "prompt": "She works ___ home three days a week. (z)",
+        "answer": "from",
+        "explanation": "Pracować z domu: work from home."
+      },
+      {
+        "id": "a2-vocab-jobs-2-04",
+        "type": "choice",
+        "prompt": "He's looking for a new ___.",
+        "answer": "job",
+        "distractors": [
+          "work",
+          "worker"
+        ],
+        "explanation": "Konkretna posada: a job."
+      },
+      {
+        "id": "a2-vocab-jobs-2-05",
+        "type": "choice",
+        "prompt": "Nurses often work at night. They work ___.",
+        "answer": "shifts",
+        "distractors": [
+          "hours",
+          "times"
+        ],
+        "explanation": "Zmiany: shifts."
+      },
+      {
+        "id": "a2-vocab-jobs-2-06",
+        "type": "error",
+        "prompt": "I have a lot of works today.",
+        "answer": [
+          "works",
+          "work"
+        ],
+        "explanation": "Work jest niepoliczalne."
+      },
+      {
+        "id": "a2-vocab-jobs-2-07",
+        "type": "tiles",
+        "prompt": "Ona pracuje jako recepcjonistka.",
+        "answer": [
+          "She",
+          "works",
+          "as",
+          "a",
+          "receptionist"
+        ],
+        "explanation": "Pracować jako: work as."
+      },
+      {
+        "id": "a2-vocab-jobs-2-08",
+        "type": "translate",
+        "prompt": "Lubię swoją pracę.",
+        "answer": "I like my job.",
+        "accept": [
+          "I like my work."
+        ],
+        "explanation": "Moja praca: my job."
+      },
+      {
+        "id": "a2-vocab-jobs-2-09",
+        "type": "transform",
+        "prompt": "Utwórz nazwę osoby od słowa.\nart",
+        "answer": "artist",
+        "explanation": "Art + -ist."
+      },
+      {
+        "id": "a2-vocab-jobs-2-10",
+        "type": "choice",
+        "prompt": "A person who designs buildings is an ___.",
+        "answer": "architect",
+        "distractors": [
+          "engineer",
+          "artist"
+        ],
+        "explanation": "Budynki projektuje architekt."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-jobs-3",
+    "topicId": "a2-vocab-jobs",
+    "exercises": [
+      {
+        "id": "a2-vocab-jobs-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "apply for|ubiegać się o",
+          "interview|rozmowa kwalifikacyjna",
+          "CV|życiorys",
+          "full-time|na pełny etat"
+        ],
+        "explanation": "Szukanie pracy."
+      },
+      {
+        "id": "a2-vocab-jobs-3-02",
+        "type": "cloze",
+        "prompt": "I'm going to ___ for a job in a bank.",
+        "answer": "apply",
+        "explanation": "Ubiegać się: apply for."
+      },
+      {
+        "id": "a2-vocab-jobs-3-03",
+        "type": "cloze",
+        "prompt": "I have a job ___ tomorrow. (rozmowa)",
+        "answer": "interview",
+        "explanation": "Rozmowa kwalifikacyjna: interview."
+      },
+      {
+        "id": "a2-vocab-jobs-3-04",
+        "type": "choice",
+        "prompt": "She works ___-time, only in the mornings.",
+        "answer": "part",
+        "distractors": [
+          "half",
+          "full"
+        ],
+        "explanation": "Pół etatu: part-time."
+      },
+      {
+        "id": "a2-vocab-jobs-3-05",
+        "type": "choice",
+        "prompt": "He was ___ last year, so now he's looking for a job.",
+        "answer": "unemployed",
+        "distractors": [
+          "employed",
+          "employer"
+        ],
+        "explanation": "Bezrobotny: unemployed."
+      },
+      {
+        "id": "a2-vocab-jobs-3-06",
+        "type": "error",
+        "prompt": "He works like a teacher.",
+        "answer": [
+          "like",
+          "as"
+        ],
+        "explanation": "Jako zawód: work as."
+      },
+      {
+        "id": "a2-vocab-jobs-3-07",
+        "type": "error",
+        "prompt": "I'm going to apply to a job in London.",
+        "answer": [
+          "to",
+          "for"
+        ],
+        "explanation": "Apply for a job."
+      },
+      {
+        "id": "a2-vocab-jobs-3-08",
+        "type": "tiles",
+        "prompt": "Szukam pracy na pół etatu.",
+        "answer": [
+          "I'm",
+          "looking",
+          "for",
+          "a",
+          "part-time",
+          "job"
+        ],
+        "explanation": "Part-time job."
+      },
+      {
+        "id": "a2-vocab-jobs-3-09",
+        "type": "translate",
+        "prompt": "Gdzie pracujesz?",
+        "answer": "Where do you work?",
+        "explanation": "Where + do + you + work."
+      },
+      {
+        "id": "a2-vocab-jobs-3-10",
+        "type": "transform",
+        "prompt": "Utwórz nazwę osoby (pracodawca).\nemploy",
+        "answer": "employer",
+        "explanation": "Employ + -er = pracodawca; -ee = pracownik."
+      }
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-article-3",
+  "topicId": "c1-reading-article",
+  "title": "The quiet comeback of repair",
+  "text": "For most of the twentieth century, repairing things was simply part of life. People darned socks, resoled shoes and took their radios to the shop on the corner. By the early 2000s, however, the habit had all but disappeared in wealthy countries. Electronic devices became cheaper, more complicated and, crucially, harder to open. When a phone or a washing machine broke down, it was often easier – and sometimes cheaper – to replace it than to fix it.\n\nNow, the tide appears to be turning. In cities across Europe, \"repair cafés\" – informal events where volunteers help people fix broken items for free – have spread from a single gathering in Amsterdam in 2009 to more than two thousand locations worldwide. Online platforms offering free repair guides attract millions of visitors a month. And, perhaps most significantly, governments have started to intervene.\n\nIn 2024, the European Union adopted rules that establish a so-called \"right to repair\". Manufacturers of certain products, including washing machines, vacuum cleaners and smartphones, are now required to offer repair services at a reasonable price for several years after the end of the legal guarantee, and to make spare parts and repair information available. France has gone even further, introducing a \"repairability index\" that gives products a score out of ten, displayed alongside the price in shops.\n\nSupporters of the movement argue that the benefits are considerable. Electronic waste is the fastest-growing type of waste in the world, and only a small fraction of it is properly recycled. Extending the life of products reduces the demand for raw materials, many of which are mined in difficult conditions. Repair also creates local jobs that cannot easily be moved abroad.\n\nManufacturers have been less enthusiastic. Some argue that making devices easier to open could compromise their safety, water resistance or security. Others warn that the cost of keeping spare parts in stock for years will inevitably be passed on to consumers. \"Nobody is against repair in principle,\" says a spokesperson for one industry association. \"But regulation must not hold back innovation.\"\n\nThere is also the question of whether consumers actually want to repair their belongings. Surveys consistently show that people say they would prefer to fix things, yet in practice many still choose the newest model, attracted by better features or simply by novelty. \"Attitudes are changing more slowly than the law,\" admits Marta Kowalczyk, who runs a repair café in Kraków. \"But every time someone leaves here with a lamp that works again, they look genuinely proud. You don't get that feeling from buying something new.\"\n\nWhether repair will become the norm again remains to be seen. What is clear is that the throwaway culture of the past few decades is no longer taken for granted – and that, for a growing number of people, a screwdriver has become a small act of resistance.",
+  "exercises": [
+    {
+      "id": "c1-reading-article-3-01",
+      "type": "choice",
+      "prompt": "Repairing things was common for most of the twentieth century.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...repairing things was simply part of life.”"
+    },
+    {
+      "id": "c1-reading-article-3-02",
+      "type": "choice",
+      "prompt": "The first repair café was opened in Kraków.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Pierwszy był w Amsterdamie w 2009 roku."
+    },
+    {
+      "id": "c1-reading-article-3-03",
+      "type": "choice",
+      "prompt": "The EU rules apply to all products.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...certain products, including washing machines, vacuum cleaners and smartphones...”"
+    },
+    {
+      "id": "c1-reading-article-3-04",
+      "type": "choice",
+      "prompt": "France's repairability index is shown next to the price.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...displayed alongside the price in shops.”"
+    },
+    {
+      "id": "c1-reading-article-3-05",
+      "type": "choice",
+      "prompt": "Marta Kowalczyk is paid for running the repair café.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czy jest opłacana."
+    },
+    {
+      "id": "c1-reading-article-3-06",
+      "type": "choice",
+      "prompt": "Why did repair become less common in the early 2000s?",
+      "answer": "Devices became cheaper and harder to open.",
+      "distractors": [
+        "People became richer and lazier.",
+        "Repair shops were banned."
+      ],
+      "explanation": "„...became cheaper, more complicated and... harder to open.”"
+    },
+    {
+      "id": "c1-reading-article-3-07",
+      "type": "choice",
+      "prompt": "What concern do manufacturers raise?",
+      "answer": "Easier-to-open devices may be less safe or secure.",
+      "distractors": [
+        "Repair cafés steal their customers.",
+        "Spare parts are impossible to produce."
+      ],
+      "explanation": "„...could compromise their safety, water resistance or security.”"
+    },
+    {
+      "id": "c1-reading-article-3-08",
+      "type": "choice",
+      "prompt": "According to Marta Kowalczyk, what is changing more slowly than the law?",
+      "answer": "people's attitudes",
+      "distractors": [
+        "the prices of devices",
+        "the number of repair cafés"
+      ],
+      "explanation": "„Attitudes are changing more slowly than the law.”"
+    },
+    {
+      "id": "c1-reading-article-3-09",
+      "type": "cloze",
+      "prompt": "A screwdriver has become a small act of ___.",
+      "answer": "resistance",
+      "explanation": "Akt oporu: act of resistance."
+    },
+    {
+      "id": "c1-reading-article-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "spare parts|części zamienne",
+        "raw materials|surowce",
+        "inevitably|nieuchronnie",
+        "take for granted|uważać za oczywiste"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

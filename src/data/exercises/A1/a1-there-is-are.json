@@ -1,0 +1,313 @@
+[
+  {
+    "id": "a1-there-is-are-1",
+    "topicId": "a1-there-is-are",
+    "exercises": [
+      {
+        "id": "a1-there-is-are-1-01",
+        "type": "cloze",
+        "prompt": "There ___ a cat in the garden.",
+        "answer": "is",
+        "explanation": "Jeden kot: there is."
+      },
+      {
+        "id": "a1-there-is-are-1-02",
+        "type": "cloze",
+        "prompt": "There ___ two banks in my street.",
+        "answer": "are",
+        "explanation": "Liczba mnoga: there are."
+      },
+      {
+        "id": "a1-there-is-are-1-03",
+        "type": "choice",
+        "prompt": "There ___ some milk in the fridge.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "be"
+        ],
+        "explanation": "Milk jest niepoliczalne: there is."
+      },
+      {
+        "id": "a1-there-is-are-1-04",
+        "type": "choice",
+        "prompt": "There ___ many people here.",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "be"
+        ],
+        "explanation": "People to liczba mnoga: there are."
+      },
+      {
+        "id": "a1-there-is-are-1-05",
+        "type": "tiles",
+        "prompt": "Na stole jest książka.",
+        "answer": [
+          "There",
+          "is",
+          "a",
+          "book",
+          "on",
+          "the",
+          "table"
+        ],
+        "explanation": "Po angielsku zaczynamy od there is."
+      },
+      {
+        "id": "a1-there-is-are-1-06",
+        "type": "error",
+        "prompt": "There are a chair in the room.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "Jedno krzesło: there is."
+      },
+      {
+        "id": "a1-there-is-are-1-07",
+        "type": "translate",
+        "prompt": "W moim mieście są dwa kina.",
+        "answer": "There are two cinemas in my town.",
+        "accept": [
+          "There are two cinemas in my city."
+        ],
+        "explanation": "Liczba mnoga: there are."
+      },
+      {
+        "id": "a1-there-is-are-1-08",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThere is a shop near here.",
+        "answer": "There is not a shop near here.",
+        "accept": [
+          "There is no shop near here."
+        ],
+        "explanation": "There isn't a... albo there is no..."
+      },
+      {
+        "id": "a1-there-is-are-1-09",
+        "type": "cloze",
+        "prompt": "There ___ not any eggs.",
+        "answer": "are",
+        "explanation": "Eggs to liczba mnoga: there are not (aren't)."
+      },
+      {
+        "id": "a1-there-is-are-1-10",
+        "type": "choice",
+        "prompt": "___ there a bathroom upstairs?",
+        "answer": "Is",
+        "distractors": [
+          "Are",
+          "It"
+        ],
+        "explanation": "Pytanie o jedną rzecz: Is there...?"
+      }
+    ]
+  },
+  {
+    "id": "a1-there-is-are-2",
+    "topicId": "a1-there-is-are",
+    "exercises": [
+      {
+        "id": "a1-there-is-are-2-01",
+        "type": "cloze",
+        "prompt": "___ there any shops near your house?",
+        "answer": "Are",
+        "explanation": "Pytanie o liczbę mnogą: Are there...?"
+      },
+      {
+        "id": "a1-there-is-are-2-02",
+        "type": "cloze",
+        "prompt": "Is there a bus stop here? — Yes, there ___.",
+        "answer": "is",
+        "explanation": "Krótka odpowiedź: Yes, there is."
+      },
+      {
+        "id": "a1-there-is-are-2-03",
+        "type": "cloze",
+        "prompt": "Are there any students in the room? — No, there ___.",
+        "answer": "aren't",
+        "explanation": "Krótka odpowiedź: No, there aren't."
+      },
+      {
+        "id": "a1-there-is-are-2-04",
+        "type": "choice",
+        "prompt": "There ___ any chairs in the kitchen.",
+        "answer": "aren't",
+        "distractors": [
+          "isn't",
+          "not"
+        ],
+        "explanation": "Chairs to liczba mnoga: there aren't."
+      },
+      {
+        "id": "a1-there-is-are-2-05",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThere is a hotel in the village.",
+        "answer": "Is there a hotel in the village?",
+        "explanation": "Is przechodzi przed there."
+      },
+      {
+        "id": "a1-there-is-are-2-06",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThere are two bedrooms.",
+        "answer": "Are there two bedrooms?",
+        "explanation": "Are przechodzi przed there."
+      },
+      {
+        "id": "a1-there-is-are-2-07",
+        "type": "tiles",
+        "prompt": "Czy w lodówce jest ser?",
+        "answer": [
+          "Is",
+          "there",
+          "any",
+          "cheese",
+          "in",
+          "the",
+          "fridge"
+        ],
+        "explanation": "Pytanie z niepoliczalnym: Is there any...?"
+      },
+      {
+        "id": "a1-there-is-are-2-08",
+        "type": "error",
+        "prompt": "Is there two beds in the room?",
+        "answer": [
+          "Is",
+          "Are"
+        ],
+        "explanation": "Two beds to liczba mnoga: Are there...?"
+      },
+      {
+        "id": "a1-there-is-are-2-09",
+        "type": "translate",
+        "prompt": "Nie ma tu parku.",
+        "answer": "There is no park here.",
+        "accept": [
+          "There is not a park here."
+        ],
+        "explanation": "„Nie ma” = there is no / there isn't a."
+      },
+      {
+        "id": "a1-there-is-are-2-10",
+        "type": "choice",
+        "prompt": "Are there any cups? — Yes, there ___.",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "have"
+        ],
+        "explanation": "Krótka odpowiedź powtarza are."
+      }
+    ]
+  },
+  {
+    "id": "a1-there-is-are-3",
+    "topicId": "a1-there-is-are",
+    "exercises": [
+      {
+        "id": "a1-there-is-are-3-01",
+        "type": "choice",
+        "prompt": "___ a new restaurant in town. It is very good.",
+        "answer": "There is",
+        "distractors": [
+          "It is",
+          "There are"
+        ],
+        "explanation": "Mówimy, że coś istnieje: there is."
+      },
+      {
+        "id": "a1-there-is-are-3-02",
+        "type": "choice",
+        "prompt": "Look at that car! ___ very fast.",
+        "answer": "It is",
+        "distractors": [
+          "There is",
+          "There are"
+        ],
+        "explanation": "Opisujemy samochód, o którym mówimy: it is."
+      },
+      {
+        "id": "a1-there-is-are-3-03",
+        "type": "cloze",
+        "prompt": "There ___ a lot of trees in the park.",
+        "answer": "are",
+        "explanation": "A lot of trees to liczba mnoga."
+      },
+      {
+        "id": "a1-there-is-are-3-04",
+        "type": "cloze",
+        "prompt": "There ___ an old castle in the town.",
+        "answer": "is",
+        "explanation": "Jeden zamek: there is."
+      },
+      {
+        "id": "a1-there-is-are-3-05",
+        "type": "error",
+        "prompt": "It is a supermarket near my house.",
+        "answer": [
+          "It",
+          "There"
+        ],
+        "explanation": "Mówimy, że sklep istnieje w pobliżu: there is."
+      },
+      {
+        "id": "a1-there-is-are-3-06",
+        "type": "error",
+        "prompt": "There is three bedrooms in the flat.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "Three bedrooms to liczba mnoga."
+      },
+      {
+        "id": "a1-there-is-are-3-07",
+        "type": "tiles",
+        "prompt": "W tym pokoju nie ma okien.",
+        "answer": [
+          "There",
+          "are",
+          "no",
+          "windows",
+          "in",
+          "this",
+          "room"
+        ],
+        "explanation": "There are no + liczba mnoga."
+      },
+      {
+        "id": "a1-there-is-are-3-08",
+        "type": "translate",
+        "prompt": "Ile osób jest w klasie?",
+        "answer": "How many people are there in the class?",
+        "accept": [
+          "How many people are in the class?",
+          "How many people are there in the classroom?",
+          "How many people are in the classroom?"
+        ],
+        "explanation": "How many + rzeczownik + are there...?"
+      },
+      {
+        "id": "a1-there-is-are-3-09",
+        "type": "transform",
+        "prompt": "Napisz przeczenie z „any”.\nThere are some apples.",
+        "answer": "There are not any apples.",
+        "explanation": "W przeczeniu some zmienia się w any."
+      },
+      {
+        "id": "a1-there-is-are-3-10",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "there is|jest (jedna rzecz)",
+          "there are|są (wiele rzeczy)",
+          "is there|czy jest",
+          "are there|czy są"
+        ],
+        "explanation": "Is/are zależy od liczby; w pytaniu idzie na początek."
+      }
+    ]
+  }
+]

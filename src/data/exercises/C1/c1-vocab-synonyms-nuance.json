@@ -1,0 +1,355 @@
+[
+  {
+    "id": "c1-vocab-synonyms-nuance-1",
+    "topicId": "c1-vocab-synonyms-nuance",
+    "exercises": [
+      {
+        "id": "c1-vocab-synonyms-nuance-1-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "stare|wpatrywać się natarczywie",
+          "glance|zerknąć",
+          "gaze|wpatrywać się z zachwytem",
+          "peer|wytężać wzrok"
+        ],
+        "explanation": "Patrzenie."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-02",
+        "type": "choice",
+        "prompt": "She ___ at her watch and hurried out.",
+        "answer": "glanced",
+        "distractors": [
+          "stared",
+          "gazed"
+        ],
+        "explanation": "Zerknąć: glance."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-03",
+        "type": "choice",
+        "prompt": "The city is ___ for its high crime rate.",
+        "answer": "notorious",
+        "distractors": [
+          "famous",
+          "well-known"
+        ],
+        "explanation": "Znany z czegoś złego: notorious."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-04",
+        "type": "cloze",
+        "prompt": "We ___ along the beach at sunset. (spacerowaliśmy)",
+        "answer": "strolled",
+        "accept": [
+          "walked",
+          "wandered"
+        ],
+        "explanation": "Spacerować: stroll."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-05",
+        "type": "cloze",
+        "prompt": "The country is facing serious ___ problems. (gospodarcze)",
+        "answer": "economic",
+        "explanation": "Gospodarczy: economic."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-06",
+        "type": "error",
+        "prompt": "Don't be so childlike – grow up!",
+        "answer": [
+          "childlike",
+          "childish"
+        ],
+        "explanation": "Negatywnie: childish."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-07",
+        "type": "tiles",
+        "prompt": "To bardzo rozsądna decyzja.",
+        "answer": [
+          "That",
+          "is",
+          "a",
+          "very",
+          "sensible",
+          "decision"
+        ],
+        "distractors": [
+          "sensitive",
+          "sensual"
+        ],
+        "explanation": "Rozsądny: sensible."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-08",
+        "type": "translate",
+        "prompt": "Wpatrywała się w morze.",
+        "answer": "She gazed at the sea.",
+        "accept": [
+          "She stared at the sea.",
+          "She was gazing at the sea.",
+          "She was staring at the sea."
+        ],
+        "explanation": "Z rozmarzeniem: gaze."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-09",
+        "type": "choice",
+        "prompt": "He is very ___ – criticism always hurts him.",
+        "answer": "sensitive",
+        "distractors": [
+          "sensible",
+          "sensational"
+        ],
+        "explanation": "Wrażliwy: sensitive."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-1-10",
+        "type": "choice",
+        "prompt": "This car is very ___ – it uses little fuel.",
+        "answer": "economical",
+        "distractors": [
+          "economic",
+          "economy"
+        ],
+        "explanation": "Oszczędny: economical."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-synonyms-nuance-2",
+    "topicId": "c1-vocab-synonyms-nuance",
+    "exercises": [
+      {
+        "id": "c1-vocab-synonyms-nuance-2-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "stroll|spacerować",
+          "stride|kroczyć",
+          "wander|błąkać się",
+          "limp|kuleć"
+        ],
+        "explanation": "Chodzenie."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-02",
+        "type": "choice",
+        "prompt": "The children ___ at the funny video.",
+        "answer": "giggled",
+        "distractors": [
+          "smirked",
+          "muttered"
+        ],
+        "explanation": "Chichotać: giggle."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-03",
+        "type": "choice",
+        "prompt": "He ___ something under his breath and left.",
+        "answer": "muttered",
+        "distractors": [
+          "yelled",
+          "giggled"
+        ],
+        "explanation": "Mamrotać: mutter."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-04",
+        "type": "cloze",
+        "prompt": "After the accident, he ___ for weeks. (kulał)",
+        "answer": "limped",
+        "explanation": "Kuleć: limp."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-05",
+        "type": "cloze",
+        "prompt": "She ___ confidently into the room. (wkroczyła)",
+        "answer": "strode",
+        "accept": [
+          "walked",
+          "marched"
+        ],
+        "explanation": "Kroczyć: stride – strode."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-06",
+        "type": "error",
+        "prompt": "He gave me a friendly smirk and shook my hand.",
+        "answer": [
+          "smirk",
+          "smile"
+        ],
+        "explanation": "Smirk – złośliwy uśmieszek; przyjazny to smile."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-07",
+        "type": "error",
+        "prompt": "The model was healthy and skinny.",
+        "answer": [
+          "skinny",
+          "slim"
+        ],
+        "explanation": "Pozytywnie: slim."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-08",
+        "type": "tiles",
+        "prompt": "Zachowała dziecięcą ciekawość świata.",
+        "answer": [
+          "She",
+          "kept",
+          "her",
+          "childlike",
+          "curiosity",
+          "about",
+          "the",
+          "world"
+        ],
+        "distractors": [
+          "childish",
+          "childhood"
+        ],
+        "explanation": "Pozytywnie: childlike."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-09",
+        "type": "translate",
+        "prompt": "Zerknął na nią i się uśmiechnął.",
+        "answer": "He glanced at her and smiled.",
+        "accept": [
+          "He glanced at her and smiled at her."
+        ],
+        "explanation": "Zerknąć: glance."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-2-10",
+        "type": "choice",
+        "prompt": "We stayed in an ___ but comfortable hotel.",
+        "answer": "inexpensive",
+        "distractors": [
+          "cheap-looking",
+          "expensive"
+        ],
+        "explanation": "Neutralnie: inexpensive."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-synonyms-nuance-3",
+    "topicId": "c1-vocab-synonyms-nuance",
+    "exercises": [
+      {
+        "id": "c1-vocab-synonyms-nuance-3-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "giggle|chichotać",
+          "chuckle|zaśmiać się cicho",
+          "smirk|uśmiechać się złośliwie",
+          "mutter|mamrotać"
+        ],
+        "explanation": "Śmiech i mówienie."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-02",
+        "type": "choice",
+        "prompt": "The fans ___ at the referee.",
+        "answer": "yelled",
+        "distractors": [
+          "whispered",
+          "muttered"
+        ],
+        "explanation": "Wrzeszczeć: yell."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-03",
+        "type": "choice",
+        "prompt": "We ___ around the old town without a map.",
+        "answer": "wandered",
+        "distractors": [
+          "strode",
+          "limped"
+        ],
+        "explanation": "Błąkać się: wander."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-04",
+        "type": "cloze",
+        "prompt": "He ___ through the fog, trying to see the road. (wytężał wzrok)",
+        "answer": "peered",
+        "explanation": "Wytężać wzrok: peer."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-05",
+        "type": "cloze",
+        "prompt": "He ___ quietly at the joke. (zaśmiał się cicho)",
+        "answer": "chuckled",
+        "explanation": "Chuckle."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-06",
+        "type": "error",
+        "prompt": "This shirt looks inexpensive – the material is terrible.",
+        "answer": [
+          "inexpensive",
+          "cheap"
+        ],
+        "explanation": "Tandetny: cheap."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-07",
+        "type": "error",
+        "prompt": "It's not polite to gaze at people on the bus.",
+        "answer": [
+          "gaze",
+          "stare"
+        ],
+        "explanation": "Natarczywie: stare."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-08",
+        "type": "tiles",
+        "prompt": "Był znany z tego, że się spóźniał.",
+        "answer": [
+          "He",
+          "was",
+          "notorious",
+          "for",
+          "being",
+          "late"
+        ],
+        "distractors": [
+          "notoriety",
+          "notoriously"
+        ],
+        "explanation": "Notorious for."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-09",
+        "type": "translate",
+        "prompt": "Szepnęła mi coś do ucha.",
+        "answer": "She whispered something in my ear.",
+        "accept": [
+          "She whispered something into my ear.",
+          "She whispered something to me."
+        ],
+        "explanation": "Szeptać: whisper."
+      },
+      {
+        "id": "c1-vocab-synonyms-nuance-3-10",
+        "type": "choice",
+        "prompt": "Which word has a negative meaning?",
+        "answer": "notorious",
+        "distractors": [
+          "renowned",
+          "celebrated"
+        ],
+        "explanation": "Notorious – zła sława."
+      }
+    ]
+  }
+]

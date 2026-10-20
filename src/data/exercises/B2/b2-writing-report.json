@@ -1,0 +1,343 @@
+[
+  {
+    "id": "b2-writing-report-1",
+    "topicId": "b2-writing-report",
+    "exercises": [
+      {
+        "id": "b2-writing-report-1-01",
+        "type": "match",
+        "prompt": "Połącz nagłówki z treścią.",
+        "answer": [
+          "Introduction|cel raportu",
+          "Findings|wyniki",
+          "Recommendations|zalecenia",
+          "Conclusion|podsumowanie"
+        ],
+        "explanation": "Części raportu."
+      },
+      {
+        "id": "b2-writing-report-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is a good start of a report?",
+        "answer": "The aim of this report is to evaluate the sports facilities.",
+        "distractors": [
+          "Hi! Let me tell you about the gym.",
+          "I strongly believe that sport is great."
+        ],
+        "explanation": "Cel raportu: The aim of this report is to..."
+      },
+      {
+        "id": "b2-writing-report-1-03",
+        "type": "choice",
+        "prompt": "___ the survey, most students are satisfied.",
+        "answer": "According to",
+        "distractors": [
+          "Accordingly",
+          "In accordance"
+        ],
+        "explanation": "Według: according to."
+      },
+      {
+        "id": "b2-writing-report-1-04",
+        "type": "cloze",
+        "prompt": "This report is ___ on a survey of 100 employees. (oparty)",
+        "answer": "based",
+        "explanation": "Based on."
+      },
+      {
+        "id": "b2-writing-report-1-05",
+        "type": "cloze",
+        "prompt": "The ___ of the respondents said the canteen was too expensive. (większość)",
+        "answer": "majority",
+        "explanation": "The majority of."
+      },
+      {
+        "id": "b2-writing-report-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż wstęp raportu.",
+        "answer": [
+          "Introduction",
+          "The aim of this report is to evaluate the school library.",
+          "It is based on a survey of 80 students."
+        ],
+        "distractors": [
+          "Dear Sir or Madam,"
+        ],
+        "explanation": "Nagłówek, cel, źródło danych. Powitanie z listu nie pasuje do raportu."
+      },
+      {
+        "id": "b2-writing-report-1-07",
+        "type": "error",
+        "prompt": "I would recommend open the library on Saturdays.",
+        "answer": [
+          "open",
+          "opening"
+        ],
+        "explanation": "Recommend + -ing."
+      },
+      {
+        "id": "b2-writing-report-1-08",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Several problems”.\nWe identified several problems.",
+        "answer": "Several problems were identified.",
+        "accept": [
+          "Several problems were identified by us."
+        ],
+        "explanation": "Strona bierna – styl raportu."
+      },
+      {
+        "id": "b2-writing-report-1-09",
+        "type": "translate",
+        "prompt": "Większość pracowników jest zadowolona.",
+        "answer": "The majority of employees are satisfied.",
+        "accept": [
+          "Most employees are satisfied.",
+          "The majority of the employees are satisfied.",
+          "Most of the employees are satisfied.",
+          "The majority of employees are happy.",
+          "Most employees are happy."
+        ],
+        "explanation": "The majority of."
+      },
+      {
+        "id": "b2-writing-report-1-10",
+        "type": "choice",
+        "prompt": "Which sentence is suitable for a report?",
+        "answer": "A small number of students complained about the noise.",
+        "distractors": [
+          "Some kids moaned about the noise, LOL.",
+          "You won't believe how noisy it was!"
+        ],
+        "explanation": "Styl raportu: rzeczowo."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-report-2",
+    "topicId": "b2-writing-report",
+    "exercises": [
+      {
+        "id": "b2-writing-report-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "a third of|jedna trzecia",
+          "the majority of|większość",
+          "a small number of|niewielka liczba",
+          "the respondents|ankietowani"
+        ],
+        "explanation": "Liczby i proporcje."
+      },
+      {
+        "id": "b2-writing-report-2-02",
+        "type": "choice",
+        "prompt": "Which sentence uses impersonal style?",
+        "answer": "It was found that the equipment is old.",
+        "distractors": [
+          "I found that the equipment is old, sadly.",
+          "Guys, the equipment is old."
+        ],
+        "explanation": "Bezosobowo: It was found that..."
+      },
+      {
+        "id": "b2-writing-report-2-03",
+        "type": "choice",
+        "prompt": "It would be a good idea ___ more bicycle racks.",
+        "answer": "to install",
+        "distractors": [
+          "installing",
+          "install"
+        ],
+        "explanation": "It would be a good idea to..."
+      },
+      {
+        "id": "b2-writing-report-2-04",
+        "type": "cloze",
+        "prompt": "Only 20% ___ the respondents use the gym regularly.",
+        "answer": "of",
+        "explanation": "20% of."
+      },
+      {
+        "id": "b2-writing-report-2-05",
+        "type": "cloze",
+        "prompt": "I would ___ extending the opening hours. (polecić)",
+        "answer": "recommend",
+        "accept": [
+          "suggest"
+        ],
+        "explanation": "Recommend + -ing."
+      },
+      {
+        "id": "b2-writing-report-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż sekcję z rekomendacjami.",
+        "answer": [
+          "Recommendations",
+          "I would recommend buying new computers.",
+          "It would also be a good idea to extend the opening hours."
+        ],
+        "distractors": [
+          "Write back soon!"
+        ],
+        "explanation": "Nagłówek i dwie rekomendacje. „Write back soon” to zwrot z listu."
+      },
+      {
+        "id": "b2-writing-report-2-07",
+        "type": "error",
+        "prompt": "The majority of the respondent use the library once a week.",
+        "answer": [
+          "respondent",
+          "respondents"
+        ],
+        "explanation": "Liczba mnoga: the majority of the respondents."
+      },
+      {
+        "id": "b2-writing-report-2-08",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „New lights”.\nThe council should install new lights.",
+        "answer": "New lights should be installed.",
+        "accept": [
+          "New lights should be installed by the council."
+        ],
+        "explanation": "Should be + III forma."
+      },
+      {
+        "id": "b2-writing-report-2-09",
+        "type": "translate",
+        "prompt": "Ten raport opiera się na ankiecie.",
+        "answer": "This report is based on a survey.",
+        "accept": [
+          "This report is based on a questionnaire.",
+          "The report is based on a survey.",
+          "The report is based on a questionnaire."
+        ],
+        "explanation": "Based on."
+      },
+      {
+        "id": "b2-writing-report-2-10",
+        "type": "choice",
+        "prompt": "How is a report different from an essay?",
+        "answer": "It has headings and makes recommendations.",
+        "distractors": [
+          "It starts with Dear Sir.",
+          "It is always informal."
+        ],
+        "explanation": "Raport: nagłówki i rekomendacje."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-report-3",
+    "topicId": "b2-writing-report",
+    "exercises": [
+      {
+        "id": "b2-writing-report-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "The aim of this report is to...|cel",
+          "It is based on...|źródło danych",
+          "I would recommend...|zalecenie",
+          "In conclusion,...|podsumowanie"
+        ],
+        "explanation": "Zwroty raportu."
+      },
+      {
+        "id": "b2-writing-report-3-02",
+        "type": "choice",
+        "prompt": "Which is the best heading for a report section?",
+        "answer": "Sports facilities",
+        "distractors": [
+          "Hello everybody",
+          "My feelings"
+        ],
+        "explanation": "Krótki, rzeczowy nagłówek."
+      },
+      {
+        "id": "b2-writing-report-3-03",
+        "type": "choice",
+        "prompt": "A ___ of the employees (about 33%) work from home.",
+        "answer": "third",
+        "distractors": [
+          "three",
+          "thirty"
+        ],
+        "explanation": "A third of."
+      },
+      {
+        "id": "b2-writing-report-3-04",
+        "type": "cloze",
+        "prompt": "The canteen is popular. ___, many students find it too expensive. (jednak)",
+        "answer": "However",
+        "explanation": "Kontrast: However."
+      },
+      {
+        "id": "b2-writing-report-3-05",
+        "type": "cloze",
+        "prompt": "___ conclusion, the facilities need modernising.",
+        "answer": "In",
+        "explanation": "In conclusion."
+      },
+      {
+        "id": "b2-writing-report-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie raportu.",
+        "answer": [
+          "Conclusion",
+          "In conclusion, the canteen is popular, but the prices are too high.",
+          "If the recommendations are followed, students will be more satisfied."
+        ],
+        "distractors": [
+          "Lots of love,"
+        ],
+        "explanation": "Nagłówek, podsumowanie, efekt rekomendacji. „Lots of love” nie pasuje."
+      },
+      {
+        "id": "b2-writing-report-3-07",
+        "type": "error",
+        "prompt": "According with the survey, the prices are too high.",
+        "answer": [
+          "with",
+          "to"
+        ],
+        "explanation": "According to."
+      },
+      {
+        "id": "b2-writing-report-3-08",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The survey”.\nWe carried out the survey in May.",
+        "answer": "The survey was carried out in May.",
+        "accept": [
+          "The survey was carried out by us in May."
+        ],
+        "explanation": "Was carried out."
+      },
+      {
+        "id": "b2-writing-report-3-09",
+        "type": "translate",
+        "prompt": "Sześćdziesiąt procent ankietowanych korzysta z parkingu.",
+        "answer": "Sixty percent of the respondents use the car park.",
+        "accept": [
+          "60% of the respondents use the car park.",
+          "Sixty per cent of the respondents use the car park.",
+          "60% of respondents use the car park.",
+          "Sixty percent of respondents use the car park.",
+          "Sixty percent of the respondents use the parking lot.",
+          "60% of the respondents use the parking lot."
+        ],
+        "explanation": "60% of the respondents."
+      },
+      {
+        "id": "b2-writing-report-3-10",
+        "type": "choice",
+        "prompt": "Which sentence is a recommendation?",
+        "answer": "The management should consider buying new equipment.",
+        "distractors": [
+          "The equipment is old.",
+          "The survey was carried out in May."
+        ],
+        "explanation": "Rekomendacja: should consider..."
+      }
+    ]
+  }
+]

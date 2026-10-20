@@ -1,0 +1,338 @@
+[
+  {
+    "id": "b2-reporting-verbs-1",
+    "topicId": "b2-reporting-verbs",
+    "exercises": [
+      {
+        "id": "b2-reporting-verbs-1-01",
+        "type": "cloze",
+        "prompt": "She ___ me to see a doctor. (doradziła)",
+        "answer": "advised",
+        "explanation": "Advise + osoba + to."
+      },
+      {
+        "id": "b2-reporting-verbs-1-02",
+        "type": "cloze",
+        "prompt": "He promised ___ me. (call)",
+        "answer": "to call",
+        "explanation": "Promise + to."
+      },
+      {
+        "id": "b2-reporting-verbs-1-03",
+        "type": "choice",
+        "prompt": "They ___ that the bridge was dangerous.",
+        "answer": "warned",
+        "distractors": [
+          "suggested us",
+          "refused"
+        ],
+        "explanation": "Warn (that)..."
+      },
+      {
+        "id": "b2-reporting-verbs-1-04",
+        "type": "choice",
+        "prompt": "She ___ going to the cinema.",
+        "answer": "suggested",
+        "distractors": [
+          "told",
+          "offered"
+        ],
+        "explanation": "Suggest + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-1-05",
+        "type": "cloze",
+        "prompt": "He refused ___ my question. (answer)",
+        "answer": "to answer",
+        "explanation": "Refuse + to."
+      },
+      {
+        "id": "b2-reporting-verbs-1-06",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "advise|doradzić",
+          "refuse|odmówić",
+          "suggest|zasugerować",
+          "admit|przyznać się"
+        ],
+        "explanation": "Czasowniki relacjonujące."
+      },
+      {
+        "id": "b2-reporting-verbs-1-07",
+        "type": "error",
+        "prompt": "He denied stole the money.",
+        "answer": [
+          "stole",
+          "stealing"
+        ],
+        "explanation": "Deny + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-1-08",
+        "type": "tiles",
+        "prompt": "Zaproponował, że mnie podwiezie.",
+        "answer": [
+          "He",
+          "offered",
+          "to",
+          "give",
+          "me",
+          "a",
+          "lift"
+        ],
+        "distractors": [
+          "suggested",
+          "giving"
+        ],
+        "explanation": "Offer + to."
+      },
+      {
+        "id": "b2-reporting-verbs-1-09",
+        "type": "translate",
+        "prompt": "Przeprosiła za spóźnienie.",
+        "answer": "She apologised for being late.",
+        "accept": [
+          "She apologized for being late.",
+          "She apologised for coming late."
+        ],
+        "explanation": "Apologise for + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-1-10",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną z „promise”, zacznij od „He promised”.\n\"I'll help you,\" he said.",
+        "answer": "He promised to help me.",
+        "explanation": "Promise + to."
+      }
+    ]
+  },
+  {
+    "id": "b2-reporting-verbs-2",
+    "topicId": "b2-reporting-verbs",
+    "exercises": [
+      {
+        "id": "b2-reporting-verbs-2-01",
+        "type": "cloze",
+        "prompt": "He admitted ___ the window. (break)",
+        "answer": "breaking",
+        "explanation": "Admit + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-2-02",
+        "type": "cloze",
+        "prompt": "She reminded me ___ the door. (lock)",
+        "answer": "to lock",
+        "explanation": "Remind + osoba + to."
+      },
+      {
+        "id": "b2-reporting-verbs-2-03",
+        "type": "choice",
+        "prompt": "The teacher ___ us not to cheat.",
+        "answer": "warned",
+        "distractors": [
+          "suggested",
+          "admitted"
+        ],
+        "explanation": "Warn + osoba + not to."
+      },
+      {
+        "id": "b2-reporting-verbs-2-04",
+        "type": "choice",
+        "prompt": "He apologised ___ late.",
+        "answer": "for being",
+        "distractors": [
+          "to be",
+          "being"
+        ],
+        "explanation": "Apologise for + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-2-05",
+        "type": "choice",
+        "prompt": "She accused him ___ lying.",
+        "answer": "of",
+        "distractors": [
+          "for",
+          "about"
+        ],
+        "explanation": "Accuse somebody of."
+      },
+      {
+        "id": "b2-reporting-verbs-2-06",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną z „deny”, zacznij od „She denied”.\n\"I didn't take the money,\" she said.",
+        "answer": "She denied taking the money.",
+        "accept": [
+          "She denied having taken the money.",
+          "She denied that she had taken the money."
+        ],
+        "explanation": "Deny + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-2-07",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną z „suggest”, zacznij od „Tom suggested”.\n\"Let's order pizza,\" said Tom.",
+        "answer": "Tom suggested ordering pizza.",
+        "accept": [
+          "Tom suggested that we order pizza.",
+          "Tom suggested that we should order pizza.",
+          "Tom suggested ordering a pizza."
+        ],
+        "explanation": "Suggest + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-2-08",
+        "type": "tiles",
+        "prompt": "Przypomniała mi, żebym zadzwonił do mamy.",
+        "answer": [
+          "She",
+          "reminded",
+          "me",
+          "to",
+          "call",
+          "my",
+          "mum"
+        ],
+        "distractors": [
+          "remembered",
+          "calling"
+        ],
+        "explanation": "Remind + osoba + to."
+      },
+      {
+        "id": "b2-reporting-verbs-2-09",
+        "type": "error",
+        "prompt": "He agreed helping us.",
+        "answer": [
+          "helping",
+          "to help"
+        ],
+        "explanation": "Agree + to."
+      },
+      {
+        "id": "b2-reporting-verbs-2-10",
+        "type": "translate",
+        "prompt": "Odmówił podpisania umowy.",
+        "answer": "He refused to sign the contract.",
+        "accept": [
+          "He refused to sign the agreement."
+        ],
+        "explanation": "Refuse + to."
+      }
+    ]
+  },
+  {
+    "id": "b2-reporting-verbs-3",
+    "topicId": "b2-reporting-verbs",
+    "exercises": [
+      {
+        "id": "b2-reporting-verbs-3-01",
+        "type": "cloze",
+        "prompt": "They congratulated me ___ passing the exam.",
+        "answer": "on",
+        "explanation": "Congratulate somebody on."
+      },
+      {
+        "id": "b2-reporting-verbs-3-02",
+        "type": "cloze",
+        "prompt": "She insisted ___ paying the bill.",
+        "answer": "on",
+        "explanation": "Insist on + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-3-03",
+        "type": "choice",
+        "prompt": "He ___ me to apply for the job.",
+        "answer": "encouraged",
+        "distractors": [
+          "suggested",
+          "insisted"
+        ],
+        "explanation": "Encourage + osoba + to."
+      },
+      {
+        "id": "b2-reporting-verbs-3-04",
+        "type": "choice",
+        "prompt": "The manager ___ that the project was late.",
+        "answer": "admitted",
+        "distractors": [
+          "denied to",
+          "accused"
+        ],
+        "explanation": "Admit (that)..."
+      },
+      {
+        "id": "b2-reporting-verbs-3-05",
+        "type": "choice",
+        "prompt": "I ___ you not to touch that wire!",
+        "answer": "warn",
+        "distractors": [
+          "suggest",
+          "deny"
+        ],
+        "explanation": "Warn + osoba + not to."
+      },
+      {
+        "id": "b2-reporting-verbs-3-06",
+        "type": "match",
+        "prompt": "Połącz konstrukcję z czasownikami.",
+        "answer": [
+          "verb + to|promise, refuse, agree, offer",
+          "verb + -ing|suggest, deny, admit",
+          "verb + osoba + to|tell, ask, advise, warn",
+          "verb + przyimek + -ing|apologise for, insist on"
+        ],
+        "explanation": "Konstrukcje."
+      },
+      {
+        "id": "b2-reporting-verbs-3-07",
+        "type": "error",
+        "prompt": "She threatened calling the police.",
+        "answer": [
+          "calling",
+          "to call"
+        ],
+        "explanation": "Threaten + to."
+      },
+      {
+        "id": "b2-reporting-verbs-3-08",
+        "type": "error",
+        "prompt": "They blamed me of the accident.",
+        "answer": [
+          "of",
+          "for"
+        ],
+        "explanation": "Blame somebody for."
+      },
+      {
+        "id": "b2-reporting-verbs-3-09",
+        "type": "tiles",
+        "prompt": "Oskarżyli go o kradzież.",
+        "answer": [
+          "They",
+          "accused",
+          "him",
+          "of",
+          "stealing"
+        ],
+        "distractors": [
+          "for",
+          "steal"
+        ],
+        "explanation": "Accuse of + -ing."
+      },
+      {
+        "id": "b2-reporting-verbs-3-10",
+        "type": "translate",
+        "prompt": "Pogratulowałem jej awansu.",
+        "answer": "I congratulated her on her promotion.",
+        "accept": [
+          "I congratulated her on the promotion.",
+          "I congratulated her on getting promoted."
+        ],
+        "explanation": "Congratulate on."
+      }
+    ]
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "id": "a2-object-pronouns-possessive-s-1",
+    "topicId": "a2-object-pronouns-possessive-s",
+    "exercises": [
+      {
+        "id": "a2-object-pronouns-possessive-s-1-01",
+        "type": "cloze",
+        "prompt": "I love ___. (she)",
+        "answer": "her",
+        "explanation": "Dopełnienie od she: her."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-02",
+        "type": "cloze",
+        "prompt": "Can you help ___? (I)",
+        "answer": "me",
+        "explanation": "Dopełnienie od I: me."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-03",
+        "type": "cloze",
+        "prompt": "This is Tom. Do you know ___?",
+        "answer": "him",
+        "explanation": "Tom = he → him."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-04",
+        "type": "choice",
+        "prompt": "We're going to the cinema. Do you want to come with ___?",
+        "answer": "us",
+        "distractors": [
+          "we",
+          "our"
+        ],
+        "explanation": "Po przyimku with: us."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-05",
+        "type": "choice",
+        "prompt": "Where are my keys? I can't find ___.",
+        "answer": "them",
+        "distractors": [
+          "they",
+          "their"
+        ],
+        "explanation": "Klucze = they → them."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-06",
+        "type": "match",
+        "prompt": "Połącz zaimek z formą dopełnienia.",
+        "answer": [
+          "I|me",
+          "he|him",
+          "we|us",
+          "they|them"
+        ],
+        "explanation": "Zaimek osobowy i forma dopełnienia."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-07",
+        "type": "error",
+        "prompt": "Give it to I, please.",
+        "answer": [
+          "I",
+          "me"
+        ],
+        "explanation": "Po przyimku: me."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-08",
+        "type": "tiles",
+        "prompt": "Zadzwoń do mnie później.",
+        "answer": [
+          "Call",
+          "me",
+          "later"
+        ],
+        "explanation": "Call + me."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-09",
+        "type": "translate",
+        "prompt": "Lubię go.",
+        "answer": "I like him.",
+        "accept": [
+          "I like it."
+        ],
+        "explanation": "Go = him (osoba) albo it (rzecz)."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „Anna” zaimkiem.\nI saw Anna yesterday.",
+        "answer": "I saw her yesterday.",
+        "explanation": "Anna = she → her."
+      }
+    ]
+  },
+  {
+    "id": "a2-object-pronouns-possessive-s-2",
+    "topicId": "a2-object-pronouns-possessive-s",
+    "exercises": [
+      {
+        "id": "a2-object-pronouns-possessive-s-2-01",
+        "type": "cloze",
+        "prompt": "This is my ___ car. (sister)",
+        "answer": "sister's",
+        "explanation": "Samochód siostry: sister's."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-02",
+        "type": "cloze",
+        "prompt": "Where is ___ bag? (Tom)",
+        "answer": "Tom's",
+        "explanation": "Torba Toma: Tom's."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-03",
+        "type": "choice",
+        "prompt": "My ___ house is very big.",
+        "answer": "parents'",
+        "distractors": [
+          "parent's",
+          "parents"
+        ],
+        "explanation": "Dom rodziców (l. mnoga na -s): parents'."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-04",
+        "type": "choice",
+        "prompt": "This is ___ room.",
+        "answer": "the children's",
+        "distractors": [
+          "the childrens'",
+          "the childrens"
+        ],
+        "explanation": "Children + 's."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-05",
+        "type": "cloze",
+        "prompt": "Is this ___ phone? (Kate)",
+        "answer": "Kate's",
+        "explanation": "Telefon Kate: Kate's."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "Tom's car|samochód Toma",
+          "my mum's name|imię mojej mamy",
+          "the girls' room|pokój dziewczynek",
+          "the girl's room|pokój dziewczynki"
+        ],
+        "explanation": "'s i s'."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-07",
+        "type": "error",
+        "prompt": "Is this Peters' book?",
+        "answer": [
+          "Peters'",
+          "Peter's"
+        ],
+        "explanation": "Jeden Peter: Peter's."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-08",
+        "type": "tiles",
+        "prompt": "To jest samochód mojego taty.",
+        "answer": [
+          "This",
+          "is",
+          "my",
+          "dad's",
+          "car"
+        ],
+        "explanation": "Samochód taty: dad's car."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-09",
+        "type": "translate",
+        "prompt": "Imię mojej żony to Ewa.",
+        "answer": "My wife's name is Ewa.",
+        "explanation": "Imię żony: wife's name."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-2-10",
+        "type": "transform",
+        "prompt": "Zapisz z „'s”.\nthe dog of my friend",
+        "answer": "my friend's dog",
+        "explanation": "Po angielsku: my friend's dog."
+      }
+    ]
+  },
+  {
+    "id": "a2-object-pronouns-possessive-s-3",
+    "topicId": "a2-object-pronouns-possessive-s",
+    "exercises": [
+      {
+        "id": "a2-object-pronouns-possessive-s-3-01",
+        "type": "cloze",
+        "prompt": "Look at ___! They're dancing. (they)",
+        "answer": "them",
+        "explanation": "Dopełnienie od they: them."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-02",
+        "type": "cloze",
+        "prompt": "That's not my coat. It's ___ coat. (Mark)",
+        "answer": "Mark's",
+        "explanation": "Płaszcz Marka: Mark's."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-03",
+        "type": "choice",
+        "prompt": "She called ___, but I didn't answer.",
+        "answer": "me",
+        "distractors": [
+          "I",
+          "my"
+        ],
+        "explanation": "Dopełnienie: me."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-04",
+        "type": "choice",
+        "prompt": "Is this ___ umbrella?",
+        "answer": "your",
+        "distractors": [
+          "you",
+          "yours"
+        ],
+        "explanation": "Przed rzeczownikiem: your."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-05",
+        "type": "choice",
+        "prompt": "My ___ names are Ola and Ewa.",
+        "answer": "sisters'",
+        "distractors": [
+          "sister's",
+          "sisters"
+        ],
+        "explanation": "Dwie siostry: sisters'."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-06",
+        "type": "error",
+        "prompt": "Him is my best friend.",
+        "answer": [
+          "Him",
+          "He"
+        ],
+        "explanation": "Podmiot: he."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-07",
+        "type": "error",
+        "prompt": "Can you give they the tickets?",
+        "answer": [
+          "they",
+          "them"
+        ],
+        "explanation": "Dopełnienie: them."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-08",
+        "type": "tiles",
+        "prompt": "Spotkałem ich w parku.",
+        "answer": [
+          "I",
+          "met",
+          "them",
+          "in",
+          "the",
+          "park"
+        ],
+        "explanation": "Dopełnienie: them."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-09",
+        "type": "translate",
+        "prompt": "To jest pokój mojego brata.",
+        "answer": "This is my brother's room.",
+        "explanation": "Pokój brata: brother's room."
+      },
+      {
+        "id": "a2-object-pronouns-possessive-s-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „my parents” zaimkiem.\nI often visit my parents.",
+        "answer": "I often visit them.",
+        "explanation": "My parents → them."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-article-2",
+  "topicId": "b1-reading-article",
+  "title": "Why sleep is the best medicine",
+  "text": "We all know the feeling: after a bad night, it's hard to concentrate, we feel irritable and even simple tasks seem difficult. Yet many of us still treat sleep as something we can cut when life gets busy. Scientists say this is a big mistake.\n\nMost adults need between seven and nine hours of sleep a night. Teenagers need even more, because their bodies and brains are still developing. However, surveys suggest that a large number of people regularly sleep less than seven hours.\n\nWhile we sleep, our body is far from inactive. The brain sorts and stores the information we collected during the day, which is why a good night's sleep before an exam can be more useful than studying until 3 a.m. Sleep also helps the body repair itself and fight infections. People who sleep badly for a long time are more likely to have problems with their heart, their weight and their mood.\n\nSo what can we do to sleep better? Experts give some simple advice. Try to go to bed and get up at the same time every day, even at weekends. Avoid coffee in the afternoon and large meals late in the evening. Keep your bedroom cool, dark and quiet. And perhaps most importantly, put your phone away at least an hour before bed. The light from screens tells the brain that it is still daytime, and scrolling through social media keeps our minds busy when they should be slowing down.\n\nIf you still can't sleep after twenty minutes, doctors suggest getting up and doing something relaxing, like reading a paper book, until you feel sleepy. Lying in bed and worrying about not sleeping usually makes things worse.",
+  "exercises": [
+    {
+      "id": "b1-reading-article-2-01",
+      "type": "choice",
+      "prompt": "Teenagers need less sleep than adults.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Teenagers need even more...”"
+    },
+    {
+      "id": "b1-reading-article-2-02",
+      "type": "choice",
+      "prompt": "Sleep helps the body fight infections.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Sleep also helps the body repair itself and fight infections.”"
+    },
+    {
+      "id": "b1-reading-article-2-03",
+      "type": "choice",
+      "prompt": "Women need more sleep than men.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie porównuje kobiet i mężczyzn."
+    },
+    {
+      "id": "b1-reading-article-2-04",
+      "type": "choice",
+      "prompt": "Why can sleep be better than studying late before an exam?",
+      "answer": "The brain stores information while we sleep.",
+      "distractors": [
+        "Exams start early in the morning.",
+        "Coffee doesn't help with exams."
+      ],
+      "explanation": "„The brain sorts and stores the information...”"
+    },
+    {
+      "id": "b1-reading-article-2-05",
+      "type": "choice",
+      "prompt": "Why should you put your phone away before bed?",
+      "answer": "Screen light makes the brain think it's still day.",
+      "distractors": [
+        "Phones are too loud.",
+        "You might get a message."
+      ],
+      "explanation": "„The light from screens tells the brain that it is still daytime...”"
+    },
+    {
+      "id": "b1-reading-article-2-06",
+      "type": "choice",
+      "prompt": "What should you do if you can't sleep after twenty minutes?",
+      "answer": "get up and do something relaxing",
+      "distractors": [
+        "stay in bed and wait",
+        "have a cup of coffee"
+      ],
+      "explanation": "„...doctors suggest getting up and doing something relaxing...”"
+    },
+    {
+      "id": "b1-reading-article-2-07",
+      "type": "cloze",
+      "prompt": "Keep your bedroom cool, dark and ___.",
+      "answer": "quiet",
+      "explanation": "Cicho: quiet."
+    },
+    {
+      "id": "b1-reading-article-2-08",
+      "type": "cloze",
+      "prompt": "Try to go to bed at the same time every day, even at ___.",
+      "answer": "weekends",
+      "explanation": "Nawet w weekendy: even at weekends."
+    },
+    {
+      "id": "b1-reading-article-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "irritable|drażliwy",
+        "survey|badanie ankietowe",
+        "repair|naprawiać",
+        "mood|nastrój"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

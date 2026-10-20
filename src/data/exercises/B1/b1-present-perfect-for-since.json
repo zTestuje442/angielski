@@ -1,0 +1,245 @@
+[
+  {
+    "id": "b1-present-perfect-for-since-1",
+    "topicId": "b1-present-perfect-for-since",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-for-since-1-01",
+        "type": "cloze",
+        "prompt": "I have lived in Gdańsk ___ 2019.",
+        "answer": "since",
+        "explanation": "2019 to punkt w czasie, od którego coś trwa, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-02",
+        "type": "cloze",
+        "prompt": "We have known each other ___ ten years.",
+        "answer": "for",
+        "explanation": "Ten years to okres (ile czasu), więc for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-03",
+        "type": "choice",
+        "prompt": "She has worked at the bank ___ last March.",
+        "answer": "since",
+        "distractors": ["for", "from"],
+        "explanation": "Last March to moment początku, więc since. „From” łączy się z „to” lub „until”."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-04",
+        "type": "match",
+        "prompt": "Połącz polskie wyrażenia z angielskimi.",
+        "answer": ["od poniedziałku|since Monday", "od tygodnia|for a week", "od dzieciństwa|since childhood", "od wieków|for ages"],
+        "explanation": "Polskie „od” to since przed początkiem (poniedziałek, dzieciństwo) i for przed okresem (tydzień, wieki)."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-05",
+        "type": "tiles",
+        "prompt": "Znam go od lat.",
+        "answer": ["I", "have", "known", "him", "for", "years"],
+        "distractors": ["since"],
+        "explanation": "Stan trwający do dziś: have known. Years to okres, więc for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-06",
+        "type": "cloze",
+        "prompt": "They have been married ___ a long time.",
+        "answer": "for",
+        "explanation": "A long time to okres, więc for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-07",
+        "type": "translate",
+        "prompt": "Mieszkam tutaj od 2020 roku.",
+        "answer": "I have lived here since 2020.",
+        "accept": ["I have been living here since 2020."],
+        "explanation": "Polski czas teraźniejszy z „od” to po angielsku Present Perfect. 2020 to punkt w czasie, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-08",
+        "type": "error",
+        "prompt": "I know her since we were at school.",
+        "answer": ["know", "have known"],
+        "explanation": "Stan, który trwa od przeszłości do teraz, wymaga Present Perfect: I have known her since…"
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-09",
+        "type": "transform",
+        "prompt": "Użyj słowa FOR.\nI bought this laptop two years ago.",
+        "answer": "I have had this laptop for two years.",
+        "accept": ["I have had this laptop for 2 years."],
+        "hint": "Kupić = buy, mieć = have. Zacznij od: I have had…",
+        "explanation": "Ago z Past Simple mówi, kiedy coś się stało. Gdy stan trwa do teraz, używamy Present Perfect z for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-1-10",
+        "type": "choice",
+        "prompt": "How long ___ here?",
+        "answer": "have you worked",
+        "distractors": ["do you work", "are you working"],
+        "explanation": "Pytanie o czas trwania do teraz: How long + Present Perfect."
+      }
+    ]
+  },
+  {
+    "id": "b1-present-perfect-for-since-2",
+    "topicId": "b1-present-perfect-for-since",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-for-since-2-01",
+        "type": "cloze",
+        "prompt": "He hasn't called me ___ Tuesday.",
+        "answer": "since",
+        "explanation": "Tuesday to punkt w czasie, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-02",
+        "type": "cloze",
+        "prompt": "I've been at this company ___ almost a year.",
+        "answer": "for",
+        "explanation": "Almost a year to okres, więc for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-03",
+        "type": "choice",
+        "prompt": "We've had our dog ___ she was a puppy.",
+        "answer": "since",
+        "distractors": ["for", "when"],
+        "explanation": "Since może wprowadzać całe zdanie z Past Simple: since she was a puppy."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-04",
+        "type": "tiles",
+        "prompt": "Od jak dawna się znacie?",
+        "answer": ["How", "long", "have", "you", "known", "each", "other"],
+        "distractors": ["since"],
+        "explanation": "Pytanie o czas trwania: How long + have + podmiot + III forma czasownika."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-05",
+        "type": "match",
+        "prompt": "Połącz polskie wyrażenia z angielskimi.",
+        "answer": ["od rana|since this morning", "od dwóch godzin|for two hours", "od zeszłego roku|since last year", "od miesięcy|for months"],
+        "explanation": "Rano i zeszły rok to początek (since), dwie godziny i miesiące to okres (for)."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-06",
+        "type": "error",
+        "prompt": "We have lived here for 2015.",
+        "answer": ["for", "since"],
+        "explanation": "2015 to punkt w czasie, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-07",
+        "type": "translate",
+        "prompt": "Nie widziałem jej od tygodnia.",
+        "answer": "I haven't seen her for a week.",
+        "explanation": "W przeczeniu Present Perfect z for mówi, od jak dawna coś się nie dzieje. Po polsku często używamy wtedy czasu przeszłego."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-08",
+        "type": "transform",
+        "prompt": "Użyj słowa SINCE.\nI last saw Tom in May.",
+        "answer": "I haven't seen Tom since May.",
+        "hint": "Ostatni raz widziałem = od tamtej pory nie widziałem.",
+        "explanation": "„Last + Past Simple” zamieniamy na przeczenie w Present Perfect z since: haven't seen… since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-09",
+        "type": "cloze",
+        "prompt": "My parents have been retired ___ 2018.",
+        "answer": "since",
+        "explanation": "2018 to punkt w czasie, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-2-10",
+        "type": "choice",
+        "prompt": "I ___ him for twenty years, and we're still best friends.",
+        "answer": "have known",
+        "distractors": ["know", "knew", "am knowing"],
+        "explanation": "Znajomość trwa do dziś (still), więc Present Perfect: have known. Know nie występuje w formie -ing."
+      }
+    ]
+  },
+  {
+    "id": "b1-present-perfect-for-since-3",
+    "topicId": "b1-present-perfect-for-since",
+    "exercises": [
+      {
+        "id": "b1-present-perfect-for-since-3-01",
+        "type": "choice",
+        "prompt": "She moved to Wrocław three years ___.",
+        "answer": "ago",
+        "distractors": ["for", "since"],
+        "explanation": "Ago z Past Simple mówi, kiedy coś się stało, a nie jak długo trwa."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-02",
+        "type": "cloze",
+        "prompt": "I haven't eaten anything ___ breakfast.",
+        "answer": "since",
+        "explanation": "Breakfast wyznacza moment początku, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-03",
+        "type": "cloze",
+        "prompt": "They've been waiting outside ___ twenty minutes.",
+        "answer": "for",
+        "explanation": "Twenty minutes to okres, więc for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-04",
+        "type": "tiles",
+        "prompt": "Ona uczy się angielskiego od września.",
+        "answer": ["She", "has", "studied", "English", "since", "September"],
+        "distractors": ["for", "is"],
+        "explanation": "Czynność trwająca do teraz: has studied. Wrzesień to początek, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-05",
+        "type": "error",
+        "prompt": "She has been a teacher since ten years.",
+        "answer": ["since", "for"],
+        "explanation": "Ten years to okres, więc for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-06",
+        "type": "match",
+        "prompt": "Połącz polskie wyrażenia z angielskimi.",
+        "answer": ["od kiedy?|since when?", "jak długo?|how long?", "dwa lata temu|two years ago", "od dwóch lat|for two years"],
+        "explanation": "„Temu” to ago (moment w przeszłości), „od dwóch lat” to for (okres trwający do teraz)."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-07",
+        "type": "transform",
+        "prompt": "Użyj słowa FOR.\nMy brother got his driving licence two years ago.",
+        "answer": "My brother has had his driving licence for two years.",
+        "accept": ["My brother's had his driving licence for two years.", "My brother has had his driving licence for 2 years."],
+        "explanation": "Dostać (got) to jednorazowe zdarzenie. Mieć prawo jazdy to stan trwający do teraz: has had… for."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-08",
+        "type": "translate",
+        "prompt": "Pracuję tu od poniedziałku.",
+        "answer": "I have worked here since Monday.",
+        "accept": ["I have been working here since Monday."],
+        "explanation": "Polski czas teraźniejszy z „od” to Present Perfect. Poniedziałek to początek, więc since."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-09",
+        "type": "cloze",
+        "prompt": "It's been ages ___ we last met.",
+        "answer": "since",
+        "explanation": "It's been + okres + since + Past Simple: od naszego ostatniego spotkania minęło dużo czasu."
+      },
+      {
+        "id": "b1-present-perfect-for-since-3-10",
+        "type": "choice",
+        "prompt": "Mark has lived in London ___ he finished his studies.",
+        "answer": "since",
+        "distractors": ["for", "ago"],
+        "explanation": "Since może wprowadzać zdanie z Past Simple, które wskazuje początek: since he finished…"
+      }
+    ]
+  }
+]

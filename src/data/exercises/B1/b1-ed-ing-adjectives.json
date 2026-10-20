@@ -1,0 +1,323 @@
+[
+  {
+    "id": "b1-ed-ing-adjectives-1",
+    "topicId": "b1-ed-ing-adjectives",
+    "exercises": [
+      {
+        "id": "b1-ed-ing-adjectives-1-01",
+        "type": "choice",
+        "prompt": "The film was really ___.",
+        "answer": "boring",
+        "distractors": [
+          "bored",
+          "bore"
+        ],
+        "explanation": "Film jest nudny: boring."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-02",
+        "type": "choice",
+        "prompt": "I was ___ during the film.",
+        "answer": "bored",
+        "distractors": [
+          "boring",
+          "bore"
+        ],
+        "explanation": "Ja się nudziłem: bored."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-03",
+        "type": "choice",
+        "prompt": "I'm very ___ in history.",
+        "answer": "interested",
+        "distractors": [
+          "interesting",
+          "interest"
+        ],
+        "explanation": "Interesuję się: interested in."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-04",
+        "type": "cloze",
+        "prompt": "The news was ___. (shock)",
+        "answer": "shocking",
+        "explanation": "Wiadomość szokuje: shocking."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-05",
+        "type": "cloze",
+        "prompt": "We were ___ to see him. (surprise)",
+        "answer": "surprised",
+        "explanation": "My byliśmy zaskoczeni: surprised."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-06",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "tired|zmęczony",
+          "tiring|męczący",
+          "excited|podekscytowany",
+          "exciting|ekscytujący"
+        ],
+        "explanation": "-ed – uczucie, -ing – cecha."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-07",
+        "type": "error",
+        "prompt": "I'm so exciting about the trip!",
+        "answer": [
+          "exciting",
+          "excited"
+        ],
+        "explanation": "Ja czuję: excited."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-08",
+        "type": "tiles",
+        "prompt": "Ta lekcja była bardzo nudna.",
+        "answer": [
+          "This",
+          "lesson",
+          "was",
+          "very",
+          "boring"
+        ],
+        "distractors": [
+          "bored"
+        ],
+        "explanation": "Lekcja nudna: boring."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-09",
+        "type": "translate",
+        "prompt": "Jestem zmęczony po pracy.",
+        "answer": "I am tired after work.",
+        "explanation": "Jak się czuję: tired (-ed)."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-1-10",
+        "type": "transform",
+        "prompt": "Przepisz zdanie, zacznij od „I was”.\nThe book was interesting to me.",
+        "answer": "I was interested in the book.",
+        "explanation": "Uczucie osoby: interested in."
+      }
+    ]
+  },
+  {
+    "id": "b1-ed-ing-adjectives-2",
+    "topicId": "b1-ed-ing-adjectives",
+    "exercises": [
+      {
+        "id": "b1-ed-ing-adjectives-2-01",
+        "type": "cloze",
+        "prompt": "Don't be ___. Everybody makes mistakes. (embarrass)",
+        "answer": "embarrassed",
+        "explanation": "Uczucie: embarrassed."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-02",
+        "type": "cloze",
+        "prompt": "It was an ___ situation. (embarrass)",
+        "answer": "embarrassing",
+        "explanation": "Cecha sytuacji: embarrassing."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-03",
+        "type": "choice",
+        "prompt": "The results were ___. Everyone was disappointed.",
+        "answer": "disappointing",
+        "distractors": [
+          "disappointed",
+          "disappoint"
+        ],
+        "explanation": "Wyniki rozczarowują: disappointing."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-04",
+        "type": "choice",
+        "prompt": "I felt ___ when I couldn't find my passport.",
+        "answer": "worried",
+        "distractors": [
+          "worrying",
+          "worry"
+        ],
+        "explanation": "Uczucie: worried."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-05",
+        "type": "choice",
+        "prompt": "This weather is so ___!",
+        "answer": "depressing",
+        "distractors": [
+          "depressed",
+          "depress"
+        ],
+        "explanation": "Pogoda przygnębia: depressing."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-06",
+        "type": "transform",
+        "prompt": "Przepisz z przymiotnikiem -ing, zacznij od „The journey was”.\nThe journey made me tired.",
+        "answer": "The journey was tiring.",
+        "explanation": "Cecha podróży: tiring."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-07",
+        "type": "tiles",
+        "prompt": "Byliśmy zaskoczeni wynikami.",
+        "answer": [
+          "We",
+          "were",
+          "surprised",
+          "by",
+          "the",
+          "results"
+        ],
+        "distractors": [
+          "surprising"
+        ],
+        "explanation": "Uczucie: surprised."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-08",
+        "type": "error",
+        "prompt": "The museum was very interested.",
+        "answer": [
+          "interested",
+          "interesting"
+        ],
+        "explanation": "Cecha muzeum: interesting."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-09",
+        "type": "translate",
+        "prompt": "To było ekscytujące!",
+        "answer": "It was exciting!",
+        "accept": [
+          "That was exciting!"
+        ],
+        "explanation": "Cecha: exciting."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-2-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I'm confused.|Jestem zdezorientowany.",
+          "It's confusing.|To jest mylące.",
+          "I'm amazed.|Jestem zdumiony.",
+          "It's amazing.|To jest niesamowite."
+        ],
+        "explanation": "-ed i -ing."
+      }
+    ]
+  },
+  {
+    "id": "b1-ed-ing-adjectives-3",
+    "topicId": "b1-ed-ing-adjectives",
+    "exercises": [
+      {
+        "id": "b1-ed-ing-adjectives-3-01",
+        "type": "cloze",
+        "prompt": "She was ___ of the dog. (frighten)",
+        "answer": "frightened",
+        "explanation": "Uczucie: frightened of."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-02",
+        "type": "cloze",
+        "prompt": "Horror films are ___. (frighten)",
+        "answer": "frightening",
+        "explanation": "Cecha filmów: frightening."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-03",
+        "type": "choice",
+        "prompt": "I'm ___ by all these new rules.",
+        "answer": "confused",
+        "distractors": [
+          "confusing",
+          "confuse"
+        ],
+        "explanation": "Uczucie: confused."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-04",
+        "type": "choice",
+        "prompt": "His speech was very ___. Everyone listened.",
+        "answer": "interesting",
+        "distractors": [
+          "interested",
+          "interest"
+        ],
+        "explanation": "Cecha przemowy: interesting."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-05",
+        "type": "choice",
+        "prompt": "We're ___ about our holiday in Japan!",
+        "answer": "excited",
+        "distractors": [
+          "exciting",
+          "excite"
+        ],
+        "explanation": "Uczucie: excited about."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-06",
+        "type": "error",
+        "prompt": "I felt very relaxing on holiday.",
+        "answer": [
+          "relaxing",
+          "relaxed"
+        ],
+        "explanation": "Uczucie: relaxed."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-07",
+        "type": "error",
+        "prompt": "That was the most bored lesson ever.",
+        "answer": [
+          "bored",
+          "boring"
+        ],
+        "explanation": "Cecha lekcji: boring."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-08",
+        "type": "tiles",
+        "prompt": "Byłem bardzo rozczarowany.",
+        "answer": [
+          "I",
+          "was",
+          "very",
+          "disappointed"
+        ],
+        "distractors": [
+          "disappointing"
+        ],
+        "explanation": "Uczucie: disappointed."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-09",
+        "type": "translate",
+        "prompt": "Ta podróż była męcząca.",
+        "answer": "The journey was tiring.",
+        "accept": [
+          "This journey was tiring.",
+          "The trip was tiring.",
+          "This trip was tiring."
+        ],
+        "explanation": "Cecha: tiring."
+      },
+      {
+        "id": "b1-ed-ing-adjectives-3-10",
+        "type": "transform",
+        "prompt": "Przepisz, zacznij od „The film”.\nI was bored by the film.",
+        "answer": "The film was boring.",
+        "explanation": "Cecha filmu: boring."
+      }
+    ]
+  }
+]

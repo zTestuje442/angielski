@@ -1,0 +1,353 @@
+[
+  {
+    "id": "c1-formal-subjunctive-1",
+    "topicId": "c1-formal-subjunctive",
+    "exercises": [
+      {
+        "id": "c1-formal-subjunctive-1-01",
+        "type": "cloze",
+        "prompt": "The doctor recommended that he ___ smoking. (stop)",
+        "answer": "stop",
+        "explanation": "Subjunctive: forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-02",
+        "type": "cloze",
+        "prompt": "It is essential that every employee ___ the training. (attend)",
+        "answer": "attend",
+        "accept": [
+          "should attend"
+        ],
+        "explanation": "It is essential that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-03",
+        "type": "choice",
+        "prompt": "They insisted that she ___ present at the meeting.",
+        "answer": "be",
+        "distractors": [
+          "is",
+          "was"
+        ],
+        "explanation": "Subjunctive: be."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-04",
+        "type": "choice",
+        "prompt": "I suggest that he ___ a lawyer.",
+        "answer": "consult",
+        "distractors": [
+          "consults",
+          "consulted"
+        ],
+        "explanation": "Suggest that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-05",
+        "type": "choice",
+        "prompt": "We request that the payment ___ made by Friday.",
+        "answer": "be",
+        "distractors": [
+          "is",
+          "will be"
+        ],
+        "explanation": "Request that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "suggest that he go|zasugerować, żeby poszedł",
+          "insist that she be|nalegać, żeby była",
+          "it is vital that they know|to kluczowe, żeby wiedzieli",
+          "demand that it stop|zażądać, żeby to ustało"
+        ],
+        "explanation": "Subjunctive."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-07",
+        "type": "error",
+        "prompt": "The committee proposed that the rule is changed.",
+        "answer": [
+          "is",
+          "be"
+        ],
+        "explanation": "Proposed that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-08",
+        "type": "tiles",
+        "prompt": "Ważne jest żeby on to zrozumiał.",
+        "answer": [
+          "It",
+          "is",
+          "important",
+          "that",
+          "he",
+          "understand",
+          "this"
+        ],
+        "distractors": [
+          "understood",
+          "to"
+        ],
+        "explanation": "It is important that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-09",
+        "type": "translate",
+        "prompt": "Nalegali, żebym został.",
+        "answer": "They insisted that I stay.",
+        "accept": [
+          "They insisted that I should stay.",
+          "They insisted on my staying.",
+          "They insisted on me staying."
+        ],
+        "explanation": "Insist that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-1-10",
+        "type": "transform",
+        "prompt": "Zamień na subjunctive, zacznij od „The manager demanded that”.\nThe manager said: \"Finish the report today!\"",
+        "answer": "The manager demanded that the report be finished today.",
+        "accept": [
+          "The manager demanded that we finish the report today.",
+          "The manager demanded that I finish the report today.",
+          "The manager demanded that the report should be finished today."
+        ],
+        "explanation": "Demand that + be + III forma."
+      }
+    ]
+  },
+  {
+    "id": "c1-formal-subjunctive-2",
+    "topicId": "c1-formal-subjunctive",
+    "exercises": [
+      {
+        "id": "c1-formal-subjunctive-2-01",
+        "type": "cloze",
+        "prompt": "It is vital that the patient ___ kept warm.",
+        "answer": "be",
+        "explanation": "It is vital that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-02",
+        "type": "cloze",
+        "prompt": "We suggest that she ___ not travel alone.",
+        "answer": "should",
+        "explanation": "Should not travel (wersja brytyjska)."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-03",
+        "type": "choice",
+        "prompt": "I wish he ___ here now.",
+        "answer": "were",
+        "distractors": [
+          "is",
+          "be"
+        ],
+        "explanation": "Wish + were."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-04",
+        "type": "choice",
+        "prompt": "The law requires that every driver ___ insurance.",
+        "answer": "have",
+        "distractors": [
+          "has",
+          "having"
+        ],
+        "explanation": "Requires that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-05",
+        "type": "choice",
+        "prompt": "We will stay overnight, if need ___.",
+        "answer": "be",
+        "distractors": [
+          "is",
+          "being"
+        ],
+        "explanation": "Zwrot: if need be."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-06",
+        "type": "transform",
+        "prompt": "Zamień na subjunctive, zacznij od „The teacher recommended that”.\nThe teacher said: \"Anna should read more.\"",
+        "answer": "The teacher recommended that Anna read more.",
+        "accept": [
+          "The teacher recommended that Anna should read more."
+        ],
+        "explanation": "Recommend that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-07",
+        "type": "transform",
+        "prompt": "Przepisz z „It is crucial that”.\nThe data must be checked.",
+        "answer": "It is crucial that the data be checked.",
+        "accept": [
+          "It is crucial that the data should be checked.",
+          "It is crucial that the data is checked.",
+          "It is crucial that the data are checked."
+        ],
+        "explanation": "It is crucial that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-08",
+        "type": "tiles",
+        "prompt": "Zasugerowałem żeby nie podpisywał umowy.",
+        "answer": [
+          "I",
+          "suggested",
+          "that",
+          "he",
+          "not",
+          "sign",
+          "the",
+          "contract"
+        ],
+        "distractors": [
+          "signed",
+          "don't"
+        ],
+        "explanation": "Przeczenie: not + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-09",
+        "type": "error",
+        "prompt": "It is necessary that everyone arrives on time.",
+        "answer": [
+          "arrives",
+          "arrive"
+        ],
+        "explanation": "It is necessary that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-2-10",
+        "type": "translate",
+        "prompt": "Bądź co bądź, musimy spróbować.",
+        "answer": "Be that as it may, we have to try.",
+        "accept": [
+          "Be that as it may, we must try.",
+          "Be that as it may, we need to try."
+        ],
+        "explanation": "Zwrot: Be that as it may."
+      }
+    ]
+  },
+  {
+    "id": "c1-formal-subjunctive-3",
+    "topicId": "c1-formal-subjunctive",
+    "exercises": [
+      {
+        "id": "c1-formal-subjunctive-3-01",
+        "type": "choice",
+        "prompt": "She speaks as if she ___ the boss.",
+        "answer": "were",
+        "distractors": [
+          "is being",
+          "be"
+        ],
+        "explanation": "As if + were."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-02",
+        "type": "choice",
+        "prompt": "The judge ordered that the prisoner ___ released.",
+        "answer": "be",
+        "distractors": [
+          "is",
+          "was being"
+        ],
+        "explanation": "Ordered that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-03",
+        "type": "cloze",
+        "prompt": "Long ___ the King!",
+        "answer": "live",
+        "explanation": "Zwrot: Long live..."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-04",
+        "type": "cloze",
+        "prompt": "The board has asked that all phones ___ switched off.",
+        "answer": "be",
+        "explanation": "Asked that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-05",
+        "type": "cloze",
+        "prompt": "It is recommended that the medicine ___ taken with food.",
+        "answer": "be",
+        "explanation": "It is recommended that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-06",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "if need be|w razie potrzeby",
+          "be that as it may|bądź co bądź",
+          "so be it|niech tak będzie",
+          "as it were|że tak powiem"
+        ],
+        "explanation": "Utarte zwroty."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-07",
+        "type": "error",
+        "prompt": "The client demanded that the error is corrected immediately.",
+        "answer": [
+          "is",
+          "be"
+        ],
+        "explanation": "Demand that + be."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-08",
+        "type": "error",
+        "prompt": "I recommend that he takes a few days off.",
+        "answer": [
+          "takes",
+          "take"
+        ],
+        "explanation": "Recommend that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-09",
+        "type": "tiles",
+        "prompt": "Kluczowe jest aby nikt się nie dowiedział.",
+        "answer": [
+          "It",
+          "is",
+          "crucial",
+          "that",
+          "nobody",
+          "find",
+          "out"
+        ],
+        "distractors": [
+          "found",
+          "finding"
+        ],
+        "explanation": "It is crucial that + forma podstawowa."
+      },
+      {
+        "id": "c1-formal-subjunctive-3-10",
+        "type": "translate",
+        "prompt": "Zaproponowała, żebyśmy się spotkali w poniedziałek.",
+        "answer": "She proposed that we meet on Monday.",
+        "accept": [
+          "She suggested that we meet on Monday.",
+          "She proposed that we should meet on Monday.",
+          "She suggested that we should meet on Monday.",
+          "She suggested meeting on Monday.",
+          "She proposed meeting on Monday."
+        ],
+        "explanation": "Propose that + forma podstawowa."
+      }
+    ]
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "id": "a2-comparatives-superlatives-1",
+    "topicId": "a2-comparatives-superlatives",
+    "exercises": [
+      {
+        "id": "a2-comparatives-superlatives-1-01",
+        "type": "cloze",
+        "prompt": "My brother is ___ than me. (tall)",
+        "answer": "taller",
+        "explanation": "Krótki przymiotnik: -er."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-02",
+        "type": "cloze",
+        "prompt": "This bag is ___ than that one. (heavy)",
+        "answer": "heavier",
+        "explanation": "-y → -ier."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-03",
+        "type": "cloze",
+        "prompt": "A car is ___ than a bike. (expensive)",
+        "answer": "more expensive",
+        "explanation": "Długi przymiotnik: more."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-04",
+        "type": "choice",
+        "prompt": "London is ___ than Oxford.",
+        "answer": "bigger",
+        "distractors": [
+          "more big",
+          "biger"
+        ],
+        "explanation": "Big → bigger (podwojenie g)."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-05",
+        "type": "choice",
+        "prompt": "Today is ___ than yesterday.",
+        "answer": "better",
+        "distractors": [
+          "gooder",
+          "more good"
+        ],
+        "explanation": "Good → better."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-06",
+        "type": "match",
+        "prompt": "Połącz przymiotnik ze stopniem wyższym.",
+        "answer": [
+          "big|bigger",
+          "happy|happier",
+          "good|better",
+          "bad|worse"
+        ],
+        "explanation": "Stopień wyższy: -er, -ier i nieregularne."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-07",
+        "type": "error",
+        "prompt": "Spain is hoter than Poland in summer.",
+        "answer": [
+          "hoter",
+          "hotter"
+        ],
+        "explanation": "Hot → hotter (podwojenie t)."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-08",
+        "type": "tiles",
+        "prompt": "Kot jest mniejszy niż pies.",
+        "answer": [
+          "The",
+          "cat",
+          "is",
+          "smaller",
+          "than",
+          "the",
+          "dog"
+        ],
+        "explanation": "Small → smaller + than."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-09",
+        "type": "translate",
+        "prompt": "Moje mieszkanie jest tańsze niż twoje.",
+        "answer": "My flat is cheaper than yours.",
+        "accept": [
+          "My flat is cheaper than your flat.",
+          "My apartment is cheaper than yours."
+        ],
+        "explanation": "Cheap → cheaper."
+      },
+      {
+        "id": "a2-comparatives-superlatives-1-10",
+        "type": "transform",
+        "prompt": "Porównaj, używając „old” i „than”.\nTom is 20. Ann is 25.",
+        "answer": "Ann is older than Tom.",
+        "accept": [
+          "Tom is younger than Ann."
+        ],
+        "explanation": "Old → older + than."
+      }
+    ]
+  },
+  {
+    "id": "a2-comparatives-superlatives-2",
+    "topicId": "a2-comparatives-superlatives",
+    "exercises": [
+      {
+        "id": "a2-comparatives-superlatives-2-01",
+        "type": "cloze",
+        "prompt": "Everest is the ___ mountain in the world. (high)",
+        "answer": "highest",
+        "explanation": "Najwyższy: the + -est."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-02",
+        "type": "cloze",
+        "prompt": "This is the ___ day of my life! (happy)",
+        "answer": "happiest",
+        "explanation": "-y → -iest."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-03",
+        "type": "cloze",
+        "prompt": "It was the ___ meal of the trip. (bad)",
+        "answer": "worst",
+        "explanation": "Bad → the worst."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-04",
+        "type": "choice",
+        "prompt": "Who is the ___ student in your class?",
+        "answer": "best",
+        "distractors": [
+          "better",
+          "most good"
+        ],
+        "explanation": "Good → the best."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-05",
+        "type": "choice",
+        "prompt": "This is the ___ hotel in the city.",
+        "answer": "most expensive",
+        "distractors": [
+          "expensivest",
+          "more expensive"
+        ],
+        "explanation": "Długi przymiotnik: the most."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-06",
+        "type": "match",
+        "prompt": "Połącz przymiotnik ze stopniem najwyższym.",
+        "answer": [
+          "fast|the fastest",
+          "beautiful|the most beautiful",
+          "big|the biggest",
+          "good|the best"
+        ],
+        "explanation": "Stopień najwyższy."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-07",
+        "type": "error",
+        "prompt": "It's the bigest room in the house.",
+        "answer": [
+          "bigest",
+          "biggest"
+        ],
+        "explanation": "Big → biggest (podwojenie g)."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-08",
+        "type": "tiles",
+        "prompt": "To najlepsza pizza w mieście.",
+        "answer": [
+          "This",
+          "is",
+          "the",
+          "best",
+          "pizza",
+          "in",
+          "town"
+        ],
+        "explanation": "Good → the best."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-09",
+        "type": "translate",
+        "prompt": "Który miesiąc jest najzimniejszy?",
+        "answer": "Which month is the coldest?",
+        "accept": [
+          "What month is the coldest?",
+          "Which is the coldest month?",
+          "What is the coldest month?"
+        ],
+        "explanation": "Cold → the coldest."
+      },
+      {
+        "id": "a2-comparatives-superlatives-2-10",
+        "type": "transform",
+        "prompt": "Napisz stopień najwyższy z „the”.\ninteresting",
+        "answer": "the most interesting",
+        "accept": [
+          "most interesting"
+        ],
+        "explanation": "Długi przymiotnik: the most interesting."
+      }
+    ]
+  },
+  {
+    "id": "a2-comparatives-superlatives-3",
+    "topicId": "a2-comparatives-superlatives",
+    "exercises": [
+      {
+        "id": "a2-comparatives-superlatives-3-01",
+        "type": "cloze",
+        "prompt": "My phone is as ___ as yours. (old)",
+        "answer": "old",
+        "explanation": "As + przymiotnik + as."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-02",
+        "type": "cloze",
+        "prompt": "This exercise is ___ difficult than the last one.",
+        "answer": "more",
+        "explanation": "Długi przymiotnik: more."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-03",
+        "type": "choice",
+        "prompt": "He isn't ___ tall as his father.",
+        "answer": "as",
+        "distractors": [
+          "than",
+          "more"
+        ],
+        "explanation": "Not as ... as."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-04",
+        "type": "choice",
+        "prompt": "Which is ___, a lion or a cat?",
+        "answer": "more dangerous",
+        "distractors": [
+          "the most dangerous",
+          "dangerouser"
+        ],
+        "explanation": "Dwie rzeczy: stopień wyższy."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-05",
+        "type": "choice",
+        "prompt": "That was the ___ exam of the year.",
+        "answer": "easiest",
+        "distractors": [
+          "easier",
+          "most easy"
+        ],
+        "explanation": "Easy → the easiest."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "older than|starszy niż",
+          "the oldest|najstarszy",
+          "as old as|tak stary jak",
+          "not as old as|nie tak stary jak"
+        ],
+        "explanation": "Porównania."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-07",
+        "type": "error",
+        "prompt": "Russia is biggest than Poland.",
+        "answer": [
+          "biggest",
+          "bigger"
+        ],
+        "explanation": "Z than: stopień wyższy."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-08",
+        "type": "error",
+        "prompt": "This is the more beautiful beach in Spain.",
+        "answer": [
+          "more",
+          "most"
+        ],
+        "explanation": "Najpiękniejsza: the most beautiful."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-09",
+        "type": "tiles",
+        "prompt": "Jest trochę cieplej niż wczoraj.",
+        "answer": [
+          "It",
+          "is",
+          "a",
+          "bit",
+          "warmer",
+          "than",
+          "yesterday"
+        ],
+        "explanation": "A bit + stopień wyższy."
+      },
+      {
+        "id": "a2-comparatives-superlatives-3-10",
+        "type": "translate",
+        "prompt": "Ona jest najmłodsza w rodzinie.",
+        "answer": "She is the youngest in the family.",
+        "accept": [
+          "She is the youngest in her family.",
+          "She is the youngest in our family.",
+          "She is the youngest person in the family."
+        ],
+        "explanation": "Young → the youngest."
+      }
+    ]
+  }
+]

@@ -1,0 +1,337 @@
+[
+  {
+    "id": "a2-writing-short-message-1",
+    "topicId": "a2-writing-short-message",
+    "exercises": [
+      {
+        "id": "a2-writing-short-message-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "Hi Kasia,|początek do znajomego",
+          "See you soon!|zakończenie",
+          "Thanks!|podziękowanie",
+          "Love,|pozdrowienia (bliska osoba)"
+        ],
+        "explanation": "Zwroty z krótkich wiadomości."
+      },
+      {
+        "id": "a2-writing-short-message-1-02",
+        "type": "choice",
+        "prompt": "Which is a good ending for a message to a friend?",
+        "answer": "See you later!",
+        "distractors": [
+          "Yours faithfully,",
+          "Dear Sir or Madam,"
+        ],
+        "explanation": "Do znajomego: nieformalnie."
+      },
+      {
+        "id": "a2-writing-short-message-1-03",
+        "type": "choice",
+        "prompt": "Which is a good start for a text to your brother?",
+        "answer": "Hi Tom,",
+        "distractors": [
+          "Dear Sir,",
+          "To whom it may concern,"
+        ],
+        "explanation": "Do brata: Hi + imię."
+      },
+      {
+        "id": "a2-writing-short-message-1-04",
+        "type": "cloze",
+        "prompt": "Can you buy some milk on your way home? ___! (Dzięki)",
+        "answer": "Thanks",
+        "accept": [
+          "Thank you"
+        ],
+        "explanation": "Krótko: Thanks!"
+      },
+      {
+        "id": "a2-writing-short-message-1-05",
+        "type": "cloze",
+        "prompt": "I'm at the café. Text me when you ___ here. (dotrzesz)",
+        "answer": "get",
+        "accept": [
+          "are",
+          "arrive"
+        ],
+        "explanation": "Dotrzeć: get here."
+      },
+      {
+        "id": "a2-writing-short-message-1-06",
+        "type": "tiles",
+        "prompt": "SMS od Marty do Oli.",
+        "answer": [
+          "Hi Ola,",
+          "Sorry, the bus is late.",
+          "I'll be at the café at 7.",
+          "Marta"
+        ],
+        "explanation": "Powitanie, powód, informacja, podpis."
+      },
+      {
+        "id": "a2-writing-short-message-1-07",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because”.\nI cannot come. I am ill.",
+        "answer": "I cannot come because I am ill.",
+        "explanation": "Powód: because."
+      },
+      {
+        "id": "a2-writing-short-message-1-08",
+        "type": "error",
+        "prompt": "Hi Mum, I'm at home. See you late!",
+        "answer": [
+          "late",
+          "later"
+        ],
+        "explanation": "Do zobaczenia później: See you later!"
+      },
+      {
+        "id": "a2-writing-short-message-1-09",
+        "type": "translate",
+        "prompt": "Spóźnię się 10 minut.",
+        "answer": "I will be 10 minutes late.",
+        "accept": [
+          "I will be ten minutes late.",
+          "I am going to be 10 minutes late.",
+          "I am going to be ten minutes late."
+        ],
+        "explanation": "Będę spóźniony: I'll be ... late."
+      },
+      {
+        "id": "a2-writing-short-message-1-10",
+        "type": "choice",
+        "prompt": "Which one is an invitation?",
+        "answer": "Would you like to come to my party on Saturday?",
+        "distractors": [
+          "Sorry, I can't come on Saturday.",
+          "Thanks for the party on Saturday!"
+        ],
+        "explanation": "Zaproszenie: Would you like to come...?"
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-short-message-2",
+    "topicId": "a2-writing-short-message",
+    "exercises": [
+      {
+        "id": "a2-writing-short-message-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "Would you like to come?|zaproszenie",
+          "I'd love to!|przyjęcie zaproszenia",
+          "Sorry, I can't.|odmowa",
+          "Let me know.|daj znać"
+        ],
+        "explanation": "Zaproszenia i odpowiedzi."
+      },
+      {
+        "id": "a2-writing-short-message-2-02",
+        "type": "cloze",
+        "prompt": "Would you like to ___ to my birthday party?",
+        "answer": "come",
+        "explanation": "Would you like to come...?"
+      },
+      {
+        "id": "a2-writing-short-message-2-03",
+        "type": "cloze",
+        "prompt": "I'd ___ to come! What time does it start?",
+        "answer": "love",
+        "explanation": "Chętnie: I'd love to."
+      },
+      {
+        "id": "a2-writing-short-message-2-04",
+        "type": "cloze",
+        "prompt": "Sorry, I ___ come. I'm working that day.",
+        "answer": "can't",
+        "accept": [
+          "cannot"
+        ],
+        "explanation": "Odmowa: I can't come."
+      },
+      {
+        "id": "a2-writing-short-message-2-05",
+        "type": "choice",
+        "prompt": "Thanks for the ___! I'll be there.",
+        "answer": "invitation",
+        "distractors": [
+          "invite",
+          "inviting"
+        ],
+        "explanation": "Zaproszenie: invitation."
+      },
+      {
+        "id": "a2-writing-short-message-2-06",
+        "type": "choice",
+        "prompt": "Please let me ___ if you can come.",
+        "answer": "know",
+        "distractors": [
+          "knowing",
+          "to know"
+        ],
+        "explanation": "Let me know."
+      },
+      {
+        "id": "a2-writing-short-message-2-07",
+        "type": "transform",
+        "prompt": "Odpowiedz odmownie: zacznij od „Sorry, I cannot come” i dodaj powód z „because I am busy”.",
+        "answer": "Sorry, I cannot come because I am busy.",
+        "accept": [
+          "Sorry I cannot come because I am busy."
+        ],
+        "explanation": "Odmowa + powód."
+      },
+      {
+        "id": "a2-writing-short-message-2-08",
+        "type": "tiles",
+        "prompt": "Zaproszenie od Bena do Jacka.",
+        "answer": [
+          "Hi Jack,",
+          "I'm having a party on Saturday at 8.",
+          "Would you like to come?",
+          "Let me know!",
+          "Ben"
+        ],
+        "explanation": "Powitanie, informacja, zaproszenie, prośba o odpowiedź, podpis."
+      },
+      {
+        "id": "a2-writing-short-message-2-09",
+        "type": "error",
+        "prompt": "Thanks for invite me!",
+        "answer": [
+          "invite",
+          "inviting"
+        ],
+        "explanation": "Po for: -ing albo rzeczownik (thanks for the invitation)."
+      },
+      {
+        "id": "a2-writing-short-message-2-10",
+        "type": "translate",
+        "prompt": "Czy chcesz przyjść na kolację w piątek?",
+        "answer": "Would you like to come to dinner on Friday?",
+        "accept": [
+          "Do you want to come to dinner on Friday?",
+          "Would you like to come for dinner on Friday?",
+          "Do you want to come for dinner on Friday?"
+        ],
+        "explanation": "Zaproszenie: Would you like to come...?"
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-short-message-3",
+    "topicId": "a2-writing-short-message",
+    "exercises": [
+      {
+        "id": "a2-writing-short-message-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "Can you...?|prośba",
+          "Don't forget...|przypomnienie",
+          "I'm sorry, but...|przeprosiny i zmiana planu",
+          "See you at 6!|potwierdzenie spotkania"
+        ],
+        "explanation": "Funkcje wiadomości."
+      },
+      {
+        "id": "a2-writing-short-message-3-02",
+        "type": "cloze",
+        "prompt": "Don't ___ to take your keys! (zapomnij)",
+        "answer": "forget",
+        "explanation": "Przypomnienie: Don't forget."
+      },
+      {
+        "id": "a2-writing-short-message-3-03",
+        "type": "cloze",
+        "prompt": "I'm sorry, ___ I can't meet you today.",
+        "answer": "but",
+        "explanation": "Sorry, but..."
+      },
+      {
+        "id": "a2-writing-short-message-3-04",
+        "type": "choice",
+        "prompt": "Can we meet on Sunday ___ of Saturday?",
+        "answer": "instead",
+        "distractors": [
+          "because",
+          "so"
+        ],
+        "explanation": "Zamiast: instead of."
+      },
+      {
+        "id": "a2-writing-short-message-3-05",
+        "type": "choice",
+        "prompt": "I'll ___ you at the station at five.",
+        "answer": "meet",
+        "distractors": [
+          "see you",
+          "wait"
+        ],
+        "explanation": "Spotkam się z tobą: I'll meet you."
+      },
+      {
+        "id": "a2-writing-short-message-3-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „so”.\nMy car is broken. I cannot drive you.",
+        "answer": "My car is broken, so I cannot drive you.",
+        "accept": [
+          "My car is broken so I cannot drive you."
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-writing-short-message-3-07",
+        "type": "tiles",
+        "prompt": "Wiadomość od Oli do mamy.",
+        "answer": [
+          "Hi Mum,",
+          "I'm at Kate's house.",
+          "We're studying for the test.",
+          "I'll be home at 9.",
+          "Ola"
+        ],
+        "explanation": "Gdzie jestem, co robię, kiedy wrócę."
+      },
+      {
+        "id": "a2-writing-short-message-3-08",
+        "type": "error",
+        "prompt": "I'll waiting for you at the bus stop.",
+        "answer": [
+          "waiting",
+          "wait"
+        ],
+        "explanation": "Po will forma podstawowa."
+      },
+      {
+        "id": "a2-writing-short-message-3-09",
+        "type": "translate",
+        "prompt": "Kupisz chleb?",
+        "answer": "Can you buy some bread?",
+        "accept": [
+          "Could you buy some bread?",
+          "Will you buy some bread?",
+          "Can you buy bread?",
+          "Could you buy bread?",
+          "Can you get some bread?",
+          "Could you get some bread?"
+        ],
+        "explanation": "Prośba: Can you...?"
+      },
+      {
+        "id": "a2-writing-short-message-3-10",
+        "type": "choice",
+        "prompt": "Which message is short and clear?",
+        "answer": "Meet you at the cinema at 7. Don't be late!",
+        "distractors": [
+          "I am writing to inform you that the film will start at seven o'clock.",
+          "Hello, how are you? I hope everything is fine and you are well."
+        ],
+        "explanation": "Krótka wiadomość: konkret bez zbędnych słów."
+      }
+    ]
+  }
+]

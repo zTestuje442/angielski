@@ -1,0 +1,111 @@
+{
+  "id": "b1-reading-email-2",
+  "topicId": "b1-reading-email",
+  "title": "Should I take the job?",
+  "text": "Hi Marek,\n\nI need your advice! You know I've been looking for a new job for months. Well, yesterday I finally got an offer from a software company in Wrocław. The salary is about thirty percent higher than what I earn now, and they want me to lead a small team of four people. It sounds perfect, doesn't it?\n\nThe problem is that I would have to move. My flat in Poznań is only ten minutes from my parents, and since Dad's operation last spring, I go there almost every day to help with shopping and cooking. My sister lives in Gdańsk, so she can't help very often. If I move, Mum will have to do everything herself.\n\nThe company says I could work from home two days a week, which would help a bit. Wrocław is about two hours from Poznań by train, so I could come back every weekend. But I'm not sure that would be enough.\n\nOn the other hand, I don't want to stay in my current job forever. I've been there for six years, and there's no chance of promotion. I'm bored, and I feel I'm not learning anything new. My manager is nice, but she won't be able to give me more responsibility.\n\nThey want an answer by Friday. What would you do if you were me? You always see things more clearly than I do. Can we talk on the phone tonight or tomorrow?\n\nThanks, and sorry for the long email!\nAnia",
+  "exercises": [
+    {
+      "id": "b1-reading-email-2-01",
+      "type": "choice",
+      "prompt": "The new job pays more than Ania's current job.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„The salary is about thirty percent higher...”"
+    },
+    {
+      "id": "b1-reading-email-2-02",
+      "type": "choice",
+      "prompt": "Ania's sister lives near their parents.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Siostra mieszka w Gdańsku i rzadko może pomóc."
+    },
+    {
+      "id": "b1-reading-email-2-03",
+      "type": "choice",
+      "prompt": "Ania's manager wants her to stay.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czego chce szefowa."
+    },
+    {
+      "id": "b1-reading-email-2-04",
+      "type": "choice",
+      "prompt": "Why does Ania visit her parents almost every day?",
+      "answer": "to help her dad after his operation",
+      "distractors": [
+        "because her mum is ill",
+        "because they live in her flat"
+      ],
+      "explanation": "„...since Dad's operation last spring, I go there almost every day...”"
+    },
+    {
+      "id": "b1-reading-email-2-05",
+      "type": "choice",
+      "prompt": "Why does Ania want to leave her current job?",
+      "answer": "She is bored and can't get a promotion.",
+      "distractors": [
+        "Her manager isn't nice.",
+        "The office is too far from home."
+      ],
+      "explanation": "„...there's no chance of promotion. I'm bored...”"
+    },
+    {
+      "id": "b1-reading-email-2-06",
+      "type": "choice",
+      "prompt": "When does the company want an answer?",
+      "answer": "by Friday",
+      "distractors": [
+        "tonight",
+        "next week"
+      ],
+      "explanation": "„They want an answer by Friday.”"
+    },
+    {
+      "id": "b1-reading-email-2-07",
+      "type": "choice",
+      "prompt": "What does Ania ask Marek to do?",
+      "answer": "talk to her on the phone",
+      "distractors": [
+        "visit her parents",
+        "read the job offer"
+      ],
+      "explanation": "„Can we talk on the phone tonight or tomorrow?”"
+    },
+    {
+      "id": "b1-reading-email-2-08",
+      "type": "cloze",
+      "prompt": "They want me to lead a small ___ of four people.",
+      "answer": "team",
+      "explanation": "Zespół: team."
+    },
+    {
+      "id": "b1-reading-email-2-09",
+      "type": "cloze",
+      "prompt": "I've been there for six years, and there's no chance of ___.",
+      "answer": "promotion",
+      "explanation": "Awans: promotion."
+    },
+    {
+      "id": "b1-reading-email-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "offer|oferta",
+        "salary|pensja",
+        "promotion|awans",
+        "responsibility|odpowiedzialność"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+[
+  {
+    "id": "b2-mixed-conditionals-1",
+    "topicId": "b2-mixed-conditionals",
+    "exercises": [
+      {
+        "id": "b2-mixed-conditionals-1-01",
+        "type": "cloze",
+        "prompt": "If I had taken the job, I ___ be rich now.",
+        "answer": "would",
+        "explanation": "Skutek teraz: would + czasownik."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-02",
+        "type": "cloze",
+        "prompt": "If she ___ so shy (a zawsze jest), she would have talked to him yesterday. (not / be)",
+        "answer": "weren't",
+        "accept": [
+          "wasn't",
+          "were not",
+          "was not"
+        ],
+        "explanation": "Stała cecha: Past Simple."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-03",
+        "type": "choice",
+        "prompt": "If I had studied medicine, I ___ a doctor now.",
+        "answer": "would be",
+        "distractors": [
+          "would have been",
+          "will be"
+        ],
+        "explanation": "Skutek teraz: would be."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-04",
+        "type": "choice",
+        "prompt": "If he ___ so lazy (a zawsze jest), he would have finished the project last week.",
+        "answer": "weren't",
+        "distractors": [
+          "isn't",
+          "won't be"
+        ],
+        "explanation": "Stała cecha: Past Simple."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-05",
+        "type": "cloze",
+        "prompt": "If we had bought that house, we ___ live by the sea now.",
+        "answer": "would",
+        "explanation": "Skutek teraz: would live."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-06",
+        "type": "match",
+        "prompt": "Połącz typ z przykładem.",
+        "answer": [
+          "przeszłość → teraz|If I had saved money, I would be rich now.",
+          "teraz → przeszłość|If I were braver, I would have said something.",
+          "third conditional|If I had known, I would have come.",
+          "second conditional|If I knew, I would tell you."
+        ],
+        "explanation": "Typy zdań warunkowych."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-07",
+        "type": "error",
+        "prompt": "If you had listen, you would know the answer now.",
+        "answer": [
+          "listen",
+          "listened"
+        ],
+        "explanation": "Past Perfect: had listened."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-08",
+        "type": "tiles",
+        "prompt": "Gdybym nie zgubił mapy, nie bylibyśmy teraz zgubieni.",
+        "answer": [
+          "If",
+          "I",
+          "hadn't",
+          "lost",
+          "the",
+          "map",
+          "we",
+          "wouldn't",
+          "be",
+          "lost",
+          "now"
+        ],
+        "distractors": [
+          "have",
+          "been"
+        ],
+        "explanation": "Przeszła przyczyna, skutek teraz."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-09",
+        "type": "translate",
+        "prompt": "Gdybym wtedy przyjął tę pracę, mieszkałbym teraz w Londynie.",
+        "answer": "If I had taken that job, I would live in London now.",
+        "accept": [
+          "If I had accepted that job, I would live in London now.",
+          "If I had taken that job, I would be living in London now.",
+          "If I had accepted that job, I would be living in London now.",
+          "If I had taken the job, I would live in London now.",
+          "If I had taken the job, I would be living in London now."
+        ],
+        "explanation": "If + had taken, would live now."
+      },
+      {
+        "id": "b2-mixed-conditionals-1-10",
+        "type": "transform",
+        "prompt": "Połącz w zdanie mieszane, zacznij od „If I had slept”.\nI didn't sleep last night. I'm tired now.",
+        "answer": "If I had slept last night, I would not be tired now.",
+        "explanation": "If + had slept, wouldn't be."
+      }
+    ]
+  },
+  {
+    "id": "b2-mixed-conditionals-2",
+    "topicId": "b2-mixed-conditionals",
+    "exercises": [
+      {
+        "id": "b2-mixed-conditionals-2-01",
+        "type": "cloze",
+        "prompt": "If I ___ Spanish, I would have applied for that job. (speak)",
+        "answer": "spoke",
+        "explanation": "Stała umiejętność: Past Simple."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-02",
+        "type": "cloze",
+        "prompt": "If you had told me earlier, I ___ be so angry now.",
+        "answer": "wouldn't",
+        "accept": [
+          "would not"
+        ],
+        "explanation": "Skutek teraz: wouldn't be."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-03",
+        "type": "choice",
+        "prompt": "If I weren't afraid of flying, I ___ to Australia last year.",
+        "answer": "would have gone",
+        "distractors": [
+          "would go",
+          "went"
+        ],
+        "explanation": "Skutek w przeszłości: would have gone."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-04",
+        "type": "choice",
+        "prompt": "If she hadn't moved to Berlin, she ___ her husband.",
+        "answer": "wouldn't have met",
+        "distractors": [
+          "wouldn't meet",
+          "didn't meet"
+        ],
+        "explanation": "Obie części w przeszłości: third conditional."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-05",
+        "type": "choice",
+        "prompt": "If I had more money, I ___ that car last week.",
+        "answer": "would have bought",
+        "distractors": [
+          "would buy",
+          "had bought"
+        ],
+        "explanation": "Skutek w przeszłości: would have bought."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-06",
+        "type": "transform",
+        "prompt": "Połącz w zdanie mieszane, zacznij od „If he were more organised”.\nHe isn't very organised. He missed the deadline yesterday.",
+        "answer": "If he were more organised, he would not have missed the deadline yesterday.",
+        "accept": [
+          "If he was more organised, he would not have missed the deadline yesterday."
+        ],
+        "explanation": "Cecha teraz, skutek wczoraj."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-07",
+        "type": "tiles",
+        "prompt": "Gdyby nie był taki uparty, przeprosiłby wczoraj.",
+        "answer": [
+          "If",
+          "he",
+          "weren't",
+          "so",
+          "stubborn",
+          "he",
+          "would",
+          "have",
+          "apologised",
+          "yesterday"
+        ],
+        "distractors": [
+          "isn't",
+          "will"
+        ],
+        "explanation": "Cecha teraz, skutek wczoraj."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-08",
+        "type": "error",
+        "prompt": "If she were more careful, she wouldn't had the accident.",
+        "answer": [
+          "had",
+          "have had"
+        ],
+        "explanation": "Would have + III forma."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-09",
+        "type": "translate",
+        "prompt": "Gdybym znał odpowiedź, powiedziałbym ci wczoraj.",
+        "answer": "If I knew the answer, I would have told you yesterday.",
+        "explanation": "Wiedza (stała), skutek wczoraj."
+      },
+      {
+        "id": "b2-mixed-conditionals-2-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Gdybym się uczył, zdałbym (wtedy).|If I had studied, I would have passed.",
+          "Gdybym się uczył, byłbym teraz lekarzem.|If I had studied, I would be a doctor now.",
+          "Gdybym był lekarzem, pomógłbym mu (wczoraj).|If I were a doctor, I would have helped him."
+        ],
+        "explanation": "Trzy kombinacje."
+      }
+    ]
+  },
+  {
+    "id": "b2-mixed-conditionals-3",
+    "topicId": "b2-mixed-conditionals",
+    "exercises": [
+      {
+        "id": "b2-mixed-conditionals-3-01",
+        "type": "choice",
+        "prompt": "If I had listened to my parents, I ___ in this situation now.",
+        "answer": "wouldn't be",
+        "distractors": [
+          "wouldn't have been",
+          "won't be"
+        ],
+        "explanation": "Skutek teraz: wouldn't be."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-02",
+        "type": "choice",
+        "prompt": "If I ___ allergic to cats, I would have adopted that kitten.",
+        "answer": "weren't",
+        "distractors": [
+          "hadn't",
+          "am not"
+        ],
+        "explanation": "Stała cecha: weren't."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-03",
+        "type": "cloze",
+        "prompt": "If he had saved money, he ___ have problems now. (nie miałby)",
+        "answer": "wouldn't",
+        "accept": [
+          "would not"
+        ],
+        "explanation": "Skutek teraz."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-04",
+        "type": "cloze",
+        "prompt": "If you ___ a better driver, you wouldn't have crashed the car. (be)",
+        "answer": "were",
+        "accept": [
+          "was"
+        ],
+        "explanation": "Stała cecha: were."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-05",
+        "type": "cloze",
+        "prompt": "If I hadn't broken my leg, I ___ be skiing right now.",
+        "answer": "would",
+        "explanation": "Skutek teraz: would be skiing."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-06",
+        "type": "error",
+        "prompt": "If I had bought the tickets, we would been at the concert now.",
+        "answer": [
+          "been",
+          "be"
+        ],
+        "explanation": "Skutek teraz: would be."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-07",
+        "type": "error",
+        "prompt": "If he weren't so rude, she would has stayed.",
+        "answer": [
+          "has",
+          "have"
+        ],
+        "explanation": "Would have stayed."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-08",
+        "type": "tiles",
+        "prompt": "Gdybym miał samochód, podwiózłbym cię wczoraj.",
+        "answer": [
+          "If",
+          "I",
+          "had",
+          "a",
+          "car",
+          "I",
+          "would",
+          "have",
+          "given",
+          "you",
+          "a",
+          "lift",
+          "yesterday"
+        ],
+        "distractors": [
+          "will",
+          "gave"
+        ],
+        "explanation": "Stan teraz, skutek wczoraj."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-09",
+        "type": "translate",
+        "prompt": "Gdyby wczoraj nie padało, trawa nie byłaby teraz mokra.",
+        "answer": "If it had not rained yesterday, the grass would not be wet now.",
+        "explanation": "Przeszła przyczyna, skutek teraz."
+      },
+      {
+        "id": "b2-mixed-conditionals-3-10",
+        "type": "transform",
+        "prompt": "Połącz w zdanie mieszane, zacznij od „If I had not spent”.\nI spent all my money on holiday. I can't buy a new phone now.",
+        "answer": "If I had not spent all my money on holiday, I could buy a new phone now.",
+        "accept": [
+          "If I had not spent all my money on holiday, I would be able to buy a new phone now."
+        ],
+        "explanation": "Przeszła przyczyna, skutek teraz."
+      }
+    ]
+  }
+]

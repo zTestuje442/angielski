@@ -1,0 +1,354 @@
+[
+  {
+    "id": "c1-vocab-advanced-collocations-1",
+    "topicId": "c1-vocab-advanced-collocations",
+    "exercises": [
+      {
+        "id": "c1-vocab-advanced-collocations-1-01",
+        "type": "match",
+        "prompt": "Połącz czasowniki z rzeczownikami.",
+        "answer": [
+          "pose|a threat",
+          "raise|awareness",
+          "draw|a conclusion",
+          "meet|a deadline"
+        ],
+        "explanation": "Czasownik + rzeczownik."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-02",
+        "type": "choice",
+        "prompt": "Climate change poses a serious ___ to coastal cities.",
+        "answer": "threat",
+        "distractors": [
+          "danger of",
+          "risk on"
+        ],
+        "explanation": "Pose a threat."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-03",
+        "type": "choice",
+        "prompt": "It is highly ___ that he will win.",
+        "answer": "unlikely",
+        "distractors": [
+          "impossible",
+          "improbably"
+        ],
+        "explanation": "Highly unlikely."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-04",
+        "type": "cloze",
+        "prompt": "The police found strong ___ against him. (dowody)",
+        "answer": "evidence",
+        "explanation": "Strong evidence."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-05",
+        "type": "cloze",
+        "prompt": "The campaign aims to ___ awareness of mental health. (podnieść)",
+        "answer": "raise",
+        "explanation": "Raise awareness."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-06",
+        "type": "error",
+        "prompt": "A big majority of voters supported the plan.",
+        "answer": [
+          "big",
+          "vast"
+        ],
+        "explanation": "A vast majority."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-07",
+        "type": "tiles",
+        "prompt": "Jestem w pełni świadomy ryzyka.",
+        "answer": [
+          "I",
+          "am",
+          "fully",
+          "aware",
+          "of",
+          "the",
+          "risks"
+        ],
+        "distractors": [
+          "full",
+          "about"
+        ],
+        "explanation": "Fully aware."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-08",
+        "type": "translate",
+        "prompt": "Było przeraźliwie zimno.",
+        "answer": "It was bitterly cold.",
+        "accept": [
+          "It was freezing cold.",
+          "It was extremely cold.",
+          "It was terribly cold."
+        ],
+        "explanation": "Bitterly cold."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-09",
+        "type": "choice",
+        "prompt": "We need to ___ this issue as soon as possible.",
+        "answer": "address",
+        "distractors": [
+          "direct",
+          "speak"
+        ],
+        "explanation": "Address an issue."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „do research” kolokacją z „conduct”.\nThe university did research into the disease.",
+        "answer": "The university conducted research into the disease.",
+        "explanation": "Conduct research."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-advanced-collocations-2",
+    "topicId": "c1-vocab-advanced-collocations",
+    "exercises": [
+      {
+        "id": "c1-vocab-advanced-collocations-2-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z rzeczownikami.",
+        "answer": [
+          "heavy|traffic",
+          "strong|evidence",
+          "narrow|escape",
+          "fierce|debate"
+        ],
+        "explanation": "Przymiotnik + rzeczownik."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-02",
+        "type": "choice",
+        "prompt": "After a long discussion, the committee reached a ___.",
+        "answer": "consensus",
+        "distractors": [
+          "deal on",
+          "consent"
+        ],
+        "explanation": "Reach a consensus."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-03",
+        "type": "choice",
+        "prompt": "I ___ remember meeting him at a conference.",
+        "answer": "vaguely",
+        "distractors": [
+          "slightly",
+          "weakly"
+        ],
+        "explanation": "Vaguely remember."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-04",
+        "type": "cloze",
+        "prompt": "There was a ___ increase in crime last year. (gwałtowny)",
+        "answer": "sharp",
+        "accept": [
+          "dramatic",
+          "significant",
+          "steep"
+        ],
+        "explanation": "A sharp increase."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-05",
+        "type": "cloze",
+        "prompt": "I firmly ___ that education is the key. (wierzę)",
+        "answer": "believe",
+        "explanation": "Firmly believe."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-06",
+        "type": "error",
+        "prompt": "The company must carry responsibility for the damage.",
+        "answer": [
+          "carry",
+          "bear"
+        ],
+        "explanation": "Formalnie: bear responsibility."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-07",
+        "type": "tiles",
+        "prompt": "Złożył obietnicę i jej dotrzymał.",
+        "answer": [
+          "He",
+          "made",
+          "a",
+          "promise",
+          "and",
+          "kept",
+          "it"
+        ],
+        "distractors": [
+          "did",
+          "held"
+        ],
+        "explanation": "Make / keep a promise."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-08",
+        "type": "translate",
+        "prompt": "Jesteśmy głęboko zaniepokojeni.",
+        "answer": "We are deeply concerned.",
+        "accept": [
+          "We are very concerned.",
+          "We are deeply worried.",
+          "We're deeply concerned."
+        ],
+        "explanation": "Deeply concerned."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-09",
+        "type": "choice",
+        "prompt": "Safety must take ___ over speed.",
+        "answer": "precedence",
+        "distractors": [
+          "priority of",
+          "first"
+        ],
+        "explanation": "Take precedence over."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-2-10",
+        "type": "choice",
+        "prompt": "The driver had a ___ escape when his car hit a tree.",
+        "answer": "narrow",
+        "distractors": [
+          "thin",
+          "slim"
+        ],
+        "explanation": "A narrow escape."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-advanced-collocations-3",
+    "topicId": "c1-vocab-advanced-collocations",
+    "exercises": [
+      {
+        "id": "c1-vocab-advanced-collocations-3-01",
+        "type": "match",
+        "prompt": "Połącz przysłówki z przymiotnikami.",
+        "answer": [
+          "highly|unlikely",
+          "bitterly|disappointed",
+          "widely|accepted",
+          "utterly|ridiculous"
+        ],
+        "explanation": "Przysłówek + przymiotnik."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-02",
+        "type": "choice",
+        "prompt": "Working from home is a ___ option for many companies.",
+        "answer": "viable",
+        "distractors": [
+          "livable",
+          "vital"
+        ],
+        "explanation": "A viable option."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-03",
+        "type": "choice",
+        "prompt": "The unions are exerting ___ on the government.",
+        "answer": "pressure",
+        "distractors": [
+          "force on",
+          "stress"
+        ],
+        "explanation": "Exert pressure."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-04",
+        "type": "cloze",
+        "prompt": "I sincerely ___ for the inconvenience. (przepraszam)",
+        "answer": "apologise",
+        "accept": [
+          "apologize"
+        ],
+        "explanation": "Sincerely apologise."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-05",
+        "type": "cloze",
+        "prompt": "The traffic in the centre was ___ slow. (boleśnie)",
+        "answer": "painfully",
+        "explanation": "Painfully slow."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-06",
+        "type": "error",
+        "prompt": "There is a far possibility that the flight will be cancelled.",
+        "answer": [
+          "far",
+          "remote"
+        ],
+        "explanation": "A remote possibility."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-07",
+        "type": "error",
+        "prompt": "Many residents are strongly opposite to the new road.",
+        "answer": [
+          "opposite",
+          "opposed"
+        ],
+        "explanation": "Strongly opposed to."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-08",
+        "type": "tiles",
+        "prompt": "Z tych danych możemy wyciągnąć kilka wniosków.",
+        "answer": [
+          "We",
+          "can",
+          "draw",
+          "several",
+          "conclusions",
+          "from",
+          "this",
+          "data"
+        ],
+        "distractors": [
+          "pull",
+          "make"
+        ],
+        "explanation": "Draw a conclusion."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-09",
+        "type": "translate",
+        "prompt": "To jest kluczowy czynnik.",
+        "answer": "This is a key factor.",
+        "accept": [
+          "It is a key factor.",
+          "This is a crucial factor.",
+          "It is a crucial factor.",
+          "That is a key factor."
+        ],
+        "explanation": "A key factor."
+      },
+      {
+        "id": "c1-vocab-advanced-collocations-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „finish the work on time” kolokacją z „deadline”.\nWe worked all night to finish the work on time.",
+        "answer": "We worked all night to meet the deadline.",
+        "explanation": "Meet the deadline."
+      }
+    ]
+  }
+]

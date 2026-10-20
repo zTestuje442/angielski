@@ -1,0 +1,327 @@
+[
+  {
+    "id": "a2-vocab-travel-transport-1",
+    "topicId": "a2-vocab-travel-transport",
+    "exercises": [
+      {
+        "id": "a2-vocab-travel-transport-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "platform|peron",
+          "ticket office|kasa biletowa",
+          "timetable|rozkład jazdy",
+          "delay|opóźnienie"
+        ],
+        "explanation": "Słowa z dworca."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-02",
+        "type": "choice",
+        "prompt": "I usually go to work ___ train.",
+        "answer": "by",
+        "distractors": [
+          "with",
+          "on"
+        ],
+        "explanation": "Środek transportu: by."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-03",
+        "type": "choice",
+        "prompt": "The train leaves from ___ 3.",
+        "answer": "platform",
+        "distractors": [
+          "station",
+          "gate"
+        ],
+        "explanation": "Peron: platform."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-04",
+        "type": "cloze",
+        "prompt": "A ___ ticket is for there and back. (powrotny)",
+        "answer": "return",
+        "explanation": "Bilet w obie strony: return."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-05",
+        "type": "cloze",
+        "prompt": "We ___ the bus at the next stop. (wysiadamy)",
+        "answer": "get off",
+        "explanation": "Wysiąść z autobusu: get off."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-06",
+        "type": "error",
+        "prompt": "I go to work with car.",
+        "answer": [
+          "with",
+          "by"
+        ],
+        "explanation": "Samochodem: by car."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-07",
+        "type": "tiles",
+        "prompt": "O której odjeżdża następny pociąg?",
+        "answer": [
+          "What",
+          "time",
+          "does",
+          "the",
+          "next",
+          "train",
+          "leave"
+        ],
+        "explanation": "What time + does + leave."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-08",
+        "type": "translate",
+        "prompt": "Spóźniłem się na autobus.",
+        "answer": "I missed the bus.",
+        "accept": [
+          "I was late for the bus."
+        ],
+        "explanation": "Nie zdążyć na: miss."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nget on the bus",
+        "answer": "get off the bus",
+        "explanation": "On – off."
+      },
+      {
+        "id": "a2-vocab-travel-transport-1-10",
+        "type": "choice",
+        "prompt": "The flight is ___. It will leave two hours late.",
+        "answer": "delayed",
+        "distractors": [
+          "cancelled",
+          "early"
+        ],
+        "explanation": "Opóźniony: delayed."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-travel-transport-2",
+    "topicId": "a2-vocab-travel-transport",
+    "exercises": [
+      {
+        "id": "a2-vocab-travel-transport-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "boarding pass|karta pokładowa",
+          "luggage|bagaż",
+          "passport|paszport",
+          "flight|lot"
+        ],
+        "explanation": "Słowa z lotniska."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-02",
+        "type": "choice",
+        "prompt": "Please show your ___ at the gate.",
+        "answer": "boarding pass",
+        "distractors": [
+          "receipt",
+          "menu"
+        ],
+        "explanation": "Przy bramce: karta pokładowa."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-03",
+        "type": "choice",
+        "prompt": "How much ___ can I take?",
+        "answer": "luggage",
+        "distractors": [
+          "luggages",
+          "baggages"
+        ],
+        "explanation": "Luggage jest niepoliczalne."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-04",
+        "type": "cloze",
+        "prompt": "Our plane ___ off at 10:30. (startuje)",
+        "answer": "takes",
+        "explanation": "Startować: take off."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-05",
+        "type": "cloze",
+        "prompt": "We ___ in Rome at noon. (wylądowaliśmy)",
+        "answer": "landed",
+        "explanation": "Lądować: land."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-06",
+        "type": "error",
+        "prompt": "Can I have a window sit, please?",
+        "answer": [
+          "sit",
+          "seat"
+        ],
+        "explanation": "Miejsce: seat."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-07",
+        "type": "tiles",
+        "prompt": "Gdzie jest stanowisko odprawy?",
+        "answer": [
+          "Where",
+          "is",
+          "the",
+          "check-in",
+          "desk"
+        ],
+        "explanation": "Odprawa: check-in."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-08",
+        "type": "translate",
+        "prompt": "Lot jest odwołany.",
+        "answer": "The flight is cancelled.",
+        "accept": [
+          "The flight has been cancelled.",
+          "The flight is canceled.",
+          "The flight has been canceled."
+        ],
+        "explanation": "Odwołany: cancelled."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nThe plane took off.",
+        "answer": "The plane landed.",
+        "explanation": "Take off – land."
+      },
+      {
+        "id": "a2-vocab-travel-transport-2-10",
+        "type": "choice",
+        "prompt": "We're going ___ holiday to Greece.",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "for"
+        ],
+        "explanation": "Na wakacje: on holiday."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-travel-transport-3",
+    "topicId": "a2-vocab-travel-transport",
+    "exercises": [
+      {
+        "id": "a2-vocab-travel-transport-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "underground|metro",
+          "taxi rank|postój taksówek",
+          "traffic jam|korek",
+          "journey|podróż"
+        ],
+        "explanation": "Transport w mieście."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-02",
+        "type": "cloze",
+        "prompt": "There was a ___ jam, so we were late. (korek)",
+        "answer": "traffic",
+        "explanation": "Korek: traffic jam."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-03",
+        "type": "cloze",
+        "prompt": "How long does the ___ take? (podróż)",
+        "answer": "journey",
+        "explanation": "Podróż: journey."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-04",
+        "type": "choice",
+        "prompt": "In London it's quicker to go by ___ than by bus.",
+        "answer": "underground",
+        "distractors": [
+          "tunnel",
+          "bridge"
+        ],
+        "explanation": "Metro: the underground."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-05",
+        "type": "choice",
+        "prompt": "Excuse me, does this bus ___ to the airport?",
+        "answer": "go",
+        "distractors": [
+          "arrive",
+          "drive"
+        ],
+        "explanation": "Jechać dokądś: go to."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-06",
+        "type": "error",
+        "prompt": "I went to Spain with plane.",
+        "answer": [
+          "with",
+          "by"
+        ],
+        "explanation": "Samolotem: by plane."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-07",
+        "type": "error",
+        "prompt": "We took a taxy to the hotel.",
+        "answer": [
+          "taxy",
+          "taxi"
+        ],
+        "explanation": "Pisownia: taxi."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-08",
+        "type": "tiles",
+        "prompt": "Podróż trwała trzy godziny.",
+        "answer": [
+          "The",
+          "journey",
+          "took",
+          "three",
+          "hours"
+        ],
+        "explanation": "Trwać: take."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-09",
+        "type": "translate",
+        "prompt": "Czy ten pociąg jedzie do Gdańska?",
+        "answer": "Does this train go to Gdańsk?",
+        "accept": [
+          "Does this train go to Gdansk?",
+          "Is this the train to Gdańsk?",
+          "Is this the train to Gdansk?"
+        ],
+        "explanation": "Does + this train + go to."
+      },
+      {
+        "id": "a2-vocab-travel-transport-3-10",
+        "type": "transform",
+        "prompt": "Zapisz brytyjskie słowo zamiast amerykańskiego.\nsubway",
+        "answer": "underground",
+        "accept": [
+          "the underground",
+          "the Tube",
+          "tube"
+        ],
+        "explanation": "Po brytyjsku: underground."
+      }
+    ]
+  }
+]

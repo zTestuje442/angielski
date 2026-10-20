@@ -1,0 +1,325 @@
+[
+  {
+    "id": "a2-quantifiers-1",
+    "topicId": "a2-quantifiers",
+    "exercises": [
+      {
+        "id": "a2-quantifiers-1-01",
+        "type": "choice",
+        "prompt": "How ___ money have you got?",
+        "answer": "much",
+        "distractors": [
+          "many",
+          "a few"
+        ],
+        "explanation": "Money jest niepoliczalne: much."
+      },
+      {
+        "id": "a2-quantifiers-1-02",
+        "type": "choice",
+        "prompt": "How ___ people were there?",
+        "answer": "many",
+        "distractors": [
+          "much",
+          "a little"
+        ],
+        "explanation": "People jest policzalne: many."
+      },
+      {
+        "id": "a2-quantifiers-1-03",
+        "type": "cloze",
+        "prompt": "There isn't ___ milk left. (much / many)",
+        "answer": "much",
+        "explanation": "Milk jest niepoliczalne: much."
+      },
+      {
+        "id": "a2-quantifiers-1-04",
+        "type": "cloze",
+        "prompt": "I haven't got ___ friends here. (much / many)",
+        "answer": "many",
+        "explanation": "Friends są policzalni: many."
+      },
+      {
+        "id": "a2-quantifiers-1-05",
+        "type": "choice",
+        "prompt": "We've got ___ time. Let's have a coffee.",
+        "answer": "a little",
+        "distractors": [
+          "a few",
+          "many"
+        ],
+        "explanation": "Time jest niepoliczalne: a little."
+      },
+      {
+        "id": "a2-quantifiers-1-06",
+        "type": "choice",
+        "prompt": "I know ___ words in Spanish.",
+        "answer": "a few",
+        "distractors": [
+          "a little",
+          "much"
+        ],
+        "explanation": "Words są policzalne: a few."
+      },
+      {
+        "id": "a2-quantifiers-1-07",
+        "type": "match",
+        "prompt": "Połącz określenia ze znaczeniem.",
+        "answer": [
+          "much|dużo (niepoliczalne)",
+          "many|dużo (policzalne)",
+          "a few|kilka (policzalne)",
+          "a little|trochę (niepoliczalne)"
+        ],
+        "explanation": "Policzalne: many, a few; niepoliczalne: much, a little."
+      },
+      {
+        "id": "a2-quantifiers-1-08",
+        "type": "error",
+        "prompt": "How many sugar do you want?",
+        "answer": [
+          "many",
+          "much"
+        ],
+        "explanation": "Sugar jest niepoliczalne: How much."
+      },
+      {
+        "id": "a2-quantifiers-1-09",
+        "type": "tiles",
+        "prompt": "Mam dużo pracy.",
+        "answer": [
+          "I",
+          "have",
+          "got",
+          "a",
+          "lot",
+          "of",
+          "work"
+        ],
+        "explanation": "A lot of pasuje do niepoliczalnych."
+      },
+      {
+        "id": "a2-quantifiers-1-10",
+        "type": "translate",
+        "prompt": "Ile kosztuje ten bilet?",
+        "answer": "How much is this ticket?",
+        "accept": [
+          "How much does this ticket cost?"
+        ],
+        "explanation": "Cena: How much...?"
+      }
+    ]
+  },
+  {
+    "id": "a2-quantifiers-2",
+    "topicId": "a2-quantifiers",
+    "exercises": [
+      {
+        "id": "a2-quantifiers-2-01",
+        "type": "cloze",
+        "prompt": "There are ___ lot of tourists in summer.",
+        "answer": "a",
+        "explanation": "A lot of."
+      },
+      {
+        "id": "a2-quantifiers-2-02",
+        "type": "cloze",
+        "prompt": "She drinks a lot ___ water.",
+        "answer": "of",
+        "explanation": "A lot of."
+      },
+      {
+        "id": "a2-quantifiers-2-03",
+        "type": "cloze",
+        "prompt": "Can I have ___ little sugar, please?",
+        "answer": "a",
+        "explanation": "A little = trochę."
+      },
+      {
+        "id": "a2-quantifiers-2-04",
+        "type": "choice",
+        "prompt": "There were only ___ cars on the road, so we got home quickly.",
+        "answer": "a few",
+        "distractors": [
+          "a lot of",
+          "much"
+        ],
+        "explanation": "Mało samochodów (policzalne): only a few."
+      },
+      {
+        "id": "a2-quantifiers-2-05",
+        "type": "choice",
+        "prompt": "I don't eat ___ meat.",
+        "answer": "much",
+        "distractors": [
+          "many",
+          "a few"
+        ],
+        "explanation": "Meat jest niepoliczalne: much."
+      },
+      {
+        "id": "a2-quantifiers-2-06",
+        "type": "error",
+        "prompt": "I have a few money.",
+        "answer": [
+          "few",
+          "little"
+        ],
+        "explanation": "Money jest niepoliczalne: a little."
+      },
+      {
+        "id": "a2-quantifiers-2-07",
+        "type": "error",
+        "prompt": "There are a little apples.",
+        "answer": [
+          "little",
+          "few"
+        ],
+        "explanation": "Apples są policzalne: a few."
+      },
+      {
+        "id": "a2-quantifiers-2-08",
+        "type": "tiles",
+        "prompt": "Czy masz dużo książek?",
+        "answer": [
+          "Have",
+          "you",
+          "got",
+          "many",
+          "books"
+        ],
+        "explanation": "Pytanie z policzalnym: many."
+      },
+      {
+        "id": "a2-quantifiers-2-09",
+        "type": "translate",
+        "prompt": "Nie mamy dużo czasu.",
+        "answer": "We do not have much time.",
+        "accept": [
+          "We have not got much time.",
+          "We do not have a lot of time.",
+          "We have not got a lot of time."
+        ],
+        "explanation": "Przeczenie z niepoliczalnym: much."
+      },
+      {
+        "id": "a2-quantifiers-2-10",
+        "type": "transform",
+        "prompt": "Zadaj pytanie z „How many”.\nThere are twenty students.",
+        "answer": "How many students are there?",
+        "explanation": "How many + rzeczownik + are there?"
+      }
+    ]
+  },
+  {
+    "id": "a2-quantifiers-3",
+    "topicId": "a2-quantifiers",
+    "exercises": [
+      {
+        "id": "a2-quantifiers-3-01",
+        "type": "cloze",
+        "prompt": "How ___ eggs do we need?",
+        "answer": "many",
+        "explanation": "Eggs są policzalne."
+      },
+      {
+        "id": "a2-quantifiers-3-02",
+        "type": "cloze",
+        "prompt": "How ___ juice is in the bottle?",
+        "answer": "much",
+        "explanation": "Juice jest niepoliczalny."
+      },
+      {
+        "id": "a2-quantifiers-3-03",
+        "type": "choice",
+        "prompt": "I've got ___ ideas for the party.",
+        "answer": "a few",
+        "distractors": [
+          "a little",
+          "much"
+        ],
+        "explanation": "Ideas są policzalne."
+      },
+      {
+        "id": "a2-quantifiers-3-04",
+        "type": "choice",
+        "prompt": "He has ___ friends. Everybody likes him.",
+        "answer": "a lot of",
+        "distractors": [
+          "much",
+          "a little"
+        ],
+        "explanation": "Twierdzenie z policzalnym: a lot of."
+      },
+      {
+        "id": "a2-quantifiers-3-05",
+        "type": "choice",
+        "prompt": "There's ___ cheese in the fridge – just a small piece.",
+        "answer": "a little",
+        "distractors": [
+          "a few",
+          "many"
+        ],
+        "explanation": "Cheese jest niepoliczalny."
+      },
+      {
+        "id": "a2-quantifiers-3-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "How much|ile (niepoliczalne)",
+          "How many|ile (policzalne)",
+          "a lot of|dużo",
+          "not much|niewiele"
+        ],
+        "explanation": "Pytania i ilości."
+      },
+      {
+        "id": "a2-quantifiers-3-07",
+        "type": "error",
+        "prompt": "There isn't many traffic today.",
+        "answer": [
+          "many",
+          "much"
+        ],
+        "explanation": "Traffic jest niepoliczalne."
+      },
+      {
+        "id": "a2-quantifiers-3-08",
+        "type": "error",
+        "prompt": "We saw much birds in the park.",
+        "answer": [
+          "much",
+          "many"
+        ],
+        "accept": [
+          "a lot of"
+        ],
+        "explanation": "Birds są policzalne; w twierdzeniu najlepiej a lot of."
+      },
+      {
+        "id": "a2-quantifiers-3-09",
+        "type": "tiles",
+        "prompt": "Potrzebuję trochę pomocy.",
+        "answer": [
+          "I",
+          "need",
+          "a",
+          "little",
+          "help"
+        ],
+        "explanation": "Help jest niepoliczalne: a little."
+      },
+      {
+        "id": "a2-quantifiers-3-10",
+        "type": "translate",
+        "prompt": "Mam kilku dobrych przyjaciół.",
+        "answer": "I have got a few good friends.",
+        "accept": [
+          "I have a few good friends."
+        ],
+        "explanation": "Kilku: a few."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-email-3",
+  "topicId": "a2-reading-email",
+  "title": "Your visit to Poland",
+  "text": "Hi Jake,\n\nGreat news – you're coming to Poland! I'm so happy you can visit me in May. Here's some information about your trip.\n\nWhen you arrive at the airport in Gdańsk, take bus number 210 to the city centre. It takes about thirty minutes and the ticket is cheap. You can buy it from the machine at the bus stop – it takes cards. I'll wait for you at the last stop, next to the main railway station.\n\nYou're going to stay with my family. My mum is a great cook, so I hope you're hungry! My little brother Kuba is ten and he's very excited because he wants to practise his English with you.\n\nI've got lots of plans for us. On the first day we're going to walk around the old town and go up the tower of St Mary's Church. The view from the top is amazing, but there are more than four hundred steps! On Saturday we can go to the beach in Sopot. It's still too cold to swim in May, but we can walk on the pier.\n\nPlease bring comfortable shoes and a warm jacket – the weather can change quickly here.\n\nSee you soon!\nBartek",
+  "exercises": [
+    {
+      "id": "a2-reading-email-3-01",
+      "type": "choice",
+      "prompt": "Jake is visiting Poland in May.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...you can visit me in May.”"
+    },
+    {
+      "id": "a2-reading-email-3-02",
+      "type": "choice",
+      "prompt": "Kuba is older than Bartek.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Kuba to młodszy brat: „my little brother”."
+    },
+    {
+      "id": "a2-reading-email-3-03",
+      "type": "choice",
+      "prompt": "Jake has been to Poland before.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czy Jake już był w Polsce."
+    },
+    {
+      "id": "a2-reading-email-3-04",
+      "type": "choice",
+      "prompt": "Where will Bartek meet Jake?",
+      "answer": "at the last bus stop, next to the station",
+      "distractors": [
+        "at the airport",
+        "at his house"
+      ],
+      "explanation": "„I'll wait for you at the last stop, next to the main railway station.”"
+    },
+    {
+      "id": "a2-reading-email-3-05",
+      "type": "choice",
+      "prompt": "Why is Kuba excited?",
+      "answer": "He wants to practise his English.",
+      "distractors": [
+        "He likes cooking.",
+        "He loves the beach."
+      ],
+      "explanation": "„...he wants to practise his English with you.”"
+    },
+    {
+      "id": "a2-reading-email-3-06",
+      "type": "choice",
+      "prompt": "Why can't they swim in Sopot?",
+      "answer": "The water is too cold in May.",
+      "distractors": [
+        "The beach is closed.",
+        "They don't have time."
+      ],
+      "explanation": "„It's still too cold to swim in May.”"
+    },
+    {
+      "id": "a2-reading-email-3-07",
+      "type": "cloze",
+      "prompt": "There are more than four hundred ___!",
+      "answer": "steps",
+      "explanation": "Ponad czterysta stopni."
+    },
+    {
+      "id": "a2-reading-email-3-08",
+      "type": "cloze",
+      "prompt": "Please bring comfortable ___ and a warm jacket.",
+      "answer": "shoes",
+      "explanation": "Wygodne buty."
+    },
+    {
+      "id": "a2-reading-email-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "take the bus|pojechać autobusem",
+        "practise|ćwiczyć",
+        "steps|stopnie, schody",
+        "pier|molo"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

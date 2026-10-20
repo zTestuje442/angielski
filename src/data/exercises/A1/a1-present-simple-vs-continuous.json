@@ -1,0 +1,316 @@
+[
+  {
+    "id": "a1-present-simple-vs-continuous-1",
+    "topicId": "a1-present-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "a1-present-simple-vs-continuous-1-01",
+        "type": "choice",
+        "prompt": "I usually ___ to work by car.",
+        "answer": "drive",
+        "distractors": [
+          "am driving",
+          "drives"
+        ],
+        "explanation": "Usually – zwyczaj: Present Simple."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-02",
+        "type": "choice",
+        "prompt": "Today I ___ to work by bike.",
+        "answer": "am riding",
+        "distractors": [
+          "ride",
+          "rides"
+        ],
+        "explanation": "Dziś, wyjątkowo: Present Continuous."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-03",
+        "type": "choice",
+        "prompt": "Look! The dog ___ the ball.",
+        "answer": "is chasing",
+        "distractors": [
+          "chases",
+          "chase"
+        ],
+        "explanation": "Look! – teraz: Present Continuous."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-04",
+        "type": "choice",
+        "prompt": "Water ___ at 100 degrees.",
+        "answer": "boils",
+        "distractors": [
+          "is boiling",
+          "boil"
+        ],
+        "explanation": "Fakt naukowy: Present Simple."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-05",
+        "type": "cloze",
+        "prompt": "She ___ coffee every morning. (drink)",
+        "answer": "drinks",
+        "explanation": "Every morning – zwyczaj: drinks."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-06",
+        "type": "cloze",
+        "prompt": "She ___ tea right now. (drink)",
+        "answer": "is drinking",
+        "explanation": "Right now – teraz: is drinking."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-07",
+        "type": "match",
+        "prompt": "Połącz zdania ze znaczeniem.",
+        "answer": [
+          "She plays tennis.|Gra w tenisa (regularnie).",
+          "She is playing tennis.|Teraz gra w tenisa.",
+          "They live in Rome.|Mieszkają w Rzymie.",
+          "They are living in Rome this year.|W tym roku mieszkają w Rzymie."
+        ],
+        "explanation": "Present Simple – stale; Present Continuous – teraz lub tymczasowo."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-08",
+        "type": "error",
+        "prompt": "He plays football now.",
+        "answer": [
+          "plays",
+          "is playing"
+        ],
+        "explanation": "Now – dzieje się teraz: is playing."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-09",
+        "type": "tiles",
+        "prompt": "Zwykle chodzę do pracy pieszo.",
+        "answer": [
+          "I",
+          "usually",
+          "walk",
+          "to",
+          "work"
+        ],
+        "explanation": "Zwyczaj: Present Simple."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-1-10",
+        "type": "translate",
+        "prompt": "Teraz uczę się angielskiego.",
+        "answer": "I am learning English now.",
+        "accept": [
+          "I am studying English now.",
+          "Now I am learning English.",
+          "Now I am studying English."
+        ],
+        "explanation": "Teraz: Present Continuous."
+      }
+    ]
+  },
+  {
+    "id": "a1-present-simple-vs-continuous-2",
+    "topicId": "a1-present-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "a1-present-simple-vs-continuous-2-01",
+        "type": "cloze",
+        "prompt": "Listen! Somebody ___ at the door. (knock)",
+        "answer": "is knocking",
+        "explanation": "Listen! – teraz: is knocking."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-02",
+        "type": "cloze",
+        "prompt": "My sister ___ in London. (live)",
+        "answer": "lives",
+        "explanation": "Stała sytuacja: Present Simple."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-03",
+        "type": "choice",
+        "prompt": "What ___ in the evenings?",
+        "answer": "do you usually do",
+        "distractors": [
+          "are you usually doing",
+          "you usually do"
+        ],
+        "explanation": "Zwyczaj (usually): Present Simple."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-04",
+        "type": "choice",
+        "prompt": "Why ___? Are you sad?",
+        "answer": "are you crying",
+        "distractors": [
+          "do you cry",
+          "you are crying"
+        ],
+        "explanation": "Teraz: Present Continuous; w pytaniu are przed you."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-05",
+        "type": "transform",
+        "prompt": "Zmień na Present Continuous i dodaj „now” na końcu.\nThey eat lunch.",
+        "answer": "They are eating lunch now.",
+        "explanation": "Now: are + eating."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-06",
+        "type": "transform",
+        "prompt": "Zmień na Present Simple i dodaj „every day” na końcu.\nShe is walking the dog.",
+        "answer": "She walks the dog every day.",
+        "explanation": "Every day: walks (z -s)."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-07",
+        "type": "error",
+        "prompt": "Do you watching TV now?",
+        "answer": [
+          "Do",
+          "Are"
+        ],
+        "explanation": "Present Continuous: Are you watching...?"
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-08",
+        "type": "error",
+        "prompt": "We are play cards now.",
+        "answer": [
+          "play",
+          "playing"
+        ],
+        "explanation": "Po are potrzebna forma -ing."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-09",
+        "type": "tiles",
+        "prompt": "Co teraz robi twoja mama?",
+        "answer": [
+          "What",
+          "is",
+          "your",
+          "mum",
+          "doing",
+          "now"
+        ],
+        "explanation": "Teraz: is doing."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "usually|zwykle",
+          "right now|w tej chwili",
+          "often|często",
+          "today|dzisiaj"
+        ],
+        "explanation": "Usually i often – Present Simple; right now i today – często Present Continuous."
+      }
+    ]
+  },
+  {
+    "id": "a1-present-simple-vs-continuous-3",
+    "topicId": "a1-present-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "a1-present-simple-vs-continuous-3-01",
+        "type": "choice",
+        "prompt": "I ___ you.",
+        "answer": "understand",
+        "distractors": [
+          "am understanding",
+          "understands"
+        ],
+        "explanation": "Understand to stan: bez -ing."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-02",
+        "type": "choice",
+        "prompt": "She ___ a new car.",
+        "answer": "wants",
+        "distractors": [
+          "is wanting",
+          "want"
+        ],
+        "explanation": "Want to stan: Present Simple, she wants."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-03",
+        "type": "choice",
+        "prompt": "We ___ the answer.",
+        "answer": "know",
+        "distractors": [
+          "are knowing",
+          "knows"
+        ],
+        "explanation": "Know to stan: bez -ing."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-04",
+        "type": "cloze",
+        "prompt": "He ___ breakfast at 7 every day. (have)",
+        "answer": "has",
+        "explanation": "Every day – zwyczaj: has."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-05",
+        "type": "cloze",
+        "prompt": "Be quiet! I ___ on the phone. (talk)",
+        "answer": "am talking",
+        "explanation": "Teraz: am talking."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-06",
+        "type": "tiles",
+        "prompt": "Ona nie lubi poniedziałków.",
+        "answer": [
+          "She",
+          "doesn't",
+          "like",
+          "Mondays"
+        ],
+        "explanation": "Like to stan: Present Simple."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-07",
+        "type": "tiles",
+        "prompt": "Dzisiaj pada deszcz.",
+        "answer": [
+          "It",
+          "is",
+          "raining",
+          "today"
+        ],
+        "explanation": "Dzisiaj, teraz: is raining."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-08",
+        "type": "error",
+        "prompt": "My parents works in a hospital.",
+        "answer": [
+          "works",
+          "work"
+        ],
+        "explanation": "My parents = they, bez -s."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-09",
+        "type": "translate",
+        "prompt": "On zawsze się spóźnia.",
+        "answer": "He is always late.",
+        "explanation": "Always – zwyczaj; z to be: is always."
+      },
+      {
+        "id": "a1-present-simple-vs-continuous-3-10",
+        "type": "translate",
+        "prompt": "Czy teraz pada?",
+        "answer": "Is it raining now?",
+        "explanation": "Teraz: Is it raining?"
+      }
+    ]
+  }
+]

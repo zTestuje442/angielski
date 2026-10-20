@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-email-1",
+  "topicId": "b1-reading-email",
+  "title": "My first month in Edinburgh",
+  "text": "Dear Aunt Basia,\n\nI'm sorry I haven't written sooner, but my first month in Edinburgh has been incredibly busy! I've finally unpacked all my boxes, and my little room in the student residence is starting to feel like home.\n\nThe university is amazing. The buildings are old and beautiful, and some of the lecture halls are so big that I sometimes get lost on my way to class. My course is harder than I expected, especially statistics, but my tutor, Dr Campbell, is very patient and always answers my questions after the lectures.\n\nI share a kitchen with five other students – two from Scotland, one from Italy, one from India and one from Canada. We take turns cooking dinner on Sundays, so I've already learnt to make a real curry! Last week I made pierogi for everyone. They weren't perfect, but they disappeared in ten minutes.\n\nThe only thing I'm still not used to is the weather. It changes every hour – sun, rain, wind and sun again. Everybody here says you should never leave home without a raincoat, and they're right.\n\nTo earn some extra money, I've started working in a café near the castle on Saturday mornings. The pay isn't great, but my English is improving fast because I talk to customers all the time.\n\nI'm coming home for Christmas on 20th December. Mum says you're going to make your famous poppy seed cake – please save a big piece for me!\n\nLots of love,\nZosia",
+  "exercises": [
+    {
+      "id": "b1-reading-email-1-01",
+      "type": "choice",
+      "prompt": "Zosia has already unpacked her things.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„I've finally unpacked all my boxes.”"
+    },
+    {
+      "id": "b1-reading-email-1-02",
+      "type": "choice",
+      "prompt": "Zosia finds statistics easy.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„My course is harder than I expected, especially statistics.”"
+    },
+    {
+      "id": "b1-reading-email-1-03",
+      "type": "choice",
+      "prompt": "Dr Campbell is Scottish.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, skąd pochodzi Dr Campbell."
+    },
+    {
+      "id": "b1-reading-email-1-04",
+      "type": "choice",
+      "prompt": "What happens on Sundays in Zosia's residence?",
+      "answer": "The students take turns cooking dinner.",
+      "distractors": [
+        "They clean the kitchen together.",
+        "They visit the castle."
+      ],
+      "explanation": "„We take turns cooking dinner on Sundays.”"
+    },
+    {
+      "id": "b1-reading-email-1-05",
+      "type": "choice",
+      "prompt": "Why is Zosia's English improving fast?",
+      "answer": "She talks to customers at work.",
+      "distractors": [
+        "She has extra lessons.",
+        "Her tutor helps her every day."
+      ],
+      "explanation": "„...my English is improving fast because I talk to customers all the time.”"
+    },
+    {
+      "id": "b1-reading-email-1-06",
+      "type": "choice",
+      "prompt": "What does Zosia say about the weather?",
+      "answer": "It changes very often.",
+      "distractors": [
+        "It is always rainy.",
+        "It is warmer than in Poland."
+      ],
+      "explanation": "„It changes every hour.”"
+    },
+    {
+      "id": "b1-reading-email-1-07",
+      "type": "cloze",
+      "prompt": "Some lecture halls are so big that I sometimes get ___.",
+      "answer": "lost",
+      "explanation": "Zgubić się: get lost."
+    },
+    {
+      "id": "b1-reading-email-1-08",
+      "type": "cloze",
+      "prompt": "The pay isn't ___, but my English is improving fast.",
+      "answer": "great",
+      "explanation": "Płaca nie jest wspaniała."
+    },
+    {
+      "id": "b1-reading-email-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "unpack|rozpakować",
+        "residence|akademik",
+        "take turns|robić coś na zmianę",
+        "earn|zarabiać"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

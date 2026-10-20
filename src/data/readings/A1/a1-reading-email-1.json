@@ -1,0 +1,92 @@
+{
+  "id": "a1-reading-email-1",
+  "topicId": "a1-reading-email",
+  "title": "A new flat",
+  "text": "Hi Ola,\n\nHow are you? I'm in my new flat now! It is in Gdańsk, near the sea. The flat is small, but it is very nice. There is a living room, a bedroom, a kitchen and a bathroom. My bedroom has got a big window and I can see the park.\n\nMy neighbours are friendly. Next door there is an old man with a funny dog. I go to work by bus. It takes twenty minutes.\n\nCan you visit me in June? We can go to the beach together.\n\nLove,\nKasia",
+  "exercises": [
+    {
+      "id": "a1-reading-email-1-01",
+      "type": "choice",
+      "prompt": "Kasia's flat is in Gdańsk.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„It is in Gdańsk, near the sea.”"
+    },
+    {
+      "id": "a1-reading-email-1-02",
+      "type": "choice",
+      "prompt": "The flat is very big.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Tekst mówi: „The flat is small”."
+    },
+    {
+      "id": "a1-reading-email-1-03",
+      "type": "choice",
+      "prompt": "Kasia has got a dog.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Psa ma sąsiad. O tym, czy Kasia ma psa, tekst nie mówi."
+    },
+    {
+      "id": "a1-reading-email-1-04",
+      "type": "choice",
+      "prompt": "How does Kasia go to work?",
+      "answer": "By bus.",
+      "distractors": [
+        "By car.",
+        "On foot."
+      ],
+      "explanation": "„I go to work by bus.”"
+    },
+    {
+      "id": "a1-reading-email-1-05",
+      "type": "choice",
+      "prompt": "What can Kasia see from her bedroom?",
+      "answer": "a park",
+      "distractors": [
+        "the sea",
+        "the beach"
+      ],
+      "explanation": "„...a big window and I can see the park.”"
+    },
+    {
+      "id": "a1-reading-email-1-06",
+      "type": "cloze",
+      "prompt": "I go to work by bus. It takes twenty ___.",
+      "answer": "minutes",
+      "explanation": "Dojazd trwa dwadzieścia minut."
+    },
+    {
+      "id": "a1-reading-email-1-07",
+      "type": "cloze",
+      "prompt": "My ___ are friendly.",
+      "answer": "neighbours",
+      "accept": [
+        "neighbors"
+      ],
+      "explanation": "Sąsiedzi = neighbours (w USA: neighbors)."
+    },
+    {
+      "id": "a1-reading-email-1-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "neighbours|sąsiedzi",
+        "next door|obok, za ścianą",
+        "together|razem",
+        "near|blisko"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

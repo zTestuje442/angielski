@@ -1,0 +1,344 @@
+[
+  {
+    "id": "b2-non-defining-relative-clauses-1",
+    "topicId": "b2-non-defining-relative-clauses",
+    "exercises": [
+      {
+        "id": "b2-non-defining-relative-clauses-1-01",
+        "type": "cloze",
+        "prompt": "My brother, ___ lives in Oslo, is a doctor.",
+        "answer": "who",
+        "explanation": "Osoba: who."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-02",
+        "type": "cloze",
+        "prompt": "Kraków, ___ is in the south of Poland, is very beautiful.",
+        "answer": "which",
+        "explanation": "Miejsce jako rzecz: which."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-03",
+        "type": "choice",
+        "prompt": "My car, ___ I bought last year, has already broken down.",
+        "answer": "which",
+        "distractors": [
+          "that",
+          "what"
+        ],
+        "explanation": "Niedefiniujące: bez that."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-04",
+        "type": "choice",
+        "prompt": "Mr Smith, ___ daughter is in my class, is a pilot.",
+        "answer": "whose",
+        "distractors": [
+          "who's",
+          "which"
+        ],
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-05",
+        "type": "cloze",
+        "prompt": "We stayed at the Ritz, ___ we had a wonderful time.",
+        "answer": "where",
+        "explanation": "Miejsce, w którym: where."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-06",
+        "type": "match",
+        "prompt": "Połącz zaimki z zastosowaniem.",
+        "answer": [
+          "who|ludzie",
+          "which|rzeczy, zwierzęta, całe zdanie",
+          "whose|czyj",
+          "where|miejsca"
+        ],
+        "explanation": "Zaimki w zdaniach niedefiniujących."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-07",
+        "type": "error",
+        "prompt": "My mother, that is a teacher, loves books.",
+        "answer": [
+          "that",
+          "who"
+        ],
+        "explanation": "W niedefiniujących nie ma that."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-08",
+        "type": "tiles",
+        "prompt": "Mam przyjaciela, którego ojciec jest pilotem.",
+        "answer": [
+          "I",
+          "have",
+          "a",
+          "friend",
+          "whose",
+          "father",
+          "is",
+          "a",
+          "pilot"
+        ],
+        "distractors": [
+          "who",
+          "which"
+        ],
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-09",
+        "type": "translate",
+        "prompt": "Warszawa, która jest stolicą Polski, leży nad Wisłą.",
+        "answer": "Warsaw, which is the capital of Poland, is on the Vistula.",
+        "accept": [
+          "Warsaw, which is the capital of Poland, lies on the Vistula.",
+          "Warsaw, which is the capital of Poland, is on the Vistula River.",
+          "Warsaw, which is the capital of Poland, lies on the Vistula River."
+        ],
+        "explanation": "Niedefiniujące: which + przecinki."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „who” i przecinków.\nMy sister is a nurse. She lives in London.",
+        "answer": "My sister, who lives in London, is a nurse.",
+        "accept": [
+          "My sister, who is a nurse, lives in London."
+        ],
+        "explanation": "Who + przecinki."
+      }
+    ]
+  },
+  {
+    "id": "b2-non-defining-relative-clauses-2",
+    "topicId": "b2-non-defining-relative-clauses",
+    "exercises": [
+      {
+        "id": "b2-non-defining-relative-clauses-2-01",
+        "type": "cloze",
+        "prompt": "He passed the exam, ___ surprised everyone.",
+        "answer": "which",
+        "explanation": "Całe zdanie: which."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-02",
+        "type": "cloze",
+        "prompt": "I met Anna, ___ you know from school.",
+        "answer": "who",
+        "accept": [
+          "whom"
+        ],
+        "explanation": "Osoba: who (formalnie whom)."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-03",
+        "type": "choice",
+        "prompt": "The Eiffel Tower, ___ was built in 1889, is in Paris.",
+        "answer": "which",
+        "distractors": [
+          "that",
+          "who"
+        ],
+        "explanation": "Rzecz, niedefiniujące: which."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-04",
+        "type": "choice",
+        "prompt": "My neighbours, ___ dog barks all night, are very nice.",
+        "answer": "whose",
+        "distractors": [
+          "who",
+          "which"
+        ],
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-05",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "My father, who is 60, still works.",
+        "distractors": [
+          "My father who is 60, still works.",
+          "My father, that is 60, still works."
+        ],
+        "explanation": "Dwa przecinki, bez that."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „which”.\nShe did not call me. This made me angry.",
+        "answer": "She did not call me, which made me angry.",
+        "explanation": "Which odnosi się do całego zdania."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-07",
+        "type": "tiles",
+        "prompt": "Spotkałem Toma, którego siostra pracuje ze mną.",
+        "answer": [
+          "I",
+          "met",
+          "Tom",
+          "whose",
+          "sister",
+          "works",
+          "with",
+          "me"
+        ],
+        "distractors": [
+          "who's",
+          "which"
+        ],
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-08",
+        "type": "error",
+        "prompt": "Gdańsk, that is by the sea, is a great city.",
+        "answer": [
+          "that",
+          "which"
+        ],
+        "explanation": "W niedefiniujących nie ma that."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-09",
+        "type": "translate",
+        "prompt": "Moja szefowa, która jest bardzo miła, dała mi wolne.",
+        "answer": "My boss, who is very nice, gave me a day off.",
+        "accept": [
+          "My boss, who is very kind, gave me a day off.",
+          "My boss, who is very nice, gave me the day off.",
+          "My boss, who is very kind, gave me the day off."
+        ],
+        "explanation": "Osoba: who + przecinki."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-2-10",
+        "type": "match",
+        "prompt": "Połącz rodzaj z przykładem.",
+        "answer": [
+          "definiujące – bez przecinków|The man who called you is here.",
+          "niedefiniujące – z przecinkami|My dad, who is 50, is here."
+        ],
+        "explanation": "Dwa rodzaje zdań względnych."
+      }
+    ]
+  },
+  {
+    "id": "b2-non-defining-relative-clauses-3",
+    "topicId": "b2-non-defining-relative-clauses",
+    "exercises": [
+      {
+        "id": "b2-non-defining-relative-clauses-3-01",
+        "type": "cloze",
+        "prompt": "The museum, ___ we visited yesterday, was closed for repairs last year.",
+        "answer": "which",
+        "explanation": "Rzecz: which."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-02",
+        "type": "cloze",
+        "prompt": "Picasso, ___ paintings are famous all over the world, was born in Spain.",
+        "answer": "whose",
+        "explanation": "Czyje obrazy: whose."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-03",
+        "type": "choice",
+        "prompt": "I spoke to the manager, ___ was very helpful.",
+        "answer": "who",
+        "distractors": [
+          "which",
+          "whose"
+        ],
+        "explanation": "Osoba: who."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-04",
+        "type": "choice",
+        "prompt": "It rained all day, ___ meant we couldn't go out.",
+        "answer": "which",
+        "distractors": [
+          "what",
+          "that"
+        ],
+        "explanation": "Całe zdanie: which."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-05",
+        "type": "choice",
+        "prompt": "In 2019 I went to Lisbon, ___ I met my wife.",
+        "answer": "where",
+        "distractors": [
+          "which",
+          "when"
+        ],
+        "explanation": "Miejsce, w którym: where."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-06",
+        "type": "error",
+        "prompt": "We visited Rome, where is the capital of Italy.",
+        "answer": [
+          "where",
+          "which"
+        ],
+        "explanation": "Rome jest podmiotem: which is."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-07",
+        "type": "error",
+        "prompt": "My laptop, who I bought last year, is very slow.",
+        "answer": [
+          "who",
+          "which"
+        ],
+        "explanation": "Rzecz: which."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-08",
+        "type": "tiles",
+        "prompt": "Odwiedziliśmy miasto, w którym urodziła się moja mama.",
+        "answer": [
+          "We",
+          "visited",
+          "the",
+          "town",
+          "where",
+          "my",
+          "mother",
+          "was",
+          "born"
+        ],
+        "distractors": [
+          "which",
+          "who"
+        ],
+        "explanation": "Miejsce, w którym: where."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-09",
+        "type": "translate",
+        "prompt": "Spóźnił się, co bardzo mnie zdenerwowało.",
+        "answer": "He was late, which made me very angry.",
+        "accept": [
+          "He was late, which annoyed me a lot.",
+          "He was late, which really annoyed me.",
+          "He was late, which made me really angry."
+        ],
+        "explanation": "Całe zdanie: which."
+      },
+      {
+        "id": "b2-non-defining-relative-clauses-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „whose”.\nMy friend is a chef. His restaurant is very popular.",
+        "answer": "My friend, whose restaurant is very popular, is a chef.",
+        "explanation": "Whose + przecinki."
+      }
+    ]
+  }
+]

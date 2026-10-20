@@ -1,0 +1,312 @@
+[
+  {
+    "id": "a2-past-continuous-1",
+    "topicId": "a2-past-continuous",
+    "exercises": [
+      {
+        "id": "a2-past-continuous-1-01",
+        "type": "cloze",
+        "prompt": "At 8 p.m. yesterday I ___ watching TV.",
+        "answer": "was",
+        "explanation": "I + was + -ing."
+      },
+      {
+        "id": "a2-past-continuous-1-02",
+        "type": "cloze",
+        "prompt": "They ___ playing football at five o'clock.",
+        "answer": "were",
+        "explanation": "They + were + -ing."
+      },
+      {
+        "id": "a2-past-continuous-1-03",
+        "type": "cloze",
+        "prompt": "She was ___ a book at that moment. (read)",
+        "answer": "reading",
+        "explanation": "Was + reading."
+      },
+      {
+        "id": "a2-past-continuous-1-04",
+        "type": "choice",
+        "prompt": "What ___ you doing at midnight?",
+        "answer": "were",
+        "distractors": [
+          "was",
+          "did"
+        ],
+        "explanation": "You + were + -ing."
+      },
+      {
+        "id": "a2-past-continuous-1-05",
+        "type": "choice",
+        "prompt": "It ___ all morning, so we stayed inside.",
+        "answer": "was raining",
+        "distractors": [
+          "is raining",
+          "were raining"
+        ],
+        "explanation": "It + was + -ing."
+      },
+      {
+        "id": "a2-past-continuous-1-06",
+        "type": "match",
+        "prompt": "Połącz polskie zdania z angielskimi.",
+        "answer": [
+          "czytałem|I was reading",
+          "spaliśmy|we were sleeping",
+          "on pracował|he was working",
+          "oni gotowali|they were cooking"
+        ],
+        "explanation": "Was/were + -ing."
+      },
+      {
+        "id": "a2-past-continuous-1-07",
+        "type": "tiles",
+        "prompt": "O siódmej jedliśmy kolację.",
+        "answer": [
+          "At",
+          "seven",
+          "we",
+          "were",
+          "having",
+          "dinner"
+        ],
+        "accept": [
+          "We were having dinner at seven"
+        ],
+        "explanation": "Trwająca czynność: were having."
+      },
+      {
+        "id": "a2-past-continuous-1-08",
+        "type": "error",
+        "prompt": "We was waiting for the bus.",
+        "answer": [
+          "was",
+          "were"
+        ],
+        "explanation": "We + were."
+      },
+      {
+        "id": "a2-past-continuous-1-09",
+        "type": "translate",
+        "prompt": "Wczoraj o tej porze pracowałem.",
+        "answer": "I was working at this time yesterday.",
+        "accept": [
+          "At this time yesterday I was working.",
+          "This time yesterday I was working.",
+          "I was working this time yesterday."
+        ],
+        "explanation": "Trwało w tamtym momencie: was working."
+      },
+      {
+        "id": "a2-past-continuous-1-10",
+        "type": "transform",
+        "prompt": "Opisz, co działo się wczoraj o 18:00.\nI cook dinner.",
+        "answer": "I was cooking dinner.",
+        "accept": [
+          "I was cooking dinner at 6 p.m. yesterday.",
+          "At 6 p.m. yesterday I was cooking dinner."
+        ],
+        "explanation": "Was + cooking."
+      }
+    ]
+  },
+  {
+    "id": "a2-past-continuous-2",
+    "topicId": "a2-past-continuous",
+    "exercises": [
+      {
+        "id": "a2-past-continuous-2-01",
+        "type": "cloze",
+        "prompt": "I ___ not sleeping at midnight.",
+        "answer": "was",
+        "explanation": "I was not (wasn't) + -ing."
+      },
+      {
+        "id": "a2-past-continuous-2-02",
+        "type": "cloze",
+        "prompt": "___ they studying at 10 o'clock?",
+        "answer": "Were",
+        "explanation": "Pytanie: Were + they + -ing."
+      },
+      {
+        "id": "a2-past-continuous-2-03",
+        "type": "cloze",
+        "prompt": "Were you driving? — Yes, I ___.",
+        "answer": "was",
+        "explanation": "Krótka odpowiedź: Yes, I was."
+      },
+      {
+        "id": "a2-past-continuous-2-04",
+        "type": "choice",
+        "prompt": "He ___ listening to me.",
+        "answer": "wasn't",
+        "distractors": [
+          "weren't",
+          "didn't"
+        ],
+        "explanation": "He + wasn't + -ing."
+      },
+      {
+        "id": "a2-past-continuous-2-05",
+        "type": "choice",
+        "prompt": "Why ___ she crying?",
+        "answer": "was",
+        "distractors": [
+          "were",
+          "did"
+        ],
+        "explanation": "She + was + -ing."
+      },
+      {
+        "id": "a2-past-continuous-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThey were working.",
+        "answer": "They were not working.",
+        "explanation": "Were not (weren't) + -ing."
+      },
+      {
+        "id": "a2-past-continuous-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nShe was wearing a hat.",
+        "answer": "Was she wearing a hat?",
+        "explanation": "Was przechodzi przed podmiot."
+      },
+      {
+        "id": "a2-past-continuous-2-08",
+        "type": "tiles",
+        "prompt": "Czy padało, kiedy wyszedłeś?",
+        "answer": [
+          "Was",
+          "it",
+          "raining",
+          "when",
+          "you",
+          "left"
+        ],
+        "explanation": "Was + it + raining."
+      },
+      {
+        "id": "a2-past-continuous-2-09",
+        "type": "error",
+        "prompt": "Were he talking on the phone?",
+        "answer": [
+          "Were",
+          "Was"
+        ],
+        "explanation": "He + was."
+      },
+      {
+        "id": "a2-past-continuous-2-10",
+        "type": "translate",
+        "prompt": "Nie słuchałem.",
+        "answer": "I was not listening.",
+        "explanation": "Wasn't + listening."
+      }
+    ]
+  },
+  {
+    "id": "a2-past-continuous-3",
+    "topicId": "a2-past-continuous",
+    "exercises": [
+      {
+        "id": "a2-past-continuous-3-01",
+        "type": "cloze",
+        "prompt": "The sun ___ shining and the birds were singing.",
+        "answer": "was",
+        "explanation": "Tło opowieści: was shining."
+      },
+      {
+        "id": "a2-past-continuous-3-02",
+        "type": "cloze",
+        "prompt": "We were ___ in the sea. (swim)",
+        "answer": "swimming",
+        "explanation": "Swim → swimming."
+      },
+      {
+        "id": "a2-past-continuous-3-03",
+        "type": "choice",
+        "prompt": "At 9 a.m. I ___ to work.",
+        "answer": "was driving",
+        "distractors": [
+          "drive",
+          "were driving"
+        ],
+        "explanation": "I + was + -ing."
+      },
+      {
+        "id": "a2-past-continuous-3-04",
+        "type": "choice",
+        "prompt": "What were they ___ about?",
+        "answer": "talking",
+        "distractors": [
+          "talk",
+          "talked"
+        ],
+        "explanation": "Were + -ing."
+      },
+      {
+        "id": "a2-past-continuous-3-05",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "at 8 p.m.|o 20:00",
+          "all day|cały dzień",
+          "at that moment|w tamtej chwili",
+          "while|podczas gdy"
+        ],
+        "explanation": "Określenia typowe dla Past Continuous."
+      },
+      {
+        "id": "a2-past-continuous-3-06",
+        "type": "error",
+        "prompt": "I was siting in the garden.",
+        "answer": [
+          "siting",
+          "sitting"
+        ],
+        "explanation": "Sit → sitting."
+      },
+      {
+        "id": "a2-past-continuous-3-07",
+        "type": "error",
+        "prompt": "They were play cards.",
+        "answer": [
+          "play",
+          "playing"
+        ],
+        "explanation": "Po were potrzebna forma -ing."
+      },
+      {
+        "id": "a2-past-continuous-3-08",
+        "type": "tiles",
+        "prompt": "Wszyscy się śmiali.",
+        "answer": [
+          "Everybody",
+          "was",
+          "laughing"
+        ],
+        "explanation": "Everybody łączy się z was."
+      },
+      {
+        "id": "a2-past-continuous-3-09",
+        "type": "translate",
+        "prompt": "Co robiłeś wczoraj o piątej?",
+        "answer": "What were you doing at five yesterday?",
+        "accept": [
+          "What were you doing yesterday at five?",
+          "What were you doing at 5 yesterday?",
+          "What were you doing yesterday at 5?",
+          "What were you doing at five o'clock yesterday?"
+        ],
+        "explanation": "What + were + you + doing."
+      },
+      {
+        "id": "a2-past-continuous-3-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „we”.\nI was waiting outside.",
+        "answer": "We were waiting outside.",
+        "explanation": "We + were."
+      }
+    ]
+  }
+]

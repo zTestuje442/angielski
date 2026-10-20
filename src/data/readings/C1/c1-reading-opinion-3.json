@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-opinion-3",
+  "topicId": "c1-reading-opinion",
+  "title": "Automate everything? Not so fast",
+  "text": "I have worked in software testing for over a decade, and in that time I have heard the same prediction at least once a year: manual testing is dead. First it was going to be killed by test automation frameworks, then by continuous integration, and now, inevitably, by artificial intelligence. Each time, the people making the prediction were partly right. And each time, they missed something important.\n\nLet me be clear: I am a great admirer of automation. A well-designed suite of automated tests is one of the most valuable assets a development team can have. It catches regressions within minutes, runs through thousands of scenarios that no human could check by hand, and allows developers to make changes with confidence. Any team that releases software without it is, frankly, taking unnecessary risks.\n\nBut automation has a fundamental limitation that its most enthusiastic supporters tend to overlook: it only checks what someone has already thought of. An automated test is a question written in advance. It will tell you, reliably and repeatedly, whether the login button still works when you enter a valid password. It will not tell you that the button is almost invisible on a small screen, that the error message is confusing, or that users keep trying to log in with their phone number because the form never explained what it wanted.\n\nDiscovering these problems requires something that machines are still remarkably bad at: curiosity combined with an understanding of human behaviour. Good testers do not simply follow scripts. They explore, they ask \"what if?\", they deliberately behave like an impatient, distracted or careless user. Some of the most serious bugs I have ever found were discovered not by any test plan but by a hunch – a sense that something did not quite feel right.\n\nAI tools are undoubtedly changing this picture. They can now generate test cases, suggest edge cases and even explore an application in ways that resemble human behaviour. I use several of them, and they save me hours every week. Yet in my experience, they are best seen as an extremely fast and tireless assistant rather than a replacement. They produce many ideas, some of which are useful and some of which are nonsense, and someone still has to judge which is which.\n\nThe real danger, I suspect, is not that testers will be replaced, but that companies will believe they can be. Teams that cut exploratory testing to save money often discover the cost later, when real users encounter problems that no automated check was designed to catch. By then, the damage to their reputation may be far greater than the salary they saved.\n\nSo, is manual testing dead? Repetitive, script-following manual testing probably should be, and good riddance. But the thoughtful, investigative work of asking awkward questions about software is more necessary than ever. The machines can tell us whether the product does what we said it would. We still need people to ask whether it does what anyone actually needs.",
+  "exercises": [
+    {
+      "id": "c1-reading-opinion-3-01",
+      "type": "choice",
+      "prompt": "The writer has worked in software testing for more than ten years.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...for over a decade...”"
+    },
+    {
+      "id": "c1-reading-opinion-3-02",
+      "type": "choice",
+      "prompt": "The writer is against test automation.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„I am a great admirer of automation.”"
+    },
+    {
+      "id": "c1-reading-opinion-3-03",
+      "type": "choice",
+      "prompt": "The writer's company has replaced testers with AI.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-opinion-3-04",
+      "type": "choice",
+      "prompt": "What is the main limitation of automated tests, according to the writer?",
+      "answer": "They only check what someone has already thought of.",
+      "distractors": [
+        "They are too slow.",
+        "They are too expensive to write."
+      ],
+      "explanation": "„...it only checks what someone has already thought of.”"
+    },
+    {
+      "id": "c1-reading-opinion-3-05",
+      "type": "choice",
+      "prompt": "Why does the writer mention the phone number example?",
+      "answer": "to show a usability problem automation would miss",
+      "distractors": [
+        "to show that phone numbers are better than passwords",
+        "to criticise users"
+      ],
+      "explanation": "Test sprawdzi przycisk, ale nie zauważy mylącego formularza."
+    },
+    {
+      "id": "c1-reading-opinion-3-06",
+      "type": "choice",
+      "prompt": "How does the writer see AI tools?",
+      "answer": "as a fast assistant that still needs human judgement",
+      "distractors": [
+        "as useless",
+        "as a complete replacement for testers"
+      ],
+      "explanation": "„...an extremely fast and tireless assistant rather than a replacement.”"
+    },
+    {
+      "id": "c1-reading-opinion-3-07",
+      "type": "choice",
+      "prompt": "What is the \"real danger\", according to the writer?",
+      "answer": "Companies may wrongly believe testers can be replaced.",
+      "distractors": [
+        "AI will become too intelligent.",
+        "Testers will refuse to use AI."
+      ],
+      "explanation": "„...not that testers will be replaced, but that companies will believe they can be.”"
+    },
+    {
+      "id": "c1-reading-opinion-3-08",
+      "type": "choice",
+      "prompt": "What does \"good riddance\" suggest about the writer's attitude?",
+      "answer": "The writer is glad repetitive manual testing may disappear.",
+      "distractors": [
+        "The writer will miss script-following testing.",
+        "The writer is angry with developers."
+      ],
+      "explanation": "Good riddance – i dobrze, że znika."
+    },
+    {
+      "id": "c1-reading-opinion-3-09",
+      "type": "cloze",
+      "prompt": "Some of the most serious bugs were discovered by a ___.",
+      "answer": "hunch",
+      "explanation": "Przeczucie: hunch."
+    },
+    {
+      "id": "c1-reading-opinion-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "regression|regresja",
+        "overlook|przeoczyć",
+        "edge case|przypadek brzegowy",
+        "tireless|niestrudzony"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

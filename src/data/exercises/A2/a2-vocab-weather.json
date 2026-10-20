@@ -1,0 +1,323 @@
+[
+  {
+    "id": "a2-vocab-weather-1",
+    "topicId": "a2-vocab-weather",
+    "exercises": [
+      {
+        "id": "a2-vocab-weather-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "sunny|słonecznie",
+          "cloudy|pochmurno",
+          "windy|wietrznie",
+          "foggy|mglisto"
+        ],
+        "explanation": "Przymiotniki pogody."
+      },
+      {
+        "id": "a2-vocab-weather-1-02",
+        "type": "choice",
+        "prompt": "Take an umbrella. It's ___.",
+        "answer": "raining",
+        "distractors": [
+          "sunny",
+          "dry"
+        ],
+        "explanation": "Parasol na deszcz."
+      },
+      {
+        "id": "a2-vocab-weather-1-03",
+        "type": "choice",
+        "prompt": "What's the weather ___ today?",
+        "answer": "like",
+        "distractors": [
+          "as",
+          "how"
+        ],
+        "explanation": "Jaka jest pogoda: What's the weather like?"
+      },
+      {
+        "id": "a2-vocab-weather-1-04",
+        "type": "cloze",
+        "prompt": "It's very ___ today – 35 degrees! (gorąco)",
+        "answer": "hot",
+        "explanation": "Gorąco: hot."
+      },
+      {
+        "id": "a2-vocab-weather-1-05",
+        "type": "cloze",
+        "prompt": "There's a lot of snow. It's ___. (śnieżnie)",
+        "answer": "snowy",
+        "explanation": "Snow → snowy."
+      },
+      {
+        "id": "a2-vocab-weather-1-06",
+        "type": "error",
+        "prompt": "Today is very wind.",
+        "answer": [
+          "wind",
+          "windy"
+        ],
+        "explanation": "Przymiotnik: windy."
+      },
+      {
+        "id": "a2-vocab-weather-1-07",
+        "type": "tiles",
+        "prompt": "Jaka jest dziś pogoda?",
+        "answer": [
+          "What",
+          "is",
+          "the",
+          "weather",
+          "like",
+          "today"
+        ],
+        "explanation": "What is the weather like."
+      },
+      {
+        "id": "a2-vocab-weather-1-08",
+        "type": "translate",
+        "prompt": "Jutro będzie słonecznie.",
+        "answer": "It will be sunny tomorrow.",
+        "accept": [
+          "Tomorrow it will be sunny.",
+          "It is going to be sunny tomorrow."
+        ],
+        "explanation": "Przewidywanie: will be."
+      },
+      {
+        "id": "a2-vocab-weather-1-09",
+        "type": "transform",
+        "prompt": "Opisz pogodę przymiotnikiem, zacznij od „It is”.\nThere is a lot of fog.",
+        "answer": "It is foggy.",
+        "explanation": "Fog → foggy."
+      },
+      {
+        "id": "a2-vocab-weather-1-10",
+        "type": "choice",
+        "prompt": "Minus five degrees? That's ___!",
+        "answer": "freezing",
+        "distractors": [
+          "warm",
+          "boiling"
+        ],
+        "explanation": "Mróz: freezing."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-weather-2",
+    "topicId": "a2-vocab-weather",
+    "exercises": [
+      {
+        "id": "a2-vocab-weather-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "storm|burza",
+          "rainbow|tęcza",
+          "thunder|grzmot",
+          "lightning|błyskawica"
+        ],
+        "explanation": "Zjawiska pogodowe."
+      },
+      {
+        "id": "a2-vocab-weather-2-02",
+        "type": "choice",
+        "prompt": "After the rain we saw a beautiful ___.",
+        "answer": "rainbow",
+        "distractors": [
+          "storm",
+          "fog"
+        ],
+        "explanation": "Po deszczu tęcza."
+      },
+      {
+        "id": "a2-vocab-weather-2-03",
+        "type": "choice",
+        "prompt": "The temperature is 20 ___.",
+        "answer": "degrees",
+        "distractors": [
+          "grades",
+          "levels"
+        ],
+        "explanation": "Stopnie: degrees."
+      },
+      {
+        "id": "a2-vocab-weather-2-04",
+        "type": "cloze",
+        "prompt": "My favourite ___ is spring. (pora roku)",
+        "answer": "season",
+        "explanation": "Pora roku: season."
+      },
+      {
+        "id": "a2-vocab-weather-2-05",
+        "type": "cloze",
+        "prompt": "It's ___ outside. Wear a warm coat. (zimno)",
+        "answer": "cold",
+        "explanation": "Zimno: cold."
+      },
+      {
+        "id": "a2-vocab-weather-2-06",
+        "type": "error",
+        "prompt": "It's very hot – about minus ten degrees.",
+        "answer": [
+          "hot",
+          "cold"
+        ],
+        "explanation": "Minus dziesięć to zimno."
+      },
+      {
+        "id": "a2-vocab-weather-2-07",
+        "type": "tiles",
+        "prompt": "Wczoraj było bardzo wietrznie.",
+        "answer": [
+          "It",
+          "was",
+          "very",
+          "windy",
+          "yesterday"
+        ],
+        "accept": [
+          "Yesterday it was very windy"
+        ],
+        "explanation": "It was + windy."
+      },
+      {
+        "id": "a2-vocab-weather-2-08",
+        "type": "translate",
+        "prompt": "Lubię deszczowe dni.",
+        "answer": "I like rainy days.",
+        "explanation": "Deszczowy: rainy."
+      },
+      {
+        "id": "a2-vocab-weather-2-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nIt's a wet day.",
+        "answer": "It is a dry day.",
+        "explanation": "Wet – dry."
+      },
+      {
+        "id": "a2-vocab-weather-2-10",
+        "type": "choice",
+        "prompt": "Shh! Listen – can you hear the ___? A storm is coming.",
+        "answer": "thunder",
+        "distractors": [
+          "lightning",
+          "rainbow"
+        ],
+        "explanation": "Słychać grzmot (thunder), widać błyskawicę (lightning)."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-weather-3",
+    "topicId": "a2-vocab-weather",
+    "exercises": [
+      {
+        "id": "a2-vocab-weather-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "forecast|prognoza",
+          "shower|przelotny deszcz",
+          "mild|łagodny",
+          "humid|parny"
+        ],
+        "explanation": "Słowa z prognozy pogody."
+      },
+      {
+        "id": "a2-vocab-weather-3-02",
+        "type": "cloze",
+        "prompt": "According to the weather ___, it will rain tomorrow. (prognoza)",
+        "answer": "forecast",
+        "explanation": "Prognoza: forecast."
+      },
+      {
+        "id": "a2-vocab-weather-3-03",
+        "type": "cloze",
+        "prompt": "It will be ___ with some sunny spells. (pochmurno)",
+        "answer": "cloudy",
+        "explanation": "Pochmurno: cloudy."
+      },
+      {
+        "id": "a2-vocab-weather-3-04",
+        "type": "choice",
+        "prompt": "Temperatures will ___ to 30 degrees.",
+        "answer": "rise",
+        "distractors": [
+          "raise",
+          "grow up"
+        ],
+        "explanation": "Temperatura rośnie: rise."
+      },
+      {
+        "id": "a2-vocab-weather-3-05",
+        "type": "choice",
+        "prompt": "It's not very cold, it's quite ___ for January.",
+        "answer": "mild",
+        "distractors": [
+          "wild",
+          "hard"
+        ],
+        "explanation": "Łagodnie: mild."
+      },
+      {
+        "id": "a2-vocab-weather-3-06",
+        "type": "error",
+        "prompt": "It's raining cats and pigs.",
+        "answer": [
+          "pigs",
+          "dogs"
+        ],
+        "explanation": "Idiom: raining cats and dogs."
+      },
+      {
+        "id": "a2-vocab-weather-3-07",
+        "type": "error",
+        "prompt": "The weather is very well today.",
+        "answer": [
+          "well",
+          "good"
+        ],
+        "explanation": "Pogoda jest dobra: good."
+      },
+      {
+        "id": "a2-vocab-weather-3-08",
+        "type": "tiles",
+        "prompt": "Myślę, że będzie burza.",
+        "answer": [
+          "I",
+          "think",
+          "there",
+          "will",
+          "be",
+          "a",
+          "storm"
+        ],
+        "explanation": "There will be + a storm."
+      },
+      {
+        "id": "a2-vocab-weather-3-09",
+        "type": "translate",
+        "prompt": "Jaka jest temperatura?",
+        "answer": "What is the temperature?",
+        "accept": [
+          "What is the temperature like?"
+        ],
+        "explanation": "Temperatura: temperature."
+      },
+      {
+        "id": "a2-vocab-weather-3-10",
+        "type": "transform",
+        "prompt": "Napisz stopień najwyższy z „the”.\nhot",
+        "answer": "the hottest",
+        "accept": [
+          "hottest"
+        ],
+        "explanation": "Hot → the hottest."
+      }
+    ]
+  }
+]

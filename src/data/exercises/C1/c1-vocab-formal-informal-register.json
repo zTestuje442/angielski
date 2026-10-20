@@ -1,0 +1,370 @@
+[
+  {
+    "id": "c1-vocab-formal-informal-register-1",
+    "topicId": "c1-vocab-formal-informal-register",
+    "exercises": [
+      {
+        "id": "c1-vocab-formal-informal-register-1-01",
+        "type": "match",
+        "prompt": "Połącz słowo neutralne z formalnym.",
+        "answer": [
+          "buy|purchase",
+          "need|require",
+          "help|assist",
+          "start|commence"
+        ],
+        "explanation": "Słowo neutralne i formalne."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is formal?",
+        "answer": "We regret to inform you that your application was unsuccessful.",
+        "distractors": [
+          "Sorry, you didn't get the job.",
+          "Bad news – no job for you."
+        ],
+        "explanation": "Formalnie: We regret to inform you..."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-03",
+        "type": "choice",
+        "prompt": "Formal equivalent of \"find out\":",
+        "answer": "ascertain",
+        "distractors": [
+          "figure",
+          "look up"
+        ],
+        "explanation": "Find out → ascertain."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-04",
+        "type": "cloze",
+        "prompt": "Please ___ us of any changes. (poinformuj – formalnie)",
+        "answer": "inform",
+        "accept": [
+          "notify",
+          "advise"
+        ],
+        "explanation": "Tell → inform."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-05",
+        "type": "cloze",
+        "prompt": "The meeting will ___ at 9 a.m. (rozpocznie się – formalnie)",
+        "answer": "commence",
+        "accept": [
+          "begin"
+        ],
+        "explanation": "Start → commence."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-06",
+        "type": "error",
+        "prompt": "We need to get your approval before we commence.",
+        "answer": [
+          "get",
+          "obtain"
+        ],
+        "explanation": "Formalnie: obtain."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-07",
+        "type": "tiles",
+        "prompt": "Prosimy o natychmiastową płatność.",
+        "answer": [
+          "We",
+          "request",
+          "immediate",
+          "payment"
+        ],
+        "distractors": [
+          "requests",
+          "asking"
+        ],
+        "explanation": "Ask for → request."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-08",
+        "type": "translate",
+        "prompt": "Bardzo przepraszamy za niedogodności.",
+        "answer": "We sincerely apologise for the inconvenience.",
+        "accept": [
+          "We apologise for the inconvenience.",
+          "We sincerely apologize for the inconvenience.",
+          "We apologize for the inconvenience.",
+          "We deeply apologise for the inconvenience."
+        ],
+        "explanation": "Formalne przeprosiny."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-09",
+        "type": "choice",
+        "prompt": "Which word is informal?",
+        "answer": "stuff",
+        "distractors": [
+          "items",
+          "belongings"
+        ],
+        "explanation": "Potocznie: stuff."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-1-10",
+        "type": "transform",
+        "prompt": "Zamień na styl formalny, użyj „regarding”.\nI'm writing about your ad.",
+        "answer": "I am writing regarding your advertisement.",
+        "accept": [
+          "I am writing regarding your advert."
+        ],
+        "explanation": "About → regarding; ad → advertisement."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-formal-informal-register-2",
+    "topicId": "c1-vocab-formal-informal-register",
+    "exercises": [
+      {
+        "id": "c1-vocab-formal-informal-register-2-01",
+        "type": "match",
+        "prompt": "Połącz phrasal verb z formalnym słowem.",
+        "answer": [
+          "put off|postpone",
+          "look into|investigate",
+          "give back|return",
+          "find out|discover"
+        ],
+        "explanation": "Phrasal verb i formalny odpowiednik."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-02",
+        "type": "choice",
+        "prompt": "Which sentence is informal?",
+        "answer": "Gonna be a bit late, sorry!",
+        "distractors": [
+          "I may be slightly delayed.",
+          "I apologise for my late arrival."
+        ],
+        "explanation": "Potocznie: gonna."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-03",
+        "type": "choice",
+        "prompt": "Formal equivalent of \"because of\":",
+        "answer": "owing to",
+        "distractors": [
+          "cause of",
+          "thanks"
+        ],
+        "explanation": "Because of → owing to / due to."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-04",
+        "type": "cloze",
+        "prompt": "The flight was cancelled ___ to adverse weather conditions. (z powodu)",
+        "answer": "due",
+        "accept": [
+          "owing"
+        ],
+        "explanation": "Due to."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-05",
+        "type": "cloze",
+        "prompt": "Your contract will be ___ if you fail to pay. (rozwiązana)",
+        "answer": "terminated",
+        "explanation": "End → terminate."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-06",
+        "type": "error",
+        "prompt": "All applicants are required to submitting a copy of their ID.",
+        "answer": [
+          "submitting",
+          "submit"
+        ],
+        "explanation": "Be required to + forma podstawowa."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-07",
+        "type": "tiles",
+        "prompt": "Wymagane są dodatkowe dokumenty.",
+        "answer": [
+          "Additional",
+          "documents",
+          "are",
+          "required"
+        ],
+        "distractors": [
+          "require",
+          "requiring"
+        ],
+        "explanation": "Need → require."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-08",
+        "type": "translate",
+        "prompt": "Czy mógłby Pan mi pomóc?",
+        "answer": "Could you assist me, please?",
+        "accept": [
+          "Could you help me, please?",
+          "Would you be able to assist me?",
+          "Could you please assist me?",
+          "Could you please help me?",
+          "Would you mind helping me?"
+        ],
+        "explanation": "Formalnie: assist."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-09",
+        "type": "choice",
+        "prompt": "Which is the most formal way to end an email?",
+        "answer": "I look forward to your reply.",
+        "distractors": [
+          "Speak soon!",
+          "Cheers!"
+        ],
+        "explanation": "Formalnie: I look forward to your reply."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-2-10",
+        "type": "choice",
+        "prompt": "Which sentence is too formal for a chat with a friend?",
+        "answer": "I wish to inform you that I shall arrive at seven.",
+        "distractors": [
+          "See you at seven!",
+          "I'll be there at seven."
+        ],
+        "explanation": "Przesadna formalność w rozmowie z przyjacielem."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-formal-informal-register-3",
+    "topicId": "c1-vocab-formal-informal-register",
+    "exercises": [
+      {
+        "id": "c1-vocab-formal-informal-register-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenie neutralne z formalnym.",
+        "answer": [
+          "a lot of|a considerable number of",
+          "enough|sufficient",
+          "so|therefore",
+          "thanks|I am grateful"
+        ],
+        "explanation": "Wyrażenie neutralne i formalne."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-02",
+        "type": "choice",
+        "prompt": "Which sentence is formal?",
+        "answer": "Customers are requested to retain their receipts.",
+        "distractors": [
+          "Keep your receipts, guys!",
+          "Don't lose your receipts, OK?"
+        ],
+        "explanation": "Strona bierna, formalne słowa."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-03",
+        "type": "choice",
+        "prompt": "Formal equivalent of \"get\" (a document):",
+        "answer": "obtain",
+        "distractors": [
+          "grab",
+          "pick"
+        ],
+        "explanation": "Get → obtain."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-04",
+        "type": "cloze",
+        "prompt": "There is ___ evidence to support this claim. (wystarczające)",
+        "answer": "sufficient",
+        "accept": [
+          "enough",
+          "adequate"
+        ],
+        "explanation": "Enough → sufficient."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-05",
+        "type": "cloze",
+        "prompt": "Smoking is ___ in all areas of the building. (zabronione)",
+        "answer": "prohibited",
+        "accept": [
+          "forbidden",
+          "banned",
+          "not permitted"
+        ],
+        "explanation": "Formalnie: prohibited."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-06",
+        "type": "error",
+        "prompt": "The kids will be supervised by qualified staff.",
+        "answer": [
+          "kids",
+          "children"
+        ],
+        "explanation": "Formalnie: children."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-07",
+        "type": "error",
+        "prompt": "We wish to purchase some stuff for the new office.",
+        "answer": [
+          "stuff",
+          "equipment"
+        ],
+        "explanation": "Potoczne „stuff” nie pasuje: equipment / items."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-08",
+        "type": "tiles",
+        "prompt": "Uprzejmie prosimy o zachowanie ciszy.",
+        "answer": [
+          "Visitors",
+          "are",
+          "kindly",
+          "requested",
+          "to",
+          "remain",
+          "silent"
+        ],
+        "distractors": [
+          "asks",
+          "remaining"
+        ],
+        "explanation": "Strona bierna + kindly."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-09",
+        "type": "translate",
+        "prompt": "Wnioski można składać do piątku.",
+        "answer": "Applications may be submitted until Friday.",
+        "accept": [
+          "Applications can be submitted until Friday.",
+          "Applications may be submitted by Friday.",
+          "Applications can be submitted by Friday.",
+          "Applications must be submitted by Friday."
+        ],
+        "explanation": "Formalnie: may be submitted."
+      },
+      {
+        "id": "c1-vocab-formal-informal-register-3-10",
+        "type": "transform",
+        "prompt": "Zamień na styl formalny, zacznij od „We regret”.\nSorry, but we can't give you a refund.",
+        "answer": "We regret that we are unable to offer you a refund.",
+        "accept": [
+          "We regret that we are unable to give you a refund.",
+          "We regret that we cannot offer you a refund.",
+          "We regret that we cannot give you a refund.",
+          "We regret to inform you that we are unable to offer you a refund."
+        ],
+        "explanation": "Formalne odmowy: We regret that... / unable to."
+      }
+    ]
+  }
+]

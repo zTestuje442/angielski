@@ -1,0 +1,303 @@
+[
+  {
+    "id": "a1-to-be-1",
+    "topicId": "a1-to-be",
+    "exercises": [
+      {
+        "id": "a1-to-be-1-01",
+        "type": "cloze",
+        "prompt": "I ___ a student.",
+        "answer": "am",
+        "explanation": "Z I zawsze używamy am."
+      },
+      {
+        "id": "a1-to-be-1-02",
+        "type": "cloze",
+        "prompt": "She ___ from Poland.",
+        "answer": "is",
+        "explanation": "He, she i it łączą się z is."
+      },
+      {
+        "id": "a1-to-be-1-03",
+        "type": "cloze",
+        "prompt": "We ___ friends.",
+        "answer": "are",
+        "explanation": "We, you i they łączą się z are."
+      },
+      {
+        "id": "a1-to-be-1-04",
+        "type": "choice",
+        "prompt": "They ___ at home.",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "am"
+        ],
+        "explanation": "They to liczba mnoga, więc are."
+      },
+      {
+        "id": "a1-to-be-1-05",
+        "type": "choice",
+        "prompt": "My brother ___ ten years old.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "am"
+        ],
+        "explanation": "My brother = he, więc is. Wiek podajemy z to be."
+      },
+      {
+        "id": "a1-to-be-1-06",
+        "type": "match",
+        "prompt": "Połącz polskie formy z angielskimi.",
+        "answer": [
+          "jestem|I am",
+          "jesteś|you are",
+          "on jest|he is",
+          "oni są|they are"
+        ],
+        "explanation": "I – am, he – is, you i they – are."
+      },
+      {
+        "id": "a1-to-be-1-07",
+        "type": "tiles",
+        "prompt": "Ona jest moją siostrą.",
+        "answer": [
+          "She",
+          "is",
+          "my",
+          "sister"
+        ],
+        "explanation": "She + is + reszta zdania."
+      },
+      {
+        "id": "a1-to-be-1-08",
+        "type": "translate",
+        "prompt": "Jestem zmęczony.",
+        "answer": "I am tired.",
+        "accept": [
+          "I am tired."
+        ],
+        "explanation": "„Jestem” to I am; skrót I'm też jest poprawny."
+      },
+      {
+        "id": "a1-to-be-1-09",
+        "type": "error",
+        "prompt": "They is my friends.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "They łączy się z are."
+      },
+      {
+        "id": "a1-to-be-1-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „we”.\nI am happy.",
+        "answer": "We are happy.",
+        "explanation": "Z we używamy are."
+      }
+    ]
+  },
+  {
+    "id": "a1-to-be-2",
+    "topicId": "a1-to-be",
+    "exercises": [
+      {
+        "id": "a1-to-be-2-01",
+        "type": "cloze",
+        "prompt": "I ___ not hungry.",
+        "answer": "am",
+        "explanation": "Przeczenie: I am not (I'm not)."
+      },
+      {
+        "id": "a1-to-be-2-02",
+        "type": "cloze",
+        "prompt": "He ___ not at school today.",
+        "answer": "is",
+        "explanation": "He is not = he isn't."
+      },
+      {
+        "id": "a1-to-be-2-03",
+        "type": "choice",
+        "prompt": "We ___ late.",
+        "answer": "are not",
+        "distractors": [
+          "is not",
+          "am not"
+        ],
+        "explanation": "We łączy się z are, więc are not (aren't)."
+      },
+      {
+        "id": "a1-to-be-2-04",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nShe is a doctor.",
+        "answer": "She is not a doctor.",
+        "explanation": "Not stawiamy po is: she is not (isn't)."
+      },
+      {
+        "id": "a1-to-be-2-05",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThey are from Spain.",
+        "answer": "They are not from Spain.",
+        "explanation": "Not stawiamy po are: they are not (aren't)."
+      },
+      {
+        "id": "a1-to-be-2-06",
+        "type": "tiles",
+        "prompt": "To nie jest mój telefon.",
+        "answer": [
+          "This",
+          "is",
+          "not",
+          "my",
+          "phone"
+        ],
+        "explanation": "Przeczenie: is not, bez żadnego dodatkowego słowa."
+      },
+      {
+        "id": "a1-to-be-2-07",
+        "type": "error",
+        "prompt": "I isn't ready.",
+        "answer": [
+          "isn't",
+          "am not"
+        ],
+        "explanation": "Z I nie ma formy isn't; mówimy I am not (I'm not)."
+      },
+      {
+        "id": "a1-to-be-2-08",
+        "type": "translate",
+        "prompt": "Nie jesteśmy w domu.",
+        "answer": "We are not at home.",
+        "accept": [
+          "We are not home."
+        ],
+        "explanation": "We are not = we aren't. „W domu” to at home."
+      },
+      {
+        "id": "a1-to-be-2-09",
+        "type": "choice",
+        "prompt": "It ___ cold today. It is warm.",
+        "answer": "is not",
+        "distractors": [
+          "are not",
+          "am not"
+        ],
+        "explanation": "It łączy się z is, więc is not (isn't)."
+      },
+      {
+        "id": "a1-to-be-2-10",
+        "type": "match",
+        "prompt": "Połącz pełne formy ze skrótami.",
+        "answer": [
+          "I am not|I'm not",
+          "he is not|he isn't",
+          "we are not|we aren't",
+          "it is not|it isn't"
+        ],
+        "explanation": "Krótkie formy: 'm not, isn't, aren't."
+      }
+    ]
+  },
+  {
+    "id": "a1-to-be-3",
+    "topicId": "a1-to-be",
+    "exercises": [
+      {
+        "id": "a1-to-be-3-01",
+        "type": "choice",
+        "prompt": "___ you a teacher?",
+        "answer": "Are",
+        "distractors": [
+          "Is",
+          "Am"
+        ],
+        "explanation": "W pytaniu are stoi przed you."
+      },
+      {
+        "id": "a1-to-be-3-02",
+        "type": "cloze",
+        "prompt": "___ he your brother?",
+        "answer": "Is",
+        "explanation": "W pytaniu is stoi przed he."
+      },
+      {
+        "id": "a1-to-be-3-03",
+        "type": "cloze",
+        "prompt": "Is she at work? — Yes, she ___.",
+        "answer": "is",
+        "explanation": "Krótka odpowiedź powtarza czasownik: Yes, she is."
+      },
+      {
+        "id": "a1-to-be-3-04",
+        "type": "cloze",
+        "prompt": "Are they hungry? — No, they ___.",
+        "answer": "aren't",
+        "explanation": "Przecząca krótka odpowiedź: No, they aren't."
+      },
+      {
+        "id": "a1-to-be-3-05",
+        "type": "tiles",
+        "prompt": "Czy jesteś gotowy?",
+        "answer": [
+          "Are",
+          "you",
+          "ready"
+        ],
+        "explanation": "Pytanie: are + you + reszta."
+      },
+      {
+        "id": "a1-to-be-3-06",
+        "type": "tiles",
+        "prompt": "Gdzie są moje klucze?",
+        "answer": [
+          "Where",
+          "are",
+          "my",
+          "keys"
+        ],
+        "explanation": "Where + are + podmiot w liczbie mnogiej."
+      },
+      {
+        "id": "a1-to-be-3-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou are from Gdynia.",
+        "answer": "Are you from Gdynia?",
+        "explanation": "Are przechodzi przed podmiot."
+      },
+      {
+        "id": "a1-to-be-3-08",
+        "type": "translate",
+        "prompt": "Czy on jest w domu?",
+        "answer": "Is he at home?",
+        "accept": [
+          "Is he home?"
+        ],
+        "explanation": "Is he...? „W domu” to at home."
+      },
+      {
+        "id": "a1-to-be-3-09",
+        "type": "error",
+        "prompt": "Am you OK?",
+        "answer": [
+          "Am",
+          "Are"
+        ],
+        "explanation": "Z you używamy are."
+      },
+      {
+        "id": "a1-to-be-3-10",
+        "type": "match",
+        "prompt": "Połącz pytania z odpowiedziami.",
+        "answer": [
+          "Are you OK?|Yes, I am.",
+          "Is it your bag?|No, it isn't.",
+          "Are they Polish?|Yes, they are.",
+          "Is Anna here?|No, she isn't."
+        ],
+        "explanation": "Odpowiedź powtarza podmiot i formę to be z pytania."
+      }
+    ]
+  }
+]

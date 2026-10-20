@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-opinion-2",
+  "topicId": "b1-reading-opinion",
+  "title": "Why I'm happy to be back in the office",
+  "text": "When my company told us in 2020 that we would all work from home, I was delighted. No more crowded trains, no more expensive sandwiches, no more boring small talk in the kitchen. I could work in my pyjamas and take breaks whenever I wanted. For the first few months, it felt like a holiday.\n\nBut slowly, things changed. My living room became my office, and I found it harder and harder to switch off. I answered emails at ten o'clock at night and sat at my laptop all weekend. Some days I didn't leave the flat at all. I realised that I wasn't working less – I was working all the time.\n\nI also missed my colleagues much more than I expected. Video calls are fine for meetings, but you can't have a quick chat over coffee or ask someone a question just by turning your head. As a younger employee, I learnt a lot simply by listening to more experienced people around me. At home, I had nobody to learn from.\n\nSo when my manager asked who wanted to come back to the office, I was one of the first to say yes. Now I go in four days a week and work from home on Fridays. The train is still crowded, but I enjoy the clear line between work and home. When I leave the office, my working day is over.\n\nI know that working from home is perfect for some people, especially parents with young children or those who live far from the city. I don't think everybody should be forced back to the office. But I'm tired of hearing that it's the best option for everyone. For me, it definitely wasn't.",
+  "exercises": [
+    {
+      "id": "b1-reading-opinion-2-01",
+      "type": "choice",
+      "prompt": "At first, the writer liked working from home.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„I was delighted... it felt like a holiday.”"
+    },
+    {
+      "id": "b1-reading-opinion-2-02",
+      "type": "choice",
+      "prompt": "The writer worked fewer hours at home.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„I wasn't working less – I was working all the time.”"
+    },
+    {
+      "id": "b1-reading-opinion-2-03",
+      "type": "choice",
+      "prompt": "The writer's manager prefers people to work from home.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, co woli szef."
+    },
+    {
+      "id": "b1-reading-opinion-2-04",
+      "type": "choice",
+      "prompt": "What did the writer miss most about the office?",
+      "answer": "talking to and learning from colleagues",
+      "distractors": [
+        "the cheap food",
+        "the train journey"
+      ],
+      "explanation": "„I also missed my colleagues... I had nobody to learn from.”"
+    },
+    {
+      "id": "b1-reading-opinion-2-05",
+      "type": "choice",
+      "prompt": "How often does the writer work from home now?",
+      "answer": "one day a week",
+      "distractors": [
+        "four days a week",
+        "never"
+      ],
+      "explanation": "„...work from home on Fridays.”"
+    },
+    {
+      "id": "b1-reading-opinion-2-06",
+      "type": "choice",
+      "prompt": "What does the writer think about working from home?",
+      "answer": "It is good for some people, but not for everyone.",
+      "distractors": [
+        "It should be banned.",
+        "It is the best option for everyone."
+      ],
+      "explanation": "„...perfect for some people... For me, it definitely wasn't.”"
+    },
+    {
+      "id": "b1-reading-opinion-2-07",
+      "type": "cloze",
+      "prompt": "I found it harder and harder to switch ___.",
+      "answer": "off",
+      "explanation": "Wyłączyć się: switch off."
+    },
+    {
+      "id": "b1-reading-opinion-2-08",
+      "type": "cloze",
+      "prompt": "I enjoy the clear line between work and ___.",
+      "answer": "home",
+      "explanation": "Granica między pracą a domem."
+    },
+    {
+      "id": "b1-reading-opinion-2-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "delighted|zachwycony",
+        "small talk|pogawędka",
+        "switch off|wyłączyć się, odpocząć",
+        "forced|zmuszony"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

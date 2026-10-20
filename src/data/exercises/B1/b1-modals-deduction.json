@@ -1,0 +1,331 @@
+[
+  {
+    "id": "b1-modals-deduction-1",
+    "topicId": "b1-modals-deduction",
+    "exercises": [
+      {
+        "id": "b1-modals-deduction-1-01",
+        "type": "cloze",
+        "prompt": "He's been working all day. He ___ be tired. (na pewno)",
+        "answer": "must",
+        "explanation": "Jestem pewien: must."
+      },
+      {
+        "id": "b1-modals-deduction-1-02",
+        "type": "cloze",
+        "prompt": "That ___ be Tom – he's in Paris this week. (to niemożliwe)",
+        "answer": "can't",
+        "explanation": "Niemożliwe: can't."
+      },
+      {
+        "id": "b1-modals-deduction-1-03",
+        "type": "cloze",
+        "prompt": "Take an umbrella. It ___ rain later. (może)",
+        "answer": "might",
+        "accept": [
+          "may",
+          "could"
+        ],
+        "explanation": "Możliwe: might / may / could."
+      },
+      {
+        "id": "b1-modals-deduction-1-04",
+        "type": "choice",
+        "prompt": "She isn't answering. She ___ be asleep.",
+        "answer": "might",
+        "distractors": [
+          "must not",
+          "can"
+        ],
+        "explanation": "Możliwe: might."
+      },
+      {
+        "id": "b1-modals-deduction-1-05",
+        "type": "choice",
+        "prompt": "You've just eaten! You ___ be hungry already.",
+        "answer": "can't",
+        "distractors": [
+          "mustn't",
+          "must"
+        ],
+        "explanation": "Niemożliwe: can't."
+      },
+      {
+        "id": "b1-modals-deduction-1-06",
+        "type": "match",
+        "prompt": "Połącz czasowniki ze znaczeniem.",
+        "answer": [
+          "must|na pewno",
+          "might|może, możliwe",
+          "can't|na pewno nie",
+          "could|możliwe"
+        ],
+        "explanation": "Stopnie pewności."
+      },
+      {
+        "id": "b1-modals-deduction-1-07",
+        "type": "error",
+        "prompt": "It mustn't be true – I don't believe it.",
+        "answer": [
+          "mustn't",
+          "can't"
+        ],
+        "explanation": "Niemożliwe: can't (mustn't = nie wolno)."
+      },
+      {
+        "id": "b1-modals-deduction-1-08",
+        "type": "tiles",
+        "prompt": "To musi być jej siostra.",
+        "answer": [
+          "That",
+          "must",
+          "be",
+          "her",
+          "sister"
+        ],
+        "distractors": [
+          "can't",
+          "is"
+        ],
+        "explanation": "Pewność: must be."
+      },
+      {
+        "id": "b1-modals-deduction-1-09",
+        "type": "translate",
+        "prompt": "On może być w domu.",
+        "answer": "He might be at home.",
+        "accept": [
+          "He may be at home.",
+          "He could be at home.",
+          "He might be home.",
+          "He may be home.",
+          "He could be home."
+        ],
+        "explanation": "Możliwe: might / may / could."
+      },
+      {
+        "id": "b1-modals-deduction-1-10",
+        "type": "transform",
+        "prompt": "Wyraź pewność z „must”, zacznij od „She”.\nI'm sure she is at work.",
+        "answer": "She must be at work.",
+        "explanation": "Pewność: must be."
+      }
+    ]
+  },
+  {
+    "id": "b1-modals-deduction-2",
+    "topicId": "b1-modals-deduction",
+    "exercises": [
+      {
+        "id": "b1-modals-deduction-2-01",
+        "type": "cloze",
+        "prompt": "The lights are off. They ___ be out. (na pewno)",
+        "answer": "must",
+        "explanation": "Pewność: must."
+      },
+      {
+        "id": "b1-modals-deduction-2-02",
+        "type": "cloze",
+        "prompt": "He ___ be 50! He looks so young. (niemożliwe)",
+        "answer": "can't",
+        "explanation": "Niemożliwe: can't."
+      },
+      {
+        "id": "b1-modals-deduction-2-03",
+        "type": "choice",
+        "prompt": "I'm not sure where Ann is. She ___ be in the library.",
+        "answer": "could",
+        "distractors": [
+          "must",
+          "can't"
+        ],
+        "explanation": "Możliwe: could."
+      },
+      {
+        "id": "b1-modals-deduction-2-04",
+        "type": "choice",
+        "prompt": "Someone's at the door. It ___ be the postman – he always comes at 10.",
+        "answer": "must",
+        "distractors": [
+          "can't",
+          "mustn't"
+        ],
+        "explanation": "Pewność: must."
+      },
+      {
+        "id": "b1-modals-deduction-2-05",
+        "type": "choice",
+        "prompt": "This ___ be the right house. It's number 12 and we need 21.",
+        "answer": "can't",
+        "distractors": [
+          "must",
+          "mustn't"
+        ],
+        "explanation": "Niemożliwe: can't."
+      },
+      {
+        "id": "b1-modals-deduction-2-06",
+        "type": "transform",
+        "prompt": "Wyraź niemożliwość z „can't”, zacznij od „It”.\nI'm sure it isn't true.",
+        "answer": "It cannot be true.",
+        "explanation": "Niemożliwe: can't be."
+      },
+      {
+        "id": "b1-modals-deduction-2-07",
+        "type": "transform",
+        "prompt": "Wyraź możliwość z „might”, zacznij od „He”.\nPerhaps he is ill.",
+        "answer": "He might be ill.",
+        "explanation": "Możliwe: might be."
+      },
+      {
+        "id": "b1-modals-deduction-2-08",
+        "type": "tiles",
+        "prompt": "Ona chyba nie wie.",
+        "answer": [
+          "She",
+          "might",
+          "not",
+          "know"
+        ],
+        "distractors": [
+          "can",
+          "mustn't"
+        ],
+        "explanation": "Możliwe, że nie: might not."
+      },
+      {
+        "id": "b1-modals-deduction-2-09",
+        "type": "error",
+        "prompt": "He might is right.",
+        "answer": [
+          "is",
+          "be"
+        ],
+        "explanation": "Po modalnym forma podstawowa: be."
+      },
+      {
+        "id": "b1-modals-deduction-2-10",
+        "type": "translate",
+        "prompt": "To nie może być prawda!",
+        "answer": "That cannot be true!",
+        "accept": [
+          "It cannot be true!",
+          "That cannot be right!",
+          "It cannot be right!"
+        ],
+        "explanation": "Niemożliwe: can't be."
+      }
+    ]
+  },
+  {
+    "id": "b1-modals-deduction-3",
+    "topicId": "b1-modals-deduction",
+    "exercises": [
+      {
+        "id": "b1-modals-deduction-3-01",
+        "type": "choice",
+        "prompt": "They have three cars. They ___ be rich.",
+        "answer": "must",
+        "distractors": [
+          "can't",
+          "might not"
+        ],
+        "explanation": "Pewność: must."
+      },
+      {
+        "id": "b1-modals-deduction-3-02",
+        "type": "choice",
+        "prompt": "I don't know who that man is. He ___ be a new teacher.",
+        "answer": "might",
+        "distractors": [
+          "must",
+          "can't"
+        ],
+        "explanation": "Możliwe: might."
+      },
+      {
+        "id": "b1-modals-deduction-3-03",
+        "type": "choice",
+        "prompt": "It ___ be cold outside – people are wearing T-shirts.",
+        "answer": "can't",
+        "distractors": [
+          "must",
+          "mustn't"
+        ],
+        "explanation": "Niemożliwe: can't."
+      },
+      {
+        "id": "b1-modals-deduction-3-04",
+        "type": "cloze",
+        "prompt": "Where are my keys? They ___ be in the car. I'm not sure. (może)",
+        "answer": "might",
+        "accept": [
+          "may",
+          "could"
+        ],
+        "explanation": "Możliwe: might."
+      },
+      {
+        "id": "b1-modals-deduction-3-05",
+        "type": "cloze",
+        "prompt": "You ___ be very proud of your son. (na pewno)",
+        "answer": "must",
+        "explanation": "Pewność: must."
+      },
+      {
+        "id": "b1-modals-deduction-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Jestem pewien, że jest w domu.|He must be at home.",
+          "Możliwe, że jest w domu.|He might be at home.",
+          "Niemożliwe, żeby był w domu.|He can't be at home."
+        ],
+        "explanation": "Must, might, can't."
+      },
+      {
+        "id": "b1-modals-deduction-3-07",
+        "type": "error",
+        "prompt": "That can be John. John is much taller.",
+        "answer": [
+          "can",
+          "can't"
+        ],
+        "explanation": "Niemożliwe: can't."
+      },
+      {
+        "id": "b1-modals-deduction-3-08",
+        "type": "error",
+        "prompt": "She must is very tired.",
+        "answer": [
+          "is",
+          "be"
+        ],
+        "explanation": "Po must forma podstawowa: be."
+      },
+      {
+        "id": "b1-modals-deduction-3-09",
+        "type": "tiles",
+        "prompt": "To może być prawda.",
+        "answer": [
+          "It",
+          "might",
+          "be",
+          "true"
+        ],
+        "distractors": [
+          "must",
+          "is"
+        ],
+        "explanation": "Możliwe: might."
+      },
+      {
+        "id": "b1-modals-deduction-3-10",
+        "type": "translate",
+        "prompt": "On na pewno jest głodny.",
+        "answer": "He must be hungry.",
+        "explanation": "Pewność: must."
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "id": "a1-reading-instructions-3",
+  "topicId": "a1-reading-instructions",
+  "title": "Buying a train ticket",
+  "text": "Buying a train ticket from the machine\n\n1. Touch the screen to start.\n2. Choose your language: English, Polish or German.\n3. Choose where you want to go.\n4. Choose \"single\" (one way) or \"return\" (there and back).\n5. Choose the number of tickets.\n6. Pay by card or with coins. The machine doesn't take notes.\n7. Take your ticket and your change.\n\nKeep your ticket with you on the train. The ticket inspector can ask to see it.",
+  "exercises": [
+    {
+      "id": "a1-reading-instructions-3-01",
+      "type": "choice",
+      "prompt": "You can choose English on the machine.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Choose your language: English, Polish or German.”"
+    },
+    {
+      "id": "a1-reading-instructions-3-02",
+      "type": "choice",
+      "prompt": "You can pay with notes.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„The machine doesn't take notes.”"
+    },
+    {
+      "id": "a1-reading-instructions-3-03",
+      "type": "choice",
+      "prompt": "A return ticket is cheaper than two single tickets.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Instrukcja nie podaje cen."
+    },
+    {
+      "id": "a1-reading-instructions-3-04",
+      "type": "choice",
+      "prompt": "You can throw your ticket away on the train.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Keep your ticket with you on the train.”"
+    },
+    {
+      "id": "a1-reading-instructions-3-05",
+      "type": "choice",
+      "prompt": "What is a \"return\" ticket?",
+      "answer": "there and back",
+      "distractors": [
+        "one way",
+        "for two people"
+      ],
+      "explanation": "„return (there and back)”."
+    },
+    {
+      "id": "a1-reading-instructions-3-06",
+      "type": "choice",
+      "prompt": "What do you do first?",
+      "answer": "touch the screen",
+      "distractors": [
+        "pay by card",
+        "take your change"
+      ],
+      "explanation": "Krok 1: „Touch the screen to start.”"
+    },
+    {
+      "id": "a1-reading-instructions-3-07",
+      "type": "cloze",
+      "prompt": "Take your ticket and your ___.",
+      "answer": "change",
+      "explanation": "Reszta = change."
+    },
+    {
+      "id": "a1-reading-instructions-3-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "single|w jedną stronę",
+        "coins|monety",
+        "notes|banknoty",
+        "change|reszta"
+      ],
+      "explanation": "Słowa z instrukcji."
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "c1-inverted-conditionals-1",
+    "topicId": "c1-inverted-conditionals",
+    "exercises": [
+      {
+        "id": "c1-inverted-conditionals-1-01",
+        "type": "cloze",
+        "prompt": "___ I known, I would have come earlier.",
+        "answer": "Had",
+        "explanation": "3. tryb: Had + podmiot + III forma."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-02",
+        "type": "cloze",
+        "prompt": "___ you need any help, please contact us.",
+        "answer": "Should",
+        "explanation": "1. tryb formalnie: Should you..."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-03",
+        "type": "choice",
+        "prompt": "___ I you, I would accept the offer.",
+        "answer": "Were",
+        "distractors": [
+          "Was",
+          "Had"
+        ],
+        "explanation": "2. tryb: Were I you."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-04",
+        "type": "choice",
+        "prompt": "Had it not ___ for the rain, we would have won.",
+        "answer": "been",
+        "distractors": [
+          "be",
+          "being"
+        ],
+        "explanation": "Had it not been for."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-05",
+        "type": "choice",
+        "prompt": "___ you have any questions, do not hesitate to contact me.",
+        "answer": "Should",
+        "distractors": [
+          "Would",
+          "Had"
+        ],
+        "explanation": "Should you have..."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-06",
+        "type": "match",
+        "prompt": "Połącz formę z inwersją ze zwykłą.",
+        "answer": [
+          "Should you need help...|If you need help...",
+          "Were I rich...|If I were rich...",
+          "Had I known...|If I had known..."
+        ],
+        "explanation": "Inwersja i zwykły okres warunkowy."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-07",
+        "type": "error",
+        "prompt": "Had I not saw it myself, I wouldn't have believed it.",
+        "answer": [
+          "saw",
+          "seen"
+        ],
+        "explanation": "Had + podmiot + not + III forma."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-08",
+        "type": "tiles",
+        "prompt": "Gdybym o tym wiedział pomógłbym ci.",
+        "answer": [
+          "Had",
+          "I",
+          "known",
+          "about",
+          "it",
+          "I",
+          "would",
+          "have",
+          "helped",
+          "you"
+        ],
+        "distractors": [
+          "Have",
+          "knew"
+        ],
+        "explanation": "Had + I + known."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-09",
+        "type": "translate",
+        "prompt": "Gdyby nie twoja pomoc, nie zdałbym.",
+        "answer": "Had it not been for your help, I would not have passed.",
+        "accept": [
+          "If it had not been for your help, I would not have passed.",
+          "Without your help, I would not have passed.",
+          "Were it not for your help, I would not pass.",
+          "But for your help, I would not have passed."
+        ],
+        "explanation": "Had it not been for..."
+      },
+      {
+        "id": "c1-inverted-conditionals-1-10",
+        "type": "transform",
+        "prompt": "Przepisz z inwersją, zacznij od „Had”.\nIf I had seen him, I would have told him.",
+        "answer": "Had I seen him, I would have told him.",
+        "explanation": "Had + podmiot + III forma."
+      }
+    ]
+  },
+  {
+    "id": "c1-inverted-conditionals-2",
+    "topicId": "c1-inverted-conditionals",
+    "exercises": [
+      {
+        "id": "c1-inverted-conditionals-2-01",
+        "type": "cloze",
+        "prompt": "___ it not for your support, I would give up. (2. tryb)",
+        "answer": "Were",
+        "explanation": "Were it not for..."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-02",
+        "type": "cloze",
+        "prompt": "Were we ___ lose this match, we would be eliminated.",
+        "answer": "to",
+        "explanation": "Were + podmiot + to + czasownik."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-03",
+        "type": "choice",
+        "prompt": "___ the goods arrive damaged, please inform us immediately.",
+        "answer": "Should",
+        "distractors": [
+          "Had",
+          "Were"
+        ],
+        "explanation": "Should + podmiot + czasownik."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-04",
+        "type": "choice",
+        "prompt": "Had she ___ the truth, she would have been fired.",
+        "answer": "told",
+        "distractors": [
+          "tell",
+          "telling"
+        ],
+        "explanation": "Had + III forma."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-05",
+        "type": "choice",
+        "prompt": "Had I not ___ the bus, I would have been on time.",
+        "answer": "missed",
+        "distractors": [
+          "miss",
+          "missing"
+        ],
+        "explanation": "Had I not + III forma."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-06",
+        "type": "transform",
+        "prompt": "Przepisz z inwersją, zacznij od „Should”.\nIf you change your mind, let me know.",
+        "answer": "Should you change your mind, let me know.",
+        "explanation": "Should + podmiot + czasownik."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-07",
+        "type": "transform",
+        "prompt": "Przepisz z inwersją, zacznij od „Were”.\nIf I were in your position, I would resign.",
+        "answer": "Were I in your position, I would resign.",
+        "explanation": "Were + podmiot."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-08",
+        "type": "tiles",
+        "prompt": "Gdyby nie pogoda wyjechalibyśmy.",
+        "answer": [
+          "Had",
+          "it",
+          "not",
+          "been",
+          "for",
+          "the",
+          "weather",
+          "we",
+          "would",
+          "have",
+          "left"
+        ],
+        "distractors": [
+          "was",
+          "be"
+        ],
+        "explanation": "Had it not been for."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-09",
+        "type": "error",
+        "prompt": "Should you needing more information, please call us.",
+        "answer": [
+          "needing",
+          "need"
+        ],
+        "explanation": "Should + forma podstawowa."
+      },
+      {
+        "id": "c1-inverted-conditionals-2-10",
+        "type": "translate",
+        "prompt": "Gdybyś miał jakieś pytania, proszę dzwonić.",
+        "answer": "Should you have any questions, please call.",
+        "accept": [
+          "Should you have any questions, please call me.",
+          "Should you have any questions, please call us.",
+          "If you have any questions, please call.",
+          "If you have any questions, please call me.",
+          "Should you have any questions, please phone."
+        ],
+        "explanation": "Should you have..."
+      }
+    ]
+  },
+  {
+    "id": "c1-inverted-conditionals-3",
+    "topicId": "c1-inverted-conditionals",
+    "exercises": [
+      {
+        "id": "c1-inverted-conditionals-3-01",
+        "type": "choice",
+        "prompt": "___ the government to raise taxes, there would be protests.",
+        "answer": "Were",
+        "distractors": [
+          "Should",
+          "Had"
+        ],
+        "explanation": "Were + podmiot + to."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-02",
+        "type": "choice",
+        "prompt": "___ I realised how difficult it was, I would never have started.",
+        "answer": "Had",
+        "distractors": [
+          "Should",
+          "Were"
+        ],
+        "explanation": "Had + podmiot + III forma."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-03",
+        "type": "cloze",
+        "prompt": "Should you ___ to cancel, please give 24 hours' notice. (wish)",
+        "answer": "wish",
+        "explanation": "Should + forma podstawowa."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-04",
+        "type": "cloze",
+        "prompt": "Were it ___ for her, the company would have closed years ago.",
+        "answer": "not",
+        "explanation": "Were it not for... (stan obecny skutków)."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-05",
+        "type": "cloze",
+        "prompt": "Had they ___ earlier, they would have caught the train. (leave)",
+        "answer": "left",
+        "explanation": "Had + III forma."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-06",
+        "type": "match",
+        "prompt": "Połącz inwersję z trybem warunkowym.",
+        "answer": [
+          "Should you...|1. tryb",
+          "Were I to...|2. tryb",
+          "Had I...|3. tryb"
+        ],
+        "explanation": "Inwersje i tryby."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-07",
+        "type": "error",
+        "prompt": "Had I knew about the delay, I would have stayed at home.",
+        "answer": [
+          "knew",
+          "known"
+        ],
+        "explanation": "Had + III forma."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-08",
+        "type": "error",
+        "prompt": "Was I in charge, I would change everything.",
+        "answer": [
+          "Was",
+          "Were"
+        ],
+        "explanation": "Inwersja w 2. trybie: Were."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-09",
+        "type": "tiles",
+        "prompt": "Gdyby coś się stało zadzwoń do mnie.",
+        "answer": [
+          "Should",
+          "anything",
+          "happen",
+          "call",
+          "me"
+        ],
+        "distractors": [
+          "happened",
+          "will"
+        ],
+        "explanation": "Should + anything + happen."
+      },
+      {
+        "id": "c1-inverted-conditionals-3-10",
+        "type": "translate",
+        "prompt": "Gdybym był tobą, nie robiłbym tego.",
+        "answer": "Were I you, I would not do it.",
+        "accept": [
+          "If I were you, I would not do it.",
+          "Were I you, I would not do that.",
+          "If I were you, I would not do that.",
+          "If I were you, I wouldn't do it."
+        ],
+        "explanation": "Were I you..."
+      }
+    ]
+  }
+]

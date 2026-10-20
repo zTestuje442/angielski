@@ -1,0 +1,126 @@
+{
+  "id": "c1-reading-formal-email-1",
+  "topicId": "c1-reading-formal-email",
+  "title": "Complaint: cancelled flight",
+  "text": "Dear Sir or Madam,\n\nI am writing to complain in the strongest possible terms about the cancellation of flight SK 412 from Warsaw to Lisbon on 14 June, and about the way in which your staff handled the situation.\n\nMy partner and I arrived at the airport two and a half hours before the scheduled departure time of 07:15. After checking in our luggage, we were informed at the gate, with no prior warning, that the flight had been cancelled due to \"operational reasons\". No further explanation was offered, and the two members of staff present appeared to have no information about alternative arrangements.\n\nWe were eventually told to queue at the transfer desk, where we waited for over three hours. During this time, we were not offered any food or drinks, despite the fact that several passengers, including families with young children, repeatedly asked for assistance. When we finally reached the desk, we were offered seats on a flight departing the following morning. As a result, we had to book a hotel room near the airport at our own expense and lost the first night of our pre-paid accommodation in Lisbon.\n\nI understand that cancellations are sometimes unavoidable. However, under EU Regulation 261/2004, passengers whose flights are cancelled less than fourteen days before departure are, in most circumstances, entitled to compensation, as well as to meals, refreshments and accommodation where necessary. Your airline provided none of these. Furthermore, the term \"operational reasons\" does not, in my view, constitute an extraordinary circumstance that would exempt you from this obligation.\n\nI would therefore be grateful if you could arrange the following:\n\n- compensation of €400 per person, as set out in the regulation for flights of this distance;\n- reimbursement of the hotel costs (€138), for which I attach the receipt;\n- reimbursement of the lost night of accommodation in Lisbon (€95), as shown in the attached booking confirmation;\n- a written explanation of the reason for the cancellation.\n\nI would also like to point out that the lack of information and basic care at the airport was, frankly, unacceptable for an airline that describes itself as \"customer-focused\" in its advertising.\n\nI look forward to receiving your response within fourteen days. Should I not hear from you by then, I will have no choice but to refer the matter to the national enforcement body for passenger rights.\n\nYours faithfully,\n\nKatarzyna Wiśniewska\nBooking reference: XK7Q2L",
+  "exercises": [
+    {
+      "id": "c1-reading-formal-email-1-01",
+      "type": "choice",
+      "prompt": "The passengers were told about the cancellation before they arrived at the airport.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...with no prior warning...”"
+    },
+    {
+      "id": "c1-reading-formal-email-1-02",
+      "type": "choice",
+      "prompt": "The passengers waited more than three hours at the transfer desk.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...we waited for over three hours.”"
+    },
+    {
+      "id": "c1-reading-formal-email-1-03",
+      "type": "choice",
+      "prompt": "The writer has flown with this airline many times before.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-formal-email-1-04",
+      "type": "choice",
+      "prompt": "The airline paid for the hotel near the airport.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...at our own expense...”"
+    },
+    {
+      "id": "c1-reading-formal-email-1-05",
+      "type": "choice",
+      "prompt": "Why does the writer mention EU Regulation 261/2004?",
+      "answer": "to show that the passengers have a legal right to compensation",
+      "distractors": [
+        "to show that the airline followed the rules",
+        "to complain about EU law"
+      ],
+      "explanation": "Rozporządzenie przyznaje prawo do odszkodowania."
+    },
+    {
+      "id": "c1-reading-formal-email-1-06",
+      "type": "choice",
+      "prompt": "What does the writer say about \"operational reasons\"?",
+      "answer": "They are not an extraordinary circumstance.",
+      "distractors": [
+        "They fully explain the cancellation.",
+        "They are always unavoidable."
+      ],
+      "explanation": "„...does not... constitute an extraordinary circumstance...”"
+    },
+    {
+      "id": "c1-reading-formal-email-1-07",
+      "type": "choice",
+      "prompt": "How much does the writer ask for in total for the two people's compensation?",
+      "answer": "€800",
+      "distractors": [
+        "€400",
+        "€138"
+      ],
+      "explanation": "€400 per person × 2."
+    },
+    {
+      "id": "c1-reading-formal-email-1-08",
+      "type": "choice",
+      "prompt": "What will the writer do if there is no reply within fourteen days?",
+      "answer": "contact the national enforcement body",
+      "distractors": [
+        "book another flight",
+        "post a review online"
+      ],
+      "explanation": "„...refer the matter to the national enforcement body...”"
+    },
+    {
+      "id": "c1-reading-formal-email-1-09",
+      "type": "choice",
+      "prompt": "What is the tone of the email?",
+      "answer": "firm but polite",
+      "distractors": [
+        "angry and rude",
+        "apologetic"
+      ],
+      "explanation": "Stanowczy, ale grzeczny."
+    },
+    {
+      "id": "c1-reading-formal-email-1-10",
+      "type": "cloze",
+      "prompt": "I am writing to complain in the strongest possible ___.",
+      "answer": "terms",
+      "explanation": "In the strongest possible terms – jak najostrzej."
+    },
+    {
+      "id": "c1-reading-formal-email-1-11",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "entitled to|uprawniony do",
+        "reimbursement|zwrot kosztów",
+        "exempt from|zwolniony z",
+        "refer the matter to|skierować sprawę do"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "a1-reading-instructions-2",
+  "topicId": "a1-reading-instructions",
+  "title": "Library computers",
+  "text": "Library computers – how to use them\n\n1. Go to the reception and show your library card.\n2. The librarian gives you a number. Find the computer with that number.\n3. Write your name and card number on the screen.\n4. You can use the computer for one hour.\n5. You can print five pages for free. After that, one page costs 20p.\n6. Don't eat or drink at the computers.\n7. When you finish, click \"Log out\" and close the program.\n\nDo you need help? Ask the librarian. We are happy to help!",
+  "exercises": [
+    {
+      "id": "a1-reading-instructions-2-01",
+      "type": "choice",
+      "prompt": "You need a library card.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...show your library card.”"
+    },
+    {
+      "id": "a1-reading-instructions-2-02",
+      "type": "choice",
+      "prompt": "You can use a computer for two hours.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„You can use the computer for one hour.”"
+    },
+    {
+      "id": "a1-reading-instructions-2-03",
+      "type": "choice",
+      "prompt": "Printing five pages is free.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„You can print five pages for free.”"
+    },
+    {
+      "id": "a1-reading-instructions-2-04",
+      "type": "choice",
+      "prompt": "The library is open on Sundays.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Instrukcja nie podaje godzin otwarcia."
+    },
+    {
+      "id": "a1-reading-instructions-2-05",
+      "type": "choice",
+      "prompt": "How much is the sixth page?",
+      "answer": "20p",
+      "distractors": [
+        "nothing",
+        "5p"
+      ],
+      "explanation": "Pięć stron gratis, potem 20p za stronę."
+    },
+    {
+      "id": "a1-reading-instructions-2-06",
+      "type": "choice",
+      "prompt": "Who can help you?",
+      "answer": "the librarian",
+      "distractors": [
+        "a student",
+        "the teacher"
+      ],
+      "explanation": "„Ask the librarian.”"
+    },
+    {
+      "id": "a1-reading-instructions-2-07",
+      "type": "cloze",
+      "prompt": "Don't eat or ___ at the computers.",
+      "answer": "drink",
+      "explanation": "Przy komputerach nie wolno jeść ani pić."
+    },
+    {
+      "id": "a1-reading-instructions-2-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "screen|ekran",
+        "print|drukować",
+        "for free|za darmo",
+        "log out|wylogować się"
+      ],
+      "explanation": "Słowa z instrukcji."
+    }
+  ]
+}

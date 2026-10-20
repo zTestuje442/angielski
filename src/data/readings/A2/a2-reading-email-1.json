@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-email-1",
+  "topicId": "a2-reading-email",
+  "title": "Moving to Dublin",
+  "text": "Hi Ania,\n\nSorry I didn't write last month – I was very busy because I moved to Dublin! I've got a new job in a small IT company in the city centre. I started three weeks ago and I really like it. My colleagues are friendly and my boss is very helpful. I work from Monday to Thursday in the office, and on Fridays I work from home.\n\nI'm living with two other girls in a flat near the river. One of them, Siobhan, is from Galway and she's teaching me some Irish words. The other one, Lena, is from Germany. We often cook together in the evenings.\n\nThe weather here isn't great. It rains almost every day, but people say it's normal for Dublin! At the weekends I go walking by the sea or visit museums – many of them are free.\n\nWould you like to visit me in the summer? You can stay in my room, and I can show you the city. Flights from Kraków aren't expensive if you book early.\n\nWrite soon!\nMarta",
+  "exercises": [
+    {
+      "id": "a2-reading-email-1-01",
+      "type": "choice",
+      "prompt": "Marta works for a big company.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Marta pracuje w małej firmie: „a small IT company”."
+    },
+    {
+      "id": "a2-reading-email-1-02",
+      "type": "choice",
+      "prompt": "Lena is from Germany.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„The other one, Lena, is from Germany.”"
+    },
+    {
+      "id": "a2-reading-email-1-03",
+      "type": "choice",
+      "prompt": "Marta has got a car in Dublin.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "E-mail nie mówi nic o samochodzie."
+    },
+    {
+      "id": "a2-reading-email-1-04",
+      "type": "choice",
+      "prompt": "When did Marta start her new job?",
+      "answer": "three weeks ago",
+      "distractors": [
+        "last month",
+        "three months ago"
+      ],
+      "explanation": "„I started three weeks ago.”"
+    },
+    {
+      "id": "a2-reading-email-1-05",
+      "type": "choice",
+      "prompt": "What does Marta do at the weekends?",
+      "answer": "She walks by the sea or visits museums.",
+      "distractors": [
+        "She cooks with her flatmates.",
+        "She works from home."
+      ],
+      "explanation": "„At the weekends I go walking by the sea or visit museums.”"
+    },
+    {
+      "id": "a2-reading-email-1-06",
+      "type": "choice",
+      "prompt": "When are flights from Kraków cheap?",
+      "answer": "when you book early",
+      "distractors": [
+        "in the summer",
+        "on Fridays"
+      ],
+      "explanation": "„...aren't expensive if you book early.”"
+    },
+    {
+      "id": "a2-reading-email-1-07",
+      "type": "cloze",
+      "prompt": "It rains almost every ___.",
+      "answer": "day",
+      "explanation": "Prawie codziennie pada."
+    },
+    {
+      "id": "a2-reading-email-1-08",
+      "type": "cloze",
+      "prompt": "Many museums in Dublin are ___.",
+      "answer": "free",
+      "explanation": "Wiele muzeów jest bezpłatnych."
+    },
+    {
+      "id": "a2-reading-email-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "colleague|współpracownik",
+        "flat|mieszkanie",
+        "book|rezerwować",
+        "by the sea|nad morzem"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

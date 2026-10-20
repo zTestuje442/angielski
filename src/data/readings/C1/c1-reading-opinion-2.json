@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-opinion-2",
+  "topicId": "c1-reading-opinion",
+  "title": "The annual review is broken",
+  "text": "Every December, in offices around the world, a curious ritual takes place. Managers and employees sit down together, often reluctantly, to discuss the previous twelve months. Forms are filled in, numbers from one to five are assigned, and both parties leave the room feeling vaguely dissatisfied. It is called the annual performance review, and it is time we admitted that it does not work.\n\nConsider, first, the timing. Asking a manager to evaluate someone's work over an entire year is asking them to perform a feat of memory that few humans are capable of. Research on so-called recency bias shows that evaluators give disproportionate weight to the most recent weeks. An employee who had a brilliant spring and a difficult November will be judged largely on November. Feedback that arrives months after the event is also of little practical use: by the time you hear that your presentation in March was poorly structured, you have already given five more.\n\nThen there are the ratings. Reducing a year of complex, collaborative work to a single number is not merely crude; it is actively harmful. Studies suggest that when people receive a rating, they focus almost entirely on the number and barely listen to the explanation that follows. Those rated as \"average\" – the majority, by design – frequently leave the meeting demotivated, even if their manager's comments were overwhelmingly positive. Worse still, ratings are often linked to bonuses, which turns what should be a developmental conversation into a negotiation over money.\n\nDefenders of the system argue that organisations need some formal way of making decisions about pay and promotion, and that without a structured process, favouritism would flourish. This is a fair point. But it does not follow that the annual review, in its current form, is the best way of achieving those aims. Several large companies have abandoned ratings altogether in favour of frequent, informal check-ins, and the evidence so far suggests that performance has not suffered. In some cases, employee engagement has risen noticeably.\n\nWhat would a better system look like? It would separate conversations about development from decisions about pay. It would replace a single annual meeting with short, regular discussions – monthly, perhaps, or after each major project. It would encourage feedback from colleagues, not just from managers. And it would focus on the future rather than the past: not \"how did you do?\" but \"what do you need to do better?\"\n\nNone of this is revolutionary. Good managers already do much of it instinctively. The problem is that the formal system often works against them, demanding paperwork and numbers when what people actually need is honest, timely conversation. It is not that we need to measure people less carefully. We need to stop pretending that a form filled in once a year is the same thing as paying attention.",
+  "exercises": [
+    {
+      "id": "c1-reading-opinion-2-01",
+      "type": "choice",
+      "prompt": "The writer believes annual reviews are generally effective.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...it is time we admitted that it does not work.”"
+    },
+    {
+      "id": "c1-reading-opinion-2-02",
+      "type": "choice",
+      "prompt": "Recency bias means evaluators focus too much on recent events.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...give disproportionate weight to the most recent weeks.”"
+    },
+    {
+      "id": "c1-reading-opinion-2-03",
+      "type": "choice",
+      "prompt": "The writer works as a manager.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "c1-reading-opinion-2-04",
+      "type": "choice",
+      "prompt": "Why does the writer mention the presentation in March?",
+      "answer": "to show that late feedback is not useful",
+      "distractors": [
+        "to show that presentations are important",
+        "to criticise poorly structured presentations"
+      ],
+      "explanation": "„...you have already given five more.”"
+    },
+    {
+      "id": "c1-reading-opinion-2-05",
+      "type": "choice",
+      "prompt": "What often happens when people receive a rating?",
+      "answer": "They focus on the number and ignore the comments.",
+      "distractors": [
+        "They ask for a higher bonus.",
+        "They improve immediately."
+      ],
+      "explanation": "„...focus almost entirely on the number...”"
+    },
+    {
+      "id": "c1-reading-opinion-2-06",
+      "type": "choice",
+      "prompt": "How does the writer respond to defenders of the system?",
+      "answer": "The writer accepts their point but rejects their conclusion.",
+      "distractors": [
+        "The writer completely agrees with them.",
+        "The writer ignores their argument."
+      ],
+      "explanation": "„This is a fair point. But it does not follow...”"
+    },
+    {
+      "id": "c1-reading-opinion-2-07",
+      "type": "choice",
+      "prompt": "Which of these is NOT part of the writer's better system?",
+      "answer": "linking every conversation to bonuses",
+      "distractors": [
+        "regular short discussions",
+        "feedback from colleagues"
+      ],
+      "explanation": "Autor chce oddzielić rozwój od wynagrodzenia."
+    },
+    {
+      "id": "c1-reading-opinion-2-08",
+      "type": "choice",
+      "prompt": "What is the main point of the final paragraph?",
+      "answer": "Real attention matters more than formal paperwork.",
+      "distractors": [
+        "Managers should be measured more carefully.",
+        "Revolutions in HR are necessary."
+      ],
+      "explanation": "„...a form filled in once a year is [not] the same thing as paying attention.”"
+    },
+    {
+      "id": "c1-reading-opinion-2-09",
+      "type": "cloze",
+      "prompt": "Without a structured process, favouritism would ___.",
+      "answer": "flourish",
+      "explanation": "Kwitnąć, rozpleniać się: flourish."
+    },
+    {
+      "id": "c1-reading-opinion-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "reluctantly|niechętnie",
+        "feat|wyczyn",
+        "crude|prymitywny, toporny",
+        "engagement|zaangażowanie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

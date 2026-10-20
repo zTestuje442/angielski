@@ -1,0 +1,336 @@
+[
+  {
+    "id": "b2-gerund-after-prepositions-1",
+    "topicId": "b2-gerund-after-prepositions",
+    "exercises": [
+      {
+        "id": "b2-gerund-after-prepositions-1-01",
+        "type": "cloze",
+        "prompt": "I'm interested in ___ Japanese. (learn)",
+        "answer": "learning",
+        "explanation": "Po przyimku: -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-02",
+        "type": "cloze",
+        "prompt": "Thank you for ___ me. (help)",
+        "answer": "helping",
+        "explanation": "Po for: -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-03",
+        "type": "choice",
+        "prompt": "She left without ___ goodbye.",
+        "answer": "saying",
+        "distractors": [
+          "to say",
+          "say"
+        ],
+        "explanation": "Without + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-04",
+        "type": "choice",
+        "prompt": "I'm looking forward to ___ you.",
+        "answer": "seeing",
+        "distractors": [
+          "see",
+          "saw"
+        ],
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-05",
+        "type": "cloze",
+        "prompt": "He's good at ___ things. (fix)",
+        "answer": "fixing",
+        "explanation": "Good at + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-06",
+        "type": "match",
+        "prompt": "Połącz przyimki z tłumaczeniem.",
+        "answer": [
+          "instead of|zamiast",
+          "in spite of|pomimo",
+          "before|przed",
+          "by|przez (sposób)"
+        ],
+        "explanation": "Przyimki + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-07",
+        "type": "error",
+        "prompt": "I'm tired of wait.",
+        "answer": [
+          "wait",
+          "waiting"
+        ],
+        "explanation": "Po of: -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-08",
+        "type": "tiles",
+        "prompt": "Myślę o zmianie pracy.",
+        "answer": [
+          "I'm",
+          "thinking",
+          "about",
+          "changing",
+          "jobs"
+        ],
+        "distractors": [
+          "to",
+          "change"
+        ],
+        "explanation": "Think about + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-09",
+        "type": "translate",
+        "prompt": "Zamiast narzekać, zrób coś.",
+        "answer": "Instead of complaining, do something.",
+        "accept": [
+          "Do something instead of complaining."
+        ],
+        "explanation": "Instead of + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „before” + -ing.\nShe checked the door. Then she left.",
+        "answer": "She checked the door before leaving.",
+        "accept": [
+          "Before leaving, she checked the door.",
+          "She checked the door before she left."
+        ],
+        "explanation": "Before + -ing."
+      }
+    ]
+  },
+  {
+    "id": "b2-gerund-after-prepositions-2",
+    "topicId": "b2-gerund-after-prepositions",
+    "exercises": [
+      {
+        "id": "b2-gerund-after-prepositions-2-01",
+        "type": "cloze",
+        "prompt": "He's afraid of ___. (fly)",
+        "answer": "flying",
+        "explanation": "Afraid of + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-02",
+        "type": "cloze",
+        "prompt": "She succeeded in ___ the exam. (pass)",
+        "answer": "passing",
+        "explanation": "Succeed in + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-03",
+        "type": "choice",
+        "prompt": "How about ___ out tonight?",
+        "answer": "going",
+        "distractors": [
+          "go",
+          "to go"
+        ],
+        "explanation": "How about + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-04",
+        "type": "choice",
+        "prompt": "I'm not used to ___ in such a noisy place.",
+        "answer": "working",
+        "distractors": [
+          "work",
+          "worked"
+        ],
+        "explanation": "Be used to + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-05",
+        "type": "choice",
+        "prompt": "You can improve your English by ___ more.",
+        "answer": "reading",
+        "distractors": [
+          "read",
+          "to read"
+        ],
+        "explanation": "By + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „without” + -ing.\nHe took my car. He didn't ask me.",
+        "answer": "He took my car without asking me.",
+        "explanation": "Without + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-07",
+        "type": "tiles",
+        "prompt": "Przepraszam, że cię obudziłem.",
+        "answer": [
+          "I'm",
+          "sorry",
+          "for",
+          "waking",
+          "you",
+          "up"
+        ],
+        "distractors": [
+          "to",
+          "wake"
+        ],
+        "explanation": "Sorry for + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-08",
+        "type": "error",
+        "prompt": "She insisted on pay for dinner.",
+        "answer": [
+          "pay",
+          "paying"
+        ],
+        "explanation": "Insist on + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-09",
+        "type": "translate",
+        "prompt": "Po skończeniu pracy poszedłem do domu.",
+        "answer": "After finishing work, I went home.",
+        "accept": [
+          "After I finished work, I went home.",
+          "After I had finished work, I went home.",
+          "I went home after finishing work.",
+          "I went home after I finished work."
+        ],
+        "explanation": "After + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "good at|dobry w",
+          "keen on|zapalony do",
+          "responsible for|odpowiedzialny za",
+          "capable of|zdolny do"
+        ],
+        "explanation": "Przymiotnik + przyimek."
+      }
+    ]
+  },
+  {
+    "id": "b2-gerund-after-prepositions-3",
+    "topicId": "b2-gerund-after-prepositions",
+    "exercises": [
+      {
+        "id": "b2-gerund-after-prepositions-3-01",
+        "type": "cloze",
+        "prompt": "Despite ___ ill, she went to work. (feel)",
+        "answer": "feeling",
+        "explanation": "Despite + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-02",
+        "type": "cloze",
+        "prompt": "We're thinking of ___ to the countryside. (move)",
+        "answer": "moving",
+        "explanation": "Think of + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-03",
+        "type": "choice",
+        "prompt": "I object to ___ treated like a child.",
+        "answer": "being",
+        "distractors": [
+          "be",
+          "been"
+        ],
+        "explanation": "Object to + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-04",
+        "type": "choice",
+        "prompt": "There's no point ___ about it now.",
+        "answer": "in worrying",
+        "distractors": [
+          "to worry",
+          "worry"
+        ],
+        "explanation": "No point in + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-05",
+        "type": "choice",
+        "prompt": "He's in charge of ___ new staff.",
+        "answer": "training",
+        "distractors": [
+          "train",
+          "to train"
+        ],
+        "explanation": "In charge of + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-06",
+        "type": "error",
+        "prompt": "In spite of be tired, he finished the race.",
+        "answer": [
+          "be",
+          "being"
+        ],
+        "explanation": "In spite of + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-07",
+        "type": "error",
+        "prompt": "I look forward to hear from you.",
+        "answer": [
+          "hear",
+          "hearing"
+        ],
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-08",
+        "type": "tiles",
+        "prompt": "Jest odpowiedzialna za organizowanie spotkań.",
+        "answer": [
+          "She",
+          "is",
+          "responsible",
+          "for",
+          "organising",
+          "meetings"
+        ],
+        "distractors": [
+          "to",
+          "organise"
+        ],
+        "explanation": "Responsible for + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-09",
+        "type": "translate",
+        "prompt": "Nie ma sensu czekać.",
+        "answer": "There is no point in waiting.",
+        "accept": [
+          "There is no point waiting.",
+          "It is no use waiting."
+        ],
+        "explanation": "No point (in) + -ing."
+      },
+      {
+        "id": "b2-gerund-after-prepositions-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „despite” + -ing.\nHe studied hard. He failed.",
+        "answer": "Despite studying hard, he failed.",
+        "accept": [
+          "He failed despite studying hard."
+        ],
+        "explanation": "Despite + -ing."
+      }
+    ]
+  }
+]

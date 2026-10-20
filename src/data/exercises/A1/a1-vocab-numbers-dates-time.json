@@ -1,0 +1,328 @@
+[
+  {
+    "id": "a1-vocab-numbers-dates-time-1",
+    "topicId": "a1-vocab-numbers-dates-time",
+    "exercises": [
+      {
+        "id": "a1-vocab-numbers-dates-time-1-01",
+        "type": "match",
+        "prompt": "Połącz liczby ze słowami.",
+        "answer": [
+          "13|thirteen",
+          "30|thirty",
+          "15|fifteen",
+          "50|fifty"
+        ],
+        "explanation": "-teen to 13–19, -ty to dziesiątki."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-02",
+        "type": "choice",
+        "prompt": "What is 12 + 8?",
+        "answer": "twenty",
+        "distractors": [
+          "twelve",
+          "twenty-eight"
+        ],
+        "explanation": "12 + 8 = 20, twenty."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-03",
+        "type": "cloze",
+        "prompt": "There are ___ days in a week. (7)",
+        "answer": "seven",
+        "explanation": "Tydzień ma siedem dni."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-04",
+        "type": "cloze",
+        "prompt": "My grandma is ___ years old. (80)",
+        "answer": "eighty",
+        "explanation": "80 = eighty."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-05",
+        "type": "transform",
+        "prompt": "Zapisz liczbę słowami.\n45",
+        "answer": "forty-five",
+        "accept": [
+          "forty five"
+        ],
+        "explanation": "Forty bez u, łącznik między dziesiątkami a jednościami."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-06",
+        "type": "transform",
+        "prompt": "Zapisz liczbę słowami.\n112",
+        "answer": "one hundred and twelve",
+        "accept": [
+          "a hundred and twelve",
+          "one hundred twelve"
+        ],
+        "explanation": "Po brytyjsku między setkami a resztą stoi and."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-07",
+        "type": "error",
+        "prompt": "We need fourty chairs.",
+        "answer": [
+          "fourty",
+          "forty"
+        ],
+        "explanation": "Four, ale forty – bez u."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-08",
+        "type": "tiles",
+        "prompt": "Mam dwadzieścia jeden lat.",
+        "answer": [
+          "I",
+          "am",
+          "twenty-one",
+          "years",
+          "old"
+        ],
+        "explanation": "Wiek: I am + liczba + years old."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-09",
+        "type": "translate",
+        "prompt": "Ile masz lat?",
+        "answer": "How old are you?",
+        "explanation": "Pytanie o wiek: How old are you?"
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-1-10",
+        "type": "choice",
+        "prompt": "Which is correct for 3rd?",
+        "answer": "third",
+        "distractors": [
+          "threeth",
+          "thirth"
+        ],
+        "explanation": "3rd = third."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-numbers-dates-time-2",
+    "topicId": "a1-vocab-numbers-dates-time",
+    "exercises": [
+      {
+        "id": "a1-vocab-numbers-dates-time-2-01",
+        "type": "match",
+        "prompt": "Połącz skróty ze słowami.",
+        "answer": [
+          "1st|first",
+          "2nd|second",
+          "3rd|third",
+          "5th|fifth"
+        ],
+        "explanation": "Nieregularne liczebniki porządkowe."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-02",
+        "type": "choice",
+        "prompt": "The month after March is ___.",
+        "answer": "April",
+        "distractors": [
+          "May",
+          "February"
+        ],
+        "explanation": "Marzec, potem kwiecień: April."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-03",
+        "type": "choice",
+        "prompt": "The day after Friday is ___.",
+        "answer": "Saturday",
+        "distractors": [
+          "Sunday",
+          "Thursday"
+        ],
+        "explanation": "Po piątku jest sobota."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-04",
+        "type": "cloze",
+        "prompt": "My birthday is on the ___ of May. (21.)",
+        "answer": "twenty-first",
+        "accept": [
+          "21st",
+          "twenty first"
+        ],
+        "explanation": "21. = twenty-first."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-05",
+        "type": "cloze",
+        "prompt": "There are twelve ___ in a year.",
+        "answer": "months",
+        "explanation": "Rok ma dwanaście miesięcy."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-06",
+        "type": "error",
+        "prompt": "My birthday is on Juny 5th.",
+        "answer": [
+          "Juny",
+          "June"
+        ],
+        "explanation": "Czerwiec to June."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-07",
+        "type": "transform",
+        "prompt": "Zapisz datę słowami, tak jak ją czytamy.\n3 April",
+        "answer": "the third of April",
+        "accept": [
+          "April the third",
+          "April third"
+        ],
+        "explanation": "Czytamy: the third of April."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-08",
+        "type": "tiles",
+        "prompt": "Dziś jest poniedziałek.",
+        "answer": [
+          "Today",
+          "is",
+          "Monday"
+        ],
+        "explanation": "Dni tygodnia wielką literą."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-09",
+        "type": "translate",
+        "prompt": "Urodziłem się w lutym.",
+        "answer": "I was born in February.",
+        "explanation": "Urodziłem się = I was born; miesiąc z in."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-2-10",
+        "type": "match",
+        "prompt": "Połącz dni tygodnia.",
+        "answer": [
+          "wtorek|Tuesday",
+          "środa|Wednesday",
+          "czwartek|Thursday",
+          "niedziela|Sunday"
+        ],
+        "explanation": "Dni tygodnia."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-numbers-dates-time-3",
+    "topicId": "a1-vocab-numbers-dates-time",
+    "exercises": [
+      {
+        "id": "a1-vocab-numbers-dates-time-3-01",
+        "type": "match",
+        "prompt": "Połącz godziny.",
+        "answer": [
+          "7:30|half past seven",
+          "7:15|quarter past seven",
+          "7:45|quarter to eight",
+          "7:00|seven o'clock"
+        ],
+        "explanation": "Past – po, to – za (do następnej godziny)."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-02",
+        "type": "choice",
+        "prompt": "It's 10:10. It's ___.",
+        "answer": "ten past ten",
+        "distractors": [
+          "ten to ten",
+          "ten o'clock"
+        ],
+        "explanation": "10 minut po: ten past ten."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-03",
+        "type": "choice",
+        "prompt": "It's 4:50. It's ___.",
+        "answer": "ten to five",
+        "distractors": [
+          "ten past five",
+          "fifty to four"
+        ],
+        "explanation": "10 minut do piątej: ten to five."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-04",
+        "type": "cloze",
+        "prompt": "The film starts at half ___ eight. (8:30)",
+        "answer": "past",
+        "explanation": "Wpół do dziewiątej to half past eight."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-05",
+        "type": "cloze",
+        "prompt": "It's quarter ___ three. (2:45)",
+        "answer": "to",
+        "explanation": "Za kwadrans trzecia: quarter to three."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-06",
+        "type": "transform",
+        "prompt": "Napisz godzinę słowami.\n9:30",
+        "answer": "half past nine",
+        "accept": [
+          "nine thirty",
+          "It is half past nine.",
+          "It is nine thirty."
+        ],
+        "explanation": "Wpół do dziesiątej: half past nine."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-07",
+        "type": "error",
+        "prompt": "It's half to six. (5:30)",
+        "answer": [
+          "to",
+          "past"
+        ],
+        "explanation": "Half zawsze z past: half past five."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-08",
+        "type": "tiles",
+        "prompt": "Która jest godzina?",
+        "answer": [
+          "What",
+          "time",
+          "is",
+          "it"
+        ],
+        "explanation": "Pytanie o godzinę."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-09",
+        "type": "translate",
+        "prompt": "Jest piąta po południu.",
+        "answer": "It is five o'clock in the afternoon.",
+        "accept": [
+          "It is 5 p.m.",
+          "It is five p.m.",
+          "It is five in the afternoon.",
+          "It is 5 o'clock in the afternoon."
+        ],
+        "explanation": "Po południu: in the afternoon albo p.m."
+      },
+      {
+        "id": "a1-vocab-numbers-dates-time-3-10",
+        "type": "choice",
+        "prompt": "Noon means ___.",
+        "answer": "twelve o'clock in the day",
+        "distractors": [
+          "twelve o'clock at night",
+          "the evening"
+        ],
+        "explanation": "Noon = południe; midnight = północ."
+      }
+    ]
+  }
+]

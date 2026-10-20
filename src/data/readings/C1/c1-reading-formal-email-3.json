@@ -1,0 +1,126 @@
+{
+  "id": "c1-reading-formal-email-3",
+  "topicId": "c1-reading-formal-email",
+  "title": "Response to residents' concerns",
+  "text": "Dear Residents,\n\nRe: Proposed redevelopment of the former tram depot, Lipowa Street\n\nThank you for the letter signed by 214 residents of the Lipowa Street area, which the Council received on 3 October, and for the many individual emails sent to the Planning Department in recent weeks. We would like to respond to the main concerns raised and to explain the next steps in the process.\n\nFirstly, we wish to clarify that no final decision has yet been taken. The plans currently under discussion were submitted by a private developer, and they remain subject to a full planning assessment, including an environmental impact study and a traffic survey. The Council will not grant permission unless the proposal meets all the requirements set out in the local development plan.\n\nSeveral of you expressed concern about the height of the proposed buildings, which, at up to nine storeys, would be considerably taller than the surrounding houses. We share some of these concerns. The Planning Department has formally asked the developer to submit revised designs that reduce the height of the buildings nearest to existing homes and to provide an analysis of the impact on daylight.\n\nConcerns were also raised about the loss of green space and the mature trees along the eastern boundary of the site. We can confirm that, under existing regulations, the trees are protected and may not be removed without a separate permit. The developer has indicated that it intends to keep most of them, although it has proposed removing four trees to create an access road. This proposal will be assessed by an independent arborist before any decision is made.\n\nWith regard to traffic, the developer's initial survey suggests that the development would generate approximately 300 additional car journeys per day. Many residents have questioned this figure, and the Council has therefore commissioned its own independent survey, the results of which will be published on our website in January.\n\nFinally, a number of you asked whether part of the site could be used for public facilities. We are pleased to report that the developer has agreed in principle to include a small public park and a community room, and discussions about a possible nursery are ongoing.\n\nA public consultation meeting will be held on 12 November at 18:00 in the Lipowa Street Community Centre. Representatives of the Council and the developer will present the revised plans and answer questions. Residents who are unable to attend may submit written comments via the Council website until 30 November. All comments received will be taken into account in the final assessment.\n\nWe appreciate the time and care that residents have devoted to this matter, and we remain committed to ensuring that any development benefits the local community as a whole.\n\nYours faithfully,\n\nTomasz Nowicki\nDirector of Planning, City Council",
+  "exercises": [
+    {
+      "id": "c1-reading-formal-email-3-01",
+      "type": "choice",
+      "prompt": "The Council has already approved the redevelopment.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...no final decision has yet been taken.”"
+    },
+    {
+      "id": "c1-reading-formal-email-3-02",
+      "type": "choice",
+      "prompt": "The plans were prepared by the Council.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...submitted by a private developer...”"
+    },
+    {
+      "id": "c1-reading-formal-email-3-03",
+      "type": "choice",
+      "prompt": "The Council partly agrees with residents' concerns about building height.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„We share some of these concerns.”"
+    },
+    {
+      "id": "c1-reading-formal-email-3-04",
+      "type": "choice",
+      "prompt": "The independent arborist has already approved removing the trees.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Wniosek „will be assessed... before any decision is made.”"
+    },
+    {
+      "id": "c1-reading-formal-email-3-05",
+      "type": "choice",
+      "prompt": "Most residents support the plan.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie podaje takiej informacji."
+    },
+    {
+      "id": "c1-reading-formal-email-3-06",
+      "type": "choice",
+      "prompt": "Why has the Council commissioned its own traffic survey?",
+      "answer": "Residents questioned the developer's figures.",
+      "distractors": [
+        "The developer refused to do one.",
+        "The law requires two surveys."
+      ],
+      "explanation": "„Many residents have questioned this figure...”"
+    },
+    {
+      "id": "c1-reading-formal-email-3-07",
+      "type": "choice",
+      "prompt": "Which public facility has NOT yet been agreed?",
+      "answer": "a nursery",
+      "distractors": [
+        "a small public park",
+        "a community room"
+      ],
+      "explanation": "„...discussions about a possible nursery are ongoing.”"
+    },
+    {
+      "id": "c1-reading-formal-email-3-08",
+      "type": "choice",
+      "prompt": "How can residents who cannot attend the meeting give their opinion?",
+      "answer": "by submitting written comments online by 30 November",
+      "distractors": [
+        "by calling the developer",
+        "by signing another letter"
+      ],
+      "explanation": "„...submit written comments via the Council website until 30 November.”"
+    },
+    {
+      "id": "c1-reading-formal-email-3-09",
+      "type": "choice",
+      "prompt": "What is the overall tone of the letter?",
+      "answer": "reassuring and informative",
+      "distractors": [
+        "defensive and hostile",
+        "humorous and informal"
+      ],
+      "explanation": "Rzeczowe wyjaśnienia i zapewnienia."
+    },
+    {
+      "id": "c1-reading-formal-email-3-10",
+      "type": "cloze",
+      "prompt": "The plans remain ___ to a full planning assessment.",
+      "answer": "subject",
+      "explanation": "Subject to – uzależniony od."
+    },
+    {
+      "id": "c1-reading-formal-email-3-11",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "subject to|uzależniony od",
+        "storey|piętro",
+        "commission|zlecić",
+        "agree in principle|zgodzić się co do zasady"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

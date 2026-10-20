@@ -1,0 +1,316 @@
+[
+  {
+    "id": "b1-passive-present-past-1",
+    "topicId": "b1-passive-present-past",
+    "exercises": [
+      {
+        "id": "b1-passive-present-past-1-01",
+        "type": "cloze",
+        "prompt": "English ___ spoken all over the world.",
+        "answer": "is",
+        "explanation": "Present Simple passive: is + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-1-02",
+        "type": "cloze",
+        "prompt": "This bridge ___ built in 1890.",
+        "answer": "was",
+        "explanation": "Past Simple passive: was + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-1-03",
+        "type": "cloze",
+        "prompt": "The letters are ___ every morning. (deliver)",
+        "answer": "delivered",
+        "explanation": "Are + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-1-04",
+        "type": "choice",
+        "prompt": "My car ___ yesterday.",
+        "answer": "was stolen",
+        "distractors": [
+          "is stolen",
+          "stole"
+        ],
+        "explanation": "Yesterday: was + stolen."
+      },
+      {
+        "id": "b1-passive-present-past-1-05",
+        "type": "choice",
+        "prompt": "Coffee ___ in Brazil and Colombia.",
+        "answer": "is grown",
+        "distractors": [
+          "is grow",
+          "grown"
+        ],
+        "explanation": "Is + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-1-06",
+        "type": "match",
+        "prompt": "Połącz formy z tłumaczeniem.",
+        "answer": [
+          "is made|jest robiony",
+          "was made|był zrobiony",
+          "are sold|są sprzedawane",
+          "were sold|były sprzedane"
+        ],
+        "explanation": "Czas wyrażamy formą be."
+      },
+      {
+        "id": "b1-passive-present-past-1-07",
+        "type": "error",
+        "prompt": "The window was broke by the children.",
+        "answer": [
+          "broke",
+          "broken"
+        ],
+        "explanation": "III forma: broken."
+      },
+      {
+        "id": "b1-passive-present-past-1-08",
+        "type": "tiles",
+        "prompt": "Ten dom został zbudowany w 1920 roku.",
+        "answer": [
+          "This",
+          "house",
+          "was",
+          "built",
+          "in",
+          "1920"
+        ],
+        "distractors": [
+          "is",
+          "build"
+        ],
+        "explanation": "Was + built."
+      },
+      {
+        "id": "b1-passive-present-past-1-09",
+        "type": "translate",
+        "prompt": "Ta książka jest napisana po angielsku.",
+        "answer": "This book is written in English.",
+        "explanation": "Is + written."
+      },
+      {
+        "id": "b1-passive-present-past-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „Cars”.\nThey make cars in this factory.",
+        "answer": "Cars are made in this factory.",
+        "explanation": "Dopełnienie staje się podmiotem."
+      }
+    ]
+  },
+  {
+    "id": "b1-passive-present-past-2",
+    "topicId": "b1-passive-present-past",
+    "exercises": [
+      {
+        "id": "b1-passive-present-past-2-01",
+        "type": "cloze",
+        "prompt": "The thief ___ caught by the police. (was / were)",
+        "answer": "was",
+        "explanation": "Jeden złodziej: was."
+      },
+      {
+        "id": "b1-passive-present-past-2-02",
+        "type": "cloze",
+        "prompt": "Are these cakes ___ here? (make)",
+        "answer": "made",
+        "explanation": "Are + made."
+      },
+      {
+        "id": "b1-passive-present-past-2-03",
+        "type": "choice",
+        "prompt": "When ___ the telephone invented?",
+        "answer": "was",
+        "distractors": [
+          "is",
+          "did"
+        ],
+        "explanation": "Pytanie: was + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-2-04",
+        "type": "choice",
+        "prompt": "Our rubbish ___ every Monday.",
+        "answer": "is collected",
+        "distractors": [
+          "collects",
+          "collected"
+        ],
+        "explanation": "Is + collected."
+      },
+      {
+        "id": "b1-passive-present-past-2-05",
+        "type": "cloze",
+        "prompt": "Most emails ___ read on phones. (be)",
+        "answer": "are",
+        "explanation": "Emails – liczba mnoga: are."
+      },
+      {
+        "id": "b1-passive-present-past-2-06",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „My bike”.\nSomebody stole my bike.",
+        "answer": "My bike was stolen.",
+        "explanation": "Nieznany wykonawca – bez by."
+      },
+      {
+        "id": "b1-passive-present-past-2-07",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną z „by”, zacznij od „Hamlet”.\nShakespeare wrote Hamlet.",
+        "answer": "Hamlet was written by Shakespeare.",
+        "explanation": "Wykonawca ważny: by."
+      },
+      {
+        "id": "b1-passive-present-past-2-08",
+        "type": "tiles",
+        "prompt": "Gdzie są produkowane te telefony?",
+        "answer": [
+          "Where",
+          "are",
+          "these",
+          "phones",
+          "produced"
+        ],
+        "distractors": [
+          "do",
+          "producing"
+        ],
+        "explanation": "Pytanie: are + podmiot + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-2-09",
+        "type": "error",
+        "prompt": "The museum is visit by thousands of people.",
+        "answer": [
+          "visit",
+          "visited"
+        ],
+        "explanation": "Is + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-2-10",
+        "type": "translate",
+        "prompt": "Zostałem zaproszony na wesele.",
+        "answer": "I was invited to a wedding.",
+        "accept": [
+          "I was invited to the wedding.",
+          "I have been invited to a wedding.",
+          "I have been invited to the wedding."
+        ],
+        "explanation": "Was + invited."
+      }
+    ]
+  },
+  {
+    "id": "b1-passive-present-past-3",
+    "topicId": "b1-passive-present-past",
+    "exercises": [
+      {
+        "id": "b1-passive-present-past-3-01",
+        "type": "choice",
+        "prompt": "The Mona Lisa ___ by Leonardo da Vinci.",
+        "answer": "was painted",
+        "distractors": [
+          "is painted",
+          "painted"
+        ],
+        "explanation": "Przeszłość: was painted."
+      },
+      {
+        "id": "b1-passive-present-past-3-02",
+        "type": "choice",
+        "prompt": "Rice ___ in many Asian countries.",
+        "answer": "is eaten",
+        "distractors": [
+          "eats",
+          "eaten"
+        ],
+        "explanation": "Is + eaten."
+      },
+      {
+        "id": "b1-passive-present-past-3-03",
+        "type": "cloze",
+        "prompt": "Breakfast is ___ from 7 to 10. (serve)",
+        "answer": "served",
+        "explanation": "Is + served."
+      },
+      {
+        "id": "b1-passive-present-past-3-04",
+        "type": "cloze",
+        "prompt": "The room ___ yesterday. (not / clean)",
+        "answer": "wasn't cleaned",
+        "accept": [
+          "was not cleaned"
+        ],
+        "explanation": "Przeczenie: wasn't + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-3-05",
+        "type": "cloze",
+        "prompt": "Is Spanish ___ in Mexico? (speak)",
+        "answer": "spoken",
+        "explanation": "Speak → spoken."
+      },
+      {
+        "id": "b1-passive-present-past-3-06",
+        "type": "error",
+        "prompt": "These photos was taken in Italy.",
+        "answer": [
+          "was",
+          "were"
+        ],
+        "explanation": "Photos – liczba mnoga: were."
+      },
+      {
+        "id": "b1-passive-present-past-3-07",
+        "type": "error",
+        "prompt": "The car is wash every week.",
+        "answer": [
+          "wash",
+          "washed"
+        ],
+        "explanation": "Is + III forma."
+      },
+      {
+        "id": "b1-passive-present-past-3-08",
+        "type": "tiles",
+        "prompt": "Mój portfel został skradziony.",
+        "answer": [
+          "My",
+          "wallet",
+          "was",
+          "stolen"
+        ],
+        "distractors": [
+          "is",
+          "stole"
+        ],
+        "explanation": "Was + stolen."
+      },
+      {
+        "id": "b1-passive-present-past-3-09",
+        "type": "translate",
+        "prompt": "Ten film był nakręcony w Polsce.",
+        "answer": "This film was made in Poland.",
+        "accept": [
+          "This film was shot in Poland.",
+          "The film was made in Poland.",
+          "The film was shot in Poland.",
+          "This movie was made in Poland.",
+          "This movie was shot in Poland."
+        ],
+        "explanation": "Was + made."
+      },
+      {
+        "id": "b1-passive-present-past-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę czynną, zacznij od „The police”.\nThe man was arrested by the police.",
+        "answer": "The police arrested the man.",
+        "explanation": "Wykonawca staje się podmiotem."
+      }
+    ]
+  }
+]

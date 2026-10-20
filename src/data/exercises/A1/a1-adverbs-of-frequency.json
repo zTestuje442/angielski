@@ -1,0 +1,333 @@
+[
+  {
+    "id": "a1-adverbs-of-frequency-1",
+    "topicId": "a1-adverbs-of-frequency",
+    "exercises": [
+      {
+        "id": "a1-adverbs-of-frequency-1-01",
+        "type": "tiles",
+        "prompt": "Zawsze wstaję o siódmej.",
+        "answer": [
+          "I",
+          "always",
+          "get",
+          "up",
+          "at",
+          "seven"
+        ],
+        "explanation": "Always stoi przed czasownikiem get up."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-02",
+        "type": "tiles",
+        "prompt": "Ona często się spóźnia.",
+        "answer": [
+          "She",
+          "is",
+          "often",
+          "late"
+        ],
+        "explanation": "Often stoi po is."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-03",
+        "type": "choice",
+        "prompt": "I ___ eat breakfast. (0%)",
+        "answer": "never",
+        "distractors": [
+          "always",
+          "often"
+        ],
+        "explanation": "0% to never."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-04",
+        "type": "choice",
+        "prompt": "He ___ goes to the gym. (100%)",
+        "answer": "always",
+        "distractors": [
+          "never",
+          "sometimes"
+        ],
+        "explanation": "100% to always."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-05",
+        "type": "cloze",
+        "prompt": "I ___ drink coffee in the evening. (0%)",
+        "answer": "never",
+        "explanation": "Never = nigdy, bez don't."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-06",
+        "type": "match",
+        "prompt": "Połącz przysłówki ze znaczeniem.",
+        "answer": [
+          "always|zawsze",
+          "usually|zwykle",
+          "sometimes|czasami",
+          "never|nigdy"
+        ],
+        "explanation": "Od 100% do 0%: always, usually, sometimes, never."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-07",
+        "type": "transform",
+        "prompt": "Wstaw „usually” we właściwe miejsce.\nWe have lunch at one.",
+        "answer": "We usually have lunch at one.",
+        "explanation": "Usually stoi przed zwykłym czasownikiem."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-08",
+        "type": "transform",
+        "prompt": "Wstaw „never” we właściwe miejsce.\nHe is tired.",
+        "answer": "He is never tired.",
+        "explanation": "Po to be: is never."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-09",
+        "type": "translate",
+        "prompt": "Czasami gram w tenisa.",
+        "answer": "I sometimes play tennis.",
+        "accept": [
+          "Sometimes I play tennis."
+        ],
+        "explanation": "Sometimes przed czasownikiem albo na początku zdania."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-1-10",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "They are usually at home.",
+        "distractors": [
+          "Usually they at home are.",
+          "They are at usually home."
+        ],
+        "explanation": "Przysłówek stoi po to be: are usually."
+      }
+    ]
+  },
+  {
+    "id": "a1-adverbs-of-frequency-2",
+    "topicId": "a1-adverbs-of-frequency",
+    "exercises": [
+      {
+        "id": "a1-adverbs-of-frequency-2-01",
+        "type": "cloze",
+        "prompt": "My dad ___ cooks dinner. (często)",
+        "answer": "often",
+        "explanation": "Często = often, przed czasownikiem."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-02",
+        "type": "cloze",
+        "prompt": "We ___ go to the cinema. (rzadko)",
+        "answer": "rarely",
+        "accept": [
+          "seldom"
+        ],
+        "explanation": "Rzadko = rarely."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-03",
+        "type": "choice",
+        "prompt": "How often do you swim? — ___ a week.",
+        "answer": "Twice",
+        "distractors": [
+          "Two",
+          "Second"
+        ],
+        "explanation": "Dwa razy = twice."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-04",
+        "type": "choice",
+        "prompt": "She is ___ happy. She smiles all the time.",
+        "answer": "always",
+        "distractors": [
+          "never",
+          "rarely"
+        ],
+        "explanation": "Cały czas się uśmiecha, więc always."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-05",
+        "type": "tiles",
+        "prompt": "Rzadko oglądamy telewizję.",
+        "answer": [
+          "We",
+          "rarely",
+          "watch",
+          "TV"
+        ],
+        "explanation": "Rarely przed czasownikiem."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-06",
+        "type": "tiles",
+        "prompt": "Czy zawsze jesteś taki zmęczony?",
+        "answer": [
+          "Are",
+          "you",
+          "always",
+          "so",
+          "tired"
+        ],
+        "explanation": "W pytaniu: Are you always...?"
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-07",
+        "type": "error",
+        "prompt": "He never go to bed late.",
+        "answer": [
+          "go",
+          "goes"
+        ],
+        "explanation": "He + czasownik z -s, także z never."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-08",
+        "type": "translate",
+        "prompt": "Zwykle jem obiad w domu.",
+        "answer": "I usually have lunch at home.",
+        "accept": [
+          "I usually eat lunch at home.",
+          "I usually have dinner at home.",
+          "I usually eat dinner at home."
+        ],
+        "explanation": "Usually przed czasownikiem; „jeść obiad” to have lunch/dinner."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-09",
+        "type": "transform",
+        "prompt": "Wstaw „always” we właściwe miejsce.\nShe is busy.",
+        "answer": "She is always busy.",
+        "explanation": "Po to be: is always."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "once a week|raz w tygodniu",
+          "every day|codziennie",
+          "twice a month|dwa razy w miesiącu",
+          "three times a year|trzy razy w roku"
+        ],
+        "explanation": "Once, twice, three times + a week/month/year."
+      }
+    ]
+  },
+  {
+    "id": "a1-adverbs-of-frequency-3",
+    "topicId": "a1-adverbs-of-frequency",
+    "exercises": [
+      {
+        "id": "a1-adverbs-of-frequency-3-01",
+        "type": "cloze",
+        "prompt": "How ___ do you go to the gym?",
+        "answer": "often",
+        "explanation": "Jak często = how often."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-02",
+        "type": "cloze",
+        "prompt": "They play football ___ a week. (dwa razy)",
+        "answer": "twice",
+        "explanation": "Dwa razy = twice."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-03",
+        "type": "choice",
+        "prompt": "I ___ late for work. I'm a good worker.",
+        "answer": "am never",
+        "distractors": [
+          "never am",
+          "am always"
+        ],
+        "explanation": "Po to be: am never."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-04",
+        "type": "choice",
+        "prompt": "Tom ___ his bike to school.",
+        "answer": "usually rides",
+        "distractors": [
+          "rides usually",
+          "usually ride"
+        ],
+        "explanation": "Usually przed czasownikiem, a Tom = he, więc rides."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-05",
+        "type": "tiles",
+        "prompt": "Nigdy nie piję kawy.",
+        "answer": [
+          "I",
+          "never",
+          "drink",
+          "coffee"
+        ],
+        "explanation": "Never bez don't."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-06",
+        "type": "tiles",
+        "prompt": "Moi rodzice zwykle są w domu w niedziele.",
+        "answer": [
+          "My",
+          "parents",
+          "are",
+          "usually",
+          "at",
+          "home",
+          "on",
+          "Sundays"
+        ],
+        "explanation": "Usually po are."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-07",
+        "type": "error",
+        "prompt": "She don't often cook.",
+        "answer": [
+          "don't",
+          "doesn't"
+        ],
+        "explanation": "She łączy się z doesn't."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-08",
+        "type": "transform",
+        "prompt": "Wstaw „sometimes” we właściwe miejsce.\nThey walk to work.",
+        "answer": "They sometimes walk to work.",
+        "accept": [
+          "Sometimes they walk to work."
+        ],
+        "explanation": "Sometimes przed czasownikiem (albo na początku)."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-09",
+        "type": "translate",
+        "prompt": "Jak często się uczysz?",
+        "answer": "How often do you study?",
+        "accept": [
+          "How often do you learn?"
+        ],
+        "explanation": "How often + pytanie w Present Simple."
+      },
+      {
+        "id": "a1-adverbs-of-frequency-3-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "how often|jak często",
+          "every morning|co rano",
+          "hardly ever|prawie nigdy",
+          "on Mondays|w poniedziałki"
+        ],
+        "explanation": "Wyrażenia częstotliwości."
+      }
+    ]
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "id": "c1-reading-article-2",
+  "topicId": "c1-reading-article",
+  "title": "Can cities cool themselves?",
+  "text": "On a hot afternoon in July, the temperature in the centre of a large European city can be as much as eight degrees higher than in the surrounding countryside. This phenomenon, known as the urban heat island effect, is caused by a combination of factors: dark roofs and roads that absorb sunlight, a lack of vegetation, heat produced by cars and air conditioners, and tall buildings that trap warm air. As heatwaves become longer and more frequent, it is no longer merely a matter of comfort. During the extreme summer of 2022, tens of thousands of deaths across Europe were linked to heat, the majority of them among elderly people living in cities.\n\nFaced with these figures, city authorities are increasingly turning to solutions that would have seemed eccentric a decade ago. Paris has begun converting school playgrounds, once covered in asphalt, into \"oasis courtyards\" with trees, grass and water features, which are opened to local residents at weekends. Barcelona's \"superblocks\" close groups of streets to through traffic and replace parking spaces with benches and plants. In Medellín, Colombia, a network of \"green corridors\" along roads and waterways is reported to have lowered local temperatures by up to two degrees.\n\nPerhaps the simplest idea of all is to change the colour of surfaces. Light-coloured roofs and pavements reflect a far greater proportion of sunlight than dark ones, and studies suggest that painting roofs white can reduce indoor temperatures significantly. Los Angeles has experimented with coating streets in a pale grey material, with encouraging initial results.\n\nHowever, experts warn that there is no single solution. \"Every city has its own climate, its own architecture and its own social problems,\" says urban planner Dr Ana Ruiz. \"What works in Barcelona may be completely inappropriate in Helsinki or Cairo.\" Some measures also have unexpected side effects. Reflective surfaces, for example, can bounce heat and glare towards pedestrians, making streets feel hotter at ground level even as buildings stay cooler. Trees, meanwhile, need water, which may be scarce during precisely the periods when they are most needed.\n\nThere are questions of fairness, too. Green spaces tend to raise property prices, and critics fear that poorer residents – who are often the most vulnerable to heat – could be pushed out of the very neighbourhoods that have been improved for their benefit. Researchers have coined the term \"green gentrification\" to describe this process.\n\nDespite these difficulties, few experts doubt that the effort is worthwhile. Cooling measures bring additional benefits, from cleaner air and reduced flooding to better mental health. \"We used to design cities for cars,\" Dr Ruiz concludes. \"Now we have to design them for people who need to survive the summer. That is a much more interesting challenge.\" ",
+  "exercises": [
+    {
+      "id": "c1-reading-article-2-01",
+      "type": "choice",
+      "prompt": "City centres can be several degrees hotter than the countryside.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...as much as eight degrees higher...”"
+    },
+    {
+      "id": "c1-reading-article-2-02",
+      "type": "choice",
+      "prompt": "Most heat-related deaths in 2022 occurred among young people.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...the majority of them among elderly people...”"
+    },
+    {
+      "id": "c1-reading-article-2-03",
+      "type": "choice",
+      "prompt": "Paris's oasis courtyards are open to residents every day.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...opened to local residents at weekends.”"
+    },
+    {
+      "id": "c1-reading-article-2-04",
+      "type": "choice",
+      "prompt": "The pale grey streets in Los Angeles were expensive to install.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi o kosztach."
+    },
+    {
+      "id": "c1-reading-article-2-05",
+      "type": "choice",
+      "prompt": "What does Dr Ruiz mean by \"there is no single solution\"?",
+      "answer": "Each city needs measures suited to its conditions.",
+      "distractors": [
+        "Nothing can be done about heat.",
+        "Only trees can cool a city."
+      ],
+      "explanation": "„Every city has its own climate...”"
+    },
+    {
+      "id": "c1-reading-article-2-06",
+      "type": "choice",
+      "prompt": "What is a possible side effect of reflective surfaces?",
+      "answer": "Streets may feel hotter for pedestrians.",
+      "distractors": [
+        "Buildings become warmer inside.",
+        "Trees stop growing."
+      ],
+      "explanation": "„...making streets feel hotter at ground level...”"
+    },
+    {
+      "id": "c1-reading-article-2-07",
+      "type": "choice",
+      "prompt": "What is \"green gentrification\"?",
+      "answer": "Poorer residents being pushed out after areas are improved.",
+      "distractors": [
+        "Painting buildings green.",
+        "Planting trees in rich areas only."
+      ],
+      "explanation": "„...poorer residents... could be pushed out...”"
+    },
+    {
+      "id": "c1-reading-article-2-08",
+      "type": "choice",
+      "prompt": "What is the writer's overall conclusion?",
+      "answer": "Cooling cities is difficult but worth the effort.",
+      "distractors": [
+        "Cooling cities is impossible.",
+        "Only rich cities can afford cooling measures."
+      ],
+      "explanation": "„...few experts doubt that the effort is worthwhile.”"
+    },
+    {
+      "id": "c1-reading-article-2-09",
+      "type": "cloze",
+      "prompt": "Dark roofs and roads ___ sunlight.",
+      "answer": "absorb",
+      "explanation": "Pochłaniać: absorb."
+    },
+    {
+      "id": "c1-reading-article-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "vegetation|roślinność",
+        "eccentric|dziwaczny",
+        "scarce|rzadki, deficytowy",
+        "vulnerable|narażony"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-opinion-3",
+  "topicId": "b2-reading-opinion",
+  "title": "Bring back the paper map",
+  "text": "Last summer, I watched a group of tourists stand in the middle of a square in Lisbon for ten minutes, turning slowly in circles while staring at their phones. They were trying to find a restaurant that, as it turned out, was directly behind them. Nobody looked up. Nobody asked a passer-by. And I thought: we have forgotten how to find our way.\n\nSatellite navigation is one of the most useful inventions of our time, and I am not suggesting that we throw our phones away. It has saved lost drivers countless hours and has made travelling in unfamiliar places far less stressful. But I believe that our total dependence on it is changing the way we experience the world, and not for the better.\n\nWhen you follow a blue dot on a screen, you never really know where you are. You know the next turn, but not the shape of the city, the direction of the river or the position of the hills. Scientists have even found that people who rely heavily on GPS use the part of the brain responsible for spatial memory less than those who navigate on their own. Some researchers suggest that, over time, this could weaken our ability to create mental maps at all.\n\nA paper map works differently. It forces you to look at the whole picture, to compare what you see on the page with what is in front of you, and to make decisions. You might take a wrong turn, but you will also notice things you would never have seen otherwise: a market, a viewpoint, a tiny church. Getting a little lost is, in my opinion, one of the great pleasures of travel.\n\nThere is a social side, too. Before smartphones, being lost meant asking for help, which often led to conversations, recommendations and sometimes even friendships. Today, we can travel through an entire country without speaking to a single local person. That is efficient, but it is also rather sad.\n\nSo on my next trip, I am going to try something old-fashioned. I will buy a map, study it over breakfast and leave my phone in my bag unless I really need it. I may arrive a little later than planned. But I suspect I will remember the journey much better – and I might even have a story or two to tell when I get home.",
+  "exercises": [
+    {
+      "id": "b2-reading-opinion-3-01",
+      "type": "choice",
+      "prompt": "The tourists in Lisbon found the restaurant quickly.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Kręcili się przez dziesięć minut, a restauracja była tuż za nimi."
+    },
+    {
+      "id": "b2-reading-opinion-3-02",
+      "type": "choice",
+      "prompt": "The writer thinks we should stop using satellite navigation completely.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„I am not suggesting that we throw our phones away.”"
+    },
+    {
+      "id": "b2-reading-opinion-3-03",
+      "type": "choice",
+      "prompt": "The writer has never used GPS.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "b2-reading-opinion-3-04",
+      "type": "choice",
+      "prompt": "What have scientists found about people who rely on GPS?",
+      "answer": "They use the spatial memory part of the brain less.",
+      "distractors": [
+        "They get lost more often in their own city.",
+        "They travel less than other people."
+      ],
+      "explanation": "„...use the part of the brain responsible for spatial memory less...”"
+    },
+    {
+      "id": "b2-reading-opinion-3-05",
+      "type": "choice",
+      "prompt": "What is an advantage of a paper map, according to the writer?",
+      "answer": "You see the whole picture and notice more.",
+      "distractors": [
+        "It is cheaper than a phone.",
+        "It is always more accurate."
+      ],
+      "explanation": "„It forces you to look at the whole picture...”"
+    },
+    {
+      "id": "b2-reading-opinion-3-06",
+      "type": "choice",
+      "prompt": "What social benefit of getting lost does the writer mention?",
+      "answer": "You talk to local people.",
+      "distractors": [
+        "You meet other tourists from your country.",
+        "You save time."
+      ],
+      "explanation": "„...being lost meant asking for help, which often led to conversations...”"
+    },
+    {
+      "id": "b2-reading-opinion-3-07",
+      "type": "choice",
+      "prompt": "What is the writer's plan for the next trip?",
+      "answer": "to use a paper map and keep the phone in a bag",
+      "distractors": [
+        "to travel without any map",
+        "to hire a local guide"
+      ],
+      "explanation": "„I will buy a map... and leave my phone in my bag...”"
+    },
+    {
+      "id": "b2-reading-opinion-3-08",
+      "type": "cloze",
+      "prompt": "We have forgotten how to find our ___.",
+      "answer": "way",
+      "explanation": "Find your way – trafić, odnaleźć drogę."
+    },
+    {
+      "id": "b2-reading-opinion-3-09",
+      "type": "cloze",
+      "prompt": "Getting a little lost is one of the great ___ of travel.",
+      "answer": "pleasures",
+      "explanation": "Przyjemność: pleasure."
+    },
+    {
+      "id": "b2-reading-opinion-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "passer-by|przechodzień",
+        "countless|niezliczony",
+        "rely on|polegać na",
+        "spatial|przestrzenny"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

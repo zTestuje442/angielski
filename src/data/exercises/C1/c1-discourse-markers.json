@@ -1,0 +1,354 @@
+[
+  {
+    "id": "c1-discourse-markers-1",
+    "topicId": "c1-discourse-markers",
+    "exercises": [
+      {
+        "id": "c1-discourse-markers-1-01",
+        "type": "choice",
+        "prompt": "The project was expensive. ___, it was a success.",
+        "answer": "Nevertheless",
+        "distractors": [
+          "Moreover",
+          "Therefore"
+        ],
+        "explanation": "Kontrast: nevertheless."
+      },
+      {
+        "id": "c1-discourse-markers-1-02",
+        "type": "choice",
+        "prompt": "I like tea, ___ my sister prefers coffee.",
+        "answer": "whereas",
+        "distractors": [
+          "however",
+          "therefore"
+        ],
+        "explanation": "Whereas łączy dwie części zdania."
+      },
+      {
+        "id": "c1-discourse-markers-1-03",
+        "type": "choice",
+        "prompt": "The flight was cancelled ___ the fog.",
+        "answer": "owing to",
+        "distractors": [
+          "because",
+          "although"
+        ],
+        "explanation": "Owing to + rzeczownik."
+      },
+      {
+        "id": "c1-discourse-markers-1-04",
+        "type": "cloze",
+        "prompt": "The house is too small. ___, it's too far from the city. (ponadto)",
+        "answer": "Moreover",
+        "accept": [
+          "Furthermore",
+          "Besides",
+          "In addition"
+        ],
+        "explanation": "Dodawanie: moreover."
+      },
+      {
+        "id": "c1-discourse-markers-1-05",
+        "type": "cloze",
+        "prompt": "Sales fell. ___, several employees lost their jobs. (w rezultacie)",
+        "answer": "Consequently",
+        "accept": [
+          "As a result",
+          "Therefore",
+          "Thus",
+          "Hence"
+        ],
+        "explanation": "Skutek: consequently."
+      },
+      {
+        "id": "c1-discourse-markers-1-06",
+        "type": "match",
+        "prompt": "Połącz markery z tłumaczeniem.",
+        "answer": [
+          "moreover|ponadto",
+          "nevertheless|niemniej jednak",
+          "consequently|w konsekwencji",
+          "admittedly|trzeba przyznać"
+        ],
+        "explanation": "Markery dyskursu."
+      },
+      {
+        "id": "c1-discourse-markers-1-07",
+        "type": "error",
+        "prompt": "The weather was bad. Despite, we went for a walk.",
+        "answer": [
+          "Despite",
+          "Nevertheless"
+        ],
+        "explanation": "Despite wymaga rzeczownika; samodzielnie: Nevertheless."
+      },
+      {
+        "id": "c1-discourse-markers-1-08",
+        "type": "tiles",
+        "prompt": "Trzeba przyznać że plan nie jest idealny.",
+        "answer": [
+          "Admittedly",
+          "the",
+          "plan",
+          "is",
+          "not",
+          "perfect"
+        ],
+        "distractors": [
+          "Admitting",
+          "Admit"
+        ],
+        "explanation": "Admittedly – przyznanie."
+      },
+      {
+        "id": "c1-discourse-markers-1-09",
+        "type": "translate",
+        "prompt": "Niemniej jednak spróbujemy.",
+        "answer": "Nevertheless, we will try.",
+        "accept": [
+          "Nonetheless, we will try.",
+          "Nevertheless, we'll try.",
+          "Even so, we will try.",
+          "Nevertheless we will try."
+        ],
+        "explanation": "Nevertheless."
+      },
+      {
+        "id": "c1-discourse-markers-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „whereas”.\nMy brother is tall. I am short.",
+        "answer": "My brother is tall, whereas I am short.",
+        "explanation": "Whereas."
+      }
+    ]
+  },
+  {
+    "id": "c1-discourse-markers-2",
+    "topicId": "c1-discourse-markers",
+    "exercises": [
+      {
+        "id": "c1-discourse-markers-2-01",
+        "type": "choice",
+        "prompt": "___, the plan has some weaknesses, but overall it is good.",
+        "answer": "Admittedly",
+        "distractors": [
+          "Consequently",
+          "Moreover"
+        ],
+        "explanation": "Przyznanie: admittedly."
+      },
+      {
+        "id": "c1-discourse-markers-2-02",
+        "type": "choice",
+        "prompt": "Several countries, ___ France and Spain, have banned it.",
+        "answer": "namely",
+        "distractors": [
+          "therefore",
+          "whereas"
+        ],
+        "explanation": "Namely – mianowicie."
+      },
+      {
+        "id": "c1-discourse-markers-2-03",
+        "type": "choice",
+        "prompt": "___, I think the advantages outweigh the disadvantages.",
+        "answer": "On balance",
+        "distractors": [
+          "By the way",
+          "For instance"
+        ],
+        "explanation": "Wniosek: on balance."
+      },
+      {
+        "id": "c1-discourse-markers-2-04",
+        "type": "cloze",
+        "prompt": "It's expensive. That ___, it's worth every penny.",
+        "answer": "said",
+        "explanation": "That said – mimo to."
+      },
+      {
+        "id": "c1-discourse-markers-2-05",
+        "type": "cloze",
+        "prompt": "The road was closed ___ to an accident.",
+        "answer": "due",
+        "accept": [
+          "owing"
+        ],
+        "explanation": "Due to + rzeczownik."
+      },
+      {
+        "id": "c1-discourse-markers-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „However” na początku drugiego zdania.\nThe test was hard. Most students passed.",
+        "answer": "The test was hard. However, most students passed.",
+        "explanation": "However, ..."
+      },
+      {
+        "id": "c1-discourse-markers-2-07",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „; therefore,”.\nHe didn't study. He failed.",
+        "answer": "He didn't study; therefore, he failed.",
+        "accept": [
+          "He did not study; therefore, he failed."
+        ],
+        "explanation": "; therefore,"
+      },
+      {
+        "id": "c1-discourse-markers-2-08",
+        "type": "tiles",
+        "prompt": "Mimo to nadal go lubię.",
+        "answer": [
+          "Even",
+          "so",
+          "I",
+          "still",
+          "like",
+          "him"
+        ],
+        "distractors": [
+          "Despite",
+          "Although"
+        ],
+        "explanation": "Even so – mimo to."
+      },
+      {
+        "id": "c1-discourse-markers-2-09",
+        "type": "error",
+        "prompt": "The flight was delayed due of the storm.",
+        "answer": [
+          "of",
+          "to"
+        ],
+        "explanation": "Due to + rzeczownik."
+      },
+      {
+        "id": "c1-discourse-markers-2-10",
+        "type": "translate",
+        "prompt": "Ponadto ceny są zbyt wysokie.",
+        "answer": "Moreover, the prices are too high.",
+        "accept": [
+          "Furthermore, the prices are too high.",
+          "In addition, the prices are too high.",
+          "What is more, the prices are too high.",
+          "Moreover, prices are too high.",
+          "Furthermore, prices are too high."
+        ],
+        "explanation": "Moreover."
+      }
+    ]
+  },
+  {
+    "id": "c1-discourse-markers-3",
+    "topicId": "c1-discourse-markers",
+    "exercises": [
+      {
+        "id": "c1-discourse-markers-3-01",
+        "type": "choice",
+        "prompt": "I'm not sure it will work. ___, it's worth trying.",
+        "answer": "Having said that",
+        "distractors": [
+          "As a result",
+          "In addition"
+        ],
+        "explanation": "Having said that – mimo to."
+      },
+      {
+        "id": "c1-discourse-markers-3-02",
+        "type": "choice",
+        "prompt": "Prices have risen sharply; ___, demand has fallen.",
+        "answer": "consequently",
+        "distractors": [
+          "whereas",
+          "namely"
+        ],
+        "explanation": "Skutek: consequently."
+      },
+      {
+        "id": "c1-discourse-markers-3-03",
+        "type": "cloze",
+        "prompt": "___ instance, many people now work from home. (na przykład)",
+        "answer": "For",
+        "explanation": "For instance."
+      },
+      {
+        "id": "c1-discourse-markers-3-04",
+        "type": "cloze",
+        "prompt": "All in ___, it was a successful year.",
+        "answer": "all",
+        "explanation": "All in all."
+      },
+      {
+        "id": "c1-discourse-markers-3-05",
+        "type": "cloze",
+        "prompt": "Anyway, as I was ___, the meeting starts at ten.",
+        "answer": "saying",
+        "explanation": "As I was saying – powrót do tematu."
+      },
+      {
+        "id": "c1-discourse-markers-3-06",
+        "type": "match",
+        "prompt": "Połącz markery z tłumaczeniem.",
+        "answer": [
+          "by the way|à propos",
+          "anyway|tak czy inaczej",
+          "mind you|ale uwaga",
+          "as I was saying|jak już mówiłem"
+        ],
+        "explanation": "Markery w mowie."
+      },
+      {
+        "id": "c1-discourse-markers-3-07",
+        "type": "error",
+        "prompt": "He was exhausted. Moreover, he kept working.",
+        "answer": [
+          "Moreover",
+          "Nevertheless"
+        ],
+        "explanation": "To kontrast, nie dodanie: Nevertheless."
+      },
+      {
+        "id": "c1-discourse-markers-3-08",
+        "type": "error",
+        "prompt": "She is very talented. Nevertheless she is also hard-working.",
+        "answer": [
+          "Nevertheless",
+          "Moreover"
+        ],
+        "explanation": "To dodanie, nie kontrast: Moreover."
+      },
+      {
+        "id": "c1-discourse-markers-3-09",
+        "type": "tiles",
+        "prompt": "Z drugiej strony jest to bardzo drogie.",
+        "answer": [
+          "On",
+          "the",
+          "other",
+          "hand",
+          "it",
+          "is",
+          "very",
+          "expensive"
+        ],
+        "distractors": [
+          "In",
+          "side"
+        ],
+        "explanation": "On the other hand."
+      },
+      {
+        "id": "c1-discourse-markers-3-10",
+        "type": "translate",
+        "prompt": "Wszystko wzięte pod uwagę, to był dobry pomysł.",
+        "answer": "All things considered, it was a good idea.",
+        "accept": [
+          "On balance, it was a good idea.",
+          "All in all, it was a good idea.",
+          "All things considered, it was a good idea after all."
+        ],
+        "explanation": "All things considered / on balance."
+      }
+    ]
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "id": "a2-past-simple-irregular-1",
+    "topicId": "a2-past-simple-irregular",
+    "exercises": [
+      {
+        "id": "a2-past-simple-irregular-1-01",
+        "type": "cloze",
+        "prompt": "I ___ to London last year. (go)",
+        "answer": "went",
+        "explanation": "Go → went."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-02",
+        "type": "cloze",
+        "prompt": "She ___ a new phone yesterday. (buy)",
+        "answer": "bought",
+        "explanation": "Buy → bought."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-03",
+        "type": "cloze",
+        "prompt": "We ___ pizza for dinner. (have)",
+        "answer": "had",
+        "explanation": "Have → had."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-04",
+        "type": "choice",
+        "prompt": "He ___ me a postcard from Spain.",
+        "answer": "sent",
+        "distractors": [
+          "sended",
+          "send"
+        ],
+        "explanation": "Send → sent."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-05",
+        "type": "choice",
+        "prompt": "They ___ the bus to work.",
+        "answer": "took",
+        "distractors": [
+          "taked",
+          "take"
+        ],
+        "explanation": "Take → took."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-06",
+        "type": "match",
+        "prompt": "Połącz czasownik z formą przeszłą.",
+        "answer": [
+          "go|went",
+          "see|saw",
+          "eat|ate",
+          "write|wrote"
+        ],
+        "explanation": "Formy nieregularne trzeba zapamiętać."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-07",
+        "type": "tiles",
+        "prompt": "Wczoraj spotkałem starego przyjaciela.",
+        "answer": [
+          "I",
+          "met",
+          "an",
+          "old",
+          "friend",
+          "yesterday"
+        ],
+        "accept": [
+          "Yesterday I met an old friend"
+        ],
+        "explanation": "Meet → met."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-08",
+        "type": "error",
+        "prompt": "I buyed a new jacket.",
+        "answer": [
+          "buyed",
+          "bought"
+        ],
+        "explanation": "Buy jest nieregularne: bought."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-09",
+        "type": "translate",
+        "prompt": "Widzieliśmy ten film w zeszłym tygodniu.",
+        "answer": "We saw this film last week.",
+        "accept": [
+          "We saw that film last week.",
+          "We saw the film last week.",
+          "Last week we saw this film.",
+          "We saw this movie last week.",
+          "We saw that movie last week.",
+          "We saw the movie last week."
+        ],
+        "explanation": "See → saw."
+      },
+      {
+        "id": "a2-past-simple-irregular-1-10",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły i dodaj „yesterday” na końcu.\nI drink coffee.",
+        "answer": "I drank coffee yesterday.",
+        "explanation": "Drink → drank."
+      }
+    ]
+  },
+  {
+    "id": "a2-past-simple-irregular-2",
+    "topicId": "a2-past-simple-irregular",
+    "exercises": [
+      {
+        "id": "a2-past-simple-irregular-2-01",
+        "type": "cloze",
+        "prompt": "I ___ see you at the party.",
+        "answer": "didn't",
+        "explanation": "Przeczenie: didn't + forma podstawowa."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-02",
+        "type": "cloze",
+        "prompt": "___ you sleep well?",
+        "answer": "Did",
+        "explanation": "Pytanie: Did + podmiot + forma podstawowa."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-03",
+        "type": "choice",
+        "prompt": "She didn't ___ the answer.",
+        "answer": "know",
+        "distractors": [
+          "knew",
+          "knows"
+        ],
+        "explanation": "Po didn't forma podstawowa."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-04",
+        "type": "choice",
+        "prompt": "Where ___ you buy that bag?",
+        "answer": "did",
+        "distractors": [
+          "were",
+          "was"
+        ],
+        "explanation": "Pytanie w Past Simple: did."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-05",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nWe went to the beach.",
+        "answer": "We did not go to the beach.",
+        "explanation": "Didn't + go (nie went)."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-06",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nHe found his keys.",
+        "answer": "Did he find his keys?",
+        "explanation": "Did + he + find."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-07",
+        "type": "tiles",
+        "prompt": "Co jadłeś na śniadanie?",
+        "answer": [
+          "What",
+          "did",
+          "you",
+          "have",
+          "for",
+          "breakfast"
+        ],
+        "explanation": "What + did + you + have."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-08",
+        "type": "error",
+        "prompt": "Did you saw Tom?",
+        "answer": [
+          "saw",
+          "see"
+        ],
+        "explanation": "Po did forma podstawowa."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-09",
+        "type": "translate",
+        "prompt": "Nie spałem dobrze.",
+        "answer": "I did not sleep well.",
+        "explanation": "Didn't + sleep."
+      },
+      {
+        "id": "a2-past-simple-irregular-2-10",
+        "type": "match",
+        "prompt": "Połącz pytania z odpowiedziami.",
+        "answer": [
+          "Did you win?|No, we lost.",
+          "Did she come?|Yes, she came at six.",
+          "Did they leave?|Yes, they left early.",
+          "Did he pay?|No, he forgot."
+        ],
+        "explanation": "Odpowiedź powtarza podmiot i używa formy przeszłej."
+      }
+    ]
+  },
+  {
+    "id": "a2-past-simple-irregular-3",
+    "topicId": "a2-past-simple-irregular",
+    "exercises": [
+      {
+        "id": "a2-past-simple-irregular-3-01",
+        "type": "cloze",
+        "prompt": "I ___ my wallet at home. (leave)",
+        "answer": "left",
+        "explanation": "Leave → left."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-02",
+        "type": "cloze",
+        "prompt": "The film ___ at 8 and finished at 10. (begin)",
+        "answer": "began",
+        "explanation": "Begin → began."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-03",
+        "type": "cloze",
+        "prompt": "He ___ a great story. (tell)",
+        "answer": "told",
+        "explanation": "Tell → told."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-04",
+        "type": "choice",
+        "prompt": "We ___ a lot of photos on holiday.",
+        "answer": "took",
+        "distractors": [
+          "made",
+          "did"
+        ],
+        "explanation": "Robić zdjęcia: take photos → took."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-05",
+        "type": "choice",
+        "prompt": "I ___ very tired after the trip.",
+        "answer": "felt",
+        "distractors": [
+          "feeled",
+          "fell"
+        ],
+        "explanation": "Feel → felt. Fell to forma od fall (upaść)."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-06",
+        "type": "match",
+        "prompt": "Połącz czasownik z formą przeszłą.",
+        "answer": [
+          "think|thought",
+          "bring|brought",
+          "teach|taught",
+          "catch|caught"
+        ],
+        "explanation": "Grupa z końcówką -ought/-aught."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-07",
+        "type": "error",
+        "prompt": "She speaked to the manager.",
+        "answer": [
+          "speaked",
+          "spoke"
+        ],
+        "explanation": "Speak → spoke."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-08",
+        "type": "error",
+        "prompt": "They goed home at midnight.",
+        "answer": [
+          "goed",
+          "went"
+        ],
+        "explanation": "Go → went."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-09",
+        "type": "tiles",
+        "prompt": "Zgubiłem klucze.",
+        "answer": [
+          "I",
+          "lost",
+          "my",
+          "keys"
+        ],
+        "explanation": "Lose → lost."
+      },
+      {
+        "id": "a2-past-simple-irregular-3-10",
+        "type": "translate",
+        "prompt": "Kiedy przyjechałeś do Polski?",
+        "answer": "When did you come to Poland?",
+        "accept": [
+          "When did you arrive in Poland?",
+          "When did you get to Poland?"
+        ],
+        "explanation": "When + did + you + come."
+      }
+    ]
+  }
+]

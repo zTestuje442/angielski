@@ -1,0 +1,339 @@
+[
+  {
+    "id": "b2-have-something-done-1",
+    "topicId": "b2-have-something-done",
+    "exercises": [
+      {
+        "id": "b2-have-something-done-1-01",
+        "type": "cloze",
+        "prompt": "I had my hair ___ yesterday. (cut)",
+        "answer": "cut",
+        "explanation": "Have + rzeczownik + III forma."
+      },
+      {
+        "id": "b2-have-something-done-1-02",
+        "type": "cloze",
+        "prompt": "We're having the house ___ next week. (paint)",
+        "answer": "painted",
+        "explanation": "Having + the house + painted."
+      },
+      {
+        "id": "b2-have-something-done-1-03",
+        "type": "choice",
+        "prompt": "I need to ___ my car repaired.",
+        "answer": "have",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Have something done."
+      },
+      {
+        "id": "b2-have-something-done-1-04",
+        "type": "choice",
+        "prompt": "She ___ her nails done every month.",
+        "answer": "gets",
+        "distractors": [
+          "makes",
+          "does"
+        ],
+        "explanation": "Get something done."
+      },
+      {
+        "id": "b2-have-something-done-1-05",
+        "type": "cloze",
+        "prompt": "Where did you ___ your photos printed?",
+        "answer": "get",
+        "accept": [
+          "have"
+        ],
+        "explanation": "Get something done."
+      },
+      {
+        "id": "b2-have-something-done-1-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I cut my hair.|Sam obciąłem włosy.",
+          "I had my hair cut.|Obciąłem włosy (u fryzjera).",
+          "They painted the house.|Sami pomalowali dom.",
+          "They had the house painted.|Zlecili pomalowanie domu."
+        ],
+        "explanation": "Sam czy zlecone."
+      },
+      {
+        "id": "b2-have-something-done-1-07",
+        "type": "error",
+        "prompt": "I'm going to have my eyes test.",
+        "answer": [
+          "test",
+          "tested"
+        ],
+        "explanation": "Have + rzeczownik + III forma."
+      },
+      {
+        "id": "b2-have-something-done-1-08",
+        "type": "tiles",
+        "prompt": "Muszę zrobić sobie zdjęcie do paszportu.",
+        "answer": [
+          "I",
+          "need",
+          "to",
+          "have",
+          "my",
+          "passport",
+          "photo",
+          "taken"
+        ],
+        "distractors": [
+          "make",
+          "take"
+        ],
+        "explanation": "Have + photo + taken."
+      },
+      {
+        "id": "b2-have-something-done-1-09",
+        "type": "translate",
+        "prompt": "Gdzie naprawiłeś telefon?",
+        "answer": "Where did you have your phone repaired?",
+        "accept": [
+          "Where did you get your phone repaired?",
+          "Where did you have your phone fixed?",
+          "Where did you get your phone fixed?"
+        ],
+        "explanation": "Have something repaired."
+      },
+      {
+        "id": "b2-have-something-done-1-10",
+        "type": "transform",
+        "prompt": "Zamień na „have something done”, zacznij od „I had”.\nA mechanic serviced my car.",
+        "answer": "I had my car serviced.",
+        "explanation": "Have + car + serviced."
+      }
+    ]
+  },
+  {
+    "id": "b2-have-something-done-2",
+    "topicId": "b2-have-something-done",
+    "exercises": [
+      {
+        "id": "b2-have-something-done-2-01",
+        "type": "cloze",
+        "prompt": "She's going to ___ her teeth checked.",
+        "answer": "have",
+        "explanation": "Have something done."
+      },
+      {
+        "id": "b2-have-something-done-2-02",
+        "type": "cloze",
+        "prompt": "We had our flat ___ last year. (decorate)",
+        "answer": "decorated",
+        "explanation": "Had + flat + decorated."
+      },
+      {
+        "id": "b2-have-something-done-2-03",
+        "type": "choice",
+        "prompt": "He had his wallet ___ on the train.",
+        "answer": "stolen",
+        "distractors": [
+          "steal",
+          "stole"
+        ],
+        "explanation": "Przykre zdarzenie: had + stolen."
+      },
+      {
+        "id": "b2-have-something-done-2-04",
+        "type": "choice",
+        "prompt": "How often do you ___ your hair cut?",
+        "answer": "get",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Get your hair cut."
+      },
+      {
+        "id": "b2-have-something-done-2-05",
+        "type": "choice",
+        "prompt": "I'm having a new kitchen ___.",
+        "answer": "fitted",
+        "distractors": [
+          "fit up",
+          "fitting"
+        ],
+        "explanation": "Having + kitchen + fitted."
+      },
+      {
+        "id": "b2-have-something-done-2-06",
+        "type": "transform",
+        "prompt": "Zamień na „have something done”, zacznij od „They had”.\nA builder built a garage for them.",
+        "answer": "They had a garage built.",
+        "explanation": "Had + garage + built."
+      },
+      {
+        "id": "b2-have-something-done-2-07",
+        "type": "tiles",
+        "prompt": "Zleciliśmy naprawę dachu.",
+        "answer": [
+          "We",
+          "had",
+          "the",
+          "roof",
+          "repaired"
+        ],
+        "distractors": [
+          "did",
+          "repair"
+        ],
+        "explanation": "Had + roof + repaired."
+      },
+      {
+        "id": "b2-have-something-done-2-08",
+        "type": "error",
+        "prompt": "I must get my computer fix.",
+        "answer": [
+          "fix",
+          "fixed"
+        ],
+        "explanation": "Get + rzeczownik + III forma."
+      },
+      {
+        "id": "b2-have-something-done-2-09",
+        "type": "translate",
+        "prompt": "Ukradziono mu samochód.",
+        "answer": "He had his car stolen.",
+        "accept": [
+          "His car was stolen.",
+          "His car has been stolen.",
+          "He has had his car stolen."
+        ],
+        "explanation": "Przykre zdarzenie: had + stolen."
+      },
+      {
+        "id": "b2-have-something-done-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "get your hair cut|ostrzyc się (u fryzjera)",
+          "have your eyes tested|zbadać wzrok",
+          "have a dress made|uszyć sukienkę (u krawcowej)",
+          "get your car washed|umyć samochód (w myjni)"
+        ],
+        "explanation": "Typowe wyrażenia."
+      }
+    ]
+  },
+  {
+    "id": "b2-have-something-done-3",
+    "topicId": "b2-have-something-done",
+    "exercises": [
+      {
+        "id": "b2-have-something-done-3-01",
+        "type": "choice",
+        "prompt": "Have you ___ the windows cleaned yet?",
+        "answer": "had",
+        "distractors": [
+          "did",
+          "made"
+        ],
+        "explanation": "Have + windows + cleaned."
+      },
+      {
+        "id": "b2-have-something-done-3-02",
+        "type": "choice",
+        "prompt": "I'm going to get my jacket ___.",
+        "answer": "dry-cleaned",
+        "distractors": [
+          "dry-clean",
+          "dry-cleaning"
+        ],
+        "explanation": "Get + jacket + III forma."
+      },
+      {
+        "id": "b2-have-something-done-3-03",
+        "type": "cloze",
+        "prompt": "We must have the heating ___ before winter. (check)",
+        "answer": "checked",
+        "explanation": "Have + heating + checked."
+      },
+      {
+        "id": "b2-have-something-done-3-04",
+        "type": "cloze",
+        "prompt": "She got her bike ___ last week. (steal)",
+        "answer": "stolen",
+        "explanation": "Przykre zdarzenie: got + stolen."
+      },
+      {
+        "id": "b2-have-something-done-3-05",
+        "type": "cloze",
+        "prompt": "Are you going to have your photo ___ by a professional? (take)",
+        "answer": "taken",
+        "explanation": "Have + photo + taken."
+      },
+      {
+        "id": "b2-have-something-done-3-06",
+        "type": "error",
+        "prompt": "I got my phone screen replace.",
+        "answer": [
+          "replace",
+          "replaced"
+        ],
+        "explanation": "Get + rzeczownik + III forma."
+      },
+      {
+        "id": "b2-have-something-done-3-07",
+        "type": "error",
+        "prompt": "She has her nails doing every week.",
+        "answer": [
+          "doing",
+          "done"
+        ],
+        "explanation": "Have + nails + done."
+      },
+      {
+        "id": "b2-have-something-done-3-08",
+        "type": "tiles",
+        "prompt": "Czy zrobiłeś to sam, czy to zleciłeś?",
+        "answer": [
+          "Did",
+          "you",
+          "do",
+          "it",
+          "yourself",
+          "or",
+          "have",
+          "it",
+          "done"
+        ],
+        "distractors": [
+          "make",
+          "did"
+        ],
+        "explanation": "Have it done."
+      },
+      {
+        "id": "b2-have-something-done-3-09",
+        "type": "translate",
+        "prompt": "Muszę wymienić opony.",
+        "answer": "I need to have my tyres changed.",
+        "accept": [
+          "I need to get my tyres changed.",
+          "I have to have my tyres changed.",
+          "I have to get my tyres changed.",
+          "I need to have my tires changed.",
+          "I need to get my tires changed.",
+          "I need to change my tyres.",
+          "I need to change my tires."
+        ],
+        "explanation": "Zlecenie: have / get something done."
+      },
+      {
+        "id": "b2-have-something-done-3-10",
+        "type": "transform",
+        "prompt": "Zamień na „get something done”, zacznij od „I got”.\nSomeone fixed my laptop for me.",
+        "answer": "I got my laptop fixed.",
+        "explanation": "Got + laptop + fixed."
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "topicId": "b2-writing-report",
+  "task": "Dyrektor twojej firmy chce poprawić **warunki pracy w biurze**. Przeprowadziłeś ankietę wśród pracowników. Napisz **raport**:\n\n- opisz cel raportu i źródło danych,\n- przedstaw, co pracownicy oceniają dobrze, a co źle (użyj liczb lub proporcji),\n- zaproponuj co najmniej dwie zmiany,\n- podsumuj.\n\nUżyj nagłówków i stylu formalnego.",
+  "words": [
+    140,
+    190
+  ],
+  "model": "Report on working conditions in the office\n\nIntroduction\nThe aim of this report is to evaluate the working conditions in our office and to suggest some improvements. It is based on a survey of 60 employees carried out in March.\n\nPositive aspects\nThe majority of the respondents are satisfied with the location of the office and the friendly atmosphere. Most people also said that the new coffee machine was a good investment.\n\nProblems\nHowever, a number of problems were identified. Almost half of the employees complained about the noise in the open-plan area, which makes it difficult to concentrate. Furthermore, a third of the respondents said that the chairs were uncomfortable and caused back pain.\n\nRecommendations\nI would recommend creating two quiet rooms where employees can work without interruptions. It would also be a good idea to replace the oldest chairs with ergonomic ones.\n\nConclusion\nIn conclusion, the office is generally a pleasant place to work. If the recommendations are followed, employees will be more productive and more satisfied.",
+  "checklist": [
+    "Raport ma tytuł i nagłówki sekcji.",
+    "Wstęp podaje cel (The aim of this report is to...) i źródło danych (It is based on...).",
+    "Podaję wyniki z liczbami lub proporcjami (the majority of, a third of, 60%).",
+    "Używam strony biernej i stylu bezosobowego (It was found that... / Problems were identified).",
+    "Mam co najmniej dwie rekomendacje (I would recommend + -ing / It would be a good idea to...).",
+    "Zakończenie podsumowuje raport.",
+    "Tekst ma 140–190 słów."
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-article-1",
+  "topicId": "a2-reading-article",
+  "title": "Board games are back",
+  "text": "Twenty years ago, many people thought that board games were old-fashioned. Children played computer games and adults watched TV. But today board games are popular again, especially with young people in their twenties and thirties.\n\nIn many cities there are now board game cafés. You pay a small fee, order a coffee or a sandwich, and choose a game from a big shelf. Some cafés have more than five hundred games! The staff explain the rules, so you don't need to read long instructions.\n\nWhy are people playing again? \"We spend all day looking at screens at work,\" says Zofia, 26, who goes to a board game café in Wrocław every Thursday. \"When I play with my friends, I put my phone away and we talk and laugh. It's more social than playing online.\"\n\nBoard games are also good for families. Parents and children can play together, and children learn to count, plan and wait for their turn. Some games are also good for learning languages.\n\nAnd you don't have to spend a lot of money. You can borrow games from some libraries, or make a simple game at home with paper and pens.",
+  "exercises": [
+    {
+      "id": "a2-reading-article-1-01",
+      "type": "choice",
+      "prompt": "Twenty years ago, board games were very fashionable.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Wtedy uważano je za staromodne: „old-fashioned”."
+    },
+    {
+      "id": "a2-reading-article-1-02",
+      "type": "choice",
+      "prompt": "Some board game cafés have over 500 games.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Some cafés have more than five hundred games!”"
+    },
+    {
+      "id": "a2-reading-article-1-03",
+      "type": "choice",
+      "prompt": "Zofia works as a teacher.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, gdzie Zofia pracuje."
+    },
+    {
+      "id": "a2-reading-article-1-04",
+      "type": "choice",
+      "prompt": "Why does Zofia like board games?",
+      "answer": "She can talk and laugh with friends without her phone.",
+      "distractors": [
+        "She can win money.",
+        "She learns the rules quickly."
+      ],
+      "explanation": "„...I put my phone away and we talk and laugh.”"
+    },
+    {
+      "id": "a2-reading-article-1-05",
+      "type": "choice",
+      "prompt": "In a board game café, who explains the rules?",
+      "answer": "the staff",
+      "distractors": [
+        "other players",
+        "the instructions"
+      ],
+      "explanation": "„The staff explain the rules...”"
+    },
+    {
+      "id": "a2-reading-article-1-06",
+      "type": "choice",
+      "prompt": "How can you play without spending a lot of money?",
+      "answer": "Borrow games from a library.",
+      "distractors": [
+        "Play only on Thursdays.",
+        "Buy games online."
+      ],
+      "explanation": "„You can borrow games from some libraries...”"
+    },
+    {
+      "id": "a2-reading-article-1-07",
+      "type": "cloze",
+      "prompt": "Children learn to count, plan and wait for their ___.",
+      "answer": "turn",
+      "explanation": "Czekać na swoją kolej: wait for your turn."
+    },
+    {
+      "id": "a2-reading-article-1-08",
+      "type": "cloze",
+      "prompt": "You pay a small ___, order a coffee and choose a game.",
+      "answer": "fee",
+      "explanation": "Opłata: fee."
+    },
+    {
+      "id": "a2-reading-article-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "old-fashioned|staromodny",
+        "shelf|półka",
+        "rules|zasady",
+        "social|towarzyski"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

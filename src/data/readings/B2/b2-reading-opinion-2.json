@@ -1,0 +1,115 @@
+{
+  "id": "b2-reading-opinion-2",
+  "topicId": "b2-reading-opinion",
+  "title": "Why I sold my car",
+  "text": "Two years ago, I did something that most of my friends considered completely crazy: I sold my car. I was not forced to do it. I could afford the petrol and the insurance, and I loved driving. But after doing the maths one rainy evening, I realised that my car was costing me far more than I had ever imagined.\n\nWhen I added up everything – fuel, insurance, repairs, parking, the annual service and the money I lost as the car got older – the total came to almost a thousand złoty a month. That is more than I spend on food. And what was I getting for this money? A vehicle that spent ninety-five percent of its life standing still, and the rest of it stuck in traffic.\n\nMy city has decent public transport, so I bought a monthly ticket for a fraction of the cost. For longer journeys, I take the train, which allows me to read, work or simply look out of the window instead of staring at the bumper in front of me. On the rare occasions when I really need a car, for example to move furniture or visit my grandparents in a village without a bus, I rent one for the day. Even with these occasional rentals, I save more than half of what I used to spend.\n\nThe financial benefits were only the beginning, though. Without a car, I started walking and cycling much more, and I lost five kilos in the first year without even trying. I discovered parts of my city I had never noticed through a windscreen: a small bakery, a hidden park, a street full of murals. I also feel less stressed. Missing a bus is annoying, but it is nothing compared with sitting in a traffic jam, knowing you are late for an important meeting.\n\nI am not saying that everyone should get rid of their car tomorrow. For people who live in the countryside, have small children or work night shifts, a car may be essential. Public transport in many smaller towns is simply not good enough, and that is something local authorities urgently need to change.\n\nBut if you live in a city and use your car mainly out of habit, I would encourage you to try an experiment. Leave it at home for a month. Keep a record of how you travel and how much you spend. You may find, as I did, that the freedom a car promises is not quite as free as it seems.",
+  "exercises": [
+    {
+      "id": "b2-reading-opinion-2-01",
+      "type": "choice",
+      "prompt": "The writer sold the car because they could not afford it.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„I could afford the petrol and the insurance.”"
+    },
+    {
+      "id": "b2-reading-opinion-2-02",
+      "type": "choice",
+      "prompt": "The car cost the writer more per month than food.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...almost a thousand złoty a month. That is more than I spend on food.”"
+    },
+    {
+      "id": "b2-reading-opinion-2-03",
+      "type": "choice",
+      "prompt": "The writer's grandparents live in a city.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Mieszkają we wsi bez autobusu."
+    },
+    {
+      "id": "b2-reading-opinion-2-04",
+      "type": "choice",
+      "prompt": "The writer bought a bicycle after selling the car.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi, że więcej jeździ na rowerze, ale nie, że kupił rower."
+    },
+    {
+      "id": "b2-reading-opinion-2-05",
+      "type": "choice",
+      "prompt": "How does the writer travel long distances now?",
+      "answer": "by train",
+      "distractors": [
+        "by rented car",
+        "by bus"
+      ],
+      "explanation": "„For longer journeys, I take the train.”"
+    },
+    {
+      "id": "b2-reading-opinion-2-06",
+      "type": "choice",
+      "prompt": "Which benefit does the writer mention?",
+      "answer": "The writer lost weight.",
+      "distractors": [
+        "The writer found a better job.",
+        "The writer moved to the countryside."
+      ],
+      "explanation": "„I lost five kilos in the first year.”"
+    },
+    {
+      "id": "b2-reading-opinion-2-07",
+      "type": "choice",
+      "prompt": "Who, according to the writer, may really need a car?",
+      "answer": "people who work night shifts",
+      "distractors": [
+        "people who live in big cities",
+        "people who like driving"
+      ],
+      "explanation": "„...have small children or work night shifts, a car may be essential.”"
+    },
+    {
+      "id": "b2-reading-opinion-2-08",
+      "type": "choice",
+      "prompt": "What does the writer suggest city drivers do?",
+      "answer": "leave their car at home for a month",
+      "distractors": [
+        "sell their car immediately",
+        "buy an electric car"
+      ],
+      "explanation": "„Leave it at home for a month.”"
+    },
+    {
+      "id": "b2-reading-opinion-2-09",
+      "type": "cloze",
+      "prompt": "I bought a monthly ticket for a ___ of the cost.",
+      "answer": "fraction",
+      "explanation": "Ułamek: fraction."
+    },
+    {
+      "id": "b2-reading-opinion-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "insurance|ubezpieczenie",
+        "decent|przyzwoity",
+        "windscreen|przednia szyba",
+        "out of habit|z przyzwyczajenia"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

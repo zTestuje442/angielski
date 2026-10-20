@@ -1,0 +1,36 @@
+@import "open-props/sizes";
+@import "open-props/easings";
+
+/* Tokeny z fazy 0 (docs/faza-0). Odstępy i krzywe ruchu z Open Props. */
+:root {
+  --paper:   #E3E8E1;  /* chłodny papier mapy */
+  --raised:  #F1F4EF;  /* pola, panel informacji zwrotnej */
+  --plate:   #FFFFFF;  /* tabliczka drogowskazu, kafelki */
+  --band:    #F6F8F5;  /* biały pas znaku szlaku — taki sam w obu trybach */
+  --ink:     #18201C;
+  --muted:   #4F5B55;
+  --contour: #B4C0B2;  /* poziomice, linie podziału */
+  --focus:   #1F5FBF;
+  --ok:      #1B6B48;
+  --bad:     #A8322C;
+  --A1: #2F8A3F; --A2: #E2B100; --B1: #1F5FBF; --B2: #C42B32; --C1: #111514;
+
+  --font-sign: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-text: "Atkinson Hyperlegible Next Variable", system-ui, sans-serif;
+  --t-xs: 0.875rem;
+  --t-s:  1rem;
+  --t-m:  1.125rem;
+  --t-l:  clamp(1.375rem, 1.2rem + 0.8vw, 1.75rem);
+  --t-xl: clamp(1.75rem, 1.5rem + 1vw, 2.25rem);
+  --radius: 4px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #121815; --raised: #1B2420; --plate: #222C27; --ink: #E2E9E3; --muted: #9AA8A0;
+    --contour: #2E3A34; --focus: #7FB0FF; --ok: #5BC48B; --bad: #F07C72;
+    --A1: #4FB663; --A2: #F2C230; --B1: #6C9CF0; --B2: #EE5A5F; --C1: #0A0C0B;
+    color-scheme: dark;
+  }
+}

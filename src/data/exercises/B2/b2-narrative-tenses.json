@@ -1,0 +1,355 @@
+[
+  {
+    "id": "b2-narrative-tenses-1",
+    "topicId": "b2-narrative-tenses",
+    "exercises": [
+      {
+        "id": "b2-narrative-tenses-1-01",
+        "type": "choice",
+        "prompt": "It was a cold night. Snow ___ and the streets were empty.",
+        "answer": "was falling",
+        "distractors": [
+          "fell",
+          "had fallen"
+        ],
+        "explanation": "Tło: Past Continuous."
+      },
+      {
+        "id": "b2-narrative-tenses-1-02",
+        "type": "choice",
+        "prompt": "I ___ along the street when I heard a scream.",
+        "answer": "was walking",
+        "distractors": [
+          "walked",
+          "had walked"
+        ],
+        "explanation": "Czynność w trakcie: Past Continuous."
+      },
+      {
+        "id": "b2-narrative-tenses-1-03",
+        "type": "cloze",
+        "prompt": "When I got to the station, the train had already ___. (leave)",
+        "answer": "left",
+        "explanation": "Wcześniejsze: had left."
+      },
+      {
+        "id": "b2-narrative-tenses-1-04",
+        "type": "cloze",
+        "prompt": "She opened the door and ___ a stranger. (see)",
+        "answer": "saw",
+        "explanation": "Kolejne wydarzenie: Past Simple."
+      },
+      {
+        "id": "b2-narrative-tenses-1-05",
+        "type": "cloze",
+        "prompt": "While they ___, someone broke in. (sleep)",
+        "answer": "were sleeping",
+        "explanation": "Tło: Past Continuous."
+      },
+      {
+        "id": "b2-narrative-tenses-1-06",
+        "type": "match",
+        "prompt": "Połącz czas z zastosowaniem.",
+        "answer": [
+          "Past Simple|główne wydarzenia po kolei",
+          "Past Continuous|tło, czynność w trakcie",
+          "Past Perfect|wydarzenie wcześniejsze",
+          "Past Perfect Continuous|długa czynność przed innym zdarzeniem"
+        ],
+        "explanation": "Czasy w opowiadaniu."
+      },
+      {
+        "id": "b2-narrative-tenses-1-07",
+        "type": "error",
+        "prompt": "The sun shined and the birds were singing.",
+        "answer": [
+          "shined",
+          "was shining"
+        ],
+        "accept": [
+          "shone"
+        ],
+        "explanation": "Tło: was shining (albo shone)."
+      },
+      {
+        "id": "b2-narrative-tenses-1-08",
+        "type": "tiles",
+        "prompt": "Kiedy zadzwonił telefon, brałem prysznic.",
+        "answer": [
+          "I",
+          "was",
+          "having",
+          "a",
+          "shower",
+          "when",
+          "the",
+          "phone",
+          "rang"
+        ],
+        "distractors": [
+          "had",
+          "ringing"
+        ],
+        "explanation": "Tło + zdarzenie."
+      },
+      {
+        "id": "b2-narrative-tenses-1-09",
+        "type": "translate",
+        "prompt": "Kiedy przyszedłem, wszyscy już wyszli.",
+        "answer": "When I arrived, everyone had already left.",
+        "accept": [
+          "When I arrived, everybody had already left.",
+          "Everyone had already left when I arrived.",
+          "Everybody had already left when I arrived.",
+          "When I got there, everyone had already left."
+        ],
+        "explanation": "Wcześniejsze: had left."
+      },
+      {
+        "id": "b2-narrative-tenses-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „when” (oglądanie to tło).\nWe watched TV. Someone knocked.",
+        "answer": "We were watching TV when someone knocked.",
+        "accept": [
+          "We were watching TV when someone knocked at the door.",
+          "When someone knocked, we were watching TV."
+        ],
+        "explanation": "Tło: were watching; zdarzenie: knocked."
+      }
+    ]
+  },
+  {
+    "id": "b2-narrative-tenses-2",
+    "topicId": "b2-narrative-tenses",
+    "exercises": [
+      {
+        "id": "b2-narrative-tenses-2-01",
+        "type": "cloze",
+        "prompt": "The match ___ by the time we got to the stadium. (start)",
+        "answer": "had started",
+        "explanation": "Wcześniejsze: had started."
+      },
+      {
+        "id": "b2-narrative-tenses-2-02",
+        "type": "cloze",
+        "prompt": "I ___ home when I realised I had forgotten my bag. (drive)",
+        "answer": "was driving",
+        "explanation": "Tło: was driving."
+      },
+      {
+        "id": "b2-narrative-tenses-2-03",
+        "type": "choice",
+        "prompt": "She was angry because she ___ for an hour.",
+        "answer": "had been waiting",
+        "distractors": [
+          "was waiting",
+          "has waited"
+        ],
+        "explanation": "Długa czynność wcześniej: had been waiting."
+      },
+      {
+        "id": "b2-narrative-tenses-2-04",
+        "type": "choice",
+        "prompt": "He ___ the window, jumped out and ran away.",
+        "answer": "opened",
+        "distractors": [
+          "was opening",
+          "had been opening"
+        ],
+        "explanation": "Wydarzenia po kolei: Past Simple."
+      },
+      {
+        "id": "b2-narrative-tenses-2-05",
+        "type": "choice",
+        "prompt": "It ___ all night, so the roads were flooded.",
+        "answer": "had been raining",
+        "distractors": [
+          "has been raining",
+          "rains"
+        ],
+        "explanation": "Długa czynność wcześniej: had been raining."
+      },
+      {
+        "id": "b2-narrative-tenses-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because” i użyj Past Perfect.\nI recognised her. I met her before.",
+        "answer": "I recognised her because I had met her before.",
+        "explanation": "Wcześniejsze: had met."
+      },
+      {
+        "id": "b2-narrative-tenses-2-07",
+        "type": "tiles",
+        "prompt": "Słońce świeciło, a ptaki śpiewały.",
+        "answer": [
+          "The",
+          "sun",
+          "was",
+          "shining",
+          "and",
+          "the",
+          "birds",
+          "were",
+          "singing"
+        ],
+        "distractors": [
+          "had",
+          "been"
+        ],
+        "explanation": "Tło: Past Continuous."
+      },
+      {
+        "id": "b2-narrative-tenses-2-08",
+        "type": "error",
+        "prompt": "By the time she arrived, we finish dinner.",
+        "answer": [
+          "finish",
+          "had finished"
+        ],
+        "explanation": "Wcześniejsze: had finished."
+      },
+      {
+        "id": "b2-narrative-tenses-2-09",
+        "type": "translate",
+        "prompt": "Szedłem do domu, kiedy zaczęło padać.",
+        "answer": "I was walking home when it started to rain.",
+        "accept": [
+          "I was walking home when it began to rain.",
+          "I was going home when it started to rain.",
+          "I was going home when it began to rain."
+        ],
+        "explanation": "Tło + zdarzenie."
+      },
+      {
+        "id": "b2-narrative-tenses-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "once upon a time|dawno, dawno temu",
+          "suddenly|nagle",
+          "by the time|zanim, do czasu gdy",
+          "meanwhile|w międzyczasie"
+        ],
+        "explanation": "Słowa porządkujące opowieść."
+      }
+    ]
+  },
+  {
+    "id": "b2-narrative-tenses-3",
+    "topicId": "b2-narrative-tenses",
+    "exercises": [
+      {
+        "id": "b2-narrative-tenses-3-01",
+        "type": "cloze",
+        "prompt": "As soon as she ___ the news, she called her mother. (hear)",
+        "answer": "heard",
+        "explanation": "Kolejne wydarzenie: Past Simple."
+      },
+      {
+        "id": "b2-narrative-tenses-3-02",
+        "type": "cloze",
+        "prompt": "They ___ in London for ten years before they moved to Kraków. (live)",
+        "answer": "had lived",
+        "accept": [
+          "had been living"
+        ],
+        "explanation": "Wcześniejsze: had lived."
+      },
+      {
+        "id": "b2-narrative-tenses-3-03",
+        "type": "choice",
+        "prompt": "I ___ dinner when the guests arrived, so I asked them to wait.",
+        "answer": "was still cooking",
+        "distractors": [
+          "still cooked",
+          "had still cooking"
+        ],
+        "explanation": "W trakcie: was cooking."
+      },
+      {
+        "id": "b2-narrative-tenses-3-04",
+        "type": "choice",
+        "prompt": "He ___ the sea until he was 20.",
+        "answer": "had never seen",
+        "distractors": [
+          "never had seen",
+          "has never seen"
+        ],
+        "explanation": "Wcześniej: had never seen."
+      },
+      {
+        "id": "b2-narrative-tenses-3-05",
+        "type": "choice",
+        "prompt": "We ___ for twenty minutes when the car broke down.",
+        "answer": "had been driving",
+        "distractors": [
+          "have been driving",
+          "drove"
+        ],
+        "explanation": "Długa czynność przed zdarzeniem."
+      },
+      {
+        "id": "b2-narrative-tenses-3-06",
+        "type": "tiles",
+        "prompt": "Kiedy się obudziłem, przestało już padać.",
+        "answer": [
+          "When",
+          "I",
+          "woke",
+          "up",
+          "it",
+          "had",
+          "stopped",
+          "raining"
+        ],
+        "distractors": [
+          "has",
+          "stops"
+        ],
+        "explanation": "Wcześniejsze: had stopped."
+      },
+      {
+        "id": "b2-narrative-tenses-3-07",
+        "type": "error",
+        "prompt": "While I was reading, the cat jump on the table.",
+        "answer": [
+          "jump",
+          "jumped"
+        ],
+        "explanation": "Zdarzenie: Past Simple."
+      },
+      {
+        "id": "b2-narrative-tenses-3-08",
+        "type": "error",
+        "prompt": "I couldn't get in because I have lost my key.",
+        "answer": [
+          "have",
+          "had"
+        ],
+        "explanation": "Wcześniejsze: had lost."
+      },
+      {
+        "id": "b2-narrative-tenses-3-09",
+        "type": "translate",
+        "prompt": "Gdy dotarliśmy na plażę, słońce już zaszło.",
+        "answer": "When we got to the beach, the sun had already set.",
+        "accept": [
+          "When we reached the beach, the sun had already set.",
+          "The sun had already set when we got to the beach.",
+          "When we arrived at the beach, the sun had already set."
+        ],
+        "explanation": "Wcześniejsze: had set."
+      },
+      {
+        "id": "b2-narrative-tenses-3-10",
+        "type": "transform",
+        "prompt": "Połącz w jedno zdanie, użyj „while” i Past Continuous.\nI was jogging. I found a wallet.",
+        "answer": "I found a wallet while I was jogging.",
+        "accept": [
+          "While I was jogging, I found a wallet.",
+          "While I was jogging I found a wallet."
+        ],
+        "explanation": "Tło po while."
+      }
+    ]
+  }
+]

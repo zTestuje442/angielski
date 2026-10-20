@@ -1,0 +1,343 @@
+[
+  {
+    "id": "c1-advanced-determiners-1",
+    "topicId": "c1-advanced-determiners",
+    "exercises": [
+      {
+        "id": "c1-advanced-determiners-1-01",
+        "type": "cloze",
+        "prompt": "___ of the two options is perfect. (żadna)",
+        "answer": "Neither",
+        "explanation": "Neither of + czasownik w l. poj."
+      },
+      {
+        "id": "c1-advanced-determiners-1-02",
+        "type": "cloze",
+        "prompt": "I go to the gym every ___ day. (co drugi)",
+        "answer": "other",
+        "explanation": "Every other day."
+      },
+      {
+        "id": "c1-advanced-determiners-1-03",
+        "type": "choice",
+        "prompt": "I spent the ___ day cleaning.",
+        "answer": "whole",
+        "distractors": [
+          "all",
+          "every"
+        ],
+        "explanation": "The whole day."
+      },
+      {
+        "id": "c1-advanced-determiners-1-04",
+        "type": "choice",
+        "prompt": "Very ___ people came, so the event was cancelled.",
+        "answer": "few",
+        "distractors": [
+          "a few",
+          "little"
+        ],
+        "explanation": "Few = mało (negatywnie)."
+      },
+      {
+        "id": "c1-advanced-determiners-1-05",
+        "type": "choice",
+        "prompt": "___ of the students gets a certificate.",
+        "answer": "Each",
+        "distractors": [
+          "Every",
+          "All"
+        ],
+        "explanation": "Each of + l. poj."
+      },
+      {
+        "id": "c1-advanced-determiners-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "few|mało (za mało)",
+          "a few|kilka",
+          "quite a few|sporo",
+          "very few|bardzo mało"
+        ],
+        "explanation": "Few i warianty."
+      },
+      {
+        "id": "c1-advanced-determiners-1-07",
+        "type": "error",
+        "prompt": "Every of the employees received a bonus.",
+        "answer": [
+          "Every",
+          "Each"
+        ],
+        "explanation": "Every nie łączy się z of."
+      },
+      {
+        "id": "c1-advanced-determiners-1-08",
+        "type": "tiles",
+        "prompt": "Żadne z nich nie przyszło.",
+        "answer": [
+          "None",
+          "of",
+          "them",
+          "came"
+        ],
+        "distractors": [
+          "No",
+          "Nobody"
+        ],
+        "explanation": "None of."
+      },
+      {
+        "id": "c1-advanced-determiners-1-09",
+        "type": "translate",
+        "prompt": "Możesz usiąść na którymkolwiek z tych krzeseł.",
+        "answer": "You can sit on either of these chairs.",
+        "accept": [
+          "You can sit on either chair.",
+          "You can sit on any of these chairs.",
+          "You can sit in either of these chairs.",
+          "You can sit on either of those chairs."
+        ],
+        "explanation": "Either – którykolwiek z dwóch."
+      },
+      {
+        "id": "c1-advanced-determiners-1-10",
+        "type": "transform",
+        "prompt": "Przepisz z „Neither”.\nBoth answers are wrong.",
+        "answer": "Neither answer is correct.",
+        "accept": [
+          "Neither of the answers is correct.",
+          "Neither answer is right.",
+          "Neither of the answers is right."
+        ],
+        "explanation": "Neither + l. poj."
+      }
+    ]
+  },
+  {
+    "id": "c1-advanced-determiners-2",
+    "topicId": "c1-advanced-determiners",
+    "exercises": [
+      {
+        "id": "c1-advanced-determiners-2-01",
+        "type": "cloze",
+        "prompt": "I have ___ time to waste. (żadnego)",
+        "answer": "no",
+        "explanation": "No + rzeczownik."
+      },
+      {
+        "id": "c1-advanced-determiners-2-02",
+        "type": "cloze",
+        "prompt": "There's a ___ milk left – enough for coffee. (trochę)",
+        "answer": "little",
+        "explanation": "A little = trochę (pozytywnie)."
+      },
+      {
+        "id": "c1-advanced-determiners-2-03",
+        "type": "choice",
+        "prompt": "Some people like summer; ___ prefer winter.",
+        "answer": "others",
+        "distractors": [
+          "other",
+          "another"
+        ],
+        "explanation": "Others – samodzielnie."
+      },
+      {
+        "id": "c1-advanced-determiners-2-04",
+        "type": "choice",
+        "prompt": "Would you like ___ cup of tea?",
+        "answer": "another",
+        "distractors": [
+          "other",
+          "others"
+        ],
+        "explanation": "Another + l. poj."
+      },
+      {
+        "id": "c1-advanced-determiners-2-05",
+        "type": "choice",
+        "prompt": "We invited Tom and Kate. ___ came.",
+        "answer": "Neither",
+        "distractors": [
+          "None",
+          "No"
+        ],
+        "explanation": "Z dwóch: neither."
+      },
+      {
+        "id": "c1-advanced-determiners-2-06",
+        "type": "transform",
+        "prompt": "Użyj „the latter”.\nI like tea and coffee, but I prefer coffee.",
+        "answer": "I like tea and coffee, but I prefer the latter.",
+        "explanation": "The latter – ten drugi."
+      },
+      {
+        "id": "c1-advanced-determiners-2-07",
+        "type": "transform",
+        "prompt": "Użyj „quite a few”.\nQuite a lot of people complained.",
+        "answer": "Quite a few people complained.",
+        "explanation": "Quite a few = sporo."
+      },
+      {
+        "id": "c1-advanced-determiners-2-08",
+        "type": "tiles",
+        "prompt": "Wiele osób próbowało i poniosło porażkę.",
+        "answer": [
+          "Many",
+          "a",
+          "man",
+          "has",
+          "tried",
+          "and",
+          "failed"
+        ],
+        "distractors": [
+          "have",
+          "men"
+        ],
+        "explanation": "Many a + l. poj."
+      },
+      {
+        "id": "c1-advanced-determiners-2-09",
+        "type": "error",
+        "prompt": "Neither of my parents speak English.",
+        "answer": [
+          "speak",
+          "speaks"
+        ],
+        "explanation": "Neither of + czasownik w l. poj."
+      },
+      {
+        "id": "c1-advanced-determiners-2-10",
+        "type": "translate",
+        "prompt": "Autobusy jeżdżą co dziesięć minut.",
+        "answer": "The buses run every ten minutes.",
+        "accept": [
+          "Buses run every ten minutes.",
+          "The buses go every ten minutes.",
+          "Buses go every ten minutes.",
+          "The buses come every ten minutes.",
+          "Buses come every ten minutes.",
+          "There is a bus every ten minutes."
+        ],
+        "explanation": "Every + liczba + l. mn."
+      }
+    ]
+  },
+  {
+    "id": "c1-advanced-determiners-3",
+    "topicId": "c1-advanced-determiners",
+    "exercises": [
+      {
+        "id": "c1-advanced-determiners-3-01",
+        "type": "choice",
+        "prompt": "I've read ___ of his books, and I liked them all.",
+        "answer": "both",
+        "distractors": [
+          "either",
+          "neither"
+        ],
+        "explanation": "Both – oba."
+      },
+      {
+        "id": "c1-advanced-determiners-3-02",
+        "type": "choice",
+        "prompt": "There's very ___ hope of finding survivors.",
+        "answer": "little",
+        "distractors": [
+          "few",
+          "a few"
+        ],
+        "explanation": "Little + niepoliczalne."
+      },
+      {
+        "id": "c1-advanced-determiners-3-03",
+        "type": "cloze",
+        "prompt": "___ a student has fallen asleep in his lectures. (wielu – literacko)",
+        "answer": "Many",
+        "explanation": "Many a + l. poj."
+      },
+      {
+        "id": "c1-advanced-determiners-3-04",
+        "type": "cloze",
+        "prompt": "We have two cars. One is red and the ___ is black.",
+        "answer": "other",
+        "explanation": "The other – ten drugi."
+      },
+      {
+        "id": "c1-advanced-determiners-3-05",
+        "type": "cloze",
+        "prompt": "___ one of you will receive a prize. (każdy z osobna)",
+        "answer": "Each",
+        "accept": [
+          "Every"
+        ],
+        "explanation": "Each – każdy z osobna."
+      },
+      {
+        "id": "c1-advanced-determiners-3-06",
+        "type": "match",
+        "prompt": "Połącz określniki z tłumaczeniem.",
+        "answer": [
+          "the former|ten pierwszy (z dwóch)",
+          "the latter|ten drugi (z dwóch)",
+          "either|którykolwiek z dwóch",
+          "neither|żaden z dwóch"
+        ],
+        "explanation": "Określniki."
+      },
+      {
+        "id": "c1-advanced-determiners-3-07",
+        "type": "error",
+        "prompt": "I'd like an other chance.",
+        "answer": [
+          "other",
+          "another"
+        ],
+        "explanation": "Another – jedno słowo."
+      },
+      {
+        "id": "c1-advanced-determiners-3-08",
+        "type": "error",
+        "prompt": "All the people was waiting outside.",
+        "answer": [
+          "was",
+          "were"
+        ],
+        "explanation": "All the people + l. mn."
+      },
+      {
+        "id": "c1-advanced-determiners-3-09",
+        "type": "tiles",
+        "prompt": "Mam tu kilku przyjaciół.",
+        "answer": [
+          "I",
+          "have",
+          "a",
+          "few",
+          "friends",
+          "here"
+        ],
+        "distractors": [
+          "little",
+          "fews"
+        ],
+        "explanation": "A few – kilka."
+      },
+      {
+        "id": "c1-advanced-determiners-3-10",
+        "type": "translate",
+        "prompt": "Żadna z odpowiedzi nie jest poprawna.",
+        "answer": "None of the answers is correct.",
+        "accept": [
+          "None of the answers are correct.",
+          "None of the answers is right.",
+          "None of the answers are right."
+        ],
+        "explanation": "None of."
+      }
+    ]
+  }
+]

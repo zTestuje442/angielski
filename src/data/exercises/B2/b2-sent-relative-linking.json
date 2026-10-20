@@ -1,0 +1,333 @@
+[
+  {
+    "id": "b2-sent-relative-linking-1",
+    "topicId": "b2-sent-relative-linking",
+    "exercises": [
+      {
+        "id": "b2-sent-relative-linking-1-01",
+        "type": "cloze",
+        "prompt": "I have three brothers, all of ___ live abroad.",
+        "answer": "whom",
+        "explanation": "Ludzie po przyimku: whom."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-02",
+        "type": "cloze",
+        "prompt": "He wrote ten books, two of ___ became bestsellers.",
+        "answer": "which",
+        "explanation": "Rzeczy po przyimku: which."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-03",
+        "type": "choice",
+        "prompt": "This is the company ___ I work.",
+        "answer": "for which",
+        "distractors": [
+          "for that",
+          "which"
+        ],
+        "explanation": "Przyimek + which."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-04",
+        "type": "choice",
+        "prompt": "The man ___ by the door is my boss.",
+        "answer": "standing",
+        "distractors": [
+          "stands",
+          "stood by"
+        ],
+        "explanation": "Skrócenie: standing."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-05",
+        "type": "choice",
+        "prompt": "The train was late, ___ meant we missed the start.",
+        "answer": "which",
+        "distractors": [
+          "that",
+          "what"
+        ],
+        "explanation": "Which o całym zdaniu."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "all of whom|z których wszyscy",
+          "some of which|z których niektóre",
+          "none of whom|z których żaden",
+          "both of which|z których oba"
+        ],
+        "explanation": "Kwantyfikatory + of which / of whom."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-07",
+        "type": "error",
+        "prompt": "The person to who I spoke was very helpful.",
+        "answer": [
+          "who",
+          "whom"
+        ],
+        "explanation": "Po przyimku: whom."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-08",
+        "type": "tiles",
+        "prompt": "Samochód zaparkowany przed domem jest mój.",
+        "answer": [
+          "The",
+          "car",
+          "parked",
+          "outside",
+          "the",
+          "house",
+          "is",
+          "mine"
+        ],
+        "distractors": [
+          "parking",
+          "which"
+        ],
+        "explanation": "Skrócenie bierne: parked."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-09",
+        "type": "translate",
+        "prompt": "Znam powód, dla którego odszedł.",
+        "answer": "I know the reason why he left.",
+        "accept": [
+          "I know why he left.",
+          "I know the reason he left.",
+          "I know the reason that he left."
+        ],
+        "explanation": "The reason why."
+      },
+      {
+        "id": "b2-sent-relative-linking-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania za pomocą „who”.\nI met a woman. She works for NASA.",
+        "answer": "I met a woman who works for NASA.",
+        "explanation": "Who łączy zdania."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-relative-linking-2",
+    "topicId": "b2-sent-relative-linking",
+    "exercises": [
+      {
+        "id": "b2-sent-relative-linking-2-01",
+        "type": "cloze",
+        "prompt": "The documents ___ on the desk are for you. (leżące)",
+        "answer": "lying",
+        "explanation": "Skrócenie czynne: lying."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-02",
+        "type": "cloze",
+        "prompt": "She has two cats, both of ___ are black.",
+        "answer": "which",
+        "explanation": "Rzeczy/zwierzęta: of which."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-03",
+        "type": "choice",
+        "prompt": "The hotel ___ we stayed was lovely.",
+        "answer": "where",
+        "distractors": [
+          "which",
+          "that"
+        ],
+        "explanation": "Miejsce: where (albo in which)."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-04",
+        "type": "choice",
+        "prompt": "I'll never forget the day ___ we met.",
+        "answer": "when",
+        "distractors": [
+          "where",
+          "which"
+        ],
+        "explanation": "Czas: when."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-05",
+        "type": "choice",
+        "prompt": "The students, most of ___ were tired, left early.",
+        "answer": "whom",
+        "distractors": [
+          "who",
+          "them"
+        ],
+        "explanation": "Most of whom."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „whose”.\nThat's the man. His car was stolen.",
+        "answer": "That's the man whose car was stolen.",
+        "accept": [
+          "That is the man whose car was stolen."
+        ],
+        "explanation": "Whose."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-07",
+        "type": "transform",
+        "prompt": "Skróć zdanie względne do imiesłowu.\nThe woman who is talking to Tom is my aunt.",
+        "answer": "The woman talking to Tom is my aunt.",
+        "explanation": "Who is talking → talking."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-08",
+        "type": "tiles",
+        "prompt": "Dom zbudowany w 1900 roku jest na sprzedaż.",
+        "answer": [
+          "The",
+          "house",
+          "built",
+          "in",
+          "1900",
+          "is",
+          "for",
+          "sale"
+        ],
+        "distractors": [
+          "building",
+          "who"
+        ],
+        "explanation": "Skrócenie bierne: built."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-09",
+        "type": "error",
+        "prompt": "I have many friends, most of them live in Kraków.",
+        "answer": [
+          "them",
+          "whom"
+        ],
+        "explanation": "Most of whom."
+      },
+      {
+        "id": "b2-sent-relative-linking-2-10",
+        "type": "translate",
+        "prompt": "Mam dwie siostry, z których obie są nauczycielkami.",
+        "answer": "I have two sisters, both of whom are teachers.",
+        "explanation": "Both of whom."
+      }
+    ]
+  },
+  {
+    "id": "b2-sent-relative-linking-3",
+    "topicId": "b2-sent-relative-linking",
+    "exercises": [
+      {
+        "id": "b2-sent-relative-linking-3-01",
+        "type": "cloze",
+        "prompt": "This is the house in ___ I was born.",
+        "answer": "which",
+        "explanation": "Przyimek + which."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-02",
+        "type": "cloze",
+        "prompt": "The people ___ at the party were very friendly. (zaproszeni)",
+        "answer": "invited",
+        "explanation": "Skrócenie bierne: invited."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-03",
+        "type": "choice",
+        "prompt": "He gave me some advice, ___ was very useful.",
+        "answer": "which",
+        "distractors": [
+          "that",
+          "what"
+        ],
+        "explanation": "Niedefiniujące: which."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-04",
+        "type": "choice",
+        "prompt": "The woman ___ son plays in the band is my neighbour.",
+        "answer": "whose",
+        "distractors": [
+          "who's",
+          "which"
+        ],
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-05",
+        "type": "choice",
+        "prompt": "There were 20 candidates, none of ___ had any experience.",
+        "answer": "whom",
+        "distractors": [
+          "who",
+          "them"
+        ],
+        "explanation": "None of whom."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-06",
+        "type": "match",
+        "prompt": "Połącz skróconą formę z pełną.",
+        "answer": [
+          "the man standing there|the man who is standing there",
+          "the car parked outside|the car which was parked outside",
+          "a letter written in 1900|a letter which was written in 1900"
+        ],
+        "explanation": "Skrócone i pełne zdania względne."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-07",
+        "type": "error",
+        "prompt": "Anyone wanting to join should contacting me.",
+        "answer": [
+          "contacting",
+          "contact"
+        ],
+        "explanation": "Should + forma podstawowa."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-08",
+        "type": "tiles",
+        "prompt": "To jest człowiek, z którym rozmawiałem.",
+        "answer": [
+          "This",
+          "is",
+          "the",
+          "man",
+          "I",
+          "talked",
+          "to"
+        ],
+        "distractors": [
+          "who's",
+          "whose"
+        ],
+        "explanation": "Przyimek na końcu w stylu potocznym."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-09",
+        "type": "translate",
+        "prompt": "Kupiłem dziesięć jabłek, z których trzy były zepsute.",
+        "answer": "I bought ten apples, three of which were rotten.",
+        "accept": [
+          "I bought ten apples, three of which were bad."
+        ],
+        "explanation": "Three of which."
+      },
+      {
+        "id": "b2-sent-relative-linking-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „which” o całym zdaniu.\nShe passed all her exams. This made her parents happy.",
+        "answer": "She passed all her exams, which made her parents happy.",
+        "explanation": "Which odnosi się do całego zdania."
+      }
+    ]
+  }
+]

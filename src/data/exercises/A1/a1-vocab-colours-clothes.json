@@ -1,0 +1,329 @@
+[
+  {
+    "id": "a1-vocab-colours-clothes-1",
+    "topicId": "a1-vocab-colours-clothes",
+    "exercises": [
+      {
+        "id": "a1-vocab-colours-clothes-1-01",
+        "type": "match",
+        "prompt": "Połącz kolory z tłumaczeniem.",
+        "answer": [
+          "red|czerwony",
+          "green|zielony",
+          "yellow|żółty",
+          "blue|niebieski"
+        ],
+        "explanation": "Podstawowe kolory."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-02",
+        "type": "choice",
+        "prompt": "Grass is ___.",
+        "answer": "green",
+        "distractors": [
+          "blue",
+          "pink"
+        ],
+        "explanation": "Trawa jest zielona."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-03",
+        "type": "choice",
+        "prompt": "Snow is ___.",
+        "answer": "white",
+        "distractors": [
+          "black",
+          "brown"
+        ],
+        "explanation": "Śnieg jest biały."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-04",
+        "type": "cloze",
+        "prompt": "The sky is ___ on a sunny day.",
+        "answer": "blue",
+        "explanation": "Niebo jest niebieskie."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-05",
+        "type": "cloze",
+        "prompt": "Bananas are ___.",
+        "answer": "yellow",
+        "explanation": "Banany są żółte."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-06",
+        "type": "error",
+        "prompt": "My new bike is greeen.",
+        "answer": [
+          "greeen",
+          "green"
+        ],
+        "explanation": "Pisownia: green."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-07",
+        "type": "tiles",
+        "prompt": "Mój ulubiony kolor to fioletowy.",
+        "answer": [
+          "My",
+          "favourite",
+          "colour",
+          "is",
+          "purple"
+        ],
+        "explanation": "Fioletowy = purple; po brytyjsku favourite, colour."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-08",
+        "type": "translate",
+        "prompt": "Ona ma czarny samochód.",
+        "answer": "She has got a black car.",
+        "accept": [
+          "She has a black car."
+        ],
+        "explanation": "Kolor przed rzeczownikiem."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-09",
+        "type": "match",
+        "prompt": "Połącz kolory z tłumaczeniem.",
+        "answer": [
+          "grey|szary",
+          "brown|brązowy",
+          "pink|różowy",
+          "orange|pomarańczowy"
+        ],
+        "explanation": "Kolejne kolory."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-1-10",
+        "type": "choice",
+        "prompt": "Red and white make ___.",
+        "answer": "pink",
+        "distractors": [
+          "purple",
+          "orange"
+        ],
+        "explanation": "Czerwony z białym daje różowy."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-colours-clothes-2",
+    "topicId": "a1-vocab-colours-clothes",
+    "exercises": [
+      {
+        "id": "a1-vocab-colours-clothes-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "shirt|koszula",
+          "trousers|spodnie",
+          "dress|sukienka",
+          "shoes|buty"
+        ],
+        "explanation": "Podstawowe ubrania."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-02",
+        "type": "choice",
+        "prompt": "You wear ___ on your feet.",
+        "answer": "socks",
+        "distractors": [
+          "gloves",
+          "a hat"
+        ],
+        "explanation": "Na stopach nosimy skarpetki."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-03",
+        "type": "choice",
+        "prompt": "You wear a ___ on your head.",
+        "answer": "hat",
+        "distractors": [
+          "scarf",
+          "belt"
+        ],
+        "explanation": "Na głowie nosimy kapelusz/czapkę."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-04",
+        "type": "cloze",
+        "prompt": "It's cold. Put on your ___. (kurtka)",
+        "answer": "jacket",
+        "accept": [
+          "coat"
+        ],
+        "explanation": "Kurtka = jacket."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-05",
+        "type": "cloze",
+        "prompt": "I wear ___ in summer because it's hot. (krótkie spodenki)",
+        "answer": "shorts",
+        "explanation": "Krótkie spodenki = shorts."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-06",
+        "type": "error",
+        "prompt": "I need new glove for winter.",
+        "answer": [
+          "glove",
+          "gloves"
+        ],
+        "explanation": "Rękawiczki noszą się w parze: gloves."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-07",
+        "type": "tiles",
+        "prompt": "On ma na sobie niebieską koszulę.",
+        "answer": [
+          "He",
+          "is",
+          "wearing",
+          "a",
+          "blue",
+          "shirt"
+        ],
+        "explanation": "Mieć na sobie teraz: is wearing."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-08",
+        "type": "translate",
+        "prompt": "Gdzie są moje buty?",
+        "answer": "Where are my shoes?",
+        "explanation": "Shoes – liczba mnoga, więc are."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-09",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nscarf",
+        "answer": "scarves",
+        "accept": [
+          "scarfs"
+        ],
+        "explanation": "Scarf – scarves."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-2-10",
+        "type": "choice",
+        "prompt": "Which do you wear in winter?",
+        "answer": "a warm coat",
+        "distractors": [
+          "shorts",
+          "sandals"
+        ],
+        "explanation": "Zimą nosimy ciepły płaszcz."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-colours-clothes-3",
+    "topicId": "a1-vocab-colours-clothes",
+    "exercises": [
+      {
+        "id": "a1-vocab-colours-clothes-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "sweater|sweter",
+          "skirt|spódnica",
+          "boots|kozaki",
+          "cap|czapka z daszkiem"
+        ],
+        "explanation": "Kolejne ubrania."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-02",
+        "type": "cloze",
+        "prompt": "These shoes are too ___. I need a bigger size.",
+        "answer": "small",
+        "explanation": "Potrzebny większy rozmiar, bo są za małe."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-03",
+        "type": "cloze",
+        "prompt": "What ___ is your dress? — It's red.",
+        "answer": "colour",
+        "accept": [
+          "color"
+        ],
+        "explanation": "Pytanie o kolor: What colour...?"
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-04",
+        "type": "choice",
+        "prompt": "Can I try on this shirt? — Yes, the ___ room is over there.",
+        "answer": "changing",
+        "distractors": [
+          "trying",
+          "dressing up"
+        ],
+        "explanation": "Przymierzalnia to changing room."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-05",
+        "type": "choice",
+        "prompt": "This T-shirt is too big. Have you got a ___ size?",
+        "answer": "smaller",
+        "distractors": [
+          "bigger",
+          "longer"
+        ],
+        "explanation": "Za duża, więc mniejszy rozmiar."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-06",
+        "type": "error",
+        "prompt": "She is wearing a red skirt and black sock.",
+        "answer": [
+          "sock",
+          "socks"
+        ],
+        "explanation": "Skarpetki nosimy w parze: socks."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-07",
+        "type": "tiles",
+        "prompt": "Lubię twoją nową sukienkę.",
+        "answer": [
+          "I",
+          "like",
+          "your",
+          "new",
+          "dress"
+        ],
+        "explanation": "Sukienka = dress."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-08",
+        "type": "translate",
+        "prompt": "Ile kosztuje ta kurtka?",
+        "answer": "How much is this jacket?",
+        "accept": [
+          "How much does this jacket cost?"
+        ],
+        "explanation": "Cena: How much is...?"
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nThe trousers are long.",
+        "answer": "The trousers are short.",
+        "explanation": "Long – short."
+      },
+      {
+        "id": "a1-vocab-colours-clothes-3-10",
+        "type": "choice",
+        "prompt": "Put on your ___. It's raining.",
+        "answer": "raincoat",
+        "distractors": [
+          "swimsuit",
+          "pyjamas"
+        ],
+        "explanation": "Na deszcz: płaszcz przeciwdeszczowy."
+      }
+    ]
+  }
+]

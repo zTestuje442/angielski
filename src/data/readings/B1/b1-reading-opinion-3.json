@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-opinion-3",
+  "topicId": "b1-reading-opinion",
+  "title": "Living in a tourist city",
+  "text": "I was born in Kraków's Old Town and I've lived here all my life. When I was a child, our street was quiet. Old ladies sat on benches, and everybody knew the baker by name. Today, the same street has three souvenir shops, two cafés with menus in six languages and a constant stream of people pulling suitcases over the cobblestones.\n\nMany of my neighbours have moved out. Some couldn't afford the rising rents; others sold their flats to people who now rent them to tourists for a few nights at a time. At weekends, groups celebrating birthdays and stag parties sing in the street until three in the morning. It's not easy to sleep when you have to get up for work at six.\n\nBut I don't want to be one of those people who only complain. Tourism has brought a lot of good things too. Thousands of local people have jobs because of it – in hotels, restaurants, museums and shops. Many old buildings that were falling apart in the 1990s have been beautifully renovated. And I love hearing so many languages around me; it makes me feel that my city is part of the world.\n\nWhat we need is balance. In my opinion, the city should limit the number of short-term rentals in the centre, so that ordinary people can afford to live there. It should also enforce rules about noise at night. Tourists, for their part, could remember that the Old Town isn't just a theme park – people live, work and sleep here.\n\nI'll always love my city. I just want it to remain a real place, not only a beautiful background for photos.",
+  "exercises": [
+    {
+      "id": "b1-reading-opinion-3-01",
+      "type": "choice",
+      "prompt": "The writer has always lived in the Old Town.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„I was born in Kraków's Old Town and I've lived here all my life.”"
+    },
+    {
+      "id": "b1-reading-opinion-3-02",
+      "type": "choice",
+      "prompt": "All the writer's neighbours still live on the same street.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„Many of my neighbours have moved out.”"
+    },
+    {
+      "id": "b1-reading-opinion-3-03",
+      "type": "choice",
+      "prompt": "The writer works in a hotel.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, gdzie autor pracuje."
+    },
+    {
+      "id": "b1-reading-opinion-3-04",
+      "type": "choice",
+      "prompt": "Why did some neighbours move out?",
+      "answer": "They couldn't pay the higher rents.",
+      "distractors": [
+        "They wanted a bigger flat.",
+        "They opened souvenir shops."
+      ],
+      "explanation": "„Some couldn't afford the rising rents...”"
+    },
+    {
+      "id": "b1-reading-opinion-3-05",
+      "type": "choice",
+      "prompt": "What does the writer think is good about tourism?",
+      "answer": "It creates jobs and helps renovate buildings.",
+      "distractors": [
+        "It makes the streets quieter.",
+        "It lowers the rents."
+      ],
+      "explanation": "„Thousands of local people have jobs... beautifully renovated.”"
+    },
+    {
+      "id": "b1-reading-opinion-3-06",
+      "type": "choice",
+      "prompt": "What does the writer suggest?",
+      "answer": "limiting short-term rentals in the centre",
+      "distractors": [
+        "closing the souvenir shops",
+        "stopping all tourists"
+      ],
+      "explanation": "„...the city should limit the number of short-term rentals...”"
+    },
+    {
+      "id": "b1-reading-opinion-3-07",
+      "type": "cloze",
+      "prompt": "People pull suitcases over the ___.",
+      "answer": "cobblestones",
+      "explanation": "Bruk: cobblestones."
+    },
+    {
+      "id": "b1-reading-opinion-3-08",
+      "type": "cloze",
+      "prompt": "The Old Town isn't just a theme ___.",
+      "answer": "park",
+      "explanation": "Park rozrywki: theme park."
+    },
+    {
+      "id": "b1-reading-opinion-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "afford|być stać na coś",
+        "rent|czynsz",
+        "renovate|odnowić",
+        "balance|równowaga"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

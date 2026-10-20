@@ -1,0 +1,340 @@
+[
+  {
+    "id": "b1-time-clauses-1",
+    "topicId": "b1-time-clauses",
+    "exercises": [
+      {
+        "id": "b1-time-clauses-1-01",
+        "type": "cloze",
+        "prompt": "I'll call you when I ___ home. (get)",
+        "answer": "get",
+        "explanation": "Po when – czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-1-02",
+        "type": "cloze",
+        "prompt": "Wait here until I ___ back. (come)",
+        "answer": "come",
+        "explanation": "Po until – czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-1-03",
+        "type": "cloze",
+        "prompt": "As soon as she ___, we'll start. (arrive)",
+        "answer": "arrives",
+        "explanation": "Po as soon as – czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-1-04",
+        "type": "choice",
+        "prompt": "I'll tell him when he ___.",
+        "answer": "arrives",
+        "distractors": [
+          "will arrive",
+          "arrived"
+        ],
+        "explanation": "Po when bez will."
+      },
+      {
+        "id": "b1-time-clauses-1-05",
+        "type": "choice",
+        "prompt": "We can't leave ___ the rain stops.",
+        "answer": "until",
+        "distractors": [
+          "when",
+          "as soon"
+        ],
+        "explanation": "Aż przestanie: until."
+      },
+      {
+        "id": "b1-time-clauses-1-06",
+        "type": "match",
+        "prompt": "Połącz spójniki z tłumaczeniem.",
+        "answer": [
+          "when|kiedy",
+          "as soon as|jak tylko",
+          "until|aż, dopóki nie",
+          "before|zanim"
+        ],
+        "explanation": "Spójniki czasowe."
+      },
+      {
+        "id": "b1-time-clauses-1-07",
+        "type": "error",
+        "prompt": "I'll wait until you came back.",
+        "answer": [
+          "came",
+          "come"
+        ],
+        "explanation": "Przyszłość: po until czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-1-08",
+        "type": "tiles",
+        "prompt": "Zadzwoń do mnie, jak tylko wylądujesz.",
+        "answer": [
+          "Call",
+          "me",
+          "as",
+          "soon",
+          "as",
+          "you",
+          "land"
+        ],
+        "distractors": [
+          "will",
+          "landed"
+        ],
+        "explanation": "Po as soon as czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-1-09",
+        "type": "translate",
+        "prompt": "Zostanę, dopóki nie skończysz.",
+        "answer": "I will stay until you finish.",
+        "accept": [
+          "I will stay until you are finished.",
+          "I will stay until you have finished."
+        ],
+        "explanation": "Until + czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „when”.\nI'll finish this. Then I'll help you.",
+        "answer": "I will help you when I finish this.",
+        "accept": [
+          "When I finish this, I will help you.",
+          "I will help you when I have finished this.",
+          "When I have finished this, I will help you."
+        ],
+        "explanation": "Po when czas teraźniejszy."
+      }
+    ]
+  },
+  {
+    "id": "b1-time-clauses-2",
+    "topicId": "b1-time-clauses",
+    "exercises": [
+      {
+        "id": "b1-time-clauses-2-01",
+        "type": "cloze",
+        "prompt": "Before you ___ out, close the windows. (go)",
+        "answer": "go",
+        "explanation": "Po before – czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-2-02",
+        "type": "cloze",
+        "prompt": "After I ___ university, I'll travel. (finish)",
+        "answer": "finish",
+        "explanation": "Po after – czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-2-03",
+        "type": "choice",
+        "prompt": "I'll wait ___ you're ready.",
+        "answer": "until",
+        "distractors": [
+          "as soon",
+          "while"
+        ],
+        "explanation": "Aż będziesz gotowy: until."
+      },
+      {
+        "id": "b1-time-clauses-2-04",
+        "type": "choice",
+        "prompt": "___ I was waiting, I read a magazine.",
+        "answer": "While",
+        "distractors": [
+          "Until",
+          "As soon as"
+        ],
+        "explanation": "Podczas gdy: while."
+      },
+      {
+        "id": "b1-time-clauses-2-05",
+        "type": "choice",
+        "prompt": "Text me as soon as you ___ the results.",
+        "answer": "get",
+        "distractors": [
+          "will get",
+          "got"
+        ],
+        "explanation": "Po as soon as bez will."
+      },
+      {
+        "id": "b1-time-clauses-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „before”.\nWash your hands. Then eat.",
+        "answer": "Wash your hands before you eat.",
+        "accept": [
+          "Before you eat, wash your hands.",
+          "Wash your hands before eating."
+        ],
+        "explanation": "Before + czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-2-07",
+        "type": "tiles",
+        "prompt": "Kiedy dorosnę, zostanę lekarzem.",
+        "answer": [
+          "When",
+          "I",
+          "grow",
+          "up",
+          "I'll",
+          "be",
+          "a",
+          "doctor"
+        ],
+        "distractors": [
+          "will",
+          "grew"
+        ],
+        "explanation": "Po when czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-2-08",
+        "type": "error",
+        "prompt": "Don't cross the road until the light turn green.",
+        "answer": [
+          "turn",
+          "turns"
+        ],
+        "explanation": "The light = it: turns."
+      },
+      {
+        "id": "b1-time-clauses-2-09",
+        "type": "translate",
+        "prompt": "Co zrobisz, kiedy skończysz szkołę?",
+        "answer": "What will you do when you finish school?",
+        "accept": [
+          "What will you do after you finish school?",
+          "What are you going to do when you finish school?"
+        ],
+        "explanation": "Po when czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-2-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I'll call you when I arrive.|Zadzwonię, kiedy przyjadę.",
+          "I'll wait until you arrive.|Poczekam, aż przyjedziesz.",
+          "Call me before you arrive.|Zadzwoń, zanim przyjedziesz.",
+          "Call me as soon as you arrive.|Zadzwoń, jak tylko przyjedziesz."
+        ],
+        "explanation": "Różne spójniki czasowe."
+      }
+    ]
+  },
+  {
+    "id": "b1-time-clauses-3",
+    "topicId": "b1-time-clauses",
+    "exercises": [
+      {
+        "id": "b1-time-clauses-3-01",
+        "type": "cloze",
+        "prompt": "I didn't go to bed until I ___ the book. (finish)",
+        "answer": "finished",
+        "explanation": "Przeszłość: Past Simple."
+      },
+      {
+        "id": "b1-time-clauses-3-02",
+        "type": "cloze",
+        "prompt": "When we ___, the film had already started. (arrive)",
+        "answer": "arrived",
+        "explanation": "Przeszłość: Past Simple."
+      },
+      {
+        "id": "b1-time-clauses-3-03",
+        "type": "choice",
+        "prompt": "I'll make dinner ___ you take a shower.",
+        "answer": "while",
+        "distractors": [
+          "until",
+          "as soon"
+        ],
+        "explanation": "W tym samym czasie: while."
+      },
+      {
+        "id": "b1-time-clauses-3-04",
+        "type": "choice",
+        "prompt": "She'll call you back ___ she gets to the office.",
+        "answer": "as soon as",
+        "distractors": [
+          "until",
+          "while"
+        ],
+        "explanation": "Jak tylko: as soon as."
+      },
+      {
+        "id": "b1-time-clauses-3-05",
+        "type": "cloze",
+        "prompt": "I'll stay here ___ the bus comes. (aż)",
+        "answer": "until",
+        "explanation": "Aż: until."
+      },
+      {
+        "id": "b1-time-clauses-3-06",
+        "type": "error",
+        "prompt": "I lived in Rome until I am 18.",
+        "answer": [
+          "am",
+          "was"
+        ],
+        "explanation": "Przeszłość: was."
+      },
+      {
+        "id": "b1-time-clauses-3-07",
+        "type": "error",
+        "prompt": "After he finished school, he go to university.",
+        "answer": [
+          "go",
+          "went"
+        ],
+        "explanation": "Przeszłość: went."
+      },
+      {
+        "id": "b1-time-clauses-3-08",
+        "type": "tiles",
+        "prompt": "Poczekaj, aż przestanie padać.",
+        "answer": [
+          "Wait",
+          "until",
+          "it",
+          "stops",
+          "raining"
+        ],
+        "distractors": [
+          "will",
+          "stop"
+        ],
+        "explanation": "Po until czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-3-09",
+        "type": "translate",
+        "prompt": "Zadzwonię do ciebie, zanim wyjdę.",
+        "answer": "I will call you before I leave.",
+        "accept": [
+          "I will call you before I go.",
+          "I will phone you before I leave.",
+          "I will phone you before I go."
+        ],
+        "explanation": "Po before czas teraźniejszy."
+      },
+      {
+        "id": "b1-time-clauses-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowami „as soon as”.\nThe shop opens. I'll buy the tickets.",
+        "answer": "I will buy the tickets as soon as the shop opens.",
+        "accept": [
+          "As soon as the shop opens, I will buy the tickets."
+        ],
+        "explanation": "Po as soon as czas teraźniejszy."
+      }
+    ]
+  }
+]

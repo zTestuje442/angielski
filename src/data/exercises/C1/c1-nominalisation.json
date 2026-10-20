@@ -1,0 +1,350 @@
+[
+  {
+    "id": "c1-nominalisation-1",
+    "topicId": "c1-nominalisation",
+    "exercises": [
+      {
+        "id": "c1-nominalisation-1-01",
+        "type": "cloze",
+        "prompt": "The ___ to close the factory shocked everyone. (DECIDE)",
+        "answer": "decision",
+        "explanation": "Decide → decision."
+      },
+      {
+        "id": "c1-nominalisation-1-02",
+        "type": "cloze",
+        "prompt": "There was a sharp ___ in prices last year. (INCREASE)",
+        "answer": "increase",
+        "explanation": "Rzeczownik: an increase in."
+      },
+      {
+        "id": "c1-nominalisation-1-03",
+        "type": "choice",
+        "prompt": "Due to the ___ of the manager, the meeting was cancelled.",
+        "answer": "absence",
+        "distractors": [
+          "absent",
+          "absenting"
+        ],
+        "explanation": "Absent → absence."
+      },
+      {
+        "id": "c1-nominalisation-1-04",
+        "type": "choice",
+        "prompt": "A careful ___ of the data showed some errors.",
+        "answer": "analysis",
+        "distractors": [
+          "analyse",
+          "analysing"
+        ],
+        "explanation": "Analyse → analysis."
+      },
+      {
+        "id": "c1-nominalisation-1-05",
+        "type": "choice",
+        "prompt": "___ to pay on time will result in a fine.",
+        "answer": "Failure",
+        "distractors": [
+          "Fail",
+          "Failing it"
+        ],
+        "explanation": "Fail → failure."
+      },
+      {
+        "id": "c1-nominalisation-1-06",
+        "type": "match",
+        "prompt": "Połącz czasowniki z rzeczownikami.",
+        "answer": [
+          "arrive|arrival",
+          "refuse|refusal",
+          "fail|failure",
+          "approve|approval"
+        ],
+        "explanation": "Czasownik i rzeczownik."
+      },
+      {
+        "id": "c1-nominalisation-1-07",
+        "type": "error",
+        "prompt": "The rapidly growth of the city caused problems.",
+        "answer": [
+          "rapidly",
+          "rapid"
+        ],
+        "explanation": "Przed rzeczownikiem: przymiotnik."
+      },
+      {
+        "id": "c1-nominalisation-1-08",
+        "type": "tiles",
+        "prompt": "Po przybyciu policji tłum się rozszedł.",
+        "answer": [
+          "After",
+          "the",
+          "arrival",
+          "of",
+          "the",
+          "police",
+          "the",
+          "crowd",
+          "left"
+        ],
+        "distractors": [
+          "arrived",
+          "arriving"
+        ],
+        "explanation": "Arrive → arrival."
+      },
+      {
+        "id": "c1-nominalisation-1-09",
+        "type": "translate",
+        "prompt": "Odmowa współpracy była błędem.",
+        "answer": "The refusal to cooperate was a mistake.",
+        "accept": [
+          "Their refusal to cooperate was a mistake.",
+          "His refusal to cooperate was a mistake.",
+          "Her refusal to cooperate was a mistake.",
+          "The refusal to co-operate was a mistake."
+        ],
+        "explanation": "Refuse → refusal."
+      },
+      {
+        "id": "c1-nominalisation-1-10",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „The company's decision”.\nThe company decided to cut jobs, which angered workers.",
+        "answer": "The company's decision to cut jobs angered workers.",
+        "explanation": "Decide → decision."
+      }
+    ]
+  },
+  {
+    "id": "c1-nominalisation-2",
+    "topicId": "c1-nominalisation",
+    "exercises": [
+      {
+        "id": "c1-nominalisation-2-01",
+        "type": "cloze",
+        "prompt": "The ___ of the new system took two years. (IMPLEMENT)",
+        "answer": "implementation",
+        "explanation": "Implement → implementation."
+      },
+      {
+        "id": "c1-nominalisation-2-02",
+        "type": "cloze",
+        "prompt": "We are waiting for the ___ of the budget. (APPROVE)",
+        "answer": "approval",
+        "explanation": "Approve → approval."
+      },
+      {
+        "id": "c1-nominalisation-2-03",
+        "type": "choice",
+        "prompt": "There has been a significant ___ in unemployment.",
+        "answer": "reduction",
+        "distractors": [
+          "reduce",
+          "reducing"
+        ],
+        "explanation": "Reduce → reduction."
+      },
+      {
+        "id": "c1-nominalisation-2-04",
+        "type": "choice",
+        "prompt": "Her ___ of the problem was very clear.",
+        "answer": "explanation",
+        "distractors": [
+          "explaining it",
+          "explain"
+        ],
+        "explanation": "Explain → explanation."
+      },
+      {
+        "id": "c1-nominalisation-2-05",
+        "type": "choice",
+        "prompt": "The police carried out an ___ into the incident.",
+        "answer": "investigation",
+        "distractors": [
+          "investigate",
+          "investigating"
+        ],
+        "explanation": "Carry out an investigation."
+      },
+      {
+        "id": "c1-nominalisation-2-06",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „There was a dramatic”.\nSales fell dramatically in May.",
+        "answer": "There was a dramatic fall in sales in May.",
+        "accept": [
+          "There was a dramatic drop in sales in May.",
+          "There was a dramatic decrease in sales in May.",
+          "There was a dramatic decline in sales in May."
+        ],
+        "explanation": "Dramatically fell → a dramatic fall in."
+      },
+      {
+        "id": "c1-nominalisation-2-07",
+        "type": "transform",
+        "prompt": "Zamień na nominalizację, zacznij od „Due to”.\nBecause the weather was bad, the match was postponed.",
+        "answer": "Due to the bad weather, the match was postponed.",
+        "explanation": "Due to + rzeczownik."
+      },
+      {
+        "id": "c1-nominalisation-2-08",
+        "type": "tiles",
+        "prompt": "Osiągnęli porozumienie po długich negocjacjach.",
+        "answer": [
+          "They",
+          "reached",
+          "an",
+          "agreement",
+          "after",
+          "long",
+          "negotiations"
+        ],
+        "distractors": [
+          "agreed",
+          "reaching"
+        ],
+        "explanation": "Reach an agreement."
+      },
+      {
+        "id": "c1-nominalisation-2-09",
+        "type": "error",
+        "prompt": "The develop of new drugs is very expensive.",
+        "answer": [
+          "develop",
+          "development"
+        ],
+        "explanation": "Rzeczownik: development."
+      },
+      {
+        "id": "c1-nominalisation-2-10",
+        "type": "translate",
+        "prompt": "Wzrost cen zaskoczył wszystkich.",
+        "answer": "The rise in prices surprised everyone.",
+        "accept": [
+          "The increase in prices surprised everyone.",
+          "The price increase surprised everyone.",
+          "The rise in prices surprised everybody.",
+          "The increase in prices surprised everybody."
+        ],
+        "explanation": "Rise in."
+      }
+    ]
+  },
+  {
+    "id": "c1-nominalisation-3",
+    "topicId": "c1-nominalisation",
+    "exercises": [
+      {
+        "id": "c1-nominalisation-3-01",
+        "type": "choice",
+        "prompt": "The ___ of the bridge will cost millions.",
+        "answer": "construction",
+        "distractors": [
+          "constructing it",
+          "construct"
+        ],
+        "explanation": "Construct → construction."
+      },
+      {
+        "id": "c1-nominalisation-3-02",
+        "type": "choice",
+        "prompt": "Many people expressed ___ with the decision.",
+        "answer": "dissatisfaction",
+        "distractors": [
+          "dissatisfied",
+          "dissatisfy"
+        ],
+        "explanation": "Dissatisfied → dissatisfaction."
+      },
+      {
+        "id": "c1-nominalisation-3-03",
+        "type": "cloze",
+        "prompt": "The ___ of the report is next Monday. (SUBMIT)",
+        "answer": "submission",
+        "accept": [
+          "deadline"
+        ],
+        "explanation": "Submit → submission."
+      },
+      {
+        "id": "c1-nominalisation-3-04",
+        "type": "cloze",
+        "prompt": "Her ___ to the team has been invaluable. (CONTRIBUTE)",
+        "answer": "contribution",
+        "explanation": "Contribute → contribution."
+      },
+      {
+        "id": "c1-nominalisation-3-05",
+        "type": "cloze",
+        "prompt": "The ___ of plastic bags has reduced waste. (BAN)",
+        "answer": "ban",
+        "explanation": "Ban jako rzeczownik."
+      },
+      {
+        "id": "c1-nominalisation-3-06",
+        "type": "match",
+        "prompt": "Połącz kolokację z czasownikiem.",
+        "answer": [
+          "make a decision|decide",
+          "give an explanation|explain",
+          "carry out an investigation|investigate",
+          "reach an agreement|agree"
+        ],
+        "explanation": "Kolokacje i czasowniki."
+      },
+      {
+        "id": "c1-nominalisation-3-07",
+        "type": "error",
+        "prompt": "The government's refuse to help was criticised.",
+        "answer": [
+          "refuse",
+          "refusal"
+        ],
+        "explanation": "Rzeczownik: refusal."
+      },
+      {
+        "id": "c1-nominalisation-3-08",
+        "type": "error",
+        "prompt": "There was a significantly improvement in results.",
+        "answer": [
+          "significantly",
+          "significant"
+        ],
+        "explanation": "Przed rzeczownikiem: przymiotnik."
+      },
+      {
+        "id": "c1-nominalisation-3-09",
+        "type": "tiles",
+        "prompt": "Nieobecność dowodów utrudnia sprawę.",
+        "answer": [
+          "The",
+          "absence",
+          "of",
+          "evidence",
+          "makes",
+          "the",
+          "case",
+          "difficult"
+        ],
+        "distractors": [
+          "absent",
+          "evidences"
+        ],
+        "explanation": "Absent → absence."
+      },
+      {
+        "id": "c1-nominalisation-3-10",
+        "type": "translate",
+        "prompt": "Wprowadzenie nowych przepisów wywołało protesty.",
+        "answer": "The introduction of new regulations caused protests.",
+        "accept": [
+          "The introduction of the new regulations caused protests.",
+          "The introduction of new rules caused protests.",
+          "The introduction of the new rules caused protests.",
+          "The introduction of new regulations led to protests.",
+          "The introduction of the new regulations led to protests."
+        ],
+        "explanation": "Introduce → introduction."
+      }
+    ]
+  }
+]

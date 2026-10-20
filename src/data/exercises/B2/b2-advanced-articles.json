@@ -1,0 +1,324 @@
+[
+  {
+    "id": "b2-advanced-articles-1",
+    "topicId": "b2-advanced-articles",
+    "exercises": [
+      {
+        "id": "b2-advanced-articles-1-01",
+        "type": "cloze",
+        "prompt": "___ rich should pay more taxes.",
+        "answer": "The",
+        "explanation": "The + przymiotnik = grupa ludzi."
+      },
+      {
+        "id": "b2-advanced-articles-1-02",
+        "type": "cloze",
+        "prompt": "He plays ___ guitar in a band.",
+        "answer": "the",
+        "explanation": "Instrumenty: the."
+      },
+      {
+        "id": "b2-advanced-articles-1-03",
+        "type": "choice",
+        "prompt": "___ is my favourite subject.",
+        "answer": "Biology",
+        "distractors": [
+          "The biology",
+          "A biology"
+        ],
+        "explanation": "Przedmiot szkolny: bez przedimka."
+      },
+      {
+        "id": "b2-advanced-articles-1-04",
+        "type": "choice",
+        "prompt": "She's ___ honest person.",
+        "answer": "an",
+        "distractors": [
+          "a",
+          "the"
+        ],
+        "explanation": "Honest – h nieme: an."
+      },
+      {
+        "id": "b2-advanced-articles-1-05",
+        "type": "cloze",
+        "prompt": "We went to ___ cinema last night.",
+        "answer": "the",
+        "explanation": "Go to the cinema."
+      },
+      {
+        "id": "b2-advanced-articles-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "the unemployed|bezrobotni",
+          "the elderly|osoby starsze",
+          "the young|młodzi",
+          "the poor|biedni"
+        ],
+        "explanation": "The + przymiotnik."
+      },
+      {
+        "id": "b2-advanced-articles-1-07",
+        "type": "error",
+        "prompt": "She's a only child.",
+        "answer": [
+          "a",
+          "an"
+        ],
+        "explanation": "Only – samogłoska: an."
+      },
+      {
+        "id": "b2-advanced-articles-1-08",
+        "type": "tiles",
+        "prompt": "Bogaci stają się coraz bogatsi.",
+        "answer": [
+          "The",
+          "rich",
+          "are",
+          "getting",
+          "richer"
+        ],
+        "distractors": [
+          "A",
+          "more"
+        ],
+        "explanation": "The + przymiotnik."
+      },
+      {
+        "id": "b2-advanced-articles-1-09",
+        "type": "translate",
+        "prompt": "Mój brat jest w szpitalu.",
+        "answer": "My brother is in hospital.",
+        "accept": [
+          "My brother is in the hospital."
+        ],
+        "explanation": "Pacjent: in hospital (w USA: in the hospital)."
+      },
+      {
+        "id": "b2-advanced-articles-1-10",
+        "type": "transform",
+        "prompt": "Uzupełnij przedimki (albo ich brak) i napisz całe zdanie.\nShe goes to ___ church every Sunday, but today she visited ___ church to see the paintings.",
+        "answer": "She goes to church every Sunday, but today she visited the church to see the paintings.",
+        "explanation": "Funkcja – bez the; budynek – the."
+      }
+    ]
+  },
+  {
+    "id": "b2-advanced-articles-2",
+    "topicId": "b2-advanced-articles",
+    "exercises": [
+      {
+        "id": "b2-advanced-articles-2-01",
+        "type": "cloze",
+        "prompt": "I'd like ___ glass of water, please.",
+        "answer": "a",
+        "explanation": "Jedna szklanka: a."
+      },
+      {
+        "id": "b2-advanced-articles-2-02",
+        "type": "cloze",
+        "prompt": "___ Smiths are coming to dinner tonight. (rodzina Smithów)",
+        "answer": "The",
+        "explanation": "Rodzina: the + nazwisko w l. mn."
+      },
+      {
+        "id": "b2-advanced-articles-2-03",
+        "type": "choice",
+        "prompt": "My uncle is in ___ for fraud.",
+        "answer": "prison",
+        "distractors": [
+          "the prison",
+          "a prison"
+        ],
+        "explanation": "Więzień: in prison."
+      },
+      {
+        "id": "b2-advanced-articles-2-04",
+        "type": "choice",
+        "prompt": "___ is money.",
+        "answer": "Time",
+        "distractors": [
+          "The time",
+          "A time"
+        ],
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b2-advanced-articles-2-05",
+        "type": "choice",
+        "prompt": "We travelled ___ train.",
+        "answer": "by",
+        "distractors": [
+          "by the",
+          "with"
+        ],
+        "explanation": "By train."
+      },
+      {
+        "id": "b2-advanced-articles-2-06",
+        "type": "transform",
+        "prompt": "Uzupełnij przedimki i napisz całe zdanie.\n___ Pacific is ___ largest ocean.",
+        "answer": "The Pacific is the largest ocean.",
+        "explanation": "Ocean: the; stopień najwyższy: the."
+      },
+      {
+        "id": "b2-advanced-articles-2-07",
+        "type": "tiles",
+        "prompt": "Dzieci poszły już do szkoły.",
+        "answer": [
+          "The",
+          "children",
+          "have",
+          "already",
+          "gone",
+          "to",
+          "school"
+        ],
+        "distractors": [
+          "a",
+          "an"
+        ],
+        "explanation": "Funkcja szkoły: to school."
+      },
+      {
+        "id": "b2-advanced-articles-2-08",
+        "type": "error",
+        "prompt": "Mount Everest is in the Himalaya.",
+        "answer": [
+          "Himalaya",
+          "Himalayas"
+        ],
+        "explanation": "Pasmo górskie: the Himalayas."
+      },
+      {
+        "id": "b2-advanced-articles-2-09",
+        "type": "translate",
+        "prompt": "Lubię psy, ale boję się tego psa.",
+        "answer": "I like dogs, but I am afraid of this dog.",
+        "accept": [
+          "I like dogs, but I am afraid of that dog.",
+          "I like dogs but I am afraid of this dog.",
+          "I like dogs but I am afraid of that dog.",
+          "I like dogs, but I am scared of this dog.",
+          "I like dogs, but I am scared of that dog."
+        ],
+        "explanation": "Ogólnie – bez przedimka; konkretny – this/that."
+      },
+      {
+        "id": "b2-advanced-articles-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "by bus|autobusem",
+          "on foot|pieszo",
+          "at night|w nocy",
+          "in the morning|rano"
+        ],
+        "explanation": "Utarte wyrażenia."
+      }
+    ]
+  },
+  {
+    "id": "b2-advanced-articles-3",
+    "topicId": "b2-advanced-articles",
+    "exercises": [
+      {
+        "id": "b2-advanced-articles-3-01",
+        "type": "cloze",
+        "prompt": "She was ___ first woman to win the prize.",
+        "answer": "the",
+        "explanation": "The first."
+      },
+      {
+        "id": "b2-advanced-articles-3-02",
+        "type": "cloze",
+        "prompt": "It's ___ hour's drive from here.",
+        "answer": "an",
+        "explanation": "Hour – h nieme: an."
+      },
+      {
+        "id": "b2-advanced-articles-3-03",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Life is too short.",
+        "distractors": [
+          "The life is too short.",
+          "A life is too short."
+        ],
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b2-advanced-articles-3-04",
+        "type": "choice",
+        "prompt": "What ___ lovely day!",
+        "answer": "a",
+        "distractors": [
+          "the",
+          "an"
+        ],
+        "explanation": "Wykrzyknienie z policzalnym: What a..."
+      },
+      {
+        "id": "b2-advanced-articles-3-05",
+        "type": "choice",
+        "prompt": "He's studying ___ at university.",
+        "answer": "law",
+        "distractors": [
+          "the law",
+          "a law"
+        ],
+        "explanation": "Dziedzina nauki: bez przedimka."
+      },
+      {
+        "id": "b2-advanced-articles-3-06",
+        "type": "error",
+        "prompt": "Could you give me an advice?",
+        "answer": [
+          "an",
+          "some"
+        ],
+        "explanation": "Advice jest niepoliczalne."
+      },
+      {
+        "id": "b2-advanced-articles-3-07",
+        "type": "error",
+        "prompt": "My father is an university professor.",
+        "answer": [
+          "an",
+          "a"
+        ],
+        "explanation": "University – wymowa „ju”: a."
+      },
+      {
+        "id": "b2-advanced-articles-3-08",
+        "type": "tiles",
+        "prompt": "Jaka piękna pogoda!",
+        "answer": [
+          "What",
+          "beautiful",
+          "weather"
+        ],
+        "distractors": [
+          "a",
+          "the"
+        ],
+        "explanation": "Weather niepoliczalne: bez a."
+      },
+      {
+        "id": "b2-advanced-articles-3-09",
+        "type": "translate",
+        "prompt": "Nie ma nic lepszego niż muzyka na żywo.",
+        "answer": "There is nothing better than live music.",
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b2-advanced-articles-3-10",
+        "type": "transform",
+        "prompt": "Uzupełnij przedimki i napisz całe zdanie.\nWhat ___ amazing view! It is ___ best view in ___ city.",
+        "answer": "What an amazing view! It is the best view in the city.",
+        "explanation": "What an...; the best; the city."
+      }
+    ]
+  }
+]

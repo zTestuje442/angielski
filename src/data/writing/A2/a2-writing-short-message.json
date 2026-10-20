@@ -1,0 +1,17 @@
+{
+  "topicId": "a2-writing-short-message",
+  "task": "Twój kolega z Anglii, **Tom**, zaprosił cię na swoje urodziny w sobotę o 19:00. Nie możesz przyjść.\n\nNapisz do niego krótką wiadomość:\n- podziękuj za zaproszenie,\n- przeproś i wyjaśnij, dlaczego nie możesz przyjść,\n- zaproponuj inne spotkanie.",
+  "words": [
+    25,
+    50
+  ],
+  "model": "Hi Tom,\n\nThanks for the invitation to your birthday party! I'm really sorry, but I can't come on Saturday because I'm visiting my grandparents in Kraków. Can we meet next week? Maybe we can go to the cinema on Tuesday? Have a great party!\n\nLove,\nOla",
+  "checklist": [
+    "Zaczynam od powitania (Hi + imię).",
+    "Dziękuję za zaproszenie.",
+    "Przepraszam i podaję powód (because...).",
+    "Proponuję inny termin (Can we...? / Maybe we can...).",
+    "Kończę zwrotem (See you / Love) i podpisem.",
+    "Tekst ma 25–50 słów."
+  ]
+}

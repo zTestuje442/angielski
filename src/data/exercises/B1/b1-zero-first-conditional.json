@@ -1,0 +1,338 @@
+[
+  {
+    "id": "b1-zero-first-conditional-1",
+    "topicId": "b1-zero-first-conditional",
+    "exercises": [
+      {
+        "id": "b1-zero-first-conditional-1-01",
+        "type": "cloze",
+        "prompt": "If you heat ice, it ___. (melt)",
+        "answer": "melts",
+        "explanation": "Fakt: Present Simple."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-02",
+        "type": "cloze",
+        "prompt": "If it ___ tomorrow, we'll stay at home. (rain)",
+        "answer": "rains",
+        "explanation": "Po if: Present Simple."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-03",
+        "type": "choice",
+        "prompt": "If you ___ hard, you'll pass the exam.",
+        "answer": "study",
+        "distractors": [
+          "will study",
+          "studied"
+        ],
+        "explanation": "Po if bez will."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-04",
+        "type": "choice",
+        "prompt": "If I see him, I ___ tell him.",
+        "answer": "will",
+        "distractors": [
+          "would",
+          "am"
+        ],
+        "explanation": "Skutek w przyszłości: will."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-05",
+        "type": "cloze",
+        "prompt": "Water ___ if you heat it to 100°C. (boil)",
+        "answer": "boils",
+        "explanation": "Prawo natury: zero conditional."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-06",
+        "type": "match",
+        "prompt": "Połącz części zdań.",
+        "answer": [
+          "If you mix red and white,|you get pink.",
+          "If it rains,|we'll stay at home.",
+          "If you don't hurry,|you'll miss the bus.",
+          "If you press this button,|the machine starts."
+        ],
+        "explanation": "Dopasuj warunek do skutku."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-07",
+        "type": "error",
+        "prompt": "If I miss the bus, I will walked.",
+        "answer": [
+          "walked",
+          "walk"
+        ],
+        "explanation": "Po will forma podstawowa."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-08",
+        "type": "tiles",
+        "prompt": "Jeśli będzie słonecznie, pójdziemy na plażę.",
+        "answer": [
+          "If",
+          "it",
+          "is",
+          "sunny",
+          "we'll",
+          "go",
+          "to",
+          "the",
+          "beach"
+        ],
+        "distractors": [
+          "will",
+          "be"
+        ],
+        "explanation": "Po if czas teraźniejszy."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-09",
+        "type": "translate",
+        "prompt": "Jeśli się pospieszysz, zdążysz na pociąg.",
+        "answer": "If you hurry, you will catch the train.",
+        "accept": [
+          "If you hurry up, you will catch the train.",
+          "You will catch the train if you hurry.",
+          "If you hurry, you will make the train."
+        ],
+        "explanation": "If + Present Simple, will."
+      },
+      {
+        "id": "b1-zero-first-conditional-1-10",
+        "type": "transform",
+        "prompt": "Połącz w zdanie warunkowe z „if” na początku.\nYou don't eat. You'll be hungry.",
+        "answer": "If you do not eat, you will be hungry.",
+        "explanation": "If + Present Simple, will."
+      }
+    ]
+  },
+  {
+    "id": "b1-zero-first-conditional-2",
+    "topicId": "b1-zero-first-conditional",
+    "exercises": [
+      {
+        "id": "b1-zero-first-conditional-2-01",
+        "type": "cloze",
+        "prompt": "I won't go ___ you come with me. (chyba że)",
+        "answer": "unless",
+        "explanation": "Chyba że: unless."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-02",
+        "type": "cloze",
+        "prompt": "___ you see Tom, say hello from me. (jeśli)",
+        "answer": "If",
+        "explanation": "Jeśli: if."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-03",
+        "type": "choice",
+        "prompt": "If you ___ the plant, it dies.",
+        "answer": "don't water",
+        "distractors": [
+          "won't water",
+          "didn't water"
+        ],
+        "explanation": "Fakt: Present Simple."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-04",
+        "type": "choice",
+        "prompt": "We'll be late ___ we leave now.",
+        "answer": "unless",
+        "distractors": [
+          "if",
+          "when"
+        ],
+        "explanation": "Spóźnimy się, chyba że wyjdziemy teraz."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-05",
+        "type": "cloze",
+        "prompt": "If she ___ me, I'll call her. (not / call)",
+        "answer": "doesn't call",
+        "accept": [
+          "does not call"
+        ],
+        "explanation": "Po if: Present Simple."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-06",
+        "type": "transform",
+        "prompt": "Zamień „unless” na „if ... not”.\nUnless you study, you'll fail.",
+        "answer": "If you do not study, you will fail.",
+        "explanation": "Unless = if not."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-07",
+        "type": "tiles",
+        "prompt": "Zadzwonię, jeśli będę miał problem.",
+        "answer": [
+          "I'll",
+          "call",
+          "you",
+          "if",
+          "I",
+          "have",
+          "a",
+          "problem"
+        ],
+        "distractors": [
+          "will",
+          "had"
+        ],
+        "explanation": "Po if czas teraźniejszy."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-08",
+        "type": "error",
+        "prompt": "If you won't help me, I'll do it alone.",
+        "answer": [
+          "won't",
+          "don't"
+        ],
+        "explanation": "Po if bez will."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-09",
+        "type": "translate",
+        "prompt": "Co zrobisz, jeśli nie zdasz?",
+        "answer": "What will you do if you do not pass?",
+        "accept": [
+          "What will you do if you fail?"
+        ],
+        "explanation": "If + Present Simple."
+      },
+      {
+        "id": "b1-zero-first-conditional-2-10",
+        "type": "match",
+        "prompt": "Połącz pojęcia ze znaczeniem.",
+        "answer": [
+          "zero conditional|fakty i prawa natury",
+          "first conditional|realna sytuacja w przyszłości",
+          "unless|chyba że",
+          "if|jeśli"
+        ],
+        "explanation": "Typy zdań i spójniki."
+      }
+    ]
+  },
+  {
+    "id": "b1-zero-first-conditional-3",
+    "topicId": "b1-zero-first-conditional",
+    "exercises": [
+      {
+        "id": "b1-zero-first-conditional-3-01",
+        "type": "cloze",
+        "prompt": "If you ___ enough, you feel tired. (not / sleep)",
+        "answer": "don't sleep",
+        "accept": [
+          "do not sleep"
+        ],
+        "explanation": "Fakt: Present Simple."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-02",
+        "type": "cloze",
+        "prompt": "If I ___ time tomorrow, I'll help you. (have)",
+        "answer": "have",
+        "explanation": "Po if czas teraźniejszy."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-03",
+        "type": "choice",
+        "prompt": "Plants die if they ___ get water.",
+        "answer": "don't",
+        "distractors": [
+          "won't",
+          "didn't"
+        ],
+        "explanation": "Fakt: Present Simple."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-04",
+        "type": "choice",
+        "prompt": "If you need help, ___ me.",
+        "answer": "call",
+        "distractors": [
+          "you call",
+          "will call"
+        ],
+        "explanation": "Polecenie: tryb rozkazujący."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-05",
+        "type": "choice",
+        "prompt": "What will you do if they ___ you the job?",
+        "answer": "offer",
+        "distractors": [
+          "will offer",
+          "offered"
+        ],
+        "explanation": "Po if bez will."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-06",
+        "type": "error",
+        "prompt": "If you heats water to 100 degrees, it boils.",
+        "answer": [
+          "heats",
+          "heat"
+        ],
+        "explanation": "You + heat."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-07",
+        "type": "error",
+        "prompt": "We stay at home if it rains tomorrow.",
+        "answer": [
+          "stay",
+          "will stay"
+        ],
+        "explanation": "Tomorrow – przyszłość: will stay."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-08",
+        "type": "tiles",
+        "prompt": "Jeśli naciśniesz ten przycisk, drzwi się otworzą.",
+        "answer": [
+          "If",
+          "you",
+          "press",
+          "this",
+          "button",
+          "the",
+          "door",
+          "will",
+          "open"
+        ],
+        "distractors": [
+          "opens",
+          "pressed"
+        ],
+        "explanation": "If + Present Simple, will."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-09",
+        "type": "translate",
+        "prompt": "Jeśli jesteś zmęczony, idź spać.",
+        "answer": "If you are tired, go to bed.",
+        "accept": [
+          "Go to bed if you are tired."
+        ],
+        "explanation": "If + tryb rozkazujący."
+      },
+      {
+        "id": "b1-zero-first-conditional-3-10",
+        "type": "transform",
+        "prompt": "Dokończ zdanie, użyj „miss the bus”.\nIf you don't leave now, ...",
+        "answer": "If you do not leave now, you will miss the bus.",
+        "explanation": "Skutek: will + czasownik."
+      }
+    ]
+  }
+]

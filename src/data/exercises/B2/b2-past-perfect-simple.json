@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b2-past-perfect-simple-1",
+    "topicId": "b2-past-perfect-simple",
+    "exercises": [
+      {
+        "id": "b2-past-perfect-simple-1-01",
+        "type": "cloze",
+        "prompt": "When I arrived, the film ___ already started.",
+        "answer": "had",
+        "explanation": "Wcześniejsze: had + III forma."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-02",
+        "type": "cloze",
+        "prompt": "She was sad because she ___ her job. (lose)",
+        "answer": "had lost",
+        "explanation": "Przyczyna sprzed smutku: had lost."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-03",
+        "type": "choice",
+        "prompt": "By the time we got there, the train ___.",
+        "answer": "had left",
+        "distractors": [
+          "has left",
+          "leaves"
+        ],
+        "explanation": "Wcześniej niż dotarliśmy: had left."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-04",
+        "type": "choice",
+        "prompt": "I ___ never seen snow before I went to Norway.",
+        "answer": "had",
+        "distractors": [
+          "have",
+          "was"
+        ],
+        "explanation": "Never ... before + Past Perfect."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-05",
+        "type": "cloze",
+        "prompt": "After he ___ dinner, he went out. (finish)",
+        "answer": "had finished",
+        "accept": [
+          "finished"
+        ],
+        "explanation": "Wcześniejsze: had finished (albo finished)."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Kiedy przyszedłem, film już się zaczął.|When I arrived, the film had started.",
+          "Kiedy przyszedłem, film się zaczął.|When I arrived, the film started.",
+          "Nigdy wcześniej nie leciałem samolotem.|I had never flown before.",
+          "Wczoraj leciałem samolotem.|I flew yesterday."
+        ],
+        "explanation": "Past Perfect – wcześniejsze; Past Simple – kolejne."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-07",
+        "type": "error",
+        "prompt": "I realised I have left my keys at home.",
+        "answer": [
+          "have",
+          "had"
+        ],
+        "explanation": "Wcześniej niż „realised”: had left."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-08",
+        "type": "tiles",
+        "prompt": "Nie wiedziałem, że już wyszła.",
+        "answer": [
+          "I",
+          "didn't",
+          "know",
+          "that",
+          "she",
+          "had",
+          "already",
+          "left"
+        ],
+        "distractors": [
+          "has",
+          "leaves"
+        ],
+        "explanation": "Wcześniejsze: had left."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-09",
+        "type": "translate",
+        "prompt": "Kiedy dotarliśmy na stację, pociąg już odjechał.",
+        "answer": "When we got to the station, the train had already left.",
+        "accept": [
+          "When we arrived at the station, the train had already left.",
+          "The train had already left when we got to the station.",
+          "The train had already left when we arrived at the station.",
+          "By the time we got to the station, the train had already left."
+        ],
+        "explanation": "Wcześniejsze: had left."
+      },
+      {
+        "id": "b2-past-perfect-simple-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „after” i Past Perfect.\nShe did her homework. Then she watched TV.",
+        "answer": "After she had done her homework, she watched TV.",
+        "accept": [
+          "She watched TV after she had done her homework.",
+          "After she had done her homework she watched TV."
+        ],
+        "explanation": "After + had done."
+      }
+    ]
+  },
+  {
+    "id": "b2-past-perfect-simple-2",
+    "topicId": "b2-past-perfect-simple",
+    "exercises": [
+      {
+        "id": "b2-past-perfect-simple-2-01",
+        "type": "cloze",
+        "prompt": "I ___ him before the party. (not / meet)",
+        "answer": "hadn't met",
+        "accept": [
+          "had not met"
+        ],
+        "explanation": "Przeczenie: hadn't + III forma."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-02",
+        "type": "cloze",
+        "prompt": "___ you ever been abroad before you moved here?",
+        "answer": "Had",
+        "explanation": "Pytanie: Had + you + III forma."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-03",
+        "type": "choice",
+        "prompt": "He was nervous because he ___ a plane before.",
+        "answer": "had never flown",
+        "distractors": [
+          "has never flown",
+          "never flies"
+        ],
+        "explanation": "Never before + Past Perfect."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-04",
+        "type": "choice",
+        "prompt": "When I opened the fridge, I saw that somebody ___ my cake.",
+        "answer": "had eaten",
+        "distractors": [
+          "has eaten",
+          "eats"
+        ],
+        "explanation": "Wcześniej niż otworzyłem: had eaten."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-05",
+        "type": "choice",
+        "prompt": "By 2010, she ___ three novels.",
+        "answer": "had written",
+        "distractors": [
+          "has written",
+          "writes"
+        ],
+        "explanation": "Do 2010: had written."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-06",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThey had finished before noon.",
+        "answer": "Had they finished before noon?",
+        "explanation": "Had przed podmiotem."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-07",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nI had heard of him.",
+        "answer": "I had not heard of him.",
+        "explanation": "Hadn't + III forma."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-08",
+        "type": "tiles",
+        "prompt": "Zanim przyjechała policja, złodziej uciekł.",
+        "answer": [
+          "By",
+          "the",
+          "time",
+          "the",
+          "police",
+          "arrived",
+          "the",
+          "thief",
+          "had",
+          "escaped"
+        ],
+        "distractors": [
+          "has",
+          "arrive"
+        ],
+        "explanation": "By the time + Past Simple, Past Perfect."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-09",
+        "type": "error",
+        "prompt": "She told me she has seen the film before.",
+        "answer": [
+          "has",
+          "had"
+        ],
+        "explanation": "Mowa zależna o przeszłości: had seen."
+      },
+      {
+        "id": "b2-past-perfect-simple-2-10",
+        "type": "translate",
+        "prompt": "Nigdy wcześniej tego nie widziałem.",
+        "answer": "I had never seen it before.",
+        "accept": [
+          "I had never seen that before.",
+          "I had never seen this before.",
+          "I have never seen it before.",
+          "I have never seen this before.",
+          "I have never seen that before."
+        ],
+        "explanation": "Before – zaprzeszłość albo doświadczenie."
+      }
+    ]
+  },
+  {
+    "id": "b2-past-perfect-simple-3",
+    "topicId": "b2-past-perfect-simple",
+    "exercises": [
+      {
+        "id": "b2-past-perfect-simple-3-01",
+        "type": "choice",
+        "prompt": "I didn't recognise him because he ___ a lot.",
+        "answer": "had changed",
+        "distractors": [
+          "has changed",
+          "changes"
+        ],
+        "explanation": "Zmienił się wcześniej: had changed."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-02",
+        "type": "choice",
+        "prompt": "We ___ for hours, so we were very hungry.",
+        "answer": "hadn't eaten",
+        "distractors": [
+          "haven't eaten",
+          "don't eat"
+        ],
+        "explanation": "Wcześniej: hadn't eaten."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-03",
+        "type": "cloze",
+        "prompt": "As soon as I ___ the email, I noticed the mistake. (send)",
+        "answer": "had sent",
+        "accept": [
+          "sent"
+        ],
+        "explanation": "Wcześniejsze: had sent (albo sent)."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-04",
+        "type": "cloze",
+        "prompt": "It was the best meal I had ever ___. (eat)",
+        "answer": "eaten",
+        "explanation": "Had ever + III forma."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-05",
+        "type": "cloze",
+        "prompt": "The match ___ when we turned on the TV. (already / start)",
+        "answer": "had already started",
+        "explanation": "Wcześniej: had already started."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "by the time|zanim, do czasu gdy",
+          "already|już",
+          "never ... before|nigdy wcześniej",
+          "after|po tym jak"
+        ],
+        "explanation": "Słowa z Past Perfect."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-07",
+        "type": "error",
+        "prompt": "When we got home, we found that someone has broken in.",
+        "answer": [
+          "has",
+          "had"
+        ],
+        "explanation": "Wcześniej niż „found”: had broken."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-08",
+        "type": "error",
+        "prompt": "I had went there before.",
+        "answer": [
+          "went",
+          "gone"
+        ],
+        "explanation": "III forma: gone."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-09",
+        "type": "tiles",
+        "prompt": "Zdałem sobie sprawę, że zostawiłem telefon w taksówce.",
+        "answer": [
+          "I",
+          "realised",
+          "I",
+          "had",
+          "left",
+          "my",
+          "phone",
+          "in",
+          "the",
+          "taxi"
+        ],
+        "distractors": [
+          "have",
+          "leave"
+        ],
+        "explanation": "Wcześniejsze: had left."
+      },
+      {
+        "id": "b2-past-perfect-simple-3-10",
+        "type": "translate",
+        "prompt": "Wiedziała, że popełniła błąd.",
+        "answer": "She knew that she had made a mistake.",
+        "accept": [
+          "She knew she had made a mistake."
+        ],
+        "explanation": "Wcześniejsze: had made."
+      }
+    ]
+  }
+]

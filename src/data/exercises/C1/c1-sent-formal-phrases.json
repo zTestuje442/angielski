@@ -1,0 +1,354 @@
+[
+  {
+    "id": "c1-sent-formal-phrases-1",
+    "topicId": "c1-sent-formal-phrases",
+    "exercises": [
+      {
+        "id": "c1-sent-formal-phrases-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Further to our conversation,...|Nawiązując do naszej rozmowy,...",
+          "Please be advised that...|Uprzejmie informujemy, że...",
+          "Kindly confirm...|Proszę potwierdzić...",
+          "Thank you in advance...|Z góry dziękuję..."
+        ],
+        "explanation": "Zwroty formalne."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-02",
+        "type": "choice",
+        "prompt": "I would ___ it if you could reply by Friday.",
+        "answer": "appreciate",
+        "distractors": [
+          "thank",
+          "grateful"
+        ],
+        "explanation": "I would appreciate it if..."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-03",
+        "type": "choice",
+        "prompt": "Please ___ attached the agenda for the meeting.",
+        "answer": "find",
+        "distractors": [
+          "see it",
+          "look"
+        ],
+        "explanation": "Please find attached."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-04",
+        "type": "cloze",
+        "prompt": "I am writing with ___ to your invoice. (w nawiązaniu)",
+        "answer": "regard",
+        "accept": [
+          "reference",
+          "respect"
+        ],
+        "explanation": "With regard to."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-05",
+        "type": "cloze",
+        "prompt": "We ___ to inform you that the event has been cancelled. (z przykrością)",
+        "answer": "regret",
+        "explanation": "We regret to inform you."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-06",
+        "type": "error",
+        "prompt": "I would be grateful if you could confirming your attendance.",
+        "answer": [
+          "confirming",
+          "confirm"
+        ],
+        "explanation": "Could + forma podstawowa."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-07",
+        "type": "tiles",
+        "prompt": "Proszę zauważyć że biuro będzie zamknięte w piątek.",
+        "answer": [
+          "Please",
+          "note",
+          "that",
+          "the",
+          "office",
+          "will",
+          "be",
+          "closed",
+          "on",
+          "Friday"
+        ],
+        "distractors": [
+          "noting",
+          "been"
+        ],
+        "explanation": "Please note that..."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-08",
+        "type": "translate",
+        "prompt": "Z góry dziękuję za współpracę.",
+        "answer": "Thank you in advance for your cooperation.",
+        "accept": [
+          "Thank you in advance for your co-operation.",
+          "Thanks in advance for your cooperation.",
+          "Thank you for your cooperation in advance."
+        ],
+        "explanation": "Thank you in advance."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-09",
+        "type": "choice",
+        "prompt": "Which phrase refers to an earlier email?",
+        "answer": "As mentioned in my previous email,",
+        "distractors": [
+          "By the way,",
+          "Guess what,"
+        ],
+        "explanation": "As mentioned in my previous email."
+      },
+      {
+        "id": "c1-sent-formal-phrases-1-10",
+        "type": "transform",
+        "prompt": "Zamień na formalną prośbę, zacznij od „Would it be possible”.\nCan we move the meeting to Tuesday?",
+        "answer": "Would it be possible to move the meeting to Tuesday?",
+        "explanation": "Would it be possible to...?"
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-formal-phrases-2",
+    "topicId": "c1-sent-formal-phrases",
+    "exercises": [
+      {
+        "id": "c1-sent-formal-phrases-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "I'd like to raise a point.|Chciałbym poruszyć kwestię.",
+          "Could we move on?|Czy możemy przejść dalej?",
+          "If I could just come in here...|Jeśli mogę się wtrącić...",
+          "To summarise...|Podsumowując..."
+        ],
+        "explanation": "Zwroty na spotkaniach."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-02",
+        "type": "choice",
+        "prompt": "___ our telephone conversation, I am sending the contract.",
+        "answer": "Further to",
+        "distractors": [
+          "Furthermore",
+          "Farther"
+        ],
+        "explanation": "Further to – nawiązując do."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-03",
+        "type": "choice",
+        "prompt": "Please accept our ___ for the delay.",
+        "answer": "apologies",
+        "distractors": [
+          "sorry",
+          "excuses"
+        ],
+        "explanation": "Please accept our apologies."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-04",
+        "type": "cloze",
+        "prompt": "Unfortunately, we are ___ to offer you a refund. (nie jesteśmy w stanie)",
+        "answer": "unable",
+        "explanation": "We are unable to."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-05",
+        "type": "cloze",
+        "prompt": "Could we move ___ to the next item on the agenda?",
+        "answer": "on",
+        "explanation": "Move on to."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-06",
+        "type": "error",
+        "prompt": "Should you have any questions, please don't hesitate to contacting me.",
+        "answer": [
+          "contacting",
+          "contact"
+        ],
+        "explanation": "Hesitate to + forma podstawowa."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-07",
+        "type": "tiles",
+        "prompt": "Nawiązując do Pana prośby przesyłam raport.",
+        "answer": [
+          "Following",
+          "your",
+          "request",
+          "I",
+          "am",
+          "sending",
+          "the",
+          "report"
+        ],
+        "distractors": [
+          "Follow",
+          "send"
+        ],
+        "explanation": "Following your request."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-08",
+        "type": "translate",
+        "prompt": "Czy mógłby Pan potwierdzić otrzymanie?",
+        "answer": "Could you please confirm receipt?",
+        "accept": [
+          "Could you confirm receipt?",
+          "Could you please confirm that you have received it?",
+          "Kindly confirm receipt.",
+          "Could you please confirm receipt of this email?"
+        ],
+        "explanation": "Confirm receipt."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-09",
+        "type": "choice",
+        "prompt": "Which phrase is used to interrupt politely in a meeting?",
+        "answer": "If I could just come in here...",
+        "distractors": [
+          "Shut up for a second.",
+          "Listen to me now."
+        ],
+        "explanation": "Uprzejme wtrącenie."
+      },
+      {
+        "id": "c1-sent-formal-phrases-2-10",
+        "type": "transform",
+        "prompt": "Zamień na formalny zwrot, zacznij od „Please be advised”.\nJust so you know, the price has changed.",
+        "answer": "Please be advised that the price has changed.",
+        "explanation": "Please be advised that..."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-formal-phrases-3",
+    "topicId": "c1-sent-formal-phrases",
+    "exercises": [
+      {
+        "id": "c1-sent-formal-phrases-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "With reference to...|W nawiązaniu do...",
+          "I wish to inform you...|Pragnę poinformować...",
+          "I look forward to your reply.|Czekam na odpowiedź.",
+          "We are unable to...|Nie jesteśmy w stanie..."
+        ],
+        "explanation": "Zwroty formalne."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-02",
+        "type": "choice",
+        "prompt": "I would be grateful ___ you could send me the details.",
+        "answer": "if",
+        "distractors": [
+          "that",
+          "when"
+        ],
+        "explanation": "I would be grateful if..."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-03",
+        "type": "choice",
+        "prompt": "___ you have any further questions, please contact me.",
+        "answer": "Should",
+        "distractors": [
+          "Would",
+          "Had"
+        ],
+        "explanation": "Should you have..."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-04",
+        "type": "cloze",
+        "prompt": "Thank you for your prompt ___. (odpowiedź)",
+        "answer": "reply",
+        "accept": [
+          "response"
+        ],
+        "explanation": "Prompt reply."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-05",
+        "type": "cloze",
+        "prompt": "Please do not ___ to contact me. (wahać się)",
+        "answer": "hesitate",
+        "explanation": "Do not hesitate to."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-06",
+        "type": "error",
+        "prompt": "I am writing in regard of your complaint.",
+        "answer": [
+          "of",
+          "to"
+        ],
+        "explanation": "In regard to / with regard to."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-07",
+        "type": "error",
+        "prompt": "We regret to inform you that your order have been delayed.",
+        "answer": [
+          "have",
+          "has"
+        ],
+        "explanation": "Your order has."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-08",
+        "type": "tiles",
+        "prompt": "Byłbym wdzięczny za szybką odpowiedź.",
+        "answer": [
+          "I",
+          "would",
+          "be",
+          "grateful",
+          "for",
+          "a",
+          "prompt",
+          "reply"
+        ],
+        "distractors": [
+          "gratefully",
+          "to"
+        ],
+        "explanation": "Grateful for."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-09",
+        "type": "translate",
+        "prompt": "Pragnę poinformować, że rezygnuję ze stanowiska.",
+        "answer": "I wish to inform you that I am resigning from my position.",
+        "accept": [
+          "I would like to inform you that I am resigning from my position.",
+          "I wish to inform you that I am resigning from my post.",
+          "I wish to inform you that I am resigning.",
+          "I would like to inform you that I am resigning."
+        ],
+        "explanation": "I wish to inform you that..."
+      },
+      {
+        "id": "c1-sent-formal-phrases-3-10",
+        "type": "transform",
+        "prompt": "Zamień na formalną prośbę, zacznij od „I would appreciate it”.\nPlease send the documents by Monday.",
+        "answer": "I would appreciate it if you could send the documents by Monday.",
+        "explanation": "I would appreciate it if you could..."
+      }
+    ]
+  }
+]

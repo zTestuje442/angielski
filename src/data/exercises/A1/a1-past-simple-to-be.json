@@ -1,0 +1,301 @@
+[
+  {
+    "id": "a1-past-simple-to-be-1",
+    "topicId": "a1-past-simple-to-be",
+    "exercises": [
+      {
+        "id": "a1-past-simple-to-be-1-01",
+        "type": "cloze",
+        "prompt": "I ___ at home yesterday.",
+        "answer": "was",
+        "explanation": "I + was."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-02",
+        "type": "cloze",
+        "prompt": "They ___ in Paris last year.",
+        "answer": "were",
+        "explanation": "They + were."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-03",
+        "type": "choice",
+        "prompt": "She ___ ill last week.",
+        "answer": "was",
+        "distractors": [
+          "were",
+          "is"
+        ],
+        "explanation": "She + was; last week – przeszłość."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-04",
+        "type": "choice",
+        "prompt": "We ___ tired after the trip.",
+        "answer": "were",
+        "distractors": [
+          "was",
+          "are"
+        ],
+        "explanation": "We + were."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-05",
+        "type": "match",
+        "prompt": "Połącz polskie formy z angielskimi.",
+        "answer": [
+          "byłem|I was",
+          "byliśmy|we were",
+          "ona była|she was",
+          "oni byli|they were"
+        ],
+        "explanation": "I/he/she/it – was; we/you/they – were."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-06",
+        "type": "tiles",
+        "prompt": "Wczoraj było zimno.",
+        "answer": [
+          "It",
+          "was",
+          "cold",
+          "yesterday"
+        ],
+        "accept": [
+          "Yesterday it was cold"
+        ],
+        "explanation": "It + was."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-07",
+        "type": "error",
+        "prompt": "You was right.",
+        "answer": [
+          "was",
+          "were"
+        ],
+        "explanation": "You + were."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-08",
+        "type": "translate",
+        "prompt": "Gdzie byłeś wczoraj?",
+        "answer": "Where were you yesterday?",
+        "explanation": "Where + were + you."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-09",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nShe is at school.",
+        "answer": "She was at school.",
+        "explanation": "Is → was."
+      },
+      {
+        "id": "a1-past-simple-to-be-1-10",
+        "type": "cloze",
+        "prompt": "The film ___ very good.",
+        "answer": "was",
+        "explanation": "The film = it, więc was."
+      }
+    ]
+  },
+  {
+    "id": "a1-past-simple-to-be-2",
+    "topicId": "a1-past-simple-to-be",
+    "exercises": [
+      {
+        "id": "a1-past-simple-to-be-2-01",
+        "type": "cloze",
+        "prompt": "I ___ at the party. I was ill.",
+        "answer": "wasn't",
+        "explanation": "Przeczenie z I: wasn't."
+      },
+      {
+        "id": "a1-past-simple-to-be-2-02",
+        "type": "cloze",
+        "prompt": "___ you at work on Monday?",
+        "answer": "Were",
+        "explanation": "Pytanie z you: Were...?"
+      },
+      {
+        "id": "a1-past-simple-to-be-2-03",
+        "type": "cloze",
+        "prompt": "Was it expensive? — No, it ___.",
+        "answer": "wasn't",
+        "explanation": "Krótka odpowiedź: No, it wasn't."
+      },
+      {
+        "id": "a1-past-simple-to-be-2-04",
+        "type": "choice",
+        "prompt": "___ your parents at home?",
+        "answer": "Were",
+        "distractors": [
+          "Was",
+          "Did"
+        ],
+        "explanation": "Your parents = they: Were...?"
+      },
+      {
+        "id": "a1-past-simple-to-be-2-05",
+        "type": "choice",
+        "prompt": "The shops ___ open on Sunday.",
+        "answer": "weren't",
+        "distractors": [
+          "wasn't",
+          "didn't"
+        ],
+        "explanation": "The shops = they: weren't."
+      },
+      {
+        "id": "a1-past-simple-to-be-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThe test was easy.",
+        "answer": "The test was not easy.",
+        "explanation": "Was not = wasn't."
+      },
+      {
+        "id": "a1-past-simple-to-be-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThey were happy.",
+        "answer": "Were they happy?",
+        "explanation": "Were przechodzi przed podmiot."
+      },
+      {
+        "id": "a1-past-simple-to-be-2-08",
+        "type": "tiles",
+        "prompt": "Czy było fajnie?",
+        "answer": [
+          "Was",
+          "it",
+          "fun"
+        ],
+        "explanation": "Pytanie: Was it...?"
+      },
+      {
+        "id": "a1-past-simple-to-be-2-09",
+        "type": "error",
+        "prompt": "Was they at school?",
+        "answer": [
+          "Was",
+          "Were"
+        ],
+        "explanation": "They + were."
+      },
+      {
+        "id": "a1-past-simple-to-be-2-10",
+        "type": "translate",
+        "prompt": "Nie było mnie w domu.",
+        "answer": "I was not at home.",
+        "accept": [
+          "I was not home."
+        ],
+        "explanation": "Po angielsku: I wasn't at home."
+      }
+    ]
+  },
+  {
+    "id": "a1-past-simple-to-be-3",
+    "topicId": "a1-past-simple-to-be",
+    "exercises": [
+      {
+        "id": "a1-past-simple-to-be-3-01",
+        "type": "cloze",
+        "prompt": "Where ___ you born?",
+        "answer": "were",
+        "explanation": "Where were you born? – Gdzie się urodziłeś?"
+      },
+      {
+        "id": "a1-past-simple-to-be-3-02",
+        "type": "cloze",
+        "prompt": "I ___ born in 1995.",
+        "answer": "was",
+        "explanation": "Urodziłem się: I was born."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-03",
+        "type": "choice",
+        "prompt": "How ___ your holiday?",
+        "answer": "was",
+        "distractors": [
+          "were",
+          "did"
+        ],
+        "explanation": "Your holiday = it: was."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-04",
+        "type": "choice",
+        "prompt": "There ___ many people at the concert.",
+        "answer": "were",
+        "distractors": [
+          "was",
+          "are"
+        ],
+        "explanation": "Many people – liczba mnoga: there were."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-05",
+        "type": "tiles",
+        "prompt": "Byliśmy bardzo zmęczeni.",
+        "answer": [
+          "We",
+          "were",
+          "very",
+          "tired"
+        ],
+        "explanation": "We + were."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-06",
+        "type": "error",
+        "prompt": "It were a beautiful day.",
+        "answer": [
+          "were",
+          "was"
+        ],
+        "explanation": "It + was."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-07",
+        "type": "error",
+        "prompt": "Where was you last night?",
+        "answer": [
+          "was",
+          "were"
+        ],
+        "explanation": "You + were."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-08",
+        "type": "translate",
+        "prompt": "Pogoda była piękna.",
+        "answer": "The weather was beautiful.",
+        "accept": [
+          "The weather was lovely.",
+          "The weather was nice.",
+          "The weather was great."
+        ],
+        "explanation": "The weather + was."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-09",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły; zamiast „today” użyj „yesterday”.\nWe are at the beach today.",
+        "answer": "We were at the beach yesterday.",
+        "explanation": "Are → were."
+      },
+      {
+        "id": "a1-past-simple-to-be-3-10",
+        "type": "match",
+        "prompt": "Połącz pytania z odpowiedziami.",
+        "answer": [
+          "Were you tired?|Yes, I was.",
+          "Was he happy?|No, he wasn't.",
+          "Were they late?|Yes, they were.",
+          "Was it cold?|No, it wasn't."
+        ],
+        "explanation": "Odpowiedź powtarza podmiot i was/were."
+      }
+    ]
+  }
+]

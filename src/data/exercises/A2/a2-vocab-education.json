@@ -1,0 +1,330 @@
+[
+  {
+    "id": "a2-vocab-education-1",
+    "topicId": "a2-vocab-education",
+    "exercises": [
+      {
+        "id": "a2-vocab-education-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "primary school|szkoła podstawowa",
+          "secondary school|szkoła średnia",
+          "university|uniwersytet",
+          "subject|przedmiot"
+        ],
+        "explanation": "Szkoły i przedmioty."
+      },
+      {
+        "id": "a2-vocab-education-1-02",
+        "type": "choice",
+        "prompt": "Maths, history and art are school ___.",
+        "answer": "subjects",
+        "distractors": [
+          "objects",
+          "lessons"
+        ],
+        "explanation": "Przedmioty: subjects."
+      },
+      {
+        "id": "a2-vocab-education-1-03",
+        "type": "choice",
+        "prompt": "I hope I ___ the exam.",
+        "answer": "pass",
+        "distractors": [
+          "make",
+          "fall"
+        ],
+        "explanation": "Zdać: pass."
+      },
+      {
+        "id": "a2-vocab-education-1-04",
+        "type": "cloze",
+        "prompt": "She ___ the exam, so she has to take it again. (oblała)",
+        "answer": "failed",
+        "explanation": "Oblać: fail."
+      },
+      {
+        "id": "a2-vocab-education-1-05",
+        "type": "cloze",
+        "prompt": "I'm ___ English at university. (studiuję)",
+        "answer": "studying",
+        "explanation": "Studiować: study."
+      },
+      {
+        "id": "a2-vocab-education-1-06",
+        "type": "error",
+        "prompt": "The teacher learns us English.",
+        "answer": [
+          "learns",
+          "teaches"
+        ],
+        "explanation": "Uczyć kogoś: teach."
+      },
+      {
+        "id": "a2-vocab-education-1-07",
+        "type": "tiles",
+        "prompt": "Jaki jest twój ulubiony przedmiot?",
+        "answer": [
+          "What",
+          "is",
+          "your",
+          "favourite",
+          "subject"
+        ],
+        "explanation": "Ulubiony przedmiot: favourite subject."
+      },
+      {
+        "id": "a2-vocab-education-1-08",
+        "type": "translate",
+        "prompt": "Uczę się do egzaminu.",
+        "answer": "I am studying for an exam.",
+        "accept": [
+          "I am studying for the exam.",
+          "I am revising for an exam.",
+          "I am revising for the exam.",
+          "I am learning for an exam.",
+          "I am learning for the exam."
+        ],
+        "explanation": "Uczyć się do: study for."
+      },
+      {
+        "id": "a2-vocab-education-1-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\npass an exam",
+        "answer": "fail an exam",
+        "explanation": "Pass – fail."
+      },
+      {
+        "id": "a2-vocab-education-1-10",
+        "type": "choice",
+        "prompt": "Please ___ your hand if you have a question.",
+        "answer": "raise",
+        "distractors": [
+          "rise",
+          "grow"
+        ],
+        "explanation": "Podnieść rękę: raise your hand."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-education-2",
+    "topicId": "a2-vocab-education",
+    "exercises": [
+      {
+        "id": "a2-vocab-education-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "homework|praca domowa",
+          "mark|ocena",
+          "timetable|plan lekcji",
+          "break|przerwa"
+        ],
+        "explanation": "Szkolne słowa."
+      },
+      {
+        "id": "a2-vocab-education-2-02",
+        "type": "cloze",
+        "prompt": "I got a good ___ in my test. (ocena)",
+        "answer": "mark",
+        "accept": [
+          "grade"
+        ],
+        "explanation": "Ocena: mark (USA: grade)."
+      },
+      {
+        "id": "a2-vocab-education-2-03",
+        "type": "cloze",
+        "prompt": "We have a 15-minute ___ between lessons. (przerwa)",
+        "answer": "break",
+        "explanation": "Przerwa: break."
+      },
+      {
+        "id": "a2-vocab-education-2-04",
+        "type": "choice",
+        "prompt": "Did you do your ___?",
+        "answer": "homework",
+        "distractors": [
+          "homeworks",
+          "housework"
+        ],
+        "explanation": "Praca domowa: homework (niepoliczalne)."
+      },
+      {
+        "id": "a2-vocab-education-2-05",
+        "type": "choice",
+        "prompt": "My ___ teacher is very strict.",
+        "answer": "maths",
+        "distractors": [
+          "math's",
+          "mathematic"
+        ],
+        "explanation": "Matematyka: maths."
+      },
+      {
+        "id": "a2-vocab-education-2-06",
+        "type": "error",
+        "prompt": "I have to make my homework.",
+        "answer": [
+          "make",
+          "do"
+        ],
+        "explanation": "Do homework."
+      },
+      {
+        "id": "a2-vocab-education-2-07",
+        "type": "error",
+        "prompt": "She is very good in maths.",
+        "answer": [
+          "in",
+          "at"
+        ],
+        "explanation": "Good at."
+      },
+      {
+        "id": "a2-vocab-education-2-08",
+        "type": "tiles",
+        "prompt": "Nie odrobiłem pracy domowej.",
+        "answer": [
+          "I",
+          "didn't",
+          "do",
+          "my",
+          "homework"
+        ],
+        "explanation": "Do homework."
+      },
+      {
+        "id": "a2-vocab-education-2-09",
+        "type": "translate",
+        "prompt": "W której klasie jesteś?",
+        "answer": "What year are you in?",
+        "accept": [
+          "What class are you in?",
+          "What grade are you in?",
+          "Which year are you in?",
+          "Which class are you in?"
+        ],
+        "explanation": "Klasa (rocznik): year (USA: grade)."
+      },
+      {
+        "id": "a2-vocab-education-2-10",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nclass",
+        "answer": "classes",
+        "explanation": "Po -ss: -es."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-education-3",
+    "topicId": "a2-vocab-education",
+    "exercises": [
+      {
+        "id": "a2-vocab-education-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "degree|dyplom, stopień",
+          "lecture|wykład",
+          "student|student",
+          "course|kurs"
+        ],
+        "explanation": "Studia."
+      },
+      {
+        "id": "a2-vocab-education-3-02",
+        "type": "cloze",
+        "prompt": "She has a ___ in biology. (dyplom)",
+        "answer": "degree",
+        "explanation": "Dyplom: degree."
+      },
+      {
+        "id": "a2-vocab-education-3-03",
+        "type": "cloze",
+        "prompt": "I'm taking an online ___ in Spanish. (kurs)",
+        "answer": "course",
+        "explanation": "Kurs: course."
+      },
+      {
+        "id": "a2-vocab-education-3-04",
+        "type": "choice",
+        "prompt": "I go to ___ at 9 a.m. at university.",
+        "answer": "lectures",
+        "distractors": [
+          "readings",
+          "speakers"
+        ],
+        "explanation": "Wykłady: lectures."
+      },
+      {
+        "id": "a2-vocab-education-3-05",
+        "type": "choice",
+        "prompt": "He ___ from university in 2020.",
+        "answer": "graduated",
+        "distractors": [
+          "finished off",
+          "ended"
+        ],
+        "explanation": "Ukończyć studia: graduate from."
+      },
+      {
+        "id": "a2-vocab-education-3-06",
+        "type": "error",
+        "prompt": "I want to make a course in cooking.",
+        "answer": [
+          "make",
+          "take"
+        ],
+        "accept": [
+          "do"
+        ],
+        "explanation": "Kurs: take (albo do) a course."
+      },
+      {
+        "id": "a2-vocab-education-3-07",
+        "type": "error",
+        "prompt": "The lessons begins at 8.",
+        "answer": [
+          "begins",
+          "begin"
+        ],
+        "explanation": "Lessons to liczba mnoga: begin."
+      },
+      {
+        "id": "a2-vocab-education-3-08",
+        "type": "tiles",
+        "prompt": "Chcę studiować medycynę.",
+        "answer": [
+          "I",
+          "want",
+          "to",
+          "study",
+          "medicine"
+        ],
+        "explanation": "Studiować: study."
+      },
+      {
+        "id": "a2-vocab-education-3-09",
+        "type": "translate",
+        "prompt": "Nauczyciel jest bardzo miły.",
+        "answer": "The teacher is very nice.",
+        "accept": [
+          "The teacher is very kind.",
+          "My teacher is very nice.",
+          "Our teacher is very nice."
+        ],
+        "explanation": "Miły: nice/kind."
+      },
+      {
+        "id": "a2-vocab-education-3-10",
+        "type": "transform",
+        "prompt": "Utwórz nazwę osoby od czasownika.\nlearn",
+        "answer": "learner",
+        "explanation": "Learn + -er."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-article-3",
+  "topicId": "b1-reading-article",
+  "title": "Gardens in the sky",
+  "text": "Look up the next time you walk through a big city and you might see something surprising: trees, vegetables and flowers growing on the roofs of office buildings, shopping centres and blocks of flats. Rooftop gardens are becoming more and more popular, and they are not just pretty.\n\nIn the summer, flat roofs made of concrete and asphalt get extremely hot, and they heat the air around them. Plants work like natural air conditioning: they keep the building below cooler and help to lower the temperature of the whole street. In winter, a layer of soil and plants helps to keep the heat inside. This means lower energy bills for the people who live and work in the building.\n\nGreen roofs also help when it rains. Instead of running straight into the drains, rainwater is soaked up by the soil and released slowly. In cities where heavy rain often causes flooding, this can make a real difference. In addition, the plants attract bees, butterflies and birds, which have fewer and fewer places to live in the city.\n\nSome rooftop gardens are used to grow food. Restaurants grow their own herbs and vegetables just a few floors above the kitchen, and some neighbourhood groups share a roof where residents can have their own small vegetable patch. For many people, especially those who live in flats, it is their only chance to garden.\n\nOf course, not every roof is suitable. A garden is heavy, especially when the soil is wet, so engineers must check that the building is strong enough. Building and looking after a green roof also costs money. But many city councils now offer grants to help, because they believe the benefits are worth it.",
+  "exercises": [
+    {
+      "id": "b1-reading-article-3-01",
+      "type": "choice",
+      "prompt": "Plants on roofs can help keep buildings cooler in summer.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...they keep the building below cooler...”"
+    },
+    {
+      "id": "b1-reading-article-3-02",
+      "type": "choice",
+      "prompt": "Every roof is strong enough for a garden.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...not every roof is suitable.”"
+    },
+    {
+      "id": "b1-reading-article-3-03",
+      "type": "choice",
+      "prompt": "Rooftop gardens are more popular in Asia than in Europe.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie porównuje kontynentów."
+    },
+    {
+      "id": "b1-reading-article-3-04",
+      "type": "choice",
+      "prompt": "How do green roofs help when it rains?",
+      "answer": "The soil absorbs the water and releases it slowly.",
+      "distractors": [
+        "The water goes straight into the drains.",
+        "Plants stop the rain from falling."
+      ],
+      "explanation": "„...rainwater is soaked up by the soil and released slowly.”"
+    },
+    {
+      "id": "b1-reading-article-3-05",
+      "type": "choice",
+      "prompt": "Why are rooftop gardens important for some people who live in flats?",
+      "answer": "It may be their only chance to garden.",
+      "distractors": [
+        "They can sell vegetables.",
+        "They pay lower rent."
+      ],
+      "explanation": "„...it is their only chance to garden.”"
+    },
+    {
+      "id": "b1-reading-article-3-06",
+      "type": "choice",
+      "prompt": "Why do some city councils give money for green roofs?",
+      "answer": "They think the benefits are worth it.",
+      "distractors": [
+        "Roofs are cheap to build.",
+        "Engineers ask them to."
+      ],
+      "explanation": "„...because they believe the benefits are worth it.”"
+    },
+    {
+      "id": "b1-reading-article-3-07",
+      "type": "cloze",
+      "prompt": "A layer of soil and plants helps to keep the ___ inside in winter.",
+      "answer": "heat",
+      "explanation": "Ciepło: heat."
+    },
+    {
+      "id": "b1-reading-article-3-08",
+      "type": "cloze",
+      "prompt": "The plants attract bees, butterflies and ___.",
+      "answer": "birds",
+      "explanation": "Ptaki: birds."
+    },
+    {
+      "id": "b1-reading-article-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "concrete|beton",
+        "soil|gleba",
+        "flooding|powódź, zalanie",
+        "grant|dotacja"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

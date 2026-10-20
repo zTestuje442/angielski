@@ -1,0 +1,303 @@
+[
+  {
+    "id": "a1-plurals-1",
+    "topicId": "a1-plurals",
+    "exercises": [
+      {
+        "id": "a1-plurals-1-01",
+        "type": "cloze",
+        "prompt": "one book, two ___",
+        "answer": "books",
+        "explanation": "Większość rzeczowników: dodajemy -s."
+      },
+      {
+        "id": "a1-plurals-1-02",
+        "type": "cloze",
+        "prompt": "one box, three ___",
+        "answer": "boxes",
+        "explanation": "Po -x dodajemy -es."
+      },
+      {
+        "id": "a1-plurals-1-03",
+        "type": "cloze",
+        "prompt": "one bus, two ___",
+        "answer": "buses",
+        "explanation": "Po -s dodajemy -es."
+      },
+      {
+        "id": "a1-plurals-1-04",
+        "type": "choice",
+        "prompt": "I have two ___.",
+        "answer": "watches",
+        "distractors": [
+          "watchs",
+          "watch"
+        ],
+        "explanation": "Po -ch dodajemy -es."
+      },
+      {
+        "id": "a1-plurals-1-05",
+        "type": "choice",
+        "prompt": "There are five ___ in the room.",
+        "answer": "chairs",
+        "distractors": [
+          "chair",
+          "chaires"
+        ],
+        "explanation": "Chair + s = chairs."
+      },
+      {
+        "id": "a1-plurals-1-06",
+        "type": "match",
+        "prompt": "Połącz liczbę pojedynczą z mnogą.",
+        "answer": [
+          "dish|dishes",
+          "city|cities",
+          "day|days",
+          "baby|babies"
+        ],
+        "explanation": "Spółgłoska + y → -ies; samogłoska + y → -ys; po -sh → -es."
+      },
+      {
+        "id": "a1-plurals-1-07",
+        "type": "error",
+        "prompt": "She has three cat.",
+        "answer": [
+          "cat",
+          "cats"
+        ],
+        "explanation": "Po three potrzebna liczba mnoga: cats."
+      },
+      {
+        "id": "a1-plurals-1-08",
+        "type": "tiles",
+        "prompt": "Mam dwie siostry.",
+        "answer": [
+          "I",
+          "have",
+          "two",
+          "sisters"
+        ],
+        "explanation": "Two + liczba mnoga: sisters."
+      },
+      {
+        "id": "a1-plurals-1-09",
+        "type": "transform",
+        "prompt": "Zmień na liczbę mnogą.\nIt is a box.",
+        "answer": "They are boxes.",
+        "explanation": "It is → they are, a box → boxes (bez a)."
+      },
+      {
+        "id": "a1-plurals-1-10",
+        "type": "translate",
+        "prompt": "Moje książki są na stole.",
+        "answer": "My books are on the table.",
+        "explanation": "Books to liczba mnoga, więc are."
+      }
+    ]
+  },
+  {
+    "id": "a1-plurals-2",
+    "topicId": "a1-plurals",
+    "exercises": [
+      {
+        "id": "a1-plurals-2-01",
+        "type": "cloze",
+        "prompt": "one man, two ___",
+        "answer": "men",
+        "explanation": "Man → men (nieregularna)."
+      },
+      {
+        "id": "a1-plurals-2-02",
+        "type": "cloze",
+        "prompt": "one child, three ___",
+        "answer": "children",
+        "explanation": "Child → children (nieregularna)."
+      },
+      {
+        "id": "a1-plurals-2-03",
+        "type": "cloze",
+        "prompt": "one foot, two ___",
+        "answer": "feet",
+        "explanation": "Foot → feet (nieregularna)."
+      },
+      {
+        "id": "a1-plurals-2-04",
+        "type": "choice",
+        "prompt": "My ___ hurt.",
+        "answer": "teeth",
+        "distractors": [
+          "tooths",
+          "teeths"
+        ],
+        "explanation": "Tooth → teeth (nieregularna)."
+      },
+      {
+        "id": "a1-plurals-2-05",
+        "type": "match",
+        "prompt": "Połącz liczbę pojedynczą z mnogą.",
+        "answer": [
+          "woman|women",
+          "person|people",
+          "mouse|mice",
+          "tooth|teeth"
+        ],
+        "explanation": "Te formy trzeba zapamiętać."
+      },
+      {
+        "id": "a1-plurals-2-06",
+        "type": "choice",
+        "prompt": "Three ___ are playing in the park.",
+        "answer": "children",
+        "distractors": [
+          "childs",
+          "childrens"
+        ],
+        "explanation": "Children to już liczba mnoga, bez -s."
+      },
+      {
+        "id": "a1-plurals-2-07",
+        "type": "error",
+        "prompt": "The womans are in the shop.",
+        "answer": [
+          "womans",
+          "women"
+        ],
+        "explanation": "Woman → women."
+      },
+      {
+        "id": "a1-plurals-2-08",
+        "type": "tiles",
+        "prompt": "Dzieci są w ogrodzie.",
+        "answer": [
+          "The",
+          "children",
+          "are",
+          "in",
+          "the",
+          "garden"
+        ],
+        "explanation": "Children + are."
+      },
+      {
+        "id": "a1-plurals-2-09",
+        "type": "translate",
+        "prompt": "Moje stopy są zimne.",
+        "answer": "My feet are cold.",
+        "explanation": "Foot → feet."
+      },
+      {
+        "id": "a1-plurals-2-10",
+        "type": "transform",
+        "prompt": "Zmień na liczbę mnogą.\nThe man is tall.",
+        "answer": "The men are tall.",
+        "explanation": "Man → men, is → are."
+      }
+    ]
+  },
+  {
+    "id": "a1-plurals-3",
+    "topicId": "a1-plurals",
+    "exercises": [
+      {
+        "id": "a1-plurals-3-01",
+        "type": "cloze",
+        "prompt": "one knife, two ___",
+        "answer": "knives",
+        "explanation": "-fe → -ves."
+      },
+      {
+        "id": "a1-plurals-3-02",
+        "type": "cloze",
+        "prompt": "one potato, three ___",
+        "answer": "potatoes",
+        "explanation": "Potato → potatoes (-es)."
+      },
+      {
+        "id": "a1-plurals-3-03",
+        "type": "cloze",
+        "prompt": "one leaf, many ___",
+        "answer": "leaves",
+        "explanation": "-f → -ves."
+      },
+      {
+        "id": "a1-plurals-3-04",
+        "type": "choice",
+        "prompt": "Two ___ are on the table.",
+        "answer": "glasses",
+        "distractors": [
+          "glass",
+          "glasss"
+        ],
+        "explanation": "Po -ss dodajemy -es."
+      },
+      {
+        "id": "a1-plurals-3-05",
+        "type": "choice",
+        "prompt": "We need six ___.",
+        "answer": "tomatoes",
+        "distractors": [
+          "tomatos",
+          "tomato"
+        ],
+        "explanation": "Tomato → tomatoes (-es)."
+      },
+      {
+        "id": "a1-plurals-3-06",
+        "type": "match",
+        "prompt": "Połącz liczbę pojedynczą z mnogą.",
+        "answer": [
+          "wife|wives",
+          "shelf|shelves",
+          "photo|photos",
+          "key|keys"
+        ],
+        "explanation": "Wife, shelf → -ves; photo, key → -s."
+      },
+      {
+        "id": "a1-plurals-3-07",
+        "type": "error",
+        "prompt": "I have two babys.",
+        "answer": [
+          "babys",
+          "babies"
+        ],
+        "explanation": "Spółgłoska + y → -ies."
+      },
+      {
+        "id": "a1-plurals-3-08",
+        "type": "error",
+        "prompt": "The boxs are heavy.",
+        "answer": [
+          "boxs",
+          "boxes"
+        ],
+        "explanation": "Po -x dodajemy -es."
+      },
+      {
+        "id": "a1-plurals-3-09",
+        "type": "tiles",
+        "prompt": "Ludzie w pracy są mili.",
+        "answer": [
+          "The",
+          "people",
+          "at",
+          "work",
+          "are",
+          "nice"
+        ],
+        "explanation": "People to liczba mnoga, więc are."
+      },
+      {
+        "id": "a1-plurals-3-10",
+        "type": "translate",
+        "prompt": "Dwoje dzieci jest w szkole.",
+        "answer": "Two children are at school.",
+        "accept": [
+          "Two children are in school."
+        ],
+        "explanation": "Two children + are (po angielsku liczba mnoga)."
+      }
+    ]
+  }
+]

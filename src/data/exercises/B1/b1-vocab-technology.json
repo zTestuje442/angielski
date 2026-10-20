@@ -1,0 +1,351 @@
+[
+  {
+    "id": "b1-vocab-technology-1",
+    "topicId": "b1-vocab-technology",
+    "exercises": [
+      {
+        "id": "b1-vocab-technology-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "download|pobrać",
+          "upload|wgrać",
+          "password|hasło",
+          "screen|ekran"
+        ],
+        "explanation": "Podstawowe słowa."
+      },
+      {
+        "id": "b1-vocab-technology-1-02",
+        "type": "choice",
+        "prompt": "I forgot my ___ and couldn't log in.",
+        "answer": "password",
+        "distractors": [
+          "passport",
+          "keyword"
+        ],
+        "explanation": "Hasło: password."
+      },
+      {
+        "id": "b1-vocab-technology-1-03",
+        "type": "choice",
+        "prompt": "Can you ___ the photos to the cloud?",
+        "answer": "upload",
+        "distractors": [
+          "download",
+          "unload"
+        ],
+        "explanation": "Wgrać: upload."
+      },
+      {
+        "id": "b1-vocab-technology-1-04",
+        "type": "cloze",
+        "prompt": "Click on the ___ to open the website.",
+        "answer": "link",
+        "explanation": "Link."
+      },
+      {
+        "id": "b1-vocab-technology-1-05",
+        "type": "cloze",
+        "prompt": "My laptop's battery is ___. I need to charge it. (rozładowana)",
+        "answer": "flat",
+        "accept": [
+          "dead",
+          "empty",
+          "low"
+        ],
+        "explanation": "Rozładowana: flat (albo dead)."
+      },
+      {
+        "id": "b1-vocab-technology-1-06",
+        "type": "error",
+        "prompt": "Can you send me the link on email?",
+        "answer": [
+          "on",
+          "by"
+        ],
+        "accept": [
+          "via"
+        ],
+        "explanation": "Mailem: by email."
+      },
+      {
+        "id": "b1-vocab-technology-1-07",
+        "type": "tiles",
+        "prompt": "Mój komputer ciągle się zawiesza.",
+        "answer": [
+          "My",
+          "computer",
+          "keeps",
+          "crashing"
+        ],
+        "distractors": [
+          "crash",
+          "is"
+        ],
+        "explanation": "Keep + -ing; zawieszać się: crash."
+      },
+      {
+        "id": "b1-vocab-technology-1-08",
+        "type": "translate",
+        "prompt": "Nie mogę się zalogować.",
+        "answer": "I cannot log in.",
+        "accept": [
+          "I cannot log on."
+        ],
+        "explanation": "Zalogować się: log in."
+      },
+      {
+        "id": "b1-vocab-technology-1-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nlog in",
+        "answer": "log out",
+        "accept": [
+          "log off"
+        ],
+        "explanation": "Log in – log out."
+      },
+      {
+        "id": "b1-vocab-technology-1-10",
+        "type": "choice",
+        "prompt": "Turn ___ your phone during the film, please.",
+        "answer": "off",
+        "distractors": [
+          "down",
+          "out"
+        ],
+        "explanation": "Wyłączyć: turn off."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-technology-2",
+    "topicId": "b1-vocab-technology",
+    "exercises": [
+      {
+        "id": "b1-vocab-technology-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "app|aplikacja",
+          "update|aktualizacja",
+          "wi-fi|sieć bezprzewodowa",
+          "search engine|wyszukiwarka"
+        ],
+        "explanation": "Słowa z technologii."
+      },
+      {
+        "id": "b1-vocab-technology-2-02",
+        "type": "cloze",
+        "prompt": "You need to ___ the app to the latest version. (zaktualizować)",
+        "answer": "update",
+        "explanation": "Zaktualizować: update."
+      },
+      {
+        "id": "b1-vocab-technology-2-03",
+        "type": "cloze",
+        "prompt": "Is there free ___ in this café? (sieć bezprzewodowa)",
+        "answer": "wi-fi",
+        "accept": [
+          "wifi"
+        ],
+        "explanation": "Wi-fi."
+      },
+      {
+        "id": "b1-vocab-technology-2-04",
+        "type": "choice",
+        "prompt": "I ___ a mistake and deleted all my photos!",
+        "answer": "made",
+        "distractors": [
+          "did",
+          "took"
+        ],
+        "explanation": "Make a mistake."
+      },
+      {
+        "id": "b1-vocab-technology-2-05",
+        "type": "choice",
+        "prompt": "Don't forget to ___ up your files.",
+        "answer": "back",
+        "distractors": [
+          "save",
+          "keep"
+        ],
+        "explanation": "Kopia zapasowa: back up."
+      },
+      {
+        "id": "b1-vocab-technology-2-06",
+        "type": "error",
+        "prompt": "I'll google it in the internet.",
+        "answer": [
+          "in",
+          "on"
+        ],
+        "explanation": "On the internet."
+      },
+      {
+        "id": "b1-vocab-technology-2-07",
+        "type": "error",
+        "prompt": "My phone has no signal, so I can't do a call.",
+        "answer": [
+          "do",
+          "make"
+        ],
+        "explanation": "Make a call."
+      },
+      {
+        "id": "b1-vocab-technology-2-08",
+        "type": "tiles",
+        "prompt": "Zapisz plik, zanim go zamkniesz.",
+        "answer": [
+          "Save",
+          "the",
+          "file",
+          "before",
+          "you",
+          "close",
+          "it"
+        ],
+        "distractors": [
+          "Keep",
+          "closing"
+        ],
+        "explanation": "Zapisać: save."
+      },
+      {
+        "id": "b1-vocab-technology-2-09",
+        "type": "translate",
+        "prompt": "Jakie jest hasło do wi-fi?",
+        "answer": "What is the wi-fi password?",
+        "accept": [
+          "What is the password for the wi-fi?",
+          "What is the wifi password?",
+          "What is the password for the wifi?"
+        ],
+        "explanation": "Hasło: password."
+      },
+      {
+        "id": "b1-vocab-technology-2-10",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nturn on the computer",
+        "answer": "turn off the computer",
+        "explanation": "On – off."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-technology-3",
+    "topicId": "b1-vocab-technology",
+    "exercises": [
+      {
+        "id": "b1-vocab-technology-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "post|opublikować",
+          "share|udostępnić",
+          "follower|obserwujący",
+          "notification|powiadomienie"
+        ],
+        "explanation": "Media społecznościowe."
+      },
+      {
+        "id": "b1-vocab-technology-3-02",
+        "type": "cloze",
+        "prompt": "She ___ a photo of her dog on Instagram. (opublikowała)",
+        "answer": "posted",
+        "explanation": "Opublikować: post."
+      },
+      {
+        "id": "b1-vocab-technology-3-03",
+        "type": "cloze",
+        "prompt": "I got a ___ that someone liked my photo. (powiadomienie)",
+        "answer": "notification",
+        "explanation": "Powiadomienie: notification."
+      },
+      {
+        "id": "b1-vocab-technology-3-04",
+        "type": "choice",
+        "prompt": "My computer has a ___. It's very slow and strange things happen.",
+        "answer": "virus",
+        "distractors": [
+          "bug fix",
+          "firewall"
+        ],
+        "explanation": "Wirus: virus."
+      },
+      {
+        "id": "b1-vocab-technology-3-05",
+        "type": "choice",
+        "prompt": "Can you ___ the music down? I'm on the phone.",
+        "answer": "turn",
+        "distractors": [
+          "put",
+          "take"
+        ],
+        "explanation": "Ściszyć: turn down."
+      },
+      {
+        "id": "b1-vocab-technology-3-06",
+        "type": "error",
+        "prompt": "I always put my phone on silence mode at night.",
+        "answer": [
+          "silence",
+          "silent"
+        ],
+        "explanation": "Tryb cichy: silent mode."
+      },
+      {
+        "id": "b1-vocab-technology-3-07",
+        "type": "error",
+        "prompt": "She has thousands of followings on TikTok.",
+        "answer": [
+          "followings",
+          "followers"
+        ],
+        "explanation": "Obserwujący: followers."
+      },
+      {
+        "id": "b1-vocab-technology-3-08",
+        "type": "tiles",
+        "prompt": "Udostępnię ten artykuł znajomym.",
+        "answer": [
+          "I'll",
+          "share",
+          "this",
+          "article",
+          "with",
+          "my",
+          "friends"
+        ],
+        "distractors": [
+          "to",
+          "post"
+        ],
+        "explanation": "Share with."
+      },
+      {
+        "id": "b1-vocab-technology-3-09",
+        "type": "translate",
+        "prompt": "Mój telefon się rozładował.",
+        "answer": "My phone is dead.",
+        "accept": [
+          "My phone has died.",
+          "My phone's battery is dead.",
+          "My phone's battery is flat.",
+          "My battery is dead.",
+          "My battery is flat.",
+          "My phone has run out of battery."
+        ],
+        "explanation": "Rozładowany: dead / flat."
+      },
+      {
+        "id": "b1-vocab-technology-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The website”.\nSomeone hacked the website.",
+        "answer": "The website was hacked.",
+        "explanation": "Was + III forma."
+      }
+    ]
+  }
+]

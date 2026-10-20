@@ -1,0 +1,355 @@
+[
+  {
+    "id": "b1-future-forms-1",
+    "topicId": "b1-future-forms",
+    "exercises": [
+      {
+        "id": "b1-future-forms-1-01",
+        "type": "choice",
+        "prompt": "I ___ my grandma on Sunday. It's all arranged.",
+        "answer": "am visiting",
+        "distractors": [
+          "visit",
+          "visited"
+        ],
+        "explanation": "Umówione: Present Continuous."
+      },
+      {
+        "id": "b1-future-forms-1-02",
+        "type": "choice",
+        "prompt": "Look at that black sky! It ___ rain.",
+        "answer": "is going to",
+        "distractors": [
+          "will to",
+          "rains"
+        ],
+        "explanation": "Widać, co się stanie: going to."
+      },
+      {
+        "id": "b1-future-forms-1-03",
+        "type": "choice",
+        "prompt": "I'm thirsty. — I ___ get you some water.",
+        "answer": "will",
+        "distractors": [
+          "am going to",
+          "am getting"
+        ],
+        "explanation": "Decyzja teraz: will."
+      },
+      {
+        "id": "b1-future-forms-1-04",
+        "type": "choice",
+        "prompt": "I think it ___ be a great party.",
+        "answer": "will",
+        "distractors": [
+          "is going",
+          "is"
+        ],
+        "explanation": "Opinia o przyszłości: will."
+      },
+      {
+        "id": "b1-future-forms-1-05",
+        "type": "cloze",
+        "prompt": "We ___ to Rome next Friday. We've got the tickets. (fly)",
+        "answer": "are flying",
+        "accept": [
+          "are going to fly"
+        ],
+        "explanation": "Ustalony plan: Present Continuous."
+      },
+      {
+        "id": "b1-future-forms-1-06",
+        "type": "cloze",
+        "prompt": "I promise I ___ anybody. (not / tell)",
+        "answer": "won't tell",
+        "accept": [
+          "will not tell"
+        ],
+        "explanation": "Obietnica: won't."
+      },
+      {
+        "id": "b1-future-forms-1-07",
+        "type": "match",
+        "prompt": "Połącz zastosowanie z formą.",
+        "answer": [
+          "umówione plany|Present Continuous",
+          "zamiary|be going to",
+          "decyzja w chwili mówienia|will",
+          "rozkład jazdy|Present Simple"
+        ],
+        "explanation": "Formy przyszłości."
+      },
+      {
+        "id": "b1-future-forms-1-08",
+        "type": "error",
+        "prompt": "The film start at 8 tonight.",
+        "answer": [
+          "start",
+          "starts"
+        ],
+        "explanation": "Program: Present Simple, the film starts."
+      },
+      {
+        "id": "b1-future-forms-1-09",
+        "type": "tiles",
+        "prompt": "Zamierzam zacząć biegać.",
+        "answer": [
+          "I'm",
+          "going",
+          "to",
+          "start",
+          "running"
+        ],
+        "distractors": [
+          "will",
+          "starting"
+        ],
+        "explanation": "Zamiar: going to."
+      },
+      {
+        "id": "b1-future-forms-1-10",
+        "type": "translate",
+        "prompt": "Jutro rano spotykam się z szefem.",
+        "answer": "I am meeting my boss tomorrow morning.",
+        "accept": [
+          "Tomorrow morning I am meeting my boss."
+        ],
+        "explanation": "Umówione: Present Continuous."
+      }
+    ]
+  },
+  {
+    "id": "b1-future-forms-2",
+    "topicId": "b1-future-forms",
+    "exercises": [
+      {
+        "id": "b1-future-forms-2-01",
+        "type": "choice",
+        "prompt": "What time ___ the concert start?",
+        "answer": "does",
+        "distractors": [
+          "is",
+          "do"
+        ],
+        "explanation": "Program: Present Simple."
+      },
+      {
+        "id": "b1-future-forms-2-02",
+        "type": "choice",
+        "prompt": "Careful! You ___ drop the plates!",
+        "answer": "are going to",
+        "distractors": [
+          "will to",
+          "drop"
+        ],
+        "explanation": "Widać, co się stanie: going to."
+      },
+      {
+        "id": "b1-future-forms-2-03",
+        "type": "choice",
+        "prompt": "I've decided. I ___ sell my car.",
+        "answer": "am going to",
+        "distractors": [
+          "will to",
+          "sell"
+        ],
+        "explanation": "Wcześniejsza decyzja: going to."
+      },
+      {
+        "id": "b1-future-forms-2-04",
+        "type": "cloze",
+        "prompt": "The shop ___ at 9 tomorrow. (open)",
+        "answer": "opens",
+        "explanation": "Godziny otwarcia: Present Simple."
+      },
+      {
+        "id": "b1-future-forms-2-05",
+        "type": "cloze",
+        "prompt": "Wait – I ___ you with those bags. (help)",
+        "answer": "will help",
+        "accept": [
+          "'ll help"
+        ],
+        "explanation": "Decyzja teraz: will."
+      },
+      {
+        "id": "b1-future-forms-2-06",
+        "type": "transform",
+        "prompt": "Zareaguj decyzją z „I will”.\nThe phone is ringing.",
+        "answer": "I will answer it.",
+        "accept": [
+          "I will get it.",
+          "I will answer the phone.",
+          "I will pick it up."
+        ],
+        "explanation": "Decyzja teraz: will."
+      },
+      {
+        "id": "b1-future-forms-2-07",
+        "type": "tiles",
+        "prompt": "O której odjeżdża twój pociąg?",
+        "answer": [
+          "What",
+          "time",
+          "does",
+          "your",
+          "train",
+          "leave"
+        ],
+        "distractors": [
+          "is",
+          "will"
+        ],
+        "explanation": "Rozkład: Present Simple."
+      },
+      {
+        "id": "b1-future-forms-2-08",
+        "type": "error",
+        "prompt": "Are you go to the party tonight?",
+        "answer": [
+          "go",
+          "going"
+        ],
+        "explanation": "Plan: are you going."
+      },
+      {
+        "id": "b1-future-forms-2-09",
+        "type": "translate",
+        "prompt": "Myślę, że wygrają.",
+        "answer": "I think they will win.",
+        "accept": [
+          "I think they are going to win."
+        ],
+        "explanation": "Opinia: will."
+      },
+      {
+        "id": "b1-future-forms-2-10",
+        "type": "match",
+        "prompt": "Połącz zdania z sytuacją.",
+        "answer": [
+          "It's going to rain.|Widać ciemne chmury.",
+          "I'll call you.|Obietnica.",
+          "I'm seeing Ann at 5.|Umówione spotkanie.",
+          "The bus leaves at 7.|Rozkład jazdy."
+        ],
+        "explanation": "Formy przyszłości w praktyce."
+      }
+    ]
+  },
+  {
+    "id": "b1-future-forms-3",
+    "topicId": "b1-future-forms",
+    "exercises": [
+      {
+        "id": "b1-future-forms-3-01",
+        "type": "cloze",
+        "prompt": "By the way, I ___ a party next Saturday. Can you come? (have)",
+        "answer": "am having",
+        "accept": [
+          "am going to have"
+        ],
+        "explanation": "Zaplanowane: Present Continuous."
+      },
+      {
+        "id": "b1-future-forms-3-02",
+        "type": "cloze",
+        "prompt": "Maybe I ___ you later. (see)",
+        "answer": "will see",
+        "explanation": "Przypuszczenie: will."
+      },
+      {
+        "id": "b1-future-forms-3-03",
+        "type": "choice",
+        "prompt": "She ___ a baby in May.",
+        "answer": "is having",
+        "distractors": [
+          "has",
+          "having"
+        ],
+        "explanation": "Ustalone: Present Continuous."
+      },
+      {
+        "id": "b1-future-forms-3-04",
+        "type": "choice",
+        "prompt": "Do you want tea or coffee? — I ___ have tea, please.",
+        "answer": "will",
+        "distractors": [
+          "going to",
+          "am have"
+        ],
+        "explanation": "Decyzja teraz: I'll have."
+      },
+      {
+        "id": "b1-future-forms-3-05",
+        "type": "choice",
+        "prompt": "Our flight ___ at 10:40 according to the timetable.",
+        "answer": "departs",
+        "distractors": [
+          "departing",
+          "depart"
+        ],
+        "explanation": "Rozkład: Present Simple."
+      },
+      {
+        "id": "b1-future-forms-3-06",
+        "type": "error",
+        "prompt": "Will you coming to the meeting?",
+        "answer": [
+          "coming",
+          "come"
+        ],
+        "explanation": "Po will forma podstawowa."
+      },
+      {
+        "id": "b1-future-forms-3-07",
+        "type": "error",
+        "prompt": "The lesson finish at half past three.",
+        "answer": [
+          "finish",
+          "finishes"
+        ],
+        "explanation": "Plan lekcji: the lesson finishes."
+      },
+      {
+        "id": "b1-future-forms-3-08",
+        "type": "tiles",
+        "prompt": "Myślę, że to będzie trudne.",
+        "answer": [
+          "I",
+          "think",
+          "it",
+          "will",
+          "be",
+          "difficult"
+        ],
+        "distractors": [
+          "is",
+          "going"
+        ],
+        "explanation": "Opinia: will."
+      },
+      {
+        "id": "b1-future-forms-3-09",
+        "type": "translate",
+        "prompt": "Kiedy wyjeżdżasz na wakacje?",
+        "answer": "When are you going on holiday?",
+        "accept": [
+          "When are you leaving for your holiday?",
+          "When are you going on vacation?",
+          "When do you go on holiday?"
+        ],
+        "explanation": "Plan: Present Continuous."
+      },
+      {
+        "id": "b1-future-forms-3-10",
+        "type": "transform",
+        "prompt": "Zapisz jako umówiony plan w Present Continuous, zacznij od „I am”.\nI will play tennis with Tom at 5 tomorrow.",
+        "answer": "I am playing tennis with Tom at 5 tomorrow.",
+        "accept": [
+          "I am playing tennis with Tom tomorrow at 5."
+        ],
+        "explanation": "Umówione: Present Continuous."
+      }
+    ]
+  }
+]

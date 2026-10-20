@@ -1,0 +1,319 @@
+[
+  {
+    "id": "a2-vocab-free-time-1",
+    "topicId": "a2-vocab-free-time",
+    "exercises": [
+      {
+        "id": "a2-vocab-free-time-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "hobby|hobby",
+          "free time|czas wolny",
+          "hiking|wędrówki",
+          "gardening|ogrodnictwo"
+        ],
+        "explanation": "Czas wolny."
+      },
+      {
+        "id": "a2-vocab-free-time-1-02",
+        "type": "choice",
+        "prompt": "In my free time I ___ computer games.",
+        "answer": "play",
+        "distractors": [
+          "do",
+          "go"
+        ],
+        "explanation": "Gry: play."
+      },
+      {
+        "id": "a2-vocab-free-time-1-03",
+        "type": "choice",
+        "prompt": "We often ___ swimming at weekends.",
+        "answer": "go",
+        "distractors": [
+          "do",
+          "play"
+        ],
+        "explanation": "Go + -ing."
+      },
+      {
+        "id": "a2-vocab-free-time-1-04",
+        "type": "cloze",
+        "prompt": "She ___ yoga twice a week. (do / does)",
+        "answer": "does",
+        "explanation": "Do yoga; she: does."
+      },
+      {
+        "id": "a2-vocab-free-time-1-05",
+        "type": "cloze",
+        "prompt": "I ___ chess with my dad.",
+        "answer": "play",
+        "explanation": "Play chess."
+      },
+      {
+        "id": "a2-vocab-free-time-1-06",
+        "type": "error",
+        "prompt": "I do football every Saturday.",
+        "answer": [
+          "do",
+          "play"
+        ],
+        "explanation": "Sport z piłką: play."
+      },
+      {
+        "id": "a2-vocab-free-time-1-07",
+        "type": "tiles",
+        "prompt": "Co robisz w wolnym czasie?",
+        "answer": [
+          "What",
+          "do",
+          "you",
+          "do",
+          "in",
+          "your",
+          "free",
+          "time"
+        ],
+        "explanation": "W wolnym czasie: in your free time."
+      },
+      {
+        "id": "a2-vocab-free-time-1-08",
+        "type": "translate",
+        "prompt": "Chodzę na siłownię trzy razy w tygodniu.",
+        "answer": "I go to the gym three times a week.",
+        "explanation": "Go to the gym."
+      },
+      {
+        "id": "a2-vocab-free-time-1-09",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „she”.\nI go cycling at weekends.",
+        "answer": "She goes cycling at weekends.",
+        "explanation": "She + goes."
+      },
+      {
+        "id": "a2-vocab-free-time-1-10",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "go skiing",
+        "distractors": [
+          "play skiing",
+          "do skiing"
+        ],
+        "explanation": "Czynność na -ing: go."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-free-time-2",
+    "topicId": "a2-vocab-free-time",
+    "exercises": [
+      {
+        "id": "a2-vocab-free-time-2-01",
+        "type": "match",
+        "prompt": "Połącz czasownik z zajęciem.",
+        "answer": [
+          "play|tennis",
+          "go|running",
+          "do|karate"
+        ],
+        "explanation": "Play – gry z piłką, go – -ing, do – sztuki walki i ćwiczenia."
+      },
+      {
+        "id": "a2-vocab-free-time-2-02",
+        "type": "cloze",
+        "prompt": "Do you want to ___ shopping with me?",
+        "answer": "go",
+        "explanation": "Go shopping."
+      },
+      {
+        "id": "a2-vocab-free-time-2-03",
+        "type": "cloze",
+        "prompt": "He ___ judo at a club. (do)",
+        "answer": "does",
+        "explanation": "Do judo; he: does."
+      },
+      {
+        "id": "a2-vocab-free-time-2-04",
+        "type": "choice",
+        "prompt": "My kids ___ basketball after school.",
+        "answer": "play",
+        "distractors": [
+          "go",
+          "do"
+        ],
+        "explanation": "Sport z piłką: play."
+      },
+      {
+        "id": "a2-vocab-free-time-2-05",
+        "type": "choice",
+        "prompt": "Let's ___ fishing on Sunday.",
+        "answer": "go",
+        "distractors": [
+          "do",
+          "play"
+        ],
+        "explanation": "Go fishing."
+      },
+      {
+        "id": "a2-vocab-free-time-2-06",
+        "type": "error",
+        "prompt": "They do skiing in winter.",
+        "answer": [
+          "do",
+          "go"
+        ],
+        "explanation": "Go skiing."
+      },
+      {
+        "id": "a2-vocab-free-time-2-07",
+        "type": "tiles",
+        "prompt": "Czy lubisz chodzić do kina?",
+        "answer": [
+          "Do",
+          "you",
+          "like",
+          "going",
+          "to",
+          "the",
+          "cinema"
+        ],
+        "explanation": "Go to the cinema."
+      },
+      {
+        "id": "a2-vocab-free-time-2-08",
+        "type": "translate",
+        "prompt": "Gram na gitarze w zespole.",
+        "answer": "I play the guitar in a band.",
+        "explanation": "Play the guitar."
+      },
+      {
+        "id": "a2-vocab-free-time-2-09",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nWe go camping.",
+        "answer": "We went camping.",
+        "explanation": "Go → went."
+      },
+      {
+        "id": "a2-vocab-free-time-2-10",
+        "type": "choice",
+        "prompt": "I'm ___ in photography.",
+        "answer": "interested",
+        "distractors": [
+          "interesting",
+          "interest"
+        ],
+        "explanation": "Interesuję się: I'm interested in."
+      }
+    ]
+  },
+  {
+    "id": "a2-vocab-free-time-3",
+    "topicId": "a2-vocab-free-time",
+    "exercises": [
+      {
+        "id": "a2-vocab-free-time-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "concert|koncert",
+          "exhibition|wystawa",
+          "band|zespół",
+          "match|mecz"
+        ],
+        "explanation": "Rozrywki."
+      },
+      {
+        "id": "a2-vocab-free-time-3-02",
+        "type": "cloze",
+        "prompt": "We bought ___ for the concert. (bilety)",
+        "answer": "tickets",
+        "explanation": "Bilety: tickets."
+      },
+      {
+        "id": "a2-vocab-free-time-3-03",
+        "type": "cloze",
+        "prompt": "I'm a big ___ of this band. (fan)",
+        "answer": "fan",
+        "explanation": "Fan: fan."
+      },
+      {
+        "id": "a2-vocab-free-time-3-04",
+        "type": "choice",
+        "prompt": "Would you like to ___ out tonight?",
+        "answer": "go",
+        "distractors": [
+          "do",
+          "make"
+        ],
+        "explanation": "Wyjść wieczorem: go out."
+      },
+      {
+        "id": "a2-vocab-free-time-3-05",
+        "type": "choice",
+        "prompt": "What's ___ at the cinema this week?",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "Co grają: What's on?"
+      },
+      {
+        "id": "a2-vocab-free-time-3-06",
+        "type": "error",
+        "prompt": "I'm boring. Let's do something!",
+        "answer": [
+          "boring",
+          "bored"
+        ],
+        "explanation": "Nudzę się: I'm bored."
+      },
+      {
+        "id": "a2-vocab-free-time-3-07",
+        "type": "error",
+        "prompt": "The exhibition was very interested.",
+        "answer": [
+          "interested",
+          "interesting"
+        ],
+        "explanation": "Wystawa była ciekawa: interesting."
+      },
+      {
+        "id": "a2-vocab-free-time-3-08",
+        "type": "tiles",
+        "prompt": "Czy chciałbyś pójść ze mną na koncert?",
+        "answer": [
+          "Would",
+          "you",
+          "like",
+          "to",
+          "go",
+          "to",
+          "a",
+          "concert",
+          "with",
+          "me"
+        ],
+        "explanation": "Would you like to + go."
+      },
+      {
+        "id": "a2-vocab-free-time-3-09",
+        "type": "translate",
+        "prompt": "Interesuję się sztuką.",
+        "answer": "I am interested in art.",
+        "explanation": "Be interested in."
+      },
+      {
+        "id": "a2-vocab-free-time-3-10",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nThe film was boring.",
+        "answer": "The film was interesting.",
+        "accept": [
+          "The film was exciting."
+        ],
+        "explanation": "Boring – interesting."
+      }
+    ]
+  }
+]

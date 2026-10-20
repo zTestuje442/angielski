@@ -1,0 +1,347 @@
+[
+  {
+    "id": "c1-inversion-1",
+    "topicId": "c1-inversion",
+    "exercises": [
+      {
+        "id": "c1-inversion-1-01",
+        "type": "cloze",
+        "prompt": "Never ___ I seen such a beautiful sunset.",
+        "answer": "have",
+        "explanation": "Never + have + podmiot."
+      },
+      {
+        "id": "c1-inversion-1-02",
+        "type": "cloze",
+        "prompt": "Rarely ___ we get a chance like this.",
+        "answer": "do",
+        "explanation": "Rarely + do + podmiot."
+      },
+      {
+        "id": "c1-inversion-1-03",
+        "type": "choice",
+        "prompt": "Not only ___ late, but he also forgot the documents.",
+        "answer": "was he",
+        "distractors": [
+          "he was",
+          "did he was"
+        ],
+        "explanation": "Not only + inwersja."
+      },
+      {
+        "id": "c1-inversion-1-04",
+        "type": "choice",
+        "prompt": "Hardly had I sat down ___ the phone rang.",
+        "answer": "when",
+        "distractors": [
+          "than",
+          "then"
+        ],
+        "explanation": "Hardly ... when."
+      },
+      {
+        "id": "c1-inversion-1-05",
+        "type": "choice",
+        "prompt": "No sooner had we arrived ___ it started to rain.",
+        "answer": "than",
+        "distractors": [
+          "when",
+          "that"
+        ],
+        "explanation": "No sooner ... than."
+      },
+      {
+        "id": "c1-inversion-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "Never have I...|Nigdy nie...",
+          "Hardly had I... when|Ledwo... gdy",
+          "Little did she know|Nawet nie przypuszczała",
+          "Under no circumstances|W żadnym wypadku"
+        ],
+        "explanation": "Wyrażenia z inwersją."
+      },
+      {
+        "id": "c1-inversion-1-07",
+        "type": "error",
+        "prompt": "Never have I saw such commitment.",
+        "answer": [
+          "saw",
+          "seen"
+        ],
+        "explanation": "Never have I + III forma."
+      },
+      {
+        "id": "c1-inversion-1-08",
+        "type": "tiles",
+        "prompt": "Nigdy w życiu nie byłem tak zmęczony.",
+        "answer": [
+          "Never",
+          "in",
+          "my",
+          "life",
+          "have",
+          "I",
+          "been",
+          "so",
+          "tired"
+        ],
+        "distractors": [
+          "has",
+          "being"
+        ],
+        "explanation": "Never + have + I."
+      },
+      {
+        "id": "c1-inversion-1-09",
+        "type": "translate",
+        "prompt": "Nawet nie przypuszczała, co się stanie.",
+        "answer": "Little did she know what would happen.",
+        "accept": [
+          "Little did she know what was going to happen.",
+          "Little did she realise what would happen.",
+          "Little did she suspect what would happen."
+        ],
+        "explanation": "Little did + podmiot."
+      },
+      {
+        "id": "c1-inversion-1-10",
+        "type": "transform",
+        "prompt": "Zacznij od „Never”.\nI have never heard such nonsense.",
+        "answer": "Never have I heard such nonsense.",
+        "explanation": "Never + have + I."
+      }
+    ]
+  },
+  {
+    "id": "c1-inversion-2",
+    "topicId": "c1-inversion",
+    "exercises": [
+      {
+        "id": "c1-inversion-2-01",
+        "type": "cloze",
+        "prompt": "Only when I got home ___ I realise I had lost my keys.",
+        "answer": "did",
+        "explanation": "Only when ... + inwersja w drugiej części."
+      },
+      {
+        "id": "c1-inversion-2-02",
+        "type": "cloze",
+        "prompt": "Under no circumstances ___ you open this door. (powinieneś)",
+        "answer": "should",
+        "explanation": "Under no circumstances + should + you."
+      },
+      {
+        "id": "c1-inversion-2-03",
+        "type": "choice",
+        "prompt": "Little ___ that he was being watched.",
+        "answer": "did he know",
+        "distractors": [
+          "he knew",
+          "knew he"
+        ],
+        "explanation": "Little + did + podmiot."
+      },
+      {
+        "id": "c1-inversion-2-04",
+        "type": "choice",
+        "prompt": "Not until the end of the film ___ who the killer was.",
+        "answer": "did I understand",
+        "distractors": [
+          "I understood",
+          "understood I"
+        ],
+        "explanation": "Not until ... + inwersja."
+      },
+      {
+        "id": "c1-inversion-2-05",
+        "type": "choice",
+        "prompt": "Scarcely ___ the house when it started to snow.",
+        "answer": "had they left",
+        "distractors": [
+          "they had left",
+          "did they leave"
+        ],
+        "explanation": "Scarcely + had + podmiot + III forma."
+      },
+      {
+        "id": "c1-inversion-2-06",
+        "type": "transform",
+        "prompt": "Zacznij od „Not only”.\nShe speaks French and she also speaks Arabic.",
+        "answer": "Not only does she speak French, but she also speaks Arabic.",
+        "accept": [
+          "Not only does she speak French but she also speaks Arabic.",
+          "Not only does she speak French, but she speaks Arabic too.",
+          "Not only does she speak French, she also speaks Arabic."
+        ],
+        "explanation": "Not only + does + podmiot."
+      },
+      {
+        "id": "c1-inversion-2-07",
+        "type": "transform",
+        "prompt": "Zacznij od „Hardly”.\nAs soon as I closed my eyes, the alarm went off.",
+        "answer": "Hardly had I closed my eyes when the alarm went off.",
+        "explanation": "Hardly had ... when."
+      },
+      {
+        "id": "c1-inversion-2-08",
+        "type": "tiles",
+        "prompt": "Dopiero wtedy zrozumiałem problem.",
+        "answer": [
+          "Only",
+          "then",
+          "did",
+          "I",
+          "understand",
+          "the",
+          "problem"
+        ],
+        "distractors": [
+          "understood",
+          "does"
+        ],
+        "explanation": "Only then + did + I."
+      },
+      {
+        "id": "c1-inversion-2-09",
+        "type": "error",
+        "prompt": "No sooner had she left when he called.",
+        "answer": [
+          "when",
+          "than"
+        ],
+        "explanation": "No sooner ... than."
+      },
+      {
+        "id": "c1-inversion-2-10",
+        "type": "translate",
+        "prompt": "W żadnym wypadku nie wolno ci tego dotykać.",
+        "answer": "Under no circumstances should you touch this.",
+        "accept": [
+          "Under no circumstances must you touch this.",
+          "On no account should you touch this.",
+          "On no account must you touch this.",
+          "Under no circumstances should you touch it.",
+          "On no account should you touch it."
+        ],
+        "explanation": "Under no circumstances + should."
+      }
+    ]
+  },
+  {
+    "id": "c1-inversion-3",
+    "topicId": "c1-inversion",
+    "exercises": [
+      {
+        "id": "c1-inversion-3-01",
+        "type": "choice",
+        "prompt": "At no time ___ that the project was in danger.",
+        "answer": "did they tell us",
+        "distractors": [
+          "they told us",
+          "had told they us"
+        ],
+        "explanation": "At no time + inwersja."
+      },
+      {
+        "id": "c1-inversion-3-02",
+        "type": "choice",
+        "prompt": "Only by working together ___ this problem.",
+        "answer": "can we solve",
+        "distractors": [
+          "we can solve",
+          "we solve"
+        ],
+        "explanation": "Only by ... + inwersja."
+      },
+      {
+        "id": "c1-inversion-3-03",
+        "type": "cloze",
+        "prompt": "Seldom ___ he complain about anything. (does)",
+        "answer": "does",
+        "explanation": "Seldom + does + he."
+      },
+      {
+        "id": "c1-inversion-3-04",
+        "type": "cloze",
+        "prompt": "On no account ___ the patient be left alone.",
+        "answer": "should",
+        "accept": [
+          "must"
+        ],
+        "explanation": "On no account + should."
+      },
+      {
+        "id": "c1-inversion-3-05",
+        "type": "cloze",
+        "prompt": "Not only ___ the food excellent, but the service was also perfect.",
+        "answer": "was",
+        "explanation": "Not only + was + podmiot."
+      },
+      {
+        "id": "c1-inversion-3-06",
+        "type": "match",
+        "prompt": "Połącz konstrukcje ze znaczeniem.",
+        "answer": [
+          "Hardly ... when|ledwo ... gdy",
+          "No sooner ... than|zaledwie ... a już",
+          "Not until ... did|dopiero gdy",
+          "Only after ... did|dopiero po"
+        ],
+        "explanation": "Pary wyrażeń."
+      },
+      {
+        "id": "c1-inversion-3-07",
+        "type": "error",
+        "prompt": "Only after the meeting did I realised my mistake.",
+        "answer": [
+          "realised",
+          "realise"
+        ],
+        "explanation": "Did + forma podstawowa."
+      },
+      {
+        "id": "c1-inversion-3-08",
+        "type": "error",
+        "prompt": "Hardly had I arrived than the meeting started.",
+        "answer": [
+          "than",
+          "when"
+        ],
+        "explanation": "Hardly ... when."
+      },
+      {
+        "id": "c1-inversion-3-09",
+        "type": "tiles",
+        "prompt": "Rzadko widuje się takie talenty.",
+        "answer": [
+          "Rarely",
+          "does",
+          "one",
+          "see",
+          "such",
+          "talent"
+        ],
+        "distractors": [
+          "do",
+          "seen"
+        ],
+        "explanation": "Rarely + does + one."
+      },
+      {
+        "id": "c1-inversion-3-10",
+        "type": "translate",
+        "prompt": "Ledwo zaczęliśmy, gdy zgasło światło.",
+        "answer": "Hardly had we started when the lights went out.",
+        "accept": [
+          "No sooner had we started than the lights went out.",
+          "Scarcely had we started when the lights went out.",
+          "Hardly had we begun when the lights went out.",
+          "No sooner had we begun than the lights went out."
+        ],
+        "explanation": "Hardly had ... when."
+      }
+    ]
+  }
+]

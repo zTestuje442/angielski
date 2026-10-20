@@ -1,0 +1,335 @@
+[
+  {
+    "id": "b2-reported-questions-commands-1",
+    "topicId": "b2-reported-questions-commands",
+    "exercises": [
+      {
+        "id": "b2-reported-questions-commands-1-01",
+        "type": "cloze",
+        "prompt": "\"Where do you live?\" → She asked me where I ___.",
+        "answer": "lived",
+        "explanation": "Szyk twierdzący, czas cofnięty."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-02",
+        "type": "cloze",
+        "prompt": "\"Are you tired?\" → He asked me ___ I was tired.",
+        "answer": "if",
+        "accept": [
+          "whether"
+        ],
+        "explanation": "Pytanie tak/nie: if / whether."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-03",
+        "type": "choice",
+        "prompt": "\"What time is it?\" → She asked what time ___.",
+        "answer": "it was",
+        "distractors": [
+          "was it",
+          "is it"
+        ],
+        "explanation": "Szyk twierdzący: it was."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-04",
+        "type": "choice",
+        "prompt": "\"Close the door.\" → He told me ___ the door.",
+        "answer": "to close",
+        "distractors": [
+          "close",
+          "closing"
+        ],
+        "explanation": "Tell + osoba + to."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-05",
+        "type": "cloze",
+        "prompt": "\"Don't be late.\" → She told us ___ to be late.",
+        "answer": "not",
+        "explanation": "Zakaz: not to."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-06",
+        "type": "match",
+        "prompt": "Połącz wypowiedź z jej relacją.",
+        "answer": [
+          "\"Can you help?\"|She asked if I could help.",
+          "\"Sit down.\"|He told me to sit down.",
+          "\"Don't shout.\"|She told me not to shout.",
+          "\"Where is he?\"|They asked where he was."
+        ],
+        "explanation": "Pytania i polecenia w mowie zależnej."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-07",
+        "type": "error",
+        "prompt": "He asked me if I am hungry.",
+        "answer": [
+          "am",
+          "was"
+        ],
+        "explanation": "Czas cofnięty: was."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-08",
+        "type": "tiles",
+        "prompt": "Zapytał mnie, ile mam lat.",
+        "answer": [
+          "He",
+          "asked",
+          "me",
+          "how",
+          "old",
+          "I",
+          "was"
+        ],
+        "distractors": [
+          "am",
+          "did"
+        ],
+        "explanation": "Szyk twierdzący: how old I was."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-09",
+        "type": "translate",
+        "prompt": "Kazała mi poczekać.",
+        "answer": "She told me to wait.",
+        "explanation": "Tell + osoba + to."
+      },
+      {
+        "id": "b2-reported-questions-commands-1-10",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „She asked me”.\n\"Do you like jazz?\"",
+        "answer": "She asked me if I liked jazz.",
+        "accept": [
+          "She asked me whether I liked jazz."
+        ],
+        "explanation": "If + szyk twierdzący."
+      }
+    ]
+  },
+  {
+    "id": "b2-reported-questions-commands-2",
+    "topicId": "b2-reported-questions-commands",
+    "exercises": [
+      {
+        "id": "b2-reported-questions-commands-2-01",
+        "type": "cloze",
+        "prompt": "\"Can you swim?\" → He asked me if I ___ swim.",
+        "answer": "could",
+        "explanation": "Can → could."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-02",
+        "type": "cloze",
+        "prompt": "\"Please help me.\" → She asked me ___ help her.",
+        "answer": "to",
+        "explanation": "Ask + osoba + to."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-03",
+        "type": "choice",
+        "prompt": "\"Why are you crying?\" → He asked me why ___.",
+        "answer": "I was crying",
+        "distractors": [
+          "was I crying",
+          "I am crying"
+        ],
+        "explanation": "Szyk twierdzący, czas cofnięty."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-04",
+        "type": "choice",
+        "prompt": "The teacher ___ us to open our books.",
+        "answer": "told",
+        "distractors": [
+          "said",
+          "asked to"
+        ],
+        "explanation": "Tell + osoba + to."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-05",
+        "type": "choice",
+        "prompt": "\"Have you finished?\" → She asked if I ___.",
+        "answer": "had finished",
+        "distractors": [
+          "have finished",
+          "finished had"
+        ],
+        "explanation": "Have finished → had finished."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-06",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „He asked me”.\n\"Where did you go?\"",
+        "answer": "He asked me where I had gone.",
+        "accept": [
+          "He asked me where I went."
+        ],
+        "explanation": "Szyk twierdzący, Past Perfect."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-07",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „She told me”.\n\"Don't touch it!\"",
+        "answer": "She told me not to touch it.",
+        "explanation": "Not to + czasownik."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-08",
+        "type": "tiles",
+        "prompt": "Zapytali, czy mogą przyjść później.",
+        "answer": [
+          "They",
+          "asked",
+          "if",
+          "they",
+          "could",
+          "come",
+          "later"
+        ],
+        "distractors": [
+          "can",
+          "did"
+        ],
+        "explanation": "If + could."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-09",
+        "type": "error",
+        "prompt": "He told me don't worry.",
+        "answer": [
+          "don't",
+          "not to"
+        ],
+        "explanation": "Zakaz w mowie zależnej: not to."
+      },
+      {
+        "id": "b2-reported-questions-commands-2-10",
+        "type": "translate",
+        "prompt": "Poprosił mnie, żebym zamknął okno.",
+        "answer": "He asked me to close the window.",
+        "accept": [
+          "He asked me to shut the window."
+        ],
+        "explanation": "Ask + osoba + to."
+      }
+    ]
+  },
+  {
+    "id": "b2-reported-questions-commands-3",
+    "topicId": "b2-reported-questions-commands",
+    "exercises": [
+      {
+        "id": "b2-reported-questions-commands-3-01",
+        "type": "cloze",
+        "prompt": "\"Will you be there?\" → She asked if I ___ be there.",
+        "answer": "would",
+        "explanation": "Will → would."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-02",
+        "type": "cloze",
+        "prompt": "\"Who wrote this?\" → He wanted to know who ___ written it.",
+        "answer": "had",
+        "explanation": "Wrote → had written."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-03",
+        "type": "choice",
+        "prompt": "She asked me ___ I wanted tea or coffee.",
+        "answer": "whether",
+        "distractors": [
+          "that",
+          "what"
+        ],
+        "explanation": "Wybór: whether ... or."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-04",
+        "type": "choice",
+        "prompt": "\"Don't open it until Friday.\" → He told me ___ it until Friday.",
+        "answer": "not to open",
+        "distractors": [
+          "to not opening",
+          "don't open"
+        ],
+        "explanation": "Not to + czasownik."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-05",
+        "type": "choice",
+        "prompt": "\"How much does it cost?\" → I asked how much ___.",
+        "answer": "it cost",
+        "distractors": [
+          "did it cost",
+          "does it cost"
+        ],
+        "explanation": "Szyk twierdzący: it cost."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "ask if|zapytać, czy",
+          "tell somebody to|kazać komuś",
+          "ask somebody to|poprosić kogoś, żeby",
+          "want to know|chcieć wiedzieć"
+        ],
+        "explanation": "Czasowniki relacjonujące."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-07",
+        "type": "error",
+        "prompt": "The doctor told me stay in bed.",
+        "answer": [
+          "stay",
+          "to stay"
+        ],
+        "explanation": "Tell + osoba + to."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-08",
+        "type": "error",
+        "prompt": "He asked me if I can drive.",
+        "answer": [
+          "can",
+          "could"
+        ],
+        "explanation": "Can → could."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-09",
+        "type": "tiles",
+        "prompt": "Zapytała mnie, gdzie jest dworzec.",
+        "answer": [
+          "She",
+          "asked",
+          "me",
+          "where",
+          "the",
+          "station",
+          "was"
+        ],
+        "distractors": [
+          "is",
+          "did"
+        ],
+        "explanation": "Szyk twierdzący: the station was."
+      },
+      {
+        "id": "b2-reported-questions-commands-3-10",
+        "type": "translate",
+        "prompt": "Zapytałem ją, czy jest zmęczona.",
+        "answer": "I asked her if she was tired.",
+        "accept": [
+          "I asked her whether she was tired."
+        ],
+        "explanation": "If + szyk twierdzący."
+      }
+    ]
+  }
+]

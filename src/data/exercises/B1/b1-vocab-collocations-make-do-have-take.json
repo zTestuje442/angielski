@@ -1,0 +1,360 @@
+[
+  {
+    "id": "b1-vocab-collocations-make-do-have-take-1",
+    "topicId": "b1-vocab-collocations-make-do-have-take",
+    "exercises": [
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-01",
+        "type": "match",
+        "prompt": "Połącz kolokacje z tłumaczeniem.",
+        "answer": [
+          "make a mistake|popełnić błąd",
+          "do homework|odrabiać lekcje",
+          "make a decision|podjąć decyzję",
+          "do the shopping|zrobić zakupy"
+        ],
+        "explanation": "Make i do."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-02",
+        "type": "cloze",
+        "prompt": "I always ___ my best. (do / make)",
+        "answer": "do",
+        "explanation": "Do your best."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-03",
+        "type": "cloze",
+        "prompt": "Can I ___ a phone call? (do / make)",
+        "answer": "make",
+        "explanation": "Make a phone call."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-04",
+        "type": "choice",
+        "prompt": "Don't ___ so much noise!",
+        "answer": "make",
+        "distractors": [
+          "do",
+          "have"
+        ],
+        "explanation": "Make a noise."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-05",
+        "type": "choice",
+        "prompt": "I need to ___ some exercise.",
+        "answer": "do",
+        "distractors": [
+          "make",
+          "take"
+        ],
+        "explanation": "Do exercise."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-06",
+        "type": "cloze",
+        "prompt": "She ___ a lot of money as a lawyer. (zarabia)",
+        "answer": "makes",
+        "accept": [
+          "earns"
+        ],
+        "explanation": "Make money."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-07",
+        "type": "error",
+        "prompt": "I did a mistake in the test.",
+        "answer": [
+          "did",
+          "made"
+        ],
+        "explanation": "Make a mistake."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-08",
+        "type": "tiles",
+        "prompt": "Muszę zrobić pranie.",
+        "answer": [
+          "I",
+          "have",
+          "to",
+          "do",
+          "the",
+          "washing"
+        ],
+        "distractors": [
+          "make",
+          "doing"
+        ],
+        "explanation": "Do the washing."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-09",
+        "type": "translate",
+        "prompt": "Podjąłem decyzję.",
+        "answer": "I have made a decision.",
+        "accept": [
+          "I made a decision.",
+          "I have made my decision.",
+          "I made my decision."
+        ],
+        "explanation": "Make a decision."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-10",
+        "type": "transform",
+        "prompt": "Uzupełnij „make” lub „do” i napisz całe zdanie.\nCould you ___ me a favour?",
+        "answer": "Could you do me a favour?",
+        "explanation": "Do somebody a favour."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-1-11",
+        "type": "choice",
+        "prompt": "Let's ___ a plan for the weekend.",
+        "answer": "make",
+        "distractors": [
+          "do",
+          "take"
+        ],
+        "explanation": "Make a plan."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-collocations-make-do-have-take-2",
+    "topicId": "b1-vocab-collocations-make-do-have-take",
+    "exercises": [
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-01",
+        "type": "match",
+        "prompt": "Połącz kolokacje z tłumaczeniem.",
+        "answer": [
+          "have a shower|wziąć prysznic",
+          "take a photo|zrobić zdjęcie",
+          "have fun|dobrze się bawić",
+          "take a break|zrobić przerwę"
+        ],
+        "explanation": "Have i take."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-02",
+        "type": "cloze",
+        "prompt": "Let's ___ a break. (take / have)",
+        "answer": "take",
+        "accept": [
+          "have"
+        ],
+        "explanation": "Take (albo have) a break."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-03",
+        "type": "cloze",
+        "prompt": "We ___ a great time at the party.",
+        "answer": "had",
+        "explanation": "Have a great time."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-04",
+        "type": "choice",
+        "prompt": "Don't forget to ___ your medicine.",
+        "answer": "take",
+        "distractors": [
+          "have",
+          "make"
+        ],
+        "explanation": "Take medicine."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-05",
+        "type": "choice",
+        "prompt": "Can I ___ a look at your photos?",
+        "answer": "have",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Have (albo take) a look."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-06",
+        "type": "cloze",
+        "prompt": "It ___ two hours to get there. (zajęło)",
+        "answer": "took",
+        "explanation": "It took + czas."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-07",
+        "type": "error",
+        "prompt": "We made a lot of fun at the party.",
+        "answer": [
+          "made",
+          "had"
+        ],
+        "explanation": "Have fun."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-08",
+        "type": "error",
+        "prompt": "Can you make a photo of us?",
+        "answer": [
+          "make",
+          "take"
+        ],
+        "explanation": "Take a photo."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-09",
+        "type": "tiles",
+        "prompt": "Czy mogę zrobić zdjęcie?",
+        "answer": [
+          "Can",
+          "I",
+          "take",
+          "a",
+          "photo"
+        ],
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Take a photo."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-2-10",
+        "type": "translate",
+        "prompt": "Muszę wziąć prysznic.",
+        "answer": "I need to have a shower.",
+        "accept": [
+          "I have to have a shower.",
+          "I need to take a shower.",
+          "I have to take a shower.",
+          "I must have a shower.",
+          "I must take a shower."
+        ],
+        "explanation": "Have (albo take) a shower."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-collocations-make-do-have-take-3",
+    "topicId": "b1-vocab-collocations-make-do-have-take",
+    "exercises": [
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-01",
+        "type": "match",
+        "prompt": "Połącz kolokacje z tłumaczeniem.",
+        "answer": [
+          "make an effort|starać się",
+          "do damage|wyrządzić szkody",
+          "have an argument|pokłócić się",
+          "take part in|brać udział w"
+        ],
+        "explanation": "Mieszane kolokacje."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-02",
+        "type": "cloze",
+        "prompt": "Over 100 people took ___ in the race.",
+        "answer": "part",
+        "explanation": "Take part in."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-03",
+        "type": "cloze",
+        "prompt": "They ___ an argument about money. (pokłócili się)",
+        "answer": "had",
+        "explanation": "Have an argument."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-04",
+        "type": "choice",
+        "prompt": "The storm ___ a lot of damage.",
+        "answer": "did",
+        "distractors": [
+          "made",
+          "had"
+        ],
+        "explanation": "Do damage."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-05",
+        "type": "choice",
+        "prompt": "Thank you for ___ the effort to come.",
+        "answer": "making",
+        "distractors": [
+          "doing",
+          "taking"
+        ],
+        "explanation": "Make an effort."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-06",
+        "type": "choice",
+        "prompt": "I don't want to ___ a risk.",
+        "answer": "take",
+        "distractors": [
+          "make",
+          "do"
+        ],
+        "explanation": "Take a risk."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-07",
+        "type": "error",
+        "prompt": "Can you do me a coffee?",
+        "answer": [
+          "do",
+          "make"
+        ],
+        "explanation": "Make coffee."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-08",
+        "type": "error",
+        "prompt": "I'm going to have part in the competition.",
+        "answer": [
+          "have",
+          "take"
+        ],
+        "explanation": "Take part in."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-09",
+        "type": "tiles",
+        "prompt": "Rób, co chcesz.",
+        "answer": [
+          "Do",
+          "what",
+          "you",
+          "want"
+        ],
+        "distractors": [
+          "Make",
+          "what's"
+        ],
+        "explanation": "Do."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-10",
+        "type": "translate",
+        "prompt": "Dobrze się bawiliśmy.",
+        "answer": "We had fun.",
+        "accept": [
+          "We had a good time.",
+          "We had a great time.",
+          "We had a lot of fun.",
+          "We had great fun."
+        ],
+        "explanation": "Have fun / a good time."
+      },
+      {
+        "id": "b1-vocab-collocations-make-do-have-take-3-11",
+        "type": "transform",
+        "prompt": "Uzupełnij „make” lub „do” i napisz całe zdanie.\nI have to ___ the dishes.",
+        "answer": "I have to do the dishes.",
+        "explanation": "Do the dishes."
+      }
+    ]
+  }
+]

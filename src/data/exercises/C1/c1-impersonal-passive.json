@@ -1,0 +1,354 @@
+[
+  {
+    "id": "c1-impersonal-passive-1",
+    "topicId": "c1-impersonal-passive",
+    "exercises": [
+      {
+        "id": "c1-impersonal-passive-1-01",
+        "type": "cloze",
+        "prompt": "It is ___ that he is a millionaire. (mówi się)",
+        "answer": "said",
+        "explanation": "It is said that..."
+      },
+      {
+        "id": "c1-impersonal-passive-1-02",
+        "type": "cloze",
+        "prompt": "She is thought ___ be living in Spain.",
+        "answer": "to",
+        "explanation": "Podmiot + is thought + to."
+      },
+      {
+        "id": "c1-impersonal-passive-1-03",
+        "type": "choice",
+        "prompt": "He is believed ___ the country last week.",
+        "answer": "to have left",
+        "distractors": [
+          "to leave",
+          "having left"
+        ],
+        "explanation": "Przeszłość: to have + III forma."
+      },
+      {
+        "id": "c1-impersonal-passive-1-04",
+        "type": "choice",
+        "prompt": "It ___ that prices will rise next year.",
+        "answer": "is expected",
+        "distractors": [
+          "expects",
+          "is expecting"
+        ],
+        "explanation": "It is expected that..."
+      },
+      {
+        "id": "c1-impersonal-passive-1-05",
+        "type": "choice",
+        "prompt": "There are thought ___ over a hundred people in the building.",
+        "answer": "to be",
+        "distractors": [
+          "being",
+          "to have"
+        ],
+        "explanation": "There are thought to be..."
+      },
+      {
+        "id": "c1-impersonal-passive-1-06",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z tłumaczeniem.",
+        "answer": [
+          "It is said that...|Mówi się, że...",
+          "He is believed to...|Uważa się, że on...",
+          "It is estimated that...|Szacuje się, że...",
+          "She is reported to...|Donosi się, że ona..."
+        ],
+        "explanation": "Konstrukcje bezosobowe."
+      },
+      {
+        "id": "c1-impersonal-passive-1-07",
+        "type": "error",
+        "prompt": "The thieves are believed to have escape in a red car.",
+        "answer": [
+          "escape",
+          "escaped"
+        ],
+        "explanation": "To have + III forma."
+      },
+      {
+        "id": "c1-impersonal-passive-1-08",
+        "type": "tiles",
+        "prompt": "Mówi się, że ta książka jest świetna.",
+        "answer": [
+          "This",
+          "book",
+          "is",
+          "said",
+          "to",
+          "be",
+          "excellent"
+        ],
+        "distractors": [
+          "being",
+          "says"
+        ],
+        "explanation": "Podmiot + is said to be."
+      },
+      {
+        "id": "c1-impersonal-passive-1-09",
+        "type": "translate",
+        "prompt": "Uważa się, że on jest najlepszym kandydatem.",
+        "answer": "He is considered to be the best candidate.",
+        "accept": [
+          "He is thought to be the best candidate.",
+          "He is believed to be the best candidate.",
+          "It is believed that he is the best candidate.",
+          "It is thought that he is the best candidate.",
+          "He is considered the best candidate."
+        ],
+        "explanation": "Is considered to be."
+      },
+      {
+        "id": "c1-impersonal-passive-1-10",
+        "type": "transform",
+        "prompt": "Zacznij od „It is said”.\nPeople say that the castle is haunted.",
+        "answer": "It is said that the castle is haunted.",
+        "explanation": "It is said that..."
+      }
+    ]
+  },
+  {
+    "id": "c1-impersonal-passive-2",
+    "topicId": "c1-impersonal-passive",
+    "exercises": [
+      {
+        "id": "c1-impersonal-passive-2-01",
+        "type": "cloze",
+        "prompt": "The painting is estimated ___ worth over a million euros.",
+        "answer": "to be",
+        "explanation": "Is estimated to be."
+      },
+      {
+        "id": "c1-impersonal-passive-2-02",
+        "type": "cloze",
+        "prompt": "It was ___ that the minister had resigned. (podano)",
+        "answer": "reported",
+        "accept": [
+          "announced",
+          "said",
+          "claimed"
+        ],
+        "explanation": "It was reported that..."
+      },
+      {
+        "id": "c1-impersonal-passive-2-03",
+        "type": "choice",
+        "prompt": "The president is known ___ a lot of time abroad.",
+        "answer": "to spend",
+        "distractors": [
+          "spending",
+          "to have spend"
+        ],
+        "explanation": "Is known to + czasownik."
+      },
+      {
+        "id": "c1-impersonal-passive-2-04",
+        "type": "choice",
+        "prompt": "He is said ___ his fortune in the oil business.",
+        "answer": "to have made",
+        "distractors": [
+          "to make",
+          "having made"
+        ],
+        "explanation": "Przeszłość: to have made."
+      },
+      {
+        "id": "c1-impersonal-passive-2-05",
+        "type": "choice",
+        "prompt": "It ___ that the earth was flat.",
+        "answer": "was once believed",
+        "distractors": [
+          "once believed",
+          "was once believing"
+        ],
+        "explanation": "It was believed that..."
+      },
+      {
+        "id": "c1-impersonal-passive-2-06",
+        "type": "transform",
+        "prompt": "Zacznij od „He is thought”.\nPeople think that he is hiding in the mountains.",
+        "answer": "He is thought to be hiding in the mountains.",
+        "explanation": "Czynność w toku: to be + -ing."
+      },
+      {
+        "id": "c1-impersonal-passive-2-07",
+        "type": "transform",
+        "prompt": "Zacznij od „The company is reported”.\nIt is reported that the company has lost millions.",
+        "answer": "The company is reported to have lost millions.",
+        "explanation": "Przeszłość: to have + III forma."
+      },
+      {
+        "id": "c1-impersonal-passive-2-08",
+        "type": "tiles",
+        "prompt": "Uważa się, że on wyjechał z kraju.",
+        "answer": [
+          "He",
+          "is",
+          "believed",
+          "to",
+          "have",
+          "left",
+          "the",
+          "country"
+        ],
+        "distractors": [
+          "leaving",
+          "believes"
+        ],
+        "explanation": "To have + III forma."
+      },
+      {
+        "id": "c1-impersonal-passive-2-09",
+        "type": "error",
+        "prompt": "It is say that the hotel is the best in town.",
+        "answer": [
+          "say",
+          "said"
+        ],
+        "explanation": "It is said."
+      },
+      {
+        "id": "c1-impersonal-passive-2-10",
+        "type": "translate",
+        "prompt": "Szacuje się, że w wypadku zginęło 20 osób.",
+        "answer": "It is estimated that 20 people died in the accident.",
+        "accept": [
+          "It is estimated that twenty people died in the accident.",
+          "Twenty people are estimated to have died in the accident.",
+          "20 people are estimated to have died in the accident.",
+          "It is estimated that 20 people were killed in the accident.",
+          "It is estimated that twenty people were killed in the accident."
+        ],
+        "explanation": "It is estimated that..."
+      }
+    ]
+  },
+  {
+    "id": "c1-impersonal-passive-3",
+    "topicId": "c1-impersonal-passive",
+    "exercises": [
+      {
+        "id": "c1-impersonal-passive-3-01",
+        "type": "choice",
+        "prompt": "The new drug is claimed ___ the risk of heart disease by half.",
+        "answer": "to reduce",
+        "distractors": [
+          "reducing",
+          "to reducing"
+        ],
+        "explanation": "Is claimed to + czasownik."
+      },
+      {
+        "id": "c1-impersonal-passive-3-02",
+        "type": "choice",
+        "prompt": "There ___ to be serious problems with the system.",
+        "answer": "are said",
+        "distractors": [
+          "say",
+          "are saying"
+        ],
+        "explanation": "There are said to be..."
+      },
+      {
+        "id": "c1-impersonal-passive-3-03",
+        "type": "cloze",
+        "prompt": "She is understood ___ have accepted the offer.",
+        "answer": "to",
+        "explanation": "To have + III forma."
+      },
+      {
+        "id": "c1-impersonal-passive-3-04",
+        "type": "cloze",
+        "prompt": "It is widely ___ that exercise improves mood. (uznaje się)",
+        "answer": "accepted",
+        "accept": [
+          "believed",
+          "known",
+          "thought",
+          "recognised",
+          "recognized"
+        ],
+        "explanation": "It is widely accepted that..."
+      },
+      {
+        "id": "c1-impersonal-passive-3-05",
+        "type": "cloze",
+        "prompt": "The suspect is believed to be ___ a black coat. (wear)",
+        "answer": "wearing",
+        "explanation": "To be + -ing."
+      },
+      {
+        "id": "c1-impersonal-passive-3-06",
+        "type": "match",
+        "prompt": "Połącz formę z czasem.",
+        "answer": [
+          "is said to be|teraźniejszość",
+          "is said to be doing|czynność w toku",
+          "is said to have done|przeszłość"
+        ],
+        "explanation": "Formy bezokolicznika."
+      },
+      {
+        "id": "c1-impersonal-passive-3-07",
+        "type": "error",
+        "prompt": "He is thought to have being in prison.",
+        "answer": [
+          "being",
+          "been"
+        ],
+        "explanation": "To have been."
+      },
+      {
+        "id": "c1-impersonal-passive-3-08",
+        "type": "error",
+        "prompt": "Over 200 people are estimate to have attended.",
+        "answer": [
+          "estimate",
+          "estimated"
+        ],
+        "explanation": "Are estimated."
+      },
+      {
+        "id": "c1-impersonal-passive-3-09",
+        "type": "tiles",
+        "prompt": "Podobno ona pracuje nad nową książką.",
+        "answer": [
+          "She",
+          "is",
+          "said",
+          "to",
+          "be",
+          "working",
+          "on",
+          "a",
+          "new",
+          "book"
+        ],
+        "distractors": [
+          "works",
+          "says"
+        ],
+        "explanation": "To be + -ing."
+      },
+      {
+        "id": "c1-impersonal-passive-3-10",
+        "type": "translate",
+        "prompt": "Uważano, że statek zatonął.",
+        "answer": "The ship was thought to have sunk.",
+        "accept": [
+          "It was thought that the ship had sunk.",
+          "The ship was believed to have sunk.",
+          "It was believed that the ship had sunk."
+        ],
+        "explanation": "Was thought to have + III forma."
+      }
+    ]
+  }
+]

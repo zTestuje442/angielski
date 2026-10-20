@@ -1,0 +1,369 @@
+[
+  {
+    "id": "b1-sent-complex-when-if-although-1",
+    "topicId": "b1-sent-complex-when-if-although",
+    "exercises": [
+      {
+        "id": "b1-sent-complex-when-if-although-1-01",
+        "type": "cloze",
+        "prompt": "___ it was raining, we went for a walk. (chociaż)",
+        "answer": "Although",
+        "accept": [
+          "Though",
+          "Even though"
+        ],
+        "explanation": "Chociaż: although."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-02",
+        "type": "choice",
+        "prompt": "___ he's rich, he isn't happy.",
+        "answer": "Although",
+        "distractors": [
+          "Because",
+          "So"
+        ],
+        "explanation": "Przeciwieństwo: although."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-03",
+        "type": "choice",
+        "prompt": "I went to work ___ I felt ill.",
+        "answer": "although",
+        "distractors": [
+          "because",
+          "so"
+        ],
+        "explanation": "Mimo że: although."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-04",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „although” na początku.\nIt was cold. We swam in the sea.",
+        "answer": "Although it was cold, we swam in the sea.",
+        "accept": [
+          "Although it was cold we swam in the sea.",
+          "We swam in the sea although it was cold."
+        ],
+        "explanation": "Although na początku + przecinek."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-05",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „although” na początku.\nShe studied hard. She failed the exam.",
+        "answer": "Although she studied hard, she failed the exam.",
+        "accept": [
+          "She failed the exam although she studied hard.",
+          "Although she studied hard she failed the exam."
+        ],
+        "explanation": "Przeciwieństwo: although."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-06",
+        "type": "error",
+        "prompt": "Despite it was late, we stayed.",
+        "answer": [
+          "Despite",
+          "Although"
+        ],
+        "explanation": "Ze zdaniem: although (despite + rzeczownik)."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-07",
+        "type": "tiles",
+        "prompt": "Chociaż był zmęczony, skończył pracę.",
+        "answer": [
+          "Although",
+          "he",
+          "was",
+          "tired",
+          "he",
+          "finished",
+          "his",
+          "work"
+        ],
+        "distractors": [
+          "but",
+          "despite"
+        ],
+        "explanation": "Although + zdanie."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-08",
+        "type": "match",
+        "prompt": "Połącz spójniki z tłumaczeniem.",
+        "answer": [
+          "although|chociaż",
+          "because|ponieważ",
+          "if|jeśli",
+          "when|kiedy"
+        ],
+        "explanation": "Spójniki."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-09",
+        "type": "translate",
+        "prompt": "Chociaż jest drogi, kupię go.",
+        "answer": "Although it is expensive, I will buy it.",
+        "accept": [
+          "I will buy it although it is expensive.",
+          "Although it is expensive I will buy it.",
+          "Even though it is expensive, I will buy it."
+        ],
+        "explanation": "Although + przecinek."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-1-10",
+        "type": "choice",
+        "prompt": "I like him ___ he can be annoying.",
+        "answer": "although",
+        "distractors": [
+          "unless",
+          "so"
+        ],
+        "explanation": "Mimo że: although."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-complex-when-if-although-2",
+    "topicId": "b1-sent-complex-when-if-although",
+    "exercises": [
+      {
+        "id": "b1-sent-complex-when-if-although-2-01",
+        "type": "cloze",
+        "prompt": "___ I see Tom, I'll tell him. (jeśli)",
+        "answer": "If",
+        "explanation": "Warunek: if."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-02",
+        "type": "cloze",
+        "prompt": "___ I was young, I lived in Sopot. (kiedy)",
+        "answer": "When",
+        "explanation": "Czas: when."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-03",
+        "type": "choice",
+        "prompt": "Call me ___ you need help.",
+        "answer": "if",
+        "distractors": [
+          "although",
+          "so"
+        ],
+        "explanation": "Warunek: if."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-04",
+        "type": "choice",
+        "prompt": "I'll give you the money ___ I get paid.",
+        "answer": "when",
+        "distractors": [
+          "although",
+          "unless"
+        ],
+        "explanation": "Czas: when."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-05",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „if” na początku.\nYou are hungry. There is pizza in the fridge.",
+        "answer": "If you are hungry, there is pizza in the fridge.",
+        "accept": [
+          "If you are hungry there is pizza in the fridge.",
+          "There is pizza in the fridge if you are hungry."
+        ],
+        "explanation": "If + przecinek."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „when” na początku.\nI got home. I had a shower.",
+        "answer": "When I got home, I had a shower.",
+        "accept": [
+          "When I got home I had a shower.",
+          "I had a shower when I got home."
+        ],
+        "explanation": "When + przecinek."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-07",
+        "type": "error",
+        "prompt": "When I was a child, I live in Gdańsk.",
+        "answer": [
+          "live",
+          "lived"
+        ],
+        "explanation": "Przeszłość: lived."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-08",
+        "type": "tiles",
+        "prompt": "Jeśli masz jakieś pytania, napisz do mnie.",
+        "answer": [
+          "If",
+          "you",
+          "have",
+          "any",
+          "questions",
+          "write",
+          "to",
+          "me"
+        ],
+        "distractors": [
+          "will",
+          "had"
+        ],
+        "explanation": "If + Present Simple."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-09",
+        "type": "match",
+        "prompt": "Połącz spójniki z tłumaczeniem.",
+        "answer": [
+          "even though|mimo że",
+          "as long as|pod warunkiem że",
+          "as soon as|jak tylko",
+          "unless|chyba że"
+        ],
+        "explanation": "Kolejne spójniki."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-2-10",
+        "type": "translate",
+        "prompt": "Kiedy skończysz, wyjdziemy.",
+        "answer": "When you finish, we will go out.",
+        "accept": [
+          "We will go out when you finish.",
+          "When you have finished, we will go out.",
+          "When you finish, we will leave.",
+          "We will leave when you finish."
+        ],
+        "explanation": "Po when czas teraźniejszy."
+      }
+    ]
+  },
+  {
+    "id": "b1-sent-complex-when-if-although-3",
+    "topicId": "b1-sent-complex-when-if-although",
+    "exercises": [
+      {
+        "id": "b1-sent-complex-when-if-although-3-01",
+        "type": "choice",
+        "prompt": "___ I don't like football, I watched the final.",
+        "answer": "Although",
+        "distractors": [
+          "If",
+          "When"
+        ],
+        "explanation": "Przeciwieństwo: although."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-02",
+        "type": "choice",
+        "prompt": "You can borrow my car ___ you drive carefully.",
+        "answer": "as long as",
+        "distractors": [
+          "although",
+          "even though"
+        ],
+        "explanation": "Pod warunkiem że: as long as."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-03",
+        "type": "cloze",
+        "prompt": "I'll go ___ you come with me. (jeśli)",
+        "answer": "if",
+        "accept": [
+          "as long as"
+        ],
+        "explanation": "Warunek: if."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-04",
+        "type": "cloze",
+        "prompt": "___ though I was tired, I couldn't sleep. (mimo że)",
+        "answer": "Even",
+        "explanation": "Even though."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-05",
+        "type": "transform",
+        "prompt": "Połącz zdania słowami „even though” na początku.\nHe is 80. He still runs every day.",
+        "answer": "Even though he is 80, he still runs every day.",
+        "accept": [
+          "Even though he is 80 he still runs every day.",
+          "He still runs every day even though he is 80."
+        ],
+        "explanation": "Even though + przecinek."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-06",
+        "type": "error",
+        "prompt": "Even although it was cold, we went out.",
+        "answer": [
+          "although",
+          "though"
+        ],
+        "explanation": "Even though."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-07",
+        "type": "error",
+        "prompt": "I enjoyed the film, although the end were sad.",
+        "answer": [
+          "were",
+          "was"
+        ],
+        "explanation": "The end = it: was."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-08",
+        "type": "tiles",
+        "prompt": "Pomogę ci, jeśli mnie poprosisz.",
+        "answer": [
+          "I'll",
+          "help",
+          "you",
+          "if",
+          "you",
+          "ask",
+          "me"
+        ],
+        "distractors": [
+          "will",
+          "asked"
+        ],
+        "explanation": "If + Present Simple."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-09",
+        "type": "translate",
+        "prompt": "Mimo że padało, mecz się odbył.",
+        "answer": "Although it was raining, the match took place.",
+        "accept": [
+          "Even though it was raining, the match took place.",
+          "The match took place although it was raining.",
+          "Although it rained, the match took place.",
+          "Even though it rained, the match took place.",
+          "The match took place even though it was raining.",
+          "Although it was raining, the match went ahead."
+        ],
+        "explanation": "Although + zdanie."
+      },
+      {
+        "id": "b1-sent-complex-when-if-although-3-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Chociaż było późno, pracowaliśmy dalej.|Although it was late, we kept working.",
+          "Ponieważ było późno, poszliśmy do domu.|Because it was late, we went home.",
+          "Kiedy film się skończył, poszliśmy do domu.|When the film ended, we went home.",
+          "Jeśli ci zimno, zamknij okno.|If you're cold, close the window."
+        ],
+        "explanation": "Zdania złożone."
+      }
+    ]
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "id": "b1-gerund-infinitive-1",
+    "topicId": "b1-gerund-infinitive",
+    "exercises": [
+      {
+        "id": "b1-gerund-infinitive-1-01",
+        "type": "cloze",
+        "prompt": "I enjoy ___ in bed. (read)",
+        "answer": "reading",
+        "explanation": "Enjoy + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-02",
+        "type": "cloze",
+        "prompt": "She decided ___ law. (study)",
+        "answer": "to study",
+        "explanation": "Decide + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-03",
+        "type": "choice",
+        "prompt": "Do you mind ___ the window?",
+        "answer": "opening",
+        "distractors": [
+          "to open",
+          "open"
+        ],
+        "explanation": "Mind + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-04",
+        "type": "choice",
+        "prompt": "We hope ___ you soon.",
+        "answer": "to see",
+        "distractors": [
+          "seeing",
+          "see"
+        ],
+        "explanation": "Hope + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-05",
+        "type": "cloze",
+        "prompt": "He refused ___ the bill. (pay)",
+        "answer": "to pay",
+        "explanation": "Refuse + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "lubię gotować|I enjoy cooking",
+          "postanowiłem wyjechać|I decided to leave",
+          "unikam słodyczy|I avoid eating sweets",
+          "obiecał zadzwonić|he promised to call"
+        ],
+        "explanation": "Enjoy, avoid + -ing; decide, promise + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-07",
+        "type": "error",
+        "prompt": "I'm looking forward to see you.",
+        "answer": [
+          "see",
+          "seeing"
+        ],
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-08",
+        "type": "tiles",
+        "prompt": "Przestań narzekać!",
+        "answer": [
+          "Stop",
+          "complaining"
+        ],
+        "distractors": [
+          "to",
+          "complain"
+        ],
+        "explanation": "Stop + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-09",
+        "type": "translate",
+        "prompt": "Chcę nauczyć się pływać.",
+        "answer": "I want to learn to swim.",
+        "accept": [
+          "I want to learn how to swim."
+        ],
+        "explanation": "Want + to, learn + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-1-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na formę -ing.\nTo swim is good exercise.",
+        "answer": "Swimming is good exercise.",
+        "explanation": "Czynność jako podmiot: -ing."
+      }
+    ]
+  },
+  {
+    "id": "b1-gerund-infinitive-2",
+    "topicId": "b1-gerund-infinitive",
+    "exercises": [
+      {
+        "id": "b1-gerund-infinitive-2-01",
+        "type": "cloze",
+        "prompt": "I'm thinking of ___ a new car. (buy)",
+        "answer": "buying",
+        "explanation": "Po przyimku: -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-02",
+        "type": "cloze",
+        "prompt": "She's good at ___. (draw)",
+        "answer": "drawing",
+        "explanation": "Good at + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-03",
+        "type": "choice",
+        "prompt": "I forgot ___ the door. Sorry!",
+        "answer": "to lock",
+        "distractors": [
+          "locking",
+          "lock"
+        ],
+        "explanation": "Zapomniałem zamknąć: forget + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-04",
+        "type": "choice",
+        "prompt": "It's difficult ___ a job here.",
+        "answer": "to find",
+        "distractors": [
+          "finding",
+          "find"
+        ],
+        "explanation": "Przymiotnik + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-05",
+        "type": "choice",
+        "prompt": "He's afraid of ___ alone.",
+        "answer": "being",
+        "distractors": [
+          "to be",
+          "be"
+        ],
+        "explanation": "Po przyimku: -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „without” (potem forma -ing).\nShe left. She didn't say goodbye.",
+        "answer": "She left without saying goodbye.",
+        "explanation": "Without + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-07",
+        "type": "tiles",
+        "prompt": "Jestem zainteresowany nauką japońskiego.",
+        "answer": [
+          "I'm",
+          "interested",
+          "in",
+          "learning",
+          "Japanese"
+        ],
+        "distractors": [
+          "to",
+          "learn"
+        ],
+        "explanation": "Po przyimku: -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-08",
+        "type": "error",
+        "prompt": "Thank you for help me.",
+        "answer": [
+          "help",
+          "helping"
+        ],
+        "explanation": "Po for: -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-09",
+        "type": "translate",
+        "prompt": "Obiecał przyjść o ósmej.",
+        "answer": "He promised to come at eight.",
+        "accept": [
+          "He promised to come at 8."
+        ],
+        "explanation": "Promise + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-2-10",
+        "type": "error",
+        "prompt": "They agreed helping us.",
+        "answer": [
+          "helping",
+          "to help"
+        ],
+        "explanation": "Agree + to."
+      }
+    ]
+  },
+  {
+    "id": "b1-gerund-infinitive-3",
+    "topicId": "b1-gerund-infinitive",
+    "exercises": [
+      {
+        "id": "b1-gerund-infinitive-3-01",
+        "type": "cloze",
+        "prompt": "I went to the shop ___ some bread. (buy)",
+        "answer": "to buy",
+        "explanation": "Cel: to + czasownik."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-02",
+        "type": "cloze",
+        "prompt": "Would you like ___ with us? (come)",
+        "answer": "to come",
+        "explanation": "Would like + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-03",
+        "type": "choice",
+        "prompt": "He keeps ___ me the same question.",
+        "answer": "asking",
+        "distractors": [
+          "to ask",
+          "ask"
+        ],
+        "explanation": "Keep + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-04",
+        "type": "choice",
+        "prompt": "Let's go ___ this weekend.",
+        "answer": "skiing",
+        "distractors": [
+          "to ski",
+          "ski"
+        ],
+        "explanation": "Go + -ing."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-05",
+        "type": "choice",
+        "prompt": "I need ___ some money.",
+        "answer": "to borrow",
+        "distractors": [
+          "borrowing",
+          "borrow"
+        ],
+        "explanation": "Need + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-06",
+        "type": "error",
+        "prompt": "She managed passing the exam.",
+        "answer": [
+          "passing",
+          "to pass"
+        ],
+        "explanation": "Manage + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-07",
+        "type": "error",
+        "prompt": "I'd love going with you, but I'm busy.",
+        "answer": [
+          "going",
+          "to go"
+        ],
+        "explanation": "Would love + to."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-08",
+        "type": "tiles",
+        "prompt": "Postanowiliśmy nie jechać samochodem.",
+        "answer": [
+          "We",
+          "decided",
+          "not",
+          "to",
+          "go",
+          "by",
+          "car"
+        ],
+        "distractors": [
+          "going",
+          "don't"
+        ],
+        "explanation": "Decide + not to."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-09",
+        "type": "translate",
+        "prompt": "Uwielbiam spacerować po lesie.",
+        "answer": "I love walking in the forest.",
+        "accept": [
+          "I love to walk in the forest.",
+          "I love walking in the woods.",
+          "I love to walk in the woods."
+        ],
+        "explanation": "Love + -ing (albo to)."
+      },
+      {
+        "id": "b1-gerund-infinitive-3-10",
+        "type": "transform",
+        "prompt": "Wyraź cel przez „to”, zacznij od „She went to the bank”.\nShe went to the bank because she wanted to get some cash.",
+        "answer": "She went to the bank to get some cash.",
+        "explanation": "Cel: to + czasownik."
+      }
+    ]
+  }
+]

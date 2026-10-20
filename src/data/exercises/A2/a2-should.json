@@ -1,0 +1,304 @@
+[
+  {
+    "id": "a2-should-1",
+    "topicId": "a2-should",
+    "exercises": [
+      {
+        "id": "a2-should-1-01",
+        "type": "cloze",
+        "prompt": "You look tired. You ___ go to bed.",
+        "answer": "should",
+        "explanation": "Rada: should."
+      },
+      {
+        "id": "a2-should-1-02",
+        "type": "cloze",
+        "prompt": "You ___ eat so much sugar. It's bad for you.",
+        "answer": "shouldn't",
+        "explanation": "Rada przecząca: shouldn't."
+      },
+      {
+        "id": "a2-should-1-03",
+        "type": "choice",
+        "prompt": "It's cold. You ___ take a jacket.",
+        "answer": "should",
+        "distractors": [
+          "shouldn't",
+          "should to"
+        ],
+        "explanation": "Rada: should + czasownik."
+      },
+      {
+        "id": "a2-should-1-04",
+        "type": "choice",
+        "prompt": "He ___ drive so fast. It's dangerous.",
+        "answer": "shouldn't",
+        "distractors": [
+          "should",
+          "doesn't should"
+        ],
+        "explanation": "To niebezpieczne: shouldn't."
+      },
+      {
+        "id": "a2-should-1-05",
+        "type": "cloze",
+        "prompt": "What ___ I do? — You should see a doctor.",
+        "answer": "should",
+        "explanation": "Pytanie o radę: What should I do?"
+      },
+      {
+        "id": "a2-should-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "should|powinien",
+          "shouldn't|nie powinien",
+          "Should I...?|Czy powinienem...?",
+          "I think you should...|Myślę, że powinieneś..."
+        ],
+        "explanation": "Rady z should."
+      },
+      {
+        "id": "a2-should-1-07",
+        "type": "error",
+        "prompt": "She shoulds call him.",
+        "answer": [
+          "shoulds",
+          "should"
+        ],
+        "explanation": "Should nie dostaje -s."
+      },
+      {
+        "id": "a2-should-1-08",
+        "type": "tiles",
+        "prompt": "Powinieneś odpocząć.",
+        "answer": [
+          "You",
+          "should",
+          "have",
+          "a",
+          "rest"
+        ],
+        "explanation": "Should + have a rest."
+      },
+      {
+        "id": "a2-should-1-09",
+        "type": "translate",
+        "prompt": "Nie powinieneś palić.",
+        "answer": "You should not smoke.",
+        "explanation": "Shouldn't + czasownik."
+      },
+      {
+        "id": "a2-should-1-10",
+        "type": "transform",
+        "prompt": "Zmień na radę z „should”, zacznij od „You”.\nGo to bed early.",
+        "answer": "You should go to bed early.",
+        "explanation": "You should + czasownik."
+      }
+    ]
+  },
+  {
+    "id": "a2-should-2",
+    "topicId": "a2-should",
+    "exercises": [
+      {
+        "id": "a2-should-2-01",
+        "type": "cloze",
+        "prompt": "___ I call her now or later?",
+        "answer": "Should",
+        "explanation": "Pytanie o radę: Should I...?"
+      },
+      {
+        "id": "a2-should-2-02",
+        "type": "cloze",
+        "prompt": "Should we take a taxi? — Yes, we ___.",
+        "answer": "should",
+        "explanation": "Krótka odpowiedź: Yes, we should."
+      },
+      {
+        "id": "a2-should-2-03",
+        "type": "choice",
+        "prompt": "I think you ___ apologise to her.",
+        "answer": "should",
+        "distractors": [
+          "must to",
+          "should to"
+        ],
+        "explanation": "Should bez to."
+      },
+      {
+        "id": "a2-should-2-04",
+        "type": "choice",
+        "prompt": "You ___ swim after a big meal.",
+        "answer": "shouldn't",
+        "distractors": [
+          "should",
+          "don't should"
+        ],
+        "explanation": "Rada przecząca: shouldn't."
+      },
+      {
+        "id": "a2-should-2-05",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nYou should buy it.",
+        "answer": "You should not buy it.",
+        "explanation": "Should not = shouldn't."
+      },
+      {
+        "id": "a2-should-2-06",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nI should wait here.",
+        "answer": "Should I wait here?",
+        "explanation": "Should przed podmiotem."
+      },
+      {
+        "id": "a2-should-2-07",
+        "type": "tiles",
+        "prompt": "Co powinniśmy zrobić?",
+        "answer": [
+          "What",
+          "should",
+          "we",
+          "do"
+        ],
+        "explanation": "What + should + we + do."
+      },
+      {
+        "id": "a2-should-2-08",
+        "type": "error",
+        "prompt": "Should I calling him?",
+        "answer": [
+          "calling",
+          "call"
+        ],
+        "explanation": "Po should forma podstawowa."
+      },
+      {
+        "id": "a2-should-2-09",
+        "type": "translate",
+        "prompt": "Powinnaś więcej spać.",
+        "answer": "You should sleep more.",
+        "accept": [
+          "You should get more sleep."
+        ],
+        "explanation": "Should + sleep."
+      },
+      {
+        "id": "a2-should-2-10",
+        "type": "match",
+        "prompt": "Połącz problem z radą.",
+        "answer": [
+          "I'm hungry.|You should eat something.",
+          "I'm cold.|You should put on a sweater.",
+          "I'm tired.|You should go to bed.",
+          "I've got toothache.|You should see a dentist."
+        ],
+        "explanation": "Problem i rada."
+      }
+    ]
+  },
+  {
+    "id": "a2-should-3",
+    "topicId": "a2-should",
+    "exercises": [
+      {
+        "id": "a2-should-3-01",
+        "type": "choice",
+        "prompt": "You ___ wear a seatbelt. It's the law.",
+        "answer": "must",
+        "distractors": [
+          "should",
+          "shouldn't"
+        ],
+        "explanation": "Prawo, obowiązek: must."
+      },
+      {
+        "id": "a2-should-3-02",
+        "type": "choice",
+        "prompt": "You ___ try this cake. It's delicious!",
+        "answer": "should",
+        "distractors": [
+          "must not",
+          "have"
+        ],
+        "explanation": "Polecenie, rada: should."
+      },
+      {
+        "id": "a2-should-3-03",
+        "type": "choice",
+        "prompt": "I think we ___ leave now. It's getting late.",
+        "answer": "should",
+        "distractors": [
+          "shouldn't",
+          "mustn't"
+        ],
+        "explanation": "Dobry pomysł: should."
+      },
+      {
+        "id": "a2-should-3-04",
+        "type": "cloze",
+        "prompt": "He ___ eat more vegetables. (powinien)",
+        "answer": "should",
+        "explanation": "Rada: should."
+      },
+      {
+        "id": "a2-should-3-05",
+        "type": "cloze",
+        "prompt": "You ___ worry. Everything will be OK. (nie powinieneś)",
+        "answer": "shouldn't",
+        "explanation": "Rada przecząca: shouldn't."
+      },
+      {
+        "id": "a2-should-3-06",
+        "type": "error",
+        "prompt": "You should drinks more water.",
+        "answer": [
+          "drinks",
+          "drink"
+        ],
+        "explanation": "Po should forma podstawowa."
+      },
+      {
+        "id": "a2-should-3-07",
+        "type": "error",
+        "prompt": "They should leaves now.",
+        "answer": [
+          "leaves",
+          "leave"
+        ],
+        "explanation": "Po should forma podstawowa."
+      },
+      {
+        "id": "a2-should-3-08",
+        "type": "tiles",
+        "prompt": "Myślę, że powinieneś do niej zadzwonić.",
+        "answer": [
+          "I",
+          "think",
+          "you",
+          "should",
+          "call",
+          "her"
+        ],
+        "explanation": "I think + you should."
+      },
+      {
+        "id": "a2-should-3-09",
+        "type": "translate",
+        "prompt": "Czy powinienem coś przynieść?",
+        "answer": "Should I bring anything?",
+        "accept": [
+          "Should I bring something?"
+        ],
+        "explanation": "Should I + czasownik."
+      },
+      {
+        "id": "a2-should-3-10",
+        "type": "transform",
+        "prompt": "Zmień na radę przeczącą, zacznij od „You”.\nDon't spend so much money.",
+        "answer": "You should not spend so much money.",
+        "explanation": "Shouldn't + spend."
+      }
+    ]
+  }
+]

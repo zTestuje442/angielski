@@ -1,0 +1,353 @@
+[
+  {
+    "id": "b1-defining-relative-clauses-1",
+    "topicId": "b1-defining-relative-clauses",
+    "exercises": [
+      {
+        "id": "b1-defining-relative-clauses-1-01",
+        "type": "cloze",
+        "prompt": "The woman ___ lives next door is a doctor.",
+        "answer": "who",
+        "accept": [
+          "that"
+        ],
+        "explanation": "Osoba: who (albo that)."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-02",
+        "type": "cloze",
+        "prompt": "This is the book ___ I told you about.",
+        "answer": "which",
+        "accept": [
+          "that"
+        ],
+        "explanation": "Rzecz: which (albo that)."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-03",
+        "type": "cloze",
+        "prompt": "That's the restaurant ___ we had our first date. (gdzie)",
+        "answer": "where",
+        "explanation": "Miejsce: where."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-04",
+        "type": "choice",
+        "prompt": "I have a friend ___ speaks five languages.",
+        "answer": "who",
+        "distractors": [
+          "which",
+          "where"
+        ],
+        "explanation": "Osoba: who."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-05",
+        "type": "choice",
+        "prompt": "Where is the cake ___ was on the table?",
+        "answer": "that",
+        "distractors": [
+          "who",
+          "where"
+        ],
+        "explanation": "Rzecz: that / which."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-06",
+        "type": "match",
+        "prompt": "Połącz zaimek z zastosowaniem.",
+        "answer": [
+          "who|ludzie",
+          "which|rzeczy i zwierzęta",
+          "where|miejsca",
+          "whose|czyj"
+        ],
+        "explanation": "Zaimki względne."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-07",
+        "type": "error",
+        "prompt": "The man which called you is my boss.",
+        "answer": [
+          "which",
+          "who"
+        ],
+        "accept": [
+          "that"
+        ],
+        "explanation": "Osoba: who (albo that)."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-08",
+        "type": "tiles",
+        "prompt": "To jest dziewczyna, która wygrała konkurs.",
+        "answer": [
+          "This",
+          "is",
+          "the",
+          "girl",
+          "who",
+          "won",
+          "the",
+          "competition"
+        ],
+        "distractors": [
+          "which"
+        ],
+        "explanation": "Osoba: who."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-09",
+        "type": "translate",
+        "prompt": "Lubię ludzi, którzy są szczerzy.",
+        "answer": "I like people who are honest.",
+        "accept": [
+          "I like people that are honest.",
+          "I like honest people."
+        ],
+        "explanation": "Ludzie: who."
+      },
+      {
+        "id": "b1-defining-relative-clauses-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „who”.\nI met a man. He works at the zoo.",
+        "answer": "I met a man who works at the zoo.",
+        "accept": [
+          "I met a man that works at the zoo."
+        ],
+        "explanation": "Who zastępuje he."
+      }
+    ]
+  },
+  {
+    "id": "b1-defining-relative-clauses-2",
+    "topicId": "b1-defining-relative-clauses",
+    "exercises": [
+      {
+        "id": "b1-defining-relative-clauses-2-01",
+        "type": "cloze",
+        "prompt": "Is this the bus ___ goes to the airport?",
+        "answer": "which",
+        "accept": [
+          "that"
+        ],
+        "explanation": "Rzecz: which / that."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-02",
+        "type": "cloze",
+        "prompt": "I know a girl ___ father is a pilot. (której)",
+        "answer": "whose",
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-03",
+        "type": "cloze",
+        "prompt": "This is the town ___ I was born.",
+        "answer": "where",
+        "explanation": "Miejsce: where."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-04",
+        "type": "choice",
+        "prompt": "The film ___ we saw yesterday was great.",
+        "answer": "that",
+        "distractors": [
+          "who",
+          "where"
+        ],
+        "explanation": "Rzecz: that / which."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-05",
+        "type": "choice",
+        "prompt": "The people ___ live upstairs are very noisy.",
+        "answer": "who",
+        "distractors": [
+          "which",
+          "whose"
+        ],
+        "explanation": "Ludzie: who."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „which”.\nI bought a phone. It was very expensive.",
+        "answer": "I bought a phone which was very expensive.",
+        "accept": [
+          "I bought a phone that was very expensive."
+        ],
+        "explanation": "Which zastępuje it."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-07",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „where”.\nThis is the café. We meet there every Friday.",
+        "answer": "This is the café where we meet every Friday.",
+        "accept": [
+          "This is the cafe where we meet every Friday."
+        ],
+        "explanation": "Where zastępuje there."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-08",
+        "type": "tiles",
+        "prompt": "Pamiętasz chłopaka, którego brat gra w zespole?",
+        "answer": [
+          "Do",
+          "you",
+          "remember",
+          "the",
+          "boy",
+          "whose",
+          "brother",
+          "plays",
+          "in",
+          "a",
+          "band"
+        ],
+        "distractors": [
+          "who's"
+        ],
+        "explanation": "Czyj: whose."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-09",
+        "type": "error",
+        "prompt": "That's the hotel which we stayed last summer.",
+        "answer": [
+          "which",
+          "where"
+        ],
+        "explanation": "Miejsce, w którym: where."
+      },
+      {
+        "id": "b1-defining-relative-clauses-2-10",
+        "type": "translate",
+        "prompt": "To jest telefon, który kupiłem.",
+        "answer": "This is the phone that I bought.",
+        "accept": [
+          "This is the phone which I bought.",
+          "This is the phone I bought."
+        ],
+        "explanation": "Dopełnienie – that/which albo nic."
+      }
+    ]
+  },
+  {
+    "id": "b1-defining-relative-clauses-3",
+    "topicId": "b1-defining-relative-clauses",
+    "exercises": [
+      {
+        "id": "b1-defining-relative-clauses-3-01",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "The book I'm reading is great.",
+        "distractors": [
+          "The book who I'm reading is great.",
+          "The book where I'm reading is great."
+        ],
+        "explanation": "Zaimek-dopełnienie można pominąć."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-02",
+        "type": "choice",
+        "prompt": "A doctor is a person ___ helps sick people.",
+        "answer": "who",
+        "distractors": [
+          "which",
+          "where"
+        ],
+        "explanation": "Osoba: who."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-03",
+        "type": "cloze",
+        "prompt": "A fridge is a machine ___ keeps food cold.",
+        "answer": "which",
+        "accept": [
+          "that"
+        ],
+        "explanation": "Rzecz: which / that."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-04",
+        "type": "cloze",
+        "prompt": "A library is a place ___ you can borrow books.",
+        "answer": "where",
+        "explanation": "Miejsce: where."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-05",
+        "type": "cloze",
+        "prompt": "The man ___ car was stolen called the police.",
+        "answer": "whose",
+        "explanation": "Czyj samochód: whose."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-06",
+        "type": "match",
+        "prompt": "Połącz definicje ze słowami.",
+        "answer": [
+          "a person who teaches|teacher",
+          "a place where you sleep|bedroom",
+          "a thing which tells the time|clock",
+          "an animal which gives milk|cow"
+        ],
+        "explanation": "Definicje ze zdaniami względnymi."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-07",
+        "type": "error",
+        "prompt": "She's the woman who's son is a famous actor.",
+        "answer": [
+          "who's",
+          "whose"
+        ],
+        "explanation": "Czyj: whose (who's = who is)."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-08",
+        "type": "error",
+        "prompt": "I don't like films who are too long.",
+        "answer": [
+          "who",
+          "which"
+        ],
+        "accept": [
+          "that"
+        ],
+        "explanation": "Rzeczy: which / that."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-09",
+        "type": "tiles",
+        "prompt": "To jest miejsce, gdzie się poznaliśmy.",
+        "answer": [
+          "This",
+          "is",
+          "the",
+          "place",
+          "where",
+          "we",
+          "met"
+        ],
+        "distractors": [
+          "which"
+        ],
+        "explanation": "Miejsce: where."
+      },
+      {
+        "id": "b1-defining-relative-clauses-3-10",
+        "type": "translate",
+        "prompt": "Kim jest ta kobieta, która rozmawia z Tomem?",
+        "answer": "Who is the woman who is talking to Tom?",
+        "accept": [
+          "Who is the woman that is talking to Tom?",
+          "Who is the woman talking to Tom?"
+        ],
+        "explanation": "Osoba: who."
+      }
+    ]
+  }
+]

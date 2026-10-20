@@ -1,0 +1,349 @@
+[
+  {
+    "id": "c1-cleft-sentences-1",
+    "topicId": "c1-cleft-sentences",
+    "exercises": [
+      {
+        "id": "c1-cleft-sentences-1-01",
+        "type": "cloze",
+        "prompt": "It was Tom ___ broke the window. (to Tom)",
+        "answer": "who",
+        "accept": [
+          "that"
+        ],
+        "explanation": "It was + osoba + who."
+      },
+      {
+        "id": "c1-cleft-sentences-1-02",
+        "type": "cloze",
+        "prompt": "___ I need is a long holiday.",
+        "answer": "What",
+        "explanation": "What + zdanie + is."
+      },
+      {
+        "id": "c1-cleft-sentences-1-03",
+        "type": "choice",
+        "prompt": "It was in 2010 ___ we first met.",
+        "answer": "that",
+        "distractors": [
+          "when it",
+          "which"
+        ],
+        "explanation": "It was + czas + that."
+      },
+      {
+        "id": "c1-cleft-sentences-1-04",
+        "type": "choice",
+        "prompt": "What she did ___ call the police.",
+        "answer": "was",
+        "distractors": [
+          "is",
+          "did"
+        ],
+        "explanation": "What she did was (to) call."
+      },
+      {
+        "id": "c1-cleft-sentences-1-05",
+        "type": "choice",
+        "prompt": "All I want ___ some peace and quiet.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "be"
+        ],
+        "explanation": "All I want is..."
+      },
+      {
+        "id": "c1-cleft-sentences-1-06",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z tłumaczeniem.",
+        "answer": [
+          "It was Anna who...|To Anna...",
+          "What I need is...|To, czego potrzebuję, to...",
+          "All I want is...|Jedyne, czego chcę, to...",
+          "The reason why... is that...|Powodem, dla którego..., jest to, że..."
+        ],
+        "explanation": "Konstrukcje wyróżniające."
+      },
+      {
+        "id": "c1-cleft-sentences-1-07",
+        "type": "error",
+        "prompt": "What I really hate are people who are late.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "What ... is (liczba pojedyncza)."
+      },
+      {
+        "id": "c1-cleft-sentences-1-08",
+        "type": "tiles",
+        "prompt": "To mój brat mi pomógł.",
+        "answer": [
+          "It",
+          "was",
+          "my",
+          "brother",
+          "who",
+          "helped",
+          "me"
+        ],
+        "distractors": [
+          "which",
+          "whom"
+        ],
+        "explanation": "It was + osoba + who."
+      },
+      {
+        "id": "c1-cleft-sentences-1-09",
+        "type": "translate",
+        "prompt": "To, czego potrzebujemy, to więcej czasu.",
+        "answer": "What we need is more time.",
+        "explanation": "What + zdanie + is."
+      },
+      {
+        "id": "c1-cleft-sentences-1-10",
+        "type": "transform",
+        "prompt": "Wyróżnij „the noise”, zacznij od „What”.\nThe noise annoys me.",
+        "answer": "What annoys me is the noise.",
+        "explanation": "What + czasownik + is."
+      }
+    ]
+  },
+  {
+    "id": "c1-cleft-sentences-2",
+    "topicId": "c1-cleft-sentences",
+    "exercises": [
+      {
+        "id": "c1-cleft-sentences-2-01",
+        "type": "cloze",
+        "prompt": "It ___ my mother who taught me to cook.",
+        "answer": "was",
+        "explanation": "It was ... who."
+      },
+      {
+        "id": "c1-cleft-sentences-2-02",
+        "type": "cloze",
+        "prompt": "What happened ___ that the car broke down.",
+        "answer": "was",
+        "explanation": "What happened was that..."
+      },
+      {
+        "id": "c1-cleft-sentences-2-03",
+        "type": "choice",
+        "prompt": "The reason ___ I left was that I was bored.",
+        "answer": "why",
+        "distractors": [
+          "because",
+          "which"
+        ],
+        "explanation": "The reason why..."
+      },
+      {
+        "id": "c1-cleft-sentences-2-04",
+        "type": "choice",
+        "prompt": "It's not the money ___ matters, it's the principle.",
+        "answer": "that",
+        "distractors": [
+          "what",
+          "who"
+        ],
+        "explanation": "It's ... that."
+      },
+      {
+        "id": "c1-cleft-sentences-2-05",
+        "type": "choice",
+        "prompt": "What I like about him ___ his sense of humour.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "it is"
+        ],
+        "explanation": "What ... is."
+      },
+      {
+        "id": "c1-cleft-sentences-2-06",
+        "type": "transform",
+        "prompt": "Wyróżnij „in Paris”, zacznij od „It was”.\nThey met in Paris.",
+        "answer": "It was in Paris that they met.",
+        "explanation": "It was + miejsce + that."
+      },
+      {
+        "id": "c1-cleft-sentences-2-07",
+        "type": "transform",
+        "prompt": "Wyróżnij czynność, zacznij od „What he did was”.\nHe resigned.",
+        "answer": "What he did was resign.",
+        "accept": [
+          "What he did was to resign."
+        ],
+        "explanation": "What he did was + czasownik."
+      },
+      {
+        "id": "c1-cleft-sentences-2-08",
+        "type": "tiles",
+        "prompt": "Jedyne, czego chcę, to spać.",
+        "answer": [
+          "All",
+          "I",
+          "want",
+          "is",
+          "to",
+          "sleep"
+        ],
+        "distractors": [
+          "sleeps",
+          "are"
+        ],
+        "explanation": "All I want is..."
+      },
+      {
+        "id": "c1-cleft-sentences-2-09",
+        "type": "error",
+        "prompt": "It was John which told me the news.",
+        "answer": [
+          "which",
+          "who"
+        ],
+        "explanation": "Osoba: who."
+      },
+      {
+        "id": "c1-cleft-sentences-2-10",
+        "type": "translate",
+        "prompt": "To nie ja to zrobiłem.",
+        "answer": "It was not me who did it.",
+        "accept": [
+          "It wasn't me who did it.",
+          "It was not me that did it.",
+          "It wasn't me that did it.",
+          "It was not I who did it."
+        ],
+        "explanation": "It was not + osoba + who."
+      }
+    ]
+  },
+  {
+    "id": "c1-cleft-sentences-3",
+    "topicId": "c1-cleft-sentences",
+    "exercises": [
+      {
+        "id": "c1-cleft-sentences-3-01",
+        "type": "choice",
+        "prompt": "___ surprised me most was her reaction.",
+        "answer": "What",
+        "distractors": [
+          "That",
+          "Which"
+        ],
+        "explanation": "What + czasownik + was."
+      },
+      {
+        "id": "c1-cleft-sentences-3-02",
+        "type": "choice",
+        "prompt": "It was only when I saw the photos ___ I believed it.",
+        "answer": "that",
+        "distractors": [
+          "when",
+          "then"
+        ],
+        "explanation": "It was only when ... that."
+      },
+      {
+        "id": "c1-cleft-sentences-3-03",
+        "type": "cloze",
+        "prompt": "The thing ___ worries me is the cost.",
+        "answer": "that",
+        "accept": [
+          "which"
+        ],
+        "explanation": "The thing that..."
+      },
+      {
+        "id": "c1-cleft-sentences-3-04",
+        "type": "cloze",
+        "prompt": "What we ___ to do is speak to the manager. (musimy)",
+        "answer": "need",
+        "accept": [
+          "have",
+          "ought"
+        ],
+        "explanation": "What we need to do is..."
+      },
+      {
+        "id": "c1-cleft-sentences-3-05",
+        "type": "cloze",
+        "prompt": "It was ___ I needed: a quiet weekend. (dokładnie to, czego)",
+        "answer": "exactly what",
+        "accept": [
+          "just what"
+        ],
+        "explanation": "Exactly what I needed."
+      },
+      {
+        "id": "c1-cleft-sentences-3-06",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z tłumaczeniem.",
+        "answer": [
+          "What happened was that...|Stało się tak, że...",
+          "It was then that...|Właśnie wtedy...",
+          "The person who... was...|Osobą, która..., był...",
+          "The thing that... is...|Rzecz, która..., to..."
+        ],
+        "explanation": "Konstrukcje wyróżniające."
+      },
+      {
+        "id": "c1-cleft-sentences-3-07",
+        "type": "error",
+        "prompt": "All I want are some peace and quiet.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "All I want is..."
+      },
+      {
+        "id": "c1-cleft-sentences-3-08",
+        "type": "error",
+        "prompt": "It were the students who organised the event.",
+        "answer": [
+          "were",
+          "was"
+        ],
+        "explanation": "It was + l. mnoga też: It was the students."
+      },
+      {
+        "id": "c1-cleft-sentences-3-09",
+        "type": "tiles",
+        "prompt": "To właśnie wtedy zrozumiałem prawdę.",
+        "answer": [
+          "It",
+          "was",
+          "then",
+          "that",
+          "I",
+          "understood",
+          "the",
+          "truth"
+        ],
+        "distractors": [
+          "what",
+          "when"
+        ],
+        "explanation": "It was then that..."
+      },
+      {
+        "id": "c1-cleft-sentences-3-10",
+        "type": "translate",
+        "prompt": "Powodem, dla którego się spóźniłem, był korek.",
+        "answer": "The reason why I was late was the traffic jam.",
+        "accept": [
+          "The reason I was late was the traffic jam.",
+          "The reason why I was late was a traffic jam.",
+          "The reason I was late was a traffic jam.",
+          "The reason why I was late was the traffic.",
+          "The reason I was late was the traffic."
+        ],
+        "explanation": "The reason why... was..."
+      }
+    ]
+  }
+]

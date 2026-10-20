@@ -1,0 +1,19 @@
+{
+  "topicId": "c1-writing-argumentative-essay",
+  "task": "Po dyskusji o przyszłości pracy twój nauczyciel prosi o **esej** na temat:\n\n**„Artificial intelligence will create more problems than it solves in the workplace.”**\n\nRozważ dwa aspekty: **zatrudnienie** i **jakość pracy**. Wyjaśnij, który z nich jest ważniejszy, i uzasadnij swoje zdanie. Odnieś się do opinii przeciwnej.",
+  "words": [
+    220,
+    260
+  ],
+  "model": "In recent years, there has been growing debate about the impact of artificial intelligence on the workplace. While some fear that it will cause widespread unemployment, others believe it will free people from repetitive tasks. This essay will consider both employment and the quality of work.\n\nIt is often argued that AI will destroy millions of jobs. Admittedly, certain roles, such as data entry or basic customer service, are already being automated, and the people who perform them may find it difficult to retrain. However, history suggests that new technologies tend to transform jobs rather than eliminate work altogether. The spread of computers, for instance, made some professions disappear but created entirely new ones, from web designers to software testers.\n\nWhat is often overlooked in this debate is the effect of AI on the quality of work. Not only can intelligent tools handle routine tasks, but they can also help employees make better decisions by analysing large amounts of data. Consequently, workers could spend more time on creative and interpersonal tasks, which most people find more satisfying. Opponents of this view claim that constant monitoring by algorithms will make work more stressful. While this may be true to some extent, the problem lies in how companies choose to use the technology rather than in the technology itself.\n\nOn balance, I believe that the quality of work is the more important issue. Provided that governments invest in retraining and companies use AI responsibly, it is likely to solve more problems than it creates.",
+  "checklist": [
+    "Wstęp przedstawia kontekst debaty i zapowiada, co rozważę.",
+    "Omawiam oba aspekty (zatrudnienie i jakość pracy) w osobnych akapitach.",
+    "Odnoszę się do opinii przeciwnej i odpowiadam na nią (While this may be true to some extent...).",
+    "Używam hedgingu (arguably, tend to, it is likely that).",
+    "Mam co najmniej jedną konstrukcję C1: inwersję (Not only can...) lub cleft (What is often overlooked is...).",
+    "Zakończenie wskazuje, który aspekt jest ważniejszy, i uzasadnia wybór (On balance, ...).",
+    "Styl formalny, bez zwrotów do czytelnika i bez „I think” w każdym akapicie.",
+    "Tekst ma 220–260 słów."
+  ]
+}

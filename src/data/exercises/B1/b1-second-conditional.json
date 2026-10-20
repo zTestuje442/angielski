@@ -1,0 +1,347 @@
+[
+  {
+    "id": "b1-second-conditional-1",
+    "topicId": "b1-second-conditional",
+    "exercises": [
+      {
+        "id": "b1-second-conditional-1-01",
+        "type": "cloze",
+        "prompt": "If I ___ rich, I would travel the world. (be)",
+        "answer": "were",
+        "accept": [
+          "was"
+        ],
+        "explanation": "Nierealne: If I were..."
+      },
+      {
+        "id": "b1-second-conditional-1-02",
+        "type": "cloze",
+        "prompt": "If I had more time, I ___ learn Spanish.",
+        "answer": "would",
+        "explanation": "Skutek: would."
+      },
+      {
+        "id": "b1-second-conditional-1-03",
+        "type": "choice",
+        "prompt": "If she ___ his number, she would call him.",
+        "answer": "knew",
+        "distractors": [
+          "knows",
+          "would know"
+        ],
+        "explanation": "Po if: Past Simple."
+      },
+      {
+        "id": "b1-second-conditional-1-04",
+        "type": "choice",
+        "prompt": "What ___ you do if you won the lottery?",
+        "answer": "would",
+        "distractors": [
+          "will",
+          "did"
+        ],
+        "explanation": "Nierealne: would."
+      },
+      {
+        "id": "b1-second-conditional-1-05",
+        "type": "cloze",
+        "prompt": "If I ___ a car, I'd drive to work. (have)",
+        "answer": "had",
+        "explanation": "Po if: Past Simple."
+      },
+      {
+        "id": "b1-second-conditional-1-06",
+        "type": "match",
+        "prompt": "Połącz części zdań.",
+        "answer": [
+          "If I had money,|I would buy a house.",
+          "If I were you,|I would say sorry.",
+          "If it wasn't raining,|we would go out.",
+          "If he lived closer,|we would see him more often."
+        ],
+        "explanation": "Dopasuj warunek do skutku."
+      },
+      {
+        "id": "b1-second-conditional-1-07",
+        "type": "error",
+        "prompt": "If I had more money, I would bought a car.",
+        "answer": [
+          "bought",
+          "buy"
+        ],
+        "explanation": "Po would forma podstawowa."
+      },
+      {
+        "id": "b1-second-conditional-1-08",
+        "type": "tiles",
+        "prompt": "Gdybym był tobą, zadzwoniłbym do niej.",
+        "answer": [
+          "If",
+          "I",
+          "were",
+          "you",
+          "I",
+          "would",
+          "call",
+          "her"
+        ],
+        "distractors": [
+          "am",
+          "will"
+        ],
+        "explanation": "If I were you, I would..."
+      },
+      {
+        "id": "b1-second-conditional-1-09",
+        "type": "translate",
+        "prompt": "Gdybym mieszkał nad morzem, pływałbym codziennie.",
+        "answer": "If I lived by the sea, I would swim every day.",
+        "accept": [
+          "If I lived near the sea, I would swim every day.",
+          "If I lived by the sea, I would go swimming every day.",
+          "If I lived near the sea, I would go swimming every day.",
+          "I would swim every day if I lived by the sea.",
+          "I would swim every day if I lived near the sea."
+        ],
+        "explanation": "If + Past Simple, would."
+      },
+      {
+        "id": "b1-second-conditional-1-10",
+        "type": "transform",
+        "prompt": "Zamień na drugi tryb warunkowy.\nIf I have time, I will help you.",
+        "answer": "If I had time, I would help you.",
+        "explanation": "Have → had, will → would."
+      }
+    ]
+  },
+  {
+    "id": "b1-second-conditional-2",
+    "topicId": "b1-second-conditional",
+    "exercises": [
+      {
+        "id": "b1-second-conditional-2-01",
+        "type": "cloze",
+        "prompt": "If you ___ more, you would get better marks. (study)",
+        "answer": "studied",
+        "explanation": "Po if: Past Simple."
+      },
+      {
+        "id": "b1-second-conditional-2-02",
+        "type": "cloze",
+        "prompt": "I ___ that car if I were you. (not / buy)",
+        "answer": "wouldn't buy",
+        "accept": [
+          "would not buy"
+        ],
+        "explanation": "Skutek: wouldn't."
+      },
+      {
+        "id": "b1-second-conditional-2-03",
+        "type": "choice",
+        "prompt": "If I ___ you, I'd take the job.",
+        "answer": "were",
+        "distractors": [
+          "am",
+          "will be"
+        ],
+        "explanation": "Rada: If I were you."
+      },
+      {
+        "id": "b1-second-conditional-2-04",
+        "type": "choice",
+        "prompt": "She would be happier if she ___ less.",
+        "answer": "worked",
+        "distractors": [
+          "works",
+          "would work"
+        ],
+        "explanation": "Po if: Past Simple."
+      },
+      {
+        "id": "b1-second-conditional-2-05",
+        "type": "choice",
+        "prompt": "If we had a garden, we ___ a dog.",
+        "answer": "could have",
+        "distractors": [
+          "can have",
+          "will have"
+        ],
+        "explanation": "Mógłbym: could."
+      },
+      {
+        "id": "b1-second-conditional-2-06",
+        "type": "transform",
+        "prompt": "Zamień na drugi tryb warunkowy, zacznij od „If I had a bike”.\nI don't have a bike, so I can't cycle to work.",
+        "answer": "If I had a bike, I could cycle to work.",
+        "accept": [
+          "If I had a bike, I would cycle to work."
+        ],
+        "explanation": "If + Past Simple, could."
+      },
+      {
+        "id": "b1-second-conditional-2-07",
+        "type": "tiles",
+        "prompt": "Co byś zrobił, gdybyś zobaczył ducha?",
+        "answer": [
+          "What",
+          "would",
+          "you",
+          "do",
+          "if",
+          "you",
+          "saw",
+          "a",
+          "ghost"
+        ],
+        "distractors": [
+          "will",
+          "see"
+        ],
+        "explanation": "Would + if + Past Simple."
+      },
+      {
+        "id": "b1-second-conditional-2-08",
+        "type": "error",
+        "prompt": "If she lived here, she would visits us.",
+        "answer": [
+          "visits",
+          "visit"
+        ],
+        "explanation": "Po would forma podstawowa."
+      },
+      {
+        "id": "b1-second-conditional-2-09",
+        "type": "translate",
+        "prompt": "Gdybym wiedział, powiedziałbym ci.",
+        "answer": "If I knew, I would tell you.",
+        "explanation": "Nierealne teraz: If + Past Simple, would."
+      },
+      {
+        "id": "b1-second-conditional-2-10",
+        "type": "match",
+        "prompt": "Połącz typ z przykładem.",
+        "answer": [
+          "first conditional|If it rains, I'll stay home.",
+          "second conditional|If I were rich, I'd buy a boat.",
+          "zero conditional|If you heat ice, it melts."
+        ],
+        "explanation": "Trzy typy zdań warunkowych."
+      }
+    ]
+  },
+  {
+    "id": "b1-second-conditional-3",
+    "topicId": "b1-second-conditional",
+    "exercises": [
+      {
+        "id": "b1-second-conditional-3-01",
+        "type": "choice",
+        "prompt": "If it ___ tomorrow, we'll cancel the trip.",
+        "answer": "rains",
+        "distractors": [
+          "rained",
+          "would rain"
+        ],
+        "explanation": "Realne: first conditional."
+      },
+      {
+        "id": "b1-second-conditional-3-02",
+        "type": "choice",
+        "prompt": "If I ___ a bird, I would fly to Spain.",
+        "answer": "were",
+        "distractors": [
+          "am",
+          "will be"
+        ],
+        "explanation": "Nierealne: second conditional."
+      },
+      {
+        "id": "b1-second-conditional-3-03",
+        "type": "choice",
+        "prompt": "I'm sure she'll help if you ___ her.",
+        "answer": "ask",
+        "distractors": [
+          "asked",
+          "would ask"
+        ],
+        "explanation": "Realne: Present Simple po if."
+      },
+      {
+        "id": "b1-second-conditional-3-04",
+        "type": "cloze",
+        "prompt": "If I ___ a lot of money, I'd stop working. (win)",
+        "answer": "won",
+        "explanation": "Mało prawdopodobne: Past Simple."
+      },
+      {
+        "id": "b1-second-conditional-3-05",
+        "type": "cloze",
+        "prompt": "If you ___ early today, we'll go out. (finish)",
+        "answer": "finish",
+        "explanation": "Realne: Present Simple."
+      },
+      {
+        "id": "b1-second-conditional-3-06",
+        "type": "error",
+        "prompt": "If I were you, I would took the job.",
+        "answer": [
+          "took",
+          "take"
+        ],
+        "explanation": "Po would forma podstawowa."
+      },
+      {
+        "id": "b1-second-conditional-3-07",
+        "type": "tiles",
+        "prompt": "Gdybym miał więcej czasu, czytałbym więcej.",
+        "answer": [
+          "If",
+          "I",
+          "had",
+          "more",
+          "time",
+          "I",
+          "would",
+          "read",
+          "more"
+        ],
+        "distractors": [
+          "have",
+          "will"
+        ],
+        "explanation": "If + Past Simple, would."
+      },
+      {
+        "id": "b1-second-conditional-3-08",
+        "type": "translate",
+        "prompt": "Jeśli będę miał czas, pomogę ci.",
+        "answer": "If I have time, I will help you.",
+        "accept": [
+          "I will help you if I have time."
+        ],
+        "explanation": "Realne: first conditional."
+      },
+      {
+        "id": "b1-second-conditional-3-09",
+        "type": "transform",
+        "prompt": "Udziel rady, zacznij od „If I were you”.\nYou should see a doctor.",
+        "answer": "If I were you, I would see a doctor.",
+        "accept": [
+          "If I were you I would see a doctor.",
+          "If I was you, I would see a doctor."
+        ],
+        "explanation": "Rada: If I were you, I would..."
+      },
+      {
+        "id": "b1-second-conditional-3-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Jeśli wygram, kupię dom.|If I win, I'll buy a house.",
+          "Gdybym wygrał, kupiłbym dom.|If I won, I'd buy a house."
+        ],
+        "explanation": "Realne czy nierealne."
+      }
+    ]
+  }
+]

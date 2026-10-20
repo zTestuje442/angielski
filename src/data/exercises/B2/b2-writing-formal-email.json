@@ -1,0 +1,341 @@
+[
+  {
+    "id": "b2-writing-formal-email-1",
+    "topicId": "b2-writing-formal-email",
+    "exercises": [
+      {
+        "id": "b2-writing-formal-email-1-01",
+        "type": "match",
+        "prompt": "Połącz powitanie z zakończeniem.",
+        "answer": [
+          "Dear Sir or Madam,|Yours faithfully,",
+          "Dear Mr Brown,|Yours sincerely,"
+        ],
+        "explanation": "Powitanie i pasujące zakończenie."
+      },
+      {
+        "id": "b2-writing-formal-email-1-02",
+        "type": "choice",
+        "prompt": "Which sentence states the purpose of a formal email?",
+        "answer": "I am writing to enquire about the course.",
+        "distractors": [
+          "Just a quick note about the course.",
+          "Guess what? I want to do the course!"
+        ],
+        "explanation": "Formalny cel: I am writing to..."
+      },
+      {
+        "id": "b2-writing-formal-email-1-03",
+        "type": "choice",
+        "prompt": "Which is the most formal request?",
+        "answer": "I would be grateful if you could send me the details.",
+        "distractors": [
+          "Send me the details.",
+          "Can you send me the stuff?"
+        ],
+        "explanation": "I would be grateful if you could..."
+      },
+      {
+        "id": "b2-writing-formal-email-1-04",
+        "type": "cloze",
+        "prompt": "I look forward to ___ from you. (usłyszeć)",
+        "answer": "hearing",
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b2-writing-formal-email-1-05",
+        "type": "cloze",
+        "prompt": "I am writing ___ regard to your advertisement.",
+        "answer": "with",
+        "explanation": "With regard to."
+      },
+      {
+        "id": "b2-writing-formal-email-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż e-mail z zapytaniem o kurs.",
+        "answer": [
+          "Dear Sir or Madam,",
+          "I am writing to enquire about your evening English course.",
+          "Could you please let me know how much it costs?",
+          "I look forward to hearing from you.",
+          "Yours faithfully,"
+        ],
+        "distractors": [
+          "Hugs and kisses,"
+        ],
+        "explanation": "Powitanie, cel, pytanie, formuła końcowa, zakończenie. „Hugs and kisses” nie pasuje do stylu formalnego."
+      },
+      {
+        "id": "b2-writing-formal-email-1-07",
+        "type": "error",
+        "prompt": "I am writing to complain of the service in your restaurant.",
+        "answer": [
+          "of",
+          "about"
+        ],
+        "explanation": "Complain about."
+      },
+      {
+        "id": "b2-writing-formal-email-1-08",
+        "type": "transform",
+        "prompt": "Zamień na styl formalny, zacznij od „I would be grateful”.\nCan you send me a brochure?",
+        "answer": "I would be grateful if you could send me a brochure.",
+        "explanation": "I would be grateful if you could..."
+      },
+      {
+        "id": "b2-writing-formal-email-1-09",
+        "type": "translate",
+        "prompt": "Z poważaniem, (gdy nie znamy nazwiska)",
+        "answer": "Yours faithfully,",
+        "accept": [
+          "Yours faithfully"
+        ],
+        "explanation": "Dear Sir or Madam → Yours faithfully."
+      },
+      {
+        "id": "b2-writing-formal-email-1-10",
+        "type": "choice",
+        "prompt": "Which word is too informal for a formal email?",
+        "answer": "kids",
+        "distractors": [
+          "children",
+          "pupils"
+        ],
+        "explanation": "Potocznie: kids."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-formal-email-2",
+    "topicId": "b2-writing-formal-email",
+    "exercises": [
+      {
+        "id": "b2-writing-formal-email-2-01",
+        "type": "match",
+        "prompt": "Połącz słowo neutralne z formalnym.",
+        "answer": [
+          "get|receive",
+          "ask about|enquire about",
+          "say sorry|apologise",
+          "need|require"
+        ],
+        "explanation": "Słowo neutralne i jego formalny odpowiednik."
+      },
+      {
+        "id": "b2-writing-formal-email-2-02",
+        "type": "choice",
+        "prompt": "Which sentence is formal?",
+        "answer": "I would like to point out that the room was not cleaned.",
+        "distractors": [
+          "The room was super dirty!",
+          "BTW, nobody cleaned the room."
+        ],
+        "explanation": "Formalnie: I would like to point out that..."
+      },
+      {
+        "id": "b2-writing-formal-email-2-03",
+        "type": "choice",
+        "prompt": "Which linking word is formal?",
+        "answer": "Furthermore,",
+        "distractors": [
+          "Plus,",
+          "Also also,"
+        ],
+        "explanation": "Formalnie: Furthermore / Moreover."
+      },
+      {
+        "id": "b2-writing-formal-email-2-04",
+        "type": "cloze",
+        "prompt": "I would ___ grateful if you could reply as soon as possible.",
+        "answer": "be",
+        "explanation": "I would be grateful."
+      },
+      {
+        "id": "b2-writing-formal-email-2-05",
+        "type": "cloze",
+        "prompt": "Please do not hesitate ___ contact me.",
+        "answer": "to",
+        "explanation": "Do not hesitate to."
+      },
+      {
+        "id": "b2-writing-formal-email-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż e-mail z reklamacją.",
+        "answer": [
+          "Dear Mr Jones,",
+          "I am writing to complain about the laptop I bought in your shop.",
+          "Unfortunately, it stopped working after two days.",
+          "I would be grateful if you could replace it.",
+          "Yours sincerely,"
+        ],
+        "distractors": [
+          "Cheers mate,"
+        ],
+        "explanation": "Powitanie, cel, problem, prośba, zakończenie. „Cheers mate” jest potoczne."
+      },
+      {
+        "id": "b2-writing-formal-email-2-07",
+        "type": "error",
+        "prompt": "I'm writing to apply for the position of tester.",
+        "answer": [
+          "I'm",
+          "I am"
+        ],
+        "explanation": "Bez skrótów: I am."
+      },
+      {
+        "id": "b2-writing-formal-email-2-08",
+        "type": "transform",
+        "prompt": "Zamień na styl formalny, użyj „apologise”.\nSorry for the late reply.",
+        "answer": "I apologise for the late reply.",
+        "accept": [
+          "I apologise for the delay in replying.",
+          "I apologize for the late reply.",
+          "I would like to apologise for the late reply."
+        ],
+        "explanation": "Formalnie: I apologise for..."
+      },
+      {
+        "id": "b2-writing-formal-email-2-09",
+        "type": "translate",
+        "prompt": "Proszę o informację, czy jest miejsce parkingowe.",
+        "answer": "Could you please let me know if there is a parking space?",
+        "accept": [
+          "Could you please let me know whether there is a parking space?",
+          "Could you please inform me if there is a parking space?",
+          "Could you let me know if there is a parking space?",
+          "I would be grateful if you could let me know if there is a parking space."
+        ],
+        "explanation": "Could you please let me know..."
+      },
+      {
+        "id": "b2-writing-formal-email-2-10",
+        "type": "choice",
+        "prompt": "You start with \"Dear Ms Kowalska\". How do you finish?",
+        "answer": "Yours sincerely,",
+        "distractors": [
+          "Yours faithfully,",
+          "Love,"
+        ],
+        "explanation": "Znamy nazwisko: Yours sincerely."
+      }
+    ]
+  },
+  {
+    "id": "b2-writing-formal-email-3",
+    "topicId": "b2-writing-formal-email",
+    "exercises": [
+      {
+        "id": "b2-writing-formal-email-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "I am writing to...|cel listu",
+          "I would be grateful if...|prośba",
+          "Furthermore, ...|dodanie argumentu",
+          "I look forward to...|formuła końcowa"
+        ],
+        "explanation": "Funkcje zwrotów."
+      },
+      {
+        "id": "b2-writing-formal-email-3-02",
+        "type": "choice",
+        "prompt": "Which sentence is the best opening for a job application?",
+        "answer": "I am writing to apply for the position of software tester.",
+        "distractors": [
+          "Hi! I want your job.",
+          "Let me tell you about me."
+        ],
+        "explanation": "Cel: I am writing to apply for..."
+      },
+      {
+        "id": "b2-writing-formal-email-3-03",
+        "type": "choice",
+        "prompt": "\"Please find ___ my CV.\"",
+        "answer": "attached",
+        "distractors": [
+          "attaching",
+          "in attach"
+        ],
+        "explanation": "Please find attached."
+      },
+      {
+        "id": "b2-writing-formal-email-3-04",
+        "type": "cloze",
+        "prompt": "I am writing ___ response to your advertisement.",
+        "answer": "in",
+        "explanation": "In response to."
+      },
+      {
+        "id": "b2-writing-formal-email-3-05",
+        "type": "cloze",
+        "prompt": "I have three years of experience ___ software testing.",
+        "answer": "in",
+        "explanation": "Experience in."
+      },
+      {
+        "id": "b2-writing-formal-email-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż podanie o pracę.",
+        "answer": [
+          "Dear Ms Smith,",
+          "I am writing to apply for the position of junior tester.",
+          "I have two years of experience in manual testing.",
+          "Please find attached my CV.",
+          "I look forward to hearing from you.",
+          "Yours sincerely,"
+        ],
+        "distractors": [
+          "Write back soon!"
+        ],
+        "explanation": "Powitanie, cel, doświadczenie, załącznik, formuła końcowa. „Write back soon” jest nieformalne."
+      },
+      {
+        "id": "b2-writing-formal-email-3-07",
+        "type": "error",
+        "prompt": "I would be grateful if you can send me more information.",
+        "answer": [
+          "can",
+          "could"
+        ],
+        "explanation": "I would be grateful if you could..."
+      },
+      {
+        "id": "b2-writing-formal-email-3-08",
+        "type": "transform",
+        "prompt": "Zamień na styl formalny, zacznij od „I would like”.\nI want to know more about the job.",
+        "answer": "I would like to know more about the job.",
+        "accept": [
+          "I would like to find out more about the job.",
+          "I would like to learn more about the job.",
+          "I would like to receive more information about the job."
+        ],
+        "explanation": "Want → would like."
+      },
+      {
+        "id": "b2-writing-formal-email-3-09",
+        "type": "translate",
+        "prompt": "W razie pytań proszę o kontakt.",
+        "answer": "If you have any questions, please do not hesitate to contact me.",
+        "accept": [
+          "If you have any questions, please contact me.",
+          "Please do not hesitate to contact me if you have any questions.",
+          "Please contact me if you have any questions.",
+          "Should you have any questions, please do not hesitate to contact me."
+        ],
+        "explanation": "Formułka: do not hesitate to contact me."
+      },
+      {
+        "id": "b2-writing-formal-email-3-10",
+        "type": "choice",
+        "prompt": "Which sentence is too informal?",
+        "answer": "Thanks a lot, see ya!",
+        "distractors": [
+          "Thank you for your time.",
+          "Thank you in advance."
+        ],
+        "explanation": "Potocznie: see ya."
+      }
+    ]
+  }
+]

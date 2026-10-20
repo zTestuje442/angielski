@@ -1,0 +1,350 @@
+[
+  {
+    "id": "b2-vocab-it-software-testing-1",
+    "topicId": "b2-vocab-it-software-testing",
+    "exercises": [
+      {
+        "id": "b2-vocab-it-software-testing-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "bug|błąd",
+          "test case|przypadek testowy",
+          "release|wydanie",
+          "requirements|wymagania"
+        ],
+        "explanation": "Podstawowe pojęcia."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-02",
+        "type": "choice",
+        "prompt": "The expected result was 10, but the ___ result was 12.",
+        "answer": "actual",
+        "distractors": [
+          "current",
+          "real-time"
+        ],
+        "explanation": "Wynik rzeczywisty: actual result."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-03",
+        "type": "choice",
+        "prompt": "Can you ___ the bug on your machine?",
+        "answer": "reproduce",
+        "distractors": [
+          "repeat back",
+          "remake"
+        ],
+        "explanation": "Odtworzyć błąd: reproduce."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-04",
+        "type": "cloze",
+        "prompt": "All the tests ___ – we can release. (przeszły)",
+        "answer": "passed",
+        "explanation": "Pass – przejść test."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-05",
+        "type": "cloze",
+        "prompt": "The app ___ when I click Save. (wywala się)",
+        "answer": "crashes",
+        "accept": [
+          "crashed",
+          "freezes",
+          "froze"
+        ],
+        "explanation": "Crash – awaria."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-06",
+        "type": "error",
+        "prompt": "I raised a bug in Jira and assigned it on Tom.",
+        "answer": [
+          "on",
+          "to"
+        ],
+        "explanation": "Assign to."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-07",
+        "type": "tiles",
+        "prompt": "Zgłosiłem błąd wczoraj.",
+        "answer": [
+          "I",
+          "reported",
+          "the",
+          "bug",
+          "yesterday"
+        ],
+        "distractors": [
+          "told",
+          "said"
+        ],
+        "explanation": "Report a bug."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-08",
+        "type": "translate",
+        "prompt": "Ten test nie przechodzi.",
+        "answer": "This test is failing.",
+        "accept": [
+          "This test fails.",
+          "This test does not pass.",
+          "The test is failing.",
+          "The test fails."
+        ],
+        "explanation": "Fail – nie przejść."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-09",
+        "type": "choice",
+        "prompt": "Testing old features again after a change is called ___ testing.",
+        "answer": "regression",
+        "distractors": [
+          "repeat",
+          "return"
+        ],
+        "explanation": "Regression testing."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The bug”.\nThe developers fixed the bug.",
+        "answer": "The bug was fixed by the developers.",
+        "accept": [
+          "The bug was fixed."
+        ],
+        "explanation": "Strona bierna Past Simple."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-it-software-testing-2",
+    "topicId": "b2-vocab-it-software-testing",
+    "exercises": [
+      {
+        "id": "b2-vocab-it-software-testing-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "deploy|wdrożyć",
+          "roll back|wycofać (wersję)",
+          "workaround|obejście",
+          "severity|waga (błędu)"
+        ],
+        "explanation": "Wdrożenia i błędy."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-02",
+        "type": "cloze",
+        "prompt": "We will ___ the new version to production on Friday. (wdrożyć)",
+        "answer": "deploy",
+        "explanation": "Deploy."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-03",
+        "type": "cloze",
+        "prompt": "Please add the steps to ___ to the bug report.",
+        "answer": "reproduce",
+        "explanation": "Steps to reproduce."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-04",
+        "type": "choice",
+        "prompt": "We test everything on ___ before it goes to production.",
+        "answer": "staging",
+        "distractors": [
+          "backstage",
+          "the stage"
+        ],
+        "explanation": "Środowisko przedprodukcyjne: staging."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-05",
+        "type": "choice",
+        "prompt": "There's no fix yet, but there is a ___: restart the app.",
+        "answer": "workaround",
+        "distractors": [
+          "walkaround",
+          "work-off"
+        ],
+        "explanation": "Obejście: workaround."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-06",
+        "type": "error",
+        "prompt": "We need to run back the release – it broke the login page.",
+        "answer": [
+          "run",
+          "roll"
+        ],
+        "explanation": "Wycofać: roll back."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-07",
+        "type": "error",
+        "prompt": "The new feature doesn't meet the requirments.",
+        "answer": [
+          "requirments",
+          "requirements"
+        ],
+        "explanation": "Pisownia: requirements."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-08",
+        "type": "tiles",
+        "prompt": "Uruchomiłem testy automatyczne.",
+        "answer": [
+          "I",
+          "ran",
+          "the",
+          "automated",
+          "tests"
+        ],
+        "distractors": [
+          "running",
+          "has"
+        ],
+        "explanation": "Run tests."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-09",
+        "type": "translate",
+        "prompt": "Czy możesz przejrzeć mój kod?",
+        "answer": "Can you review my code?",
+        "accept": [
+          "Could you review my code?",
+          "Can you check my code?",
+          "Could you check my code?",
+          "Can you do a code review?",
+          "Could you do a code review?"
+        ],
+        "explanation": "Code review."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-2-10",
+        "type": "choice",
+        "prompt": "A bug that stops users from logging in has high ___.",
+        "answer": "severity",
+        "distractors": [
+          "seriousity",
+          "heaviness"
+        ],
+        "explanation": "Waga błędu: severity."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-it-software-testing-3",
+    "topicId": "b2-vocab-it-software-testing",
+    "exercises": [
+      {
+        "id": "b2-vocab-it-software-testing-3-01",
+        "type": "match",
+        "prompt": "Połącz pojęcia z tłumaczeniem.",
+        "answer": [
+          "unit test|test jednostkowy",
+          "end-to-end test|test całego procesu",
+          "test suite|zestaw testów",
+          "test data|dane testowe"
+        ],
+        "explanation": "Rodzaje testów."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-02",
+        "type": "cloze",
+        "prompt": "The bug was ___ yesterday, but it came back, so I reopened it. (zamknięty)",
+        "answer": "closed",
+        "explanation": "Close / reopen a bug."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-03",
+        "type": "cloze",
+        "prompt": "He wrote a test ___ for every requirement. (przypadek)",
+        "answer": "case",
+        "explanation": "Test case."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-04",
+        "type": "choice",
+        "prompt": "Manual testing is slow, so we ___ the most important tests.",
+        "answer": "automate",
+        "distractors": [
+          "automatise",
+          "robot"
+        ],
+        "explanation": "Zautomatyzować: automate."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-05",
+        "type": "choice",
+        "prompt": "This bug is minor, so it has low ___.",
+        "answer": "priority",
+        "distractors": [
+          "preference",
+          "importance level"
+        ],
+        "explanation": "Priority."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-06",
+        "type": "error",
+        "prompt": "The developer said he couldn't reproduct the problem.",
+        "answer": [
+          "reproduct",
+          "reproduce"
+        ],
+        "explanation": "Czasownik: reproduce."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-07",
+        "type": "error",
+        "prompt": "I made a ticket to the support team.",
+        "answer": [
+          "made",
+          "raised"
+        ],
+        "explanation": "Zgłosić zgłoszenie: raise a ticket."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-08",
+        "type": "tiles",
+        "prompt": "Wynik oczekiwany różni się od rzeczywistego.",
+        "answer": [
+          "The",
+          "expected",
+          "result",
+          "is",
+          "different",
+          "from",
+          "the",
+          "actual",
+          "result"
+        ],
+        "distractors": [
+          "of",
+          "current"
+        ],
+        "explanation": "Expected / actual."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-09",
+        "type": "translate",
+        "prompt": "Kiedy jest następne wydanie?",
+        "answer": "When is the next release?",
+        "accept": [
+          "When's the next release?"
+        ],
+        "explanation": "Release."
+      },
+      {
+        "id": "b2-vocab-it-software-testing-3-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The new version”.\nWe will release the new version next week.",
+        "answer": "The new version will be released next week.",
+        "explanation": "Will be released."
+      }
+    ]
+  }
+]

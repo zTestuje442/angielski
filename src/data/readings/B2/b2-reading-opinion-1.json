@@ -1,0 +1,115 @@
+{
+  "id": "b2-reading-opinion-1",
+  "topicId": "b2-reading-opinion",
+  "title": "Stop telling me you're busy",
+  "text": "\"How are you?\" \"Busy!\" I must have had this conversation a thousand times this year. Everybody, it seems, is busy. My colleagues are busy, my friends are busy, and even my retired neighbour, who spends most of his day in the garden, tells me he is \"terribly busy\". Somewhere along the way, being busy stopped being a complaint and became a badge of honour.\n\nI understand why. In a culture that values productivity above almost everything else, admitting that you have free time feels dangerous. If you are not busy, people might think you are lazy, unimportant or, worst of all, unsuccessful. So we fill our calendars with meetings, answer emails late at night and proudly tell everyone how exhausted we are.\n\nBut is all this activity actually getting us anywhere? I doubt it. Research suggests that after about fifty hours a week, productivity drops so sharply that the extra hours achieve almost nothing. Tired people make more mistakes, forget things and find it harder to come up with new ideas. In other words, the person who stays in the office until nine is often doing the same amount of work as the one who leaves at five – just more slowly and more painfully.\n\nOf course, some people genuinely have too much to do. Parents of young children, people with two jobs and those caring for sick relatives are not busy by choice, and I am not criticising them. My problem is with the rest of us, who choose to be busy because we are afraid of what silence might reveal.\n\nBecause that is the uncomfortable truth: being busy is a wonderful excuse. If I am busy, I do not have to call my mother, start that novel I keep talking about, or ask myself whether I actually enjoy my job. Busyness protects us from the big questions.\n\nSo here is my suggestion. The next time someone asks how you are, try not to say \"busy\". Say \"fine\", or \"tired\", or \"happy\", or tell them about something interesting you have done. And once a week, leave an evening completely empty. No plans, no phone, no guilt. You might discover that you are not as busy as you thought – and that your life is more interesting when you have time to notice it.\n\nAs for my neighbour, I asked him last week what exactly was keeping him so busy. He thought for a moment and said, \"Tomatoes.\" I have never envied anyone more.",
+  "exercises": [
+    {
+      "id": "b2-reading-opinion-1-01",
+      "type": "choice",
+      "prompt": "The writer believes most people are genuinely too busy.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Autor uważa, że wielu ludzi jest zajętych z wyboru."
+    },
+    {
+      "id": "b2-reading-opinion-1-02",
+      "type": "choice",
+      "prompt": "According to research, very long working weeks are not very productive.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...after about fifty hours a week, productivity drops so sharply...”"
+    },
+    {
+      "id": "b2-reading-opinion-1-03",
+      "type": "choice",
+      "prompt": "The writer has already written a novel.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...start that novel I keep talking about” – jeszcze nie zaczął."
+    },
+    {
+      "id": "b2-reading-opinion-1-04",
+      "type": "choice",
+      "prompt": "The writer's neighbour used to work in an office.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Wiemy tylko, że jest emerytem."
+    },
+    {
+      "id": "b2-reading-opinion-1-05",
+      "type": "choice",
+      "prompt": "Why do people like saying they are busy?",
+      "answer": "It makes them seem important and successful.",
+      "distractors": [
+        "They want to avoid working.",
+        "Their bosses ask them to say it."
+      ],
+      "explanation": "„If you are not busy, people might think you are lazy, unimportant or... unsuccessful.”"
+    },
+    {
+      "id": "b2-reading-opinion-1-06",
+      "type": "choice",
+      "prompt": "Who is the writer NOT criticising?",
+      "answer": "parents and carers with real responsibilities",
+      "distractors": [
+        "people who answer emails at night",
+        "people who fill their calendars with meetings"
+      ],
+      "explanation": "„...are not busy by choice, and I am not criticising them.”"
+    },
+    {
+      "id": "b2-reading-opinion-1-07",
+      "type": "choice",
+      "prompt": "What does the writer suggest?",
+      "answer": "keeping one evening a week free",
+      "distractors": [
+        "working fewer than fifty hours a month",
+        "growing tomatoes"
+      ],
+      "explanation": "„...once a week, leave an evening completely empty.”"
+    },
+    {
+      "id": "b2-reading-opinion-1-08",
+      "type": "choice",
+      "prompt": "What is the tone of the last paragraph?",
+      "answer": "humorous",
+      "distractors": [
+        "angry",
+        "sad"
+      ],
+      "explanation": "Puenta z pomidorami jest żartobliwa."
+    },
+    {
+      "id": "b2-reading-opinion-1-09",
+      "type": "cloze",
+      "prompt": "Being busy stopped being a complaint and became a badge of ___.",
+      "answer": "honour",
+      "explanation": "Powód do dumy: badge of honour."
+    },
+    {
+      "id": "b2-reading-opinion-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "exhausted|wyczerpany",
+        "genuinely|naprawdę",
+        "excuse|wymówka",
+        "envy|zazdrościć"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

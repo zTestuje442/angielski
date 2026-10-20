@@ -1,0 +1,322 @@
+[
+  {
+    "id": "b1-adjectives-prepositions-1",
+    "topicId": "b1-adjectives-prepositions",
+    "exercises": [
+      {
+        "id": "b1-adjectives-prepositions-1-01",
+        "type": "cloze",
+        "prompt": "I'm afraid ___ spiders.",
+        "answer": "of",
+        "explanation": "Afraid of."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-02",
+        "type": "cloze",
+        "prompt": "She's good ___ maths.",
+        "answer": "at",
+        "explanation": "Good at."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-03",
+        "type": "cloze",
+        "prompt": "He's interested ___ politics.",
+        "answer": "in",
+        "explanation": "Interested in."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-04",
+        "type": "choice",
+        "prompt": "I'm tired ___ waiting.",
+        "answer": "of",
+        "distractors": [
+          "from",
+          "with"
+        ],
+        "explanation": "Tired of."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-05",
+        "type": "choice",
+        "prompt": "Are you angry ___ me?",
+        "answer": "with",
+        "distractors": [
+          "on",
+          "for"
+        ],
+        "explanation": "Angry with (albo at) somebody."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "proud of|dumny z",
+          "responsible for|odpowiedzialny za",
+          "similar to|podobny do",
+          "different from|inny niż"
+        ],
+        "explanation": "Przymiotnik + przyimek."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-07",
+        "type": "error",
+        "prompt": "I'm very bad in cooking.",
+        "answer": [
+          "in",
+          "at"
+        ],
+        "explanation": "Bad at."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-08",
+        "type": "tiles",
+        "prompt": "Ona jest dumna ze swojego syna.",
+        "answer": [
+          "She",
+          "is",
+          "proud",
+          "of",
+          "her",
+          "son"
+        ],
+        "distractors": [
+          "from"
+        ],
+        "explanation": "Proud of."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-09",
+        "type": "translate",
+        "prompt": "Jestem zainteresowany sztuką.",
+        "answer": "I am interested in art.",
+        "explanation": "Interested in."
+      },
+      {
+        "id": "b1-adjectives-prepositions-1-10",
+        "type": "transform",
+        "prompt": "Przepisz, zacznij od „I am afraid of”.\nSpiders scare me.",
+        "answer": "I am afraid of spiders.",
+        "explanation": "Afraid of."
+      }
+    ]
+  },
+  {
+    "id": "b1-adjectives-prepositions-2",
+    "topicId": "b1-adjectives-prepositions",
+    "exercises": [
+      {
+        "id": "b1-adjectives-prepositions-2-01",
+        "type": "cloze",
+        "prompt": "We're worried ___ the exam.",
+        "answer": "about",
+        "explanation": "Worried about."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-02",
+        "type": "cloze",
+        "prompt": "This book is full ___ mistakes.",
+        "answer": "of",
+        "explanation": "Full of."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-03",
+        "type": "choice",
+        "prompt": "She's married ___ a doctor.",
+        "answer": "to",
+        "distractors": [
+          "with",
+          "for"
+        ],
+        "explanation": "Married to."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-04",
+        "type": "choice",
+        "prompt": "I'm sorry ___ being late.",
+        "answer": "for",
+        "distractors": [
+          "of",
+          "with"
+        ],
+        "explanation": "Sorry for + -ing."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-05",
+        "type": "choice",
+        "prompt": "Is Kraków famous ___ its old town?",
+        "answer": "for",
+        "distractors": [
+          "of",
+          "with"
+        ],
+        "explanation": "Famous for."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-06",
+        "type": "transform",
+        "prompt": "Uzupełnij przyimek i napisz całe zdanie.\nHe is keen ___ football.",
+        "answer": "He is keen on football.",
+        "explanation": "Keen on."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-07",
+        "type": "tiles",
+        "prompt": "Jestem bardzo podekscytowany wyjazdem.",
+        "answer": [
+          "I'm",
+          "very",
+          "excited",
+          "about",
+          "the",
+          "trip"
+        ],
+        "distractors": [
+          "of"
+        ],
+        "explanation": "Excited about."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-08",
+        "type": "error",
+        "prompt": "Smoking is bad on your health.",
+        "answer": [
+          "on",
+          "for"
+        ],
+        "explanation": "Bad for."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-09",
+        "type": "translate",
+        "prompt": "Nie jestem dobry w sporcie.",
+        "answer": "I am not good at sport.",
+        "accept": [
+          "I am not good at sports."
+        ],
+        "explanation": "Good at."
+      },
+      {
+        "id": "b1-adjectives-prepositions-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "fond of|przepadający za",
+          "aware of|świadomy",
+          "capable of|zdolny do",
+          "jealous of|zazdrosny o"
+        ],
+        "explanation": "Przymiotniki z of."
+      }
+    ]
+  },
+  {
+    "id": "b1-adjectives-prepositions-3",
+    "topicId": "b1-adjectives-prepositions",
+    "exercises": [
+      {
+        "id": "b1-adjectives-prepositions-3-01",
+        "type": "cloze",
+        "prompt": "I'm not used ___ getting up early.",
+        "answer": "to",
+        "explanation": "Used to + -ing."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-02",
+        "type": "cloze",
+        "prompt": "He's very kind ___ animals.",
+        "answer": "to",
+        "explanation": "Kind to."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-03",
+        "type": "choice",
+        "prompt": "Your bag is similar ___ mine.",
+        "answer": "to",
+        "distractors": [
+          "with",
+          "as"
+        ],
+        "explanation": "Similar to."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-04",
+        "type": "choice",
+        "prompt": "She's very nice ___ everyone.",
+        "answer": "to",
+        "distractors": [
+          "for",
+          "with"
+        ],
+        "explanation": "Nice to."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-05",
+        "type": "choice",
+        "prompt": "I'm fed up ___ this rain!",
+        "answer": "with",
+        "distractors": [
+          "about",
+          "for"
+        ],
+        "explanation": "Fed up with."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-06",
+        "type": "error",
+        "prompt": "He was very surprised of the news.",
+        "answer": [
+          "of",
+          "by"
+        ],
+        "accept": [
+          "at"
+        ],
+        "explanation": "Surprised by (albo at)."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-07",
+        "type": "error",
+        "prompt": "Are you ready to the test?",
+        "answer": [
+          "to",
+          "for"
+        ],
+        "explanation": "Ready for."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-08",
+        "type": "tiles",
+        "prompt": "Kto jest za to odpowiedzialny?",
+        "answer": [
+          "Who",
+          "is",
+          "responsible",
+          "for",
+          "this"
+        ],
+        "distractors": [
+          "of"
+        ],
+        "explanation": "Responsible for."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-09",
+        "type": "translate",
+        "prompt": "Boję się ciemności.",
+        "answer": "I am afraid of the dark.",
+        "accept": [
+          "I am scared of the dark."
+        ],
+        "explanation": "Afraid of."
+      },
+      {
+        "id": "b1-adjectives-prepositions-3-10",
+        "type": "transform",
+        "prompt": "Uzupełnij przyimek i napisz całe zdanie.\nThey are very proud ___ their daughter.",
+        "answer": "They are very proud of their daughter.",
+        "explanation": "Proud of."
+      }
+    ]
+  }
+]

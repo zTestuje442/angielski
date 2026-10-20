@@ -1,0 +1,352 @@
+[
+  {
+    "id": "b1-reported-speech-basics-1",
+    "topicId": "b1-reported-speech-basics",
+    "exercises": [
+      {
+        "id": "b1-reported-speech-basics-1-01",
+        "type": "choice",
+        "prompt": "\"I'm tired.\" → She said that she ___ tired.",
+        "answer": "was",
+        "distractors": [
+          "is",
+          "were"
+        ],
+        "explanation": "Is → was."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-02",
+        "type": "choice",
+        "prompt": "He ___ me that he was busy.",
+        "answer": "told",
+        "distractors": [
+          "said",
+          "spoke"
+        ],
+        "explanation": "Tell + osoba."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-03",
+        "type": "choice",
+        "prompt": "She ___ that she liked the film.",
+        "answer": "said",
+        "distractors": [
+          "told",
+          "talked"
+        ],
+        "explanation": "Say bez osoby."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-04",
+        "type": "cloze",
+        "prompt": "\"I live in Rome.\" → He said that he ___ in Rome.",
+        "answer": "lived",
+        "explanation": "Present Simple → Past Simple."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-05",
+        "type": "cloze",
+        "prompt": "\"I can swim.\" → She said that she ___ swim.",
+        "answer": "could",
+        "explanation": "Can → could."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-06",
+        "type": "match",
+        "prompt": "Połącz formę z mowy niezależnej z formą w mowie zależnej.",
+        "answer": [
+          "is|was",
+          "can|could",
+          "will|would",
+          "like|liked"
+        ],
+        "explanation": "Cofnięcie czasu."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-07",
+        "type": "error",
+        "prompt": "She said me that she was hungry.",
+        "answer": [
+          "said",
+          "told"
+        ],
+        "explanation": "Z osobą: told me."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-08",
+        "type": "tiles",
+        "prompt": "Powiedział, że jest zmęczony.",
+        "answer": [
+          "He",
+          "said",
+          "that",
+          "he",
+          "was",
+          "tired"
+        ],
+        "distractors": [
+          "told",
+          "is"
+        ],
+        "explanation": "Said + was."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-09",
+        "type": "translate",
+        "prompt": "Powiedziała mi, że jest chora.",
+        "answer": "She told me that she was ill.",
+        "accept": [
+          "She told me she was ill.",
+          "She told me that she was sick.",
+          "She told me she was sick.",
+          "She said that she was ill.",
+          "She said she was ill."
+        ],
+        "explanation": "Told me + was."
+      },
+      {
+        "id": "b1-reported-speech-basics-1-10",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „Tom said that”.\n\"I am hungry,\" said Tom.",
+        "answer": "Tom said that he was hungry.",
+        "accept": [
+          "Tom said he was hungry."
+        ],
+        "explanation": "I am → he was."
+      }
+    ]
+  },
+  {
+    "id": "b1-reported-speech-basics-2",
+    "topicId": "b1-reported-speech-basics",
+    "exercises": [
+      {
+        "id": "b1-reported-speech-basics-2-01",
+        "type": "cloze",
+        "prompt": "\"We will help you.\" → They said that they ___ help us.",
+        "answer": "would",
+        "explanation": "Will → would."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-02",
+        "type": "cloze",
+        "prompt": "\"I work in a bank.\" → She told me that she ___ in a bank.",
+        "answer": "worked",
+        "explanation": "Work → worked."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-03",
+        "type": "choice",
+        "prompt": "\"I don't know.\" → He said that he ___ know.",
+        "answer": "didn't",
+        "distractors": [
+          "doesn't",
+          "not"
+        ],
+        "explanation": "Don't → didn't."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-04",
+        "type": "choice",
+        "prompt": "She told ___ that she was leaving.",
+        "answer": "us",
+        "distractors": [
+          "to us",
+          "for us"
+        ],
+        "explanation": "Tell + osoba bez to."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-05",
+        "type": "choice",
+        "prompt": "\"It's raining.\" → He said that it ___.",
+        "answer": "was raining",
+        "distractors": [
+          "is raining",
+          "rains"
+        ],
+        "explanation": "Is raining → was raining."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-06",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „Anna said that”.\n\"I love this song,\" said Anna.",
+        "answer": "Anna said that she loved that song.",
+        "accept": [
+          "Anna said she loved that song.",
+          "Anna said that she loved this song.",
+          "Anna said she loved this song."
+        ],
+        "explanation": "Love → loved; this → that."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-07",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „He told me that”.\n\"I can't come,\" he told me.",
+        "answer": "He told me that he could not come.",
+        "accept": [
+          "He told me he could not come."
+        ],
+        "explanation": "Can't → couldn't."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-08",
+        "type": "tiles",
+        "prompt": "Powiedzieli nam, że przyjdą później.",
+        "answer": [
+          "They",
+          "told",
+          "us",
+          "that",
+          "they",
+          "would",
+          "come",
+          "later"
+        ],
+        "distractors": [
+          "said",
+          "will"
+        ],
+        "explanation": "Told + osoba; will → would."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-09",
+        "type": "error",
+        "prompt": "He told that he was busy.",
+        "answer": [
+          "told",
+          "said"
+        ],
+        "explanation": "Bez osoby: said."
+      },
+      {
+        "id": "b1-reported-speech-basics-2-10",
+        "type": "translate",
+        "prompt": "Powiedział, że zadzwoni.",
+        "answer": "He said that he would call.",
+        "accept": [
+          "He said he would call.",
+          "He said that he would phone.",
+          "He said he would phone.",
+          "He said that he would ring.",
+          "He said he would ring."
+        ],
+        "explanation": "Will → would."
+      }
+    ]
+  },
+  {
+    "id": "b1-reported-speech-basics-3",
+    "topicId": "b1-reported-speech-basics",
+    "exercises": [
+      {
+        "id": "b1-reported-speech-basics-3-01",
+        "type": "cloze",
+        "prompt": "\"I'll see you tomorrow.\" → She said she would see me the next ___.",
+        "answer": "day",
+        "explanation": "Tomorrow → the next day."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-02",
+        "type": "cloze",
+        "prompt": "\"I'm busy now.\" → He said he was busy ___.",
+        "answer": "then",
+        "explanation": "Now → then."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-03",
+        "type": "choice",
+        "prompt": "\"My car is new.\" → Tom said that ___ car was new.",
+        "answer": "his",
+        "distractors": [
+          "my",
+          "your"
+        ],
+        "explanation": "My → his."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-04",
+        "type": "choice",
+        "prompt": "\"We are leaving today.\" → They said they were leaving that ___.",
+        "answer": "day",
+        "distractors": [
+          "today",
+          "tomorrow"
+        ],
+        "explanation": "Today → that day."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-05",
+        "type": "match",
+        "prompt": "Połącz określenia.",
+        "answer": [
+          "today|that day",
+          "tomorrow|the next day",
+          "now|then",
+          "here|there"
+        ],
+        "explanation": "Zmiany określeń czasu i miejsca."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-06",
+        "type": "error",
+        "prompt": "Mark said me the truth.",
+        "answer": [
+          "said",
+          "told"
+        ],
+        "explanation": "Powiedzieć komuś prawdę: tell somebody the truth."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-07",
+        "type": "error",
+        "prompt": "She told she would be late.",
+        "answer": [
+          "told",
+          "said"
+        ],
+        "explanation": "Bez osoby: said."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-08",
+        "type": "tiles",
+        "prompt": "Powiedziała, że mnie kocha.",
+        "answer": [
+          "She",
+          "said",
+          "that",
+          "she",
+          "loved",
+          "me"
+        ],
+        "distractors": [
+          "loves",
+          "told"
+        ],
+        "explanation": "Love → loved."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-09",
+        "type": "translate",
+        "prompt": "Powiedziałem ci, że to nie zadziała.",
+        "answer": "I told you that it would not work.",
+        "accept": [
+          "I told you it would not work.",
+          "I told you that it was not going to work.",
+          "I told you it was not going to work."
+        ],
+        "explanation": "Will → would."
+      },
+      {
+        "id": "b1-reported-speech-basics-3-10",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „She said that”.\n\"I have a new job,\" she said.",
+        "answer": "She said that she had a new job.",
+        "accept": [
+          "She said she had a new job."
+        ],
+        "explanation": "Have → had."
+      }
+    ]
+  }
+]

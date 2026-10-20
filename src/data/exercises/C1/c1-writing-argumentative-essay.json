@@ -1,0 +1,348 @@
+[
+  {
+    "id": "c1-writing-argumentative-essay-1",
+    "topicId": "c1-writing-argumentative-essay",
+    "exercises": [
+      {
+        "id": "c1-writing-argumentative-essay-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "It is often argued that...|wprowadzenie tematu",
+          "Opponents of this view claim that...|kontrargument",
+          "While this may be true to some extent,...|odpowiedź na kontrargument",
+          "On balance,...|wniosek"
+        ],
+        "explanation": "Funkcje zwrotów w eseju."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is the best introduction?",
+        "answer": "In recent years, there has been growing debate about whether university education should be free.",
+        "distractors": [
+          "Universities are good.",
+          "I want to talk about universities now."
+        ],
+        "explanation": "Kontekst + temat debaty."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-03",
+        "type": "choice",
+        "prompt": "Which sentence responds to a counter-argument?",
+        "answer": "While this may be true to some extent, the long-term benefits are far greater.",
+        "distractors": [
+          "Some people disagree.",
+          "This is my first point."
+        ],
+        "explanation": "Odpowiedź: While this may be true..."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-04",
+        "type": "cloze",
+        "prompt": "___ balance, I believe that the benefits outweigh the costs.",
+        "answer": "On",
+        "explanation": "On balance."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-05",
+        "type": "cloze",
+        "prompt": "What is often ___ is the impact on small businesses. (pomijane)",
+        "answer": "overlooked",
+        "accept": [
+          "ignored",
+          "forgotten",
+          "neglected"
+        ],
+        "explanation": "Cleft: What is often overlooked is..."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-06",
+        "type": "tiles",
+        "prompt": "Ułóż akapit z kontrargumentem.",
+        "answer": [
+          "Opponents of this view claim that free education is too expensive.",
+          "While this may be true to some extent, an educated society benefits everyone.",
+          "Consequently, the cost should be seen as an investment."
+        ],
+        "distractors": [
+          "Can't wait to hear from you!"
+        ],
+        "explanation": "Kontrargument, odpowiedź, wniosek. Zwrot z listu nie pasuje."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-07",
+        "type": "error",
+        "prompt": "Not only does it reduces pollution, but it also saves money.",
+        "answer": [
+          "reduces",
+          "reduce"
+        ],
+        "explanation": "Does + forma podstawowa."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-08",
+        "type": "transform",
+        "prompt": "Złagodź twierdzenie, zacznij od „It could be argued”.\nTechnology makes people lonely.",
+        "answer": "It could be argued that technology makes people lonely.",
+        "explanation": "It could be argued that..."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-09",
+        "type": "translate",
+        "prompt": "Biorąc pod uwagę obie strony, wydaje się jasne, że potrzebne są zmiany.",
+        "answer": "Having considered both sides, it seems clear that changes are needed.",
+        "accept": [
+          "Having considered both sides, it seems clear that change is needed.",
+          "Having considered both sides, it is clear that changes are needed.",
+          "Considering both sides, it seems clear that changes are needed.",
+          "Taking both sides into account, it seems clear that changes are needed."
+        ],
+        "explanation": "Having considered both sides..."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-1-10",
+        "type": "choice",
+        "prompt": "What should you avoid in an argumentative essay?",
+        "answer": "starting every sentence with \"I think\"",
+        "distractors": [
+          "using linking words",
+          "giving examples"
+        ],
+        "explanation": "Unikaj powtarzania I think."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-argumentative-essay-2",
+    "topicId": "c1-writing-argumentative-essay",
+    "exercises": [
+      {
+        "id": "c1-writing-argumentative-essay-2-01",
+        "type": "match",
+        "prompt": "Połącz markery z tłumaczeniem.",
+        "answer": [
+          "arguably|można argumentować",
+          "admittedly|trzeba przyznać",
+          "consequently|w konsekwencji",
+          "whereas|podczas gdy"
+        ],
+        "explanation": "Markery dyskursu."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-02",
+        "type": "choice",
+        "prompt": "Which sentence uses nominalisation?",
+        "answer": "The introduction of a sugar tax would improve public health.",
+        "distractors": [
+          "If they introduced a sugar tax, people would be healthier.",
+          "They should tax sugar."
+        ],
+        "explanation": "The introduction of..."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-03",
+        "type": "choice",
+        "prompt": "Which sentence is the most academic?",
+        "answer": "Arguably, the most significant factor is cost.",
+        "distractors": [
+          "Cost is super important, I guess.",
+          "Money matters a lot, you know."
+        ],
+        "explanation": "Arguably + formalne słownictwo."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-04",
+        "type": "cloze",
+        "prompt": "Not ___ does tourism create jobs, but it also promotes cultural exchange.",
+        "answer": "only",
+        "explanation": "Not only does..."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-05",
+        "type": "cloze",
+        "prompt": "Some people prefer cities, ___ others prefer the countryside.",
+        "answer": "whereas",
+        "accept": [
+          "while"
+        ],
+        "explanation": "Whereas – kontrast."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-06",
+        "type": "tiles",
+        "prompt": "Ułóż zakończenie eseju.",
+        "answer": [
+          "In conclusion, both approaches have their merits.",
+          "However, the environmental benefits of public transport are far greater.",
+          "On balance, investment in public transport should be the priority."
+        ],
+        "distractors": [
+          "Hugs,"
+        ],
+        "explanation": "Podsumowanie, kluczowy argument, wniosek. Nieformalne pożegnanie nie pasuje."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-07",
+        "type": "error",
+        "prompt": "Admittedly, the plan is expensive. Therefore, it is worth the investment.",
+        "answer": [
+          "Therefore",
+          "Nevertheless"
+        ],
+        "explanation": "Po przyznaniu racji – kontrast: Nevertheless."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-08",
+        "type": "transform",
+        "prompt": "Zacznij od „What”.\nPeople often overlook the cost of maintenance.",
+        "answer": "What people often overlook is the cost of maintenance.",
+        "accept": [
+          "What is often overlooked is the cost of maintenance."
+        ],
+        "explanation": "Cleft: What ... is..."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-09",
+        "type": "translate",
+        "prompt": "Trzeba przyznać, że ten argument jest przekonujący.",
+        "answer": "Admittedly, this argument is convincing.",
+        "accept": [
+          "Admittedly, this argument is persuasive.",
+          "Admittedly, the argument is convincing.",
+          "Admittedly, the argument is persuasive.",
+          "Admittedly this argument is convincing."
+        ],
+        "explanation": "Admittedly."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-2-10",
+        "type": "choice",
+        "prompt": "A good conclusion in an argumentative essay is:",
+        "answer": "balanced but clear",
+        "distractors": [
+          "completely neutral with no opinion",
+          "a list of new arguments"
+        ],
+        "explanation": "Wyważony, ale jednoznaczny."
+      }
+    ]
+  },
+  {
+    "id": "c1-writing-argumentative-essay-3",
+    "topicId": "c1-writing-argumentative-essay",
+    "exercises": [
+      {
+        "id": "c1-writing-argumentative-essay-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "merit|zaleta",
+          "drawback|wada",
+          "outweigh|przeważać",
+          "a key consideration|kluczowa kwestia"
+        ],
+        "explanation": "Słownictwo eseju."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-02",
+        "type": "choice",
+        "prompt": "Which sentence compares two approaches?",
+        "answer": "Whereas fines punish offenders, education prevents offences in the first place.",
+        "distractors": [
+          "Fines are bad.",
+          "Education is a word."
+        ],
+        "explanation": "Whereas – porównanie."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-03",
+        "type": "choice",
+        "prompt": "\"___ the merits of both, I would argue that prevention is more effective.\"",
+        "answer": "Having weighed up",
+        "distractors": [
+          "Weighted",
+          "To weigh up having"
+        ],
+        "explanation": "Having weighed up – rozważywszy."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-04",
+        "type": "cloze",
+        "prompt": "The advantages clearly ___ the disadvantages. (przeważają)",
+        "answer": "outweigh",
+        "explanation": "Outweigh."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-05",
+        "type": "cloze",
+        "prompt": "A key ___ is the cost to taxpayers. (kwestia)",
+        "answer": "consideration",
+        "accept": [
+          "issue",
+          "factor"
+        ],
+        "explanation": "A key consideration."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-06",
+        "type": "tiles",
+        "prompt": "Ułóż wstęp eseju.",
+        "answer": [
+          "It is often argued that governments should ban cars from city centres.",
+          "Supporters claim this would reduce pollution.",
+          "This essay will consider whether such a ban would be effective."
+        ],
+        "distractors": [
+          "Thanks for your email!"
+        ],
+        "explanation": "Teza, argument zwolenników, cel eseju. Zwrot z e-maila nie pasuje."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-07",
+        "type": "error",
+        "prompt": "The main drawback of this solution are its cost.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "The main drawback ... is."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-08",
+        "type": "transform",
+        "prompt": "Przepisz z inwersją, zacznij od „Not only”.\nThe policy is unfair, and it is also ineffective.",
+        "answer": "Not only is the policy unfair, but it is also ineffective.",
+        "accept": [
+          "Not only is the policy unfair but it is also ineffective.",
+          "Not only is the policy unfair, it is also ineffective."
+        ],
+        "explanation": "Not only + is + podmiot."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-09",
+        "type": "translate",
+        "prompt": "Ta kwestia jest często pomijana.",
+        "answer": "This issue is often overlooked.",
+        "accept": [
+          "This issue is often ignored.",
+          "The issue is often overlooked.",
+          "This question is often overlooked.",
+          "This issue is frequently overlooked."
+        ],
+        "explanation": "Overlook."
+      },
+      {
+        "id": "c1-writing-argumentative-essay-3-10",
+        "type": "choice",
+        "prompt": "How long is a C1 essay?",
+        "answer": "220–260 words",
+        "distractors": [
+          "50–80 words",
+          "500–600 words"
+        ],
+        "explanation": "C1: 220–260 słów."
+      }
+    ]
+  }
+]

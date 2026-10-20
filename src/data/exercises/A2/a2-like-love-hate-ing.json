@@ -1,0 +1,305 @@
+[
+  {
+    "id": "a2-like-love-hate-ing-1",
+    "topicId": "a2-like-love-hate-ing",
+    "exercises": [
+      {
+        "id": "a2-like-love-hate-ing-1-01",
+        "type": "cloze",
+        "prompt": "I love ___ to music. (listen)",
+        "answer": "listening",
+        "explanation": "Love + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-02",
+        "type": "cloze",
+        "prompt": "She hates ___ up early. (get)",
+        "answer": "getting",
+        "explanation": "Hate + -ing (get → getting)."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-03",
+        "type": "cloze",
+        "prompt": "We like ___ in the sea. (swim)",
+        "answer": "swimming",
+        "explanation": "Like + -ing (swim → swimming)."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-04",
+        "type": "choice",
+        "prompt": "Do you enjoy ___?",
+        "answer": "cooking",
+        "distractors": [
+          "cook",
+          "to cooking"
+        ],
+        "explanation": "Enjoy + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-05",
+        "type": "choice",
+        "prompt": "He doesn't mind ___ the dishes.",
+        "answer": "doing",
+        "distractors": [
+          "do",
+          "to doing"
+        ],
+        "explanation": "Don't mind + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-06",
+        "type": "match",
+        "prompt": "Połącz czasowniki z tłumaczeniem.",
+        "answer": [
+          "love|uwielbiać",
+          "like|lubić",
+          "don't mind|nie mieć nic przeciwko",
+          "hate|nienawidzić"
+        ],
+        "explanation": "Czasowniki upodobań."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-07",
+        "type": "error",
+        "prompt": "I like dance.",
+        "answer": [
+          "dance",
+          "dancing"
+        ],
+        "explanation": "Like + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-08",
+        "type": "tiles",
+        "prompt": "Lubię gotować dla przyjaciół.",
+        "answer": [
+          "I",
+          "like",
+          "cooking",
+          "for",
+          "my",
+          "friends"
+        ],
+        "explanation": "Like + cooking."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-09",
+        "type": "translate",
+        "prompt": "Nienawidzę czekać.",
+        "answer": "I hate waiting.",
+        "accept": [
+          "I hate to wait."
+        ],
+        "explanation": "Hate + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-1-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „my sister”.\nI love painting.",
+        "answer": "My sister loves painting.",
+        "explanation": "My sister = she: loves."
+      }
+    ]
+  },
+  {
+    "id": "a2-like-love-hate-ing-2",
+    "topicId": "a2-like-love-hate-ing",
+    "exercises": [
+      {
+        "id": "a2-like-love-hate-ing-2-01",
+        "type": "cloze",
+        "prompt": "Does he like ___? (run)",
+        "answer": "running",
+        "explanation": "Run → running."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-02",
+        "type": "cloze",
+        "prompt": "I don't like ___ films alone. (watch)",
+        "answer": "watching",
+        "explanation": "Like + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-03",
+        "type": "choice",
+        "prompt": "My parents love ___ in the mountains.",
+        "answer": "walking",
+        "distractors": [
+          "walk",
+          "walks"
+        ],
+        "explanation": "Love + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-04",
+        "type": "choice",
+        "prompt": "I can't stand ___ in queues.",
+        "answer": "waiting",
+        "distractors": [
+          "wait",
+          "waits"
+        ],
+        "explanation": "Can't stand + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-05",
+        "type": "cloze",
+        "prompt": "She's good at ___. (dance)",
+        "answer": "dancing",
+        "explanation": "Po przyimku at: -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThey enjoy shopping.",
+        "answer": "They do not enjoy shopping.",
+        "explanation": "Don't + enjoy + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou like travelling.",
+        "answer": "Do you like travelling?",
+        "accept": [
+          "Do you like traveling?"
+        ],
+        "explanation": "Do + you + like + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-08",
+        "type": "tiles",
+        "prompt": "Czy lubisz pływać?",
+        "answer": [
+          "Do",
+          "you",
+          "like",
+          "swimming"
+        ],
+        "explanation": "Like + swimming."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-09",
+        "type": "error",
+        "prompt": "She hates get up early.",
+        "answer": [
+          "get",
+          "getting"
+        ],
+        "explanation": "Hate + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-2-10",
+        "type": "translate",
+        "prompt": "Uwielbiam czytać w łóżku.",
+        "answer": "I love reading in bed.",
+        "accept": [
+          "I love to read in bed."
+        ],
+        "explanation": "Love + -ing."
+      }
+    ]
+  },
+  {
+    "id": "a2-like-love-hate-ing-3",
+    "topicId": "a2-like-love-hate-ing",
+    "exercises": [
+      {
+        "id": "a2-like-love-hate-ing-3-01",
+        "type": "cloze",
+        "prompt": "He likes ___ photos. (take)",
+        "answer": "taking",
+        "explanation": "Take → taking."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-02",
+        "type": "cloze",
+        "prompt": "I love ___ on the beach. (lie)",
+        "answer": "lying",
+        "explanation": "Lie → lying."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-03",
+        "type": "cloze",
+        "prompt": "We enjoy ___ new places. (visit)",
+        "answer": "visiting",
+        "explanation": "Enjoy + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-04",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "I don't mind helping you.",
+        "distractors": [
+          "I don't mind help you.",
+          "I don't mind to helping you."
+        ],
+        "explanation": "Don't mind + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-05",
+        "type": "choice",
+        "prompt": "___ is my favourite sport.",
+        "answer": "Skiing",
+        "distractors": [
+          "Ski",
+          "To skiing"
+        ],
+        "explanation": "Czynność jako podmiot: -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-06",
+        "type": "match",
+        "prompt": "Połącz czasownik z formą -ing.",
+        "answer": [
+          "make|making",
+          "lie|lying",
+          "stop|stopping",
+          "write|writing"
+        ],
+        "explanation": "Pisownia -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-07",
+        "type": "error",
+        "prompt": "I love swiming.",
+        "answer": [
+          "swiming",
+          "swimming"
+        ],
+        "explanation": "Swim → swimming (podwójne m)."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-08",
+        "type": "error",
+        "prompt": "Do you like play chess?",
+        "answer": [
+          "play",
+          "playing"
+        ],
+        "explanation": "Like + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-09",
+        "type": "tiles",
+        "prompt": "Ona nie znosi sprzątać.",
+        "answer": [
+          "She",
+          "can't",
+          "stand",
+          "cleaning"
+        ],
+        "explanation": "Can't stand + -ing."
+      },
+      {
+        "id": "a2-like-love-hate-ing-3-10",
+        "type": "translate",
+        "prompt": "Lubisz tańczyć?",
+        "answer": "Do you like dancing?",
+        "accept": [
+          "Do you like to dance?"
+        ],
+        "explanation": "Like + -ing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Szlak — plansza designu</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;600;700&family=Barlow+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ===== Tokeny (propozycja fazy 0) ===== */
+:root {
+  --paper:   #E3E8E1;  /* chłodny papier mapy */
+  --raised:  #F1F4EF;  /* pola, panel informacji zwrotnej */
+  --plate:   #FFFFFF;  /* tabliczka drogowskazu */
+  --band:    #F6F8F5;  /* biały pas znaku szlaku — taki sam w obu trybach */
+  --ink:     #18201C;
+  --muted:   #4F5B55;
+  --contour: #B4C0B2;  /* poziomice, linie podziału */
+  --focus:   #1F5FBF;
+  --ok:      #1B6B48;
+  --bad:     #A8322C;
+  --a1: #2F8A3F; --a2: #E2B100; --b1: #1F5FBF; --b2: #C42B32; --c1: #111514;
+
+  --font-sign: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-text: "Atkinson Hyperlegible Next", system-ui, sans-serif;
+  --t-xs: 0.875rem;
+  --t-s:  1rem;
+  --t-m:  1.125rem;
+  --t-l:  clamp(1.375rem, 1.2rem + 0.8vw, 1.75rem);
+  --t-xl: clamp(1.75rem, 1.5rem + 1vw, 2.25rem);
+  --t-2xl: clamp(2.25rem, 1.8rem + 2vw, 3.25rem);
+  --radius: 4px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #121815; --raised: #1B2420; --plate: #222C27; --ink: #E2E9E3; --muted: #9AA8A0;
+    --contour: #2E3A34; --focus: #7FB0FF; --ok: #5BC48B; --bad: #F07C72;
+    --a1: #4FB663; --a2: #F2C230; --b1: #6C9CF0; --b2: #EE5A5F; --c1: #0A0C0B;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #121815; --raised: #1B2420; --plate: #222C27; --ink: #E2E9E3; --muted: #9AA8A0;
+  --contour: #2E3A34; --focus: #7FB0FF; --ok: #5BC48B; --bad: #F07C72;
+  --a1: #4FB663; --a2: #F2C230; --b1: #6C9CF0; --b2: #EE5A5F; --c1: #0A0C0B;
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 400 var(--t-m)/1.5 var(--font-text); }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+button { font: inherit; color: inherit; }
+h1, h2, h3 { font-family: var(--font-sign); line-height: 1.1; margin: 0; }
+
+/* ===== Chrome planszy (nie część aplikacji) ===== */
+.board { max-width: 1400px; margin: 0 auto; padding: 24px 16px 64px; }
+.board > header { display: flex; flex-wrap: wrap; gap: 12px; align-items: baseline; justify-content: space-between; margin-bottom: 24px; }
+.board > header h1 { font-size: var(--t-xl); font-weight: 700; }
+.theme-switch { display: flex; gap: 4px; }
+.theme-switch button { background: none; border: 1px solid var(--contour); border-radius: var(--radius); padding: 4px 10px; font-size: var(--t-xs); cursor: pointer; }
+.theme-switch button[aria-pressed="true"] { border-color: var(--ink); }
+.board h2 { font-size: var(--t-l); font-weight: 600; margin: 32px 0 12px; }
+.tokens { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px 20px; font-size: var(--t-xs); }
+.tokens div { display: flex; gap: 8px; align-items: center; }
+.tokens i { width: 28px; height: 28px; border: 1px solid var(--muted); border-radius: 2px; flex: none; }
+.scale p { margin: 4px 0; }
+.scale span { color: var(--muted); font-size: var(--t-xs); margin-left: 8px; font-family: var(--font-text); font-weight: 400; }
+.frames { display: grid; gap: 32px; grid-template-columns: 1fr; }
+@media (min-width: 1100px) { .frames { grid-template-columns: 1.15fr 1fr; } }
+.frames > div { min-width: 0; }
+.frame { border: 1px solid var(--contour); background: var(--paper); position: relative; overflow: hidden; min-width: 0; }
+.frame-label { font-size: var(--t-xs); color: var(--muted); margin: 0 0 6px; }
+
+/* ===== Znak szlaku (biały–kolor–biały) ===== */
+.sign { display: inline-block; flex: none; width: 22px; height: 14px; border-radius: 1px;
+  background: linear-gradient(var(--band) 0 33%, var(--lvl) 33% 67%, var(--band) 67%);
+  box-shadow: 0 0 0 1.5px var(--ink); }
+.sign.big { width: 30px; height: 19px; }
+
+/* ===== Ekran ścieżki ===== */
+.app-head { padding: 16px 20px 12px; border-bottom: 1px solid var(--contour); background: var(--paper); position: relative; z-index: 1; }
+.app-head .row { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: center; justify-content: space-between; }
+.logo { font: 700 var(--t-l)/1 var(--font-sign); }
+.tabs { display: flex; gap: 2px 16px; flex-wrap: wrap; font: 600 var(--t-m)/1 var(--font-sign); }
+.tabs a { color: var(--muted); text-decoration: none; padding: 8px 0 6px; border-bottom: 3px solid transparent; }
+.tabs a[aria-current] { color: var(--ink); border-color: var(--ink); }
+.levels { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 12px; }
+.levels button { display: inline-flex; gap: 8px; align-items: center; background: none; border: 1.5px solid transparent;
+  border-radius: var(--radius); padding: 6px 10px; font: 600 var(--t-s)/1 var(--font-sign); cursor: pointer; }
+.levels button[aria-pressed="true"] { border-color: var(--ink); background: var(--raised); }
+.review { background: none; border: none; font: 600 var(--t-m)/1 var(--font-sign); cursor: pointer; padding: 8px 0; text-decoration: underline; text-underline-offset: 4px; }
+
+.path-wrap { position: relative; padding: 28px 20px 40px; }
+.contours { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.contours path { fill: none; stroke: var(--contour); stroke-width: 1.2; }
+.trail { list-style: none; margin: 0; padding: 0; position: relative; max-width: 640px; }
+.trail li { position: relative; padding: 0 0 30px 52px; min-height: 30px; }
+.trail li:last-child { padding-bottom: 0; }
+.trail .marker { position: absolute; left: 4px; top: 4px; width: 30px; display: flex; justify-content: center; }
+.trail .seg { position: absolute; left: 13px; top: 22px; width: 12px; height: calc(100% - 8px); overflow: visible; }
+.seg line { stroke-dasharray: 9 7; stroke-linecap: butt; }
+.seg .casing { stroke: var(--ink); stroke-width: 6.5; }
+.seg .fill { stroke: var(--lvl); stroke-width: 3.5; }
+.seg.ahead .casing { display: none; }
+.seg.ahead .fill { stroke: var(--muted); stroke-width: 2; stroke-dasharray: 4 8; }
+.node-title { font: 500 var(--t-l)/1.15 var(--font-sign); display: flex; gap: 10px; align-items: baseline; }
+.trail li.ahead .node-title { color: var(--muted); }
+.done-icon { width: 18px; height: 18px; vertical-align: -2px; margin-left: 6px; }
+.done-icon path { fill: none; stroke: var(--ok); stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+
+.here .marker::before { content: ""; position: absolute; width: 44px; height: 44px; top: -12px; border-radius: 50%; border: 2px solid var(--ink); }
+.signpost { filter: drop-shadow(2px 0 0 var(--ink)) drop-shadow(-2px 0 0 var(--ink)) drop-shadow(0 2px 0 var(--ink)) drop-shadow(0 -2px 0 var(--ink)); margin: -6px 0 16px; max-width: 600px; }
+.signpost > div { background: var(--plate); clip-path: polygon(0 0, calc(100% - 26px) 0, 100% 50%, calc(100% - 26px) 100%, 0 100%);
+  padding: 12px 44px 12px 16px; display: flex; gap: 8px 16px; align-items: center; flex-wrap: wrap; }
+.signpost h3 { font-size: var(--t-xl); font-weight: 700; flex: 1 1 14ch; }
+.signpost .time { font: 600 var(--t-m)/1 var(--font-sign); white-space: nowrap; }
+.sets { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0 0 12px; padding: 0; list-style: none; font-size: var(--t-s); }
+.sets li { padding: 0; min-height: 0; display: flex; gap: 6px; align-items: center; }
+.dot { width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--muted); flex: none; }
+.dot.on { border-color: var(--ok); background: var(--ok); }
+.score { color: var(--muted); }
+.extras { font-size: var(--t-s); color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 16px; margin-bottom: 16px; align-items: center; }
+.extras label { display: inline-flex; gap: 6px; align-items: center; color: var(--ink); }
+.extras a { color: var(--ink); text-underline-offset: 3px; }
+.extras input { accent-color: var(--ink); width: 16px; height: 16px; margin: 0; }
+.btn { display: inline-block; background: var(--ink); color: var(--paper); border: 2px solid var(--ink); border-radius: var(--radius);
+  padding: 10px 20px; font: 700 var(--t-s)/1.2 var(--font-text); cursor: pointer; }
+.btn.quiet { background: none; color: var(--ink); }
+
+/* ===== Ekran zadania ===== */
+.ex-head { display: grid; grid-template-columns: auto 1fr auto; gap: 12px; align-items: center; padding: 14px 20px; font-size: var(--t-s); }
+.ex-head .where { color: var(--muted); text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.linkbtn { background: none; border: none; padding: 6px 0; cursor: pointer; text-decoration: underline; text-underline-offset: 4px; font-size: var(--t-s); }
+.dashes { display: flex; gap: 6px; padding: 0 20px; }
+.dashes span { flex: 1; height: 5px; background: var(--contour); }
+.dashes span.ok { background: var(--ink); }
+.dashes span.bad { background: repeating-linear-gradient(90deg, var(--ink) 0 4px, transparent 4px 7px); }
+.dashes span.now { background: none; box-shadow: inset 0 0 0 1.5px var(--ink); }
+.ex-body { max-width: 40rem; margin: 0 auto; padding: 44px 20px 28px; }
+.instr { color: var(--muted); font-size: var(--t-s); margin: 0 0 14px; }
+.sentence { font-size: var(--t-l); line-height: 1.6; margin: 0 0 24px; }
+.gap { font: inherit; color: var(--ink); background: var(--raised); border: none; border-bottom: 2.5px solid var(--ink);
+  width: 6ch; padding: 0 6px; border-radius: 2px 2px 0 0; }
+.gap.is-ok { border-color: var(--ok); }
+.ex-actions { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+.kbd { font-size: var(--t-xs); color: var(--muted); }
+kbd { font-family: var(--font-text); border: 1px solid var(--muted); border-radius: 3px; padding: 0 5px; }
+.feedback { border-top: 3px solid var(--ok); background: var(--raised); padding: 18px 20px 22px; }
+.feedback .inner { max-width: 40rem; margin: 0 auto; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; }
+.feedback .verdict { font: 700 var(--t-m)/1.3 var(--font-text); color: var(--ok); }
+.feedback p { margin: 0; grid-column: 2; }
+.feedback .btn { grid-column: 2; justify-self: start; margin-top: 12px; }
+.feedback.is-bad { border-color: var(--bad); }
+.feedback.is-bad .verdict { color: var(--bad); }
+.fb-icon { width: 22px; height: 22px; margin-top: 1px; }
+.fb-icon path { fill: none; stroke: currentColor; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
+.tiles-demo { border-top: 1px solid var(--contour); padding: 28px 20px; }
+.tiles-demo .inner { max-width: 40rem; margin: 0 auto; }
+.answer-line { min-height: 52px; border-bottom: 2px solid var(--ink); display: flex; flex-wrap: wrap; gap: 8px; padding-bottom: 8px; margin-bottom: 16px; }
+.pool { display: flex; flex-wrap: wrap; gap: 8px; }
+.tile { font: 400 var(--t-m)/1 var(--font-text); background: var(--plate); color: var(--ink); border: 1.5px solid var(--ink); border-radius: var(--radius); padding: 9px 12px; cursor: grab; }
+.tile.used { color: transparent; background: none; border: 1.5px dashed var(--contour); }
+.annot { font-size: var(--t-xs); color: var(--muted); padding: 0 20px 16px; margin: 0; }
+
+@media (max-width: 480px) {
+  .app-head { padding: 12px 16px 10px; }
+  .tabs { flex-wrap: nowrap; overflow-x: auto; width: 100%; scrollbar-width: none; }
+  .levels { gap: 2px; flex-wrap: nowrap; }
+  .levels button { padding: 6px 6px; gap: 5px; }
+  .path-wrap { padding: 24px 16px 32px; }
+  .trail li { padding-left: 46px; }
+  .signpost > div { padding-right: 36px; }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<div class="board">
+  <header>
+    <h1>Szlak — plansza fazy 0</h1>
+    <div class="theme-switch" role="group" aria-label="Motyw planszy">
+      <button type="button" data-t="system" aria-pressed="true">System</button>
+      <button type="button" data-t="light" aria-pressed="false">Jasny</button>
+      <button type="button" data-t="dark" aria-pressed="false">Ciemny</button>
+    </div>
+  </header>
+
+  <h2>Kolory</h2>
+  <div class="tokens">
+    <div><i style="background:var(--paper)"></i>paper</div>
+    <div><i style="background:var(--raised)"></i>raised</div>
+    <div><i style="background:var(--plate)"></i>plate</div>
+    <div><i style="background:var(--ink)"></i>ink</div>
+    <div><i style="background:var(--muted)"></i>muted</div>
+    <div><i style="background:var(--contour)"></i>contour</div>
+    <div><i style="background:var(--ok)"></i>ok</div>
+    <div><i style="background:var(--bad)"></i>bad</div>
+    <div><span class="sign big" style="--lvl:var(--a1)"></span>A1</div>
+    <div><span class="sign big" style="--lvl:var(--a2)"></span>A2</div>
+    <div><span class="sign big" style="--lvl:var(--b1)"></span>B1</div>
+    <div><span class="sign big" style="--lvl:var(--b2)"></span>B2</div>
+    <div><span class="sign big" style="--lvl:var(--c1)"></span>C1</div>
+  </div>
+
+  <h2>Skala typograficzna</h2>
+  <div class="scale">
+    <p style="font:700 var(--t-2xl)/1.1 var(--font-sign)">Szlak A1–C1 <span>2xl · Barlow Condensed 700</span></p>
+    <p style="font:700 var(--t-xl)/1.1 var(--font-sign)">Present Perfect: for i since <span>xl · Barlow Condensed 700</span></p>
+    <p style="font:500 var(--t-l)/1.2 var(--font-sign)">Przyimki in/on/at — zażółć gęślą jaźń <span>l · Barlow Condensed 500</span></p>
+    <p style="font-size:var(--t-l)">I've lived here since 2019. <span>l · Atkinson Hyperlegible Next (zdanie zadania)</span></p>
+    <p>Wyjaśnienie: „since” łączymy z punktem w czasie. Zażółć gęślą jaźń. <span>m · tekst</span></p>
+    <p style="font-size:var(--t-xs)">zestaw 2 z 3 · 92% <span>xs · metadane</span></p>
+  </div>
+
+  <h2>Ekrany</h2>
+  <div class="frames">
+    <div>
+      <p class="frame-label">Ścieżka — jedno odważne miejsce: szlak + drogowskaz „dziś”</p>
+      <section class="frame" style="--lvl:var(--b1)">
+        <div class="app-head">
+          <div class="row">
+            <span class="logo">Szlak</span>
+            <nav class="tabs" aria-label="Działy">
+              <a href="#" aria-current="page">Gramatyka</a><a href="#">Słownictwo</a><a href="#">Zdania</a><a href="#">Reading</a><a href="#">Writing</a>
+            </nav>
+          </div>
+          <div class="row">
+            <div class="levels" role="group" aria-label="Poziom">
+              <button type="button" aria-pressed="false"><span class="sign" style="--lvl:var(--a1)"></span>A1</button>
+              <button type="button" aria-pressed="false"><span class="sign" style="--lvl:var(--a2)"></span>A2</button>
+              <button type="button" aria-pressed="true"><span class="sign" style="--lvl:var(--b1)"></span>B1</button>
+              <button type="button" aria-pressed="false"><span class="sign" style="--lvl:var(--b2)"></span>B2</button>
+              <button type="button" aria-pressed="false"><span class="sign" style="--lvl:var(--c1)"></span>C1</button>
+            </div>
+            <button class="review" type="button">Powtórki (7)</button>
+          </div>
+        </div>
+        <div class="path-wrap">
+          <svg class="contours" viewBox="0 0 600 700" preserveAspectRatio="xMaxYMid slice" aria-hidden="true">
+            <path d="M620 40 C520 60 470 120 430 190 S360 330 420 400 S560 470 620 520"/>
+            <path d="M620 90 C540 110 500 160 470 220 S420 330 460 380 S560 440 620 470"/>
+            <path d="M620 140 C565 160 535 200 515 245 S490 320 515 350 S575 395 620 415"/>
+            <path d="M620 190 C590 205 570 235 562 265 S560 310 580 325 S605 345 620 350"/>
+            <path d="M-20 560 C80 540 160 600 260 640 S420 700 520 720"/>
+            <path d="M-20 610 C90 600 170 640 250 680 S360 720 420 740"/>
+          </svg>
+          <ol class="trail">
+            <li>
+              <span class="marker"><span class="sign" style="--lvl:var(--b1)"></span></span>
+              <svg class="seg" aria-hidden="true"><line class="casing" x1="6" y1="0" x2="6" y2="100%"/><line class="fill" x1="6" y1="0" x2="6" y2="100%"/></svg>
+              <div class="node-title"><span>Present Perfect: just, already, yet <svg class="done-icon" viewBox="0 0 18 18" role="img" aria-label="zrobione"><path d="M3.5 9.5l3.5 3.5 7.5-8"/></svg></span></div>
+            </li>
+            <li class="here">
+              <span class="marker"><span class="sign big" style="--lvl:var(--b1)"></span></span>
+              <svg class="seg ahead" aria-hidden="true"><line class="fill" x1="6" y1="18" x2="6" y2="100%"/></svg>
+              <div class="signpost"><div>
+                <span class="sign" style="--lvl:var(--b1)"></span>
+                <h3 aria-current="step">Present Perfect: for i since</h3>
+                <span class="time">ok. 20 min</span>
+              </div></div>
+              <ul class="sets" aria-label="Zestawy">
+                <li><span class="dot on"></span>Zestaw 1 <span class="score">92%</span></li>
+                <li><span class="dot"></span>Zestaw 2</li>
+                <li><span class="dot"></span>Zestaw 3</li>
+              </ul>
+              <div class="extras">Dodatkowo:
+                <label><input type="checkbox" checked><a href="#">PEG</a></label>
+                <label><input type="checkbox"><a href="#">British Council</a></label>
+                <label><input type="checkbox"><a href="#">ang.pl</a></label>
+              </div>
+              <button class="btn" type="button">Zacznij zestaw 2</button>
+            </li>
+            <li class="ahead">
+              <span class="marker"><span class="sign" style="--lvl:var(--b1)"></span></span>
+              <svg class="seg ahead" aria-hidden="true"><line class="fill" x1="6" y1="0" x2="6" y2="100%"/></svg>
+              <div class="node-title">Present Perfect vs Past Simple</div>
+            </li>
+            <li class="ahead">
+              <span class="marker"><span class="sign" style="--lvl:var(--b1)"></span></span>
+              <svg class="seg ahead" aria-hidden="true"><line class="fill" x1="6" y1="0" x2="6" y2="100%"/></svg>
+              <div class="node-title">Used to</div>
+            </li>
+            <li class="ahead">
+              <span class="marker"><span class="sign" style="--lvl:var(--b1)"></span></span>
+              <div class="node-title">Zero i first conditional</div>
+            </li>
+          </ol>
+        </div>
+      </section>
+      <p class="annot" style="padding:8px 0 0">Przebyty odcinek: kreska w kolorze poziomu z ciemnym obrysem (jak szlak na mapie). Przed tobą: cienka, przerywana, wyciszona.</p>
+    </div>
+
+    <div>
+      <p class="frame-label">Zadanie — cicho: bez poziomic, bez koloru poziomu poza nagłówkiem</p>
+      <section class="frame">
+        <div class="ex-head">
+          <button class="linkbtn" type="button">Zakończ</button>
+          <span class="where"><span class="sign" style="--lvl:var(--b1);width:16px;height:10px;margin-right:6px;vertical-align:-1px"></span>For i since · zestaw 2</span>
+          <span>4 / 10</span>
+        </div>
+        <div class="dashes" aria-hidden="true"><span class="ok"></span><span class="ok"></span><span class="bad"></span><span class="now"></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+        <div class="ex-body">
+          <p class="instr">Uzupełnij lukę: for czy since?</p>
+          <p class="sentence">I've lived in Kraków <input class="gap is-ok" value="since" aria-label="luka" readonly> 2019.</p>
+        </div>
+        <div class="feedback" role="status">
+          <div class="inner">
+            <svg class="fb-icon" viewBox="0 0 22 22" style="color:var(--ok)" aria-hidden="true"><path d="M4 11.5l4.5 4.5 9.5-10"/></svg>
+            <span class="verdict">Dobrze</span>
+            <p>Since + punkt w czasie (2019). For + okres (for three years).</p>
+            <button class="btn" type="button">Dalej</button>
+          </div>
+        </div>
+        <div class="tiles-demo">
+          <div class="inner">
+            <p class="instr">Ułóż zdanie (kafelki; klik, przeciąganie lub klawiatura)</p>
+            <div class="answer-line"><button class="tile">She</button><button class="tile">has</button><button class="tile">known</button></div>
+            <div class="pool"><button class="tile used">She</button><button class="tile">him</button><button class="tile used">has</button><button class="tile">for</button><button class="tile">since</button><button class="tile used">known</button><button class="tile">ages</button></div>
+            <div class="ex-actions" style="margin-top:24px">
+              <button class="btn" type="button">Sprawdź</button>
+              <button class="linkbtn" type="button">Podpowiedź</button>
+              <span class="kbd"><kbd>Enter</kbd> sprawdza</span>
+            </div>
+          </div>
+        </div>
+        <p class="annot" style="padding-top:0">Stan po błędnej odpowiedzi (na przykładzie tego zdania):</p>
+        <div class="feedback is-bad" role="status">
+          <div class="inner">
+            <svg class="fb-icon" viewBox="0 0 22 22" style="color:var(--bad)" aria-hidden="true"><path d="M5 5l12 12M17 5L5 17"/></svg>
+            <span class="verdict">Jeszcze nie</span>
+            <p>Poprawnie: <strong>She has known him for ages.</strong> „Ages” to okres, więc for. Zadanie wróci na koniec zestawu.</p>
+            <button class="btn" type="button">Dalej</button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+<script>
+  const btns = document.querySelectorAll('.theme-switch button');
+  btns.forEach(b => b.addEventListener('click', () => {
+    const t = b.dataset.t;
+    if (t === 'system') document.documentElement.removeAttribute('data-theme');
+    else document.documentElement.setAttribute('data-theme', t);
+    btns.forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+  }));
+</script>
+</body>
+</html>

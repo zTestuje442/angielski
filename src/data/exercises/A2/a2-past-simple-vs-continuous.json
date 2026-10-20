@@ -1,0 +1,334 @@
+[
+  {
+    "id": "a2-past-simple-vs-continuous-1",
+    "topicId": "a2-past-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "a2-past-simple-vs-continuous-1-01",
+        "type": "choice",
+        "prompt": "I ___ a shower when the phone rang.",
+        "answer": "was having",
+        "distractors": [
+          "had",
+          "have"
+        ],
+        "explanation": "Dłuższa czynność przerwana: was having."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-02",
+        "type": "choice",
+        "prompt": "When I arrived, they ___ dinner.",
+        "answer": "were having",
+        "distractors": [
+          "are having",
+          "have"
+        ],
+        "explanation": "Już trwało, gdy przyszedłem: were having."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-03",
+        "type": "cloze",
+        "prompt": "While I was walking home, I ___ an old friend. (meet)",
+        "answer": "met",
+        "explanation": "Krótkie zdarzenie: met."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-04",
+        "type": "cloze",
+        "prompt": "She ___ when the lights went out. (cook)",
+        "answer": "was cooking",
+        "explanation": "Czynność w tle: was cooking."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-05",
+        "type": "cloze",
+        "prompt": "He fell while he ___. (run)",
+        "answer": "was running",
+        "explanation": "Po while dłuższa czynność: was running."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "Czytałem, kiedy zadzwoniłeś.|I was reading when you called.",
+          "Zadzwoniłeś, kiedy czytałem.|You called while I was reading.",
+          "Kiedy przyszedł, wyszliśmy.|When he came, we left.",
+          "Kiedy przyszedł, jedliśmy.|When he came, we were eating."
+        ],
+        "explanation": "Tło: Past Continuous; zdarzenie: Past Simple."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-07",
+        "type": "tiles",
+        "prompt": "Spałem, kiedy zadzwonił.",
+        "answer": [
+          "I",
+          "was",
+          "sleeping",
+          "when",
+          "he",
+          "called"
+        ],
+        "accept": [
+          "When he called I was sleeping"
+        ],
+        "explanation": "Tło: was sleeping, zdarzenie: called."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-08",
+        "type": "error",
+        "prompt": "When I arrived, she was cook.",
+        "answer": [
+          "cook",
+          "cooking"
+        ],
+        "explanation": "Po was potrzebna forma -ing."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-09",
+        "type": "translate",
+        "prompt": "Kiedy wróciłem, oglądali telewizję.",
+        "answer": "When I came back, they were watching TV.",
+        "accept": [
+          "When I got back, they were watching TV.",
+          "When I came home, they were watching TV.",
+          "When I got home, they were watching TV.",
+          "They were watching TV when I came back.",
+          "They were watching TV when I got back.",
+          "They were watching TV when I came home.",
+          "They were watching TV when I got home.",
+          "When I returned, they were watching TV.",
+          "They were watching TV when I returned."
+        ],
+        "explanation": "Już oglądali, gdy wróciłem."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „when”.\nI was driving. I saw a deer.",
+        "answer": "I was driving when I saw a deer.",
+        "accept": [
+          "When I was driving, I saw a deer."
+        ],
+        "explanation": "When przy krótkim zdarzeniu."
+      }
+    ]
+  },
+  {
+    "id": "a2-past-simple-vs-continuous-2",
+    "topicId": "a2-past-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "a2-past-simple-vs-continuous-2-01",
+        "type": "cloze",
+        "prompt": "We ___ tennis when it started to rain. (play)",
+        "answer": "were playing",
+        "explanation": "Tło: were playing."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-02",
+        "type": "cloze",
+        "prompt": "It ___ to rain while we were playing. (start)",
+        "answer": "started",
+        "explanation": "Zdarzenie: started."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-03",
+        "type": "choice",
+        "prompt": "What ___ when the accident happened?",
+        "answer": "were you doing",
+        "distractors": [
+          "did you do",
+          "you were doing"
+        ],
+        "explanation": "Co robiłeś (trwało): were you doing?"
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-04",
+        "type": "choice",
+        "prompt": "I ___ my keys while I was running.",
+        "answer": "lost",
+        "distractors": [
+          "was losing",
+          "lose"
+        ],
+        "explanation": "Krótkie zdarzenie: lost."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-05",
+        "type": "error",
+        "prompt": "She broken her leg while she was skiing.",
+        "answer": [
+          "broken",
+          "broke"
+        ],
+        "explanation": "Past Simple od break: broke."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-06",
+        "type": "error",
+        "prompt": "When you called, I have a shower.",
+        "answer": [
+          "have",
+          "was having"
+        ],
+        "explanation": "Czynność w tle w przeszłości: was having."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-07",
+        "type": "tiles",
+        "prompt": "Co robiłeś, kiedy zgasło światło?",
+        "answer": [
+          "What",
+          "were",
+          "you",
+          "doing",
+          "when",
+          "the",
+          "lights",
+          "went",
+          "out"
+        ],
+        "explanation": "Tło: were you doing; zdarzenie: went out."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-08",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „while”.\nThey were sleeping. A thief broke in.",
+        "answer": "A thief broke in while they were sleeping.",
+        "accept": [
+          "While they were sleeping, a thief broke in."
+        ],
+        "explanation": "While przy dłuższej czynności."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-09",
+        "type": "translate",
+        "prompt": "Spotkałem Annę, kiedy czekałem na autobus.",
+        "answer": "I met Anna while I was waiting for the bus.",
+        "accept": [
+          "I met Anna when I was waiting for the bus.",
+          "While I was waiting for the bus, I met Anna.",
+          "When I was waiting for the bus, I met Anna.",
+          "I met Anna while I was waiting for a bus.",
+          "I met Anna when I was waiting for a bus."
+        ],
+        "explanation": "Zdarzenie: met; tło: was waiting."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-2-10",
+        "type": "match",
+        "prompt": "Połącz spójniki ze znaczeniem.",
+        "answer": [
+          "when|kiedy (zwykle krótkie zdarzenie)",
+          "while|podczas gdy (dłuższa czynność)"
+        ],
+        "explanation": "When i while."
+      }
+    ]
+  },
+  {
+    "id": "a2-past-simple-vs-continuous-3",
+    "topicId": "a2-past-simple-vs-continuous",
+    "exercises": [
+      {
+        "id": "a2-past-simple-vs-continuous-3-01",
+        "type": "cloze",
+        "prompt": "I ___ the phone because I was listening to music. (not hear)",
+        "answer": "didn't hear",
+        "explanation": "Zdarzenie (nie usłyszałem): didn't hear."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-02",
+        "type": "cloze",
+        "prompt": "The children ___ when we got home. (sleep)",
+        "answer": "were sleeping",
+        "explanation": "Już spały: were sleeping."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-03",
+        "type": "choice",
+        "prompt": "She ___ the house at 7 and arrived at 8.",
+        "answer": "left",
+        "distractors": [
+          "was leaving",
+          "leaves"
+        ],
+        "explanation": "Zdarzenia po kolei: Past Simple."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-04",
+        "type": "choice",
+        "prompt": "At midnight we ___ still dancing.",
+        "answer": "were",
+        "distractors": [
+          "was",
+          "did"
+        ],
+        "explanation": "We + were + -ing."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-05",
+        "type": "error",
+        "prompt": "I didn't heard you.",
+        "answer": [
+          "heard",
+          "hear"
+        ],
+        "explanation": "Po didn't forma podstawowa."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-06",
+        "type": "error",
+        "prompt": "They was watching a film when I arrived.",
+        "answer": [
+          "was",
+          "were"
+        ],
+        "explanation": "They + were."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-07",
+        "type": "tiles",
+        "prompt": "Słońce świeciło, kiedy się obudziłem.",
+        "answer": [
+          "The",
+          "sun",
+          "was",
+          "shining",
+          "when",
+          "I",
+          "woke",
+          "up"
+        ],
+        "explanation": "Tło: was shining; zdarzenie: woke up."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-08",
+        "type": "transform",
+        "prompt": "Zmień jeden czasownik na Past Continuous.\nI read when she came in.",
+        "answer": "I was reading when she came in.",
+        "explanation": "Czynność w tle: was reading."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-09",
+        "type": "translate",
+        "prompt": "Co się stało?",
+        "answer": "What happened?",
+        "explanation": "Pojedyncze zdarzenie: Past Simple."
+      },
+      {
+        "id": "a2-past-simple-vs-continuous-3-10",
+        "type": "choice",
+        "prompt": "Sorry, I ___ to you. Can you say that again?",
+        "answer": "wasn't listening",
+        "distractors": [
+          "didn't listening",
+          "wasn't listen"
+        ],
+        "explanation": "Nie słuchałem (w tamtej chwili): wasn't listening."
+      }
+    ]
+  }
+]

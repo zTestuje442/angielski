@@ -1,0 +1,333 @@
+[
+  {
+    "id": "b1-vocab-emotions-character-1",
+    "topicId": "b1-vocab-emotions-character",
+    "exercises": [
+      {
+        "id": "b1-vocab-emotions-character-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "anxious|niespokojny",
+          "proud|dumny",
+          "jealous|zazdrosny",
+          "relieved|odczuwający ulgę"
+        ],
+        "explanation": "Uczucia."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-02",
+        "type": "choice",
+        "prompt": "I was so ___ when I found my lost passport!",
+        "answer": "relieved",
+        "distractors": [
+          "jealous",
+          "nervous"
+        ],
+        "explanation": "Ulga: relieved."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-03",
+        "type": "choice",
+        "prompt": "She's ___ of her sister's new car.",
+        "answer": "jealous",
+        "distractors": [
+          "proud",
+          "relieved"
+        ],
+        "explanation": "Zazdrosna: jealous of."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-04",
+        "type": "cloze",
+        "prompt": "Don't be ___ – the exam will be fine. (zdenerwowany)",
+        "answer": "nervous",
+        "accept": [
+          "anxious",
+          "worried"
+        ],
+        "explanation": "Zdenerwowany: nervous."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-05",
+        "type": "cloze",
+        "prompt": "I'm really ___ of you – you passed! (dumny)",
+        "answer": "proud",
+        "explanation": "Dumny z: proud of."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-06",
+        "type": "error",
+        "prompt": "I'm very boring today – there's nothing to do.",
+        "answer": [
+          "boring",
+          "bored"
+        ],
+        "explanation": "Nudzę się: bored."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-07",
+        "type": "tiles",
+        "prompt": "Czuję się trochę samotny.",
+        "answer": [
+          "I",
+          "feel",
+          "a",
+          "bit",
+          "lonely"
+        ],
+        "distractors": [
+          "am",
+          "feeling"
+        ],
+        "explanation": "Samotny (uczucie): lonely."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-08",
+        "type": "translate",
+        "prompt": "Byłem przerażony.",
+        "answer": "I was terrified.",
+        "accept": [
+          "I was frightened.",
+          "I was scared.",
+          "I was very scared.",
+          "I was very frightened."
+        ],
+        "explanation": "Przerażony: terrified / frightened / scared."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo, zacznij od „I am”.\nI am happy.",
+        "answer": "I am sad.",
+        "accept": [
+          "I am unhappy."
+        ],
+        "explanation": "Happy – sad."
+      },
+      {
+        "id": "b1-vocab-emotions-character-1-10",
+        "type": "choice",
+        "prompt": "When something goes wrong again and again, you feel ___.",
+        "answer": "frustrated",
+        "distractors": [
+          "delighted",
+          "grateful"
+        ],
+        "explanation": "Sfrustrowany: frustrated."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-emotions-character-2",
+    "topicId": "b1-vocab-emotions-character",
+    "exercises": [
+      {
+        "id": "b1-vocab-emotions-character-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "generous|hojny",
+          "stubborn|uparty",
+          "reliable|niezawodny",
+          "shy|nieśmiały"
+        ],
+        "explanation": "Cechy charakteru."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-02",
+        "type": "choice",
+        "prompt": "He never shares anything. He's so ___.",
+        "answer": "mean",
+        "distractors": [
+          "generous",
+          "kind"
+        ],
+        "explanation": "Skąpy: mean."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-03",
+        "type": "choice",
+        "prompt": "She always tells the truth. She's very ___.",
+        "answer": "honest",
+        "distractors": [
+          "lazy",
+          "rude"
+        ],
+        "explanation": "Uczciwa: honest."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-04",
+        "type": "cloze",
+        "prompt": "He's very ___ – he always does what he promises. (niezawodny)",
+        "answer": "reliable",
+        "explanation": "Niezawodny: reliable."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-05",
+        "type": "cloze",
+        "prompt": "My sister is ___ – she doesn't like talking to strangers. (nieśmiała)",
+        "answer": "shy",
+        "explanation": "Nieśmiała: shy."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-06",
+        "type": "error",
+        "prompt": "He is very sensible – he cries at sad films.",
+        "answer": [
+          "sensible",
+          "sensitive"
+        ],
+        "explanation": "Wrażliwy: sensitive (sensible = rozsądny)."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-07",
+        "type": "error",
+        "prompt": "Tom is very polite – he never says please or thank you.",
+        "answer": [
+          "polite",
+          "rude"
+        ],
+        "explanation": "Niegrzeczny: rude."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-08",
+        "type": "tiles",
+        "prompt": "On jest bardzo pewny siebie.",
+        "answer": [
+          "He",
+          "is",
+          "very",
+          "confident"
+        ],
+        "distractors": [
+          "self",
+          "sure"
+        ],
+        "explanation": "Pewny siebie: confident."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-09",
+        "type": "translate",
+        "prompt": "Ona jest bardzo cierpliwa.",
+        "answer": "She is very patient.",
+        "explanation": "Cierpliwy: patient."
+      },
+      {
+        "id": "b1-vocab-emotions-character-2-10",
+        "type": "transform",
+        "prompt": "Utwórz przeciwieństwo z przedrostkiem.\npatient",
+        "answer": "impatient",
+        "explanation": "Im- + patient."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-emotions-character-3",
+    "topicId": "b1-vocab-emotions-character",
+    "exercises": [
+      {
+        "id": "b1-vocab-emotions-character-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "lose your temper|stracić panowanie",
+          "cheer up|rozchmurzyć się",
+          "calm down|uspokoić się",
+          "get on with|dogadywać się z"
+        ],
+        "explanation": "Wyrażenia o emocjach."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-02",
+        "type": "cloze",
+        "prompt": "Calm ___! It's not a big problem.",
+        "answer": "down",
+        "explanation": "Uspokój się: calm down."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-03",
+        "type": "cloze",
+        "prompt": "I get ___ well with my colleagues.",
+        "answer": "on",
+        "explanation": "Dogadywać się: get on with."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-04",
+        "type": "choice",
+        "prompt": "What's wrong? You look ___.",
+        "answer": "upset",
+        "distractors": [
+          "upsetting",
+          "upseted"
+        ],
+        "explanation": "Zmartwiony: upset."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-05",
+        "type": "choice",
+        "prompt": "Thank you so much for your help. I'm really ___.",
+        "answer": "grateful",
+        "distractors": [
+          "greedy",
+          "great"
+        ],
+        "explanation": "Wdzięczny: grateful."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-06",
+        "type": "error",
+        "prompt": "Cheer on! Things will get better.",
+        "answer": [
+          "on",
+          "up"
+        ],
+        "explanation": "Rozchmurz się: cheer up."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-07",
+        "type": "error",
+        "prompt": "He's very easy-going – he gets angry about everything.",
+        "answer": [
+          "easy-going",
+          "bad-tempered"
+        ],
+        "accept": [
+          "short-tempered"
+        ],
+        "explanation": "Wybuchowy: bad-tempered."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-08",
+        "type": "tiles",
+        "prompt": "Ona łatwo traci panowanie nad sobą.",
+        "answer": [
+          "She",
+          "loses",
+          "her",
+          "temper",
+          "easily"
+        ],
+        "distractors": [
+          "looses",
+          "his"
+        ],
+        "explanation": "Lose your temper."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-09",
+        "type": "translate",
+        "prompt": "Nie martw się!",
+        "answer": "Don't worry!",
+        "explanation": "Nie martw się: Don't worry."
+      },
+      {
+        "id": "b1-vocab-emotions-character-3-10",
+        "type": "transform",
+        "prompt": "Utwórz przeciwieństwo z przedrostkiem.\nhonest",
+        "answer": "dishonest",
+        "explanation": "Dis- + honest."
+      }
+    ]
+  }
+]

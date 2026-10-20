@@ -1,0 +1,299 @@
+[
+  {
+    "id": "a1-articles-demonstratives-1",
+    "topicId": "a1-articles-demonstratives",
+    "exercises": [
+      {
+        "id": "a1-articles-demonstratives-1-01",
+        "type": "cloze",
+        "prompt": "She is ___ teacher.",
+        "answer": "a",
+        "explanation": "Zawód z a; teacher zaczyna się od spółgłoski."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-02",
+        "type": "cloze",
+        "prompt": "It is ___ apple.",
+        "answer": "an",
+        "explanation": "Apple zaczyna się od samogłoski, więc an."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-03",
+        "type": "cloze",
+        "prompt": "He has ___ umbrella.",
+        "answer": "an",
+        "explanation": "Umbrella zaczyna się od samogłoski, więc an."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-04",
+        "type": "choice",
+        "prompt": "I waited for ___.",
+        "answer": "an hour",
+        "distractors": [
+          "a hour",
+          "an hours"
+        ],
+        "explanation": "W hour h jest nieme, więc an hour."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-05",
+        "type": "choice",
+        "prompt": "She is ___.",
+        "answer": "an engineer",
+        "distractors": [
+          "a engineer",
+          "an engineers"
+        ],
+        "explanation": "Engineer zaczyna się od samogłoski: an engineer."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-06",
+        "type": "error",
+        "prompt": "My father is a engineer.",
+        "answer": [
+          "a",
+          "an"
+        ],
+        "explanation": "Przed samogłoską (engineer) używamy an."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-07",
+        "type": "error",
+        "prompt": "It is an big house.",
+        "answer": [
+          "an",
+          "a"
+        ],
+        "explanation": "Liczy się następne słowo: big zaczyna się od spółgłoski."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-08",
+        "type": "tiles",
+        "prompt": "To jest stary samochód.",
+        "answer": [
+          "It",
+          "is",
+          "an",
+          "old",
+          "car"
+        ],
+        "explanation": "Old zaczyna się od samogłoski, więc an."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-09",
+        "type": "translate",
+        "prompt": "On jest lekarzem.",
+        "answer": "He is a doctor.",
+        "explanation": "Zawód po angielsku zawsze z a/an."
+      },
+      {
+        "id": "a1-articles-demonstratives-1-10",
+        "type": "transform",
+        "prompt": "Zamień na liczbę pojedynczą, zacznij od „She”.\nThey are actors.",
+        "answer": "She is an actor.",
+        "accept": [
+          "She is an actress."
+        ],
+        "explanation": "Liczba pojedyncza: an actor (samogłoska)."
+      }
+    ]
+  },
+  {
+    "id": "a1-articles-demonstratives-2",
+    "topicId": "a1-articles-demonstratives",
+    "exercises": [
+      {
+        "id": "a1-articles-demonstratives-2-01",
+        "type": "cloze",
+        "prompt": "Look at ___ birds over there!",
+        "answer": "those",
+        "explanation": "Daleko (over there) i liczba mnoga: those."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-02",
+        "type": "cloze",
+        "prompt": "___ shoes here are new.",
+        "answer": "These",
+        "explanation": "Blisko (here) i liczba mnoga: these."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-03",
+        "type": "choice",
+        "prompt": "___ is my brother, next to me.",
+        "answer": "This",
+        "distractors": [
+          "These",
+          "Those"
+        ],
+        "explanation": "Blisko i jedna osoba: this."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-04",
+        "type": "choice",
+        "prompt": "Can you see ___ house on the hill?",
+        "answer": "that",
+        "distractors": [
+          "this",
+          "these"
+        ],
+        "explanation": "Daleko i jedna rzecz: that."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-05",
+        "type": "match",
+        "prompt": "Połącz wyrazy ze znaczeniem.",
+        "answer": [
+          "this|ten tutaj",
+          "that|tamten",
+          "these|te tutaj",
+          "those|tamte"
+        ],
+        "explanation": "Blisko: this/these, daleko: that/those."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-06",
+        "type": "error",
+        "prompt": "These book is interesting.",
+        "answer": [
+          "These",
+          "This"
+        ],
+        "explanation": "Jedna książka, więc this."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-07",
+        "type": "error",
+        "prompt": "This apples are sweet.",
+        "answer": [
+          "This",
+          "These"
+        ],
+        "explanation": "Wiele jabłek, więc these."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-08",
+        "type": "tiles",
+        "prompt": "Tamte kwiaty są piękne.",
+        "answer": [
+          "Those",
+          "flowers",
+          "are",
+          "beautiful"
+        ],
+        "explanation": "Daleko i liczba mnoga: those."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-09",
+        "type": "translate",
+        "prompt": "To jest moja siostra.",
+        "answer": "This is my sister.",
+        "explanation": "Przedstawiając kogoś, mówimy this is."
+      },
+      {
+        "id": "a1-articles-demonstratives-2-10",
+        "type": "transform",
+        "prompt": "Zmień na liczbę mnogą.\nThat is my pen.",
+        "answer": "Those are my pens.",
+        "explanation": "That → those, is → are, pen → pens."
+      }
+    ]
+  },
+  {
+    "id": "a1-articles-demonstratives-3",
+    "topicId": "a1-articles-demonstratives",
+    "exercises": [
+      {
+        "id": "a1-articles-demonstratives-3-01",
+        "type": "cloze",
+        "prompt": "Is ___ your car over there?",
+        "answer": "that",
+        "explanation": "Daleko i jedna rzecz: that."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-02",
+        "type": "cloze",
+        "prompt": "I would like ___ apple, please.",
+        "answer": "an",
+        "explanation": "Apple zaczyna się od samogłoski."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-03",
+        "type": "choice",
+        "prompt": "___ are my keys, here in my hand.",
+        "answer": "These",
+        "distractors": [
+          "Those",
+          "This"
+        ],
+        "explanation": "Blisko i liczba mnoga: these."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-04",
+        "type": "cloze",
+        "prompt": "She is ___ honest person.",
+        "answer": "an",
+        "explanation": "W honest h jest nieme, więc an."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-05",
+        "type": "choice",
+        "prompt": "___ glasses on the table over there are dirty.",
+        "answer": "Those",
+        "distractors": [
+          "These",
+          "That"
+        ],
+        "explanation": "Daleko i liczba mnoga: those."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-06",
+        "type": "error",
+        "prompt": "Those is my parents.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "Those to liczba mnoga, więc are."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-07",
+        "type": "error",
+        "prompt": "I have a idea.",
+        "answer": [
+          "a",
+          "an"
+        ],
+        "explanation": "Idea zaczyna się od samogłoski."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-08",
+        "type": "tiles",
+        "prompt": "Ta książka jest nudna.",
+        "answer": [
+          "This",
+          "book",
+          "is",
+          "boring"
+        ],
+        "explanation": "Blisko i jedna rzecz: this."
+      },
+      {
+        "id": "a1-articles-demonstratives-3-09",
+        "type": "translate",
+        "prompt": "Czy to są twoje buty?",
+        "answer": "Are these your shoes?",
+        "accept": [
+          "Are those your shoes?"
+        ],
+        "explanation": "Liczba mnoga: are these...?"
+      },
+      {
+        "id": "a1-articles-demonstratives-3-10",
+        "type": "transform",
+        "prompt": "Zmień na liczbę pojedynczą.\nThese are apples.",
+        "answer": "This is an apple.",
+        "explanation": "These → this, are → is, apples → an apple."
+      }
+    ]
+  }
+]

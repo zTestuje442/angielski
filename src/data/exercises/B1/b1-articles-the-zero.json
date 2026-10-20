@@ -1,0 +1,327 @@
+[
+  {
+    "id": "b1-articles-the-zero-1",
+    "topicId": "b1-articles-the-zero",
+    "exercises": [
+      {
+        "id": "b1-articles-the-zero-1-01",
+        "type": "choice",
+        "prompt": "Which sentence is about cats in general?",
+        "answer": "Cats are independent animals.",
+        "distractors": [
+          "The cats are independent animals.",
+          "A cats are independent animals."
+        ],
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-1-02",
+        "type": "choice",
+        "prompt": "I love ___ of the 1980s.",
+        "answer": "the music",
+        "distractors": [
+          "music",
+          "a music"
+        ],
+        "explanation": "Konkretna muzyka (z lat 80.): the."
+      },
+      {
+        "id": "b1-articles-the-zero-1-03",
+        "type": "cloze",
+        "prompt": "I go to ___ gym three times a week.",
+        "answer": "the",
+        "explanation": "Go to the gym."
+      },
+      {
+        "id": "b1-articles-the-zero-1-04",
+        "type": "cloze",
+        "prompt": "Can you pass ___ salt, please?",
+        "answer": "the",
+        "explanation": "Konkretna sól na stole: the."
+      },
+      {
+        "id": "b1-articles-the-zero-1-05",
+        "type": "match",
+        "prompt": "Połącz przykład z zasadą.",
+        "answer": [
+          "the Thames|rzeki",
+          "the Alps|pasma górskie",
+          "the USA|nazwy z States, Kingdom, Republic",
+          "Poland|większość krajów (bez the)"
+        ],
+        "explanation": "Przedimki w nazwach geograficznych."
+      },
+      {
+        "id": "b1-articles-the-zero-1-06",
+        "type": "error",
+        "prompt": "I'd like to visit a United States.",
+        "answer": [
+          "a",
+          "the"
+        ],
+        "explanation": "The USA, the United States."
+      },
+      {
+        "id": "b1-articles-the-zero-1-07",
+        "type": "tiles",
+        "prompt": "Lubię czytać książki o historii.",
+        "answer": [
+          "I",
+          "like",
+          "reading",
+          "books",
+          "about",
+          "history"
+        ],
+        "distractors": [
+          "the"
+        ],
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-1-08",
+        "type": "translate",
+        "prompt": "Życie jest piękne.",
+        "answer": "Life is beautiful.",
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-1-09",
+        "type": "transform",
+        "prompt": "Zmień na zdanie o kotach w ogóle.\nThe cats in our garden are friendly.",
+        "answer": "Cats are friendly.",
+        "explanation": "Ogólnie: liczba mnoga bez the."
+      },
+      {
+        "id": "b1-articles-the-zero-1-10",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "She speaks English and French.",
+        "distractors": [
+          "She speaks the English and the French.",
+          "She speaks an English and a French."
+        ],
+        "explanation": "Języki: bez przedimka."
+      }
+    ]
+  },
+  {
+    "id": "b1-articles-the-zero-2",
+    "topicId": "b1-articles-the-zero",
+    "exercises": [
+      {
+        "id": "b1-articles-the-zero-2-01",
+        "type": "cloze",
+        "prompt": "She plays ___ violin in an orchestra.",
+        "answer": "the",
+        "explanation": "Instrumenty: the."
+      },
+      {
+        "id": "b1-articles-the-zero-2-02",
+        "type": "cloze",
+        "prompt": "We visited ___ British Museum.",
+        "answer": "the",
+        "explanation": "Muzea: the."
+      },
+      {
+        "id": "b1-articles-the-zero-2-03",
+        "type": "choice",
+        "prompt": "I usually have ___ for breakfast.",
+        "answer": "eggs",
+        "distractors": [
+          "the eggs",
+          "an eggs"
+        ],
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-2-04",
+        "type": "choice",
+        "prompt": "___ is the longest river in Africa.",
+        "answer": "The Nile",
+        "distractors": [
+          "Nile",
+          "A Nile"
+        ],
+        "explanation": "Rzeki: the."
+      },
+      {
+        "id": "b1-articles-the-zero-2-05",
+        "type": "choice",
+        "prompt": "He's in ___ at the moment. He's got flu.",
+        "answer": "bed",
+        "distractors": [
+          "the bed",
+          "a bed"
+        ],
+        "explanation": "W łóżku (chory, śpi): in bed."
+      },
+      {
+        "id": "b1-articles-the-zero-2-06",
+        "type": "transform",
+        "prompt": "Uzupełnij przedimki i napisz całe zdanie.\n___ Moon goes round ___ Earth.",
+        "answer": "The Moon goes round the Earth.",
+        "accept": [
+          "The Moon goes around the Earth."
+        ],
+        "explanation": "Jedyne w swoim rodzaju: the."
+      },
+      {
+        "id": "b1-articles-the-zero-2-07",
+        "type": "tiles",
+        "prompt": "Najlepsze rzeczy w życiu są za darmo.",
+        "answer": [
+          "The",
+          "best",
+          "things",
+          "in",
+          "life",
+          "are",
+          "free"
+        ],
+        "distractors": [
+          "a"
+        ],
+        "explanation": "Stopień najwyższy: the; life ogólnie."
+      },
+      {
+        "id": "b1-articles-the-zero-2-08",
+        "type": "error",
+        "prompt": "She is the best student in a class.",
+        "answer": [
+          "a",
+          "the"
+        ],
+        "explanation": "Konkretna klasa: the."
+      },
+      {
+        "id": "b1-articles-the-zero-2-09",
+        "type": "translate",
+        "prompt": "Nie lubię kawy.",
+        "answer": "I do not like coffee.",
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "in bed|w łóżku",
+          "at home|w domu",
+          "at work|w pracy",
+          "by car|samochodem"
+        ],
+        "explanation": "Utarte wyrażenia bez przedimka."
+      }
+    ]
+  },
+  {
+    "id": "b1-articles-the-zero-3",
+    "topicId": "b1-articles-the-zero",
+    "exercises": [
+      {
+        "id": "b1-articles-the-zero-3-01",
+        "type": "cloze",
+        "prompt": "___ Netherlands is famous for tulips.",
+        "answer": "The",
+        "explanation": "Kraje w liczbie mnogiej: the."
+      },
+      {
+        "id": "b1-articles-the-zero-3-02",
+        "type": "cloze",
+        "prompt": "Have you read ___ book I gave you?",
+        "answer": "the",
+        "explanation": "Konkretna książka: the."
+      },
+      {
+        "id": "b1-articles-the-zero-3-03",
+        "type": "choice",
+        "prompt": "___ is a very important subject.",
+        "answer": "History",
+        "distractors": [
+          "The history",
+          "A history"
+        ],
+        "explanation": "Przedmiot szkolny: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-3-04",
+        "type": "choice",
+        "prompt": "We climbed ___ last summer.",
+        "answer": "Mount Snowdon",
+        "distractors": [
+          "the Mount Snowdon",
+          "a Mount Snowdon"
+        ],
+        "explanation": "Pojedyncza góra: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-3-05",
+        "type": "choice",
+        "prompt": "What's ___ of the river?",
+        "answer": "the name",
+        "distractors": [
+          "name",
+          "a name"
+        ],
+        "explanation": "Konkretna nazwa: the."
+      },
+      {
+        "id": "b1-articles-the-zero-3-06",
+        "type": "error",
+        "prompt": "She works as the nurse.",
+        "answer": [
+          "the",
+          "a"
+        ],
+        "explanation": "Zawód: a."
+      },
+      {
+        "id": "b1-articles-the-zero-3-07",
+        "type": "error",
+        "prompt": "Where's an Eiffel Tower?",
+        "answer": [
+          "an",
+          "the"
+        ],
+        "explanation": "Słynne budowle: the."
+      },
+      {
+        "id": "b1-articles-the-zero-3-08",
+        "type": "tiles",
+        "prompt": "Pojechaliśmy w Alpy na narty.",
+        "answer": [
+          "We",
+          "went",
+          "skiing",
+          "in",
+          "the",
+          "Alps"
+        ],
+        "distractors": [
+          "a"
+        ],
+        "explanation": "Pasma górskie: the."
+      },
+      {
+        "id": "b1-articles-the-zero-3-09",
+        "type": "translate",
+        "prompt": "Dzieci lubią słodycze.",
+        "answer": "Children like sweets.",
+        "accept": [
+          "Kids like sweets.",
+          "Children love sweets.",
+          "Children like candy."
+        ],
+        "explanation": "Ogólnie: bez przedimka."
+      },
+      {
+        "id": "b1-articles-the-zero-3-10",
+        "type": "transform",
+        "prompt": "Uzupełnij przedimek i napisz całe zdanie.\nWe stayed at ___ Hilton Hotel.",
+        "answer": "We stayed at the Hilton Hotel.",
+        "explanation": "Hotele: the."
+      }
+    ]
+  }
+]

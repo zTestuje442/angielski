@@ -1,0 +1,339 @@
+[
+  {
+    "id": "b2-wish-if-only-1",
+    "topicId": "b2-wish-if-only",
+    "exercises": [
+      {
+        "id": "b2-wish-if-only-1-01",
+        "type": "cloze",
+        "prompt": "I wish I ___ more free time. (have)",
+        "answer": "had",
+        "explanation": "Teraz: wish + Past Simple."
+      },
+      {
+        "id": "b2-wish-if-only-1-02",
+        "type": "cloze",
+        "prompt": "I wish I ___ taller. (be)",
+        "answer": "were",
+        "accept": [
+          "was"
+        ],
+        "explanation": "Wish + were."
+      },
+      {
+        "id": "b2-wish-if-only-1-03",
+        "type": "choice",
+        "prompt": "I wish you ___ here. I miss you.",
+        "answer": "were",
+        "distractors": [
+          "are",
+          "will be"
+        ],
+        "explanation": "Teraz: were."
+      },
+      {
+        "id": "b2-wish-if-only-1-04",
+        "type": "choice",
+        "prompt": "I wish I ___ that. I'm sorry.",
+        "answer": "hadn't said",
+        "distractors": [
+          "didn't say",
+          "don't say"
+        ],
+        "explanation": "Przeszłość: Past Perfect."
+      },
+      {
+        "id": "b2-wish-if-only-1-05",
+        "type": "cloze",
+        "prompt": "If only I ___ her number! I could call her now. (know)",
+        "answer": "knew",
+        "explanation": "Teraz: Past Simple."
+      },
+      {
+        "id": "b2-wish-if-only-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "I wish I had...|Żałuję, że nie mam (teraz)",
+          "I wish I had had...|Żałuję, że nie miałem (wtedy)",
+          "I wish you would...|Chciałbym, żebyś (zmienił zachowanie)",
+          "If only...|Gdybyż tylko..."
+        ],
+        "explanation": "Formy z wish."
+      },
+      {
+        "id": "b2-wish-if-only-1-07",
+        "type": "error",
+        "prompt": "I wish I can swim.",
+        "answer": [
+          "can",
+          "could"
+        ],
+        "explanation": "Umiejętność: wish + could."
+      },
+      {
+        "id": "b2-wish-if-only-1-08",
+        "type": "tiles",
+        "prompt": "Żałuję, że nie mieszkam bliżej morza.",
+        "answer": [
+          "I",
+          "wish",
+          "I",
+          "lived",
+          "closer",
+          "to",
+          "the",
+          "sea"
+        ],
+        "distractors": [
+          "live",
+          "would"
+        ],
+        "explanation": "Teraz: wish + Past Simple."
+      },
+      {
+        "id": "b2-wish-if-only-1-09",
+        "type": "translate",
+        "prompt": "Szkoda, że nie znam japońskiego.",
+        "answer": "I wish I knew Japanese.",
+        "accept": [
+          "I wish I spoke Japanese.",
+          "I wish I could speak Japanese.",
+          "If only I knew Japanese.",
+          "If only I spoke Japanese."
+        ],
+        "explanation": "Teraz: wish + Past Simple."
+      },
+      {
+        "id": "b2-wish-if-only-1-10",
+        "type": "transform",
+        "prompt": "Wyraź żal z „I wish”.\nI don't have a car.",
+        "answer": "I wish I had a car.",
+        "explanation": "Teraz: wish + had."
+      }
+    ]
+  },
+  {
+    "id": "b2-wish-if-only-2",
+    "topicId": "b2-wish-if-only",
+    "exercises": [
+      {
+        "id": "b2-wish-if-only-2-01",
+        "type": "cloze",
+        "prompt": "I wish I ___ harder for the exam. (study)",
+        "answer": "had studied",
+        "explanation": "Przeszłość: Past Perfect."
+      },
+      {
+        "id": "b2-wish-if-only-2-02",
+        "type": "cloze",
+        "prompt": "If only we ___ our old house! (not / sell)",
+        "answer": "hadn't sold",
+        "accept": [
+          "had not sold"
+        ],
+        "explanation": "Przeszłość: hadn't + III forma."
+      },
+      {
+        "id": "b2-wish-if-only-2-03",
+        "type": "choice",
+        "prompt": "She wishes she ___ to the party last night.",
+        "answer": "had gone",
+        "distractors": [
+          "went",
+          "would go"
+        ],
+        "explanation": "Przeszłość: had gone."
+      },
+      {
+        "id": "b2-wish-if-only-2-04",
+        "type": "choice",
+        "prompt": "I wish I ___ so much yesterday. I feel terrible.",
+        "answer": "hadn't eaten",
+        "distractors": [
+          "didn't eat",
+          "don't eat"
+        ],
+        "explanation": "Przeszłość: hadn't eaten."
+      },
+      {
+        "id": "b2-wish-if-only-2-05",
+        "type": "choice",
+        "prompt": "Do you ever wish you ___ a different job when you were young?",
+        "answer": "had chosen",
+        "distractors": [
+          "chose",
+          "would choose"
+        ],
+        "explanation": "Przeszłość: had chosen."
+      },
+      {
+        "id": "b2-wish-if-only-2-06",
+        "type": "transform",
+        "prompt": "Wyraź żal z „I wish” (o przeszłości).\nI didn't go to university.",
+        "answer": "I wish I had gone to university.",
+        "explanation": "Przeszłość: had gone."
+      },
+      {
+        "id": "b2-wish-if-only-2-07",
+        "type": "transform",
+        "prompt": "Wyraź żal z „If only” (o przeszłości).\nI told him the secret.",
+        "answer": "If only I had not told him the secret.",
+        "explanation": "Przeszłość: hadn't told."
+      },
+      {
+        "id": "b2-wish-if-only-2-08",
+        "type": "tiles",
+        "prompt": "Żałuję, że nie wziąłem parasola.",
+        "answer": [
+          "I",
+          "wish",
+          "I",
+          "had",
+          "taken",
+          "an",
+          "umbrella"
+        ],
+        "distractors": [
+          "took",
+          "have"
+        ],
+        "explanation": "Przeszłość: had taken."
+      },
+      {
+        "id": "b2-wish-if-only-2-09",
+        "type": "error",
+        "prompt": "I wish I had went with you.",
+        "answer": [
+          "went",
+          "gone"
+        ],
+        "explanation": "Past Perfect: had gone."
+      },
+      {
+        "id": "b2-wish-if-only-2-10",
+        "type": "translate",
+        "prompt": "Szkoda, że nie przyszedłeś.",
+        "answer": "I wish you had come.",
+        "accept": [
+          "If only you had come.",
+          "It is a pity you did not come."
+        ],
+        "explanation": "Przeszłość: had come."
+      }
+    ]
+  },
+  {
+    "id": "b2-wish-if-only-3",
+    "topicId": "b2-wish-if-only",
+    "exercises": [
+      {
+        "id": "b2-wish-if-only-3-01",
+        "type": "cloze",
+        "prompt": "I wish you ___ stop interrupting me!",
+        "answer": "would",
+        "explanation": "Irytujące zachowanie: wish + would."
+      },
+      {
+        "id": "b2-wish-if-only-3-02",
+        "type": "cloze",
+        "prompt": "I wish it ___ stop raining.",
+        "answer": "would",
+        "explanation": "Wish + would stop."
+      },
+      {
+        "id": "b2-wish-if-only-3-03",
+        "type": "choice",
+        "prompt": "I wish my neighbours ___ so much noise.",
+        "answer": "wouldn't make",
+        "distractors": [
+          "don't make",
+          "won't make"
+        ],
+        "explanation": "Irytujące zachowanie: wouldn't."
+      },
+      {
+        "id": "b2-wish-if-only-3-04",
+        "type": "choice",
+        "prompt": "I wish I ___ go out tonight, but I have to work.",
+        "answer": "could",
+        "distractors": [
+          "can",
+          "will"
+        ],
+        "explanation": "Możliwość: could."
+      },
+      {
+        "id": "b2-wish-if-only-3-05",
+        "type": "cloze",
+        "prompt": "I'd rather you ___ here. (not / smoke)",
+        "answer": "didn't smoke",
+        "accept": [
+          "did not smoke"
+        ],
+        "explanation": "I'd rather + Past Simple."
+      },
+      {
+        "id": "b2-wish-if-only-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I wish he would call.|Chciałbym, żeby zadzwonił.",
+          "I wish he called more often.|Szkoda, że rzadko dzwoni.",
+          "I wish he had called.|Szkoda, że nie zadzwonił."
+        ],
+        "explanation": "Would, Past Simple, Past Perfect."
+      },
+      {
+        "id": "b2-wish-if-only-3-07",
+        "type": "error",
+        "prompt": "I wish you will listen to me.",
+        "answer": [
+          "will",
+          "would"
+        ],
+        "explanation": "Wish + would."
+      },
+      {
+        "id": "b2-wish-if-only-3-08",
+        "type": "error",
+        "prompt": "If only I have more money!",
+        "answer": [
+          "have",
+          "had"
+        ],
+        "explanation": "Teraz: Past Simple."
+      },
+      {
+        "id": "b2-wish-if-only-3-09",
+        "type": "tiles",
+        "prompt": "Chciałbym, żebyś przestał narzekać.",
+        "answer": [
+          "I",
+          "wish",
+          "you",
+          "would",
+          "stop",
+          "complaining"
+        ],
+        "distractors": [
+          "will",
+          "complain"
+        ],
+        "explanation": "Wish + would."
+      },
+      {
+        "id": "b2-wish-if-only-3-10",
+        "type": "translate",
+        "prompt": "Gdybyż tylko było cieplej!",
+        "answer": "If only it were warmer!",
+        "accept": [
+          "If only it was warmer!",
+          "I wish it were warmer!",
+          "I wish it was warmer!"
+        ],
+        "explanation": "Teraz: were."
+      }
+    ]
+  }
+]

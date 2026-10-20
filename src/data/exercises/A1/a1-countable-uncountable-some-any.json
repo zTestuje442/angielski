@@ -1,0 +1,320 @@
+[
+  {
+    "id": "a1-countable-uncountable-some-any-1",
+    "topicId": "a1-countable-uncountable-some-any",
+    "exercises": [
+      {
+        "id": "a1-countable-uncountable-some-any-1-01",
+        "type": "choice",
+        "prompt": "I need ___ milk.",
+        "answer": "some",
+        "distractors": [
+          "a",
+          "an"
+        ],
+        "explanation": "Milk jest niepoliczalne: some milk."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-02",
+        "type": "choice",
+        "prompt": "There isn't ___ bread.",
+        "answer": "any",
+        "distractors": [
+          "some",
+          "a"
+        ],
+        "explanation": "Przeczenie: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-03",
+        "type": "choice",
+        "prompt": "Have you got ___ brothers?",
+        "answer": "any",
+        "distractors": [
+          "some",
+          "a"
+        ],
+        "explanation": "Pytanie: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-04",
+        "type": "cloze",
+        "prompt": "There are ___ apples on the table.",
+        "answer": "some",
+        "explanation": "Zdanie twierdzące: some."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-05",
+        "type": "cloze",
+        "prompt": "We haven't got ___ eggs.",
+        "answer": "any",
+        "explanation": "Przeczenie: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia ze znaczeniem.",
+        "answer": [
+          "a banana|jeden banan",
+          "some rice|trochę ryżu",
+          "some biscuits|kilka herbatników",
+          "any money|jakieś pieniądze (w pytaniu)"
+        ],
+        "explanation": "A/an z jedną rzeczą; some/any z mnogą i niepoliczalną."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-07",
+        "type": "error",
+        "prompt": "Can I have a bread?",
+        "answer": [
+          "a",
+          "some"
+        ],
+        "explanation": "Bread jest niepoliczalne: some bread."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-08",
+        "type": "tiles",
+        "prompt": "Czy masz jakieś pytania?",
+        "answer": [
+          "Have",
+          "you",
+          "got",
+          "any",
+          "questions"
+        ],
+        "explanation": "Pytanie: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-09",
+        "type": "translate",
+        "prompt": "Potrzebuję trochę cukru.",
+        "answer": "I need some sugar.",
+        "explanation": "Twierdzenie: some."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-1-10",
+        "type": "transform",
+        "prompt": "Napisz przeczenie z „any”.\nThere is some cheese.",
+        "answer": "There is not any cheese.",
+        "explanation": "W przeczeniu some → any."
+      }
+    ]
+  },
+  {
+    "id": "a1-countable-uncountable-some-any-2",
+    "topicId": "a1-countable-uncountable-some-any",
+    "exercises": [
+      {
+        "id": "a1-countable-uncountable-some-any-2-01",
+        "type": "choice",
+        "prompt": "Which word is uncountable?",
+        "answer": "information",
+        "distractors": [
+          "book",
+          "chair",
+          "car"
+        ],
+        "explanation": "Information jest niepoliczalne (bez -s)."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-02",
+        "type": "choice",
+        "prompt": "Which word is countable?",
+        "answer": "egg",
+        "distractors": [
+          "water",
+          "rice",
+          "music"
+        ],
+        "explanation": "Egg można policzyć: two eggs."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-03",
+        "type": "cloze",
+        "prompt": "Would you like ___ tea?",
+        "answer": "some",
+        "explanation": "Propozycja: some."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-04",
+        "type": "cloze",
+        "prompt": "Is there ___ juice in the fridge?",
+        "answer": "any",
+        "explanation": "Pytanie: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-05",
+        "type": "cloze",
+        "prompt": "I have got ___ good news for you!",
+        "answer": "some",
+        "explanation": "News jest niepoliczalne; twierdzenie: some."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-06",
+        "type": "error",
+        "prompt": "I need some advices.",
+        "answer": [
+          "advices",
+          "advice"
+        ],
+        "explanation": "Advice jest niepoliczalne, bez -s."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-07",
+        "type": "error",
+        "prompt": "There aren't some chairs.",
+        "answer": [
+          "some",
+          "any"
+        ],
+        "explanation": "Przeczenie: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-08",
+        "type": "tiles",
+        "prompt": "Mamy trochę owoców.",
+        "answer": [
+          "We",
+          "have",
+          "got",
+          "some",
+          "fruit"
+        ],
+        "explanation": "Fruit zwykle jest niepoliczalne: some fruit."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-09",
+        "type": "translate",
+        "prompt": "Nie mam pieniędzy.",
+        "answer": "I have not got any money.",
+        "accept": [
+          "I do not have any money.",
+          "I have no money.",
+          "I have not got money."
+        ],
+        "explanation": "Money jest niepoliczalne; przeczenie z any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia.",
+        "answer": [
+          "szklanka wody|a glass of water",
+          "kromka chleba|a slice of bread",
+          "filiżanka kawy|a cup of coffee",
+          "kilogram jabłek|a kilo of apples"
+        ],
+        "explanation": "Porcje i opakowania pozwalają liczyć niepoliczalne."
+      }
+    ]
+  },
+  {
+    "id": "a1-countable-uncountable-some-any-3",
+    "topicId": "a1-countable-uncountable-some-any",
+    "exercises": [
+      {
+        "id": "a1-countable-uncountable-some-any-3-01",
+        "type": "cloze",
+        "prompt": "Can I have ___ water, please?",
+        "answer": "some",
+        "explanation": "Prośba: some."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-02",
+        "type": "cloze",
+        "prompt": "There aren't ___ students in the room.",
+        "answer": "any",
+        "explanation": "Przeczenie: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-03",
+        "type": "choice",
+        "prompt": "There is ___ orange in the bag.",
+        "answer": "an",
+        "distractors": [
+          "some",
+          "any"
+        ],
+        "explanation": "Jedna pomarańcza: an orange."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-04",
+        "type": "choice",
+        "prompt": "Are there ___ good restaurants here?",
+        "answer": "any",
+        "distractors": [
+          "a",
+          "an"
+        ],
+        "explanation": "Pytanie z liczbą mnogą: any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-05",
+        "type": "choice",
+        "prompt": "I'd like ___ information about the trip.",
+        "answer": "some",
+        "distractors": [
+          "an",
+          "many"
+        ],
+        "explanation": "Information jest niepoliczalne: some."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-06",
+        "type": "tiles",
+        "prompt": "W pokoju nie ma mebli.",
+        "answer": [
+          "There",
+          "is",
+          "no",
+          "furniture",
+          "in",
+          "the",
+          "room"
+        ],
+        "explanation": "Furniture jest niepoliczalne: there is no."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-07",
+        "type": "tiles",
+        "prompt": "Czy jest jakieś mleko?",
+        "answer": [
+          "Is",
+          "there",
+          "any",
+          "milk"
+        ],
+        "explanation": "Pytanie: Is there any...?"
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-08",
+        "type": "error",
+        "prompt": "She has got some sister.",
+        "answer": [
+          "sister",
+          "sisters"
+        ],
+        "explanation": "Some z policzalnym wymaga liczby mnogiej."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-09",
+        "type": "transform",
+        "prompt": "Zamień na pytanie z „any”.\nYou have got some money.",
+        "answer": "Have you got any money?",
+        "explanation": "W pytaniu some → any."
+      },
+      {
+        "id": "a1-countable-uncountable-some-any-3-10",
+        "type": "translate",
+        "prompt": "Chcesz trochę kawy?",
+        "answer": "Would you like some coffee?",
+        "accept": [
+          "Do you want some coffee?",
+          "Do you want any coffee?"
+        ],
+        "explanation": "Propozycja: Would you like some...?"
+      }
+    ]
+  }
+]

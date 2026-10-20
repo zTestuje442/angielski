@@ -1,0 +1,308 @@
+[
+  {
+    "id": "a1-pronouns-1",
+    "topicId": "a1-pronouns",
+    "exercises": [
+      {
+        "id": "a1-pronouns-1-01",
+        "type": "choice",
+        "prompt": "Tom is my friend. ___ is very nice.",
+        "answer": "He",
+        "distractors": [
+          "She",
+          "It"
+        ],
+        "explanation": "Tom to mężczyzna, więc he."
+      },
+      {
+        "id": "a1-pronouns-1-02",
+        "type": "choice",
+        "prompt": "Anna and I are students. ___ are in class 2B.",
+        "answer": "We",
+        "distractors": [
+          "They",
+          "You"
+        ],
+        "explanation": "Anna i ja = my, czyli we."
+      },
+      {
+        "id": "a1-pronouns-1-03",
+        "type": "cloze",
+        "prompt": "This is my cat. ___ is black.",
+        "answer": "It",
+        "explanation": "O zwierzęciu mówimy zwykle it."
+      },
+      {
+        "id": "a1-pronouns-1-04",
+        "type": "cloze",
+        "prompt": "Kate and Mark are here. ___ are in the kitchen.",
+        "answer": "They",
+        "explanation": "Dwie osoby (bez mówiącego) to they."
+      },
+      {
+        "id": "a1-pronouns-1-05",
+        "type": "match",
+        "prompt": "Połącz polskie zaimki z angielskimi.",
+        "answer": [
+          "ja|I",
+          "ty|you",
+          "ona|she",
+          "my|we"
+        ],
+        "explanation": "Zaimki osobowe: I, you, she, we."
+      },
+      {
+        "id": "a1-pronouns-1-06",
+        "type": "error",
+        "prompt": "My sister is a nurse. He works in a hospital.",
+        "answer": [
+          "He",
+          "She"
+        ],
+        "explanation": "Siostra to kobieta, więc she."
+      },
+      {
+        "id": "a1-pronouns-1-07",
+        "type": "tiles",
+        "prompt": "Oni są w szkole.",
+        "answer": [
+          "They",
+          "are",
+          "at",
+          "school"
+        ],
+        "explanation": "They + are. „W szkole” to at school."
+      },
+      {
+        "id": "a1-pronouns-1-08",
+        "type": "translate",
+        "prompt": "On jest moim nauczycielem.",
+        "answer": "He is my teacher.",
+        "explanation": "He is + my teacher; po angielsku bez narzędnika."
+      },
+      {
+        "id": "a1-pronouns-1-09",
+        "type": "transform",
+        "prompt": "Zastąp „Peter and Sue” zaimkiem.\nPeter and Sue are from Kraków.",
+        "answer": "They are from Kraków.",
+        "accept": [
+          "They are from Krakow."
+        ],
+        "explanation": "Dwie osoby zastępujemy przez they."
+      },
+      {
+        "id": "a1-pronouns-1-10",
+        "type": "choice",
+        "prompt": "My phone is old. ___ is slow.",
+        "answer": "It",
+        "distractors": [
+          "He",
+          "They"
+        ],
+        "explanation": "Telefon to rzecz, więc it."
+      }
+    ]
+  },
+  {
+    "id": "a1-pronouns-2",
+    "topicId": "a1-pronouns",
+    "exercises": [
+      {
+        "id": "a1-pronouns-2-01",
+        "type": "cloze",
+        "prompt": "I have a dog. ___ dog is brown.",
+        "answer": "My",
+        "explanation": "Od I tworzymy my (mój)."
+      },
+      {
+        "id": "a1-pronouns-2-02",
+        "type": "cloze",
+        "prompt": "She has a car. ___ car is red.",
+        "answer": "Her",
+        "explanation": "Od she tworzymy her (jej)."
+      },
+      {
+        "id": "a1-pronouns-2-03",
+        "type": "choice",
+        "prompt": "We live in a big house. ___ house is near the park.",
+        "answer": "Our",
+        "distractors": [
+          "We",
+          "Us"
+        ],
+        "explanation": "Od we tworzymy our (nasz)."
+      },
+      {
+        "id": "a1-pronouns-2-04",
+        "type": "choice",
+        "prompt": "Tom loves ___ job.",
+        "answer": "his",
+        "distractors": [
+          "he",
+          "her"
+        ],
+        "explanation": "Tom to on, więc his (jego)."
+      },
+      {
+        "id": "a1-pronouns-2-05",
+        "type": "match",
+        "prompt": "Połącz zaimek osobowy z dzierżawczym.",
+        "answer": [
+          "I|my",
+          "he|his",
+          "she|her",
+          "they|their"
+        ],
+        "explanation": "Każdy zaimek osobowy ma swój zaimek dzierżawczy."
+      },
+      {
+        "id": "a1-pronouns-2-06",
+        "type": "error",
+        "prompt": "The children love they teacher.",
+        "answer": [
+          "they",
+          "their"
+        ],
+        "explanation": "Przed rzeczownikiem potrzebny jest zaimek dzierżawczy: their (ich)."
+      },
+      {
+        "id": "a1-pronouns-2-07",
+        "type": "tiles",
+        "prompt": "To jest ich mieszkanie.",
+        "answer": [
+          "This",
+          "is",
+          "their",
+          "flat"
+        ],
+        "explanation": "Their = ich, stoi przed rzeczownikiem."
+      },
+      {
+        "id": "a1-pronouns-2-08",
+        "type": "translate",
+        "prompt": "Jak masz na imię?",
+        "answer": "What is your name?",
+        "explanation": "Po angielsku pytamy: jakie jest twoje imię? – What is your name?"
+      },
+      {
+        "id": "a1-pronouns-2-09",
+        "type": "transform",
+        "prompt": "Zmień „I” na „she”.\nI am in my room.",
+        "answer": "She is in her room.",
+        "explanation": "I am → she is, my → her."
+      },
+      {
+        "id": "a1-pronouns-2-10",
+        "type": "choice",
+        "prompt": "Is this ___ pen, Kate?",
+        "answer": "your",
+        "distractors": [
+          "you",
+          "yours"
+        ],
+        "explanation": "Przed rzeczownikiem: your pen. Yours stoi samo, bez rzeczownika."
+      }
+    ]
+  },
+  {
+    "id": "a1-pronouns-3",
+    "topicId": "a1-pronouns",
+    "exercises": [
+      {
+        "id": "a1-pronouns-3-01",
+        "type": "cloze",
+        "prompt": "Mark and ___ sister are twins.",
+        "answer": "his",
+        "explanation": "Siostra Marka to his sister."
+      },
+      {
+        "id": "a1-pronouns-3-02",
+        "type": "cloze",
+        "prompt": "The cat is playing with ___ ball.",
+        "answer": "its",
+        "explanation": "Its = jego (zwierzęcia, rzeczy). Bez apostrofu!"
+      },
+      {
+        "id": "a1-pronouns-3-03",
+        "type": "choice",
+        "prompt": "___ are my best friends.",
+        "answer": "They",
+        "distractors": [
+          "Their",
+          "There"
+        ],
+        "explanation": "Podmiot zdania to they. Their = ich, there = tam."
+      },
+      {
+        "id": "a1-pronouns-3-04",
+        "type": "choice",
+        "prompt": "This is Anna. ___ dad is a pilot.",
+        "answer": "Her",
+        "distractors": [
+          "She",
+          "His"
+        ],
+        "explanation": "Tata Anny to her dad."
+      },
+      {
+        "id": "a1-pronouns-3-05",
+        "type": "error",
+        "prompt": "Is this you bag?",
+        "answer": [
+          "you",
+          "your"
+        ],
+        "explanation": "Przed rzeczownikiem: your bag."
+      },
+      {
+        "id": "a1-pronouns-3-06",
+        "type": "error",
+        "prompt": "Me name is Ola.",
+        "answer": [
+          "Me",
+          "My"
+        ],
+        "explanation": "Mój = my. Me znaczy mnie/mi."
+      },
+      {
+        "id": "a1-pronouns-3-07",
+        "type": "match",
+        "prompt": "Połącz zaimek osobowy z dzierżawczym.",
+        "answer": [
+          "we|our",
+          "you|your",
+          "it|its",
+          "I|my"
+        ],
+        "explanation": "Zaimki dzierżawcze: our, your, its, my."
+      },
+      {
+        "id": "a1-pronouns-3-08",
+        "type": "tiles",
+        "prompt": "Nasz nauczyciel jest z Irlandii.",
+        "answer": [
+          "Our",
+          "teacher",
+          "is",
+          "from",
+          "Ireland"
+        ],
+        "explanation": "Our = nasz, stoi przed rzeczownikiem."
+      },
+      {
+        "id": "a1-pronouns-3-09",
+        "type": "translate",
+        "prompt": "Jej brat jest wysoki.",
+        "answer": "Her brother is tall.",
+        "explanation": "Jej = her."
+      },
+      {
+        "id": "a1-pronouns-3-10",
+        "type": "transform",
+        "prompt": "Zmień „we” na „they”.\nWe are with our parents.",
+        "answer": "They are with their parents.",
+        "explanation": "We are → they are, our → their."
+      }
+    ]
+  }
+]

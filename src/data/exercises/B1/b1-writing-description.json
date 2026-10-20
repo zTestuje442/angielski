@@ -1,0 +1,354 @@
+[
+  {
+    "id": "b1-writing-description-1",
+    "topicId": "b1-writing-description",
+    "exercises": [
+      {
+        "id": "b1-writing-description-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "slim|szczupły",
+          "curly hair|kręcone włosy",
+          "in his twenties|po dwudziestce",
+          "well-built|dobrze zbudowany"
+        ],
+        "explanation": "Wygląd."
+      },
+      {
+        "id": "b1-writing-description-1-02",
+        "type": "choice",
+        "prompt": "She has got long, ___ hair.",
+        "answer": "straight",
+        "distractors": [
+          "straightly",
+          "strait"
+        ],
+        "explanation": "Proste włosy: straight hair."
+      },
+      {
+        "id": "b1-writing-description-1-03",
+        "type": "choice",
+        "prompt": "What does he look ___? — He's tall and dark.",
+        "answer": "like",
+        "distractors": [
+          "as",
+          "at"
+        ],
+        "explanation": "Pytanie o wygląd: What does he look like?"
+      },
+      {
+        "id": "b1-writing-description-1-04",
+        "type": "cloze",
+        "prompt": "He's in his ___. He's about 45. (czterdziestka)",
+        "answer": "forties",
+        "explanation": "In his forties."
+      },
+      {
+        "id": "b1-writing-description-1-05",
+        "type": "cloze",
+        "prompt": "She's got blue eyes and ___ hair. (blond)",
+        "answer": "blonde",
+        "accept": [
+          "blond",
+          "fair"
+        ],
+        "explanation": "Blond: blonde / blond / fair."
+      },
+      {
+        "id": "b1-writing-description-1-06",
+        "type": "error",
+        "prompt": "He has got blue eye.",
+        "answer": [
+          "eye",
+          "eyes"
+        ],
+        "explanation": "Oczy: eyes."
+      },
+      {
+        "id": "b1-writing-description-1-07",
+        "type": "tiles",
+        "prompt": "Opis przyjaciela.",
+        "answer": [
+          "My best friend is called Piotr.",
+          "He's tall and slim, with short dark hair.",
+          "He's very funny and always makes me laugh.",
+          "I think he's the kindest person I know."
+        ],
+        "distractors": [
+          "He has got a beautiful red dress."
+        ],
+        "explanation": "Kto, wygląd, charakter, podsumowanie. Zdanie o sukience nie pasuje."
+      },
+      {
+        "id": "b1-writing-description-1-08",
+        "type": "translate",
+        "prompt": "Jak ona wygląda?",
+        "answer": "What does she look like?",
+        "explanation": "Pytanie o wygląd: look like."
+      },
+      {
+        "id": "b1-writing-description-1-09",
+        "type": "transform",
+        "prompt": "Ustaw przymiotniki we właściwej kolejności.\na wooden / old / beautiful / table",
+        "answer": "a beautiful old wooden table",
+        "explanation": "Opinia – wiek – materiał."
+      },
+      {
+        "id": "b1-writing-description-1-10",
+        "type": "choice",
+        "prompt": "Which adjective describes character?",
+        "answer": "generous",
+        "distractors": [
+          "tall",
+          "curly"
+        ],
+        "explanation": "Charakter: generous."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-description-2",
+    "topicId": "b1-writing-description",
+    "exercises": [
+      {
+        "id": "b1-writing-description-2-01",
+        "type": "match",
+        "prompt": "Połącz przymiotniki z tłumaczeniem.",
+        "answer": [
+          "peaceful|spokojny",
+          "crowded|zatłoczony",
+          "picturesque|malowniczy",
+          "lively|tętniący życiem"
+        ],
+        "explanation": "Opis miejsc."
+      },
+      {
+        "id": "b1-writing-description-2-02",
+        "type": "cloze",
+        "prompt": "The village is very ___ – there's no traffic and no noise. (spokojna)",
+        "answer": "peaceful",
+        "accept": [
+          "quiet"
+        ],
+        "explanation": "Spokojna: peaceful."
+      },
+      {
+        "id": "b1-writing-description-2-03",
+        "type": "cloze",
+        "prompt": "The market is always ___ with tourists in summer. (zatłoczony)",
+        "answer": "crowded",
+        "accept": [
+          "busy",
+          "full"
+        ],
+        "explanation": "Zatłoczony: crowded."
+      },
+      {
+        "id": "b1-writing-description-2-04",
+        "type": "choice",
+        "prompt": "The town is ___ on a river.",
+        "answer": "located",
+        "distractors": [
+          "placed in",
+          "laid"
+        ],
+        "explanation": "Położone: located."
+      },
+      {
+        "id": "b1-writing-description-2-05",
+        "type": "choice",
+        "prompt": "There's a lovely view ___ the mountains.",
+        "answer": "of",
+        "distractors": [
+          "at",
+          "on"
+        ],
+        "explanation": "A view of..."
+      },
+      {
+        "id": "b1-writing-description-2-06",
+        "type": "error",
+        "prompt": "The city is famous of its castle.",
+        "answer": [
+          "of",
+          "for"
+        ],
+        "explanation": "Famous for."
+      },
+      {
+        "id": "b1-writing-description-2-07",
+        "type": "error",
+        "prompt": "There are a lot of thing to do.",
+        "answer": [
+          "thing",
+          "things"
+        ],
+        "explanation": "A lot of + liczba mnoga."
+      },
+      {
+        "id": "b1-writing-description-2-08",
+        "type": "tiles",
+        "prompt": "Opis miasta.",
+        "answer": [
+          "I live in Toruń, a beautiful city in the north of Poland.",
+          "The old town is full of medieval buildings.",
+          "It's famous for its gingerbread.",
+          "If you visit, don't miss the view from the river."
+        ],
+        "distractors": [
+          "Yours sincerely, Anna"
+        ],
+        "explanation": "Gdzie, jak wygląda, z czego słynie, rada. Formalne zakończenie listu nie pasuje."
+      },
+      {
+        "id": "b1-writing-description-2-09",
+        "type": "translate",
+        "prompt": "To miejsce jest idealne na wakacje.",
+        "answer": "This place is perfect for a holiday.",
+        "accept": [
+          "This place is ideal for a holiday.",
+          "This place is perfect for holidays.",
+          "This place is ideal for holidays.",
+          "It is a perfect place for a holiday."
+        ],
+        "explanation": "Idealny: perfect / ideal."
+      },
+      {
+        "id": "b1-writing-description-2-10",
+        "type": "transform",
+        "prompt": "Zamień „very good” na mocny przymiotnik.\nThe view was very good.",
+        "answer": "The view was amazing.",
+        "accept": [
+          "The view was fantastic.",
+          "The view was wonderful.",
+          "The view was stunning.",
+          "The view was incredible.",
+          "The view was excellent.",
+          "The view was breathtaking.",
+          "The view was spectacular."
+        ],
+        "explanation": "Mocny przymiotnik zamiast very good."
+      }
+    ]
+  },
+  {
+    "id": "b1-writing-description-3",
+    "topicId": "b1-writing-description",
+    "exercises": [
+      {
+        "id": "b1-writing-description-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "first of all|po pierwsze",
+          "after that|potem",
+          "in the end|w końcu",
+          "suddenly|nagle"
+        ],
+        "explanation": "Porządkowanie opowieści."
+      },
+      {
+        "id": "b1-writing-description-3-02",
+        "type": "cloze",
+        "prompt": "___ of all, we went to the castle. (po pierwsze)",
+        "answer": "First",
+        "explanation": "First of all."
+      },
+      {
+        "id": "b1-writing-description-3-03",
+        "type": "cloze",
+        "prompt": "We waited for an hour and ___ the end the bus arrived.",
+        "answer": "in",
+        "explanation": "W końcu: in the end."
+      },
+      {
+        "id": "b1-writing-description-3-04",
+        "type": "choice",
+        "prompt": "___, the lights went out!",
+        "answer": "Suddenly",
+        "distractors": [
+          "Firstly",
+          "In conclusion"
+        ],
+        "explanation": "Nagle: suddenly."
+      },
+      {
+        "id": "b1-writing-description-3-05",
+        "type": "choice",
+        "prompt": "The concert was ___ amazing that I want to go again.",
+        "answer": "so",
+        "distractors": [
+          "such",
+          "very"
+        ],
+        "explanation": "So + przymiotnik + that."
+      },
+      {
+        "id": "b1-writing-description-3-06",
+        "type": "error",
+        "prompt": "The film was very fantastic.",
+        "answer": [
+          "very",
+          "absolutely"
+        ],
+        "explanation": "Mocny przymiotnik: absolutely fantastic."
+      },
+      {
+        "id": "b1-writing-description-3-07",
+        "type": "error",
+        "prompt": "We had a really great time and we enjoy every minute.",
+        "answer": [
+          "enjoy",
+          "enjoyed"
+        ],
+        "explanation": "Przeszłość: enjoyed."
+      },
+      {
+        "id": "b1-writing-description-3-08",
+        "type": "tiles",
+        "prompt": "Opis wydarzenia.",
+        "answer": [
+          "Last summer I went to a music festival with my friends.",
+          "On the first day it rained all afternoon.",
+          "Then the sun came out and the concert started.",
+          "In the end, it was one of the best weekends of my life."
+        ],
+        "distractors": [
+          "Next summer I am going to go to a festival."
+        ],
+        "explanation": "Kiedy i z kim, problem, zwrot akcji, podsumowanie. Zdanie o przyszłości nie pasuje do opowieści."
+      },
+      {
+        "id": "b1-writing-description-3-09",
+        "type": "translate",
+        "prompt": "To był najlepszy dzień w moim życiu.",
+        "answer": "It was the best day of my life.",
+        "explanation": "Stopień najwyższy: the best."
+      },
+      {
+        "id": "b1-writing-description-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „when”.\nWe were walking home. It started to rain.",
+        "answer": "We were walking home when it started to rain.",
+        "accept": [
+          "When we were walking home, it started to rain.",
+          "It started to rain when we were walking home.",
+          "It started to rain while we were walking home."
+        ],
+        "explanation": "Tło + zdarzenie."
+      },
+      {
+        "id": "b1-writing-description-3-11",
+        "type": "choice",
+        "prompt": "Which word makes a description more interesting?",
+        "answer": "breathtaking",
+        "distractors": [
+          "nice",
+          "good"
+        ],
+        "explanation": "Mocny przymiotnik: breathtaking."
+      }
+    ]
+  }
+]

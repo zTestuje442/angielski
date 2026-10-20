@@ -1,0 +1,325 @@
+[
+  {
+    "id": "b2-make-let-allow-1",
+    "topicId": "b2-make-let-allow",
+    "exercises": [
+      {
+        "id": "b2-make-let-allow-1-01",
+        "type": "cloze",
+        "prompt": "My parents ___ me do my homework before dinner. (zmuszali)",
+        "answer": "made",
+        "explanation": "Make + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-1-02",
+        "type": "cloze",
+        "prompt": "Will you ___ me use your phone? (pozwolisz)",
+        "answer": "let",
+        "explanation": "Let + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-1-03",
+        "type": "choice",
+        "prompt": "The teacher allowed us ___ early.",
+        "answer": "to leave",
+        "distractors": [
+          "leave",
+          "leaving"
+        ],
+        "explanation": "Allow + osoba + to."
+      },
+      {
+        "id": "b2-make-let-allow-1-04",
+        "type": "choice",
+        "prompt": "My boss made me ___ late.",
+        "answer": "stay",
+        "distractors": [
+          "to stay",
+          "staying"
+        ],
+        "explanation": "Make + osoba + czasownik (bez to)."
+      },
+      {
+        "id": "b2-make-let-allow-1-05",
+        "type": "cloze",
+        "prompt": "We aren't ___ to use phones at work.",
+        "answer": "allowed",
+        "explanation": "Be allowed to."
+      },
+      {
+        "id": "b2-make-let-allow-1-06",
+        "type": "match",
+        "prompt": "Połącz konstrukcje ze znaczeniem.",
+        "answer": [
+          "make somebody do|zmusić kogoś do",
+          "let somebody do|pozwolić komuś",
+          "allow somebody to do|zezwolić komuś",
+          "be allowed to do|mieć pozwolenie"
+        ],
+        "explanation": "Make, let, allow."
+      },
+      {
+        "id": "b2-make-let-allow-1-07",
+        "type": "error",
+        "prompt": "He let me used his laptop.",
+        "answer": [
+          "used",
+          "use"
+        ],
+        "explanation": "Let + osoba + forma podstawowa."
+      },
+      {
+        "id": "b2-make-let-allow-1-08",
+        "type": "tiles",
+        "prompt": "Pozwól mi ci pomóc.",
+        "answer": [
+          "Let",
+          "me",
+          "help",
+          "you"
+        ],
+        "distractors": [
+          "to",
+          "Allow"
+        ],
+        "explanation": "Let + me + help."
+      },
+      {
+        "id": "b2-make-let-allow-1-09",
+        "type": "translate",
+        "prompt": "Mama nie pozwalała mi oglądać telewizji.",
+        "answer": "My mum did not let me watch TV.",
+        "accept": [
+          "My mother did not let me watch TV.",
+          "My mum did not allow me to watch TV.",
+          "My mother did not allow me to watch TV.",
+          "Mum did not let me watch TV."
+        ],
+        "explanation": "Let + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-1-10",
+        "type": "transform",
+        "prompt": "Przepisz z „allow”, zacznij od „The teacher allowed”.\nThe teacher let us use dictionaries.",
+        "answer": "The teacher allowed us to use dictionaries.",
+        "explanation": "Allow + osoba + to."
+      }
+    ]
+  },
+  {
+    "id": "b2-make-let-allow-2",
+    "topicId": "b2-make-let-allow",
+    "exercises": [
+      {
+        "id": "b2-make-let-allow-2-01",
+        "type": "cloze",
+        "prompt": "Sad films always ___ me cry.",
+        "answer": "make",
+        "explanation": "Make + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-2-02",
+        "type": "cloze",
+        "prompt": "I was ___ to stay late at the party. (pozwolono mi)",
+        "answer": "allowed",
+        "explanation": "Be allowed to."
+      },
+      {
+        "id": "b2-make-let-allow-2-03",
+        "type": "choice",
+        "prompt": "Passengers are not allowed ___ on the plane.",
+        "answer": "to smoke",
+        "distractors": [
+          "smoke",
+          "smoking"
+        ],
+        "explanation": "Be allowed to."
+      },
+      {
+        "id": "b2-make-let-allow-2-04",
+        "type": "choice",
+        "prompt": "Don't ___ him drive – he's tired.",
+        "answer": "let",
+        "distractors": [
+          "allow",
+          "make to"
+        ],
+        "explanation": "Let + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-2-05",
+        "type": "choice",
+        "prompt": "What made you ___ your mind?",
+        "answer": "change",
+        "distractors": [
+          "to change",
+          "changing"
+        ],
+        "explanation": "Make + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-2-06",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „I was made”.\nThey made me sign the contract.",
+        "answer": "I was made to sign the contract.",
+        "explanation": "Strona bierna: be made to."
+      },
+      {
+        "id": "b2-make-let-allow-2-07",
+        "type": "tiles",
+        "prompt": "Szef kazał nam pracować w sobotę.",
+        "answer": [
+          "Our",
+          "boss",
+          "made",
+          "us",
+          "work",
+          "on",
+          "Saturday"
+        ],
+        "distractors": [
+          "to",
+          "let"
+        ],
+        "explanation": "Make + us + work."
+      },
+      {
+        "id": "b2-make-let-allow-2-08",
+        "type": "error",
+        "prompt": "Are we let to park here?",
+        "answer": [
+          "let",
+          "allowed"
+        ],
+        "explanation": "Strona bierna: be allowed to."
+      },
+      {
+        "id": "b2-make-let-allow-2-09",
+        "type": "translate",
+        "prompt": "Czy wolno tu robić zdjęcia?",
+        "answer": "Are we allowed to take photos here?",
+        "accept": [
+          "Can we take photos here?",
+          "Are you allowed to take photos here?",
+          "Am I allowed to take photos here?",
+          "Are we allowed to take pictures here?"
+        ],
+        "explanation": "Be allowed to."
+      },
+      {
+        "id": "b2-make-let-allow-2-10",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "My dad made me apologise.|Tata kazał mi przeprosić.",
+          "My dad let me go out.|Tata pozwolił mi wyjść.",
+          "I wasn't allowed to go out.|Nie wolno mi było wychodzić."
+        ],
+        "explanation": "Make, let, be allowed."
+      }
+    ]
+  },
+  {
+    "id": "b2-make-let-allow-3",
+    "topicId": "b2-make-let-allow",
+    "exercises": [
+      {
+        "id": "b2-make-let-allow-3-01",
+        "type": "choice",
+        "prompt": "The rain ___ us cancel the trip.",
+        "answer": "made",
+        "distractors": [
+          "let",
+          "allowed"
+        ],
+        "explanation": "Zmusić: make."
+      },
+      {
+        "id": "b2-make-let-allow-3-02",
+        "type": "choice",
+        "prompt": "Visitors ___ to feed the animals.",
+        "answer": "are not allowed",
+        "distractors": [
+          "are not let",
+          "don't let"
+        ],
+        "explanation": "Zakaz: not allowed to."
+      },
+      {
+        "id": "b2-make-let-allow-3-03",
+        "type": "cloze",
+        "prompt": "Let ___ know if you need anything. (mnie)",
+        "answer": "me",
+        "explanation": "Let me know."
+      },
+      {
+        "id": "b2-make-let-allow-3-04",
+        "type": "cloze",
+        "prompt": "She made her children ___ their rooms. (tidy)",
+        "answer": "tidy",
+        "explanation": "Make + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-3-05",
+        "type": "cloze",
+        "prompt": "Students are ___ to use calculators in the exam. (wolno)",
+        "answer": "allowed",
+        "accept": [
+          "permitted"
+        ],
+        "explanation": "Be allowed to."
+      },
+      {
+        "id": "b2-make-let-allow-3-06",
+        "type": "error",
+        "prompt": "My parents didn't allow me go to the concert.",
+        "answer": [
+          "go",
+          "to go"
+        ],
+        "explanation": "Allow + osoba + to."
+      },
+      {
+        "id": "b2-make-let-allow-3-07",
+        "type": "error",
+        "prompt": "The film made me laughing.",
+        "answer": [
+          "laughing",
+          "laugh"
+        ],
+        "explanation": "Make + osoba + forma podstawowa."
+      },
+      {
+        "id": "b2-make-let-allow-3-08",
+        "type": "tiles",
+        "prompt": "Nie pozwól, żeby to cię martwiło.",
+        "answer": [
+          "Don't",
+          "let",
+          "it",
+          "worry",
+          "you"
+        ],
+        "distractors": [
+          "to",
+          "make"
+        ],
+        "explanation": "Let + it + worry."
+      },
+      {
+        "id": "b2-make-let-allow-3-09",
+        "type": "translate",
+        "prompt": "Zmusił mnie do powiedzenia prawdy.",
+        "answer": "He made me tell the truth.",
+        "explanation": "Make + osoba + czasownik."
+      },
+      {
+        "id": "b2-make-let-allow-3-10",
+        "type": "transform",
+        "prompt": "Przepisz z „let”, zacznij od „My parents let”.\nMy parents allowed me to stay up late.",
+        "answer": "My parents let me stay up late.",
+        "explanation": "Let + osoba + czasownik (bez to)."
+      }
+    ]
+  }
+]

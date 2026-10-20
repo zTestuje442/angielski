@@ -1,0 +1,325 @@
+[
+  {
+    "id": "a2-writing-simple-email-1",
+    "topicId": "a2-writing-simple-email",
+    "exercises": [
+      {
+        "id": "a2-writing-simple-email-1-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z ich funkcją.",
+        "answer": [
+          "Hi Anna,|powitanie",
+          "How are you?|zagajenie",
+          "Write soon!|prośba o odpowiedź",
+          "Best wishes,|pozdrowienia przed podpisem"
+        ],
+        "explanation": "Elementy e-maila."
+      },
+      {
+        "id": "a2-writing-simple-email-1-02",
+        "type": "choice",
+        "prompt": "Which is the best first sentence after \"Hi Mark,\" in an email to a friend?",
+        "answer": "Thanks for your email.",
+        "distractors": [
+          "Yours faithfully.",
+          "I am writing to complain about your service."
+        ],
+        "explanation": "Do znajomego: podziękowanie za e-mail."
+      },
+      {
+        "id": "a2-writing-simple-email-1-03",
+        "type": "choice",
+        "prompt": "Which ending is good for an email to a friend?",
+        "answer": "Write soon,",
+        "distractors": [
+          "Yours sincerely,",
+          "Regards from the management,"
+        ],
+        "explanation": "Nieformalnie: Write soon, Love, Best wishes."
+      },
+      {
+        "id": "a2-writing-simple-email-1-04",
+        "type": "cloze",
+        "prompt": "Thanks ___ your email. (za)",
+        "answer": "for",
+        "explanation": "Thanks for..."
+      },
+      {
+        "id": "a2-writing-simple-email-1-05",
+        "type": "cloze",
+        "prompt": "It was great to ___ from you. (usłyszeć)",
+        "answer": "hear",
+        "explanation": "Hear from = mieć wiadomość od."
+      },
+      {
+        "id": "a2-writing-simple-email-1-06",
+        "type": "cloze",
+        "prompt": "I'm ___ to tell you about my new job. (piszę)",
+        "answer": "writing",
+        "explanation": "Piszę, żeby...: I'm writing to..."
+      },
+      {
+        "id": "a2-writing-simple-email-1-07",
+        "type": "tiles",
+        "prompt": "E-mail od Ewy do Sama.",
+        "answer": [
+          "Hi Sam,",
+          "Thanks for your email. It was great to hear from you.",
+          "I have some news: I've got a new job in a hotel!",
+          "I start on Monday and I'm a bit nervous.",
+          "Write soon,",
+          "Ewa"
+        ],
+        "explanation": "Powitanie, wstęp, nowina, szczegóły, zakończenie, podpis."
+      },
+      {
+        "id": "a2-writing-simple-email-1-08",
+        "type": "error",
+        "prompt": "Thank you for you email.",
+        "answer": [
+          "you",
+          "your"
+        ],
+        "explanation": "Twój e-mail: your email."
+      },
+      {
+        "id": "a2-writing-simple-email-1-09",
+        "type": "translate",
+        "prompt": "Jak się masz?",
+        "answer": "How are you?",
+        "accept": [
+          "How are you doing?"
+        ],
+        "explanation": "Zagajenie: How are you?"
+      },
+      {
+        "id": "a2-writing-simple-email-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „and”.\nThe hotel is big. It is near the beach.",
+        "answer": "The hotel is big and it is near the beach.",
+        "accept": [
+          "The hotel is big and near the beach.",
+          "The hotel is big, and it is near the beach."
+        ],
+        "explanation": "Dodanie: and."
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-simple-email-2",
+    "topicId": "a2-writing-simple-email",
+    "exercises": [
+      {
+        "id": "a2-writing-simple-email-2-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "We're having a great time.|Świetnie się bawimy.",
+          "The weather is lovely.|Pogoda jest cudowna.",
+          "Yesterday we went to...|Wczoraj poszliśmy do...",
+          "I'll tell you more soon.|Wkrótce opowiem więcej."
+        ],
+        "explanation": "Zwroty z e-maila z wakacji."
+      },
+      {
+        "id": "a2-writing-simple-email-2-02",
+        "type": "cloze",
+        "prompt": "We're ___ a great time here in Spain. (świetnie się bawimy)",
+        "answer": "having",
+        "explanation": "Have a great time."
+      },
+      {
+        "id": "a2-writing-simple-email-2-03",
+        "type": "cloze",
+        "prompt": "Yesterday we ___ to the beach. (go)",
+        "answer": "went",
+        "explanation": "Yesterday: Past Simple."
+      },
+      {
+        "id": "a2-writing-simple-email-2-04",
+        "type": "cloze",
+        "prompt": "The food is delicious ___ the hotel is very comfortable.",
+        "answer": "and",
+        "explanation": "Dodanie: and."
+      },
+      {
+        "id": "a2-writing-simple-email-2-05",
+        "type": "choice",
+        "prompt": "Tomorrow we ___ visit the old town.",
+        "answer": "are going to",
+        "distractors": [
+          "went to",
+          "are go"
+        ],
+        "explanation": "Plan: going to."
+      },
+      {
+        "id": "a2-writing-simple-email-2-06",
+        "type": "choice",
+        "prompt": "I ___ you were here!",
+        "answer": "wish",
+        "distractors": [
+          "want",
+          "hope"
+        ],
+        "explanation": "Szkoda, że cię tu nie ma: I wish you were here."
+      },
+      {
+        "id": "a2-writing-simple-email-2-07",
+        "type": "tiles",
+        "prompt": "E-mail od Toma do Kate.",
+        "answer": [
+          "Hi Kate,",
+          "Greetings from Malta!",
+          "The weather is hot and sunny, so we go swimming every day.",
+          "Yesterday we took a boat trip.",
+          "See you next week,",
+          "Tom"
+        ],
+        "explanation": "Powitanie, skąd piszę, opis, wydarzenie, zakończenie, podpis."
+      },
+      {
+        "id": "a2-writing-simple-email-2-08",
+        "type": "error",
+        "prompt": "Yesterday we visit a museum.",
+        "answer": [
+          "visit",
+          "visited"
+        ],
+        "explanation": "Yesterday: Past Simple."
+      },
+      {
+        "id": "a2-writing-simple-email-2-09",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „but”.\nThe hotel is nice. The food is terrible.",
+        "answer": "The hotel is nice, but the food is terrible.",
+        "accept": [
+          "The hotel is nice but the food is terrible."
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-writing-simple-email-2-10",
+        "type": "translate",
+        "prompt": "Pogoda jest piękna.",
+        "answer": "The weather is beautiful.",
+        "accept": [
+          "The weather is lovely.",
+          "The weather is nice.",
+          "The weather is great."
+        ],
+        "explanation": "Pogoda: the weather."
+      }
+    ]
+  },
+  {
+    "id": "a2-writing-simple-email-3",
+    "topicId": "a2-writing-simple-email",
+    "exercises": [
+      {
+        "id": "a2-writing-simple-email-3-01",
+        "type": "match",
+        "prompt": "Połącz zwroty z tłumaczeniem.",
+        "answer": [
+          "Can you tell me...?|Czy możesz mi powiedzieć...?",
+          "What about you?|A co u ciebie?",
+          "Let me know.|Daj znać.",
+          "I can't wait!|Nie mogę się doczekać!"
+        ],
+        "explanation": "Pytania i reakcje w e-mailu."
+      },
+      {
+        "id": "a2-writing-simple-email-3-02",
+        "type": "cloze",
+        "prompt": "What ___ you? How was your weekend?",
+        "answer": "about",
+        "explanation": "A ty? What about you?"
+      },
+      {
+        "id": "a2-writing-simple-email-3-03",
+        "type": "cloze",
+        "prompt": "Please ___ me know when you arrive.",
+        "answer": "let",
+        "explanation": "Let me know."
+      },
+      {
+        "id": "a2-writing-simple-email-3-04",
+        "type": "cloze",
+        "prompt": "I can't ___ to see you! (doczekać się)",
+        "answer": "wait",
+        "explanation": "I can't wait to..."
+      },
+      {
+        "id": "a2-writing-simple-email-3-05",
+        "type": "choice",
+        "prompt": "Can you tell me ___ time the train arrives?",
+        "answer": "what",
+        "distractors": [
+          "which hour",
+          "when time"
+        ],
+        "explanation": "Która godzina: what time."
+      },
+      {
+        "id": "a2-writing-simple-email-3-06",
+        "type": "choice",
+        "prompt": "Sorry I didn't write ___. I was very busy.",
+        "answer": "earlier",
+        "distractors": [
+          "early",
+          "before that"
+        ],
+        "explanation": "Wcześniej: earlier."
+      },
+      {
+        "id": "a2-writing-simple-email-3-07",
+        "type": "tiles",
+        "prompt": "E-mail od Piotra do cioci Mary.",
+        "answer": [
+          "Dear Aunt Mary,",
+          "Thank you for the lovely birthday present.",
+          "I really like the book and I've already started reading it.",
+          "I hope you are well.",
+          "Love,",
+          "Piotr"
+        ],
+        "explanation": "Powitanie, podziękowanie, szczegóły, życzenia, zakończenie, podpis."
+      },
+      {
+        "id": "a2-writing-simple-email-3-08",
+        "type": "error",
+        "prompt": "I'm looking forward to see you.",
+        "answer": [
+          "see",
+          "seeing"
+        ],
+        "explanation": "Looking forward to + -ing."
+      },
+      {
+        "id": "a2-writing-simple-email-3-09",
+        "type": "transform",
+        "prompt": "Zamień na pytanie do adresata.\nYou are free on Saturday.",
+        "answer": "Are you free on Saturday?",
+        "explanation": "To be przed podmiotem."
+      },
+      {
+        "id": "a2-writing-simple-email-3-10",
+        "type": "translate",
+        "prompt": "Daj znać, czy możesz przyjść.",
+        "answer": "Let me know if you can come.",
+        "explanation": "Let me know if..."
+      },
+      {
+        "id": "a2-writing-simple-email-3-11",
+        "type": "choice",
+        "prompt": "Which question asks about the other person?",
+        "answer": "How about you?",
+        "distractors": [
+          "Me too.",
+          "See you!"
+        ],
+        "explanation": "Pytanie do adresata: How about you?"
+      }
+    ]
+  }
+]

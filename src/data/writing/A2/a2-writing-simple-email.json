@@ -1,0 +1,18 @@
+{
+  "topicId": "a2-writing-simple-email",
+  "task": "Wróciłeś z weekendowego wyjazdu. Napisz e-mail do koleżanki z Anglii, **Emmy**:\n- napisz, gdzie byłeś i z kim,\n- opisz 2–3 rzeczy, które robiłeś,\n- napisz, co podobało ci się najbardziej,\n- zapytaj o jej weekend.",
+  "words": [
+    50,
+    90
+  ],
+  "model": "Hi Emma,\n\nHow are you? Last weekend I went to the mountains with my brother. We stayed in a small hotel in Zakopane. On Saturday we walked to a beautiful lake, and on Sunday we went skiing. The best thing was the view from the top of the mountain – it was amazing! In the evening we ate pizza and played cards.\n\nWhat about you? What did you do at the weekend?\n\nWrite soon,\nKasia",
+  "checklist": [
+    "Zaczynam od powitania i krótkiego zagajenia (How are you?).",
+    "Piszę, gdzie i z kim byłem.",
+    "Opisuję 2–3 rzeczy w czasie Past Simple (went, stayed, ate...).",
+    "Piszę, co podobało mi się najbardziej.",
+    "Pytam o weekend adresatki.",
+    "Kończę zwrotem (Write soon / Best wishes) i podpisem.",
+    "Tekst ma 50–90 słów."
+  ]
+}

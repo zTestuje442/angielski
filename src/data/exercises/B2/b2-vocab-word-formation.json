@@ -1,0 +1,334 @@
+[
+  {
+    "id": "b2-vocab-word-formation-1",
+    "topicId": "b2-vocab-word-formation",
+    "exercises": [
+      {
+        "id": "b2-vocab-word-formation-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "impossible|niemożliwy",
+          "illegal|nielegalny",
+          "irregular|nieregularny",
+          "dishonest|nieuczciwy"
+        ],
+        "explanation": "Przedrostki przeczące."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-02",
+        "type": "cloze",
+        "prompt": "Your answer is ___. Try again. (CORRECT)",
+        "answer": "incorrect",
+        "explanation": "In- + correct."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-03",
+        "type": "cloze",
+        "prompt": "He's been ___ for six months and is looking for a job. (EMPLOY)",
+        "answer": "unemployed",
+        "explanation": "Un- + employed."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-04",
+        "type": "choice",
+        "prompt": "Don't be so ___! Wait a minute.",
+        "answer": "impatient",
+        "distractors": [
+          "unpatient",
+          "dispatient"
+        ],
+        "explanation": "Im- przed p: impatient."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-05",
+        "type": "choice",
+        "prompt": "I'm sorry, I ___ what you said.",
+        "answer": "misunderstood",
+        "distractors": [
+          "disunderstood",
+          "ununderstood"
+        ],
+        "explanation": "Mis- = źle."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-06",
+        "type": "error",
+        "prompt": "It's unlegal to drive without a licence.",
+        "answer": [
+          "unlegal",
+          "illegal"
+        ],
+        "explanation": "Il- przed l: illegal."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-07",
+        "type": "tiles",
+        "prompt": "Nie zgadzam się z tobą.",
+        "answer": [
+          "I",
+          "disagree",
+          "with",
+          "you"
+        ],
+        "distractors": [
+          "unagree",
+          "to"
+        ],
+        "explanation": "Dis- + agree."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-08",
+        "type": "translate",
+        "prompt": "To jest bardzo nieodpowiedzialne.",
+        "answer": "This is very irresponsible.",
+        "accept": [
+          "That is very irresponsible.",
+          "It is very irresponsible."
+        ],
+        "explanation": "Ir- przed r: irresponsible."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-09",
+        "type": "choice",
+        "prompt": "Which word is spelled correctly?",
+        "answer": "irregular",
+        "distractors": [
+          "inregular",
+          "unregular"
+        ],
+        "explanation": "Ir- przed r."
+      },
+      {
+        "id": "b2-vocab-word-formation-1-10",
+        "type": "transform",
+        "prompt": "Utwórz przeczenie przedrostkiem i napisz całe zdanie.\nThis method is reliable.",
+        "answer": "This method is unreliable.",
+        "explanation": "Un- + reliable."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-word-formation-2",
+    "topicId": "b2-vocab-word-formation",
+    "exercises": [
+      {
+        "id": "b2-vocab-word-formation-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z rzeczownikami.",
+        "answer": [
+          "decide|decision",
+          "develop|development",
+          "happy|happiness",
+          "able|ability"
+        ],
+        "explanation": "Czasownik / przymiotnik i rzeczownik."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-02",
+        "type": "cloze",
+        "prompt": "Thank you for the ___. (INFORM)",
+        "answer": "information",
+        "explanation": "Inform → information."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-03",
+        "type": "cloze",
+        "prompt": "Her ___ in the exam was excellent. (PERFORM)",
+        "answer": "performance",
+        "explanation": "Perform → performance."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-04",
+        "type": "choice",
+        "prompt": "There's a ___ that it will rain.",
+        "answer": "possibility",
+        "distractors": [
+          "possibleness",
+          "possiblity"
+        ],
+        "explanation": "Possible → possibility."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-05",
+        "type": "choice",
+        "prompt": "I've always valued my ___.",
+        "answer": "independence",
+        "distractors": [
+          "independance",
+          "independency"
+        ],
+        "explanation": "Independent → independence."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-06",
+        "type": "error",
+        "prompt": "We need to make a decission today.",
+        "answer": [
+          "decission",
+          "decision"
+        ],
+        "explanation": "Decide → decision."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-07",
+        "type": "error",
+        "prompt": "His pronounciation is very good.",
+        "answer": [
+          "pronounciation",
+          "pronunciation"
+        ],
+        "explanation": "Pronounce → pronunciation (bez o)."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-08",
+        "type": "tiles",
+        "prompt": "Rozwój firmy był szybki.",
+        "answer": [
+          "The",
+          "development",
+          "of",
+          "the",
+          "company",
+          "was",
+          "fast"
+        ],
+        "distractors": [
+          "developing",
+          "grow"
+        ],
+        "explanation": "Develop → development."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-09",
+        "type": "translate",
+        "prompt": "Siła tego zespołu to komunikacja.",
+        "answer": "The strength of this team is communication.",
+        "accept": [
+          "This team's strength is communication.",
+          "The strength of the team is communication."
+        ],
+        "explanation": "Strong → strength."
+      },
+      {
+        "id": "b2-vocab-word-formation-2-10",
+        "type": "choice",
+        "prompt": "A person who plays the piano is a ___.",
+        "answer": "pianist",
+        "distractors": [
+          "pianer",
+          "pianor"
+        ],
+        "explanation": "-ist dla instrumentów."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-word-formation-3",
+    "topicId": "b2-vocab-word-formation",
+    "exercises": [
+      {
+        "id": "b2-vocab-word-formation-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z przymiotnikami.",
+        "answer": [
+          "use|useful / useless",
+          "danger|dangerous",
+          "create|creative",
+          "profession|professional"
+        ],
+        "explanation": "Przymiotniki od rzeczowników i czasowników."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-02",
+        "type": "cloze",
+        "prompt": "This old phone is completely ___. It doesn't work at all. (USE)",
+        "answer": "useless",
+        "explanation": "-less = bez."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-03",
+        "type": "cloze",
+        "prompt": "Our working hours are very ___. (FLEX)",
+        "answer": "flexible",
+        "explanation": "Flex → flexible."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-04",
+        "type": "choice",
+        "prompt": "We need to ___ the road – there's too much traffic.",
+        "answer": "widen",
+        "distractors": [
+          "widenize",
+          "widify"
+        ],
+        "explanation": "-en: widen."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-05",
+        "type": "choice",
+        "prompt": "The city is going to ___ the old station.",
+        "answer": "modernise",
+        "distractors": [
+          "modernate",
+          "modernify"
+        ],
+        "explanation": "-ise: modernise."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-06",
+        "type": "error",
+        "prompt": "He's a very care driver – he never has accidents.",
+        "answer": [
+          "care",
+          "careful"
+        ],
+        "explanation": "Przymiotnik: careful."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-07",
+        "type": "error",
+        "prompt": "They are going to rebuilt the old bridge.",
+        "answer": [
+          "rebuilt",
+          "rebuild"
+        ],
+        "explanation": "Going to + forma podstawowa."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-08",
+        "type": "tiles",
+        "prompt": "Niedoceniliśmy tego problemu.",
+        "answer": [
+          "We",
+          "underestimated",
+          "this",
+          "problem"
+        ],
+        "distractors": [
+          "overestimated",
+          "down"
+        ],
+        "explanation": "Under- = za mało."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-09",
+        "type": "translate",
+        "prompt": "To było bardzo pomocne.",
+        "answer": "That was very helpful.",
+        "accept": [
+          "It was very helpful.",
+          "This was very helpful."
+        ],
+        "explanation": "Help → helpful."
+      },
+      {
+        "id": "b2-vocab-word-formation-3-10",
+        "type": "transform",
+        "prompt": "Zmień przymiotnik w rzeczownik i napisz całe zdanie.\nShe is very kind. → I appreciate her ___.",
+        "answer": "I appreciate her kindness.",
+        "explanation": "-ness: kindness."
+      }
+    ]
+  }
+]

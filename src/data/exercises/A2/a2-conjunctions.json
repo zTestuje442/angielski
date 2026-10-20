@@ -1,0 +1,318 @@
+[
+  {
+    "id": "a2-conjunctions-1",
+    "topicId": "a2-conjunctions",
+    "exercises": [
+      {
+        "id": "a2-conjunctions-1-01",
+        "type": "cloze",
+        "prompt": "I like tea ___ coffee.",
+        "answer": "and",
+        "explanation": "Dodanie: and."
+      },
+      {
+        "id": "a2-conjunctions-1-02",
+        "type": "cloze",
+        "prompt": "She is rich ___ she isn't happy.",
+        "answer": "but",
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-conjunctions-1-03",
+        "type": "cloze",
+        "prompt": "I stayed at home ___ I was ill.",
+        "answer": "because",
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-conjunctions-1-04",
+        "type": "cloze",
+        "prompt": "It was raining, ___ we took a taxi.",
+        "answer": "so",
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-conjunctions-1-05",
+        "type": "choice",
+        "prompt": "I was tired, ___ I went to bed early.",
+        "answer": "so",
+        "distractors": [
+          "because",
+          "but"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-conjunctions-1-06",
+        "type": "choice",
+        "prompt": "He was late ___ he missed the bus.",
+        "answer": "because",
+        "distractors": [
+          "so",
+          "but"
+        ],
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-conjunctions-1-07",
+        "type": "match",
+        "prompt": "Połącz spójniki z tłumaczeniem.",
+        "answer": [
+          "and|i",
+          "but|ale",
+          "because|ponieważ",
+          "so|więc"
+        ],
+        "explanation": "Cztery podstawowe spójniki."
+      },
+      {
+        "id": "a2-conjunctions-1-08",
+        "type": "error",
+        "prompt": "I'm hungry because I'm going to eat something.",
+        "answer": [
+          "because",
+          "so"
+        ],
+        "explanation": "Skutek głodu: so."
+      },
+      {
+        "id": "a2-conjunctions-1-09",
+        "type": "tiles",
+        "prompt": "Lubię go, ale on jest głośny.",
+        "answer": [
+          "I",
+          "like",
+          "him",
+          "but",
+          "he",
+          "is",
+          "loud"
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-conjunctions-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „because”.\nI am happy. It is Friday.",
+        "answer": "I am happy because it is Friday.",
+        "explanation": "Przyczyna: because."
+      }
+    ]
+  },
+  {
+    "id": "a2-conjunctions-2",
+    "topicId": "a2-conjunctions",
+    "exercises": [
+      {
+        "id": "a2-conjunctions-2-01",
+        "type": "cloze",
+        "prompt": "We went to the park ___ played football.",
+        "answer": "and",
+        "explanation": "Dodanie: and."
+      },
+      {
+        "id": "a2-conjunctions-2-02",
+        "type": "cloze",
+        "prompt": "The film was long ___ boring.",
+        "answer": "and",
+        "explanation": "Dwie cechy: and."
+      },
+      {
+        "id": "a2-conjunctions-2-03",
+        "type": "cloze",
+        "prompt": "I called her ___ she didn't answer.",
+        "answer": "but",
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-conjunctions-2-04",
+        "type": "choice",
+        "prompt": "She studied hard, ___ she passed the exam.",
+        "answer": "so",
+        "distractors": [
+          "but",
+          "because"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-conjunctions-2-05",
+        "type": "choice",
+        "prompt": "I can't come ___ I have to work.",
+        "answer": "because",
+        "distractors": [
+          "so",
+          "and"
+        ],
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-conjunctions-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „so”.\nThe shop was closed. We went home.",
+        "answer": "The shop was closed, so we went home.",
+        "accept": [
+          "The shop was closed so we went home."
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-conjunctions-2-07",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „but”.\nHe is nice. He is lazy.",
+        "answer": "He is nice, but he is lazy.",
+        "accept": [
+          "He is nice but he is lazy."
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-conjunctions-2-08",
+        "type": "tiles",
+        "prompt": "Byłem głodny, więc zrobiłem kanapkę.",
+        "answer": [
+          "I",
+          "was",
+          "hungry",
+          "so",
+          "I",
+          "made",
+          "a",
+          "sandwich"
+        ],
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-conjunctions-2-09",
+        "type": "error",
+        "prompt": "I like cats so I don't like dogs.",
+        "answer": [
+          "so",
+          "but"
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-conjunctions-2-10",
+        "type": "translate",
+        "prompt": "Nie poszedłem do pracy, ponieważ byłem chory.",
+        "answer": "I did not go to work because I was ill.",
+        "accept": [
+          "I did not go to work because I was sick."
+        ],
+        "explanation": "Przyczyna: because."
+      }
+    ]
+  },
+  {
+    "id": "a2-conjunctions-3",
+    "topicId": "a2-conjunctions",
+    "exercises": [
+      {
+        "id": "a2-conjunctions-3-01",
+        "type": "choice",
+        "prompt": "Why are you smiling? — ___ I'm happy.",
+        "answer": "Because",
+        "distractors": [
+          "So",
+          "But"
+        ],
+        "explanation": "Odpowiedź na why: because."
+      },
+      {
+        "id": "a2-conjunctions-3-02",
+        "type": "choice",
+        "prompt": "It's a small flat, ___ it's very comfortable.",
+        "answer": "but",
+        "distractors": [
+          "so",
+          "because"
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-conjunctions-3-03",
+        "type": "cloze",
+        "prompt": "I've got a cat ___ two dogs.",
+        "answer": "and",
+        "explanation": "Dodanie: and."
+      },
+      {
+        "id": "a2-conjunctions-3-04",
+        "type": "cloze",
+        "prompt": "We missed the train, ___ we were late.",
+        "answer": "so",
+        "explanation": "Skutek: so."
+      },
+      {
+        "id": "a2-conjunctions-3-05",
+        "type": "cloze",
+        "prompt": "She didn't eat ___ she wasn't hungry.",
+        "answer": "because",
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-conjunctions-3-06",
+        "type": "match",
+        "prompt": "Połącz związek ze spójnikiem.",
+        "answer": [
+          "przyczyna|because",
+          "skutek|so",
+          "przeciwieństwo|but",
+          "dodanie|and"
+        ],
+        "explanation": "Związek i spójnik."
+      },
+      {
+        "id": "a2-conjunctions-3-07",
+        "type": "error",
+        "prompt": "He was tired, because he went to bed.",
+        "answer": [
+          "because",
+          "so"
+        ],
+        "explanation": "Skutek zmęczenia: so."
+      },
+      {
+        "id": "a2-conjunctions-3-08",
+        "type": "error",
+        "prompt": "I wanted to buy it and I didn't have any money.",
+        "answer": [
+          "and",
+          "but"
+        ],
+        "explanation": "Przeciwieństwo: but."
+      },
+      {
+        "id": "a2-conjunctions-3-09",
+        "type": "tiles",
+        "prompt": "Zostałem w domu, bo padało.",
+        "answer": [
+          "I",
+          "stayed",
+          "at",
+          "home",
+          "because",
+          "it",
+          "was",
+          "raining"
+        ],
+        "explanation": "Przyczyna: because."
+      },
+      {
+        "id": "a2-conjunctions-3-10",
+        "type": "translate",
+        "prompt": "Jest zimno, więc załóż kurtkę.",
+        "answer": "It is cold, so put on your jacket.",
+        "accept": [
+          "It is cold so put on your jacket.",
+          "It is cold, so put on a jacket.",
+          "It is cold so put on a jacket.",
+          "It is cold, so put your jacket on.",
+          "It is cold so put your jacket on."
+        ],
+        "explanation": "Skutek: so."
+      }
+    ]
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "id": "a1-present-continuous-1",
+    "topicId": "a1-present-continuous",
+    "exercises": [
+      {
+        "id": "a1-present-continuous-1-01",
+        "type": "cloze",
+        "prompt": "I ___ reading a book now.",
+        "answer": "am",
+        "explanation": "I + am + -ing."
+      },
+      {
+        "id": "a1-present-continuous-1-02",
+        "type": "cloze",
+        "prompt": "She is ___ a letter. (write)",
+        "answer": "writing",
+        "explanation": "Write → writing (znika -e)."
+      },
+      {
+        "id": "a1-present-continuous-1-03",
+        "type": "cloze",
+        "prompt": "They are ___ in the pool. (swim)",
+        "answer": "swimming",
+        "explanation": "Swim → swimming (podwójne m)."
+      },
+      {
+        "id": "a1-present-continuous-1-04",
+        "type": "choice",
+        "prompt": "Look! It ___.",
+        "answer": "is raining",
+        "distractors": [
+          "rains",
+          "raining"
+        ],
+        "explanation": "Look! – dzieje się teraz: is raining."
+      },
+      {
+        "id": "a1-present-continuous-1-05",
+        "type": "choice",
+        "prompt": "We ___ dinner at the moment.",
+        "answer": "are having",
+        "distractors": [
+          "have",
+          "is having"
+        ],
+        "explanation": "At the moment + we are + -ing."
+      },
+      {
+        "id": "a1-present-continuous-1-06",
+        "type": "match",
+        "prompt": "Połącz czasownik z formą -ing.",
+        "answer": [
+          "make|making",
+          "run|running",
+          "sit|sitting",
+          "play|playing"
+        ],
+        "explanation": "Make – znika -e; run, sit – podwójna spółgłoska; play – samo -ing."
+      },
+      {
+        "id": "a1-present-continuous-1-07",
+        "type": "tiles",
+        "prompt": "Ona teraz śpi.",
+        "answer": [
+          "She",
+          "is",
+          "sleeping",
+          "now"
+        ],
+        "explanation": "She is + sleeping."
+      },
+      {
+        "id": "a1-present-continuous-1-08",
+        "type": "error",
+        "prompt": "He is watch TV.",
+        "answer": [
+          "watch",
+          "watching"
+        ],
+        "explanation": "Po is potrzebna forma -ing."
+      },
+      {
+        "id": "a1-present-continuous-1-09",
+        "type": "translate",
+        "prompt": "Czekam na autobus.",
+        "answer": "I am waiting for the bus.",
+        "accept": [
+          "I am waiting for a bus."
+        ],
+        "explanation": "Teraz, w tej chwili: I am waiting."
+      },
+      {
+        "id": "a1-present-continuous-1-10",
+        "type": "transform",
+        "prompt": "Opisz, co dzieje się teraz.\nI read a book.",
+        "answer": "I am reading a book.",
+        "explanation": "Teraz: am + reading."
+      }
+    ]
+  },
+  {
+    "id": "a1-present-continuous-2",
+    "topicId": "a1-present-continuous",
+    "exercises": [
+      {
+        "id": "a1-present-continuous-2-01",
+        "type": "cloze",
+        "prompt": "I ___ not working today.",
+        "answer": "am",
+        "explanation": "I am not + -ing."
+      },
+      {
+        "id": "a1-present-continuous-2-02",
+        "type": "cloze",
+        "prompt": "___ you listening to me?",
+        "answer": "Are",
+        "explanation": "Pytanie: Are you + -ing?"
+      },
+      {
+        "id": "a1-present-continuous-2-03",
+        "type": "cloze",
+        "prompt": "Is she cooking? — Yes, she ___.",
+        "answer": "is",
+        "explanation": "Krótka odpowiedź: Yes, she is."
+      },
+      {
+        "id": "a1-present-continuous-2-04",
+        "type": "choice",
+        "prompt": "What ___ you doing?",
+        "answer": "are",
+        "distractors": [
+          "is",
+          "do"
+        ],
+        "explanation": "What are you doing? – co robisz (teraz)?"
+      },
+      {
+        "id": "a1-present-continuous-2-05",
+        "type": "choice",
+        "prompt": "He ___ wearing a jacket. It's warm.",
+        "answer": "isn't",
+        "distractors": [
+          "aren't",
+          "doesn't"
+        ],
+        "explanation": "He + isn't + -ing."
+      },
+      {
+        "id": "a1-present-continuous-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThey are playing football.",
+        "answer": "They are not playing football.",
+        "explanation": "Are not (aren't) + -ing."
+      },
+      {
+        "id": "a1-present-continuous-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nTom is studying.",
+        "answer": "Is Tom studying?",
+        "explanation": "Is przechodzi przed podmiot."
+      },
+      {
+        "id": "a1-present-continuous-2-08",
+        "type": "tiles",
+        "prompt": "Dlaczego się śmiejesz?",
+        "answer": [
+          "Why",
+          "are",
+          "you",
+          "laughing"
+        ],
+        "explanation": "Why + are + you + -ing."
+      },
+      {
+        "id": "a1-present-continuous-2-09",
+        "type": "error",
+        "prompt": "Are she working now?",
+        "answer": [
+          "Are",
+          "Is"
+        ],
+        "explanation": "She łączy się z is."
+      },
+      {
+        "id": "a1-present-continuous-2-10",
+        "type": "translate",
+        "prompt": "Co robisz?",
+        "answer": "What are you doing?",
+        "explanation": "Co robisz teraz: What are you doing?"
+      }
+    ]
+  },
+  {
+    "id": "a1-present-continuous-3",
+    "topicId": "a1-present-continuous",
+    "exercises": [
+      {
+        "id": "a1-present-continuous-3-01",
+        "type": "cloze",
+        "prompt": "The baby ___ crying.",
+        "answer": "is",
+        "explanation": "The baby = it/he/she, więc is."
+      },
+      {
+        "id": "a1-present-continuous-3-02",
+        "type": "cloze",
+        "prompt": "We are ___ to music. (listen)",
+        "answer": "listening",
+        "explanation": "Listen + -ing."
+      },
+      {
+        "id": "a1-present-continuous-3-03",
+        "type": "cloze",
+        "prompt": "He is ___ his car. (drive)",
+        "answer": "driving",
+        "explanation": "Drive → driving (znika -e)."
+      },
+      {
+        "id": "a1-present-continuous-3-04",
+        "type": "choice",
+        "prompt": "Shh! The children ___.",
+        "answer": "are sleeping",
+        "distractors": [
+          "sleep",
+          "is sleeping"
+        ],
+        "explanation": "Shh! – teraz; children to liczba mnoga: are."
+      },
+      {
+        "id": "a1-present-continuous-3-05",
+        "type": "choice",
+        "prompt": "Where are you going? — I ___ to the shop.",
+        "answer": "am going",
+        "distractors": [
+          "go",
+          "going"
+        ],
+        "explanation": "Odpowiedź w tym samym czasie: I am going."
+      },
+      {
+        "id": "a1-present-continuous-3-06",
+        "type": "tiles",
+        "prompt": "Pada śnieg.",
+        "answer": [
+          "It",
+          "is",
+          "snowing"
+        ],
+        "explanation": "Pogoda teraz: it is + -ing."
+      },
+      {
+        "id": "a1-present-continuous-3-07",
+        "type": "error",
+        "prompt": "I am siting on the sofa.",
+        "answer": [
+          "siting",
+          "sitting"
+        ],
+        "explanation": "Sit → sitting (podwójne t)."
+      },
+      {
+        "id": "a1-present-continuous-3-08",
+        "type": "error",
+        "prompt": "They is dancing.",
+        "answer": [
+          "is",
+          "are"
+        ],
+        "explanation": "They łączy się z are."
+      },
+      {
+        "id": "a1-present-continuous-3-09",
+        "type": "translate",
+        "prompt": "Mój brat gra w grę komputerową.",
+        "answer": "My brother is playing a computer game.",
+        "accept": [
+          "My brother is playing a video game."
+        ],
+        "explanation": "Teraz: is playing."
+      },
+      {
+        "id": "a1-present-continuous-3-10",
+        "type": "match",
+        "prompt": "Połącz polskie zdania z angielskimi.",
+        "answer": [
+          "piszę|I am writing",
+          "pływasz|you are swimming",
+          "ona biega|she is running",
+          "oni jedzą|they are eating"
+        ],
+        "explanation": "Am/is/are + czasownik z -ing."
+      }
+    ]
+  }
+]

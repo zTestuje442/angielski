@@ -1,0 +1,306 @@
+[
+  {
+    "id": "a2-want-would-like-to-1",
+    "topicId": "a2-want-would-like-to",
+    "exercises": [
+      {
+        "id": "a2-want-would-like-to-1-01",
+        "type": "cloze",
+        "prompt": "I want ___ go home.",
+        "answer": "to",
+        "explanation": "Want + to + czasownik."
+      },
+      {
+        "id": "a2-want-would-like-to-1-02",
+        "type": "cloze",
+        "prompt": "Would you like ___ drink?",
+        "answer": "a",
+        "explanation": "Would you like a drink?"
+      },
+      {
+        "id": "a2-want-would-like-to-1-03",
+        "type": "cloze",
+        "prompt": "She'd like ___ visit Paris.",
+        "answer": "to",
+        "explanation": "Would like + to."
+      },
+      {
+        "id": "a2-want-would-like-to-1-04",
+        "type": "choice",
+        "prompt": "I ___ like a cup of tea, please.",
+        "answer": "would",
+        "distractors": [
+          "will",
+          "do"
+        ],
+        "explanation": "Grzeczna prośba: I would like."
+      },
+      {
+        "id": "a2-want-would-like-to-1-05",
+        "type": "choice",
+        "prompt": "Do you want ___ with us?",
+        "answer": "to come",
+        "distractors": [
+          "come",
+          "coming"
+        ],
+        "explanation": "Want + to + czasownik."
+      },
+      {
+        "id": "a2-want-would-like-to-1-06",
+        "type": "match",
+        "prompt": "Połącz formy z tłumaczeniem.",
+        "answer": [
+          "I want|chcę",
+          "I would like|chciałbym",
+          "Would you like...?|Czy chciałbyś...?",
+          "Do you want...?|Czy chcesz...?"
+        ],
+        "explanation": "Want i would like."
+      },
+      {
+        "id": "a2-want-would-like-to-1-07",
+        "type": "error",
+        "prompt": "I want go to the cinema.",
+        "answer": [
+          "go",
+          "to go"
+        ],
+        "explanation": "Want + to + czasownik."
+      },
+      {
+        "id": "a2-want-would-like-to-1-08",
+        "type": "tiles",
+        "prompt": "Chciałbym zamówić pizzę.",
+        "answer": [
+          "I",
+          "would",
+          "like",
+          "to",
+          "order",
+          "a",
+          "pizza"
+        ],
+        "explanation": "Would like + to + order."
+      },
+      {
+        "id": "a2-want-would-like-to-1-09",
+        "type": "translate",
+        "prompt": "Chcę zostać aktorem.",
+        "answer": "I want to be an actor.",
+        "accept": [
+          "I want to become an actor."
+        ],
+        "explanation": "Want + to be."
+      },
+      {
+        "id": "a2-want-would-like-to-1-10",
+        "type": "transform",
+        "prompt": "Zmień na grzeczną formę z „would like”.\nI want a coffee.",
+        "answer": "I would like a coffee.",
+        "explanation": "Grzeczniej: would like."
+      }
+    ]
+  },
+  {
+    "id": "a2-want-would-like-to-2",
+    "topicId": "a2-want-would-like-to",
+    "exercises": [
+      {
+        "id": "a2-want-would-like-to-2-01",
+        "type": "cloze",
+        "prompt": "Would you like ___ come to my party?",
+        "answer": "to",
+        "explanation": "Would like + to."
+      },
+      {
+        "id": "a2-want-would-like-to-2-02",
+        "type": "cloze",
+        "prompt": "What ___ you like to eat?",
+        "answer": "would",
+        "explanation": "What would you like...?"
+      },
+      {
+        "id": "a2-want-would-like-to-2-03",
+        "type": "cloze",
+        "prompt": "Would you like some cake? — Yes, I ___. Thank you.",
+        "answer": "would",
+        "explanation": "Krótka odpowiedź: Yes, I would."
+      },
+      {
+        "id": "a2-want-would-like-to-2-04",
+        "type": "choice",
+        "prompt": "___ you like to sit down?",
+        "answer": "Would",
+        "distractors": [
+          "Do",
+          "Are"
+        ],
+        "explanation": "Grzeczna propozycja: Would you like...?"
+      },
+      {
+        "id": "a2-want-would-like-to-2-05",
+        "type": "choice",
+        "prompt": "I don't want ___ alone.",
+        "answer": "to be",
+        "distractors": [
+          "be",
+          "being"
+        ],
+        "explanation": "Want + to + czasownik."
+      },
+      {
+        "id": "a2-want-would-like-to-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nI want to go out.",
+        "answer": "I do not want to go out.",
+        "explanation": "Don't want to."
+      },
+      {
+        "id": "a2-want-would-like-to-2-07",
+        "type": "transform",
+        "prompt": "Zmień na grzeczne pytanie z „would like”.\nDo you want some tea?",
+        "answer": "Would you like some tea?",
+        "explanation": "Would you like...?"
+      },
+      {
+        "id": "a2-want-would-like-to-2-08",
+        "type": "tiles",
+        "prompt": "Czego chcesz na urodziny?",
+        "answer": [
+          "What",
+          "do",
+          "you",
+          "want",
+          "for",
+          "your",
+          "birthday"
+        ],
+        "explanation": "What + do + you + want."
+      },
+      {
+        "id": "a2-want-would-like-to-2-09",
+        "type": "error",
+        "prompt": "Would you like to dancing?",
+        "answer": [
+          "dancing",
+          "dance"
+        ],
+        "explanation": "Would like + to + forma podstawowa."
+      },
+      {
+        "id": "a2-want-would-like-to-2-10",
+        "type": "translate",
+        "prompt": "Gdzie chciałbyś pojechać?",
+        "answer": "Where would you like to go?",
+        "explanation": "Where + would + you + like to go."
+      }
+    ]
+  },
+  {
+    "id": "a2-want-would-like-to-3",
+    "topicId": "a2-want-would-like-to",
+    "exercises": [
+      {
+        "id": "a2-want-would-like-to-3-01",
+        "type": "choice",
+        "prompt": "Would you like a sandwich? — No, I'm not hungry, ___.",
+        "answer": "thanks",
+        "distractors": [
+          "please",
+          "sorry"
+        ],
+        "explanation": "Odmowa: No, thanks."
+      },
+      {
+        "id": "a2-want-would-like-to-3-02",
+        "type": "choice",
+        "prompt": "I'd like ___ the manager, please.",
+        "answer": "to speak to",
+        "distractors": [
+          "speak to",
+          "speaking to"
+        ],
+        "explanation": "Would like + to + czasownik."
+      },
+      {
+        "id": "a2-want-would-like-to-3-03",
+        "type": "cloze",
+        "prompt": "She wants ___ learn Italian.",
+        "answer": "to",
+        "explanation": "Want + to."
+      },
+      {
+        "id": "a2-want-would-like-to-3-04",
+        "type": "cloze",
+        "prompt": "I would ___ to book a table for two.",
+        "answer": "like",
+        "explanation": "Would like to."
+      },
+      {
+        "id": "a2-want-would-like-to-3-05",
+        "type": "match",
+        "prompt": "Połącz formy.",
+        "answer": [
+          "I'd like|I would like",
+          "I'd love|I would love",
+          "she wants|ona chce",
+          "they'd like|they would like"
+        ],
+        "explanation": "Skróty i formy."
+      },
+      {
+        "id": "a2-want-would-like-to-3-06",
+        "type": "error",
+        "prompt": "I'd like to books a room.",
+        "answer": [
+          "books",
+          "book"
+        ],
+        "explanation": "Po to forma podstawowa."
+      },
+      {
+        "id": "a2-want-would-like-to-3-07",
+        "type": "error",
+        "prompt": "He want to buy a car.",
+        "answer": [
+          "want",
+          "wants"
+        ],
+        "explanation": "He + wants."
+      },
+      {
+        "id": "a2-want-would-like-to-3-08",
+        "type": "tiles",
+        "prompt": "Czy chcesz, żebym ci pomógł?",
+        "answer": [
+          "Do",
+          "you",
+          "want",
+          "me",
+          "to",
+          "help",
+          "you"
+        ],
+        "explanation": "Want + me + to + help."
+      },
+      {
+        "id": "a2-want-would-like-to-3-09",
+        "type": "translate",
+        "prompt": "Chcielibyśmy zarezerwować pokój.",
+        "answer": "We would like to book a room.",
+        "accept": [
+          "We would like to reserve a room."
+        ],
+        "explanation": "Would like + to book."
+      },
+      {
+        "id": "a2-want-would-like-to-3-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „he”.\nI want to sleep.",
+        "answer": "He wants to sleep.",
+        "explanation": "He + wants."
+      }
+    ]
+  }
+]

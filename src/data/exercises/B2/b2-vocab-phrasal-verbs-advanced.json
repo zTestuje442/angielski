@@ -1,0 +1,346 @@
+[
+  {
+    "id": "b2-vocab-phrasal-verbs-advanced-1",
+    "topicId": "b2-vocab-phrasal-verbs-advanced",
+    "exercises": [
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-01",
+        "type": "match",
+        "prompt": "Połącz phrasal verbs z tłumaczeniem.",
+        "answer": [
+          "come up with|wymyślić",
+          "put off|odłożyć na później",
+          "turn down|odrzucić",
+          "run out of|skończyć się (zapas)"
+        ],
+        "explanation": "Phrasal verbs."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-02",
+        "type": "cloze",
+        "prompt": "She came up ___ a brilliant idea.",
+        "answer": "with",
+        "explanation": "Come up with."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-03",
+        "type": "cloze",
+        "prompt": "We've run ___ of milk. Can you buy some?",
+        "answer": "out",
+        "explanation": "Run out of."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-04",
+        "type": "choice",
+        "prompt": "They offered him the job, but he turned it ___.",
+        "answer": "down",
+        "distractors": [
+          "off",
+          "out"
+        ],
+        "explanation": "Turn down."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-05",
+        "type": "choice",
+        "prompt": "Stop putting ___ your homework!",
+        "answer": "off",
+        "distractors": [
+          "up",
+          "away from"
+        ],
+        "explanation": "Put off."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-06",
+        "type": "error",
+        "prompt": "We carried on a survey of 500 customers.",
+        "answer": [
+          "on",
+          "out"
+        ],
+        "explanation": "Przeprowadzić: carry out."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-07",
+        "type": "tiles",
+        "prompt": "Nie mogę rozgryźć tego problemu.",
+        "answer": [
+          "I",
+          "can't",
+          "figure",
+          "out",
+          "this",
+          "problem"
+        ],
+        "distractors": [
+          "in",
+          "find"
+        ],
+        "explanation": "Figure out."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-08",
+        "type": "translate",
+        "prompt": "Założyli firmę w 2010 roku.",
+        "answer": "They set up a company in 2010.",
+        "accept": [
+          "They set up the company in 2010.",
+          "They started a company in 2010.",
+          "They founded a company in 2010.",
+          "They set up their company in 2010.",
+          "They founded the company in 2010."
+        ],
+        "explanation": "Set up – założyć."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-09",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "She turned it down.",
+        "distractors": [
+          "She turned down it.",
+          "She turned it off down."
+        ],
+        "explanation": "Zaimek w środku."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „postpone” phrasal verbem z „put”.\nLet's postpone the meeting.",
+        "answer": "Let's put off the meeting.",
+        "accept": [
+          "Let's put the meeting off.",
+          "Let us put off the meeting.",
+          "Let us put the meeting off."
+        ],
+        "explanation": "Postpone → put off."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-phrasal-verbs-advanced-2",
+    "topicId": "b2-vocab-phrasal-verbs-advanced",
+    "exercises": [
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-01",
+        "type": "match",
+        "prompt": "Połącz phrasal verbs z tłumaczeniem.",
+        "answer": [
+          "carry out|przeprowadzić",
+          "look into|zbadać sprawę",
+          "point out|zwrócić uwagę",
+          "take over|przejąć"
+        ],
+        "explanation": "Phrasal verbs w pracy."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-02",
+        "type": "cloze",
+        "prompt": "Thank you for pointing ___ the mistake.",
+        "answer": "out",
+        "explanation": "Point out."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-03",
+        "type": "cloze",
+        "prompt": "A large corporation took ___ our company last year.",
+        "answer": "over",
+        "explanation": "Take over."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-04",
+        "type": "choice",
+        "prompt": "The manager promised to look ___ the complaint.",
+        "answer": "into",
+        "distractors": [
+          "after",
+          "for"
+        ],
+        "explanation": "Look into."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-05",
+        "type": "choice",
+        "prompt": "It took me an hour to ___ the new printer.",
+        "answer": "set up",
+        "distractors": [
+          "put up",
+          "make up"
+        ],
+        "explanation": "Set up."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-06",
+        "type": "error",
+        "prompt": "He brought out an important issue at the meeting.",
+        "answer": [
+          "out",
+          "up"
+        ],
+        "explanation": "Poruszyć temat: bring up."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-07",
+        "type": "error",
+        "prompt": "I need to look in this problem before I answer.",
+        "answer": [
+          "in",
+          "into"
+        ],
+        "explanation": "Look into."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-08",
+        "type": "tiles",
+        "prompt": "Zabrakło nam czasu.",
+        "answer": [
+          "We",
+          "ran",
+          "out",
+          "of",
+          "time"
+        ],
+        "distractors": [
+          "off",
+          "away"
+        ],
+        "explanation": "Run out of."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-09",
+        "type": "translate",
+        "prompt": "Odrzuciła ofertę.",
+        "answer": "She turned down the offer.",
+        "accept": [
+          "She turned the offer down.",
+          "She rejected the offer.",
+          "She refused the offer.",
+          "She declined the offer."
+        ],
+        "explanation": "Turn down."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-2-10",
+        "type": "choice",
+        "prompt": "It's hard to ___ complex ideas in a foreign language.",
+        "answer": "get across",
+        "distractors": [
+          "get over",
+          "get by"
+        ],
+        "explanation": "Przekazać myśl: get across."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-phrasal-verbs-advanced-3",
+    "topicId": "b2-vocab-phrasal-verbs-advanced",
+    "exercises": [
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-01",
+        "type": "match",
+        "prompt": "Połącz phrasal verbs z tłumaczeniem.",
+        "answer": [
+          "bring up|poruszyć temat",
+          "figure out|rozgryźć",
+          "get across|przekazać (myśl)",
+          "set up|założyć, skonfigurować"
+        ],
+        "explanation": "Phrasal verbs."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-02",
+        "type": "cloze",
+        "prompt": "Who will take ___ his job when he retires?",
+        "answer": "over",
+        "explanation": "Take over."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-03",
+        "type": "cloze",
+        "prompt": "Can you figure ___ what's wrong with my laptop?",
+        "answer": "out",
+        "explanation": "Figure out."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-04",
+        "type": "choice",
+        "prompt": "We need to ___ some new ideas for the campaign.",
+        "answer": "come up with",
+        "distractors": [
+          "come up to",
+          "come out of"
+        ],
+        "explanation": "Come up with."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-05",
+        "type": "choice",
+        "prompt": "The tests were ___ by an independent lab.",
+        "answer": "carried out",
+        "distractors": [
+          "carried on",
+          "taken out"
+        ],
+        "explanation": "Carry out."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-06",
+        "type": "error",
+        "prompt": "Don't put on your visit to the dentist any longer.",
+        "answer": [
+          "on",
+          "off"
+        ],
+        "explanation": "Odkładać: put off."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-07",
+        "type": "error",
+        "prompt": "I invited her, but she turned up my invitation.",
+        "answer": [
+          "up",
+          "down"
+        ],
+        "explanation": "Odrzucić: turn down."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-08",
+        "type": "tiles",
+        "prompt": "Wymyśliliśmy nowy plan.",
+        "answer": [
+          "We",
+          "came",
+          "up",
+          "with",
+          "a",
+          "new",
+          "plan"
+        ],
+        "distractors": [
+          "to",
+          "over"
+        ],
+        "explanation": "Come up with."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-09",
+        "type": "translate",
+        "prompt": "Kończy nam się papier.",
+        "answer": "We are running out of paper.",
+        "accept": [
+          "We're running out of paper."
+        ],
+        "explanation": "Run out of."
+      },
+      {
+        "id": "b2-vocab-phrasal-verbs-advanced-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „investigate” phrasal verbem z „look”.\nThe police are investigating the case.",
+        "answer": "The police are looking into the case.",
+        "explanation": "Investigate → look into."
+      }
+    ]
+  }
+]

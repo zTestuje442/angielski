@@ -1,0 +1,315 @@
+[
+  {
+    "id": "a2-have-to-must-1",
+    "topicId": "a2-have-to-must",
+    "exercises": [
+      {
+        "id": "a2-have-to-must-1-01",
+        "type": "cloze",
+        "prompt": "I ___ to get up at 6 every day. (have / has)",
+        "answer": "have",
+        "explanation": "I + have to."
+      },
+      {
+        "id": "a2-have-to-must-1-02",
+        "type": "cloze",
+        "prompt": "She ___ to wear a uniform at work. (have / has)",
+        "answer": "has",
+        "explanation": "She + has to."
+      },
+      {
+        "id": "a2-have-to-must-1-03",
+        "type": "choice",
+        "prompt": "You ___ smoke here. It's forbidden.",
+        "answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "haven't to"
+        ],
+        "explanation": "Zakaz: mustn't."
+      },
+      {
+        "id": "a2-have-to-must-1-04",
+        "type": "choice",
+        "prompt": "It's Sunday. I ___ go to work.",
+        "answer": "don't have to",
+        "distractors": [
+          "mustn't",
+          "haven't"
+        ],
+        "explanation": "Nie muszę: don't have to."
+      },
+      {
+        "id": "a2-have-to-must-1-05",
+        "type": "cloze",
+        "prompt": "You ___ stop at a red light.",
+        "answer": "must",
+        "explanation": "Obowiązek: must (albo have to)."
+      },
+      {
+        "id": "a2-have-to-must-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "must|muszę (sam tak uważam)",
+          "have to|muszę (taka zasada)",
+          "mustn't|nie wolno",
+          "don't have to|nie muszę"
+        ],
+        "explanation": "Mustn't i don't have to znaczą co innego."
+      },
+      {
+        "id": "a2-have-to-must-1-07",
+        "type": "error",
+        "prompt": "He have to work late today.",
+        "answer": [
+          "have",
+          "has"
+        ],
+        "explanation": "He + has to."
+      },
+      {
+        "id": "a2-have-to-must-1-08",
+        "type": "tiles",
+        "prompt": "Nie musisz przychodzić.",
+        "answer": [
+          "You",
+          "don't",
+          "have",
+          "to",
+          "come"
+        ],
+        "explanation": "Nie musisz: don't have to."
+      },
+      {
+        "id": "a2-have-to-must-1-09",
+        "type": "translate",
+        "prompt": "Muszę iść do lekarza.",
+        "answer": "I have to go to the doctor.",
+        "accept": [
+          "I must go to the doctor.",
+          "I have to see a doctor.",
+          "I must see a doctor.",
+          "I have to go to the doctor's.",
+          "I must go to the doctor's."
+        ],
+        "explanation": "Muszę: have to albo must."
+      },
+      {
+        "id": "a2-have-to-must-1-10",
+        "type": "transform",
+        "prompt": "Zamień na zakaz z „mustn't”, zacznij od „You”.\nDon't touch the paintings.",
+        "answer": "You must not touch the paintings.",
+        "explanation": "Zakaz: mustn't + czasownik."
+      }
+    ]
+  },
+  {
+    "id": "a2-have-to-must-2",
+    "topicId": "a2-have-to-must",
+    "exercises": [
+      {
+        "id": "a2-have-to-must-2-01",
+        "type": "cloze",
+        "prompt": "___ you have to work on Saturdays?",
+        "answer": "Do",
+        "explanation": "Pytanie: Do + you + have to."
+      },
+      {
+        "id": "a2-have-to-must-2-02",
+        "type": "cloze",
+        "prompt": "Does he have to wear a tie? — No, he ___.",
+        "answer": "doesn't",
+        "explanation": "Krótka odpowiedź: No, he doesn't."
+      },
+      {
+        "id": "a2-have-to-must-2-03",
+        "type": "cloze",
+        "prompt": "Yesterday I ___ to stay late at work.",
+        "answer": "had",
+        "explanation": "Czas przeszły: had to."
+      },
+      {
+        "id": "a2-have-to-must-2-04",
+        "type": "choice",
+        "prompt": "___ she have to take the exam again?",
+        "answer": "Does",
+        "distractors": [
+          "Has",
+          "Must"
+        ],
+        "explanation": "Pytanie z have to: Does she have to...?"
+      },
+      {
+        "id": "a2-have-to-must-2-05",
+        "type": "choice",
+        "prompt": "We ___ to wait for an hour yesterday.",
+        "answer": "had",
+        "distractors": [
+          "have",
+          "must"
+        ],
+        "explanation": "Przeszłość: had to."
+      },
+      {
+        "id": "a2-have-to-must-2-06",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou have to pay now.",
+        "answer": "Do you have to pay now?",
+        "explanation": "Do + you + have to."
+      },
+      {
+        "id": "a2-have-to-must-2-07",
+        "type": "transform",
+        "prompt": "Zmień na czas przeszły.\nI have to walk to school.",
+        "answer": "I had to walk to school.",
+        "explanation": "Have to → had to."
+      },
+      {
+        "id": "a2-have-to-must-2-08",
+        "type": "tiles",
+        "prompt": "Czy musimy kupić bilety?",
+        "answer": [
+          "Do",
+          "we",
+          "have",
+          "to",
+          "buy",
+          "tickets"
+        ],
+        "explanation": "Do + we + have to."
+      },
+      {
+        "id": "a2-have-to-must-2-09",
+        "type": "error",
+        "prompt": "Did you had to wait long?",
+        "answer": [
+          "had",
+          "have"
+        ],
+        "explanation": "Po did forma podstawowa: have to."
+      },
+      {
+        "id": "a2-have-to-must-2-10",
+        "type": "translate",
+        "prompt": "Nie wolno ci tu parkować.",
+        "answer": "You must not park here.",
+        "accept": [
+          "You cannot park here.",
+          "You are not allowed to park here."
+        ],
+        "explanation": "Zakaz: mustn't."
+      }
+    ]
+  },
+  {
+    "id": "a2-have-to-must-3",
+    "topicId": "a2-have-to-must",
+    "exercises": [
+      {
+        "id": "a2-have-to-must-3-01",
+        "type": "choice",
+        "prompt": "You ___ be 18 to drive a car in Poland.",
+        "answer": "have to",
+        "distractors": [
+          "don't have to",
+          "mustn't"
+        ],
+        "explanation": "Taka zasada: have to."
+      },
+      {
+        "id": "a2-have-to-must-3-02",
+        "type": "choice",
+        "prompt": "Students ___ use phones during the exam.",
+        "answer": "mustn't",
+        "distractors": [
+          "don't have to",
+          "have to"
+        ],
+        "explanation": "Zakaz: mustn't."
+      },
+      {
+        "id": "a2-have-to-must-3-03",
+        "type": "choice",
+        "prompt": "You ___ bring food. There will be a lot.",
+        "answer": "don't have to",
+        "distractors": [
+          "mustn't",
+          "have to"
+        ],
+        "explanation": "Nie ma potrzeby: don't have to."
+      },
+      {
+        "id": "a2-have-to-must-3-04",
+        "type": "cloze",
+        "prompt": "I ___ remember to call Mum. It's her birthday.",
+        "answer": "must",
+        "explanation": "Sam uważam, że to ważne: must."
+      },
+      {
+        "id": "a2-have-to-must-3-05",
+        "type": "cloze",
+        "prompt": "My brother doesn't ___ to work this week. He's on holiday.",
+        "answer": "have",
+        "explanation": "Doesn't have to."
+      },
+      {
+        "id": "a2-have-to-must-3-06",
+        "type": "match",
+        "prompt": "Połącz znaczenie ze zdaniem.",
+        "answer": [
+          "It's not allowed.|You mustn't do it.",
+          "It's not necessary.|You don't have to do it.",
+          "It's necessary.|You have to do it."
+        ],
+        "explanation": "Zakaz, brak potrzeby, konieczność."
+      },
+      {
+        "id": "a2-have-to-must-3-07",
+        "type": "error",
+        "prompt": "She musts go now.",
+        "answer": [
+          "musts",
+          "must"
+        ],
+        "explanation": "Must nie dostaje -s."
+      },
+      {
+        "id": "a2-have-to-must-3-08",
+        "type": "error",
+        "prompt": "Do I has to sign here?",
+        "answer": [
+          "has",
+          "have"
+        ],
+        "explanation": "Po do forma podstawowa: have to."
+      },
+      {
+        "id": "a2-have-to-must-3-09",
+        "type": "tiles",
+        "prompt": "Musiałem pracować w weekend.",
+        "answer": [
+          "I",
+          "had",
+          "to",
+          "work",
+          "at",
+          "the",
+          "weekend"
+        ],
+        "explanation": "Przeszłość: had to."
+      },
+      {
+        "id": "a2-have-to-must-3-10",
+        "type": "translate",
+        "prompt": "Nie musisz mi pomagać.",
+        "answer": "You do not have to help me.",
+        "accept": [
+          "You do not need to help me.",
+          "You needn't help me."
+        ],
+        "explanation": "Nie musisz: don't have to."
+      }
+    ]
+  }
+]

@@ -1,0 +1,318 @@
+[
+  {
+    "id": "a1-prepositions-in-on-at-1",
+    "topicId": "a1-prepositions-in-on-at",
+    "exercises": [
+      {
+        "id": "a1-prepositions-in-on-at-1-01",
+        "type": "cloze",
+        "prompt": "My birthday is ___ May.",
+        "answer": "in",
+        "explanation": "Miesiąc: in."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-02",
+        "type": "cloze",
+        "prompt": "The lesson starts ___ 9 o'clock.",
+        "answer": "at",
+        "explanation": "Godzina: at."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-03",
+        "type": "cloze",
+        "prompt": "We don't work ___ Sundays.",
+        "answer": "on",
+        "explanation": "Dzień tygodnia: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-04",
+        "type": "choice",
+        "prompt": "I was born ___ 2001.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "Rok: in."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-05",
+        "type": "choice",
+        "prompt": "See you ___ Friday!",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "Dzień tygodnia: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-06",
+        "type": "choice",
+        "prompt": "I go to bed late ___ night.",
+        "answer": "at",
+        "distractors": [
+          "in",
+          "on"
+        ],
+        "explanation": "Wyjątek: at night."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-07",
+        "type": "match",
+        "prompt": "Połącz przyimek z określeniem czasu.",
+        "answer": [
+          "in|July",
+          "on|Monday",
+          "at|5 p.m."
+        ],
+        "explanation": "Miesiąc – in, dzień – on, godzina – at."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-08",
+        "type": "error",
+        "prompt": "The party is in Saturday.",
+        "answer": [
+          "in",
+          "on"
+        ],
+        "explanation": "Dzień tygodnia: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-09",
+        "type": "tiles",
+        "prompt": "Spotkajmy się o szóstej.",
+        "answer": [
+          "Let's",
+          "meet",
+          "at",
+          "six"
+        ],
+        "explanation": "Godzina: at."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-1-10",
+        "type": "translate",
+        "prompt": "Zimą jeździmy na nartach.",
+        "answer": "We ski in winter.",
+        "accept": [
+          "We go skiing in winter.",
+          "In winter we ski.",
+          "In winter we go skiing.",
+          "We ski in the winter.",
+          "We go skiing in the winter."
+        ],
+        "explanation": "Pora roku: in."
+      }
+    ]
+  },
+  {
+    "id": "a1-prepositions-in-on-at-2",
+    "topicId": "a1-prepositions-in-on-at",
+    "exercises": [
+      {
+        "id": "a1-prepositions-in-on-at-2-01",
+        "type": "cloze",
+        "prompt": "The keys are ___ the table.",
+        "answer": "on",
+        "explanation": "Na powierzchni: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-02",
+        "type": "cloze",
+        "prompt": "My parents live ___ Gdańsk.",
+        "answer": "in",
+        "hint": "W środku miasta, nie w punkcie.",
+        "explanation": "Miasto: in."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-03",
+        "type": "cloze",
+        "prompt": "I'm waiting for you ___ the bus stop.",
+        "answer": "at",
+        "explanation": "Punkt, miejsce: at."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-04",
+        "type": "choice",
+        "prompt": "The milk is ___ the fridge.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "W środku: in."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-05",
+        "type": "choice",
+        "prompt": "There is a picture ___ the wall.",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "Na ścianie: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-06",
+        "type": "choice",
+        "prompt": "She is ___ work now.",
+        "answer": "at",
+        "distractors": [
+          "in",
+          "on"
+        ],
+        "explanation": "W pracy: at work."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-07",
+        "type": "error",
+        "prompt": "My sister is in home.",
+        "answer": [
+          "in",
+          "at"
+        ],
+        "explanation": "W domu: at home."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-08",
+        "type": "tiles",
+        "prompt": "Kot jest na kanapie.",
+        "answer": [
+          "The",
+          "cat",
+          "is",
+          "on",
+          "the",
+          "sofa"
+        ],
+        "explanation": "Na powierzchni: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-09",
+        "type": "translate",
+        "prompt": "Jestem w pracy.",
+        "answer": "I am at work.",
+        "explanation": "W pracy: at work."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-2-10",
+        "type": "match",
+        "prompt": "Połącz wyrażenia.",
+        "answer": [
+          "na stole|on the table",
+          "w kuchni|in the kitchen",
+          "na przystanku|at the bus stop",
+          "w szkole|at school"
+        ],
+        "explanation": "On – powierzchnia, in – wnętrze, at – punkt."
+      }
+    ]
+  },
+  {
+    "id": "a1-prepositions-in-on-at-3",
+    "topicId": "a1-prepositions-in-on-at",
+    "exercises": [
+      {
+        "id": "a1-prepositions-in-on-at-3-01",
+        "type": "cloze",
+        "prompt": "The shop opens ___ 8 a.m.",
+        "answer": "at",
+        "explanation": "Godzina: at."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-02",
+        "type": "cloze",
+        "prompt": "We have a meeting ___ Tuesday morning.",
+        "answer": "on",
+        "explanation": "Dzień tygodnia (nawet z porą dnia): on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-03",
+        "type": "cloze",
+        "prompt": "It's cold here ___ December.",
+        "answer": "in",
+        "explanation": "Miesiąc: in."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-04",
+        "type": "choice",
+        "prompt": "Your bag is ___ the floor.",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "Na podłodze: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-05",
+        "type": "choice",
+        "prompt": "I'll see you ___ the morning.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "at"
+        ],
+        "explanation": "Część dnia: in the morning."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-06",
+        "type": "tiles",
+        "prompt": "Moje urodziny są w czerwcu.",
+        "answer": [
+          "My",
+          "birthday",
+          "is",
+          "in",
+          "June"
+        ],
+        "explanation": "Miesiąc: in."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-07",
+        "type": "error",
+        "prompt": "I live at Poland.",
+        "answer": [
+          "at",
+          "in"
+        ],
+        "explanation": "Kraj: in."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-08",
+        "type": "error",
+        "prompt": "The film starts on 8 p.m.",
+        "answer": [
+          "on",
+          "at"
+        ],
+        "explanation": "Godzina: at."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-09",
+        "type": "transform",
+        "prompt": "Uzupełnij przyimkiem i napisz całe zdanie.\nWe play tennis ___ Saturdays.",
+        "answer": "We play tennis on Saturdays.",
+        "explanation": "Dni tygodnia: on."
+      },
+      {
+        "id": "a1-prepositions-in-on-at-3-10",
+        "type": "translate",
+        "prompt": "Spotkajmy się w kawiarni o piątej.",
+        "answer": "Let's meet at the café at five.",
+        "accept": [
+          "Let's meet in the café at five.",
+          "Let's meet at the cafe at five.",
+          "Let's meet in the cafe at five.",
+          "Let's meet at the café at 5.",
+          "Let's meet in the café at 5.",
+          "Let's meet at the cafe at 5.",
+          "Let's meet in the cafe at 5."
+        ],
+        "explanation": "O piątej: at five; w kawiarni: at albo in."
+      }
+    ]
+  }
+]

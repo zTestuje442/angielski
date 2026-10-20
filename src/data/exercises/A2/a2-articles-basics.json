@@ -1,0 +1,308 @@
+[
+  {
+    "id": "a2-articles-basics-1",
+    "topicId": "a2-articles-basics",
+    "exercises": [
+      {
+        "id": "a2-articles-basics-1-01",
+        "type": "cloze",
+        "prompt": "I've got ___ dog. The dog is called Max.",
+        "answer": "a",
+        "explanation": "Pierwszy raz: a."
+      },
+      {
+        "id": "a2-articles-basics-1-02",
+        "type": "cloze",
+        "prompt": "I saw a film yesterday. ___ film was great.",
+        "answer": "The",
+        "explanation": "Już wspomniany: the."
+      },
+      {
+        "id": "a2-articles-basics-1-03",
+        "type": "choice",
+        "prompt": "___ sun is very hot today.",
+        "answer": "The",
+        "distractors": [
+          "A",
+          "An"
+        ],
+        "explanation": "Jedyne słońce: the."
+      },
+      {
+        "id": "a2-articles-basics-1-04",
+        "type": "choice",
+        "prompt": "Wybierz zdanie o muzyce w ogóle.",
+        "answer": "I love music.",
+        "distractors": [
+          "I love a music.",
+          "I love musics."
+        ],
+        "explanation": "Rzeczy w ogóle: bez przedimka."
+      },
+      {
+        "id": "a2-articles-basics-1-05",
+        "type": "cloze",
+        "prompt": "Can you close ___ door, please?",
+        "answer": "the",
+        "explanation": "Konkretne drzwi, wiadomo które: the."
+      },
+      {
+        "id": "a2-articles-basics-1-06",
+        "type": "cloze",
+        "prompt": "She's ___ engineer.",
+        "answer": "an",
+        "explanation": "Zawód: a/an; engineer od samogłoski."
+      },
+      {
+        "id": "a2-articles-basics-1-07",
+        "type": "match",
+        "prompt": "Połącz przedimek z zastosowaniem.",
+        "answer": [
+          "a / an|jedna z wielu, pierwszy raz",
+          "the|ta konkretna, już znana",
+          "brak przedimka|rzeczy w ogóle"
+        ],
+        "explanation": "Trzy podstawowe zasady."
+      },
+      {
+        "id": "a2-articles-basics-1-08",
+        "type": "error",
+        "prompt": "She is a best student in the class.",
+        "answer": [
+          "a",
+          "the"
+        ],
+        "explanation": "Stopień najwyższy: the best."
+      },
+      {
+        "id": "a2-articles-basics-1-09",
+        "type": "tiles",
+        "prompt": "Słońce wschodzi na wschodzie.",
+        "answer": [
+          "The",
+          "sun",
+          "rises",
+          "in",
+          "the",
+          "east"
+        ],
+        "explanation": "Jedyne: the sun, the east."
+      },
+      {
+        "id": "a2-articles-basics-1-10",
+        "type": "translate",
+        "prompt": "Lubię koty.",
+        "answer": "I like cats.",
+        "explanation": "Koty w ogóle: bez przedimka."
+      }
+    ]
+  },
+  {
+    "id": "a2-articles-basics-2",
+    "topicId": "a2-articles-basics",
+    "exercises": [
+      {
+        "id": "a2-articles-basics-2-01",
+        "type": "cloze",
+        "prompt": "I go to ___ cinema on Fridays.",
+        "answer": "the",
+        "explanation": "Go to the cinema."
+      },
+      {
+        "id": "a2-articles-basics-2-02",
+        "type": "cloze",
+        "prompt": "She plays ___ piano very well.",
+        "answer": "the",
+        "explanation": "Instrumenty: the piano."
+      },
+      {
+        "id": "a2-articles-basics-2-03",
+        "type": "cloze",
+        "prompt": "We went to ___ beach.",
+        "answer": "the",
+        "explanation": "Go to the beach."
+      },
+      {
+        "id": "a2-articles-basics-2-04",
+        "type": "choice",
+        "prompt": "He goes to work by ___.",
+        "answer": "bus",
+        "distractors": [
+          "the bus",
+          "a bus"
+        ],
+        "explanation": "By bus – bez przedimka."
+      },
+      {
+        "id": "a2-articles-basics-2-05",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "I watch TV in the evening.",
+        "distractors": [
+          "I watch the TV in the evening.",
+          "I watch a TV in the evening."
+        ],
+        "explanation": "Watch TV bez przedimka."
+      },
+      {
+        "id": "a2-articles-basics-2-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "play the guitar|grać na gitarze",
+          "play football|grać w piłkę",
+          "go to bed|iść spać",
+          "have lunch|jeść obiad"
+        ],
+        "explanation": "Instrumenty z the, sporty i posiłki bez."
+      },
+      {
+        "id": "a2-articles-basics-2-07",
+        "type": "error",
+        "prompt": "Can you play a piano?",
+        "answer": [
+          "a",
+          "the"
+        ],
+        "explanation": "Instrumenty: the piano."
+      },
+      {
+        "id": "a2-articles-basics-2-08",
+        "type": "error",
+        "prompt": "She is an teacher.",
+        "answer": [
+          "an",
+          "a"
+        ],
+        "explanation": "Teacher od spółgłoski: a."
+      },
+      {
+        "id": "a2-articles-basics-2-09",
+        "type": "tiles",
+        "prompt": "Gram na skrzypcach.",
+        "answer": [
+          "I",
+          "play",
+          "the",
+          "violin"
+        ],
+        "explanation": "Instrument: the violin."
+      },
+      {
+        "id": "a2-articles-basics-2-10",
+        "type": "translate",
+        "prompt": "Jadę do pracy autobusem.",
+        "answer": "I go to work by bus.",
+        "accept": [
+          "I take the bus to work.",
+          "I travel to work by bus."
+        ],
+        "explanation": "Go to work, by bus – bez przedimków."
+      }
+    ]
+  },
+  {
+    "id": "a2-articles-basics-3",
+    "topicId": "a2-articles-basics",
+    "exercises": [
+      {
+        "id": "a2-articles-basics-3-01",
+        "type": "cloze",
+        "prompt": "This is ___ best day of my life.",
+        "answer": "the",
+        "explanation": "Stopień najwyższy: the."
+      },
+      {
+        "id": "a2-articles-basics-3-02",
+        "type": "cloze",
+        "prompt": "There's ___ man at the door.",
+        "answer": "a",
+        "explanation": "Pierwszy raz: a."
+      },
+      {
+        "id": "a2-articles-basics-3-03",
+        "type": "cloze",
+        "prompt": "Where's ___ man who called you?",
+        "answer": "the",
+        "explanation": "Konkretny człowiek: the."
+      },
+      {
+        "id": "a2-articles-basics-3-04",
+        "type": "choice",
+        "prompt": "Is there ___ bank near here?",
+        "answer": "a",
+        "distractors": [
+          "the",
+          "an"
+        ],
+        "explanation": "Jakiś bank: a."
+      },
+      {
+        "id": "a2-articles-basics-3-05",
+        "type": "choice",
+        "prompt": "___ Moon goes round the Earth.",
+        "answer": "The",
+        "distractors": [
+          "A",
+          "An"
+        ],
+        "explanation": "Jedyny Księżyc: the."
+      },
+      {
+        "id": "a2-articles-basics-3-06",
+        "type": "choice",
+        "prompt": "Which is correct?",
+        "answer": "Dogs are friendly animals.",
+        "distractors": [
+          "A dogs are friendly animals.",
+          "Dog are friendly animals."
+        ],
+        "explanation": "W ogóle: liczba mnoga bez przedimka."
+      },
+      {
+        "id": "a2-articles-basics-3-07",
+        "type": "error",
+        "prompt": "I'd like a apple.",
+        "answer": [
+          "a",
+          "an"
+        ],
+        "explanation": "Apple od samogłoski: an."
+      },
+      {
+        "id": "a2-articles-basics-3-08",
+        "type": "error",
+        "prompt": "What's a name of this street?",
+        "answer": [
+          "a",
+          "the"
+        ],
+        "explanation": "Konkretna nazwa: the name."
+      },
+      {
+        "id": "a2-articles-basics-3-09",
+        "type": "tiles",
+        "prompt": "Mój brat jest pilotem.",
+        "answer": [
+          "My",
+          "brother",
+          "is",
+          "a",
+          "pilot"
+        ],
+        "explanation": "Zawód: a pilot."
+      },
+      {
+        "id": "a2-articles-basics-3-10",
+        "type": "translate",
+        "prompt": "Czy możesz otworzyć okno?",
+        "answer": "Can you open the window?",
+        "accept": [
+          "Could you open the window?",
+          "Will you open the window?"
+        ],
+        "explanation": "Konkretne okno: the."
+      }
+    ]
+  }
+]

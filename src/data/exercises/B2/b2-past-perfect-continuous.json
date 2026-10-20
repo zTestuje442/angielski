@@ -1,0 +1,339 @@
+[
+  {
+    "id": "b2-past-perfect-continuous-1",
+    "topicId": "b2-past-perfect-continuous",
+    "exercises": [
+      {
+        "id": "b2-past-perfect-continuous-1-01",
+        "type": "cloze",
+        "prompt": "She was tired because she had ___ working all day. (be)",
+        "answer": "been",
+        "explanation": "Had been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-02",
+        "type": "cloze",
+        "prompt": "We had been ___ for two hours when the bus finally came. (wait)",
+        "answer": "waiting",
+        "explanation": "Had been + waiting."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-03",
+        "type": "choice",
+        "prompt": "His eyes were red. He ___.",
+        "answer": "had been crying",
+        "distractors": [
+          "has been crying",
+          "cried been"
+        ],
+        "explanation": "Ślady w przeszłości: had been crying."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-04",
+        "type": "choice",
+        "prompt": "How long ___ you been living there before you moved?",
+        "answer": "had",
+        "distractors": [
+          "have",
+          "were"
+        ],
+        "explanation": "How long had you been...?"
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-05",
+        "type": "cloze",
+        "prompt": "The ground was wet. It ___ raining. (had / has)",
+        "answer": "had been",
+        "explanation": "Had been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "had been waiting|czekał (do jakiegoś momentu)",
+          "had waited|czekał (skończone wcześniej)",
+          "has been waiting|czeka (do teraz)",
+          "was waiting|czekał (w tamtej chwili)"
+        ],
+        "explanation": "Cztery czasy z „wait”."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-07",
+        "type": "error",
+        "prompt": "They had been play football before it started to rain.",
+        "answer": [
+          "play",
+          "playing"
+        ],
+        "explanation": "Had been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-08",
+        "type": "tiles",
+        "prompt": "Mieszkała w Paryżu od dwóch lat, kiedy go poznała.",
+        "answer": [
+          "She",
+          "had",
+          "been",
+          "living",
+          "in",
+          "Paris",
+          "for",
+          "two",
+          "years",
+          "when",
+          "she",
+          "met",
+          "him"
+        ],
+        "distractors": [
+          "has",
+          "since"
+        ],
+        "explanation": "Had been living + for."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-09",
+        "type": "translate",
+        "prompt": "Byłem zmęczony, bo cały dzień biegałem.",
+        "answer": "I was tired because I had been running all day.",
+        "explanation": "Przyczyna w przeszłości: had been running."
+      },
+      {
+        "id": "b2-past-perfect-continuous-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj Past Perfect Continuous i „for two hours”.\nI started waiting at 5. At 7 she arrived.",
+        "answer": "I had been waiting for two hours when she arrived.",
+        "explanation": "Had been waiting + for."
+      }
+    ]
+  },
+  {
+    "id": "b2-past-perfect-continuous-2",
+    "topicId": "b2-past-perfect-continuous",
+    "exercises": [
+      {
+        "id": "b2-past-perfect-continuous-2-01",
+        "type": "cloze",
+        "prompt": "How long had you ___ studying before you took the exam? (be)",
+        "answer": "been",
+        "explanation": "Had been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-02",
+        "type": "cloze",
+        "prompt": "He ___ well, so he made a lot of mistakes. (not / sleep)",
+        "answer": "hadn't been sleeping",
+        "accept": [
+          "had not been sleeping"
+        ],
+        "explanation": "Przeczenie: hadn't been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-03",
+        "type": "choice",
+        "prompt": "When I found the keys, I ___ for them for an hour.",
+        "answer": "had been looking",
+        "distractors": [
+          "have been looking",
+          "was look"
+        ],
+        "explanation": "Had been looking."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-04",
+        "type": "choice",
+        "prompt": "The kitchen smelled great. Mum ___.",
+        "answer": "had been baking",
+        "distractors": [
+          "has been baking",
+          "bakes"
+        ],
+        "explanation": "Ślady w przeszłości: had been baking."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-05",
+        "type": "choice",
+        "prompt": "They were out of breath because they ___.",
+        "answer": "had been running",
+        "distractors": [
+          "have been running",
+          "run"
+        ],
+        "explanation": "Przyczyna w przeszłości."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-06",
+        "type": "transform",
+        "prompt": "Zadaj pytanie z „How long”.\nThey had been dating for a year.",
+        "answer": "How long had they been dating?",
+        "explanation": "How long + had + they + been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-07",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nShe had been feeling well.",
+        "answer": "She had not been feeling well.",
+        "explanation": "Hadn't been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-08",
+        "type": "tiles",
+        "prompt": "Od jak dawna padało, zanim wyszedłeś?",
+        "answer": [
+          "How",
+          "long",
+          "had",
+          "it",
+          "been",
+          "raining",
+          "before",
+          "you",
+          "left"
+        ],
+        "distractors": [
+          "has",
+          "was"
+        ],
+        "explanation": "How long had it been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-09",
+        "type": "error",
+        "prompt": "I had been worked hard all week.",
+        "answer": [
+          "worked",
+          "working"
+        ],
+        "explanation": "Had been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-2-10",
+        "type": "translate",
+        "prompt": "Od godziny czekali, kiedy zaczęło padać.",
+        "answer": "They had been waiting for an hour when it started to rain.",
+        "accept": [
+          "They had been waiting for an hour when it began to rain."
+        ],
+        "explanation": "Had been waiting + for."
+      }
+    ]
+  },
+  {
+    "id": "b2-past-perfect-continuous-3",
+    "topicId": "b2-past-perfect-continuous",
+    "exercises": [
+      {
+        "id": "b2-past-perfect-continuous-3-01",
+        "type": "choice",
+        "prompt": "By the time I got there, she ___ three cups of coffee.",
+        "answer": "had drunk",
+        "distractors": [
+          "had been drinking",
+          "drank been"
+        ],
+        "explanation": "Ile: simple."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-02",
+        "type": "choice",
+        "prompt": "She was nervous because she ___ coffee all morning.",
+        "answer": "had been drinking",
+        "distractors": [
+          "had drunk",
+          "was drink"
+        ],
+        "explanation": "Jak długo: continuous."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-03",
+        "type": "cloze",
+        "prompt": "I ___ the book, so I knew how it ended. (read)",
+        "answer": "had read",
+        "explanation": "Wynik: had read."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-04",
+        "type": "cloze",
+        "prompt": "I ___ for an hour when the lights went out. (read)",
+        "answer": "had been reading",
+        "explanation": "Jak długo: had been reading."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-05",
+        "type": "cloze",
+        "prompt": "He had been ___ for six hours, so he stopped for a rest. (drive)",
+        "answer": "driving",
+        "explanation": "Had been driving."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-06",
+        "type": "match",
+        "prompt": "Połącz znaczenie z przykładem.",
+        "answer": [
+          "ile, wynik|She had written three letters.",
+          "jak długo, czynność|She had been writing for hours."
+        ],
+        "explanation": "Simple czy continuous."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-07",
+        "type": "error",
+        "prompt": "I was exhausted because I had been work since dawn.",
+        "answer": [
+          "work",
+          "working"
+        ],
+        "explanation": "Had been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-08",
+        "type": "tiles",
+        "prompt": "Byli małżeństwem od dwudziestu lat, kiedy się rozwiedli.",
+        "answer": [
+          "They",
+          "had",
+          "been",
+          "married",
+          "for",
+          "twenty",
+          "years",
+          "when",
+          "they",
+          "divorced"
+        ],
+        "distractors": [
+          "have",
+          "since"
+        ],
+        "explanation": "Stan: had been married."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-09",
+        "type": "translate",
+        "prompt": "Jak długo się uczyłeś, zanim zdałeś?",
+        "answer": "How long had you been studying before you passed?",
+        "accept": [
+          "How long had you been learning before you passed?",
+          "How long had you studied before you passed?"
+        ],
+        "explanation": "How long had you been + -ing."
+      },
+      {
+        "id": "b2-past-perfect-continuous-3-10",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj Past Perfect Simple.\nThe guests left. Then we arrived.",
+        "answer": "The guests had left when we arrived.",
+        "accept": [
+          "When we arrived, the guests had left.",
+          "When we arrived, the guests had already left.",
+          "The guests had already left when we arrived.",
+          "By the time we arrived, the guests had left.",
+          "By the time we arrived, the guests had already left."
+        ],
+        "explanation": "Wcześniejsze: had left."
+      }
+    ]
+  }
+]

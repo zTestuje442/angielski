@@ -1,0 +1,100 @@
+{
+  "id": "b1-reading-article-1",
+  "topicId": "b1-reading-article",
+  "title": "Is a four-day week the future of work?",
+  "text": "Imagine finishing work on Thursday afternoon and having a three-day weekend every week – without earning less money. For a growing number of employees around the world, this is no longer just a dream. In the last few years, many companies have tested a four-day working week, and some of them have decided to keep it.\n\nThe idea is simple: people work fewer hours, but they are expected to get the same amount of work done. Supporters say this is possible because tired workers are not very productive. With an extra day off, employees can rest, spend time with their families, do sport or deal with personal matters such as doctor's appointments. As a result, they come back to work with more energy and concentrate better.\n\nCompanies that have tried it often report that their staff are happier and less stressed, and that fewer people take sick days or leave for other jobs. Some managers also say that meetings have become shorter, because everybody knows there is less time to waste.\n\nHowever, the four-day week does not work for everyone. In hospitals, schools or shops, someone has to be there five, six or even seven days a week. For these organisations, giving everybody an extra day off would mean employing more people, which is expensive. Some workers also say that squeezing five days of work into four makes their days long and stressful.\n\nExperts agree that there is no single solution. Perhaps the most important lesson from the experiments is that the traditional nine-to-five, five-day week is not the only way to organise our working lives.",
+  "exercises": [
+    {
+      "id": "b1-reading-article-1-01",
+      "type": "choice",
+      "prompt": "In a four-day week, employees usually earn less money.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...without earning less money.”"
+    },
+    {
+      "id": "b1-reading-article-1-02",
+      "type": "choice",
+      "prompt": "Some companies decided to continue with the four-day week after testing it.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...some of them have decided to keep it.”"
+    },
+    {
+      "id": "b1-reading-article-1-03",
+      "type": "choice",
+      "prompt": "Most workers in Poland already have a four-day week.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi nic o Polsce."
+    },
+    {
+      "id": "b1-reading-article-1-04",
+      "type": "choice",
+      "prompt": "Why do supporters think the idea works?",
+      "answer": "Rested workers are more productive.",
+      "distractors": [
+        "Companies can pay less.",
+        "People enjoy longer meetings."
+      ],
+      "explanation": "„...tired workers are not very productive.”"
+    },
+    {
+      "id": "b1-reading-article-1-05",
+      "type": "choice",
+      "prompt": "Why is the four-day week difficult for hospitals and shops?",
+      "answer": "They need staff almost every day.",
+      "distractors": [
+        "Their workers are not productive.",
+        "They don't want shorter meetings."
+      ],
+      "explanation": "„...someone has to be there five, six or even seven days a week.”"
+    },
+    {
+      "id": "b1-reading-article-1-06",
+      "type": "choice",
+      "prompt": "What problem do some workers mention?",
+      "answer": "Their working days become long and stressful.",
+      "distractors": [
+        "They can't see their families.",
+        "They earn less money."
+      ],
+      "explanation": "„...squeezing five days of work into four makes their days long and stressful.”"
+    },
+    {
+      "id": "b1-reading-article-1-07",
+      "type": "cloze",
+      "prompt": "Fewer people take sick ___ or leave for other jobs.",
+      "answer": "days",
+      "explanation": "Zwolnienia lekarskie: sick days."
+    },
+    {
+      "id": "b1-reading-article-1-08",
+      "type": "cloze",
+      "prompt": "Meetings have become ___, because there is less time to waste.",
+      "answer": "shorter",
+      "explanation": "Krótsze: shorter."
+    },
+    {
+      "id": "b1-reading-article-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "productive|wydajny",
+        "employee|pracownik",
+        "squeeze|wcisnąć, upchnąć",
+        "experiment|eksperyment"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

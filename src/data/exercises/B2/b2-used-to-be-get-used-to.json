@@ -1,0 +1,317 @@
+[
+  {
+    "id": "b2-used-to-be-get-used-to-1",
+    "topicId": "b2-used-to-be-get-used-to",
+    "exercises": [
+      {
+        "id": "b2-used-to-be-get-used-to-1-01",
+        "type": "cloze",
+        "prompt": "I ___ to live in London, but now I live in Leeds.",
+        "answer": "used",
+        "explanation": "Kiedyś: used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-02",
+        "type": "cloze",
+        "prompt": "I'm used to ___ at night. (work)",
+        "answer": "working",
+        "explanation": "Be used to + -ing."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-03",
+        "type": "choice",
+        "prompt": "She isn't used to ___ so early.",
+        "answer": "getting up",
+        "distractors": [
+          "get up",
+          "got up"
+        ],
+        "explanation": "Be used to + -ing."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-04",
+        "type": "choice",
+        "prompt": "It took me a while to ___ used to the cold.",
+        "answer": "get",
+        "distractors": [
+          "be",
+          "use"
+        ],
+        "explanation": "Proces: get used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-05",
+        "type": "cloze",
+        "prompt": "Did you ___ to play the piano as a child?",
+        "answer": "use",
+        "explanation": "Pytanie: Did you use to...?"
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-06",
+        "type": "match",
+        "prompt": "Połącz konstrukcje ze znaczeniem.",
+        "answer": [
+          "used to do|kiedyś coś robić",
+          "be used to doing|być przyzwyczajonym",
+          "get used to doing|przyzwyczajać się",
+          "usually do|zwykle robić (teraz)"
+        ],
+        "explanation": "Trzy konstrukcje."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-07",
+        "type": "error",
+        "prompt": "I'm used to drive on the left now.",
+        "answer": [
+          "drive",
+          "driving"
+        ],
+        "explanation": "Be used to + -ing."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-08",
+        "type": "tiles",
+        "prompt": "Przyzwyczaiłem się do mieszkania samemu.",
+        "answer": [
+          "I've",
+          "got",
+          "used",
+          "to",
+          "living",
+          "alone"
+        ],
+        "distractors": [
+          "live",
+          "use"
+        ],
+        "explanation": "Get used to + -ing."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-09",
+        "type": "translate",
+        "prompt": "Kiedyś paliłem.",
+        "answer": "I used to smoke.",
+        "explanation": "Kiedyś, a teraz nie: used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-1-10",
+        "type": "transform",
+        "prompt": "Zamień na „be used to”, zacznij od „I am used to”.\nWorking long hours isn't a problem for me now.",
+        "answer": "I am used to working long hours.",
+        "explanation": "Be used to + -ing."
+      }
+    ]
+  },
+  {
+    "id": "b2-used-to-be-get-used-to-2",
+    "topicId": "b2-used-to-be-get-used-to",
+    "exercises": [
+      {
+        "id": "b2-used-to-be-get-used-to-2-01",
+        "type": "cloze",
+        "prompt": "Are you used ___ the noise yet?",
+        "answer": "to",
+        "explanation": "Be used to + rzeczownik."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-02",
+        "type": "cloze",
+        "prompt": "You'll soon get used to ___ glasses. (wear)",
+        "answer": "wearing",
+        "explanation": "Get used to + -ing."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-03",
+        "type": "choice",
+        "prompt": "When I moved to Spain, I couldn't ___ used to eating dinner at 10 p.m.",
+        "answer": "get",
+        "distractors": [
+          "be",
+          "used"
+        ],
+        "explanation": "Proces: get used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-04",
+        "type": "choice",
+        "prompt": "There ___ be a cinema here.",
+        "answer": "used to",
+        "distractors": [
+          "is used to",
+          "gets used to"
+        ],
+        "explanation": "Kiedyś: used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-05",
+        "type": "choice",
+        "prompt": "He ___ used to working under pressure – he's a doctor.",
+        "answer": "is",
+        "distractors": [
+          "gets",
+          "uses"
+        ],
+        "explanation": "Stan: be used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nI'm used to cold weather.",
+        "answer": "I am not used to cold weather.",
+        "explanation": "Not used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou used to have long hair.",
+        "answer": "Did you use to have long hair?",
+        "explanation": "Did + use to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-08",
+        "type": "tiles",
+        "prompt": "Nie mogę się przyzwyczaić do nowej pracy.",
+        "answer": [
+          "I",
+          "can't",
+          "get",
+          "used",
+          "to",
+          "my",
+          "new",
+          "job"
+        ],
+        "distractors": [
+          "be",
+          "use"
+        ],
+        "explanation": "Get used to + rzeczownik."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-09",
+        "type": "error",
+        "prompt": "I'm slowly getting use to it.",
+        "answer": [
+          "use",
+          "used"
+        ],
+        "explanation": "Getting used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-2-10",
+        "type": "translate",
+        "prompt": "Jestem przyzwyczajony do wczesnego wstawania.",
+        "answer": "I am used to getting up early.",
+        "accept": [
+          "I am used to waking up early.",
+          "I am accustomed to getting up early."
+        ],
+        "explanation": "Be used to + -ing."
+      }
+    ]
+  },
+  {
+    "id": "b2-used-to-be-get-used-to-3",
+    "topicId": "b2-used-to-be-get-used-to",
+    "exercises": [
+      {
+        "id": "b2-used-to-be-get-used-to-3-01",
+        "type": "choice",
+        "prompt": "I ___ a lot of coffee, but now I prefer tea.",
+        "answer": "used to drink",
+        "distractors": [
+          "am used to drinking",
+          "get used to drink"
+        ],
+        "explanation": "Kiedyś: used to + czasownik."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-02",
+        "type": "choice",
+        "prompt": "It's hard to ___ working nights.",
+        "answer": "get used to",
+        "distractors": [
+          "use to",
+          "used to"
+        ],
+        "explanation": "Przyzwyczaić się: get used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-03",
+        "type": "cloze",
+        "prompt": "My grandparents never got used ___ using smartphones.",
+        "answer": "to",
+        "explanation": "Get used to + -ing."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-04",
+        "type": "cloze",
+        "prompt": "We ___ used to the heat by the end of the holiday.",
+        "answer": "got",
+        "explanation": "Przyzwyczailiśmy się: got used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-05",
+        "type": "cloze",
+        "prompt": "I didn't ___ to like spicy food.",
+        "answer": "use",
+        "explanation": "Przeczenie: didn't use to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-06",
+        "type": "error",
+        "prompt": "Have you got used to live here?",
+        "answer": [
+          "live",
+          "living"
+        ],
+        "explanation": "Get used to + -ing."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-07",
+        "type": "error",
+        "prompt": "I am not use to this kind of food.",
+        "answer": [
+          "use",
+          "used"
+        ],
+        "explanation": "Be used to."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-08",
+        "type": "tiles",
+        "prompt": "Kiedyś mieliśmy psa.",
+        "answer": [
+          "We",
+          "used",
+          "to",
+          "have",
+          "a",
+          "dog"
+        ],
+        "distractors": [
+          "having",
+          "were"
+        ],
+        "explanation": "Kiedyś: used to + have."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-09",
+        "type": "translate",
+        "prompt": "Przyzwyczaisz się do tego.",
+        "answer": "You will get used to it.",
+        "explanation": "Get used to + rzeczownik."
+      },
+      {
+        "id": "b2-used-to-be-get-used-to-3-10",
+        "type": "transform",
+        "prompt": "Użyj „get used to” w Present Perfect, zacznij od „I have got used to”.\nAt first the noise bothered me, but now it doesn't.",
+        "answer": "I have got used to the noise.",
+        "accept": [
+          "I have gotten used to the noise."
+        ],
+        "explanation": "Have got used to."
+      }
+    ]
+  }
+]

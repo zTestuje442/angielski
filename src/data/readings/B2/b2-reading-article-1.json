@@ -1,0 +1,112 @@
+{
+  "id": "b2-reading-article-1",
+  "topicId": "b2-reading-article",
+  "title": "The four-day week experiment",
+  "text": "What would you do with an extra day off every week? For the employees of more than sixty British companies, this was not just a dream. In 2022, they took part in one of the largest trials of a four-day working week ever carried out. They worked eighty percent of their usual hours, but kept one hundred percent of their pay – on the condition that they remained just as productive.\n\nThe results surprised many sceptics. At the end of the six-month trial, the vast majority of the companies decided to continue with the new system, and only a handful returned to the traditional five-day week. Revenue stayed roughly the same, and in some firms it even rose slightly. At the same time, the number of sick days fell, and fewer employees left their jobs.\n\n\"People simply waste less time when they know the week is shorter,\" explains Dr Helen Marsh, a researcher who analysed the data. \"Meetings become shorter, and unnecessary tasks disappear. Employees think much more carefully about what really matters.\"\n\nThe employees themselves reported lower levels of stress and better sleep. Many said that the extra day allowed them to deal with personal matters, such as doctor's appointments or shopping, so that the weekend could finally be used for rest. Parents in particular appreciated having more time with their children.\n\nHowever, the four-day week is not a solution for everyone. Critics point out that most of the companies in the trial were small and worked in offices, where output is relatively easy to organise. In hospitals, schools or factories, things are much more complicated. \"You cannot ask a nurse to look after the same number of patients in four days instead of five,\" says economist Mark Doyle. \"Someone else has to do the work on the fifth day, and that costs money.\"\n\nAnother problem is that some employees found the shorter week more intense. With less time to complete the same tasks, a few of them felt more pressure, not less. Some managers also admitted that it was difficult to arrange meetings when each team member had a different day off.\n\nDespite these concerns, interest in the idea is growing. Several countries, including Spain, Portugal and Iceland, have run their own trials, and many technology companies now offer a shorter week to attract the best candidates. Whether it will ever become the norm remains to be seen. For now, it seems that for the right kind of company, working less really can mean working better.",
+  "exercises": [
+    {
+      "id": "b2-reading-article-1-01",
+      "type": "choice",
+      "prompt": "Employees in the trial earned less money than before.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...kept one hundred percent of their pay.”"
+    },
+    {
+      "id": "b2-reading-article-1-02",
+      "type": "choice",
+      "prompt": "Most companies kept the four-day week after the trial.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...the vast majority of the companies decided to continue with the new system.”"
+    },
+    {
+      "id": "b2-reading-article-1-03",
+      "type": "choice",
+      "prompt": "Dr Marsh works for one of the companies in the trial.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi tylko, że analizowała dane."
+    },
+    {
+      "id": "b2-reading-article-1-04",
+      "type": "choice",
+      "prompt": "According to Dr Marsh, why are employees more productive?",
+      "answer": "They waste less time.",
+      "distractors": [
+        "They work longer hours.",
+        "They are paid more."
+      ],
+      "explanation": "„People simply waste less time when they know the week is shorter.”"
+    },
+    {
+      "id": "b2-reading-article-1-05",
+      "type": "choice",
+      "prompt": "What is Mark Doyle's main criticism?",
+      "answer": "Some jobs need someone to work on the fifth day.",
+      "distractors": [
+        "Employees become lazy.",
+        "Companies lose all their profits."
+      ],
+      "explanation": "„Someone else has to do the work on the fifth day.”"
+    },
+    {
+      "id": "b2-reading-article-1-06",
+      "type": "choice",
+      "prompt": "What problem did some managers mention?",
+      "answer": "Arranging meetings was difficult.",
+      "distractors": [
+        "Employees took more sick days.",
+        "Revenue fell sharply."
+      ],
+      "explanation": "„...it was difficult to arrange meetings...”"
+    },
+    {
+      "id": "b2-reading-article-1-07",
+      "type": "cloze",
+      "prompt": "Critics point out that most of the companies in the trial were ___.",
+      "answer": "small",
+      "explanation": "Małe firmy biurowe."
+    },
+    {
+      "id": "b2-reading-article-1-08",
+      "type": "cloze",
+      "prompt": "Many technology companies now offer a shorter week to ___ the best candidates.",
+      "answer": "attract",
+      "explanation": "Przyciągnąć: attract."
+    },
+    {
+      "id": "b2-reading-article-1-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "trial|próba, eksperyment",
+        "sceptic|sceptyk",
+        "revenue|przychód",
+        "output|wydajność, produkcja"
+      ],
+      "explanation": "Słowa z tekstu."
+    },
+    {
+      "id": "b2-reading-article-1-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "appreciate|doceniać",
+        "intense|intensywny",
+        "concern|obawa",
+        "remain to be seen|okaże się"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+[
+  {
+    "id": "b2-passive-all-tenses-1",
+    "topicId": "b2-passive-all-tenses",
+    "exercises": [
+      {
+        "id": "b2-passive-all-tenses-1-01",
+        "type": "cloze",
+        "prompt": "The house is ___ painted at the moment.",
+        "answer": "being",
+        "explanation": "Present Continuous passive: is being + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-02",
+        "type": "cloze",
+        "prompt": "The letter has ___ sent. (be)",
+        "answer": "been",
+        "explanation": "Present Perfect passive: has been + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-03",
+        "type": "choice",
+        "prompt": "A new bridge ___ next year.",
+        "answer": "will be built",
+        "distractors": [
+          "will build",
+          "is built"
+        ],
+        "explanation": "Przyszłość: will be built."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-04",
+        "type": "choice",
+        "prompt": "The thief ___ by the police yesterday.",
+        "answer": "was arrested",
+        "distractors": [
+          "has been arrested",
+          "arrested"
+        ],
+        "explanation": "Yesterday: was arrested."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-05",
+        "type": "cloze",
+        "prompt": "The results ___ tomorrow. (announce)",
+        "answer": "will be announced",
+        "explanation": "Will be + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-06",
+        "type": "match",
+        "prompt": "Połącz formy ze znaczeniem.",
+        "answer": [
+          "is being done|jest robiony (teraz)",
+          "has been done|został zrobiony",
+          "was being done|był robiony (w trakcie)",
+          "will have been done|będzie zrobiony (do terminu)"
+        ],
+        "explanation": "Formy strony biernej."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-07",
+        "type": "error",
+        "prompt": "The room is been cleaned right now.",
+        "answer": [
+          "been",
+          "being"
+        ],
+        "explanation": "Teraz: is being cleaned."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-08",
+        "type": "tiles",
+        "prompt": "Twój samochód jest właśnie naprawiany.",
+        "answer": [
+          "Your",
+          "car",
+          "is",
+          "being",
+          "repaired",
+          "right",
+          "now"
+        ],
+        "distractors": [
+          "been",
+          "repairing"
+        ],
+        "explanation": "Is being + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-09",
+        "type": "translate",
+        "prompt": "Spotkanie zostało przełożone.",
+        "answer": "The meeting has been postponed.",
+        "accept": [
+          "The meeting was postponed.",
+          "The meeting has been put off.",
+          "The meeting was put off.",
+          "The meeting has been rescheduled.",
+          "The meeting was rescheduled."
+        ],
+        "explanation": "Has been + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-1-10",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The documents”.\nThey have signed the documents.",
+        "answer": "The documents have been signed.",
+        "explanation": "Have been + III forma."
+      }
+    ]
+  },
+  {
+    "id": "b2-passive-all-tenses-2",
+    "topicId": "b2-passive-all-tenses",
+    "exercises": [
+      {
+        "id": "b2-passive-all-tenses-2-01",
+        "type": "cloze",
+        "prompt": "The road ___ being repaired when we drove past. (was / were)",
+        "answer": "was",
+        "explanation": "Past Continuous passive: was being."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-02",
+        "type": "cloze",
+        "prompt": "By the time we arrived, all the food had been ___. (eat)",
+        "answer": "eaten",
+        "explanation": "Had been + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-03",
+        "type": "choice",
+        "prompt": "The new hospital ___ by the end of the year.",
+        "answer": "will have been finished",
+        "distractors": [
+          "will finish",
+          "is finishing"
+        ],
+        "explanation": "Do końca roku: will have been finished."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-04",
+        "type": "choice",
+        "prompt": "This song ___ by millions of people since it came out.",
+        "answer": "has been downloaded",
+        "distractors": [
+          "was downloaded",
+          "downloads"
+        ],
+        "explanation": "Since: has been + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-05",
+        "type": "choice",
+        "prompt": "Hundreds of emails ___ every day.",
+        "answer": "are sent",
+        "distractors": [
+          "are sending",
+          "send"
+        ],
+        "explanation": "Are + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-06",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The bridge”.\nThey are building the bridge.",
+        "answer": "The bridge is being built.",
+        "explanation": "Is being + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-07",
+        "type": "transform",
+        "prompt": "Zamień na stronę bierną, zacznij od „The winner”.\nThey will announce the winner tomorrow.",
+        "answer": "The winner will be announced tomorrow.",
+        "explanation": "Will be + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-08",
+        "type": "tiles",
+        "prompt": "Hasło zostało zmienione.",
+        "answer": [
+          "The",
+          "password",
+          "has",
+          "been",
+          "changed"
+        ],
+        "distractors": [
+          "being",
+          "changing"
+        ],
+        "explanation": "Has been + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-09",
+        "type": "error",
+        "prompt": "The report will be write by Friday.",
+        "answer": [
+          "write",
+          "written"
+        ],
+        "explanation": "Will be + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-2-10",
+        "type": "translate",
+        "prompt": "Kiedy zostanie ogłoszony wynik?",
+        "answer": "When will the result be announced?",
+        "accept": [
+          "When will the results be announced?"
+        ],
+        "explanation": "Will + be + III forma."
+      }
+    ]
+  },
+  {
+    "id": "b2-passive-all-tenses-3",
+    "topicId": "b2-passive-all-tenses",
+    "exercises": [
+      {
+        "id": "b2-passive-all-tenses-3-01",
+        "type": "choice",
+        "prompt": "I felt like I ___.",
+        "answer": "was being watched",
+        "distractors": [
+          "was watching",
+          "had watched"
+        ],
+        "explanation": "Ktoś mnie obserwował: was being watched."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-02",
+        "type": "choice",
+        "prompt": "The documents ___ before the meeting started.",
+        "answer": "had been checked",
+        "distractors": [
+          "have been checked",
+          "were checking"
+        ],
+        "explanation": "Wcześniej: had been checked."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-03",
+        "type": "cloze",
+        "prompt": "English is ___ in many countries. (speak)",
+        "answer": "spoken",
+        "explanation": "Is spoken."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-04",
+        "type": "cloze",
+        "prompt": "The flight has ___ cancelled because of the storm.",
+        "answer": "been",
+        "explanation": "Has been cancelled."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-05",
+        "type": "cloze",
+        "prompt": "The patients are ___ looked after by excellent nurses.",
+        "answer": "being",
+        "explanation": "Are being + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-06",
+        "type": "match",
+        "prompt": "Połącz formę z czasem.",
+        "answer": [
+          "is made|Present Simple",
+          "is being made|Present Continuous",
+          "was made|Past Simple",
+          "has been made|Present Perfect"
+        ],
+        "explanation": "Czasy w stronie biernej."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-07",
+        "type": "error",
+        "prompt": "My bike has been stole.",
+        "answer": [
+          "stole",
+          "stolen"
+        ],
+        "explanation": "III forma: stolen."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-08",
+        "type": "error",
+        "prompt": "The windows are being clean now.",
+        "answer": [
+          "clean",
+          "cleaned"
+        ],
+        "explanation": "Are being + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-09",
+        "type": "tiles",
+        "prompt": "Wszystkie bilety zostały już sprzedane.",
+        "answer": [
+          "All",
+          "the",
+          "tickets",
+          "have",
+          "already",
+          "been",
+          "sold"
+        ],
+        "distractors": [
+          "being",
+          "sell"
+        ],
+        "explanation": "Have been + III forma."
+      },
+      {
+        "id": "b2-passive-all-tenses-3-10",
+        "type": "translate",
+        "prompt": "Jestem obserwowany.",
+        "answer": "I am being watched.",
+        "accept": [
+          "I am being observed.",
+          "Somebody is watching me.",
+          "Someone is watching me."
+        ],
+        "explanation": "Am being + III forma."
+      }
+    ]
+  }
+]

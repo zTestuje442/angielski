@@ -1,0 +1,331 @@
+[
+  {
+    "id": "a1-vocab-town-directions-1",
+    "topicId": "a1-vocab-town-directions",
+    "exercises": [
+      {
+        "id": "a1-vocab-town-directions-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "post office|poczta",
+          "chemist's|apteka",
+          "library|biblioteka",
+          "station|dworzec"
+        ],
+        "explanation": "Miejsca w mieście."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-02",
+        "type": "choice",
+        "prompt": "You buy medicine at the ___.",
+        "answer": "chemist's",
+        "distractors": [
+          "butcher's",
+          "bakery"
+        ],
+        "explanation": "Leki kupujemy w aptece."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-03",
+        "type": "choice",
+        "prompt": "You borrow books from the ___.",
+        "answer": "library",
+        "distractors": [
+          "bookshop",
+          "museum"
+        ],
+        "explanation": "Książki wypożyczamy z biblioteki."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-04",
+        "type": "cloze",
+        "prompt": "We watch films at the ___.",
+        "answer": "cinema",
+        "explanation": "Filmy oglądamy w kinie."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-05",
+        "type": "cloze",
+        "prompt": "You catch a train at the ___ station.",
+        "answer": "railway",
+        "accept": [
+          "train"
+        ],
+        "explanation": "Dworzec kolejowy: railway (albo train) station."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-06",
+        "type": "error",
+        "prompt": "I'm going to the bakery to buy some meat.",
+        "answer": [
+          "bakery",
+          "butcher's"
+        ],
+        "explanation": "Mięso kupujemy w mięsnym: butcher's."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-07",
+        "type": "tiles",
+        "prompt": "Gdzie jest najbliższy bank?",
+        "answer": [
+          "Where",
+          "is",
+          "the",
+          "nearest",
+          "bank"
+        ],
+        "explanation": "Najbliższy = the nearest."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-08",
+        "type": "translate",
+        "prompt": "Szukam dworca.",
+        "answer": "I am looking for the station.",
+        "accept": [
+          "I am looking for the railway station.",
+          "I am looking for the train station."
+        ],
+        "explanation": "Szukać = look for."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-09",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "hospital|szpital",
+          "church|kościół",
+          "market|targ",
+          "square|plac"
+        ],
+        "explanation": "Kolejne miejsca."
+      },
+      {
+        "id": "a1-vocab-town-directions-1-10",
+        "type": "choice",
+        "prompt": "You can see old paintings in a ___.",
+        "answer": "museum",
+        "distractors": [
+          "stadium",
+          "factory"
+        ],
+        "explanation": "Obrazy oglądamy w muzeum."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-town-directions-2",
+    "topicId": "a1-vocab-town-directions",
+    "exercises": [
+      {
+        "id": "a1-vocab-town-directions-2-01",
+        "type": "match",
+        "prompt": "Połącz wskazówki z tłumaczeniem.",
+        "answer": [
+          "turn left|skręć w lewo",
+          "turn right|skręć w prawo",
+          "go straight on|idź prosto",
+          "cross the road|przejdź przez ulicę"
+        ],
+        "explanation": "Wskazówki drogi."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-02",
+        "type": "cloze",
+        "prompt": "The bank is ___ the post office and the café. (między)",
+        "answer": "between",
+        "explanation": "Między = between."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-03",
+        "type": "cloze",
+        "prompt": "The bus stop is ___ the school. (naprzeciwko)",
+        "answer": "opposite",
+        "explanation": "Naprzeciwko = opposite."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-04",
+        "type": "choice",
+        "prompt": "The cinema is ___ to the bank. (obok)",
+        "answer": "next",
+        "distractors": [
+          "near",
+          "behind"
+        ],
+        "explanation": "Obok = next to."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-05",
+        "type": "choice",
+        "prompt": "Take the second street ___ the left.",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "Po lewej: on the left."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-06",
+        "type": "error",
+        "prompt": "The café is next the bank.",
+        "answer": [
+          "next",
+          "next to"
+        ],
+        "explanation": "Obok to next to."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-07",
+        "type": "tiles",
+        "prompt": "Skręć w prawo na światłach.",
+        "answer": [
+          "Turn",
+          "right",
+          "at",
+          "the",
+          "traffic",
+          "lights"
+        ],
+        "explanation": "Na światłach: at the traffic lights."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-08",
+        "type": "translate",
+        "prompt": "Czy to daleko stąd?",
+        "answer": "Is it far from here?",
+        "explanation": "Daleko = far."
+      },
+      {
+        "id": "a1-vocab-town-directions-2-09",
+        "type": "transform",
+        "prompt": "Zapytaj grzecznie o drogę, zacznij od „Excuse me, where”.\nI'm looking for the museum.",
+        "answer": "Excuse me, where is the museum?",
+        "explanation": "Excuse me, where is...?"
+      },
+      {
+        "id": "a1-vocab-town-directions-2-10",
+        "type": "choice",
+        "prompt": "The shop is on the ___ of Main Street and Park Road.",
+        "answer": "corner",
+        "distractors": [
+          "opposite",
+          "between"
+        ],
+        "explanation": "Na rogu: on the corner."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-town-directions-3",
+    "topicId": "a1-vocab-town-directions",
+    "exercises": [
+      {
+        "id": "a1-vocab-town-directions-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "near|blisko",
+          "far|daleko",
+          "behind|za",
+          "in front of|przed"
+        ],
+        "explanation": "Określenia miejsca."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-02",
+        "type": "cloze",
+        "prompt": "Excuse me, how do I ___ to the station?",
+        "answer": "get",
+        "explanation": "Jak dojść: How do I get to...?"
+      },
+      {
+        "id": "a1-vocab-town-directions-3-03",
+        "type": "cloze",
+        "prompt": "It's a five-minute ___ from here.",
+        "answer": "walk",
+        "explanation": "Pięć minut pieszo: a five-minute walk."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-04",
+        "type": "choice",
+        "prompt": "Can you ___ me the way to the museum?",
+        "answer": "tell",
+        "distractors": [
+          "say",
+          "speak"
+        ],
+        "explanation": "Wskazać drogę: tell me the way."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-05",
+        "type": "choice",
+        "prompt": "The hotel is ___ the left, next to the bank.",
+        "answer": "on",
+        "distractors": [
+          "at",
+          "in"
+        ],
+        "explanation": "Po lewej: on the left."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-06",
+        "type": "error",
+        "prompt": "Excuse me, where is the near bus stop?",
+        "answer": [
+          "near",
+          "nearest"
+        ],
+        "explanation": "Najbliższy: the nearest."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-07",
+        "type": "tiles",
+        "prompt": "Bank jest naprzeciwko parku.",
+        "answer": [
+          "The",
+          "bank",
+          "is",
+          "opposite",
+          "the",
+          "park"
+        ],
+        "explanation": "Naprzeciwko: opposite (bez of)."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-08",
+        "type": "translate",
+        "prompt": "Idź prosto i skręć w lewo.",
+        "answer": "Go straight on and turn left.",
+        "accept": [
+          "Go straight and turn left.",
+          "Go straight ahead and turn left."
+        ],
+        "explanation": "Idź prosto: go straight on."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-09",
+        "type": "transform",
+        "prompt": "Opisz położenie kawiarni słowem „between”.\nbank – kawiarnia – szkoła",
+        "answer": "The café is between the bank and the school.",
+        "accept": [
+          "The cafe is between the bank and the school.",
+          "The café is between the school and the bank.",
+          "The cafe is between the school and the bank."
+        ],
+        "explanation": "Between + A + and + B."
+      },
+      {
+        "id": "a1-vocab-town-directions-3-10",
+        "type": "choice",
+        "prompt": "You can cross the street at the ___ crossing.",
+        "answer": "pedestrian",
+        "distractors": [
+          "zebra's",
+          "walking"
+        ],
+        "explanation": "Przejście dla pieszych: pedestrian (albo zebra) crossing."
+      }
+    ]
+  }
+]

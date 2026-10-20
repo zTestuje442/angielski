@@ -1,0 +1,2056 @@
+[
+  {
+    "id": "a1-to-be",
+    "section": "grammar",
+    "level": "A1",
+    "order": 1,
+    "title": "Czasownik to be",
+    "explanation": "Czasownik **to be** (być) ma w czasie teraźniejszym trzy formy:\n\n- **I am** (I'm)\n- **he / she / it is** (he's, she's, it's)\n- **you / we / they are** (you're, we're, they're)\n\nPrzeczenie tworzymy przez **not**: *I am not*, *she is not* (isn't), *they are not* (aren't).\n\nW pytaniu czasownik idzie przed podmiot: *Are you ready?* *Is he at home?* Krótkie odpowiedzi: *Yes, I am. / No, she isn't.*\n\nUwaga: po polsku często pomijamy „jest” albo mówimy „mam”, a po angielsku **to be** jest obowiązkowe: *I am tired* (jestem zmęczony), *I am 20* (mam 20 lat).",
+    "sets": [
+      "a1-to-be-1",
+      "a1-to-be-2",
+      "a1-to-be-3"
+    ]
+  },
+  {
+    "id": "a1-pronouns",
+    "section": "grammar",
+    "level": "A1",
+    "order": 2,
+    "title": "Zaimki osobowe i dzierżawcze",
+    "explanation": "**Zaimki osobowe** stoją w miejscu podmiotu: **I, you, he, she, it, we, they**. W angielskim podmiot jest zawsze, nawet gdy po polsku go pomijamy: *Jestem w domu* → *I am at home.*\n\n- **he** – mężczyzna, **she** – kobieta, **it** – rzecz, zwierzę, pogoda\n- **they** – wiele osób albo rzeczy\n\n**Zaimki dzierżawcze** (czyj?) stoją przed rzeczownikiem:\n\n- I → **my**, you → **your**, he → **his**, she → **her**\n- it → **its**, we → **our**, they → **their**\n\nPrzykład: *She has a cat. **Her** cat is black.*\n\nNie myl **its** (jego, np. psa) z **it's** (= it is) oraz **their** (ich) z **there** (tam).",
+    "sets": [
+      "a1-pronouns-1",
+      "a1-pronouns-2",
+      "a1-pronouns-3"
+    ]
+  },
+  {
+    "id": "a1-plurals",
+    "section": "grammar",
+    "level": "A1",
+    "order": 3,
+    "title": "Liczba mnoga rzeczowników",
+    "explanation": "Liczbę mnogą tworzymy zwykle przez dodanie **-s**: *book → books*, *car → cars*.\n\n- **-es** po -s, -ss, -sh, -ch, -x i często po -o: *bus → buses*, *box → boxes*, *watch → watches*, *potato → potatoes*\n- spółgłoska + **-y** → **-ies**: *city → cities*, *baby → babies* (ale *day → days*, *key → keys*)\n- **-f / -fe** → **-ves**: *knife → knives*, *leaf → leaves*, *wife → wives*\n\nRzeczowniki nieregularne trzeba zapamiętać:\n\n- *man → men*, *woman → women*, *child → children*, *person → people*\n- *foot → feet*, *tooth → teeth*, *mouse → mice*\n\nPo liczbie większej niż jeden zawsze stoi liczba mnoga: *two cats*, *three children*.",
+    "sets": [
+      "a1-plurals-1",
+      "a1-plurals-2",
+      "a1-plurals-3"
+    ]
+  },
+  {
+    "id": "a1-articles-demonstratives",
+    "section": "grammar",
+    "level": "A1",
+    "order": 4,
+    "title": "a/an, this/that/these/those",
+    "explanation": "**a / an** stawiamy przed jedną rzeczą lub osobą, gdy mówimy o niej pierwszy raz albo podajemy zawód:\n\n- **a** przed spółgłoską w wymowie: *a car*, *a university* (czytamy „ju-”)\n- **an** przed samogłoską w wymowie: *an apple*, *an hour* (h jest nieme)\n\n*She is **a** teacher. He is **an** engineer.* Po polsku przedimka nie ma, ale po angielsku jest obowiązkowy.\n\n**this / these** – to, co blisko; **that / those** – to, co daleko:\n\n- *this book* (ta książka tutaj) → *these books*\n- *that car* (tamten samochód) → *those cars*\n\nLiczba mnoga zmienia też czasownik: *This **is** my bag. These **are** my bags.*",
+    "sets": [
+      "a1-articles-demonstratives-1",
+      "a1-articles-demonstratives-2",
+      "a1-articles-demonstratives-3"
+    ]
+  },
+  {
+    "id": "a1-there-is-are",
+    "section": "grammar",
+    "level": "A1",
+    "order": 5,
+    "title": "There is / there are",
+    "explanation": "**There is / there are** znaczy „jest / są” w sensie „znajduje się, istnieje”:\n\n- **there is** + jedna rzecz lub rzeczownik niepoliczalny: *There is a cat in the garden. There is some milk.*\n- **there are** + liczba mnoga: *There are two banks in my street.*\n\nPrzeczenie: *There **isn't** a shop here. There **aren't** any chairs.* Można też: *There is **no** shop here.*\n\nPytanie: ***Is there** a bathroom? — Yes, there is. / No, there isn't.* ***Are there** any eggs?*\n\nNie myl z **it is**: *There is a new café in town. **It is** very nice.* There is mówi, że coś jest; it is opisuje to, o czym już mówimy.",
+    "sets": [
+      "a1-there-is-are-1",
+      "a1-there-is-are-2",
+      "a1-there-is-are-3"
+    ]
+  },
+  {
+    "id": "a1-have-got",
+    "section": "grammar",
+    "level": "A1",
+    "order": 6,
+    "title": "Have got",
+    "explanation": "**Have got** znaczy „mieć” (posiadać, mieć rodzinę, cechy wyglądu, chorobę):\n\n- **I / you / we / they have got** (I've got)\n- **he / she / it has got** (she's got)\n\n*I've got two brothers. She has got blue eyes.*\n\nPrzeczenie: **haven't got / hasn't got** – *He hasn't got a car.*\n\nPytanie: ***Have** you **got** a pen? — Yes, I have. / No, I haven't.* ***Has** she **got** a dog?*\n\nW krótkiej odpowiedzi nie powtarzamy got. Have got to forma typowa dla brytyjskiego angielskiego; to samo znaczy *I have / Do you have...?* (poznasz przy Present Simple).",
+    "sets": [
+      "a1-have-got-1",
+      "a1-have-got-2",
+      "a1-have-got-3"
+    ]
+  },
+  {
+    "id": "a1-present-simple",
+    "section": "grammar",
+    "level": "A1",
+    "order": 7,
+    "title": "Present Simple",
+    "explanation": "**Present Simple** opisuje rzeczy stałe i powtarzalne: zwyczaje, fakty, plan dnia. *I work in an office. She drinks tea every morning.*\n\nZ **he / she / it** dodajemy do czasownika **-s**:\n\n- *work → works*, *play → plays*\n- **-es** po -s, -sh, -ch, -x, -o: *watch → watches*, *go → goes*\n- spółgłoska + y → **-ies**: *study → studies*\n- *have → has*\n\nPrzeczenie i pytanie tworzymy z **do / does**:\n\n- *I **don't** like fish. She **doesn't** eat meat.*\n- ***Do** you speak English? **Does** he play tennis?*\n\nPo does czasownik wraca do formy podstawowej: *She doesn't **like**... Does he **play**...?* (nie *likes*, nie *plays*).",
+    "sets": [
+      "a1-present-simple-1",
+      "a1-present-simple-2",
+      "a1-present-simple-3"
+    ]
+  },
+  {
+    "id": "a1-adverbs-of-frequency",
+    "section": "grammar",
+    "level": "A1",
+    "order": 8,
+    "title": "Przysłówki częstotliwości",
+    "explanation": "Przysłówki częstotliwości mówią, jak często coś robimy:\n\n- **always** (zawsze, 100%) – **usually** (zwykle) – **often** (często) – **sometimes** (czasami) – **rarely** (rzadko) – **never** (nigdy, 0%)\n\nMiejsce w zdaniu:\n\n- **przed** zwykłym czasownikiem: *I **always** get up at seven. She **never** drinks coffee.*\n- **po** to be: *He is **often** late. We are **usually** at home.*\n\n*Sometimes* może też stać na początku zdania: *Sometimes I play tennis.*\n\nUwaga: **never** ma już znaczenie przeczące, więc nie dodajemy *don't*: *I never eat meat* (nie *I don't never*).\n\nPytanie o częstotliwość: ***How often** do you go to the gym? — **Twice a week.*** (*once* – raz, *twice* – dwa razy, *three times* – trzy razy).",
+    "sets": [
+      "a1-adverbs-of-frequency-1",
+      "a1-adverbs-of-frequency-2",
+      "a1-adverbs-of-frequency-3"
+    ]
+  },
+  {
+    "id": "a1-can",
+    "section": "grammar",
+    "level": "A1",
+    "order": 9,
+    "title": "Can",
+    "explanation": "**Can** znaczy „umieć” albo „móc”: *I **can** swim* (umiem pływać), *You **can** sit here* (możesz tu usiąść).\n\n- Forma jest taka sama dla wszystkich osób: *I can, she can, they can* (bez -s!).\n- Po can czasownik w formie podstawowej, bez *to*: *She can **sing*** (nie *can sings*, nie *can to sing*).\n\nPrzeczenie: **can't** (= cannot): *I **can't** cook.*\n\nPytanie: ***Can** you help me? — Yes, I can. / No, I can't.*\n\nCan służy też do grzecznych próśb i pytań o pozwolenie: ***Can I** open the window? **Can you** pass the salt?*",
+    "sets": [
+      "a1-can-1",
+      "a1-can-2",
+      "a1-can-3"
+    ]
+  },
+  {
+    "id": "a1-present-continuous",
+    "section": "grammar",
+    "level": "A1",
+    "order": 10,
+    "title": "Present Continuous",
+    "explanation": "**Present Continuous** opisuje to, co dzieje się teraz, w tej chwili: *I **am reading** a book now. Look! It **is raining**.*\n\nBudowa: **am / is / are + czasownik z -ing**:\n\n- *I am working*, *she is working*, *they are working*\n\nPisownia -ing:\n\n- *make → making* (znika nieme -e)\n- *run → running*, *sit → sitting*, *swim → swimming* (krótka sylaba: podwajamy spółgłoskę)\n- *play → playing*, *read → reading*\n\nPrzeczenie: *I'm **not** working. He **isn't** cooking.*\n\nPytanie: ***Are** you listening? **Is** she sleeping? — Yes, she is. / No, she isn't.*\n\nTypowe słowa: **now, at the moment, right now, Look!, Listen!**",
+    "sets": [
+      "a1-present-continuous-1",
+      "a1-present-continuous-2",
+      "a1-present-continuous-3"
+    ]
+  },
+  {
+    "id": "a1-present-simple-vs-continuous",
+    "section": "grammar",
+    "level": "A1",
+    "order": 11,
+    "title": "Present Simple vs Present Continuous",
+    "explanation": "**Present Simple** – rzeczy stałe i powtarzalne: zwyczaje, fakty, plan dnia.\n*I **work** in a bank. She **plays** tennis every Monday. Water **boils** at 100°C.*\nTypowe słowa: *always, usually, often, every day, on Mondays*.\n\n**Present Continuous** – to, co dzieje się teraz albo w tym okresie.\n*I **am working** now. Look! She **is playing** tennis.*\nTypowe słowa: *now, at the moment, today, Look!, Listen!*\n\nPorównaj: *I usually **drive** to work, but today I **am riding** my bike.*\n\nNiektóre czasowniki opisują stany, nie czynności, i zwykle nie mają formy -ing: **like, love, hate, want, need, know, understand**. Mówimy *I **know** the answer* (nie *I am knowing*), nawet gdy chodzi o teraz.",
+    "sets": [
+      "a1-present-simple-vs-continuous-1",
+      "a1-present-simple-vs-continuous-2",
+      "a1-present-simple-vs-continuous-3"
+    ]
+  },
+  {
+    "id": "a1-countable-uncountable-some-any",
+    "section": "grammar",
+    "level": "A1",
+    "order": 12,
+    "title": "Rzeczowniki policzalne i niepoliczalne, some/any",
+    "explanation": "**Rzeczowniki policzalne** można policzyć: *an apple, two apples*. Mają liczbę mnogą.\n\n**Niepoliczalne** nie mają liczby mnogiej ani a/an: *water, milk, bread, money, rice, information, advice, furniture, news*. Mówimy *some bread*, *a slice of bread*, nie *a bread*.\n\n**some** i **any** znaczą „trochę / kilka / jakieś”:\n\n- **some** w zdaniach twierdzących: *There are **some** apples. I need **some** milk.*\n- **any** w przeczeniach i pytaniach: *We haven't got **any** eggs. Is there **any** juice?*\n- **some** w propozycjach i prośbach: *Would you like **some** tea? Can I have **some** water?*\n\nIlość niepoliczalnych podajemy przez opakowanie lub porcję: *a glass of water, a cup of coffee, a slice of bread, a kilo of apples*.",
+    "sets": [
+      "a1-countable-uncountable-some-any-1",
+      "a1-countable-uncountable-some-any-2",
+      "a1-countable-uncountable-some-any-3"
+    ]
+  },
+  {
+    "id": "a1-prepositions-in-on-at",
+    "section": "grammar",
+    "level": "A1",
+    "order": 13,
+    "title": "Przyimki in/on/at (czas i miejsce)",
+    "explanation": "**Czas**\n\n- **at** + godzina i pora: *at 5 o'clock, at night, at noon*\n- **on** + dzień i data: *on Monday, on 3rd May, on my birthday*\n- **in** + miesiąc, rok, pora roku, część dnia: *in July, in 2020, in winter, in the morning*\n\n**Miejsce**\n\n- **in** – w środku: *in the box, in the kitchen, in Poland, in London*\n- **on** – na powierzchni: *on the table, on the wall, on the floor*\n- **at** – w punkcie, miejscu czynności: *at the bus stop, at the door, at home, at work, at school*\n\nZapamiętaj: *at home* (w domu), *at work* (w pracy), *at school* (w szkole) – bez the.",
+    "sets": [
+      "a1-prepositions-in-on-at-1",
+      "a1-prepositions-in-on-at-2",
+      "a1-prepositions-in-on-at-3"
+    ]
+  },
+  {
+    "id": "a1-imperative",
+    "section": "grammar",
+    "level": "A1",
+    "order": 14,
+    "title": "Tryb rozkazujący",
+    "explanation": "**Tryb rozkazujący** służy do poleceń, instrukcji, rad i próśb. Używamy formy podstawowej czasownika, bez podmiotu:\n\n- *Open the window. Sit down, please. Turn left.*\n- z to be: ***Be** quiet! **Be** careful!*\n\nZakaz tworzymy przez **Don't**: ***Don't** touch that! **Don't** be late!*\n\nPropozycję wspólnego działania – przez **Let's** (= let us): ***Let's** go to the cinema!* Po let's też forma podstawowa: *Let's **play***, nie *Let's to play*.\n\nDodaj **please**, żeby polecenie brzmiało grzecznie: *Please sit down.* / *Sit down, please.*",
+    "sets": [
+      "a1-imperative-1",
+      "a1-imperative-2",
+      "a1-imperative-3"
+    ]
+  },
+  {
+    "id": "a1-past-simple-to-be",
+    "section": "grammar",
+    "level": "A1",
+    "order": 15,
+    "title": "Past Simple: to be",
+    "explanation": "Czasownik **to be** w czasie przeszłym ma dwie formy:\n\n- **was** – I, he, she, it: *I **was** at home. It **was** cold.*\n- **were** – you, we, they: *They **were** in Paris.*\n\nPrzeczenie: **wasn't** (was not), **weren't** (were not): *The shops **weren't** open.*\n\nPytanie: ***Were** you at work? — Yes, I was. / No, I wasn't.* ***Was** it expensive?*\n\nTypowe określenia czasu: *yesterday, last week, last year, in 2010, two days ago*.\n\nZapamiętaj: *I **was** born in 1995* (urodziłem się) – po angielsku z was/were.",
+    "sets": [
+      "a1-past-simple-to-be-1",
+      "a1-past-simple-to-be-2",
+      "a1-past-simple-to-be-3"
+    ]
+  },
+  {
+    "id": "a1-past-simple-regular",
+    "section": "grammar",
+    "level": "A1",
+    "order": 16,
+    "title": "Past Simple: czasowniki regularne",
+    "explanation": "**Past Simple** opisuje zakończone wydarzenia z przeszłości: *I **visited** my grandma yesterday.*\n\nCzasowniki regularne dostają końcówkę **-ed**, taką samą dla wszystkich osób:\n\n- *work → worked*, *play → played*\n- *like → liked* (samo -d po -e)\n- *study → studied* (spółgłoska + y → -ied)\n- *stop → stopped*, *plan → planned* (podwojenie spółgłoski)\n\nPrzeczenie: **didn't + forma podstawowa**: *I **didn't like** the film.*\n\nPytanie: **Did + podmiot + forma podstawowa**: ***Did** you **watch** the match? — Yes, I did. / No, I didn't.*\n\nPo did nie dodajemy już -ed: *Did you listen?* (nie *listened*).\n\nTypowe określenia czasu: *yesterday, last night, last week, two days ago, in 2015*.",
+    "sets": [
+      "a1-past-simple-regular-1",
+      "a1-past-simple-regular-2",
+      "a1-past-simple-regular-3"
+    ]
+  },
+  {
+    "id": "a1-wh-questions",
+    "section": "grammar",
+    "level": "A1",
+    "order": 17,
+    "title": "Pytania z wh-",
+    "explanation": "Pytania szczegółowe zaczynamy od słowa pytającego:\n\n- **What** – co? jaki? · **Where** – gdzie? · **When** – kiedy?\n- **Who** – kto? · **Why** – dlaczego? · **Whose** – czyj?\n- **How** – jak? · **How old / How much / How many / How often** – ile lat, ile, jak często\n\nPo słowie pytającym szyk jest taki jak w pytaniu tak/nie:\n\n- z to be: *Where **are** you from?*\n- z can: *What **can** you do?*\n- w Present Simple: *Where **do** you live? What time **does** the film start?*\n- w Past Simple: *When **did** you come home?*\n\nWyjątek: gdy pytamy o podmiot (who), nie ma do/does: ***Who lives** here?*",
+    "sets": [
+      "a1-wh-questions-1",
+      "a1-wh-questions-2",
+      "a1-wh-questions-3"
+    ]
+  },
+  {
+    "id": "a2-past-simple-irregular",
+    "section": "grammar",
+    "level": "A2",
+    "order": 1,
+    "title": "Past Simple: czasowniki nieregularne",
+    "explanation": "Wiele częstych czasowników ma w Past Simple **nieregularną formę**, którą trzeba zapamiętać:\n\n- *go → went, see → saw, have → had, buy → bought, take → took*\n- *eat → ate, write → wrote, meet → met, leave → left, tell → told*\n- *think → thought, bring → brought, teach → taught, catch → caught*\n\nForma jest taka sama dla wszystkich osób: *I went, she went, they went*.\n\nW przeczeniach i pytaniach używamy **did** i formy podstawowej – tak samo jak przy czasownikach regularnych:\n\n- *I **didn't go** to the party.* (nie *didn't went*)\n- ***Did** you **see** Tom?* (nie *Did you saw*)\n\nNie dodawaj -ed do czasowników nieregularnych: *bought* (nie *buyed*), *went* (nie *goed*).",
+    "sets": [
+      "a2-past-simple-irregular-1",
+      "a2-past-simple-irregular-2",
+      "a2-past-simple-irregular-3"
+    ]
+  },
+  {
+    "id": "a2-past-continuous",
+    "section": "grammar",
+    "level": "A2",
+    "order": 2,
+    "title": "Past Continuous",
+    "explanation": "**Past Continuous** opisuje czynność, która **trwała** w jakimś momencie w przeszłości:\n*At 8 p.m. yesterday I **was watching** TV.* (o 20:00 byłem w trakcie oglądania)\n\nBudowa: **was / were + czasownik z -ing**\n\n- *I / he / she / it **was** working*\n- *you / we / they **were** working*\n\nPrzeczenie: *wasn't / weren't + -ing*: *He **wasn't listening**.*\nPytanie: ***Were** you **sleeping**? — Yes, I was.*\n\nTypowe określenia: *at 5 o'clock yesterday, at that moment, all day, at this time last week*.\n\nCzęsto opisuje tło opowieści: *The sun **was shining** and the birds **were singing**.*",
+    "sets": [
+      "a2-past-continuous-1",
+      "a2-past-continuous-2",
+      "a2-past-continuous-3"
+    ]
+  },
+  {
+    "id": "a2-past-simple-vs-continuous",
+    "section": "grammar",
+    "level": "A2",
+    "order": 3,
+    "title": "Past Simple vs Past Continuous",
+    "explanation": "W opowiadaniu o przeszłości często łączymy oba czasy:\n\n- **Past Continuous** – dłuższa czynność w tle (trwała)\n- **Past Simple** – krótkie zdarzenie, które ją przerywa albo następuje po kolei\n\n*I **was having** a shower when the phone **rang**.* (brałem prysznic – zadzwonił telefon)\n\n**when** zwykle stoi przy krótkim zdarzeniu, **while** przy dłuższej czynności:\n*While I **was walking** home, I **met** an old friend.*\n\nPorównaj:\n- *When he came, we **left**.* (najpierw przyszedł, potem wyszliśmy)\n- *When he came, we **were eating**.* (już jedliśmy, gdy przyszedł)\n\nKolejne zdarzenia po sobie opisujemy w Past Simple: *She **got up**, **had** breakfast and **left**.*",
+    "sets": [
+      "a2-past-simple-vs-continuous-1",
+      "a2-past-simple-vs-continuous-2",
+      "a2-past-simple-vs-continuous-3"
+    ]
+  },
+  {
+    "id": "a2-quantifiers",
+    "section": "grammar",
+    "level": "A2",
+    "order": 4,
+    "title": "much, many, a lot of, a few, a little",
+    "explanation": "Określenia ilości zależą od tego, czy rzeczownik jest policzalny:\n\n- policzalne (*books, people*): **many**, **a few**, **How many...?**\n- niepoliczalne (*water, time, money*): **much**, **a little**, **How much...?**\n\n- **a lot of** pasuje do obu i jest naturalne w zdaniach twierdzących: *There are **a lot of** tourists. She drinks **a lot of** water.*\n- **much / many** – głównie w pytaniach i przeczeniach: *I don't have **much** time. Are there **many** people?*\n- **a few / a little** = kilka, trochę (wystarczająco): *I know **a few** words. Add **a little** salt.*\n\nBez *a*: **few / little** znaczy „mało, za mało” – to poziom wyżej.",
+    "sets": [
+      "a2-quantifiers-1",
+      "a2-quantifiers-2",
+      "a2-quantifiers-3"
+    ]
+  },
+  {
+    "id": "a2-comparatives-superlatives",
+    "section": "grammar",
+    "level": "A2",
+    "order": 5,
+    "title": "Stopniowanie przymiotników",
+    "explanation": "**Stopień wyższy** (porównanie dwóch rzeczy) + **than**; **najwyższy** z **the**.\n\nKrótkie przymiotniki (1 sylaba):\n- *tall → tall**er** → the tall**est***\n- *big → bi**gg**er → the bi**gg**est* (podwojenie po krótkiej samogłosce)\n- *nice → nic**er** → the nic**est***\n\nPrzymiotniki na -y: *happy → happ**ier** → the happ**iest***, *easy → easier*.\n\nDłuższe przymiotniki: **more / the most**: *expensive → **more** expensive → **the most** expensive*.\n\nNieregularne: *good → **better** → **the best***, *bad → **worse** → **the worst***, *far → further → the furthest*.\n\nRówność: **as ... as** – *My phone is **as old as** yours. He isn't **as tall as** his father.*\n\nNie łącz *more* z -er: *bigger* (nie *more bigger*).",
+    "sets": [
+      "a2-comparatives-superlatives-1",
+      "a2-comparatives-superlatives-2",
+      "a2-comparatives-superlatives-3"
+    ]
+  },
+  {
+    "id": "a2-adverbs-of-manner",
+    "section": "grammar",
+    "level": "A2",
+    "order": 6,
+    "title": "Przysłówki sposobu",
+    "explanation": "**Przysłówki sposobu** mówią, **jak** ktoś coś robi. Zwykle tworzymy je od przymiotnika przez **-ly**:\n\n- *slow → slow**ly***, *careful → careful**ly***, *quiet → quiet**ly***\n- *-y → -ily*: *easy → eas**ily***, *happy → happ**ily***\n\nNieregularne:\n- *good → **well*** – *She speaks English **well**.*\n- *fast → **fast***, *hard → **hard***, *late → **late***, *early → **early***\n\nUwaga: **hardly** znaczy „prawie wcale”, a **lately** „ostatnio” – to inne słowa!\n\nPrzymiotnik opisuje rzeczownik, przysłówek – czasownik:\n- *She is a **careful** driver.* → *She drives **carefully**.*\n\nPrzysłówek stoi zwykle po czasowniku i jego dopełnieniu: *He speaks English **fluently*** (nie *speaks fluently English*).",
+    "sets": [
+      "a2-adverbs-of-manner-1",
+      "a2-adverbs-of-manner-2",
+      "a2-adverbs-of-manner-3"
+    ]
+  },
+  {
+    "id": "a2-going-to",
+    "section": "grammar",
+    "level": "A2",
+    "order": 7,
+    "title": "Going to",
+    "explanation": "**be going to + czasownik** wyraża:\n\n1. **zamiar, plan** podjęty wcześniej: *I'**m going to** visit my grandma tomorrow.*\n2. **przewidywanie na podstawie tego, co widać**: *Look at those clouds! It'**s going to** rain.*\n\nBudowa: **am / is / are + going to + forma podstawowa**\n\n- *I am going to study*, *she is going to study*, *they are going to study*\n\nPrzeczenie: *I'm **not** going to tell him.*\nPytanie: ***Are** you going to call her? What **are** you going to do?*\n\nPo *going to* zawsze forma podstawowa: *going to **play*** (nie *plays*, nie *playing*).",
+    "sets": [
+      "a2-going-to-1",
+      "a2-going-to-2",
+      "a2-going-to-3"
+    ]
+  },
+  {
+    "id": "a2-will",
+    "section": "grammar",
+    "level": "A2",
+    "order": 8,
+    "title": "Will",
+    "explanation": "**will + forma podstawowa** wyraża:\n\n1. **decyzję podjętą w chwili mówienia**: *I'm cold. — I'**ll** close the window.*\n2. **obietnicę**: *I **won't** tell anyone. I'**ll** call you tomorrow.*\n3. **przewidywanie** (opinia, bez dowodów): *I think it **will** be sunny tomorrow.*\n4. **prośbę**: ***Will** you help me?*\n\nForma jest jedna dla wszystkich osób: *I will, she will* (skrót *'ll*). Przeczenie: **won't** (= will not).\n\nPropozycja z *I / we*: ***Shall** I open the window?*\n\n**will czy going to?**\n- *I'**m going to** study law.* – plan podjęty wcześniej\n- *OK, I'**ll** answer it.* – decyzja teraz\n- *Look! It'**s going to** crash!* – widać, co się stanie",
+    "sets": [
+      "a2-will-1",
+      "a2-will-2",
+      "a2-will-3"
+    ]
+  },
+  {
+    "id": "a2-present-continuous-future",
+    "section": "grammar",
+    "level": "A2",
+    "order": 9,
+    "title": "Present Continuous dla planów",
+    "explanation": "**Present Continuous** opisuje też **ustalone plany na przyszłość** – zwykle spotkania i umówione rzeczy, z określonym czasem:\n\n*I'**m meeting** Tom at six tomorrow. We'**re flying** to Rome next week.*\n\nPytanie o czyjeś plany: *What **are** you **doing** on Saturday?*\n\nPorównaj trzy formy przyszłości:\n- *I'**m meeting** Tom at six.* – umówione (jest data, godzina, druga osoba)\n- *I'**m going to** learn French.* – zamiar\n- *I'**ll** open the window.* – decyzja teraz\n\nW tej funkcji prawie zawsze pojawia się określenie czasu: *tonight, tomorrow, next week, on Friday*.",
+    "sets": [
+      "a2-present-continuous-future-1",
+      "a2-present-continuous-future-2",
+      "a2-present-continuous-future-3"
+    ]
+  },
+  {
+    "id": "a2-have-to-must",
+    "section": "grammar",
+    "level": "A2",
+    "order": 10,
+    "title": "have to, must, mustn't, don't have to",
+    "explanation": "**must** i **have to** znaczą „musieć”:\n\n- **must** – mówiący sam uważa, że coś jest konieczne: *I **must** call Mum.*\n- **have to** – konieczność wynika z zasad, pracy, sytuacji: *I **have to** wear a uniform at work.* Z he/she: ***has to***.\n\nW przeczeniu znaczenie się rozchodzi:\n\n- **mustn't** = **nie wolno**: *You **mustn't** smoke here.*\n- **don't / doesn't have to** = **nie musisz** (ale możesz): *It's Sunday. I **don't have to** get up early.*\n\nPytania i czas przeszły tworzymy z **have to**:\n- ***Do** you **have to** work on Saturdays?*\n- *Yesterday I **had to** stay late.* (must nie ma formy przeszłej)",
+    "sets": [
+      "a2-have-to-must-1",
+      "a2-have-to-must-2",
+      "a2-have-to-must-3"
+    ]
+  },
+  {
+    "id": "a2-should",
+    "section": "grammar",
+    "level": "A2",
+    "order": 11,
+    "title": "Should",
+    "explanation": "**should** służy do dawania **rad** i mówienia, co jest dobrym pomysłem: *You look tired. You **should** go to bed.*\n\n- forma jedna dla wszystkich osób: *I should, he should* (bez -s)\n- po should forma podstawowa, bez *to*: *You should **eat*** (nie *should to eat*)\n- przeczenie: **shouldn't** – *You **shouldn't** drive so fast.*\n- pytanie o radę: ***Should** I call her? What **should** I do?*\n\nCzęsto z *I think / I don't think*: *I think you **should** apologise.*\n\n**should** to rada, **must / have to** to konieczność: *You **should** try this cake* (polecam), ale *You **must** wear a seatbelt* (obowiązek).",
+    "sets": [
+      "a2-should-1",
+      "a2-should-2",
+      "a2-should-3"
+    ]
+  },
+  {
+    "id": "a2-present-perfect-ever-never",
+    "section": "grammar",
+    "level": "A2",
+    "order": 12,
+    "title": "Present Perfect: ever i never",
+    "explanation": "**Present Perfect** z **ever** i **never** mówi o **doświadczeniach życiowych** – czy coś się kiedykolwiek zdarzyło, bez podawania, kiedy:\n\n- ***Have** you **ever been** to Japan?* – Czy kiedykolwiek byłeś w Japonii?\n- *I'**ve never eaten** sushi.* – Nigdy nie jadłem sushi.\n\nBudowa: **have / has + III forma czasownika**\n\n- regularne: *visited, played, worked*\n- nieregularne: *be → **been**, see → **seen**, eat → **eaten**, go → **gone**, write → **written**, drive → **driven***\n\nKrótkie odpowiedzi: *Yes, I have. / No, she hasn't.*\n\nGdy podajemy, **kiedy** to było, przechodzimy na Past Simple: *I've been to Rome. I **went** there in 2019.*\n\n*been to* = byłem (i wróciłem); *gone to* = pojechał (i jest tam teraz).",
+    "sets": [
+      "a2-present-perfect-ever-never-1",
+      "a2-present-perfect-ever-never-2",
+      "a2-present-perfect-ever-never-3"
+    ]
+  },
+  {
+    "id": "a2-articles-basics",
+    "section": "grammar",
+    "level": "A2",
+    "order": 13,
+    "title": "Przedimki a, the i brak przedimka: podstawy",
+    "explanation": "- **a / an** – jedna rzecz z wielu, wspomniana pierwszy raz, albo zawód: *I've got **a** dog. She's **an** engineer.*\n- **the** – ta konkretna, już znana albo jedyna: *I've got a dog. **The** dog is called Max. **The** sun, **the** Moon.*\n- **brak przedimka** – rzeczy w ogóle (liczba mnoga lub niepoliczalne): *I like **cats**. **Music** is important.*\n\nUtarte wyrażenia:\n- **the**: *play **the** guitar / piano*, *go to **the** cinema*, *in **the** morning*, *the best...*\n- **bez przedimka**: *play football*, *watch TV*, *go to bed / work / school*, *have breakfast / lunch*, *by bus / car*\n\nZasada na start: gdy mówisz o czymś pierwszy raz – **a**; gdy obie strony wiedzą, o co chodzi – **the**.",
+    "sets": [
+      "a2-articles-basics-1",
+      "a2-articles-basics-2",
+      "a2-articles-basics-3"
+    ]
+  },
+  {
+    "id": "a2-like-love-hate-ing",
+    "section": "grammar",
+    "level": "A2",
+    "order": 14,
+    "title": "like, love, hate + -ing",
+    "explanation": "Po czasownikach wyrażających upodobanie zwykle stoi czasownik z **-ing**:\n\n- **like** (lubić), **love** (uwielbiać), **enjoy** (lubić, czerpać przyjemność)\n- **don't mind** (nie mieć nic przeciwko), **hate** (nienawidzić), **can't stand** (nie znosić)\n\n*I **love listening** to music. She **hates getting up** early. I **don't mind doing** the dishes.*\n\nPo *like, love, hate* można też użyć *to + czasownik* (*I like to read*), ale po **enjoy**, **don't mind** i **can't stand** – tylko **-ing**.\n\nPisownia -ing: *make → making*, *swim → swimming*, *lie → lying*.\n\nForma -ing może też być podmiotem: ***Skiing** is my favourite sport.*",
+    "sets": [
+      "a2-like-love-hate-ing-1",
+      "a2-like-love-hate-ing-2",
+      "a2-like-love-hate-ing-3"
+    ]
+  },
+  {
+    "id": "a2-want-would-like-to",
+    "section": "grammar",
+    "level": "A2",
+    "order": 15,
+    "title": "want, would like + to",
+    "explanation": "**want** (chcieć) i **would like** (chciałbym – grzeczniej) łączą się z **to + czasownik** albo z rzeczownikiem:\n\n- *I **want to go** home. She **wants** a new phone.*\n- *I'**d like to book** a table. **Would** you **like** a drink?*\n\n**Would like** jest uprzejme – używaj go w sklepie, restauracji, w prośbach. Skrót: *I'd like*.\n\nPytania:\n- *Do you **want** to come?* – zwyczajnie\n- ***Would** you **like** to come?* – grzeczna propozycja; odpowiedź: *Yes, I'd love to. / Yes, please. / No, thanks.*\n\nGdy chcemy, żeby **ktoś inny** coś zrobił: *I want **you to help** me.*\n\nPo *want / would like* zawsze **to**: *I want **to** sleep* (nie *I want sleep*).",
+    "sets": [
+      "a2-want-would-like-to-1",
+      "a2-want-would-like-to-2",
+      "a2-want-would-like-to-3"
+    ]
+  },
+  {
+    "id": "a2-conjunctions",
+    "section": "grammar",
+    "level": "A2",
+    "order": 16,
+    "title": "Spójniki and, but, because, so",
+    "explanation": "Spójniki łączą zdania i pokazują związek między nimi:\n\n- **and** – i, dodanie: *I like tea **and** coffee.*\n- **but** – ale, przeciwieństwo: *She is rich, **but** she isn't happy.*\n- **because** – ponieważ, przyczyna: *I stayed at home **because** I was ill.*\n- **so** – więc, skutek: *It was raining, **so** we took a taxi.*\n\nPrzed **so** i **but** często stawiamy przecinek. Przed **because** zwykle nie.\n\nNie myl **because** i **so**:\n- *I'm hungry, **so** I'm going to eat.* (skutek)\n- *I'm going to eat **because** I'm hungry.* (przyczyna)\n\nNa pytanie *Why...?* odpowiadamy *Because...*",
+    "sets": [
+      "a2-conjunctions-1",
+      "a2-conjunctions-2",
+      "a2-conjunctions-3"
+    ]
+  },
+  {
+    "id": "a2-object-pronouns-possessive-s",
+    "section": "grammar",
+    "level": "A2",
+    "order": 17,
+    "title": "Zaimki w funkcji dopełnienia i dopełniacz 's",
+    "explanation": "**Zaimki w funkcji dopełnienia** stoją po czasowniku lub przyimku (kogo? komu? z kim?):\n\n- *I → **me**, you → **you**, he → **him**, she → **her**, it → **it**, we → **us**, they → **them***\n- *Call **me**. I love **her**. Come with **us**. I can't find **them**.*\n\nNie mów *Give it to I* – po czasowniku i przyimku zawsze forma dopełnienia.\n\n**Dopełniacz 's** mówi, do kogo coś należy:\n\n- *Tom**'s** car* (samochód Toma), *my mum**'s** name*\n- liczba mnoga na -s: sam apostrof – *my parents**'** house*, *the girls**'** room*\n- nieregularna liczba mnoga: *the children**'s** room*\n\nPo angielsku nie mówimy *the car of Tom* – mówimy *Tom's car*.",
+    "sets": [
+      "a2-object-pronouns-possessive-s-1",
+      "a2-object-pronouns-possessive-s-2",
+      "a2-object-pronouns-possessive-s-3"
+    ]
+  },
+  {
+    "id": "b1-present-perfect-just-already-yet",
+    "section": "grammar",
+    "level": "B1",
+    "order": 1,
+    "title": "Present Perfect: just, already, yet",
+    "explanation": "**Present Perfect** z **just, already, yet** mówi o rzeczach, które zdarzyły się (albo nie) niedawno i mają znaczenie teraz:\n\n- **just** – właśnie, przed chwilą: *I'**ve just** finished.* (między *have* a III formą)\n- **already** – już (wcześniej, niż ktoś się spodziewał): *She'**s already** seen it.*\n- **yet** – w pytaniach „już?”, w przeczeniach „jeszcze nie”; stoi **na końcu** zdania:\n  *Have you finished **yet**? I haven't decided **yet**.*\n\nKrótka odpowiedź: *Not yet.* (Jeszcze nie.)\n\nPolskie „już” to raz *already* (twierdzenie), raz *yet* (pytanie).\n\nUwaga: w amerykańskim angielskim z *just / already / yet* często używa się Past Simple (*I just finished*). W ćwiczeniach trzymamy się wersji brytyjskiej.",
+    "sets": [
+      "b1-present-perfect-just-already-yet-1",
+      "b1-present-perfect-just-already-yet-2",
+      "b1-present-perfect-just-already-yet-3"
+    ]
+  },
+  {
+    "id": "b1-present-perfect-for-since",
+    "section": "grammar",
+    "level": "B1",
+    "order": 2,
+    "title": "Present Perfect: for i since",
+    "explanation": "Present Perfect z **for** i **since** mówi, jak długo trwa coś, co zaczęło się w przeszłości i trwa do teraz. Po polsku używamy wtedy czasu teraźniejszego („Mieszkam tu od 2019 roku”), a po angielsku Present Perfect: *I have lived here since 2019.*\n\n- **for** + okres: for two years, for a week, for ages, for a long time\n- **since** + początek: since 2019, since Monday, since last summer, since I was a child\n\nPytanie o czas trwania zaczynamy od **How long**: *How long have you known her?*\n\nTypowy błąd: *I live here since 2019* albo *I know him for years*. Polskie „od” to raz for, raz since. Zależy, czy podajesz okres, czy moment początku.\n\nNie myl for z **ago**. Ago mówi, kiedy coś się stało, i łączy się z Past Simple: *I moved here two years ago.* To samo jako stan trwający do teraz: *I have lived here for two years.*",
+    "sets": [
+      "b1-present-perfect-for-since-1",
+      "b1-present-perfect-for-since-2",
+      "b1-present-perfect-for-since-3"
+    ]
+  },
+  {
+    "id": "b1-present-perfect-vs-past-simple",
+    "section": "grammar",
+    "level": "B1",
+    "order": 3,
+    "title": "Present Perfect vs Past Simple",
+    "explanation": "**Past Simple** – zakończone wydarzenie w **określonym** czasie przeszłym:\n*I **went** to Paris **in 2018**. When **did** you **arrive**?*\nSłowa: *yesterday, last week, ago, in 2010, when...?*\n\n**Present Perfect** – przeszłość związana z teraz, **bez podawania kiedy**:\n- doświadczenie: *I'**ve been** to Paris three times.*\n- stan trwający do dziś: *I'**ve known** him since we were kids.*\n- okres, który jeszcze trwa: *She **has written** three books so far.*\nSłowa: *ever, never, so far, since, for, this week, today*.\n\nPorównaj:\n- *She **worked** there for five years.* (już tam nie pracuje)\n- *She **has worked** here for five years.* (nadal pracuje)\n\nPytanie *When...?* zawsze w Past Simple: ***When did** you **meet** him?* (nie *When have you met*).",
+    "sets": [
+      "b1-present-perfect-vs-past-simple-1",
+      "b1-present-perfect-vs-past-simple-2",
+      "b1-present-perfect-vs-past-simple-3"
+    ]
+  },
+  {
+    "id": "b1-used-to",
+    "section": "grammar",
+    "level": "B1",
+    "order": 4,
+    "title": "Used to",
+    "explanation": "**used to + czasownik** opisuje przeszłe zwyczaje i stany, które **już się skończyły** (po polsku „kiedyś”):\n\n- *I **used to** play the piano.* (kiedyś grałem, teraz nie)\n- *There **used to** be a cinema here.* (kiedyś tu było kino)\n\nPrzeczenie i pytanie – z **did** i formą **use to** (bez -d):\n- *I **didn't use to** like coffee.*\n- ***Did** you **use to** have a dog?*\n\nPorównaj:\n- *I **used to** play tennis.* – kiedyś regularnie (już nie)\n- *I **played** tennis yesterday.* – jedno zdarzenie\n- *I **usually** play tennis on Fridays.* – zwyczaj teraz\n\nNie myl z *be used to + -ing* (być przyzwyczajonym) – to temat na B2.",
+    "sets": [
+      "b1-used-to-1",
+      "b1-used-to-2",
+      "b1-used-to-3"
+    ]
+  },
+  {
+    "id": "b1-zero-first-conditional",
+    "section": "grammar",
+    "level": "B1",
+    "order": 5,
+    "title": "Zero i first conditional",
+    "explanation": "**Zero conditional** – fakty, prawa natury, rzeczy zawsze prawdziwe:\n**If + Present Simple, Present Simple** – *If you heat ice, it **melts**.*\n\n**First conditional** – realna sytuacja w przyszłości:\n**If + Present Simple, will + czasownik** – *If it **rains** tomorrow, we**'ll stay** at home.*\n\nNajczęstszy błąd: po **if** nie ma *will*! *If it **rains*** (nie *If it will rain*).\n\nW drugiej części może być też tryb rozkazujący albo *can / may*: *If you need help, **call** me.*\n\n**unless** = *if not* (chyba że): *I won't go **unless** you come.* = *I won't go if you don't come.*\n\nKolejność części można zamienić. Gdy *if* jest na początku, stawiamy przecinek: *If you hurry, you'll catch the bus. / You'll catch the bus if you hurry.*",
+    "sets": [
+      "b1-zero-first-conditional-1",
+      "b1-zero-first-conditional-2",
+      "b1-zero-first-conditional-3"
+    ]
+  },
+  {
+    "id": "b1-second-conditional",
+    "section": "grammar",
+    "level": "B1",
+    "order": 6,
+    "title": "Second conditional",
+    "explanation": "**Second conditional** opisuje sytuacje **nierealne albo mało prawdopodobne** – teraz lub w przyszłości:\n\n**If + Past Simple, would + czasownik**\n- *If I **had** more time, I **would learn** Spanish.* (ale nie mam czasu)\n- *What **would** you **do** if you **won** the lottery?*\n\nMimo formy przeszłej chodzi o teraźniejszość. Po polsku: „gdybym miał...”.\n\nZ **be** w części z *if* często używamy **were** dla wszystkich osób: *If I **were** rich... If she **were** here...* (w mowie potocznej też *was*).\n\nRada: ***If I were you**, I would...* (Na twoim miejscu...)\n\nZamiast *would* może być **could** (mógłbym): *If we had a garden, we **could** have a dog.*\n\nPorównaj z first conditional:\n- *If it **rains**, I'**ll** stay home.* – realne\n- *If I **were** a bird, I'**d** fly.* – nierealne",
+    "sets": [
+      "b1-second-conditional-1",
+      "b1-second-conditional-2",
+      "b1-second-conditional-3"
+    ]
+  },
+  {
+    "id": "b1-time-clauses",
+    "section": "grammar",
+    "level": "B1",
+    "order": 7,
+    "title": "Zdania czasowe: when, as soon as, until",
+    "explanation": "Zdania czasowe zaczynają się od: **when** (kiedy), **as soon as** (jak tylko), **until / till** (aż, dopóki nie), **before** (zanim), **after** (po tym, jak), **while** (podczas gdy).\n\nNajważniejsza zasada: gdy mówimy o przyszłości, **po tych słowach używamy czasu teraźniejszego**, nie *will*:\n\n- *I'll call you **when** I **get** home.* (nie *when I will get*)\n- *Wait here **until** I **come** back.*\n- ***As soon as** she **arrives**, we'll start.*\n\n**until** zawiera już przeczenie z polskiego „dopóki nie”: *I'll wait **until** you finish* = poczekam, aż skończysz.\n\nO przeszłości mówimy normalnie w Past Simple: *I didn't go to bed **until** I **finished** the book.*",
+    "sets": [
+      "b1-time-clauses-1",
+      "b1-time-clauses-2",
+      "b1-time-clauses-3"
+    ]
+  },
+  {
+    "id": "b1-gerund-infinitive",
+    "section": "grammar",
+    "level": "B1",
+    "order": 8,
+    "title": "-ing czy to + bezokolicznik",
+    "explanation": "Po niektórych czasownikach stoi forma **-ing**, po innych **to + czasownik**.\n\n**-ing** po: *enjoy, finish, mind, avoid, suggest, keep, consider, can't stand* i po **przyimkach** (*good at **singing**, thank you for **helping**, without **saying**, interested in **learning**, look forward to **seeing***).\n\n**to + czasownik** po: *want, decide, hope, plan, promise, agree, refuse, manage, forget, need, would like, would love* i po wielu przymiotnikach (*easy **to learn**, difficult **to find***).\n\n**to + czasownik** wyraża też **cel**: *I went out **to buy** milk.* (żeby kupić)\n\nForma -ing może być podmiotem: ***Swimming** is good exercise.*\n\nPrzeczenie: **not** przed: *We decided **not to go**.*\n\nPułapka: w *look forward to* słowo *to* jest przyimkiem, więc dalej idzie -ing: *I'm looking forward to **seeing** you.*",
+    "sets": [
+      "b1-gerund-infinitive-1",
+      "b1-gerund-infinitive-2",
+      "b1-gerund-infinitive-3"
+    ]
+  },
+  {
+    "id": "b1-ed-ing-adjectives",
+    "section": "grammar",
+    "level": "B1",
+    "order": 9,
+    "title": "Przymiotniki z -ed i -ing",
+    "explanation": "Wiele przymiotników ma dwie formy:\n\n- **-ed** – jak **się czuje** osoba: *I'm **bored**. She was **surprised**. We're **excited**.*\n- **-ing** – jaka **jest** rzecz, sytuacja albo osoba, która wywołuje uczucie: *The film is **boring**. The news was **surprising**. The trip is **exciting**.*\n\nPary: *bored / boring, tired / tiring, interested / interesting, excited / exciting, surprised / surprising, disappointed / disappointing, embarrassed / embarrassing, confused / confusing, frightened / frightening, relaxed / relaxing, worried / worrying*.\n\nUwaga: *I'm boring* znaczy „jestem nudny” (dla innych), a nie „nudzę się”!\n\nPo **-ed** często stoi przyimek: *interested **in**, bored **with**, excited **about**, surprised **by / at**, frightened **of***.",
+    "sets": [
+      "b1-ed-ing-adjectives-1",
+      "b1-ed-ing-adjectives-2",
+      "b1-ed-ing-adjectives-3"
+    ]
+  },
+  {
+    "id": "b1-adjectives-prepositions",
+    "section": "grammar",
+    "level": "B1",
+    "order": 10,
+    "title": "Przymiotniki z przyimkami",
+    "explanation": "Wiele przymiotników łączy się ze stałym przyimkiem – trzeba je zapamiętać razem:\n\n- **of**: *afraid of, proud of, tired of, full of, fond of, aware of, jealous of, capable of*\n- **at**: *good at, bad at, surprised at*\n- **in**: *interested in*\n- **about**: *worried about, excited about, sorry about* (coś)\n- **with**: *angry with* (kimś), *bored with, fed up with*\n- **for**: *famous for, responsible for, sorry for* (coś zrobić), *ready for*\n- **to**: *married to, similar to, kind to, nice to, used to*\n- **on**: *keen on*\n\nPo przyimku czasownik ma formę **-ing**: *I'm good at **cooking**. I'm sorry for **being** late.*\n\nPolskie przyimki często nie pasują: „dobry **w**” = *good **at***, „dumny **z**” = *proud **of***, „żonaty **z**” = *married **to***.",
+    "sets": [
+      "b1-adjectives-prepositions-1",
+      "b1-adjectives-prepositions-2",
+      "b1-adjectives-prepositions-3"
+    ]
+  },
+  {
+    "id": "b1-passive-present-past",
+    "section": "grammar",
+    "level": "B1",
+    "order": 11,
+    "title": "Strona bierna: Present Simple i Past Simple",
+    "explanation": "**Strony biernej** używamy, gdy ważniejsze jest **co się dzieje**, a nie kto to robi (albo gdy wykonawca jest nieznany):\n\n- Present Simple: **am / is / are + III forma** – *English **is spoken** all over the world.*\n- Past Simple: **was / were + III forma** – *This bridge **was built** in 1890.*\n\nWykonawcę dodajemy przez **by**, tylko gdy jest ważny: *Hamlet **was written by** Shakespeare.*\n\nPrzeczenie i pytanie tworzymy z *be*:\n- *The room **wasn't cleaned**.*\n- ***Is** Spanish **spoken** in Mexico? When **was** the telephone **invented**?*\n\nZamiana ze strony czynnej: dopełnienie staje się podmiotem.\n*They **make** cars here.* → ***Cars are made** here.*\n\nUważaj na III formę nieregularnych: *built, written, stolen, broken, taken, made, sold*.",
+    "sets": [
+      "b1-passive-present-past-1",
+      "b1-passive-present-past-2",
+      "b1-passive-present-past-3"
+    ]
+  },
+  {
+    "id": "b1-defining-relative-clauses",
+    "section": "grammar",
+    "level": "B1",
+    "order": 12,
+    "title": "Zdania względne definiujące",
+    "explanation": "**Zdania względne definiujące** mówią, **o kogo / o co** chodzi. Bez nich zdanie jest niepełne.\n\n- **who** – ludzie: *The woman **who** lives next door is a doctor.*\n- **which** – rzeczy i zwierzęta: *This is the book **which** I told you about.*\n- **that** – ludzie i rzeczy (częste w mowie): *the film **that** we saw*\n- **where** – miejsca: *the town **where** I was born*\n- **whose** – czyj: *a girl **whose** father is a pilot*\n\nGdy zaimek jest **dopełnieniem**, można go pominąć: *The book (**that**) I'm reading is great.* Gdy jest **podmiotem**, nie: *The man **who** called you...*\n\nNie stawiamy przecinków w zdaniach definiujących.\n\nUwaga: **whose** (czyj) ≠ **who's** (= who is).",
+    "sets": [
+      "b1-defining-relative-clauses-1",
+      "b1-defining-relative-clauses-2",
+      "b1-defining-relative-clauses-3"
+    ]
+  },
+  {
+    "id": "b1-reported-speech-basics",
+    "section": "grammar",
+    "level": "B1",
+    "order": 13,
+    "title": "Mowa zależna: podstawy (say/tell, następstwo czasów)",
+    "explanation": "**Mowa zależna** relacjonuje, co ktoś powiedział. Po czasowniku w przeszłości (**said, told**) czas cofa się o krok:\n\n- *is / am / are → **was / were***\n- *Present Simple → Past Simple*: *\"I live in Rome.\" → He said he **lived** in Rome.*\n- *Present Continuous → Past Continuous*: *\"It's raining.\" → He said it **was raining**.*\n- *will → **would**, can → **could***\n\n**say** czy **tell**?\n- **say** (something): *She **said** (that) she was tired.*\n- **tell somebody** (something): *She **told me** (that) she was tired.* Po *tell* zawsze jest osoba.\n\nZmieniają się też zaimki i określenia czasu i miejsca: *my → his/her, today → that day, tomorrow → the next day, now → then, here → there*.\n\n*that* po *said / told* można pominąć.",
+    "sets": [
+      "b1-reported-speech-basics-1",
+      "b1-reported-speech-basics-2",
+      "b1-reported-speech-basics-3"
+    ]
+  },
+  {
+    "id": "b1-modals-deduction",
+    "section": "grammar",
+    "level": "B1",
+    "order": 14,
+    "title": "Modalne do przypuszczeń: must, might, can't",
+    "explanation": "Czasowniki modalne służą też do **przypuszczeń** o teraźniejszości:\n\n- **must** – na pewno tak (mamy dowód): *He's been working all day. He **must be** tired.*\n- **might / may / could** – możliwe, może: *She isn't answering. She **might be** asleep.*\n- **can't** – na pewno nie, niemożliwe: *You've just eaten. You **can't be** hungry!*\n\nPo modalnym forma podstawowa: *must **be**, might **know**, can't **be***.\n\nUwaga: przeciwieństwem *must* w przypuszczeniach jest **can't**, a nie *mustn't* (*mustn't* znaczy „nie wolno”).\n\nPrzeczenie możliwości: *She **might not** know.* (możliwe, że nie wie)",
+    "sets": [
+      "b1-modals-deduction-1",
+      "b1-modals-deduction-2",
+      "b1-modals-deduction-3"
+    ]
+  },
+  {
+    "id": "b1-articles-the-zero",
+    "section": "grammar",
+    "level": "B1",
+    "order": 15,
+    "title": "Przedimki: the czy brak przedimka",
+    "explanation": "**Brak przedimka** – gdy mówimy **ogólnie**:\n- liczba mnoga i rzeczowniki niepoliczalne w ogóle: ***Cats** are independent. **Life** is beautiful. I love **music**.*\n- większość krajów, miast, ulic, pojedynczych gór i jezior: *Poland, London, Oxford Street, Mount Everest, Lake Garda*\n- posiłki, przedmioty szkolne, sporty, języki: *have **breakfast**, study **history**, play **football**, speak **English***\n- utarte wyrażenia: *at home, at work, in bed, by car, go to bed*\n\n**the** – gdy chodzi o **konkretną** rzecz albo jedyną w swoim rodzaju:\n- *the music **of the 1980s**, the book **I gave you**, the best student*\n- *the Moon, the Earth, the sun*\n- rzeki, morza, oceany, pasma górskie, archipelagi: *the Nile, the Baltic, the Alps*\n- kraje z *United / Kingdom / Republic / States* i w liczbie mnogiej: *the USA, the UK, the Netherlands*\n- muzea, hotele, kina: *the British Museum, the Hilton*\n- instrumenty: *play **the** violin*",
+    "sets": [
+      "b1-articles-the-zero-1",
+      "b1-articles-the-zero-2",
+      "b1-articles-the-zero-3"
+    ]
+  },
+  {
+    "id": "b1-both-either-neither",
+    "section": "grammar",
+    "level": "B1",
+    "order": 16,
+    "title": "both, either, neither, all, none",
+    "explanation": "O **dwóch** rzeczach lub osobach:\n\n- **both** – oba, obaj: *Both my parents are teachers. Both of them...*\n- **either** – którykolwiek (z dwóch); w przeczeniu – żaden: *You can sit on **either** chair. I don't like **either** of them.*\n- **neither** – żaden (z dwóch); ma już przeczenie: ***Neither** answer is correct.* (nie *neither ... not*)\n\nPary: **both ... and** (i ... i), **either ... or** (albo ... albo), **neither ... nor** (ani ... ani).\n\nO **więcej niż dwóch**:\n- **all** – wszyscy, wszystko: *All my friends came.*\n- **none** – żaden, nikt: *None of the students passed.*\n\nPo *of* używamy zaimka w formie dopełnienia: *both of **them**, neither of **us**, all of **you***.",
+    "sets": [
+      "b1-both-either-neither-1",
+      "b1-both-either-neither-2",
+      "b1-both-either-neither-3"
+    ]
+  },
+  {
+    "id": "b1-question-tags",
+    "section": "grammar",
+    "level": "B1",
+    "order": 17,
+    "title": "Question tags",
+    "explanation": "**Question tags** to krótkie pytania na końcu zdania (po polsku „prawda?”, „nie?”):\n\n- zdanie **twierdzące** → tag **przeczący**: *You're a student, **aren't you**?*\n- zdanie **przeczące** → tag **twierdzący**: *She doesn't eat meat, **does she**?*\n\nTag powtarza **czasownik posiłkowy** z zdania (*be, have, can, will...*), a gdy go nie ma – używa **do / does / did**:\n- *He **can** swim, **can't** he?*\n- *They **went** to Rome, **didn't** they?*\n- *You **like** coffee, **don't** you?*\n\nW tagu jest zawsze **zaimek**: *Tom has got a car, hasn't **he**?*\n\nWyjątki: *I'm right, **aren't I**? Let's go, **shall we**? Open the window, **will you**?* · *There's a bank, **isn't there**?* · *Nobody called, **did they**?* (nobody ma znaczenie przeczące)",
+    "sets": [
+      "b1-question-tags-1",
+      "b1-question-tags-2",
+      "b1-question-tags-3"
+    ]
+  },
+  {
+    "id": "b1-so-such-too-enough",
+    "section": "grammar",
+    "level": "B1",
+    "order": 18,
+    "title": "so, such, too, enough",
+    "explanation": "- **so + przymiotnik / przysłówek**: *The film was **so good**! He speaks **so quickly**.*\n- **such (a / an) + (przymiotnik) + rzeczownik**: *It was **such a good film**! They are **such nice people**.*\n  (z niepoliczalnymi i l. mnogą bez *a*: *such bad weather*)\n- **so / such ... that** – skutek: *It was **so cold that** we stayed inside.*\n\n- **too + przymiotnik** – za, zbyt (źle): *This coffee is **too hot** to drink.*\n- **przymiotnik + enough** – wystarczająco: *Is the room **big enough**?*\n- **enough + rzeczownik**: *We don't have **enough time**.*\n- po obu często **to + czasownik** albo **for + osoba**: *too young **to drive**, warm enough **for us***\n\nZapamiętaj kolejność: *tall **enough*** (nie *enough tall*), ale ***enough** money*.\n\nUwaga: *too much* (niepoliczalne) / *too many* (policzalne): *too many people*.",
+    "sets": [
+      "b1-so-such-too-enough-1",
+      "b1-so-such-too-enough-2",
+      "b1-so-such-too-enough-3"
+    ]
+  },
+  {
+    "id": "b1-future-forms",
+    "section": "grammar",
+    "level": "B1",
+    "order": 19,
+    "title": "Porównanie form przyszłych",
+    "explanation": "Angielski ma kilka sposobów mówienia o przyszłości:\n\n- **Present Continuous** – plany ustalone, umówione: *I'**m meeting** Tom at six. We'**re flying** to Rome on Friday.*\n- **be going to** – zamiar; przewidywanie na podstawie tego, co widać: *I'**m going to** sell my car. Look! It'**s going to** rain.*\n- **will** – decyzja w chwili mówienia, obietnica, opinia o przyszłości: *I'**ll** help you. I promise I **won't** tell. I think it **will** be great.*\n- **Present Simple** – rozkłady jazdy, programy, godziny otwarcia: *The train **leaves** at 6:15. The shop **opens** at 9.*\n\nPo *when, if, as soon as* o przyszłości – czas teraźniejszy: *I'll call you when I **arrive**.*\n\nCzęsty błąd: *I will meet Tom at 6* (gdy to umówione) – naturalniej: *I'**m meeting** Tom at 6.*",
+    "sets": [
+      "b1-future-forms-1",
+      "b1-future-forms-2",
+      "b1-future-forms-3"
+    ]
+  },
+  {
+    "id": "b2-present-perfect-continuous",
+    "section": "grammar",
+    "level": "B2",
+    "order": 1,
+    "title": "Present Perfect Continuous",
+    "explanation": "**Present Perfect Continuous** (*have / has been + -ing*) opisuje czynność, która zaczęła się w przeszłości i:\n\n- **trwa do teraz** (często z *for, since, how long*): *I've **been waiting** for an hour! How long have you **been learning** English?*\n- **niedawno się skończyła i widać jej skutki**: *Your hands are dirty – what **have** you **been doing**? She's **been crying**.*\n\nNacisk jest na **czynność i czas jej trwania**, a nie na wynik.\n\nPrzeczenie: *I **haven't been sleeping** well recently.* Pytanie: ***Have** you **been working** all night?*\n\n**for** + okres (*for two hours*), **since** + moment (*since Monday*). Polskie „od” to raz *for*, raz *since*.\n\nCzasowniki stanu (*know, believe, own, like*) nie mają formy ciągłej: *I've **known** him for years* (nie *been knowing*).",
+    "sets": [
+      "b2-present-perfect-continuous-1",
+      "b2-present-perfect-continuous-2",
+      "b2-present-perfect-continuous-3"
+    ]
+  },
+  {
+    "id": "b2-present-perfect-simple-vs-continuous",
+    "section": "grammar",
+    "level": "B2",
+    "order": 2,
+    "title": "Present Perfect Simple vs Continuous",
+    "explanation": "**Present Perfect Simple** – liczy się **wynik** albo **ile** zrobiono:\n*I've **written** three emails. She's **finished** the project. I've **read** this book twice.*\n\n**Present Perfect Continuous** – liczy się **czynność** i **jak długo** trwa (często jeszcze się nie skończyła):\n*I've **been writing** emails all morning. I've **been reading** your book (jeszcze nie skończyłem).*\n\nPorównaj:\n- *I've **painted** the kitchen. Come and see!* (gotowe)\n- *I've **been painting** the kitchen – that's why I'm covered in paint.* (czynność, ślady)\n\nZ liczbą (*three times, five pages*) – zawsze simple. Z *for / since / all day* – zwykle continuous, chyba że to czasownik stanu: *I've **known** her for years* (nie *been knowing*).\n\nCzasowniki stanu bez formy ciągłej: *know, own, believe, understand, like, love, want, need, belong*.",
+    "sets": [
+      "b2-present-perfect-simple-vs-continuous-1",
+      "b2-present-perfect-simple-vs-continuous-2",
+      "b2-present-perfect-simple-vs-continuous-3"
+    ]
+  },
+  {
+    "id": "b2-past-perfect-simple",
+    "section": "grammar",
+    "level": "B2",
+    "order": 3,
+    "title": "Past Perfect Simple",
+    "explanation": "**Past Perfect** (*had + III forma*) opisuje czynność **wcześniejszą** od innej czynności w przeszłości – „zaprzeszłość”:\n\n*When I arrived, the film **had** already **started**.* (najpierw film się zaczął, potem przyszedłem)\n\nPorównaj:\n- *When I arrived, the film **started**.* – zaczął się, gdy przyszedłem\n- *When I arrived, the film **had started**.* – zaczął się wcześniej\n\nTypowe słowa: *already, never ... before, by the time, after, before, as soon as*.\n\nPrzeczenie: *I **hadn't met** him before.* Pytanie: ***Had** you ever **been** abroad before?*\n\nCzęsto pojawia się w mowie zależnej i przy wyjaśnianiu przyczyn: *She was sad because she **had lost** her job. I realised I **had left** my keys at home.*\n\nGdy kolejność jest oczywista (np. z *after*), można użyć Past Simple: *After he **finished** dinner, he went out.*",
+    "sets": [
+      "b2-past-perfect-simple-1",
+      "b2-past-perfect-simple-2",
+      "b2-past-perfect-simple-3"
+    ]
+  },
+  {
+    "id": "b2-past-perfect-continuous",
+    "section": "grammar",
+    "level": "B2",
+    "order": 4,
+    "title": "Past Perfect Continuous",
+    "explanation": "**Past Perfect Continuous** (*had been + -ing*) opisuje **dłuższą czynność**, która trwała **do** jakiegoś momentu w przeszłości (albo tuż przed nim):\n\n- *We **had been waiting** for two hours when the bus finally came.*\n- *She was tired because she **had been working** all day.* (skutek widoczny w przeszłości)\n\nTo „przeszła wersja” Present Perfect Continuous:\n- *I'**ve been waiting** for an hour.* (teraz)\n- *I'**d been waiting** for an hour when she arrived.* (wtedy)\n\n**Simple czy continuous?**\n- *She **had written** three letters.* – ile, wynik\n- *She **had been writing** for hours.* – jak długo, czynność\n\nCzasowniki stanu tylko w simple: *They **had been** married for 20 years* (nie *had been being*).",
+    "sets": [
+      "b2-past-perfect-continuous-1",
+      "b2-past-perfect-continuous-2",
+      "b2-past-perfect-continuous-3"
+    ]
+  },
+  {
+    "id": "b2-narrative-tenses",
+    "section": "grammar",
+    "level": "B2",
+    "order": 5,
+    "title": "Czasy narracyjne",
+    "explanation": "W opowiadaniu o przeszłości łączymy cztery czasy:\n\n- **Past Simple** – główne wydarzenia po kolei: *She **opened** the door and **saw** a stranger.*\n- **Past Continuous** – tło, czynność w trakcie: *It **was raining** and the streets **were** empty. I **was walking** home when...*\n- **Past Perfect** – coś, co stało się **wcześniej**: *When I got to the station, the train **had** already **left**.*\n- **Past Perfect Continuous** – dłuższa czynność przed innym zdarzeniem: *She was angry because she **had been waiting** for an hour.*\n\nSłowa porządkujące opowieść: *once upon a time, suddenly, meanwhile, by the time, as soon as, in the end*.\n\nCzęsty błąd: Past Simple tam, gdzie potrzebny jest Past Perfect: *I couldn't get in because I **had lost** my key* (nie *I lost* – zgubiłem wcześniej, zanim chciałem wejść).",
+    "sets": [
+      "b2-narrative-tenses-1",
+      "b2-narrative-tenses-2",
+      "b2-narrative-tenses-3"
+    ]
+  },
+  {
+    "id": "b2-future-continuous-perfect",
+    "section": "grammar",
+    "level": "B2",
+    "order": 6,
+    "title": "Future Continuous i Future Perfect",
+    "explanation": "**Future Continuous** (*will be + -ing*) – czynność **w trakcie** w określonym momencie przyszłości:\n*This time tomorrow I'**ll be lying** on the beach. Don't call at 8 – I'**ll be having** dinner.*\nTakże grzeczne pytanie o plany: ***Will** you **be using** the car tonight?*\n\n**Future Perfect** (*will have + III forma*) – czynność **zakończona przed** momentem w przyszłości (często z *by*):\n*By next year, I'**ll have finished** my degree. By the time you get here, we'**ll have eaten**.*\n\n**Future Perfect Continuous** (*will have been + -ing*) – jak długo coś będzie trwało do danego momentu:\n*In June we'**ll have been living** here for ten years.*\n\nPorównaj:\n- *At 7 I'**ll be having** dinner.* (w trakcie)\n- *By 7 I'**ll have had** dinner.* (już po)\n- *I'**ll have** dinner at 7.* (zacznę o 7)\n\n**by** = najpóźniej do, przed: *by Friday, by the end of the year, by then*.",
+    "sets": [
+      "b2-future-continuous-perfect-1",
+      "b2-future-continuous-perfect-2",
+      "b2-future-continuous-perfect-3"
+    ]
+  },
+  {
+    "id": "b2-third-conditional",
+    "section": "grammar",
+    "level": "B2",
+    "order": 7,
+    "title": "Third conditional",
+    "explanation": "**Third conditional** – **nierealna przeszłość**: wyobrażamy sobie inny przebieg zdarzeń, których już nie zmienimy.\n\n**If + Past Perfect, would have + III forma**\n- *If I **had known**, I **would have told** you.* (ale nie wiedziałem, więc nie powiedziałem)\n- *If it **hadn't rained**, we **would have gone** to the beach.*\n\nZamiast *would* może być **could have** (mógłbym) albo **might have** (może by): *We **could have taken** a taxi. They **might have won**.*\n\nSkróty: *If I'**d** known, I'**d** have come.* (pierwsze *'d* = *had*, drugie = *would*)\n\nNajczęstszy błąd: *would* po *if*: ~~If I would have known~~ → *If I **had known***.\n\nPo polsku: „gdybym wiedział, powiedziałbym ci” – ta sama forma co dla teraźniejszości, więc z kontekstu trzeba wyczuć, że chodzi o przeszłość.",
+    "sets": [
+      "b2-third-conditional-1",
+      "b2-third-conditional-2",
+      "b2-third-conditional-3"
+    ]
+  },
+  {
+    "id": "b2-mixed-conditionals",
+    "section": "grammar",
+    "level": "B2",
+    "order": 8,
+    "title": "Mixed conditionals",
+    "explanation": "**Mixed conditionals** łączą przeszłość i teraźniejszość:\n\n**1. Przeszła przyczyna → teraźniejszy skutek**\n**If + Past Perfect, would + czasownik**\n- *If I **had taken** that job, I **would be** rich **now**.* (nie przyjąłem – nie jestem bogaty)\n- *If I **hadn't eaten** so much, I **wouldn't feel** sick now.*\n\n**2. Stała cecha / sytuacja teraz → przeszły skutek**\n**If + Past Simple, would have + III forma**\n- *If I **weren't** afraid of flying, I **would have gone** to Australia last year.* (boję się zawsze)\n- *If he **spoke** Spanish, he **would have understood** them yesterday.*\n\nPodpowiedź: patrz na określenia czasu (*now, today, yesterday, last year*) i pytaj, która część dotyczy przeszłości, a która teraźniejszości.",
+    "sets": [
+      "b2-mixed-conditionals-1",
+      "b2-mixed-conditionals-2",
+      "b2-mixed-conditionals-3"
+    ]
+  },
+  {
+    "id": "b2-wish-if-only",
+    "section": "grammar",
+    "level": "B2",
+    "order": 9,
+    "title": "wish, if only",
+    "explanation": "**wish / if only** wyrażają żal albo pragnienie. Czas „cofa się” o krok:\n\n- **teraźniejszość** → *wish + Past Simple*: *I wish I **had** more time. I wish I **were** taller.* (ale nie mam, nie jestem)\n- **przeszłość** → *wish + Past Perfect*: *I wish I **had studied** harder. If only I **hadn't said** that!*\n- **czyjeś zachowanie, które irytuje** → *wish + would*: *I wish you **would stop** interrupting me! I wish it **would stop** raining.*\n- **umiejętność** → *wish + could*: *I wish I **could** swim.*\n\n**If only** jest mocniejsze, bardziej emocjonalne niż *I wish*.\n\nNie mówimy *I wish I would...* o sobie – zamiast tego *I wish I could...*.\n\nPodobnie: *I'd rather you **didn't** smoke here.* (wolałbym, żebyś nie palił)",
+    "sets": [
+      "b2-wish-if-only-1",
+      "b2-wish-if-only-2",
+      "b2-wish-if-only-3"
+    ]
+  },
+  {
+    "id": "b2-passive-all-tenses",
+    "section": "grammar",
+    "level": "B2",
+    "order": 10,
+    "title": "Strona bierna we wszystkich czasach",
+    "explanation": "Strona bierna to zawsze **be + III forma**; czas wyrażamy formą *be*:\n\n- Present Simple: *is / are done* – *English **is spoken** here.*\n- Present Continuous: *is / are being done* – *The house **is being painted**.*\n- Past Simple: *was / were done* – *It **was built** in 1890.*\n- Past Continuous: *was / were being done* – *The road **was being repaired**.*\n- Present Perfect: *has / have been done* – *The letter **has been sent**.*\n- Past Perfect: *had been done* – *The food **had been eaten**.*\n- Future: *will be done* – *The results **will be announced** tomorrow.*\n- Future Perfect: *will have been done* – *It **will have been finished** by May.*\n\nWykonawca z **by** tylko wtedy, gdy jest ważny. Strona bierna jest typowa dla tekstów formalnych, wiadomości i opisów procesów.\n\nUwaga: *being* (czasy ciągłe) ≠ *been* (czasy perfect).",
+    "sets": [
+      "b2-passive-all-tenses-1",
+      "b2-passive-all-tenses-2",
+      "b2-passive-all-tenses-3"
+    ]
+  },
+  {
+    "id": "b2-passive-modals",
+    "section": "grammar",
+    "level": "B2",
+    "order": 11,
+    "title": "Strona bierna z czasownikami modalnymi",
+    "explanation": "Strona bierna z czasownikami modalnymi:\n\n- **teraźniejszość / przyszłość**: *modal + be + III forma*\n  *The work **must be finished** by Friday. Tickets **can be bought** online. Phones **must not be used** during the exam.*\n- **przeszłość**: *modal + have been + III forma*\n  *The accident **could have been avoided**. The report **should have been checked**. The letter **might have been lost**.*\n\nTakże z *have to / will have to*: *The meeting **will have to be postponed**.*\n\nTypowe w regulaminach, instrukcjach i ogłoszeniach: *Children must be accompanied by an adult. Food may not be taken into the cinema.*\n\nCzęste błędy: brak *be* (*must finished*) albo *be* zamiast *been* w przeszłości (*must have be*).",
+    "sets": [
+      "b2-passive-modals-1",
+      "b2-passive-modals-2",
+      "b2-passive-modals-3"
+    ]
+  },
+  {
+    "id": "b2-have-something-done",
+    "section": "grammar",
+    "level": "B2",
+    "order": 12,
+    "title": "have/get something done",
+    "explanation": "**have / get something done** – zlecamy komuś wykonanie czegoś (fryzjer, mechanik, firma):\n\n**have + rzeczownik + III forma**\n- *I **had my hair cut** yesterday.* (fryzjer mnie ostrzygł)\n- *We're **having the house painted** next week.*\n- *I need to **have my car repaired**.*\n\n**get** zamiast **have** jest bardziej potoczne: *Where did you **get** your photos **printed**?*\n\nTa sama konstrukcja opisuje też coś **przykrego, co nas spotkało**: *He **had his wallet stolen** on the train.* (ukradziono mu portfel)\n\nPorównaj:\n- *I **cut** my hair.* – sam się ostrzygłem\n- *I **had** my hair **cut**.* – u fryzjera\n\nOdmieniamy tylko *have / get*: *I'm having / I had / I've had / I'll have my car serviced.*",
+    "sets": [
+      "b2-have-something-done-1",
+      "b2-have-something-done-2",
+      "b2-have-something-done-3"
+    ]
+  },
+  {
+    "id": "b2-reported-questions-commands",
+    "section": "grammar",
+    "level": "B2",
+    "order": 13,
+    "title": "Mowa zależna: pytania i polecenia",
+    "explanation": "**Pytania w mowie zależnej** mają **szyk zdania twierdzącego** (bez *do / does / did*, bez inwersji) i nie mają znaku zapytania:\n\n- pytania z pytajnikiem: *\"Where do you live?\" → She asked me **where I lived**.*\n- pytania tak/nie: **if / whether**: *\"Are you tired?\" → He asked me **if I was** tired.*\n\nCzasy cofają się jak w zwykłej mowie zależnej: *\"Have you finished?\" → She asked if I **had finished**.*\n\n**Polecenia i prośby**: *tell / ask somebody **(not) to** + czasownik*\n- *\"Close the door.\" → He **told me to close** the door.*\n- *\"Don't be late.\" → She **told us not to be** late.*\n- *\"Please help me.\" → She **asked me to help** her.*\n\nCzęste błędy: *She asked where **did I** work* → *where **I worked***; *He told me **don't** worry* → *He told me **not to** worry*.",
+    "sets": [
+      "b2-reported-questions-commands-1",
+      "b2-reported-questions-commands-2",
+      "b2-reported-questions-commands-3"
+    ]
+  },
+  {
+    "id": "b2-reporting-verbs",
+    "section": "grammar",
+    "level": "B2",
+    "order": 14,
+    "title": "Reporting verbs",
+    "explanation": "Zamiast ciągle *said / told* używamy czasowników, które oddają **intencję** mówiącego. Każdy ma swoją konstrukcję:\n\n- **+ to**: *promise, refuse, agree, offer, threaten* – *He **promised to call** me.*\n- **+ osoba + to**: *advise, warn, remind, encourage, persuade, tell, ask* – *She **advised me to see** a doctor.*\n- **+ -ing**: *suggest, deny, admit, recommend* – *She **suggested going** to the cinema. He **denied stealing** the money.*\n- **+ przyimek + -ing**: *apologise **for**, insist **on**, accuse somebody **of**, blame somebody **for**, congratulate somebody **on***\n\nUwaga na **suggest**: *She suggested **going*** albo *She suggested **that we go*** (nie *suggested us to go*).\n\nCzasowniki relacjonujące dają tekstowi precyzję: *\"I didn't take it!\"* → *He **denied taking** it.*",
+    "sets": [
+      "b2-reporting-verbs-1",
+      "b2-reporting-verbs-2",
+      "b2-reporting-verbs-3"
+    ]
+  },
+  {
+    "id": "b2-non-defining-relative-clauses",
+    "section": "grammar",
+    "level": "B2",
+    "order": 15,
+    "title": "Zdania względne niedefiniujące",
+    "explanation": "**Zdania względne niedefiniujące** dodają **dodatkową informację** o kimś lub czymś, kogo już zidentyfikowaliśmy. Bez nich zdanie nadal ma sens.\n\n- Zawsze **przecinki** (albo przecinek przed i kropka na końcu).\n- **Nie używamy *that*** – tylko *who, which, whose, where, when*.\n- Zaimka **nie można pominąć**.\n\n*My brother, **who** lives in Oslo, is a doctor.* (mam jednego brata – informacja dodatkowa)\n*Kraków, **which** is in the south of Poland, is beautiful.*\n\n**which** może odnosić się do **całego poprzedniego zdania**: *He passed the exam, **which** surprised everyone.*\n\nPorównaj ze zdaniem definiującym:\n- *My brother **who lives in Oslo** is a doctor.* – mam kilku braci, chodzi o tego z Oslo\n- *My brother, **who lives in Oslo**, is a doctor.* – jeden brat, dodatkowa informacja",
+    "sets": [
+      "b2-non-defining-relative-clauses-1",
+      "b2-non-defining-relative-clauses-2",
+      "b2-non-defining-relative-clauses-3"
+    ]
+  },
+  {
+    "id": "b2-past-modals",
+    "section": "grammar",
+    "level": "B2",
+    "order": 16,
+    "title": "Modalne w przeszłości: must, should, could have",
+    "explanation": "**modal + have + III forma** mówi o przeszłości:\n\n**Przypuszczenia**:\n- **must have done** – na pewno: *He's late. He **must have missed** the bus.*\n- **might / may / could have done** – możliwe: *They **might have got** lost.*\n- **can't / couldn't have done** – niemożliwe: *She **can't have done** it – she was with me.*\n\n**Krytyka i żal**:\n- **should have done** – powinien był: *I **should have studied** more.*\n- **shouldn't have done** – nie powinien był: *You **shouldn't have said** that.*\n\n**Niewykorzystana możliwość**: **could have done** – *You **could have killed** me! We **could have won**.*\n\n**Niepotrzebne działanie**: **needn't have done** – zrobiliśmy, ale nie było trzeba: *We **needn't have taken** a taxi.*\n\nPrzeciwieństwem *must have* jest *can't have* (nie *mustn't have*).",
+    "sets": [
+      "b2-past-modals-1",
+      "b2-past-modals-2",
+      "b2-past-modals-3"
+    ]
+  },
+  {
+    "id": "b2-used-to-be-get-used-to",
+    "section": "grammar",
+    "level": "B2",
+    "order": 17,
+    "title": "used to, be used to, get used to",
+    "explanation": "Trzy konstrukcje, które łatwo pomylić:\n\n- **used to + czasownik** – kiedyś (a teraz już nie): *I **used to live** in London.* Przeczenie i pytanie z *did / use to*.\n- **be used to + -ing / rzeczownik** – być przyzwyczajonym: *I'**m used to working** at night. She **isn't used to** the cold.*\n- **get used to + -ing / rzeczownik** – przyzwyczajać się (proces): *You'll **get used to wearing** glasses. It took me a year to **get used to** the food.*\n\nW *be / get used to* słowo **to** jest przyimkiem, więc dalej idzie **-ing** albo rzeczownik: *used to **driving*** (nie *used to drive*).\n\n*be / get* odmieniamy normalnie: *I was used to..., I've got used to..., I'm getting used to...*",
+    "sets": [
+      "b2-used-to-be-get-used-to-1",
+      "b2-used-to-be-get-used-to-2",
+      "b2-used-to-be-get-used-to-3"
+    ]
+  },
+  {
+    "id": "b2-advanced-articles",
+    "section": "grammar",
+    "level": "B2",
+    "order": 18,
+    "title": "Przedimki dla zaawansowanych",
+    "explanation": "Zaawansowane zasady użycia przedimków:\n\n**the + przymiotnik** = grupa ludzi: *the rich, the poor, the elderly, the young, the unemployed, the disabled* – *The rich should pay more taxes.*\n\n**Instytucje bez the**, gdy chodzi o ich główną funkcję: *go to **church** (modlić się), be in **hospital** (pacjent), in **prison** (więzień), at **school / university** (uczeń, student)*. Z **the**, gdy chodzi o budynek: *I visited **the** church to see the paintings.*\n\n**the + nazwisko w l. mnogiej** = rodzina: ***The Smiths** are coming to dinner.*\n\n**Nazwy geograficzne z the**: oceany i morza (*the Pacific*), rzeki, pasma górskie (*the Himalayas*), pustynie, archipelagi.\n\n**Wykrzyknienia**: *What **a** lovely day!* (policzalne), *What beautiful **weather**!* (niepoliczalne – bez *a*).\n\n**Niepoliczalne bez a/an**: *advice, information, news, weather, furniture* – *some advice, a piece of advice* (nie *an advice*).",
+    "sets": [
+      "b2-advanced-articles-1",
+      "b2-advanced-articles-2",
+      "b2-advanced-articles-3"
+    ]
+  },
+  {
+    "id": "b2-gerund-after-prepositions",
+    "section": "grammar",
+    "level": "B2",
+    "order": 19,
+    "title": "Gerund po przyimkach",
+    "explanation": "Po **przyimku** czasownik ma zawsze formę **-ing** (gerund):\n\n- po przymiotniku z przyimkiem: *interested **in learning**, good **at fixing**, afraid **of flying**, tired **of waiting**, responsible **for organising***\n- po czasowniku z przyimkiem: *think **about changing**, insist **on paying**, succeed **in passing**, apologise **for being***\n- po samodzielnych przyimkach: ***without saying**, **instead of complaining**, **before leaving**, **after finishing**, **by reading**, **despite feeling***\n\nSzczególnie zdradliwe jest **to** jako przyimek: *look forward **to seeing**, be used **to working**, object **to being**, in addition **to having***.\n\nWyrażenia: *There's no point **(in) worrying**. How about **going** out? What about **ordering** pizza?*\n\n**by + -ing** wyraża sposób: *You can improve your English **by reading** more.*",
+    "sets": [
+      "b2-gerund-after-prepositions-1",
+      "b2-gerund-after-prepositions-2",
+      "b2-gerund-after-prepositions-3"
+    ]
+  },
+  {
+    "id": "b2-make-let-allow",
+    "section": "grammar",
+    "level": "B2",
+    "order": 20,
+    "title": "make, let, allow",
+    "explanation": "- **make somebody do** – zmusić kogoś do czegoś (bez *to*!): *My boss **made me stay** late. Sad films **make me cry**.*\n- **let somebody do** – pozwolić komuś (bez *to*!): *My parents **let me go** out. **Let me help** you.*\n- **allow somebody to do** – zezwolić (bardziej formalne, **z to**): *The teacher **allowed us to leave** early.*\n- **be allowed to do** – mieć pozwolenie: *We **aren't allowed to use** phones at work.*\n\nW stronie biernej:\n- *make* → **be made to do** (z *to*!): *I **was made to sign** the contract.*\n- *let* nie ma strony biernej → używamy *be allowed to*: *I **was allowed to** stay* (nie *I was let*).\n\nCzęste błędy: *make me **to** cry*, *let me **to** go*, *allow me **go***.",
+    "sets": [
+      "b2-make-let-allow-1",
+      "b2-make-let-allow-2",
+      "b2-make-let-allow-3"
+    ]
+  },
+  {
+    "id": "c1-inversion",
+    "section": "grammar",
+    "level": "C1",
+    "order": 1,
+    "title": "Inwersja: Never have I…, Not only…, Hardly… when",
+    "explanation": "**Inwersja** (szyk pytający po wyrażeniu przeczącym lub ograniczającym na początku zdania) dodaje emfazy i brzmi formalnie lub literacko:\n\n- **Never / Rarely / Seldom** + *have / do*: ***Never have I seen** such chaos. **Rarely do we** get a chance like this.*\n- **Not only ... but (also)**: ***Not only did he** lie, **but** he also blamed me.*\n- **Hardly / Scarcely ... when**, **No sooner ... than** (ledwo... gdy): ***Hardly had I** sat down **when** the phone rang. **No sooner had we** arrived **than** it started to rain.*\n- **Only then / Only when / Only after / Only by**: ***Only when** I got home **did I** realise...* (inwersja w **drugiej** części!)\n- **Under no circumstances / On no account / At no time**: ***Under no circumstances should you** open this door.*\n- **Little** (wcale nie): ***Little did she know** what was waiting for her.*\n- **Not until**: ***Not until** the end **did** I understand.*\n\nGdy w zdaniu nie ma czasownika posiłkowego, dodajemy *do / does / did*: *He rarely smiles → Rarely **does he smile**.*",
+    "sets": [
+      "c1-inversion-1",
+      "c1-inversion-2",
+      "c1-inversion-3"
+    ]
+  },
+  {
+    "id": "c1-inverted-conditionals",
+    "section": "grammar",
+    "level": "C1",
+    "order": 2,
+    "title": "Odwrócone okresy warunkowe: Had I known, Should you, Were I to",
+    "explanation": "W stylu formalnym można pominąć **if** i zrobić **inwersję**:\n\n- **Should** (1. tryb, mało prawdopodobne): *If you need help...* → ***Should you need** any help, please contact us.*\n- **Were** (2. tryb): *If I were you...* → ***Were I** you, I would accept.* Z czasownikiem: ***Were we to** lose, we would be eliminated.* (*were + to + czasownik*)\n- **Had** (3. tryb): *If I had known...* → ***Had I known**, I would have come.*\n\nPrzeczenie: ***Had I not** seen it* (nie *Hadn't I seen*), ***Were it not for** your help, we would fail.* ***Had it not been for** the rain, we would have won.*\n\nTakie zdania są typowe dla e-maili formalnych, umów, regulaminów i esejów: *Should you have any questions, do not hesitate to contact me.*",
+    "sets": [
+      "c1-inverted-conditionals-1",
+      "c1-inverted-conditionals-2",
+      "c1-inverted-conditionals-3"
+    ]
+  },
+  {
+    "id": "c1-cleft-sentences",
+    "section": "grammar",
+    "level": "C1",
+    "order": 3,
+    "title": "Cleft sentences",
+    "explanation": "**Cleft sentences** (zdania rozszczepione) wyróżniają jedną część zdania:\n\n**It is / was ... that / who ...**\n- *Tom broke the window.* → ***It was Tom who** broke the window.* (to Tom, a nie ktoś inny)\n- → ***It was the window that** Tom broke.*\n- → ***It was yesterday that** he broke it.*\n\n**What ... is / was ...** (to, co...)\n- *I need a holiday.* → ***What I need is** a holiday.*\n- *He lost his job.* → ***What happened was that** he lost his job.*\n- *She called the police.* → ***What she did was (to) call** the police.*\n\nInne: ***All I want is** some peace.* (jedyne, czego chcę) · ***The reason (why)** I left **was that**... · ***The thing that** annoys me **is**... · ***The person who** helped me **was**...*\n\nUwaga: po *What ... did was* czasownik w formie podstawowej (z *to* lub bez).",
+    "sets": [
+      "c1-cleft-sentences-1",
+      "c1-cleft-sentences-2",
+      "c1-cleft-sentences-3"
+    ]
+  },
+  {
+    "id": "c1-participle-clauses",
+    "section": "grammar",
+    "level": "C1",
+    "order": 4,
+    "title": "Imiesłowowe równoważniki zdań",
+    "explanation": "**Imiesłowowe równoważniki zdań** skracają zdania podrzędne i nadają tekstowi zwięzłość:\n\n- **-ing** (czynność równoczesna lub przyczyna): ***Walking** home, I met an old friend. **Feeling** tired, she went to bed early.*\n- **Having + III forma** (czynność wcześniejsza): ***Having finished** the report, he went home.*\n- **III forma** (znaczenie bierne): ***Built** in 1890, the bridge is still in use. **Asked** about the delay, the manager apologised.*\n- **Not** przed imiesłowem: ***Not knowing** what to do, I called my dad.*\n- po spójnikach: ***While waiting**, ... **After leaving** school, ... **Before signing**, ... **When asked**, ...*\n\n**Uwaga – wiszący imiesłów**: podmiot zdania głównego musi być tym, kto wykonuje czynność imiesłowu.\n- ❌ *Walking into the room, the lights went out.* (światła nie wchodziły)\n- ✅ *Walking into the room, I noticed that the lights were off.*",
+    "sets": [
+      "c1-participle-clauses-1",
+      "c1-participle-clauses-2",
+      "c1-participle-clauses-3"
+    ]
+  },
+  {
+    "id": "c1-impersonal-passive",
+    "section": "grammar",
+    "level": "C1",
+    "order": 5,
+    "title": "Bezosobowa strona bierna: It is said that…, He is believed to…",
+    "explanation": "**Bezosobowa strona bierna** pozwala przekazać opinie i informacje bez podawania źródła – typowe w wiadomościach i tekstach naukowych. Czasowniki: *say, believe, think, report, expect, know, consider, claim, estimate*.\n\n**1. It + is/was + III forma + that ...**\n- *People say that he is rich.* → ***It is said that** he is rich.*\n\n**2. Podmiot + is/was + III forma + to + bezokolicznik**\n- teraźniejszość: *He **is said to be** rich.*\n- czynność w toku: *She **is thought to be living** in Spain.*\n- przeszłość: *He **is believed to have left** the country.* (*to have + III forma*)\n\n**There**: ***There are thought to be** over 100 victims.*\n\nUważaj na czas: *It **was** reported that the minister **had resigned*** → *The minister **was** reported **to have resigned**.*",
+    "sets": [
+      "c1-impersonal-passive-1",
+      "c1-impersonal-passive-2",
+      "c1-impersonal-passive-3"
+    ]
+  },
+  {
+    "id": "c1-formal-subjunctive",
+    "section": "grammar",
+    "level": "C1",
+    "order": 6,
+    "title": "Konstrukcje formalne i subjunctive",
+    "explanation": "**Subjunctive** (tryb łączący) to forma podstawowa czasownika (bez *-s*, bez czasu przeszłego) po czasownikach i wyrażeniach oznaczających **żądanie, propozycję lub konieczność**. Typowy dla stylu formalnego:\n\n- **suggest, recommend, insist, demand, request, propose, ask + that**: *The doctor **recommended that** he **stop** smoking.* (nie *stops*) *They **insisted that** she **be** present.*\n- **It is essential / vital / important / crucial / necessary + that**: *It is **essential that** every student **attend** the meeting.*\n- przeczenie: **not + forma podstawowa**: *We suggest that he **not** **travel** alone.*\n\nW brytyjskim angielskim często zamiast tego: ***should** + czasownik*: *They insisted that she **should be** present.*\n\nUtarte zwroty: ***God save** the King, **Long live**..., **So be it**, **Be that as it may**, **if need be**, **as it were**.*\n\n**were** w zdaniach nierealnych: *If I **were**..., I wish he **were** here, as if it **were** true.*",
+    "sets": [
+      "c1-formal-subjunctive-1",
+      "c1-formal-subjunctive-2",
+      "c1-formal-subjunctive-3"
+    ]
+  },
+  {
+    "id": "c1-emphasis",
+    "section": "grammar",
+    "level": "C1",
+    "order": 7,
+    "title": "Emfaza: do/did, the very, such/so",
+    "explanation": "Sposoby na **wzmocnienie** wypowiedzi:\n\n- **do / does / did** w zdaniu twierdzącym (akcent): *I **do** like your dress! She **does** know a lot. I **did** tell you!* (przecież mówiłem)\n- **the very** = właśnie ten, sam: *This is **the very** book I was looking for. At **the very** beginning...*\n- **such** + (przymiotnik) + rzeczownik / **so** + przymiotnik: *It was **such a** good film. The film was **so** good.* · ***such** nice people* (bez *a* w l. mn.)\n- **whatsoever / at all** po przeczeniu: *I have no idea **whatsoever**.*\n- **on earth / ever** w pytaniach: *What **on earth** are you doing? Why **ever** did you say that?*\n- **by far** przy stopniu najwyższym: *She's **by far** the best.*\n- **-self** dla emfazy: *I spoke to the director **himself**.*\n- **The last thing I want is...**, **No way!**, przysłówki: *absolutely, utterly, totally, truly*\n\nPrzymiotniki „mocne” łączymy z **absolutely**, nie *very*: *absolutely **exhausted*** (nie *very exhausted*).",
+    "sets": [
+      "c1-emphasis-1",
+      "c1-emphasis-2",
+      "c1-emphasis-3"
+    ]
+  },
+  {
+    "id": "c1-advanced-modals",
+    "section": "grammar",
+    "level": "C1",
+    "order": 8,
+    "title": "Zaawansowane modalne: needn't have, may well, be bound to",
+    "explanation": "Modalne na C1 – niuanse pewności, obowiązku i krytyki:\n\n- **needn't have done** – zrobiłeś, ale niepotrzebnie: *You **needn't have brought** food – we had plenty.*\n- **didn't need to do** – nie było trzeba (zwykle więc nie zrobiłeś): *I **didn't need to** take a taxi, so I walked.*\n- **may / might / could well** – całkiem możliwe: *It **may well** rain later. She **might well** be right.*\n- **may / might as well** – równie dobrze można: *The bus isn't coming. We **might as well** walk.*\n- **be bound to** – na pewno (przewidywanie): *He's **bound to** forget. It's **bound to** rain.*\n- **be supposed to** – mieć coś zrobić (oczekiwanie, plan, zasada): *You **were supposed to** call me!*\n- **be to** – formalne polecenie lub plan: *You **are to** report to the manager. The President **is to** visit Japan.*\n- **would rather / had better**: *I'**d rather** you **didn't** smoke here. You'**d better not** be late.*\n- **shall** w ofertach i formalnych zobowiązaniach: ***Shall** I open the window? The tenant **shall** pay the rent monthly.*",
+    "sets": [
+      "c1-advanced-modals-1",
+      "c1-advanced-modals-2",
+      "c1-advanced-modals-3"
+    ]
+  },
+  {
+    "id": "c1-ellipsis-substitution",
+    "section": "grammar",
+    "level": "C1",
+    "order": 9,
+    "title": "Elipsa i substytucja",
+    "explanation": "**Elipsa** (pomijanie) i **substytucja** (zastępowanie) pozwalają uniknąć powtórzeń:\n\n**Substytucja**:\n- **one / ones** zamiast rzeczownika policzalnego: *I like the red **one**. These shoes are nicer than the old **ones**.*\n- **do so / do that / do the same**: *He promised to call and he **did so**.*\n- **so / not** po *think, hope, expect, suppose, be afraid*: *\"Will it rain?\" \"I **hope not**.\" \"Is she coming?\" \"I **think so**.\"*\n- **so / neither / nor + posiłkowy**: *I love jazz. – **So do I**. I can't swim. – **Neither can I**.*\n\n**Elipsa**:\n- po czasowniku posiłkowym: *She can't come, but I **can**. \"Have you finished?\" \"Yes, I **have**.\"*\n- po **to**: *I didn't want to go, but I had **to**.* · *\"Would you like to join us?\" \"I'd love **to**.\"*\n- w zdaniach złożonych: *Some people like tea; others (like) coffee.*\n- po *if so / if not*: *Are you free? **If so**, call me.*",
+    "sets": [
+      "c1-ellipsis-substitution-1",
+      "c1-ellipsis-substitution-2",
+      "c1-ellipsis-substitution-3"
+    ]
+  },
+  {
+    "id": "c1-discourse-markers",
+    "section": "grammar",
+    "level": "C1",
+    "order": 10,
+    "title": "Spójniki i markery dyskursu",
+    "explanation": "**Markery dyskursu** porządkują tekst i pokazują relacje między myślami:\n\n- **dodawanie**: *moreover, furthermore, in addition, what is more, besides*\n- **kontrast**: *however, nevertheless, nonetheless, on the other hand, whereas, while, even so, that said*\n- **przyczyna i skutek**: *therefore, consequently, as a result, hence, thus, owing to, due to*\n- **przyznanie racji**: *admittedly, granted, of course, it is true that... but*\n- **przykład**: *for instance, such as, namely, in particular*\n- **wniosek**: *in conclusion, to sum up, all in all, on balance*\n- **dygresja i powrót** (mowa): *by the way, anyway, as I was saying, mind you, having said that*\n\nInterpunkcja: *However, ...* (na początku, z przecinkiem), *...; however, ...* albo *..., however, ...* w środku. *Whereas / while* łączą dwie części jednego zdania: *I like tea, **whereas** she prefers coffee.*\n\n**Owing to / due to** + rzeczownik: *The flight was cancelled **owing to** the fog.*",
+    "sets": [
+      "c1-discourse-markers-1",
+      "c1-discourse-markers-2",
+      "c1-discourse-markers-3"
+    ]
+  },
+  {
+    "id": "c1-nominalisation",
+    "section": "grammar",
+    "level": "C1",
+    "order": 11,
+    "title": "Nominalizacja",
+    "explanation": "**Nominalizacja** to zamiana czasowników i przymiotników na **rzeczowniki**. Tekst staje się bardziej formalny, zwięzły i bezosobowy – typowy dla raportów, artykułów naukowych i pism urzędowych.\n\n- *The company **decided** to close the factory.* → *The company's **decision** to close the factory...*\n- *Prices **increased** rapidly.* → *There was a rapid **increase** in prices.*\n- *Because the weather **was bad**, ...* → *Due to the **bad weather**, ...*\n- *We **analysed** the data carefully.* → *A careful **analysis** of the data...*\n- *If you **fail** to pay, ...* → ***Failure** to pay will result in...*\n\nUwaga:\n- przysłówek → **przymiotnik**: *rapidly increased → rapid increase*\n- dopełnienie → **of**: *analyse the results → analysis **of** the results*\n- typowe czasowniki „lekkie”: *make a decision, carry out an investigation, give an explanation, reach an agreement*\n\nNie przesadzaj – zbyt wiele rzeczowników sprawia, że tekst jest ciężki.",
+    "sets": [
+      "c1-nominalisation-1",
+      "c1-nominalisation-2",
+      "c1-nominalisation-3"
+    ]
+  },
+  {
+    "id": "c1-future-in-the-past",
+    "section": "grammar",
+    "level": "C1",
+    "order": 12,
+    "title": "Future in the past",
+    "explanation": "**Future in the past** – mówimy o przyszłości z perspektywy przeszłości (co ktoś planował, przewidywał, miał zrobić):\n\n- **would**: *I knew she **would** be late.* (wiedziałem, że się spóźni)\n- **was / were going to**: *I **was going to** call you, but I forgot.* (zamierzałem)\n- **was / were about to**: *We **were about to** leave when it started to rain.* (właśnie mieliśmy)\n- **was / were to**: *He **was to** become president.* (los, przeznaczenie) · ***was to have + III forma***: *She **was to have married** him, but...* (plan, który się nie spełnił)\n- **was / were due to**: *The train **was due to** arrive at 6.*\n- **Past Continuous** dla ustalonego planu: *I **was meeting** Tom at six, so I couldn't stay.*\n\nTe formy są częste w opowiadaniu i mowie zależnej: *He said he **would** call.*",
+    "sets": [
+      "c1-future-in-the-past-1",
+      "c1-future-in-the-past-2",
+      "c1-future-in-the-past-3"
+    ]
+  },
+  {
+    "id": "c1-advanced-determiners",
+    "section": "grammar",
+    "level": "C1",
+    "order": 13,
+    "title": "Określniki dla zaawansowanych",
+    "explanation": "Określniki dla zaawansowanych:\n\n- **each / every**: *each* – każdy z osobna (też z *of*: *each of us*), *every* – wszyscy jako grupa, nie z *of*. *Every three days* (co trzy dni), *every other day* (co drugi dzień).\n- **either / neither / both**: *either* – którykolwiek z dwóch, *neither* – żaden z dwóch (czasownik w l. poj.: *Neither option **is** perfect*), *both* – oba.\n- **all / whole**: *all the day* rzadko → *the **whole** day*; *all* z niepoliczalnymi i l. mn.: *all the money, all students*.\n- **few / a few, little / a little**: *few* = mało (negatywnie), *a few* = kilka (pozytywnie). ***Quite a few*** = sporo.\n- **no / none**: *no* + rzeczownik, *none* samodzielnie lub *none of*: *I have **no** time. **None of** them came.*\n- **another / other / others**: *another* + l. poj., *other* + l. mn., *others* samodzielnie.\n- **many a + l. poj.** (literackie): ***Many a** man has tried.*\n- **such / what** w wykrzyknieniach: *What a mess! Such nonsense!*\n- **the former / the latter**: pierwszy / drugi z wymienionych.",
+    "sets": [
+      "c1-advanced-determiners-1",
+      "c1-advanced-determiners-2",
+      "c1-advanced-determiners-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-numbers-dates-time",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 1,
+    "title": "Liczby, daty, godziny",
+    "explanation": "**Liczby**: *thirteen* (13) i *thirty* (30) różnią się akcentem: thir**teen** – **thir**ty. Liczby złożone piszemy z łącznikiem: *twenty-one, forty-five*. Uwaga na pisownię: **forty** (bez u).\n\n**Liczebniki porządkowe** (daty): *first, second, third, fourth, fifth... twentieth, twenty-first*. Skrót: 1st, 2nd, 3rd, 4th.\n\n**Daty**: piszemy *3 April* lub *April 3rd*, a czytamy *the third of April*. Miesiące i dni tygodnia zawsze wielką literą: *Monday, June*.\n\n**Godziny**:\n\n- *7:00* – seven o'clock\n- *7:15* – quarter past seven · *7:30* – half past seven · *7:45* – quarter to eight\n- *10:10* – ten past ten · *4:50* – ten to five\n\nPytamy: *What time is it?* Odpowiadamy: *It's half past nine.*",
+    "sets": [
+      "a1-vocab-numbers-dates-time-1",
+      "a1-vocab-numbers-dates-time-2",
+      "a1-vocab-numbers-dates-time-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-family",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 2,
+    "title": "Rodzina",
+    "explanation": "Podstawowe słowa: *mother / mum, father / dad, parents, sister, brother, son, daughter, husband, wife, grandmother / grandma, grandfather / grandpa, grandparents*.\n\nDalsza rodzina: *aunt* (ciocia), *uncle* (wujek), *cousin* (kuzyn/kuzynka – jedno słowo dla obu płci), *niece* (siostrzenica, bratanica), *nephew* (siostrzeniec, bratanek).\n\nRodzina przez małżeństwo: *mother-in-law* (teściowa), *brother-in-law* (szwagier).\n\nRodzeństwo to **siblings**; jedynak to **an only child**.\n\nO relacjach mówimy z **'s**: *Anna is **Tom's** mother.* (Anna jest mamą Toma.) *My **mother's** sister is my aunt.*",
+    "sets": [
+      "a1-vocab-family-1",
+      "a1-vocab-family-2",
+      "a1-vocab-family-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-home",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 3,
+    "title": "Dom",
+    "explanation": "**Pomieszczenia**: *kitchen* (kuchnia), *living room* (salon), *bedroom* (sypialnia), *bathroom* (łazienka), *dining room* (jadalnia), *hall* (przedpokój), *garage* (garaż), *attic* (strych), *cellar* (piwnica).\n\n**Meble i sprzęty**: *bed, table, chair, sofa, wardrobe* (szafa na ubrania), *desk* (biurko), *shelf / shelves* (półka), *mirror* (lustro), *carpet* (dywan), *fridge* (lodówka), *cooker* (kuchenka), *sink* (zlew).\n\n**Dom i mieszkanie**: *house* (dom), *flat* (mieszkanie, po amerykańsku *apartment*), *floor* (piętro albo podłoga), *stairs* (schody), *garden* (ogród), *ceiling* (sufit), *wall* (ściana), *roof* (dach).\n\nPrzydatne zdania: *There are three bedrooms in my flat. I live on the second floor.*",
+    "sets": [
+      "a1-vocab-home-1",
+      "a1-vocab-home-2",
+      "a1-vocab-home-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-food-drink",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 4,
+    "title": "Jedzenie i napoje",
+    "explanation": "**Jedzenie**: *bread, butter, cheese, egg, meat, chicken, fish, rice, pasta, soup, sandwich*.\n**Owoce i warzywa**: *apple, banana, orange* · *potato, tomato, carrot, onion*.\n**Napoje**: *water, tea, coffee, milk, juice*.\n\n**Posiłki**: *breakfast* (śniadanie), *lunch* (posiłek w południe), *dinner* (główny posiłek wieczorem), *snack* (przekąska). Mówimy *have breakfast*, *have lunch*.\n\n**Smaki**: *sweet* (słodki), *salty* (słony), *spicy* (ostry), *sour* (kwaśny), *bitter* (gorzki).\n\n**Opakowania i porcje**: *a bottle of water, a cup of tea, a glass of milk, a bowl of soup, a piece / slice of cake*.\n\n**W restauracji**: *menu, waiter, bill* (rachunek), *Can I have..., please?* *I'm hungry* (głodny), *I'm thirsty* (spragniony).\n\nUwaga: **cook** to kucharz, a **cooker** to kuchenka.",
+    "sets": [
+      "a1-vocab-food-drink-1",
+      "a1-vocab-food-drink-2",
+      "a1-vocab-food-drink-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-colours-clothes",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 5,
+    "title": "Kolory i ubrania",
+    "explanation": "**Kolory**: *red, blue, green, yellow, black, white, grey, brown, pink, orange, purple*. Przymiotnik stoi przed rzeczownikiem: *a **red** car*. Pytamy: *What colour is it?*\n\n**Ubrania**: *shirt* (koszula), *T-shirt, sweater* (sweter), *jacket* (kurtka), *coat* (płaszcz), *dress* (sukienka), *skirt* (spódnica), *trousers* (spodnie), *jeans, shorts, socks, shoes, boots, hat, cap, scarf / scarves, gloves*.\n\nUwaga: *trousers, jeans, shorts* mają tylko liczbę mnogą: *My jeans **are** new.*\n\n**Czasowniki**: *wear* (nosić), *put on* (założyć), *take off* (zdjąć), *try on* (przymierzyć). *She is wearing a blue dress.*\n\n**W sklepie**: *size* (rozmiar), *too big / too small*, *changing room* (przymierzalnia), *How much is this jacket?*",
+    "sets": [
+      "a1-vocab-colours-clothes-1",
+      "a1-vocab-colours-clothes-2",
+      "a1-vocab-colours-clothes-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-daily-routine",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 6,
+    "title": "Codzienne czynności",
+    "explanation": "Codzienne czynności to często połączenia czasownika z rzeczownikiem – warto uczyć się ich w całości:\n\n- *wake up* (obudzić się), *get up* (wstać), *get dressed* (ubrać się)\n- *have a shower* (wziąć prysznic), *brush your teeth* (umyć zęby)\n- *have breakfast / lunch / dinner* (zjeść posiłek)\n- *go to work / school*, *get home* (dotrzeć do domu), *go to bed* (iść spać)\n\nUwaga na **do** i **make**:\n\n- **do**: *do homework, do the shopping, do the dishes*\n- **make**: *make the bed, make dinner, make a phone call*\n\nInne: *take a bus, walk the dog, check emails, listen **to** music, watch TV, relax*.\n\nDo opisu planu dnia używamy Present Simple: *I get up at 7, then I have a shower.*",
+    "sets": [
+      "a1-vocab-daily-routine-1",
+      "a1-vocab-daily-routine-2",
+      "a1-vocab-daily-routine-3"
+    ]
+  },
+  {
+    "id": "a1-vocab-town-directions",
+    "section": "vocabulary",
+    "level": "A1",
+    "order": 7,
+    "title": "Miasto i kierunki",
+    "explanation": "**Miejsca w mieście**: *bank, post office* (poczta), *chemist's* (apteka), *library* (biblioteka), *bookshop* (księgarnia), *baker's / bakery* (piekarnia), *butcher's* (mięsny), *supermarket, market* (targ), *station* (dworzec), *bus stop* (przystanek), *hospital, church, museum, cinema, park, square* (plac).\n\n**Gdzie coś jest**: *next to* (obok), *opposite* (naprzeciwko), *between* (między), *behind* (za), *in front of* (przed), *near* (blisko), *on the corner* (na rogu), *on the left / right*.\n\n**Wskazówki**: *turn left / right* (skręć), *go straight on* (idź prosto), *cross the road* (przejdź przez ulicę), *at the traffic lights* (na światłach), *take the second street on the left*.\n\n**Pytanie o drogę**: *Excuse me, where is the station? How do I get to the museum? Is it far from here?*",
+    "sets": [
+      "a1-vocab-town-directions-1",
+      "a1-vocab-town-directions-2",
+      "a1-vocab-town-directions-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-shopping",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 1,
+    "title": "Zakupy",
+    "explanation": "**W sklepie**: *shop assistant* (sprzedawca), *customer* (klient), *receipt* (paragon), *cash* (gotówka), *changing room* (przymierzalnia), *sale* (wyprzedaż), *discount* (zniżka).\n\n**Sklepy**: *baker's, butcher's, newsagent's* (kiosk), *chemist's, shoe shop, supermarket, shopping centre*.\n\n**Przydatne zwroty**:\n- *How much **is** this? / How much **are** these jeans?*\n- *Can I **try** it **on**? Have you got it in a smaller size?*\n- *Can I pay **by card** / **in cash**?*\n- *I'd like to **return** this.* (zwrócić)\n\n**fit** – pasować rozmiarem; **suit** – pasować, dobrze wyglądać: *These shoes don't **fit** me. Red really **suits** you.*\n\nOpakowania: *a **loaf** of bread, a **carton** of milk, a **jar** of jam, a **packet** of biscuits*.",
+    "sets": [
+      "a2-vocab-shopping-1",
+      "a2-vocab-shopping-2",
+      "a2-vocab-shopping-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-travel-transport",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 2,
+    "title": "Podróże i transport",
+    "explanation": "**Środki transportu**: *by bus / train / car / plane / bike*, ale ***on foot*** (pieszo). Nie mówimy *with car*.\n\n**Czasowniki**:\n- *get on / get off* (wsiąść / wysiąść z autobusu, pociągu)\n- *get in / get out of* (do samochodu, taksówki)\n- *catch / miss the bus* (zdążyć / spóźnić się na autobus)\n- *take off / land* (startować / lądować)\n\n**Na dworcu i lotnisku**: *platform, ticket office, timetable, single / return ticket, delay* (opóźnienie), *delayed, cancelled* (odwołany), *check-in desk, boarding pass, luggage* (niepoliczalne!), *gate, seat, flight*.\n\n**Podróż**: *journey* (podróż z punktu do punktu), *trip* (wycieczka), *traffic jam* (korek), *go on holiday*.\n\nPo brytyjsku metro to *the underground* (w Londynie *the Tube*), po amerykańsku *subway*.",
+    "sets": [
+      "a2-vocab-travel-transport-1",
+      "a2-vocab-travel-transport-2",
+      "a2-vocab-travel-transport-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-weather",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 3,
+    "title": "Pogoda",
+    "explanation": "Pogodę opisujemy zwykle z **It's** + przymiotnik:\n\n- *sun → **sunny**, cloud → **cloudy**, rain → **rainy**, wind → **windy**, fog → **foggy**, snow → **snowy***\n- *hot, warm, mild* (łagodnie), *cool, cold, freezing* (mróz)\n\nCzasowniki: *It's **raining**. It's **snowing**.*\n\nZjawiska: *storm* (burza), *thunder* (grzmot), *lightning* (błyskawica), *rainbow* (tęcza), *shower* (przelotny deszcz).\n\nPytamy: ***What's the weather like** today?* – Jaka jest pogoda?\n\nTemperatura: *It's 20 **degrees**. Temperatures will **rise** / **fall**.*\n\nPrognoza: *the weather **forecast***. Idiom: *It's raining **cats and dogs*** (leje jak z cebra).",
+    "sets": [
+      "a2-vocab-weather-1",
+      "a2-vocab-weather-2",
+      "a2-vocab-weather-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-body-health",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 4,
+    "title": "Ciało i zdrowie",
+    "explanation": "**Ciało**: *head, face, eye, ear, nose, mouth, tooth / teeth, neck, shoulder, arm, hand, finger, back, stomach, leg, knee, ankle* (kostka), *foot / feet, toe* (palec u nogi).\n\n**Dolegliwości**: *headache, stomachache, toothache* (bóle), *a sore throat* (ból gardła), *a cough* (kaszel), *a cold* (przeziębienie, katar), *a fever / a temperature* (gorączka).\n\nMówimy: *I **have got a** headache. My leg **hurts**. I **feel** ill / sick.* (sick – często mdłości)\n\n**U lekarza**: *make an **appointment*** (umówić wizytę), *What's the **matter**?* (Co panu dolega?), *prescription* (recepta), *medicine* (lek).\n\nRady: *You should **stay in bed / take some medicine / drink a lot of water**.* Życzenia: *Get well soon!*\n\nUwaga: **recipe** to przepis kulinarny, **receipt** – paragon, **prescription** – recepta.",
+    "sets": [
+      "a2-vocab-body-health-1",
+      "a2-vocab-body-health-2",
+      "a2-vocab-body-health-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-free-time",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 5,
+    "title": "Czas wolny",
+    "explanation": "**go, play, do** z zajęciami:\n\n- **play** + gry i sporty z piłką: *play football, tennis, chess, computer games* (instrumenty: *play **the** guitar*)\n- **go** + czynności na -ing: *go swimming, go running, go skiing, go shopping, go fishing*\n- **do** + sporty indywidualne i ćwiczenia: *do yoga, do karate, do judo, do exercise*\n\nInne: *go to the gym / cinema*, *watch films*, *read*, *paint*, *take photos*, *go out* (wyjść gdzieś wieczorem).\n\n**-ed czy -ing?**\n- *I'm **bored*** (nudzę się) – *The film is **boring*** (nudny)\n- *I'm **interested in** art* – *Art is **interesting***\n\nPytamy: *What do you do in your free time?*",
+    "sets": [
+      "a2-vocab-free-time-1",
+      "a2-vocab-free-time-2",
+      "a2-vocab-free-time-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-jobs",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 6,
+    "title": "Zawody",
+    "explanation": "**Zawody**: *teacher, doctor, nurse, dentist, vet* (weterynarz), *lawyer* (prawnik), *engineer, architect, mechanic, plumber* (hydraulik), *electrician, chef / cook, waiter / waitress, receptionist, pilot, farmer, shop assistant*.\n\nPrzed zawodem zawsze **a / an**: *She's **a** nurse. He's **an** engineer.*\n\nPytanie o zawód: ***What do you do?*** (nie *What is your work?*)\n\nWiele nazw zawodów tworzymy końcówką: *teach → teach**er**, art → art**ist**, employ → employ**er*** (pracodawca) / *employ**ee*** (pracownik).\n\n**Praca**: *job* (konkretna posada, policzalne), *work* (praca ogólnie, niepoliczalne): *a new **job**, a lot of **work***.\n*work **for** a company, work **as** a teacher, work **from** home*, *full-time / part-time*, *salary* (pensja), *boss, colleague*.\n\nSzukanie pracy: *apply **for** a job, a CV, a job interview, unemployed* (bezrobotny).",
+    "sets": [
+      "a2-vocab-jobs-1",
+      "a2-vocab-jobs-2",
+      "a2-vocab-jobs-3"
+    ]
+  },
+  {
+    "id": "a2-vocab-education",
+    "section": "vocabulary",
+    "level": "A2",
+    "order": 7,
+    "title": "Edukacja",
+    "explanation": "**Szkoła**: *primary school* (podstawowa), *secondary school* (średnia), *university, subject* (przedmiot), *timetable* (plan lekcji), *break* (przerwa), *mark / grade* (ocena), *homework* (niepoliczalne!).\n\n**Kolokacje**:\n- *do homework* (nie *make*), *take / sit an exam*, ***pass** an exam* (zdać), ***fail** an exam* (oblać)\n- *study for a test*, *revise* (powtarzać materiał), *raise your hand*\n- *be good **at** maths* (nie *in*)\n\n**teach** czy **learn**? Nauczyciel **teaches** (uczy kogoś), uczeń **learns** (uczy się): *She **teaches** us English. I'm **learning** English.*\n\n**Studia**: *a degree* (dyplom), *a lecture* (wykład), *a course* (kurs), *graduate from university* (ukończyć studia), *take a course*.",
+    "sets": [
+      "a2-vocab-education-1",
+      "a2-vocab-education-2",
+      "a2-vocab-education-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-work-office",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 1,
+    "title": "Praca i biuro: spotkania, e-maile, telefon",
+    "explanation": "**Spotkania**: *agenda* (porządek obrad), *minutes* (protokół), *deadline* (termin), *arrange / reschedule / postpone a meeting* (umówić / przełożyć), *take notes* (robić notatki), *be in a meeting*.\n\n**E-maile**: *attachment* (załącznik), *Please find the report **attached**.*, *reply* (odpowiedź), *forward* (przesłać dalej), *I look forward to **hearing** from you.*, zakończenia: *Kind regards, / Best regards,*.\n\n**Telefon**:\n- *Hold on, please.* (proszę chwilę poczekać)\n- *I'll put you through to...* (przełączę do...)\n- *Can I take a message?* (przyjąć wiadomość) / *Can I leave a message?* (zostawić)\n- *I'll call you back.* (oddzwonię) · *hang up* (rozłączyć się)\n- *She's not available at the moment.*\n\nPrzedstawiając się przez telefon, mówimy *This is Mark* (nie *I am Mark*).",
+    "sets": [
+      "b1-vocab-work-office-1",
+      "b1-vocab-work-office-2",
+      "b1-vocab-work-office-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-technology",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 2,
+    "title": "Technologia i komputery",
+    "explanation": "**Podstawy**: *screen, keyboard, battery, password, app, update* (aktualizacja), *wi-fi, link, search engine* (wyszukiwarka).\n\n**Czasowniki**: *download* (pobrać) / *upload* (wgrać), *log in / log out* (zalogować / wylogować się), *save a file*, *back up* (zrobić kopię zapasową), *delete*, *charge* (ładować), *turn on / off*, *crash* (zawiesić się).\n\n**Sieć**: *post* (opublikować), *share* (udostępnić), *follower, notification* (powiadomienie), *hack*, *virus*.\n\nKolokacje: *make a call* (nie *do*), *send something **by** email*, *on the internet / online*, *My battery is **flat** / dead* (rozładowana), *put your phone on **silent***.",
+    "sets": [
+      "b1-vocab-technology-1",
+      "b1-vocab-technology-2",
+      "b1-vocab-technology-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-emotions-character",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 3,
+    "title": "Emocje i charakter",
+    "explanation": "**Uczucia**: *anxious / nervous / worried* (niespokojny, zdenerwowany), *relieved* (czujący ulgę), *proud* (dumny), *jealous* (zazdrosny), *lonely* (samotny), *frustrated, upset* (zmartwiony, przykro), *grateful* (wdzięczny), *terrified* (przerażony).\n\n**Charakter**: *generous* (hojny) ↔ *mean* (skąpy), *honest* ↔ *dishonest*, *polite* ↔ *rude*, *patient* ↔ *impatient*, *reliable* (niezawodny), *stubborn* (uparty), *shy, confident* (pewny siebie), *easy-going* (wyluzowany) ↔ *bad-tempered*.\n\nUwaga na pułapki:\n- **sensible** = rozsądny, **sensitive** = wrażliwy\n- **sympathetic** = współczujący (nie „sympatyczny” – to *nice / friendly*)\n\nWyrażenia: *lose your temper* (stracić panowanie), *calm down, cheer up, get on (well) with somebody* (dogadywać się).",
+    "sets": [
+      "b1-vocab-emotions-character-1",
+      "b1-vocab-emotions-character-2",
+      "b1-vocab-emotions-character-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-media",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 4,
+    "title": "Media",
+    "explanation": "**Prasa i internet**: *article, headline* (nagłówek), *journalist, advert / advertisement* (reklama), *review* (recenzja), *source* (źródło), *fake news, reliable* (wiarygodny), *biased* (stronniczy).\n\n**Telewizja**: *channel, programme, series* (l.p. i l.mn. takie same!), *episode, season, documentary, soap opera, sitcom, quiz show, presenter, subtitles* (napisy).\n\nPrzyimki: ***on** TV, **on** the radio, **on** the internet / online, **in** a newspaper / magazine*. *What's **on** TV tonight?*\n\nUwaga: **news** jest niepoliczalne: *The news **is** good.* **critic** to osoba (krytyk), a ocena filmu to **review**.",
+    "sets": [
+      "b1-vocab-media-1",
+      "b1-vocab-media-2",
+      "b1-vocab-media-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-environment",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 5,
+    "title": "Środowisko",
+    "explanation": "**Problemy**: *pollution* (zanieczyszczenie), *climate change, global warming, deforestation* (wylesianie), *flood* (powódź), *drought* (susza), *endangered species* (gatunki zagrożone), *waste, litter* (śmieci na ulicy), *carbon dioxide*.\n\n**Rozwiązania**: *recycle* (przetwarzać, segregować), *reduce* (ograniczać), *reuse* (używać ponownie), *save energy / water*, *renewable energy* (odnawialna), *solar / wind power*, *public transport*, *eco-friendly / environmentally friendly*.\n\nSłowotwórstwo: *pollute → pollution*, *environment → environmental*, *renew → renewable*.\n\nKolokacje: *bad / good **for** the environment*, *protect the planet*, *turn off the lights*, *throw away rubbish*.\n\nUwaga: **save** (oszczędzać, ratować) ≠ **safe** (bezpieczny); **rise** (rosnąć samemu) ≠ **raise** (podnosić coś).",
+    "sets": [
+      "b1-vocab-environment-1",
+      "b1-vocab-environment-2",
+      "b1-vocab-environment-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-phrasal-verbs-basics",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 6,
+    "title": "Phrasal verbs: podstawy",
+    "explanation": "**Phrasal verbs** to czasownik + partykuła (*up, off, on, out, after...*), który razem ma nowe znaczenie:\n\n- *give up* – rzucić, poddać się · *look after* – opiekować się · *look for* – szukać · *look up* – sprawdzić (w słowniku)\n- *find out* – dowiedzieć się · *fill in* – wypełnić · *pick up* – odebrać kogoś · *run out of* – skończyć się (np. mleko)\n- *put on / take off* – założyć / zdjąć · *turn on / off / up / down* – włączyć / wyłączyć / pogłośnić / ściszyć\n- *get on / off* – wsiąść / wysiąść · *get up* – wstać · *grow up* – dorastać\n- *set off* – wyruszyć · *break down* – zepsuć się · *carry on* – kontynuować · *hold on* – poczekać\n\nGdy phrasal verb ma dopełnienie-zaimek, zaimek stoi w środku: *Put **it** on. Pick **me** up.* (nie *Put on it*).",
+    "sets": [
+      "b1-vocab-phrasal-verbs-basics-1",
+      "b1-vocab-phrasal-verbs-basics-2",
+      "b1-vocab-phrasal-verbs-basics-3"
+    ]
+  },
+  {
+    "id": "b1-vocab-collocations-make-do-have-take",
+    "section": "vocabulary",
+    "level": "B1",
+    "order": 7,
+    "title": "Kolokacje: make/do, have/take",
+    "explanation": "**make** – tworzyć, wytwarzać coś nowego:\n*make a mistake, a decision, a plan, a phone call, a noise, money, an effort, coffee, the bed*\n\n**do** – wykonywać czynność, pracę:\n*do homework, the shopping, the dishes, the washing, exercise, your best, a favour, damage*\n\n**have** – doświadczać, spożywać:\n*have a shower, breakfast, a break, fun, a good time, an argument, a look*\n\n**take** – brać, zajmować:\n*take a photo, a break, a taxi, medicine, a risk, part in, time* (*It **took** two hours.*)\n\nPo polsku często mówimy „zrobić”, a po angielsku każda kolokacja ma swój czasownik: *zrobić zdjęcie – **take** a photo*, *zrobić błąd – **make** a mistake*, *zrobić zakupy – **do** the shopping*.",
+    "sets": [
+      "b1-vocab-collocations-make-do-have-take-1",
+      "b1-vocab-collocations-make-do-have-take-2",
+      "b1-vocab-collocations-make-do-have-take-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-business-finance",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 1,
+    "title": "Biznes i finanse",
+    "explanation": "**Firma**: *company / firm, headquarters* (siedziba), *branch* (oddział), *subsidiary* (spółka zależna), *CEO, board of directors* (zarząd), *shareholder* (udziałowiec), *competitor* (konkurent), *market share* (udział w rynku).\n\n**Wyniki finansowe**:\n- *revenue / turnover* (przychód), *profit* (zysk), *loss* (strata), *costs / expenses* (koszty)\n- *make a profit / make a loss*, *break even* (wyjść na zero)\n- *rise, increase, grow* / *fall, drop, decline* – *Sales **rose by** 10%. Profits **fell to** £2m.*\n\n**Pieniądze osobiste i bank**: *salary* (pensja), *income* (dochód), *savings* (oszczędności), *loan* (pożyczka, kredyt), *mortgage* (kredyt hipoteczny), *interest rate* (stopa procentowa), *debt* (dług), *invoice* (faktura), *budget*.\n\nKolokacje: *run a business, launch a product, cut costs, raise prices, apply for a loan, pay off a debt, go bankrupt, invest in*.\n\nUwaga: *by 10%* = o 10% (zmiana), *to 10%* = do poziomu 10%.",
+    "sets": [
+      "b2-vocab-business-finance-1",
+      "b2-vocab-business-finance-2",
+      "b2-vocab-business-finance-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-public-administration",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 2,
+    "title": "Administracja publiczna i urzędy",
+    "explanation": "**Urzędy i instytucje**: *local authority / council* (urząd gminy, miasta), *town hall / city hall* (ratusz), *tax office* (urząd skarbowy), *registry office* (urząd stanu cywilnego), *ministry* (ministerstwo), *government department*.\n\n**Dokumenty i formalności**:\n- *fill in / complete a form* (wypełnić formularz), *submit an application* (złożyć wniosek)\n- *apply for a permit / licence / ID card* (ubiegać się o pozwolenie, dowód)\n- *sign, stamp, attach a document*, *proof of address* (potwierdzenie adresu)\n- *deadline, fee* (opłata), *fine* (mandat, grzywna), *valid / expired* (ważny / nieważny)\n- *register* (zameldować się, zarejestrować), *renew* (przedłużyć)\n\n**Urzędnicy i procedury**: *civil servant* (urzędnik państwowy), *official, clerk*, *regulations* (przepisy), *procedure*, *requirements* (wymagania), *red tape / bureaucracy*, *public consultation*, *tender* (przetarg), *budget allocation*.\n\nZwroty: *in accordance with the regulations* (zgodnie z przepisami), *within 14 days* (w ciągu 14 dni), *Please bring the following documents*.",
+    "sets": [
+      "b2-vocab-public-administration-1",
+      "b2-vocab-public-administration-2",
+      "b2-vocab-public-administration-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-it-software-testing",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 3,
+    "title": "IT i testowanie oprogramowania",
+    "explanation": "**Tworzenie oprogramowania**: *requirements* (wymagania), *specification*, *feature* (funkcjonalność), *release* (wydanie), *deploy* (wdrożyć), *environment* (środowisko: *test / staging / production*), *build*, *version*, *code review*.\n\n**Testowanie**:\n- *test case* (przypadek testowy), *test plan*, *test suite* (zestaw testów), *test data*\n- *manual / automated testing*, *regression testing* (regresja), *unit / integration / end-to-end tests*\n- *expected result* vs *actual result* (wynik oczekiwany / rzeczywisty)\n- *pass / fail* – *The test **failed**. All tests **passed**.*\n\n**Błędy**: *bug / defect* (błąd), *report / log a bug* (zgłosić), *reproduce* (odtworzyć), *fix* (naprawić), *crash* (awaria, wywalić się), *severity* (waga), *priority*, *steps to reproduce*, *workaround* (obejście).\n\nKolokacje: *run tests, raise a ticket, assign a bug to somebody, close / reopen a bug, roll back a release* (wycofać), *meet the requirements* (spełniać wymagania).",
+    "sets": [
+      "b2-vocab-it-software-testing-1",
+      "b2-vocab-it-software-testing-2",
+      "b2-vocab-it-software-testing-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-word-formation",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 4,
+    "title": "Słowotwórstwo: przedrostki i przyrostki",
+    "explanation": "**Przedrostki przeczące**:\n- **un-**: *unhappy, unusual, unemployed, unreliable*\n- **in- / im- / il- / ir-**: *incorrect, impossible, impatient, illegal, irregular, irresponsible* (im- przed p/m, il- przed l, ir- przed r)\n- **dis-**: *disagree, dishonest, dislike, disappear*\n- **mis-** = źle: *misunderstand, misspell, mislead*\n- **over- / under-** = za dużo / za mało: *overpaid, underestimate*\n- **re-** = ponownie: *rewrite, rebuild*\n\n**Przyrostki**:\n- rzeczowniki: **-tion / -sion** (*decision, information*), **-ment** (*development*), **-ness** (*happiness*), **-ity** (*ability, possibility*), **-ance / -ence** (*performance, independence*), **-er / -or / -ist** (osoby)\n- przymiotniki: **-ful / -less** (*useful, useless*), **-able / -ible** (*reliable, flexible*), **-ous** (*dangerous*), **-ive** (*creative*), **-al** (*professional*)\n- czasowniki: **-ise / -ize** (*modernise*), **-en** (*widen, strengthen*)\n\nUważaj na zmiany pisowni: *able → ability, decide → decision, pronounce → pronunciation, strong → strength*.",
+    "sets": [
+      "b2-vocab-word-formation-1",
+      "b2-vocab-word-formation-2",
+      "b2-vocab-word-formation-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-phrasal-verbs-advanced",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 5,
+    "title": "Phrasal verbs: zaawansowane",
+    "explanation": "Phrasal verbs na B2 – w pracy i w życiu codziennym:\n\n- **bring up** – poruszyć temat; wychować: *She **brought up** an interesting point.*\n- **carry out** – przeprowadzić (badanie, test): *We **carried out** a survey.*\n- **come up with** – wymyślić: *He **came up with** a great idea.*\n- **figure out** – rozgryźć: *I can't **figure out** how it works.*\n- **put off** – odłożyć na później: *Don't **put off** the decision.*\n- **set up** – założyć, skonfigurować: *They **set up** a company.*\n- **turn down** – odrzucić: *She **turned down** the offer.*\n- **run out of** – skończyć się (zapasy): *We've **run out of** coffee.*\n- **look into** – zbadać sprawę: *We'll **look into** the problem.*\n- **take over** – przejąć: *A bigger company **took** us **over**.*\n- **point out** – zwrócić uwagę: *She **pointed out** a mistake.*\n- **get across** – przekazać (myśl): *It's hard to **get** my message **across**.*\n\nRozdzielne (*set it up, turn it down*) – zaimek **musi** stać w środku: *turn **it** down* (nie *turn down it*).",
+    "sets": [
+      "b2-vocab-phrasal-verbs-advanced-1",
+      "b2-vocab-phrasal-verbs-advanced-2",
+      "b2-vocab-phrasal-verbs-advanced-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-idioms-basics",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 6,
+    "title": "Idiomy: podstawy",
+    "explanation": "Idiomy to wyrażenia, których znaczenia nie da się odgadnąć ze słów. Najczęstsze na B2:\n\n- **a piece of cake** – bułka z masłem\n- **break the ice** – przełamać lody\n- **hit the nail on the head** – trafić w sedno\n- **once in a blue moon** – raz na ruski rok\n- **cost an arm and a leg** – kosztować majątek\n- **under the weather** – nie najlepiej się czuć\n- **the last straw** – kropla, która przelała czarę\n- **get cold feet** – stchórzyć w ostatniej chwili\n- **let the cat out of the bag** – wygadać sekret\n- **on the same page** – mieć to samo zdanie, być zgodnym\n- **cut corners** – iść na skróty (kosztem jakości)\n- **in hot water** – w tarapatach\n- **call it a day** – skończyć na dziś\n- **a blessing in disguise** – szczęście w nieszczęściu\n\nIdiomy są zwykle **potoczne** – nie używaj ich w formalnym e-mailu czy raporcie.",
+    "sets": [
+      "b2-vocab-idioms-basics-1",
+      "b2-vocab-idioms-basics-2",
+      "b2-vocab-idioms-basics-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-false-friends",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 7,
+    "title": "False friends PL–EN",
+    "explanation": "**False friends** – słowa podobne do polskich, ale o innym znaczeniu:\n\n- **actually** = właściwie, tak naprawdę (aktualnie = *currently, at the moment*)\n- **eventually** = w końcu (ewentualnie = *possibly, alternatively*)\n- **sympathetic** = współczujący (sympatyczny = *nice, friendly*)\n- **pathetic** = żałosny (patetyczny = *pompous*)\n- **fabric** = tkanina (fabryka = *factory*)\n- **lecture** = wykład (lektura = *reading, set book*)\n- **receipt** = paragon (recepta = *prescription*)\n- **chef** = kucharz (szef = *boss*)\n- **closet** = szafa (klozet = *toilet*)\n- **extra** = dodatkowy (ekstra = *great, cool*)\n- **ordinary** = zwyczajny (ordynarny = *vulgar, rude*)\n- **preservative** = konserwant (prezerwatywa = *condom*)\n- **gymnasium** = sala gimnastyczna (gimnazjum = *junior high school*)\n- **apartment** = mieszkanie (apartament = *luxury flat*)\n- **control** = kontrolować, sterować (kontrola biletów = *ticket inspection*)\n- **billion** = miliard (bilion = *trillion*)",
+    "sets": [
+      "b2-vocab-false-friends-1",
+      "b2-vocab-false-friends-2",
+      "b2-vocab-false-friends-3"
+    ]
+  },
+  {
+    "id": "b2-vocab-confusing-words",
+    "section": "vocabulary",
+    "level": "B2",
+    "order": 8,
+    "title": "Mylone słowa: say/tell, borrow/lend, make/do",
+    "explanation": "**say / tell**\n- *say something (to somebody)*: *She **said** hello. He **said** (that) he was tired.*\n- *tell somebody something*: *She **told me** the truth.* Utarte: *tell a story / a joke / a lie / the truth / the time*.\n\n**borrow / lend**\n- *borrow* – pożyczyć **od** kogoś: *Can I **borrow** your pen?*\n- *lend* – pożyczyć **komuś**: *Can you **lend me** your pen?*\n\n**make / do**\n- *make* – tworzymy coś: *make a cake, a decision, a mistake, a phone call, money, noise, progress, an effort*\n- *do* – czynności, praca, obowiązki: *do homework, the shopping, a job, business, research, your best, somebody a favour*\n\n**Inne pary**: *rob* (bank, osobę) / *steal* (rzecz); *raise* (podnieść coś) / *rise* (rosnąć samo); *lose* (zgubić) / *loose* (luźny); *affect* (czasownik) / *effect* (rzeczownik); *remember* / *remind*; *win* (mecz, nagrodę) / *earn* (zarabiać).",
+    "sets": [
+      "b2-vocab-confusing-words-1",
+      "b2-vocab-confusing-words-2",
+      "b2-vocab-confusing-words-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-idioms-expressions",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 1,
+    "title": "Idiomy i wyrażenia",
+    "explanation": "Idiomy na C1 – często w pracy i w dyskusjach:\n\n- **the elephant in the room** – temat, którego wszyscy unikają\n- **a double-edged sword** – miecz obosieczny\n- **go back to the drawing board** – zacząć od nowa\n- **be on the fence** – nie móc się zdecydować\n- **a drop in the ocean** – kropla w morzu\n- **bite off more than you can chew** – porwać się z motyką na słońce\n- **play devil's advocate** – grać adwokata diabła\n- **the tip of the iceberg** – wierzchołek góry lodowej\n- **get to the bottom of something** – dojść do sedna\n- **cut to the chase** – przejść do rzeczy\n- **a blessing and a curse** – i błogosławieństwo, i przekleństwo\n- **ring a bell** – brzmieć znajomo\n- **jump on the bandwagon** – przyłączyć się do mody\n- **beat around the bush** – owijać w bawełnę\n- **put all your eggs in one basket** – stawiać wszystko na jedną kartę\n- **in the long run** – na dłuższą metę\n\nIdiomy dodają wypowiedzi kolorytu, ale w tekstach formalnych używaj ich oszczędnie.",
+    "sets": [
+      "c1-vocab-idioms-expressions-1",
+      "c1-vocab-idioms-expressions-2",
+      "c1-vocab-idioms-expressions-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-advanced-collocations",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 2,
+    "title": "Kolokacje zaawansowane",
+    "explanation": "**Kolokacje** to naturalne połączenia słów. Na C1 liczy się precyzja – *strong evidence*, nie *big evidence*.\n\n**Przymiotnik + rzeczownik**: *heavy traffic, strong evidence, a vast majority, a narrow escape, a remote possibility, a sharp increase, bitter disappointment, a fierce debate, a growing concern, a key factor, a viable option*\n\n**Czasownik + rzeczownik**: *pose a threat, raise awareness, draw a conclusion, meet a deadline, bear responsibility, take precedence, wage war, conduct research, address an issue, reach a consensus, fulfil a promise, exert pressure*\n\n**Przysłówek + przymiotnik**: *highly unlikely, deeply concerned, bitterly cold, fully aware, widely accepted, painfully slow, utterly ridiculous, strongly opposed*\n\n**Czasownik + przysłówek**: *strongly recommend, sincerely apologise, vaguely remember, firmly believe*\n\nSłowniki kolokacji (np. Oxford Collocations) pomagają brzmieć naturalnie.",
+    "sets": [
+      "c1-vocab-advanced-collocations-1",
+      "c1-vocab-advanced-collocations-2",
+      "c1-vocab-advanced-collocations-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-formal-informal-register",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 3,
+    "title": "Rejestr formalny i nieformalny",
+    "explanation": "**Rejestr** to dopasowanie języka do sytuacji. Ten sam komunikat brzmi inaczej w e-mailu do przyjaciela i w piśmie do urzędu.\n\n- *get* → **obtain / receive** · *buy* → **purchase** · *need* → **require**\n- *ask for* → **request** · *tell* → **inform** · *help* → **assist**\n- *find out* → **discover / ascertain** · *start* → **commence** · *end* → **terminate / conclude**\n- *give back* → **return** · *put off* → **postpone** · *look into* → **investigate**\n- *about* → **regarding / concerning** · *because of* → **due to / owing to** · *so* → **therefore**\n- *a lot of* → **a considerable amount / number of** · *enough* → **sufficient**\n- *sorry* → **I apologise** · *thanks* → **I am grateful**\n\nCechy stylu formalnego: brak skrótów, strona bierna, nominalizacja, dłuższe zdania, brak phrasal verbs i słów potocznych.\nStyl nieformalny: skróty, phrasal verbs, pytania retoryczne, słowa jak *stuff, kids, guy, awesome*.\n\nUwaga: przesadna formalność (*commence* w czacie z kolegą) brzmi sztucznie.",
+    "sets": [
+      "c1-vocab-formal-informal-register-1",
+      "c1-vocab-formal-informal-register-2",
+      "c1-vocab-formal-informal-register-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-advanced-word-formation",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 4,
+    "title": "Słowotwórstwo zaawansowane",
+    "explanation": "Słowotwórstwo na C1 – mniej oczywiste przedrostki i przyrostki:\n\n**Przedrostki**:\n- **counter-** (przeciw): *counterproductive, counterpart*\n- **mal-** (źle): *malfunction, malnutrition*\n- **pre- / post-**: *predetermined, postgraduate*\n- **inter- / intra-**: *international, intranet*\n- **under- / over-**: *underestimate, overwhelming*\n- **out-** (przewyższyć): *outnumber, outperform, outweigh*\n- **non-**: *non-existent, non-profit*\n\n**Przyrostki**:\n- **-ship, -hood, -dom**: *leadership, childhood, freedom*\n- **-ify / -ise**: *clarify, simplify, prioritise*\n- **-ive / -ous / -ent**: *decisive, ambiguous, persistent*\n- **-wise** (pod względem): *time-wise, budget-wise*\n\n**Złożone zmiany**: *deep → depth, broad → breadth, long → length, hot → heat; persuade → persuasive, comprehend → comprehensive / comprehensible; sympathy → sympathetic*\n\nNa egzaminie (Word formation) często potrzebne są **dwie zmiany**: przedrostek + przyrostek: *able → **un**able → **dis**ability*, *rely → **un**reli**able***.",
+    "sets": [
+      "c1-vocab-advanced-word-formation-1",
+      "c1-vocab-advanced-word-formation-2",
+      "c1-vocab-advanced-word-formation-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-synonyms-nuance",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 5,
+    "title": "Synonimy i niuanse znaczeń",
+    "explanation": "Na C1 ważne są **niuanse** między słowami o podobnym znaczeniu:\n\n- **look / stare / glance / gaze / peer**: *stare* – wpatrywać się (natarczywie), *glance* – zerknąć, *gaze* – wpatrywać się (z zachwytem, rozmarzeniem), *peer* – wytężać wzrok\n- **walk / stroll / stride / wander / limp**: *stroll* – spacerować, *stride* – kroczyć pewnie, *wander* – błąkać się, *limp* – kuleć\n- **laugh / giggle / chuckle / smirk**: *giggle* – chichotać, *chuckle* – zaśmiać się cicho, *smirk* – uśmieszek (złośliwy)\n- **say / whisper / mutter / yell**: *mutter* – mamrotać, *yell* – wrzeszczeć\n- **famous / notorious**: *notorious* – znany z czegoś złego\n- **thin / slim / skinny**: *slim* – pozytywnie, *skinny* – raczej negatywnie\n- **cheap / inexpensive**: *cheap* bywa negatywne (tandetny), *inexpensive* neutralne\n- **childish / childlike**: *childish* – dziecinny (negatywnie), *childlike* – dziecięcy (pozytywnie, np. ciekawość)\n- **economic / economical**: *economic* – gospodarczy, *economical* – oszczędny\n- **sensible / sensitive**: *sensible* – rozsądny, *sensitive* – wrażliwy\n\nWybór słowa zmienia **ton** wypowiedzi – to klucz do precyzyjnego pisania.",
+    "sets": [
+      "c1-vocab-synonyms-nuance-1",
+      "c1-vocab-synonyms-nuance-2",
+      "c1-vocab-synonyms-nuance-3"
+    ]
+  },
+  {
+    "id": "c1-vocab-hedging",
+    "section": "vocabulary",
+    "level": "C1",
+    "order": 6,
+    "title": "Hedging: ostrożne formułowanie",
+    "explanation": "**Hedging** to ostrożne formułowanie twierdzeń. W tekstach akademickich, raportach i dyplomacji unika się kategoryczności – brzmi to bardziej profesjonalnie i uczciwie.\n\n**Czasowniki**: *seem, appear, tend to, suggest, indicate*\n- *The results **suggest** that... It **appears** that... People **tend to**...*\n\n**Modalne**: *may, might, could*\n- *This **may** be due to...*\n\n**Przysłówki**: *possibly, probably, arguably, apparently, presumably, relatively, somewhat, largely*\n- ***Arguably**, it is the best solution.*\n\n**Przymiotniki i rzeczowniki**: *likely, unlikely, possible, a possibility, a tendency*\n- *It is **likely** that... There is **a tendency** to...*\n\n**Zwroty**:\n- *To some extent / to a certain degree* – do pewnego stopnia\n- *It could be argued that...* – można by argumentować, że...\n- *There is some evidence that...*\n- *In most cases / generally speaking*\n\nPorównaj: *Social media **causes** depression.* (kategorycznie) → *Social media **may contribute to** depression **in some cases**.* (ostrożnie)",
+    "sets": [
+      "c1-vocab-hedging-1",
+      "c1-vocab-hedging-2",
+      "c1-vocab-hedging-3"
+    ]
+  },
+  {
+    "id": "a1-sent-word-order",
+    "section": "sentences",
+    "level": "A1",
+    "order": 1,
+    "title": "Szyk zdania twierdzącego: kto – co robi – co – gdzie – kiedy",
+    "explanation": "Angielski ma **stały szyk zdania**. W zdaniu twierdzącym kolejność jest zwykle taka:\n\n**kto** (podmiot) – **co robi** (czasownik) – **co** (dopełnienie) – **gdzie** (miejsce) – **kiedy** (czas)\n\n*Anna | plays | tennis | in the park | on Saturdays.*\n\nNajważniejsze zasady:\n\n- **Podmiot jest zawsze**, nawet gdy po polsku go nie ma: *Pada* → ***It** is raining.* *Jest późno* → ***It** is late.*\n- **Nic nie stoi między czasownikiem a dopełnieniem**: *She speaks English **very well*** (nie *speaks very well English*).\n- **Miejsce przed czasem**: *I work **at home** **on Mondays**.*\n- Czas może też stać na początku: ***Yesterday** we visited grandma.*\n\nPo polsku szyk jest swobodny, dlatego ten temat warto ćwiczyć kafelkami.",
+    "sets": [
+      "a1-sent-word-order-1",
+      "a1-sent-word-order-2",
+      "a1-sent-word-order-3"
+    ]
+  },
+  {
+    "id": "a1-sent-negatives-questions",
+    "section": "sentences",
+    "level": "A1",
+    "order": 2,
+    "title": "Przeczenia i pytania",
+    "explanation": "Przeczenia i pytania tworzymy na dwa sposoby.\n\n**1. Gdy w zdaniu jest to be, can albo have got** – dodajemy *not* lub przestawiamy czasownik przed podmiot:\n\n- *She is tired.* → *She **isn't** tired.* → ***Is** she tired?*\n- *He can swim.* → *He **can't** swim.* → ***Can** he swim?*\n\n**2. Gdy jest zwykły czasownik** – potrzebny jest pomocnik **do / does / did**:\n\n- *They live here.* → *They **don't** live here.* → ***Do** they live here?*\n- *He works.* → *He **doesn't** work.* → ***Does** he work?* (czasownik bez -s)\n- *She called.* → *She **didn't** call.* → ***Did** she call?* (bez -ed)\n\n**Krótkie odpowiedzi** powtarzają pomocnika: *Yes, I am. / No, she doesn't. / Yes, he can. / No, they didn't.*\n\nNie mówimy *She not likes* ani *Are you like...?*",
+    "sets": [
+      "a1-sent-negatives-questions-1",
+      "a1-sent-negatives-questions-2",
+      "a1-sent-negatives-questions-3"
+    ]
+  },
+  {
+    "id": "a2-sent-linking",
+    "section": "sentences",
+    "level": "A2",
+    "order": 1,
+    "title": "Łączenie zdań: and, but, because, so",
+    "explanation": "Krótkie zdania łączymy, żeby tekst brzmiał naturalnie:\n\n- **and** (i), **but** (ale), **because** (bo), **so** (więc) – *It was cold, **so** I put on a coat.*\n- **when** (kiedy) – *When I was young, I played the piano.* (przecinek, gdy *when* jest na początku)\n\nKolejność zdarzeń:\n- **First**, ... **Then** ... **After that**, ... **Finally**, ...\n- *First I had breakfast, and then I went to work.*\n\nUwaga na pisownię: **then** (potem) ≠ **than** (niż).\n\n**too** i **also** (też):\n- **too** na końcu zdania: *My sister likes it **too**.*\n- **also** przed zwykłym czasownikiem, po *be*: *She **also** speaks French. She is **also** a teacher.*\n- Krótka reakcja: *I'm hungry. — **Me too!***",
+    "sets": [
+      "a2-sent-linking-1",
+      "a2-sent-linking-2",
+      "a2-sent-linking-3"
+    ]
+  },
+  {
+    "id": "a2-sent-everyday-phrases",
+    "section": "sentences",
+    "level": "A2",
+    "order": 2,
+    "title": "Zwroty codzienne: prośby, propozycje, przeprosiny",
+    "explanation": "**Prośby** (od najprostszej do najgrzeczniejszej):\n- *Can you help me? → **Could** you help me, please? → Would you mind helping me?*\n- O pozwolenie: *Can I / Could I / May I sit here?*\n- *borrow* (pożyczyć od kogoś) ≠ *lend* (pożyczyć komuś): *Can I **borrow** your pen? Could you **lend** me your pen?*\n\n**Propozycje**:\n- ***Let's** go!* · ***Shall we** go?* · ***Why don't we** go?* · ***How / What about going**...?* (po *about* forma -ing)\n- Odpowiedzi: *Good idea! / Sounds great! / I'd love to. / Sorry, I can't.*\n\n**Przeprosiny i reakcje**:\n- *Sorry I'm late. — **No problem.** / **Don't worry.***\n- *Excuse me* – zaczepiając kogoś; *Sorry* – przepraszając\n- *Thank you. — **You're welcome.***\n- *Have a nice day! — **You too!***",
+    "sets": [
+      "a2-sent-everyday-phrases-1",
+      "a2-sent-everyday-phrases-2",
+      "a2-sent-everyday-phrases-3"
+    ]
+  },
+  {
+    "id": "b1-sent-complex-when-if-although",
+    "section": "sentences",
+    "level": "B1",
+    "order": 1,
+    "title": "Zdania złożone z when, if, although",
+    "explanation": "Zdania złożone łączą dwie myśli w jedno zdanie:\n\n- **when** – czas: *When I got home, I had a shower.*\n- **if** – warunek: *If you're hungry, there's pizza in the fridge.*\n- **although / even though** – przeciwieństwo (chociaż, mimo że): *Although it was cold, we swam.*\n- **because** – przyczyna, **so** – skutek\n\nInterpunkcja: gdy zdanie podrzędne (z *when, if, although*) stoi **na początku**, po nim jest przecinek. Gdy na końcu – zwykle bez przecinka.\n*Although it was late, we kept working. / We kept working although it was late.*\n\nNie łącz *although* z *but* w jednym zdaniu: *Although it was cold, ~~but~~ we swam.*\n\n**despite** łączy się z rzeczownikiem albo -ing (*despite the rain*), a nie ze zdaniem – zdanie wymaga *although*.\n\nInne przydatne: *as long as* (pod warunkiem że), *unless* (chyba że), *as soon as* (jak tylko).",
+    "sets": [
+      "b1-sent-complex-when-if-although-1",
+      "b1-sent-complex-when-if-although-2",
+      "b1-sent-complex-when-if-although-3"
+    ]
+  },
+  {
+    "id": "b1-sent-work-phrases",
+    "section": "sentences",
+    "level": "B1",
+    "order": 2,
+    "title": "Zwroty w pracy: spotkania, e-maile, telefon",
+    "explanation": "**Na spotkaniu**:\n- *Let's get started. / Let's move on to the next point. / To sum up, ...*\n- opinia: *In my opinion, ... / I think ... / I agree with you. / I'm afraid I don't agree.*\n- przerwanie: *Sorry to interrupt, but... / Could you repeat that, please?*\n\n**W e-mailu**:\n- *I'm writing to ask about... / Thank you for your quick reply.*\n- *Please find the report attached. / Could you send it **by** Friday?* (najpóźniej do)\n- *Please let me know if... / I look forward to hearing from you. / I apologise **for** the delay.*\n- *Kind regards, / Best regards,*\n\n**Przez telefon**:\n- *Could I speak to...? / Who's calling, please? / Speaking.* (przy telefonie)\n- *Hold on a moment. / I'll put you through. / She's not available at the moment. / Can I take a message?*\n- *Sorry, I didn't catch that. / Could you spell that, please?*\n\nUwaga: *I agree* (nie *I'm agree*) – agree jest czasownikiem.",
+    "sets": [
+      "b1-sent-work-phrases-1",
+      "b1-sent-work-phrases-2",
+      "b1-sent-work-phrases-3"
+    ]
+  },
+  {
+    "id": "b2-sent-adverb-position",
+    "section": "sentences",
+    "level": "B2",
+    "order": 1,
+    "title": "Pozycja przysłówków",
+    "explanation": "**Przysłówki częstotliwości i *already, still, just, also, never*** stoją:\n- **przed czasownikiem głównym**: *I **often** work late. She **never** eats meat.*\n- **po *be***: *He is **always** late.*\n- **po pierwszym czasowniku posiłkowym/modalnym**: *I have **never** been there. You can **always** call me. It has **already** started.*\n\n**Sposób, miejsce, czas** – zwykle na końcu, w tej kolejności: *She sang **beautifully at the concert last night**.* Przysłówek sposobu **nie stoi** między czasownikiem a dopełnieniem: *She speaks English **well*** (nie *speaks well English*).\n\n**Przysłówki zdaniowe** (*fortunately, obviously, apparently, clearly, surprisingly*) – na początku, z przecinkiem: ***Fortunately**, nobody was hurt.*\n\n**only / even** stoją przy słowie, którego dotyczą – zmieniają sens: *I **only** saw Tom* (tylko Toma) vs ***Only** I saw Tom* (tylko ja).\n\n**yet** – na końcu pytań i przeczeń; **still** – przed czasownikiem: *Have you finished **yet**? He **still** lives with his parents.*",
+    "sets": [
+      "b2-sent-adverb-position-1",
+      "b2-sent-adverb-position-2",
+      "b2-sent-adverb-position-3"
+    ]
+  },
+  {
+    "id": "b2-sent-relative-linking",
+    "section": "sentences",
+    "level": "B2",
+    "order": 2,
+    "title": "Łączenie zdań zdaniami względnymi",
+    "explanation": "Zdania względne pozwalają **połączyć dwa krótkie zdania w jedno** i brzmieć bardziej dojrzale:\n\n*I met a woman. She works for NASA.* → *I met a woman **who works for NASA**.*\n\n**Przyimek + which / whom** (styl formalny): *the company **for which** I work* (potocznie: *the company **which** I work **for***), *the person **to whom** I spoke*.\n\n**some / many / all / none / both + of which / of whom**: *I have three brothers, **all of whom** live abroad. He wrote ten books, **two of which** became bestsellers.*\n\n**Imiesłowy zamiast zdania względnego** (skrócenie):\n- czynne: *the man **who is standing** there* → *the man **standing** there*\n- bierne: *the car **which was parked** outside* → *the car **parked** outside*\n\n**which** o całym zdaniu: *The train was late, **which** meant we missed the start.*\n\n**whereby, when, where, why**: *the day **when** we met, the reason **why** I left*.",
+    "sets": [
+      "b2-sent-relative-linking-1",
+      "b2-sent-relative-linking-2",
+      "b2-sent-relative-linking-3"
+    ]
+  },
+  {
+    "id": "b2-sent-key-word-transformations",
+    "section": "sentences",
+    "level": "B2",
+    "order": 3,
+    "title": "Parafrazy: key word transformations",
+    "explanation": "**Key word transformation** (jak na egzaminie FCE): przepisz zdanie tak, by znaczyło to samo, używając **podanego słowa bez zmian** i zwykle **2–5 słów**.\n\nTypowe wzorce:\n- **too / enough**: *It's too cold to swim.* → *It isn't **warm enough** to swim.*\n- **czas**: *I started working here three years ago.* → *I **have been working** here for three years.*\n- **strona bierna**: *They will finish it soon.* → *It **will be finished** soon.*\n- **mowa zależna**: *\"I'll call you,\" he said.* → *He **promised to** call me.*\n- **wish / if only**: *I'm sorry I didn't go.* → *I **wish I had** gone.*\n- **modalne w przeszłości**: *I'm sure he forgot.* → *He **must have** forgotten.*\n- **used to / be used to**: *I'm not familiar with driving on the left.* → *I'm **not used to** driving on the left.*\n- **phrasal verbs i wyrażenia**: *postpone* → *put off*; *It isn't worth it* → *There's no point*.\n- **porównania**: *Nobody in the class is taller than Tom.* → *Tom is **the tallest** in the class.*\n\nPamiętaj: nie zmieniaj słowa kluczowego i sprawdź, czy czas i sens się zgadzają.",
+    "sets": [
+      "b2-sent-key-word-transformations-1",
+      "b2-sent-key-word-transformations-2",
+      "b2-sent-key-word-transformations-3"
+    ]
+  },
+  {
+    "id": "c1-sent-inversion-emphasis-practice",
+    "section": "sentences",
+    "level": "C1",
+    "order": 1,
+    "title": "Inwersja i emfaza w praktyce",
+    "explanation": "Praktyka łączenia **inwersji** i **emfazy** w dłuższych wypowiedziach – przemówieniach, esejach, mailach formalnych.\n\nSzybka powtórka:\n- **inwersja**: *Never have I..., Not only did..., Hardly had... when, Only then did..., Under no circumstances should..., Little did..., Had I known..., Should you...*\n- **cleft**: *It was ... that..., What I need is..., All I want is..., The reason why... is that...*\n- **emfaza**: *do / did + czasownik, the very, such / so, by far, whatsoever, -self*\n\nWskazówki:\n- Inwersja brzmi formalnie – idealna w zakończeniu eseju lub przemówieniu: ***Not only** will this plan save money, **but** it **will also** protect the environment.*\n- Nie nadużywaj – jedno, dwa takie zdania na tekst wystarczą.\n- Sprawdzaj **czasownik posiłkowy** (*do / does / did / have / had*) i **szyk** po wyrażeniu wprowadzającym.",
+    "sets": [
+      "c1-sent-inversion-emphasis-practice-1",
+      "c1-sent-inversion-emphasis-practice-2",
+      "c1-sent-inversion-emphasis-practice-3"
+    ]
+  },
+  {
+    "id": "c1-sent-formal-phrases",
+    "section": "sentences",
+    "level": "C1",
+    "order": 2,
+    "title": "Zwroty formalne",
+    "explanation": "**Zwroty formalne** do pism, e-maili służbowych i spotkań:\n\n**Otwarcie i cel**: *I am writing with regard to... / Further to our conversation... / Following your request...*\n\n**Prośby**: *I would be grateful if you could... / I would appreciate it if... / Would it be possible to...? / Kindly confirm...*\n\n**Informowanie**: *Please be advised that... / I wish to inform you that... / Please note that...*\n\n**Przeprosiny i odmowa**: *Please accept our apologies for... / We regret to inform you that... / Unfortunately, we are unable to...*\n\n**Załączniki i odsyłacze**: *Please find attached... / As mentioned in my previous email... / With reference to...*\n\n**Zakończenie**: *Should you have any further questions, please do not hesitate to contact me. / I look forward to your reply. / Thank you in advance for your cooperation.*\n\n**Spotkania**: *I'd like to raise a point. / If I could just come in here... / Could we move on to the next item? / To summarise the main points...*",
+    "sets": [
+      "c1-sent-formal-phrases-1",
+      "c1-sent-formal-phrases-2",
+      "c1-sent-formal-phrases-3"
+    ]
+  },
+  {
+    "id": "c1-sent-concision",
+    "section": "sentences",
+    "level": "C1",
+    "order": 3,
+    "title": "Zwięzłość i unikanie powtórzeń",
+    "explanation": "**Zwięzłość** to cecha dobrego stylu na C1. Usuwaj słowa, które nic nie wnoszą:\n\n**Puste wyrażenia → jedno słowo**:\n- *due to the fact that* → **because** · *in spite of the fact that* → **although**\n- *at this point in time* → **now** · *in the event that* → **if**\n- *a large number of* → **many** · *make a decision* → **decide**\n- *in order to* → **to** · *it is important to note that* → (usuń)\n\n**Pleonazmy (powtórzenia)**: *future plans* → **plans**, *past history* → **history**, *final outcome* → **outcome**, *completely finished* → **finished**, *free gift* → **gift**, *each and every* → **every**\n\n**Skracanie zdań**:\n- zdania względne → imiesłów: *the man who was sitting there* → *the man sitting there*\n- strona bierna zamiast „ktoś”: *Somebody stole my bike* → *My bike was stolen*\n- rzeczownik zamiast zdania: *Because he arrived late...* → *His late arrival...*\n- *there is / there are* bez potrzeby: *There are many people who think* → *Many people think*\n\nZwięzły tekst jest **czytelniejszy** i brzmi bardziej profesjonalnie.",
+    "sets": [
+      "c1-sent-concision-1",
+      "c1-sent-concision-2",
+      "c1-sent-concision-3"
+    ]
+  },
+  {
+    "id": "a1-reading-email",
+    "section": "reading",
+    "level": "A1",
+    "order": 1,
+    "title": "E-mail",
+    "explanation": "Krótkie e-maile i wiadomości od znajomych. Zaczynają się od *Hi / Hello + imię*, a kończą np. *Love, Write soon, See you*.\n\nNajpierw przeczytaj cały tekst, żeby wiedzieć, kto pisze i o czym. Potem czytaj pytania i wracaj do tekstu po konkretne informacje (gdzie? kiedy? kto?).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "a1-reading-email-1",
+      "a1-reading-email-2",
+      "a1-reading-email-3"
+    ]
+  },
+  {
+    "id": "a1-reading-notice",
+    "section": "reading",
+    "level": "A1",
+    "order": 2,
+    "title": "Ogłoszenie",
+    "explanation": "Ogłoszenia i informacje: godziny otwarcia, ceny, zasady, ogłoszenia o wynajmie czy zgubach. Są krótkie i często mają listę punktów.\n\nSzukaj konkretów: godzin, cen, dni tygodnia, numerów telefonu. Zwróć uwagę na słowa *No...* (zakaz), *must* (musisz), *under 12* (poniżej 12 lat).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "a1-reading-notice-1",
+      "a1-reading-notice-2",
+      "a1-reading-notice-3"
+    ]
+  },
+  {
+    "id": "a1-reading-instructions",
+    "section": "reading",
+    "level": "A1",
+    "order": 3,
+    "title": "Instrukcja",
+    "explanation": "Instrukcje mówią, co zrobić krok po kroku. Używają trybu rozkazującego: *Put..., Choose..., Don't...*, i często mają numerowane punkty.\n\nZwróć uwagę na kolejność kroków (*first, then, after that, when you finish*) i na zakazy (*Don't...*).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "a1-reading-instructions-1",
+      "a1-reading-instructions-2",
+      "a1-reading-instructions-3"
+    ]
+  },
+  {
+    "id": "a2-reading-email",
+    "section": "reading",
+    "level": "A2",
+    "order": 1,
+    "title": "E-mail",
+    "explanation": "E-maile od znajomych na poziomie A2 są dłuższe: mają kilka akapitów, opowiadają o wydarzeniach z przeszłości (Past Simple) i o planach (going to, Present Continuous).\n\nCzytaj akapit po akapicie i zadaj sobie pytanie: o czym jest ten akapit? Pytania zwykle idą w tej samej kolejności co tekst.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "a2-reading-email-1",
+      "a2-reading-email-2",
+      "a2-reading-email-3"
+    ]
+  },
+  {
+    "id": "a2-reading-notice",
+    "section": "reading",
+    "level": "A2",
+    "order": 2,
+    "title": "Ogłoszenie",
+    "explanation": "Ogłoszenia na poziomie A2: oferty kursów, regulaminy, instrukcje usług. Mają nagłówki, punkty i dużo konkretów: godziny, ceny, warunki.\n\nNajpierw przejrzyj nagłówki, żeby wiedzieć, gdzie czego szukać. Zwracaj uwagę na słowa, które zmieniają sens: *only* (tylko), *free* (bezpłatny), *must* (trzeba), *don't* (nie wolno), *under / over* (poniżej / powyżej).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "a2-reading-notice-1",
+      "a2-reading-notice-2",
+      "a2-reading-notice-3"
+    ]
+  },
+  {
+    "id": "a2-reading-article",
+    "section": "reading",
+    "level": "A2",
+    "order": 3,
+    "title": "Artykuł",
+    "explanation": "Krótkie artykuły z gazet i stron internetowych: mają tytuł, kilka akapitów, czasem cytaty z wypowiedzi ludzi (*'...,' says Zofia*).\n\nTytuł i pierwszy akapit mówią, o czym jest tekst. Cytaty pokazują opinie – zwracaj uwagę, **kto** co mówi. Gdy nie znasz słowa, spróbuj zgadnąć jego znaczenie z kontekstu, zanim sprawdzisz w zadaniu ze słownictwem.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "a2-reading-article-1",
+      "a2-reading-article-2",
+      "a2-reading-article-3"
+    ]
+  },
+  {
+    "id": "b1-reading-email",
+    "section": "reading",
+    "level": "B1",
+    "order": 1,
+    "title": "E-mail",
+    "explanation": "Dłuższe e-maile od znajomych i rodziny: nowiny, prośby o radę, opisy. Autor często przeskakuje między przeszłością (co się wydarzyło), teraźniejszością (jak jest teraz) i przyszłością (plany).\n\nZwracaj uwagę na słowa sygnalizujące zmianę: *but, however, on the other hand, the problem is that...* – po nich zwykle pada najważniejsza informacja.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "b1-reading-email-1",
+      "b1-reading-email-2",
+      "b1-reading-email-3"
+    ]
+  },
+  {
+    "id": "b1-reading-article",
+    "section": "reading",
+    "level": "B1",
+    "order": 2,
+    "title": "Artykuł",
+    "explanation": "Artykuły popularnonaukowe i prasowe: przedstawiają temat, podają argumenty, przykłady, czasem dwie strony sprawy.\n\nStruktura jest zwykle stała: tytuł i wstęp (o czym), kilka akapitów rozwinięcia (każdy z jedną główną myślą), zakończenie (wniosek). Pytania o „dlaczego” znajdziesz często po słowach *because, so, as a result, this means*.\n\nSłowa *however, but, on the other hand* zapowiadają drugą stronę – to dobre miejsce na pytania True/False.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "b1-reading-article-1",
+      "b1-reading-article-2",
+      "b1-reading-article-3"
+    ]
+  },
+  {
+    "id": "b1-reading-opinion",
+    "section": "reading",
+    "level": "B1",
+    "order": 3,
+    "title": "Opinia",
+    "explanation": "Teksty opiniotwórcze (felietony, wpisy na blogach) przedstawiają **zdanie autora** i argumenty. Często pokazują też drugą stronę – po to, żeby się z nią zgodzić albo ją odrzucić.\n\nSzukaj zwrotów opinii: *I believe, In my opinion, I worry about, I'd rather...* i słów porządkujących argumenty: *Firstly, Secondly, Finally*. Odróżniaj **fakty** (co się wydarzyło) od **opinii** (co autor myśli) i od **opinii innych ludzi** (*Some friends say...*).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "b1-reading-opinion-1",
+      "b1-reading-opinion-2",
+      "b1-reading-opinion-3"
+    ]
+  },
+  {
+    "id": "b2-reading-article",
+    "section": "reading",
+    "level": "B2",
+    "order": 1,
+    "title": "Artykuł",
+    "explanation": "Artykuły prasowe i popularnonaukowe na B2: temat, kilka punktów widzenia, cytaty ekspertów i liczby.\n\n- **Pierwszy akapit** zwykle streszcza całość – przeczytaj go uważnie.\n- **Cytaty** (*says Dr Smith*) pokazują opinie, a nie fakty – zwróć uwagę, kto mówi.\n- **Liczby i proporcje** (*a third of, nearly half*) często pojawiają się w pytaniach – sprawdzaj je dokładnie.\n- Słowa *however, yet, despite this* sygnalizują zwrot w argumentacji.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "b2-reading-article-1",
+      "b2-reading-article-2",
+      "b2-reading-article-3"
+    ]
+  },
+  {
+    "id": "b2-reading-opinion",
+    "section": "reading",
+    "level": "B2",
+    "order": 2,
+    "title": "Opinia",
+    "explanation": "Teksty opiniotwórcze (felietony, komentarze, wpisy blogowe) przekonują czytelnika. Na B2 autor zwykle:\n\n- przedstawia **tezę** na początku albo na końcu,\n- przywołuje **opinię przeciwną** (*Some people argue that... / Of course, ...*), żeby ją zbić,\n- używa **ironii i pytań retorycznych** – nie bierz ich dosłownie.\n\nOdróżniaj **fakty** od **opinii autora**. Pytania często brzmią: *What is the writer's opinion?*, *What does the writer suggest?* Szukaj słów *I believe, in my view, should, it is time to*.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "b2-reading-opinion-1",
+      "b2-reading-opinion-2",
+      "b2-reading-opinion-3"
+    ]
+  },
+  {
+    "id": "b2-reading-instructions",
+    "section": "reading",
+    "level": "B2",
+    "order": 3,
+    "title": "Instrukcja",
+    "explanation": "Instrukcje, poradniki i procedury: kroki w określonej kolejności, wymagania i wyjątki.\n\n- Szukaj **słów porządkujących**: *first, before you start, once, after that, finally*.\n- **Tryb rozkazujący** (*Make sure..., Do not...*) to polecenia; *should / must / need to* – wymagania.\n- **Wyjątki i warunki** (*unless, if, only when, except*) bardzo często są przedmiotem pytań.\n- Zwracaj uwagę na **liczby, terminy i limity** (*within 14 days, no more than 2 MB*).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "b2-reading-instructions-1",
+      "b2-reading-instructions-2",
+      "b2-reading-instructions-3"
+    ]
+  },
+  {
+    "id": "c1-reading-article",
+    "section": "reading",
+    "level": "C1",
+    "order": 1,
+    "title": "Artykuł",
+    "explanation": "Artykuły na C1 to długie teksty publicystyczne i popularnonaukowe z **wieloma głosami** i **zniuansowanymi wnioskami**.\n\n- Autor często przedstawia **powszechne przekonanie**, a potem je **podważa** (*It is commonly assumed that... Yet...*).\n- **Hedging** (*may, suggests, appears*) oznacza, że coś nie jest pewne – pytania testują, czy to zauważysz.\n- Rozróżniaj **opinię eksperta**, **wynik badania** i **komentarz autora**.\n- Pytania o **cel akapitu** lub **funkcję zdania** wymagają rozumienia struktury, nie tylko słów.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "c1-reading-article-1",
+      "c1-reading-article-2",
+      "c1-reading-article-3"
+    ]
+  },
+  {
+    "id": "c1-reading-opinion",
+    "section": "reading",
+    "level": "C1",
+    "order": 2,
+    "title": "Opinia",
+    "explanation": "Felietony i komentarze na C1 są pełne **ironii, aluzji i niuansów**. Autor rzadko mówi wprost – częściej sugeruje.\n\n- Zwracaj uwagę na **ton**: ironiczny, nostalgiczny, prowokacyjny, wyważony.\n- **Ustępstwa** (*Granted, ... / Of course, ... / I am not suggesting that...*) to nie zmiana zdania – autor zaraz wróci do swojej tezy.\n- Pytania typu *What does the writer imply?* wymagają wnioskowania, nie szukania słów w tekście.\n- Ostatni akapit często zawiera **puentę** lub **wezwanie** – tam szukaj głównej myśli.\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "c1-reading-opinion-1",
+      "c1-reading-opinion-2",
+      "c1-reading-opinion-3"
+    ]
+  },
+  {
+    "id": "c1-reading-formal-email",
+    "section": "reading",
+    "level": "C1",
+    "order": 3,
+    "title": "E-mail formalny",
+    "explanation": "Formalne e-maile i pisma na C1: reklamacje, ogłoszenia firmowe, odpowiedzi instytucji. Język jest **uprzejmy, ale precyzyjny** – ważne informacje kryją się w zwrotach grzecznościowych.\n\n- Szukaj **konkretów**: terminów, kwot, warunków, wyjątków (*provided that, unless, with the exception of*).\n- **Strona bierna i nominalizacja** ukrywają, kto co robi – pytania często o to pytają.\n- **Ton** (stanowczy, przepraszający, wymijający) bywa przedmiotem pytań.\n- Odróżniaj to, co **obiecano**, od tego, co tylko **rozważane** (*we will* vs *we are considering*).\n\n**True / False / Not given**:\n\n- **True** – tekst mówi to samo (często innymi słowami),\n- **False** – tekst mówi coś przeciwnego,\n- **Not given** – tekst o tym nie mówi. Nie zgaduj na podstawie własnej wiedzy.",
+    "sets": [
+      "c1-reading-formal-email-1",
+      "c1-reading-formal-email-2",
+      "c1-reading-formal-email-3"
+    ]
+  },
+  {
+    "id": "a2-writing-short-message",
+    "section": "writing",
+    "level": "A2",
+    "order": 1,
+    "title": "Krótka wiadomość",
+    "explanation": "**Krótka wiadomość** (SMS, kartka, notatka, wiadomość na komunikatorze) ma jeden cel: zaprosić, odmówić, przeprosić, poprosić, przypomnieć.\n\nBudowa:\n1. **Powitanie**: *Hi Tom, / Hello Kate,*\n2. **Sedno** w 2–4 zdaniach: co, kiedy, gdzie, dlaczego.\n3. **Zakończenie**: *See you soon! / Thanks! / Let me know.* i podpis.\n\nPrzydatne zwroty:\n- zaproszenie: *Would you like to come to...?*\n- przyjęcie: *Thanks for the invitation! I'd love to come.*\n- odmowa: *Sorry, I can't come because...*\n- zmiana planu: *Can we meet on Sunday instead?*\n- prośba: *Can you buy some milk?* · przypomnienie: *Don't forget...*\n\nPisz krótko i konkretnie. Nie używaj formalnych zwrotów typu *Dear Sir* ani *Yours faithfully*.",
+    "sets": [
+      "a2-writing-short-message-1",
+      "a2-writing-short-message-2",
+      "a2-writing-short-message-3"
+    ]
+  },
+  {
+    "id": "a2-writing-simple-email",
+    "section": "writing",
+    "level": "A2",
+    "order": 2,
+    "title": "Prosty e-mail",
+    "explanation": "**Prosty e-mail** do znajomego jest dłuższy niż wiadomość i ma akapity:\n\n1. **Powitanie**: *Hi Emma, / Dear Aunt Mary,*\n2. **Wstęp**: *How are you? Thanks for your email. It was great to hear from you.*\n3. **Treść** (1–2 akapity): nowiny, opis wyjazdu, plany. Łącz zdania słowami *and, but, because, so, then*.\n4. **Pytanie do adresata**: *What about you? How was your weekend?*\n5. **Zakończenie**: *Write soon, / Best wishes, / Love,* i podpis.\n\nCzasy: o tym, co się wydarzyło – **Past Simple** (*we went, we saw*); o planach – **going to** (*we're going to visit*); o tym, co teraz – Present Continuous (*we're having a great time*).\n\nNajczęstsze błędy: *Thanks for **your** email* (nie *you*), *looking forward to **seeing*** (po *to* forma -ing).",
+    "sets": [
+      "a2-writing-simple-email-1",
+      "a2-writing-simple-email-2",
+      "a2-writing-simple-email-3"
+    ]
+  },
+  {
+    "id": "b1-writing-informal-email",
+    "section": "writing",
+    "level": "B1",
+    "order": 1,
+    "title": "E-mail nieformalny",
+    "explanation": "**E-mail nieformalny** (do przyjaciela, rodziny) na B1 ma 100–150 słów i wyraźne akapity:\n\n1. **Otwarcie**: *Hi Lucy, / Dear Tom,* + reakcja na list: *Thanks for your email – it was great to hear from you! Sorry I haven't written for ages.*\n2. **Treść**: nowiny, odpowiedzi na pytania, rady. Przydatne:\n   *Guess what? ... / I'm so sorry to hear that... / That's great news! / If I were you, I'd... / Why don't you...?*\n3. **Zmiana tematu**: *Anyway, ... / By the way, ...*\n4. **Zakończenie**: *Write back soon! / Can't wait to see you! / Give my love to...* + *Take care, / Lots of love, / Cheers,* i imię.\n\nStyl nieformalny: skróty (*I'm, don't*), potoczne słowa (*kids, stuff, get*), wykrzykniki, pytania do adresata.\nUnikaj zwrotów formalnych: *Dear Sir or Madam, Yours faithfully, I am writing to inform you*.",
+    "sets": [
+      "b1-writing-informal-email-1",
+      "b1-writing-informal-email-2",
+      "b1-writing-informal-email-3"
+    ]
+  },
+  {
+    "id": "b1-writing-description",
+    "section": "writing",
+    "level": "B1",
+    "order": 2,
+    "title": "Opis",
+    "explanation": "**Opis** (osoby, miejsca, wydarzenia) powinien pozwolić czytelnikowi coś zobaczyć i poczuć.\n\n**Osoba**: wygląd (*tall, slim, in his twenties, curly hair*), charakter (*generous, funny, reliable*), przykład zachowania. Pytanie o wygląd: *What does she look like?*\n\n**Miejsce**: gdzie jest (*It's located in the north of Poland*), jak wygląda (*peaceful, crowded, picturesque*), z czego słynie (*famous **for***), co można tam robić.\n\n**Wydarzenie**: kolejność (*First of all, after that, suddenly, in the end*), czasy przeszłe (*Past Simple, Past Continuous*), uczucia.\n\nZamiast *very good / very nice* używaj mocnych przymiotników: *amazing, delicious, breathtaking, fantastic*. Uwaga: z mocnymi przymiotnikami nie łączymy *very* – mówimy *absolutely amazing*.\n\nKolejność przymiotników: opinia – rozmiar – wiek – kolor – materiał: *a **beautiful old wooden** table*.",
+    "sets": [
+      "b1-writing-description-1",
+      "b1-writing-description-2",
+      "b1-writing-description-3"
+    ]
+  },
+  {
+    "id": "b2-writing-formal-email",
+    "section": "writing",
+    "level": "B2",
+    "order": 1,
+    "title": "E-mail formalny",
+    "explanation": "**E-mail formalny** (do firmy, urzędu, nieznanej osoby) na B2 ma 140–190 słów:\n\n1. **Powitanie**: *Dear Mr Smith, / Dear Ms Nowak,* (znamy nazwisko) albo *Dear Sir or Madam,* (nie znamy)\n2. **Cel**: *I am writing **to enquire about** / **to complain about** / **with regard to**...*\n3. **Treść** w akapitach, każdy z jednym tematem. Przydatne:\n   *I would be grateful if you could... / Could you please let me know... / I would like to point out that... / Furthermore, ... / However, ...*\n4. **Zakończenie**: *I look forward to hearing from you.* + *Yours sincerely,* (znamy nazwisko) / *Yours faithfully,* (Dear Sir or Madam) / *Kind regards,* (półformalnie)\n\nStyl formalny: **bez skrótów** (*I am, do not*), bez potocznych słów (*kids, stuff, get*), dłuższe zdania, strona bierna i zwroty grzecznościowe (*would, could*).",
+    "sets": [
+      "b2-writing-formal-email-1",
+      "b2-writing-formal-email-2",
+      "b2-writing-formal-email-3"
+    ]
+  },
+  {
+    "id": "b2-writing-opinion-essay",
+    "section": "writing",
+    "level": "B2",
+    "order": 2,
+    "title": "Opinion essay",
+    "explanation": "**Opinion essay** (rozprawka z opinią) na B2 ma 140–190 słów i 4 akapity:\n\n1. **Wstęp** – przedstaw temat i swoje zdanie: *Nowadays, more and more people... **In my opinion**, ...*\n2. **Argument 1** z przykładem: ***Firstly**, ... **For example**, ...*\n3. **Argument 2** (albo kontrargument i odpowiedź na niego): ***Secondly**, ... / **On the other hand**, some people argue that... **However**, ...*\n4. **Zakończenie** – podsumuj i powtórz opinię innymi słowami: ***To sum up / In conclusion**, I believe that...*\n\nPrzydatne:\n- opinia: *I strongly believe that... / It seems to me that... / I am convinced that...*\n- dodawanie: *Moreover, / Furthermore, / What is more,*\n- kontrast: *However, / Although... / Despite + -ing / rzeczownik*\n- przykład: *For instance, / such as*\n\nStyl neutralny lub formalny – bez skrótów i bez zwrotów do czytelnika jak w liście.",
+    "sets": [
+      "b2-writing-opinion-essay-1",
+      "b2-writing-opinion-essay-2",
+      "b2-writing-opinion-essay-3"
+    ]
+  },
+  {
+    "id": "b2-writing-report",
+    "section": "writing",
+    "level": "B2",
+    "order": 3,
+    "title": "Raport",
+    "explanation": "**Raport** (report) na B2 ma 140–190 słów, jest **formalny** i ma **nagłówki**:\n\n- **Tytuł**: *Report on the school canteen*\n- **Introduction** – cel raportu: *The **aim / purpose of this report is to** evaluate... It is **based on** a survey of 50 students.*\n- **Sekcje z nagłówkami** – fakty i wyniki: *Most of the students said that... Only a few people... **According to** the survey, ...*\n- **Recommendations / Conclusion** – rekomendacje: ***I would recommend** + -ing / that... **It would be a good idea to**... **In conclusion**, ...*\n\nJęzyk raportu:\n- bezosobowy, często w stronie biernej: *It was found that... Several problems **were identified**.*\n- liczby i proporcje: *the majority of, a third of, 60% of the respondents, a small number of*\n- bez emocji i bez zwrotów do czytelnika (nie *Hi!*, nie *you know*)\n\nRaport różni się od rozprawki: **opisuje fakty i rekomenduje**, zamiast przekonywać.",
+    "sets": [
+      "b2-writing-report-1",
+      "b2-writing-report-2",
+      "b2-writing-report-3"
+    ]
+  },
+  {
+    "id": "c1-writing-proposal",
+    "section": "writing",
+    "level": "C1",
+    "order": 1,
+    "title": "Propozycja",
+    "explanation": "**Propozycja** (proposal) na C1 ma 220–260 słów. Piszesz ją do przełożonego, rady miasta lub komisji, żeby **przekonać do konkretnego planu**. Patrzy w przyszłość – w przeciwieństwie do raportu, który opisuje stan obecny.\n\nStruktura z **nagłówkami**:\n1. **Introduction** – cel: *The purpose of this proposal is to suggest... / This proposal outlines...*\n2. **Current situation** – krótko o problemie: *At present, ... / Many employees have expressed concern about...*\n3. **Proposed changes / Recommendations** – konkretne pomysły: *I would propose that... / It would be advisable to... / One option would be to...*\n4. **Benefits / Costs** – uzasadnienie: *This would enable... / The main advantage would be... / The initial cost would be offset by...*\n5. **Conclusion** – wezwanie do decyzji: *I am confident that these measures would... / I would urge the board to...*\n\nJęzyk: formalny, **conditional** (*would, could*), subjunctive (*I recommend that the company invest...*), nominalizacja, hedging (*it is likely that...*).",
+    "sets": [
+      "c1-writing-proposal-1",
+      "c1-writing-proposal-2",
+      "c1-writing-proposal-3"
+    ]
+  },
+  {
+    "id": "c1-writing-review",
+    "section": "writing",
+    "level": "C1",
+    "order": 2,
+    "title": "Recenzja",
+    "explanation": "**Recenzja** (review) na C1 ma 220–260 słów – książki, filmu, restauracji, aplikacji, wydarzenia. Ma **zaciekawić czytelnika** i **pomóc mu zdecydować**.\n\nStruktura:\n1. **Tytuł i wstęp** z „hakiem”: *Have you ever wondered...? / If you're looking for..., look no further.*\n2. **Opis** (krótko, bez spoilerów): *Set in 1920s Berlin, the film follows... / The app allows users to...*\n3. **Ocena** – mocne i słabe strony: *What makes it stand out is... / The only drawback is... / Admittedly, the plot is somewhat predictable.*\n4. **Rekomendacja**: *I would thoroughly recommend it to... / It's well worth a visit. / Unless you're a die-hard fan, give it a miss.*\n\nJęzyk: **bogate przymiotniki** (*gripping, thought-provoking, breathtaking, overrated, mediocre*), styl pół-formalny – można zwracać się do czytelnika, ale bez slangu. Mieszaj czasy: teraźniejszy do opisu fabuły, przeszły do własnych wrażeń.",
+    "sets": [
+      "c1-writing-review-1",
+      "c1-writing-review-2",
+      "c1-writing-review-3"
+    ]
+  },
+  {
+    "id": "c1-writing-argumentative-essay",
+    "section": "writing",
+    "level": "C1",
+    "order": 3,
+    "title": "Esej argumentacyjny",
+    "explanation": "**Esej argumentacyjny** na C1 ma 220–260 słów. Rozważasz problem z różnych stron i dochodzisz do **uzasadnionego wniosku**. Na egzaminie CAE często musisz porównać dwa podejścia i wybrać ważniejsze.\n\nStruktura:\n1. **Wstęp** – kontekst i teza lub pytanie: *It is often argued that... / In recent years, there has been growing debate about...*\n2. **Argument 1** z uzasadnieniem i przykładem\n3. **Argument 2** albo **kontrargument**: *Opponents of this view claim that... While this may be true to some extent, ...*\n4. **Wniosek** – wyważony, ale jednoznaczny: ***On balance**, I believe... / **Having considered** both sides, it seems clear that...*\n\nJęzyk C1:\n- **hedging**: *arguably, to a certain extent, it could be argued that*\n- **inwersja i cleft**: *Not only does... / What is often overlooked is...*\n- **markery**: *Nevertheless, Consequently, Admittedly, Whereas*\n- **nominalizacja**: *The introduction of...*\n- **unikaj** „I think” w każdym zdaniu i zwrotów do czytelnika.",
+    "sets": [
+      "c1-writing-argumentative-essay-1",
+      "c1-writing-argumentative-essay-2",
+      "c1-writing-argumentative-essay-3"
+    ]
+  }
+]

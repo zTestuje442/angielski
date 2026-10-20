@@ -1,0 +1,336 @@
+[
+  {
+    "id": "a1-vocab-food-drink-1",
+    "topicId": "a1-vocab-food-drink",
+    "exercises": [
+      {
+        "id": "a1-vocab-food-drink-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "bread|chleb",
+          "cheese|ser",
+          "apple|jabłko",
+          "egg|jajko"
+        ],
+        "explanation": "Podstawowe jedzenie."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-02",
+        "type": "choice",
+        "prompt": "Which is a drink?",
+        "answer": "juice",
+        "distractors": [
+          "rice",
+          "butter"
+        ],
+        "explanation": "Sok się pije: juice."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-03",
+        "type": "choice",
+        "prompt": "Which is a vegetable?",
+        "answer": "carrot",
+        "distractors": [
+          "banana",
+          "chicken"
+        ],
+        "explanation": "Marchewka to warzywo."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-04",
+        "type": "cloze",
+        "prompt": "I drink a cup of ___ every morning. (kawa)",
+        "answer": "coffee",
+        "explanation": "Kawa = coffee."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-05",
+        "type": "cloze",
+        "prompt": "Cows give us ___.",
+        "answer": "milk",
+        "explanation": "Krowy dają mleko."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-06",
+        "type": "error",
+        "prompt": "I'd like a glass of bread, please.",
+        "answer": [
+          "bread",
+          "water"
+        ],
+        "accept": [
+          "juice",
+          "milk",
+          "lemonade",
+          "wine"
+        ],
+        "explanation": "Szklanka to coś do picia, np. water."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-07",
+        "type": "tiles",
+        "prompt": "Lubię ryby i ryż.",
+        "answer": [
+          "I",
+          "like",
+          "fish",
+          "and",
+          "rice"
+        ],
+        "explanation": "Ryba = fish, ryż = rice."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-08",
+        "type": "translate",
+        "prompt": "Poproszę herbatę z cytryną.",
+        "answer": "Tea with lemon, please.",
+        "accept": [
+          "Can I have tea with lemon, please?",
+          "Can I have a tea with lemon, please?",
+          "A tea with lemon, please.",
+          "I would like tea with lemon, please.",
+          "I would like a tea with lemon, please."
+        ],
+        "explanation": "Prośba w kawiarni: ..., please albo Can I have...?"
+      },
+      {
+        "id": "a1-vocab-food-drink-1-09",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\npotato",
+        "answer": "potatoes",
+        "explanation": "Potato – potatoes."
+      },
+      {
+        "id": "a1-vocab-food-drink-1-10",
+        "type": "choice",
+        "prompt": "Which is fruit?",
+        "answer": "orange",
+        "distractors": [
+          "onion",
+          "pasta"
+        ],
+        "explanation": "Pomarańcza to owoc."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-food-drink-2",
+    "topicId": "a1-vocab-food-drink",
+    "exercises": [
+      {
+        "id": "a1-vocab-food-drink-2-01",
+        "type": "match",
+        "prompt": "Połącz posiłki ze znaczeniem.",
+        "answer": [
+          "breakfast|śniadanie",
+          "lunch|posiłek w południe",
+          "dinner|główny posiłek wieczorem",
+          "snack|przekąska"
+        ],
+        "explanation": "Posiłki w ciągu dnia."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-02",
+        "type": "choice",
+        "prompt": "The first meal of the day is ___.",
+        "answer": "breakfast",
+        "distractors": [
+          "dinner",
+          "lunch"
+        ],
+        "explanation": "Pierwszy posiłek to śniadanie."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-03",
+        "type": "cloze",
+        "prompt": "I'm hungry. Let's have a ___. (przekąska)",
+        "answer": "snack",
+        "explanation": "Przekąska = snack."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-04",
+        "type": "cloze",
+        "prompt": "Can I have the ___, please? I want to pay.",
+        "answer": "bill",
+        "accept": [
+          "check"
+        ],
+        "explanation": "Rachunek = bill (w USA: check)."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-05",
+        "type": "choice",
+        "prompt": "I'm ___. Can I have some water?",
+        "answer": "thirsty",
+        "distractors": [
+          "hungry",
+          "tired"
+        ],
+        "explanation": "Chce pić, więc thirsty."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-06",
+        "type": "error",
+        "prompt": "I'm thirsty. I want a sandwich.",
+        "answer": [
+          "thirsty",
+          "hungry"
+        ],
+        "explanation": "Kanapkę chcemy, gdy jesteśmy głodni."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-07",
+        "type": "tiles",
+        "prompt": "Co jesz na śniadanie?",
+        "answer": [
+          "What",
+          "do",
+          "you",
+          "have",
+          "for",
+          "breakfast"
+        ],
+        "explanation": "Na śniadanie: for breakfast."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-08",
+        "type": "translate",
+        "prompt": "Jestem głodny.",
+        "answer": "I am hungry.",
+        "explanation": "Głodny = hungry."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-09",
+        "type": "match",
+        "prompt": "Połącz smaki z tłumaczeniem.",
+        "answer": [
+          "sweet|słodki",
+          "salty|słony",
+          "spicy|ostry",
+          "sour|kwaśny"
+        ],
+        "explanation": "Smaki."
+      },
+      {
+        "id": "a1-vocab-food-drink-2-10",
+        "type": "choice",
+        "prompt": "Sugar is ___.",
+        "answer": "sweet",
+        "distractors": [
+          "salty",
+          "sour"
+        ],
+        "explanation": "Cukier jest słodki."
+      }
+    ]
+  },
+  {
+    "id": "a1-vocab-food-drink-3",
+    "topicId": "a1-vocab-food-drink",
+    "exercises": [
+      {
+        "id": "a1-vocab-food-drink-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "a bottle of|butelka",
+          "a cup of|filiżanka",
+          "a bowl of|miska",
+          "a piece of|kawałek"
+        ],
+        "explanation": "Opakowania i porcje."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-02",
+        "type": "cloze",
+        "prompt": "Would you like a ___ of cake? (kawałek)",
+        "answer": "piece",
+        "accept": [
+          "slice"
+        ],
+        "explanation": "Kawałek ciasta: a piece (albo slice) of cake."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-03",
+        "type": "cloze",
+        "prompt": "I'd like a ___ of soup, please. (miska)",
+        "answer": "bowl",
+        "explanation": "Miska zupy: a bowl of soup."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-04",
+        "type": "choice",
+        "prompt": "Can I see the ___, please? I want to order.",
+        "answer": "menu",
+        "distractors": [
+          "bill",
+          "table"
+        ],
+        "explanation": "Żeby zamówić, prosimy o menu."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-05",
+        "type": "choice",
+        "prompt": "I don't eat meat. I'm a ___.",
+        "answer": "vegetarian",
+        "distractors": [
+          "vegetable",
+          "waiter"
+        ],
+        "explanation": "Nie je mięsa: vegetarian."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-06",
+        "type": "error",
+        "prompt": "The waiter brings the food and the cooker cooks it.",
+        "answer": [
+          "cooker",
+          "cook"
+        ],
+        "accept": [
+          "chef"
+        ],
+        "explanation": "Kucharz to cook; cooker to kuchenka."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-07",
+        "type": "tiles",
+        "prompt": "Poproszę butelkę wody.",
+        "answer": [
+          "A",
+          "bottle",
+          "of",
+          "water",
+          "please"
+        ],
+        "explanation": "Butelka wody: a bottle of water."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-08",
+        "type": "translate",
+        "prompt": "Nie lubię mięsa.",
+        "answer": "I don't like meat.",
+        "explanation": "Meat = mięso."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-09",
+        "type": "transform",
+        "prompt": "Napisz przeciwieństwo.\nThe soup is hot.",
+        "answer": "The soup is cold.",
+        "explanation": "Hot – cold."
+      },
+      {
+        "id": "a1-vocab-food-drink-3-10",
+        "type": "choice",
+        "prompt": "A person who serves food in a restaurant is a ___.",
+        "answer": "waiter",
+        "distractors": [
+          "chef",
+          "driver"
+        ],
+        "explanation": "Kelner to waiter."
+      }
+    ]
+  }
+]

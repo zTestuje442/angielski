@@ -1,0 +1,351 @@
+[
+  {
+    "id": "c1-vocab-hedging-1",
+    "topicId": "c1-vocab-hedging",
+    "exercises": [
+      {
+        "id": "c1-vocab-hedging-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "arguably|prawdopodobnie, można argumentować",
+          "apparently|podobno",
+          "presumably|przypuszczalnie",
+          "to some extent|do pewnego stopnia"
+        ],
+        "explanation": "Hedging."
+      },
+      {
+        "id": "c1-vocab-hedging-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is hedged?",
+        "answer": "The results suggest that the drug may be effective.",
+        "distractors": [
+          "The drug works.",
+          "The drug is 100% effective."
+        ],
+        "explanation": "Ostrożnie: suggest, may."
+      },
+      {
+        "id": "c1-vocab-hedging-1-03",
+        "type": "choice",
+        "prompt": "People ___ to buy more when they are hungry.",
+        "answer": "tend",
+        "distractors": [
+          "seem it",
+          "appear it"
+        ],
+        "explanation": "Tend to."
+      },
+      {
+        "id": "c1-vocab-hedging-1-04",
+        "type": "cloze",
+        "prompt": "It ___ that the problem has been solved. (wydaje się)",
+        "answer": "appears",
+        "accept": [
+          "seems"
+        ],
+        "explanation": "It appears that..."
+      },
+      {
+        "id": "c1-vocab-hedging-1-05",
+        "type": "cloze",
+        "prompt": "It could be ___ that the policy has failed. (można by argumentować)",
+        "answer": "argued",
+        "explanation": "It could be argued that..."
+      },
+      {
+        "id": "c1-vocab-hedging-1-06",
+        "type": "error",
+        "prompt": "The data clearly prove that the theory might be correct.",
+        "answer": [
+          "prove",
+          "suggest"
+        ],
+        "explanation": "Hedging: suggest zamiast prove (zgodnie z „might”)."
+      },
+      {
+        "id": "c1-vocab-hedging-1-07",
+        "type": "tiles",
+        "prompt": "To jest prawdopodobnie najlepsze rozwiązanie.",
+        "answer": [
+          "This",
+          "is",
+          "arguably",
+          "the",
+          "best",
+          "solution"
+        ],
+        "distractors": [
+          "argue",
+          "arguable"
+        ],
+        "explanation": "Arguably."
+      },
+      {
+        "id": "c1-vocab-hedging-1-08",
+        "type": "translate",
+        "prompt": "Wydaje się, że ceny rosną.",
+        "answer": "It seems that prices are rising.",
+        "accept": [
+          "It appears that prices are rising.",
+          "Prices seem to be rising.",
+          "Prices appear to be rising.",
+          "It seems prices are rising."
+        ],
+        "explanation": "It seems that..."
+      },
+      {
+        "id": "c1-vocab-hedging-1-09",
+        "type": "choice",
+        "prompt": "Which phrase means \"do pewnego stopnia\"?",
+        "answer": "to a certain degree",
+        "distractors": [
+          "by all means",
+          "at any rate"
+        ],
+        "explanation": "To a certain degree."
+      },
+      {
+        "id": "c1-vocab-hedging-1-10",
+        "type": "transform",
+        "prompt": "Złagodź twierdzenie, użyj „may”.\nThis causes the problem.",
+        "answer": "This may cause the problem.",
+        "explanation": "May – ostrożność."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-hedging-2",
+    "topicId": "c1-vocab-hedging",
+    "exercises": [
+      {
+        "id": "c1-vocab-hedging-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "seem|wydawać się",
+          "tend to|mieć tendencję",
+          "indicate|wskazywać",
+          "likely|prawdopodobny"
+        ],
+        "explanation": "Słowa do hedgingu."
+      },
+      {
+        "id": "c1-vocab-hedging-2-02",
+        "type": "choice",
+        "prompt": "Which sentence is the most cautious?",
+        "answer": "There is some evidence that exercise improves memory.",
+        "distractors": [
+          "Exercise improves memory.",
+          "Everyone knows exercise improves memory."
+        ],
+        "explanation": "There is some evidence that..."
+      },
+      {
+        "id": "c1-vocab-hedging-2-03",
+        "type": "choice",
+        "prompt": "It is ___ that the meeting will be postponed.",
+        "answer": "likely",
+        "distractors": [
+          "likelihood",
+          "liking"
+        ],
+        "explanation": "It is likely that..."
+      },
+      {
+        "id": "c1-vocab-hedging-2-04",
+        "type": "cloze",
+        "prompt": "Generally ___, young people are more open to change.",
+        "answer": "speaking",
+        "explanation": "Generally speaking."
+      },
+      {
+        "id": "c1-vocab-hedging-2-05",
+        "type": "cloze",
+        "prompt": "The findings ___ that more research is needed. (wskazują)",
+        "answer": "indicate",
+        "accept": [
+          "suggest",
+          "show"
+        ],
+        "explanation": "Indicate."
+      },
+      {
+        "id": "c1-vocab-hedging-2-06",
+        "type": "error",
+        "prompt": "Children always learn languages faster than adults.",
+        "answer": [
+          "always",
+          "usually"
+        ],
+        "explanation": "Hedging: usually zamiast always."
+      },
+      {
+        "id": "c1-vocab-hedging-2-07",
+        "type": "tiles",
+        "prompt": "Do pewnego stopnia zgadzam się z tobą.",
+        "answer": [
+          "To",
+          "some",
+          "extent",
+          "I",
+          "agree",
+          "with",
+          "you"
+        ],
+        "distractors": [
+          "extend",
+          "on"
+        ],
+        "explanation": "To some extent."
+      },
+      {
+        "id": "c1-vocab-hedging-2-08",
+        "type": "translate",
+        "prompt": "Podobno zamykają fabrykę.",
+        "answer": "Apparently, they are closing the factory.",
+        "accept": [
+          "Apparently they are closing the factory.",
+          "Apparently, the factory is closing.",
+          "Apparently the factory is closing.",
+          "They are apparently closing the factory."
+        ],
+        "explanation": "Apparently."
+      },
+      {
+        "id": "c1-vocab-hedging-2-09",
+        "type": "transform",
+        "prompt": "Złagodź twierdzenie, użyj „appear”.\nThe new system is more efficient.",
+        "answer": "The new system appears to be more efficient.",
+        "accept": [
+          "It appears that the new system is more efficient."
+        ],
+        "explanation": "Appear to be."
+      },
+      {
+        "id": "c1-vocab-hedging-2-10",
+        "type": "choice",
+        "prompt": "Which word is NOT used for hedging?",
+        "answer": "definitely",
+        "distractors": [
+          "possibly",
+          "presumably"
+        ],
+        "explanation": "Definitely jest kategoryczne."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-hedging-3",
+    "topicId": "c1-vocab-hedging",
+    "exercises": [
+      {
+        "id": "c1-vocab-hedging-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "somewhat|nieco",
+          "relatively|stosunkowo",
+          "largely|w dużej mierze",
+          "in most cases|w większości przypadków"
+        ],
+        "explanation": "Przysłówki i zwroty."
+      },
+      {
+        "id": "c1-vocab-hedging-3-02",
+        "type": "choice",
+        "prompt": "The project was ___ successful, despite some problems.",
+        "answer": "largely",
+        "distractors": [
+          "hugely large",
+          "totally"
+        ],
+        "explanation": "Largely – w dużej mierze."
+      },
+      {
+        "id": "c1-vocab-hedging-3-03",
+        "type": "choice",
+        "prompt": "The price is ___ high compared with similar products.",
+        "answer": "relatively",
+        "distractors": [
+          "relative",
+          "relation"
+        ],
+        "explanation": "Relatively high."
+      },
+      {
+        "id": "c1-vocab-hedging-3-04",
+        "type": "cloze",
+        "prompt": "This may be partly ___ to the weather. (spowodowane)",
+        "answer": "due",
+        "explanation": "Due to."
+      },
+      {
+        "id": "c1-vocab-hedging-3-05",
+        "type": "cloze",
+        "prompt": "There is a ___ for students to leave everything until the last minute. (tendencja)",
+        "answer": "tendency",
+        "explanation": "A tendency to."
+      },
+      {
+        "id": "c1-vocab-hedging-3-06",
+        "type": "error",
+        "prompt": "This is undoubtedly one possible explanation.",
+        "answer": [
+          "undoubtedly",
+          "perhaps"
+        ],
+        "explanation": "Hedging zgodny z „possible”: perhaps."
+      },
+      {
+        "id": "c1-vocab-hedging-3-07",
+        "type": "error",
+        "prompt": "Social media causes depression in all teenagers.",
+        "answer": [
+          "all",
+          "some"
+        ],
+        "explanation": "Hedging: in some teenagers."
+      },
+      {
+        "id": "c1-vocab-hedging-3-08",
+        "type": "tiles",
+        "prompt": "Przypuszczalnie wiedział o problemie.",
+        "answer": [
+          "Presumably",
+          "he",
+          "knew",
+          "about",
+          "the",
+          "problem"
+        ],
+        "distractors": [
+          "Presume",
+          "Presumable"
+        ],
+        "explanation": "Presumably."
+      },
+      {
+        "id": "c1-vocab-hedging-3-09",
+        "type": "translate",
+        "prompt": "Wyniki są nieco rozczarowujące.",
+        "answer": "The results are somewhat disappointing.",
+        "accept": [
+          "The results are slightly disappointing.",
+          "The results are rather disappointing.",
+          "The results are a little disappointing.",
+          "The results are a bit disappointing."
+        ],
+        "explanation": "Somewhat."
+      },
+      {
+        "id": "c1-vocab-hedging-3-10",
+        "type": "transform",
+        "prompt": "Złagodź twierdzenie, zacznij od „It could be argued”.\nThe law is unfair.",
+        "answer": "It could be argued that the law is unfair.",
+        "explanation": "It could be argued that..."
+      }
+    ]
+  }
+]

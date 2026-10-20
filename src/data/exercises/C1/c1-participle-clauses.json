@@ -1,0 +1,338 @@
+[
+  {
+    "id": "c1-participle-clauses-1",
+    "topicId": "c1-participle-clauses",
+    "exercises": [
+      {
+        "id": "c1-participle-clauses-1-01",
+        "type": "cloze",
+        "prompt": "___ finished the report, he went home. (zrobiwszy)",
+        "answer": "Having",
+        "explanation": "Having + III forma – czynność wcześniejsza."
+      },
+      {
+        "id": "c1-participle-clauses-1-02",
+        "type": "cloze",
+        "prompt": "___ in 1890, the bridge is still in use. (zbudowany)",
+        "answer": "Built",
+        "explanation": "III forma – znaczenie bierne."
+      },
+      {
+        "id": "c1-participle-clauses-1-03",
+        "type": "choice",
+        "prompt": "___ tired, she went to bed early.",
+        "answer": "Feeling",
+        "distractors": [
+          "Felt",
+          "Having felt by"
+        ],
+        "explanation": "-ing – przyczyna."
+      },
+      {
+        "id": "c1-participle-clauses-1-04",
+        "type": "choice",
+        "prompt": "___ what to do, I called my father.",
+        "answer": "Not knowing",
+        "distractors": [
+          "Knowing not",
+          "Don't knowing"
+        ],
+        "explanation": "Not + -ing."
+      },
+      {
+        "id": "c1-participle-clauses-1-05",
+        "type": "choice",
+        "prompt": "___ about the delay, the manager apologised.",
+        "answer": "Asked",
+        "distractors": [
+          "Asking",
+          "Having asking"
+        ],
+        "explanation": "III forma – bierne (gdy go zapytano)."
+      },
+      {
+        "id": "c1-participle-clauses-1-06",
+        "type": "match",
+        "prompt": "Połącz imiesłowy z tłumaczeniem.",
+        "answer": [
+          "Walking home, ...|Idąc do domu, ...",
+          "Having eaten, ...|Zjadłszy, ...",
+          "Written in 1900, ...|Napisany w 1900, ...",
+          "Not having a car, ...|Nie mając samochodu, ..."
+        ],
+        "explanation": "Rodzaje imiesłowów."
+      },
+      {
+        "id": "c1-participle-clauses-1-07",
+        "type": "error",
+        "prompt": "Having saw the film before, I knew the ending.",
+        "answer": [
+          "saw",
+          "seen"
+        ],
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-participle-clauses-1-08",
+        "type": "tiles",
+        "prompt": "Nie mając pieniędzy zostałem w domu.",
+        "answer": [
+          "Not",
+          "having",
+          "any",
+          "money",
+          "I",
+          "stayed",
+          "at",
+          "home"
+        ],
+        "distractors": [
+          "Haven't",
+          "Had"
+        ],
+        "explanation": "Not + having."
+      },
+      {
+        "id": "c1-participle-clauses-1-09",
+        "type": "translate",
+        "prompt": "Skończywszy pracę, poszła do domu.",
+        "answer": "Having finished work, she went home.",
+        "accept": [
+          "Having finished her work, she went home.",
+          "After finishing work, she went home.",
+          "After finishing her work, she went home.",
+          "Having finished work she went home."
+        ],
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-participle-clauses-1-10",
+        "type": "transform",
+        "prompt": "Skróć pierwszą część imiesłowem, zacznij od „Feeling”.\nBecause I felt ill, I left early.",
+        "answer": "Feeling ill, I left early.",
+        "explanation": "-ing – przyczyna."
+      }
+    ]
+  },
+  {
+    "id": "c1-participle-clauses-2",
+    "topicId": "c1-participle-clauses",
+    "exercises": [
+      {
+        "id": "c1-participle-clauses-2-01",
+        "type": "cloze",
+        "prompt": "While ___ for the bus, I read the news. (wait)",
+        "answer": "waiting",
+        "explanation": "While + -ing."
+      },
+      {
+        "id": "c1-participle-clauses-2-02",
+        "type": "cloze",
+        "prompt": "When ___ about his plans, he refused to comment. (ask)",
+        "answer": "asked",
+        "explanation": "When + III forma (bierne)."
+      },
+      {
+        "id": "c1-participle-clauses-2-03",
+        "type": "choice",
+        "prompt": "___ the instructions, she started assembling the desk.",
+        "answer": "Having read",
+        "distractors": [
+          "Read having",
+          "Have read"
+        ],
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-participle-clauses-2-04",
+        "type": "choice",
+        "prompt": "The man ___ to the manager is my uncle.",
+        "answer": "talking",
+        "distractors": [
+          "talked",
+          "having talk"
+        ],
+        "explanation": "-ing – czynne."
+      },
+      {
+        "id": "c1-participle-clauses-2-05",
+        "type": "choice",
+        "prompt": "___ by the noise, the baby started to cry.",
+        "answer": "Woken",
+        "distractors": [
+          "Waking",
+          "Having woke"
+        ],
+        "explanation": "III forma – bierne."
+      },
+      {
+        "id": "c1-participle-clauses-2-06",
+        "type": "transform",
+        "prompt": "Skróć pierwszą część imiesłowem, zacznij od „Having”.\nAfter she had graduated, she moved to London.",
+        "answer": "Having graduated, she moved to London.",
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-participle-clauses-2-07",
+        "type": "transform",
+        "prompt": "Skróć pierwszą część imiesłowem, zacznij od „Written”.\nThe book was written in 1850 and is still popular.",
+        "answer": "Written in 1850, the book is still popular.",
+        "explanation": "III forma – bierne."
+      },
+      {
+        "id": "c1-participle-clauses-2-08",
+        "type": "tiles",
+        "prompt": "Czekając na pociąg spotkałem przyjaciela.",
+        "answer": [
+          "Waiting",
+          "for",
+          "the",
+          "train",
+          "I",
+          "met",
+          "a",
+          "friend"
+        ],
+        "distractors": [
+          "Waited",
+          "Wait"
+        ],
+        "explanation": "-ing – czynność równoczesna."
+      },
+      {
+        "id": "c1-participle-clauses-2-09",
+        "type": "error",
+        "prompt": "Before sign the contract, read it carefully.",
+        "answer": [
+          "sign",
+          "signing"
+        ],
+        "explanation": "Before + -ing."
+      },
+      {
+        "id": "c1-participle-clauses-2-10",
+        "type": "translate",
+        "prompt": "Zapytany o powód, milczał.",
+        "answer": "Asked about the reason, he said nothing.",
+        "accept": [
+          "Asked about the reason, he remained silent.",
+          "Asked about the reason, he kept silent.",
+          "When asked about the reason, he said nothing.",
+          "When asked about the reason, he remained silent.",
+          "Asked about the reason, he was silent."
+        ],
+        "explanation": "III forma – bierne."
+      }
+    ]
+  },
+  {
+    "id": "c1-participle-clauses-3",
+    "topicId": "c1-participle-clauses",
+    "exercises": [
+      {
+        "id": "c1-participle-clauses-3-01",
+        "type": "choice",
+        "prompt": "Which sentence is correct?",
+        "answer": "Walking into the room, I noticed the broken window.",
+        "distractors": [
+          "Walking into the room, the broken window was noticed.",
+          "Walking into the room, the window broke me."
+        ],
+        "explanation": "Podmiot musi wykonywać czynność imiesłowu."
+      },
+      {
+        "id": "c1-participle-clauses-3-02",
+        "type": "choice",
+        "prompt": "___ in a hurry, he forgot his phone.",
+        "answer": "Being",
+        "distractors": [
+          "Been",
+          "Be"
+        ],
+        "explanation": "Being – przyczyna."
+      },
+      {
+        "id": "c1-participle-clauses-3-03",
+        "type": "cloze",
+        "prompt": "___ lived in Spain for years, she speaks fluent Spanish. (mieszkawszy)",
+        "answer": "Having",
+        "explanation": "Having + III forma."
+      },
+      {
+        "id": "c1-participle-clauses-3-04",
+        "type": "cloze",
+        "prompt": "___ correctly, this machine will last for years. (używana – use)",
+        "answer": "Used",
+        "explanation": "III forma – bierne."
+      },
+      {
+        "id": "c1-participle-clauses-3-05",
+        "type": "cloze",
+        "prompt": "After ___ school, he joined the army. (leave)",
+        "answer": "leaving",
+        "explanation": "After + -ing."
+      },
+      {
+        "id": "c1-participle-clauses-3-06",
+        "type": "match",
+        "prompt": "Połącz formę z funkcją.",
+        "answer": [
+          "-ing|czynność równoczesna lub przyczyna",
+          "having + III forma|czynność wcześniejsza",
+          "III forma|znaczenie bierne"
+        ],
+        "explanation": "Rodzaje imiesłowów."
+      },
+      {
+        "id": "c1-participle-clauses-3-07",
+        "type": "error",
+        "prompt": "Not having finish the project, they asked for more time.",
+        "answer": [
+          "finish",
+          "finished"
+        ],
+        "explanation": "Not having + III forma."
+      },
+      {
+        "id": "c1-participle-clauses-3-08",
+        "type": "error",
+        "prompt": "Situating in the city centre, the hotel is ideal for tourists.",
+        "answer": [
+          "Situating",
+          "Situated"
+        ],
+        "explanation": "Znaczenie bierne: situated."
+      },
+      {
+        "id": "c1-participle-clauses-3-09",
+        "type": "tiles",
+        "prompt": "Przestraszony hałasem pies uciekł.",
+        "answer": [
+          "Frightened",
+          "by",
+          "the",
+          "noise",
+          "the",
+          "dog",
+          "ran",
+          "away"
+        ],
+        "distractors": [
+          "Frightening",
+          "was"
+        ],
+        "explanation": "III forma – bierne."
+      },
+      {
+        "id": "c1-participle-clauses-3-10",
+        "type": "translate",
+        "prompt": "Nie wiedząc, co powiedzieć, uśmiechnąłem się.",
+        "answer": "Not knowing what to say, I smiled.",
+        "accept": [
+          "Not knowing what to say I smiled."
+        ],
+        "explanation": "Not + -ing."
+      }
+    ]
+  }
+]

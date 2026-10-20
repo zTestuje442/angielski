@@ -1,0 +1,89 @@
+{
+  "id": "a1-reading-instructions-1",
+  "topicId": "a1-reading-instructions",
+  "title": "How to make a good cup of tea",
+  "text": "How to make a good cup of tea\n\n1. Put water in the kettle and boil it.\n2. Put a tea bag in a cup.\n3. Pour the hot water into the cup.\n4. Wait for three or four minutes. Don't wait too long, or the tea can be bitter.\n5. Take the tea bag out.\n6. Add milk or lemon if you like. Some people like sugar, too.\n7. Wait a minute. The tea is very hot!\n\nEnjoy your tea!",
+  "exercises": [
+    {
+      "id": "a1-reading-instructions-1-01",
+      "type": "choice",
+      "prompt": "You boil the water in a kettle.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„Put water in the kettle and boil it.”"
+    },
+    {
+      "id": "a1-reading-instructions-1-02",
+      "type": "choice",
+      "prompt": "You wait ten minutes before you take the tea bag out.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Czekasz trzy lub cztery minuty."
+    },
+    {
+      "id": "a1-reading-instructions-1-03",
+      "type": "choice",
+      "prompt": "You must add sugar.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Cukier jest dla chętnych: „Some people like sugar, too.”"
+    },
+    {
+      "id": "a1-reading-instructions-1-04",
+      "type": "choice",
+      "prompt": "Green tea is better than black tea.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Instrukcja nie porównuje rodzajów herbaty."
+    },
+    {
+      "id": "a1-reading-instructions-1-05",
+      "type": "choice",
+      "prompt": "What do you do after you pour the water?",
+      "answer": "wait three or four minutes",
+      "distractors": [
+        "add milk",
+        "boil the water"
+      ],
+      "explanation": "Krok 4 następuje po kroku 3."
+    },
+    {
+      "id": "a1-reading-instructions-1-06",
+      "type": "cloze",
+      "prompt": "Pour the hot ___ into the cup.",
+      "answer": "water",
+      "explanation": "Do kubka nalewamy gorącą wodę."
+    },
+    {
+      "id": "a1-reading-instructions-1-07",
+      "type": "cloze",
+      "prompt": "Take the tea bag ___.",
+      "answer": "out",
+      "explanation": "Wyjąć torebkę: take the tea bag out."
+    },
+    {
+      "id": "a1-reading-instructions-1-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "kettle|czajnik",
+        "pour|nalać",
+        "bitter|gorzki",
+        "add|dodać"
+      ],
+      "explanation": "Słowa z instrukcji."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "b2-reading-instructions-2",
+  "topicId": "b2-reading-instructions",
+  "title": "Preparing for a job interview",
+  "text": "A job interview can be stressful, but good preparation makes a huge difference. Employers often say that they can tell within the first few minutes whether a candidate has prepared properly. The following steps will help you feel more confident and make a strong impression.\n\nResearch the company\nStart by learning as much as you can about the organisation. Read its website, especially the sections about its mission, products and recent news. Look at its social media and, if possible, find out what current or former employees say about working there. You do not need to memorise facts, but you should be able to explain why you want to work for this company in particular, not just any company.\n\nStudy the job description\nPrint the advertisement and underline the key skills and responsibilities. For each one, think of a specific example from your experience that shows you have that skill. Interviewers increasingly ask behavioural questions, such as \"Tell me about a time when you had to meet a difficult deadline.\" A useful way to answer is the STAR method: describe the Situation, the Task, the Action you took and the Result.\n\nPrepare your own questions\nAt the end of most interviews, you will be asked if you have any questions. Saying \"No, thank you\" can suggest a lack of interest. Prepare two or three thoughtful questions about the team, the training opportunities or the challenges of the role. Avoid asking about salary and holidays in the first interview unless the interviewer raises the topic.\n\nPlan the practical details\nCheck the time, the place and the name of the person who will interview you. If the interview is in person, plan your journey and aim to arrive about ten minutes early – not much earlier, as this can be inconvenient for the employer. If it is online, test your camera, microphone and internet connection the day before, and choose a quiet place with a neutral background.\n\nOn the day\nDress slightly more formally than people usually do in that workplace. Bring copies of your CV and a notebook. Listen carefully to each question, and do not be afraid to take a moment to think before you answer. Be honest: if you do not know something, say so, and explain how you would find out.\n\nAfter the interview\nWithin twenty-four hours, send a short email thanking the interviewer for their time. It is a simple gesture, but surprisingly few candidates do it, and it can help you stand out.",
+  "exercises": [
+    {
+      "id": "b2-reading-instructions-2-01",
+      "type": "choice",
+      "prompt": "You should memorise facts about the company.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„You do not need to memorise facts...”"
+    },
+    {
+      "id": "b2-reading-instructions-2-02",
+      "type": "choice",
+      "prompt": "The STAR method is a way to answer behavioural questions.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„A useful way to answer is the STAR method.”"
+    },
+    {
+      "id": "b2-reading-instructions-2-03",
+      "type": "choice",
+      "prompt": "Most interviews now take place online.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie podaje takiej informacji."
+    },
+    {
+      "id": "b2-reading-instructions-2-04",
+      "type": "choice",
+      "prompt": "It is best to arrive at an interview half an hour early.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...aim to arrive about ten minutes early – not much earlier.”"
+    },
+    {
+      "id": "b2-reading-instructions-2-05",
+      "type": "choice",
+      "prompt": "Why shouldn't you say \"No, thank you\" when asked for questions?",
+      "answer": "It can suggest you are not interested.",
+      "distractors": [
+        "It sounds too formal.",
+        "The interviewer may be offended."
+      ],
+      "explanation": "„Saying \"No, thank you\" can suggest a lack of interest.”"
+    },
+    {
+      "id": "b2-reading-instructions-2-06",
+      "type": "choice",
+      "prompt": "When can you ask about salary in the first interview?",
+      "answer": "if the interviewer raises the topic",
+      "distractors": [
+        "at the very beginning",
+        "never in any interview"
+      ],
+      "explanation": "„...unless the interviewer raises the topic.”"
+    },
+    {
+      "id": "b2-reading-instructions-2-07",
+      "type": "choice",
+      "prompt": "What should you do before an online interview?",
+      "answer": "test your equipment the day before",
+      "distractors": [
+        "dress very casually",
+        "send your questions by email"
+      ],
+      "explanation": "„...test your camera, microphone and internet connection the day before.”"
+    },
+    {
+      "id": "b2-reading-instructions-2-08",
+      "type": "choice",
+      "prompt": "What should you do after the interview?",
+      "answer": "send a thank-you email within 24 hours",
+      "distractors": [
+        "call the company the next day",
+        "ask about the result immediately"
+      ],
+      "explanation": "„Within twenty-four hours, send a short email thanking the interviewer.”"
+    },
+    {
+      "id": "b2-reading-instructions-2-09",
+      "type": "cloze",
+      "prompt": "Dress slightly more ___ than people usually do in that workplace.",
+      "answer": "formally",
+      "explanation": "Bardziej formalnie: more formally."
+    },
+    {
+      "id": "b2-reading-instructions-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "candidate|kandydat",
+        "underline|podkreślić",
+        "inconvenient|kłopotliwy",
+        "stand out|wyróżnić się"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

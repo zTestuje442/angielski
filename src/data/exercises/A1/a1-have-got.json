@@ -1,0 +1,309 @@
+[
+  {
+    "id": "a1-have-got-1",
+    "topicId": "a1-have-got",
+    "exercises": [
+      {
+        "id": "a1-have-got-1-01",
+        "type": "cloze",
+        "prompt": "I ___ got a sister.",
+        "answer": "have",
+        "explanation": "I + have got."
+      },
+      {
+        "id": "a1-have-got-1-02",
+        "type": "cloze",
+        "prompt": "She ___ got blue eyes.",
+        "answer": "has",
+        "explanation": "She + has got."
+      },
+      {
+        "id": "a1-have-got-1-03",
+        "type": "choice",
+        "prompt": "They ___ got a big garden.",
+        "answer": "have",
+        "distractors": [
+          "has",
+          "are"
+        ],
+        "explanation": "They + have got."
+      },
+      {
+        "id": "a1-have-got-1-04",
+        "type": "choice",
+        "prompt": "My dad ___ got a new car.",
+        "answer": "has",
+        "distractors": [
+          "have",
+          "is"
+        ],
+        "explanation": "My dad = he, więc has got."
+      },
+      {
+        "id": "a1-have-got-1-05",
+        "type": "tiles",
+        "prompt": "Mam dwa koty.",
+        "answer": [
+          "I",
+          "have",
+          "got",
+          "two",
+          "cats"
+        ],
+        "explanation": "I have got + rzeczownik."
+      },
+      {
+        "id": "a1-have-got-1-06",
+        "type": "error",
+        "prompt": "He have got a bike.",
+        "answer": [
+          "have",
+          "has"
+        ],
+        "explanation": "He łączy się z has got."
+      },
+      {
+        "id": "a1-have-got-1-07",
+        "type": "translate",
+        "prompt": "Ona ma długie włosy.",
+        "answer": "She has got long hair.",
+        "accept": [
+          "She has long hair."
+        ],
+        "explanation": "She has got; hair jest niepoliczalne (bez -s)."
+      },
+      {
+        "id": "a1-have-got-1-08",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „my brother”.\nI have got a computer.",
+        "answer": "My brother has got a computer.",
+        "explanation": "My brother = he, więc has got."
+      },
+      {
+        "id": "a1-have-got-1-09",
+        "type": "match",
+        "prompt": "Połącz polskie formy z angielskimi.",
+        "answer": [
+          "mam|I have got",
+          "masz|you have got",
+          "on ma|he has got",
+          "ona ma|she has got"
+        ],
+        "explanation": "He/she – has got, pozostałe – have got."
+      },
+      {
+        "id": "a1-have-got-1-10",
+        "type": "cloze",
+        "prompt": "We ___ got a test today.",
+        "answer": "have",
+        "explanation": "We + have got."
+      }
+    ]
+  },
+  {
+    "id": "a1-have-got-2",
+    "topicId": "a1-have-got",
+    "exercises": [
+      {
+        "id": "a1-have-got-2-01",
+        "type": "cloze",
+        "prompt": "I ___ got a car.",
+        "answer": "haven't",
+        "explanation": "Przeczenie z I: haven't got."
+      },
+      {
+        "id": "a1-have-got-2-02",
+        "type": "cloze",
+        "prompt": "She ___ got any brothers.",
+        "answer": "hasn't",
+        "explanation": "Przeczenie z she: hasn't got."
+      },
+      {
+        "id": "a1-have-got-2-03",
+        "type": "choice",
+        "prompt": "___ you got a pen?",
+        "answer": "Have",
+        "distractors": [
+          "Has",
+          "Do"
+        ],
+        "explanation": "Pytanie: Have you got...?"
+      },
+      {
+        "id": "a1-have-got-2-04",
+        "type": "choice",
+        "prompt": "___ your sister got a dog?",
+        "answer": "Has",
+        "distractors": [
+          "Have",
+          "Is"
+        ],
+        "explanation": "Your sister = she: Has she got...?"
+      },
+      {
+        "id": "a1-have-got-2-05",
+        "type": "cloze",
+        "prompt": "Have you got a phone? — Yes, I ___.",
+        "answer": "have",
+        "explanation": "Krótka odpowiedź bez got: Yes, I have."
+      },
+      {
+        "id": "a1-have-got-2-06",
+        "type": "cloze",
+        "prompt": "Has he got a job? — No, he ___.",
+        "answer": "hasn't",
+        "explanation": "Krótka odpowiedź: No, he hasn't."
+      },
+      {
+        "id": "a1-have-got-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThey have got a garden.",
+        "answer": "Have they got a garden?",
+        "explanation": "Have przechodzi przed podmiot."
+      },
+      {
+        "id": "a1-have-got-2-08",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nTom has got a cold.",
+        "answer": "Tom has not got a cold.",
+        "explanation": "Has not (hasn't) got."
+      },
+      {
+        "id": "a1-have-got-2-09",
+        "type": "tiles",
+        "prompt": "Czy masz rodzeństwo?",
+        "answer": [
+          "Have",
+          "you",
+          "got",
+          "any",
+          "brothers",
+          "or",
+          "sisters"
+        ],
+        "explanation": "Pytanie z any: Have you got any...?"
+      },
+      {
+        "id": "a1-have-got-2-10",
+        "type": "error",
+        "prompt": "Has you got a minute?",
+        "answer": [
+          "Has",
+          "Have"
+        ],
+        "explanation": "You łączy się z have."
+      }
+    ]
+  },
+  {
+    "id": "a1-have-got-3",
+    "topicId": "a1-have-got",
+    "exercises": [
+      {
+        "id": "a1-have-got-3-01",
+        "type": "cloze",
+        "prompt": "My parents ___ got a small flat.",
+        "answer": "have",
+        "explanation": "My parents = they, więc have got."
+      },
+      {
+        "id": "a1-have-got-3-02",
+        "type": "choice",
+        "prompt": "The house ___ got three bedrooms.",
+        "answer": "has",
+        "distractors": [
+          "have",
+          "are"
+        ],
+        "explanation": "The house = it, więc has got."
+      },
+      {
+        "id": "a1-have-got-3-03",
+        "type": "choice",
+        "prompt": "We ___ got much time. Hurry up!",
+        "answer": "haven't",
+        "distractors": [
+          "hasn't",
+          "don't"
+        ],
+        "explanation": "We + haven't got."
+      },
+      {
+        "id": "a1-have-got-3-04",
+        "type": "error",
+        "prompt": "I hasn't got any money.",
+        "answer": [
+          "hasn't",
+          "haven't"
+        ],
+        "explanation": "I łączy się z haven't."
+      },
+      {
+        "id": "a1-have-got-3-05",
+        "type": "error",
+        "prompt": "Have she got a cat?",
+        "answer": [
+          "Have",
+          "Has"
+        ],
+        "explanation": "She łączy się z has."
+      },
+      {
+        "id": "a1-have-got-3-06",
+        "type": "tiles",
+        "prompt": "On nie ma samochodu.",
+        "answer": [
+          "He",
+          "has",
+          "not",
+          "got",
+          "a",
+          "car"
+        ],
+        "explanation": "He has not (hasn't) got."
+      },
+      {
+        "id": "a1-have-got-3-07",
+        "type": "translate",
+        "prompt": "Masz pytanie?",
+        "answer": "Have you got a question?",
+        "accept": [
+          "Do you have a question?",
+          "Have you got any questions?"
+        ],
+        "explanation": "Have you got...? albo Do you have...?"
+      },
+      {
+        "id": "a1-have-got-3-08",
+        "type": "translate",
+        "prompt": "Nie mamy czasu.",
+        "answer": "We have not got time.",
+        "accept": [
+          "We have not got any time.",
+          "We do not have time.",
+          "We do not have any time."
+        ],
+        "explanation": "We haven't got (any) time."
+      },
+      {
+        "id": "a1-have-got-3-09",
+        "type": "match",
+        "prompt": "Połącz pytania z odpowiedziami.",
+        "answer": [
+          "Have you got a dog?|Yes, I have.",
+          "Has she got a car?|No, she hasn't.",
+          "Have they got kids?|Yes, they have.",
+          "Has it got a garden?|No, it hasn't."
+        ],
+        "explanation": "Odpowiedź powtarza podmiot i have/has."
+      },
+      {
+        "id": "a1-have-got-3-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „she”.\nI have got a headache.",
+        "answer": "She has got a headache.",
+        "explanation": "She + has got."
+      }
+    ]
+  }
+]

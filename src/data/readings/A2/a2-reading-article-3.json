@@ -1,0 +1,100 @@
+{
+  "id": "a2-reading-article-3",
+  "topicId": "a2-reading-article",
+  "title": "Can an app teach you a language?",
+  "text": "Millions of people use apps to learn languages. They are cheap or free, you can use them on the bus or in a queue, and they make learning feel like a game. But can you really learn a language this way?\n\nTom, 41, from Manchester, started learning Polish with an app two years ago because his wife is from Poznań. \"The app was great at the beginning,\" he says. \"I learned a lot of words and simple sentences. I practised for ten minutes every day, and the app sent me reminders, so I didn't forget.\"\n\nBut after a year, Tom had a problem. \"I could read and write simple things, but when my wife's family spoke to me, I couldn't understand them. They spoke too fast!\"\n\nLanguage teachers say that apps are good for vocabulary and grammar, but they are not enough. To speak well, you need to talk to real people. Tom now has an online lesson with a teacher once a week, and he watches Polish films with subtitles.\n\n\"Now I can have a conversation with my mother-in-law,\" Tom says. \"It isn't perfect, but she's very patient with me!\"",
+  "exercises": [
+    {
+      "id": "a2-reading-article-3-01",
+      "type": "choice",
+      "prompt": "Tom started learning Polish because of his wife.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...because his wife is from Poznań.”"
+    },
+    {
+      "id": "a2-reading-article-3-02",
+      "type": "choice",
+      "prompt": "Tom used the app for an hour every day.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Ćwiczył dziesięć minut dziennie."
+    },
+    {
+      "id": "a2-reading-article-3-03",
+      "type": "choice",
+      "prompt": "Tom's mother-in-law speaks English.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czy teściowa zna angielski."
+    },
+    {
+      "id": "a2-reading-article-3-04",
+      "type": "choice",
+      "prompt": "What was Tom's problem after a year?",
+      "answer": "He couldn't understand people who spoke fast.",
+      "distractors": [
+        "He forgot all the words.",
+        "The app was too expensive."
+      ],
+      "explanation": "„...I couldn't understand them. They spoke too fast!”"
+    },
+    {
+      "id": "a2-reading-article-3-05",
+      "type": "choice",
+      "prompt": "What are apps good for, according to teachers?",
+      "answer": "vocabulary and grammar",
+      "distractors": [
+        "speaking with people",
+        "understanding films"
+      ],
+      "explanation": "„...apps are good for vocabulary and grammar, but they are not enough.”"
+    },
+    {
+      "id": "a2-reading-article-3-06",
+      "type": "choice",
+      "prompt": "What does Tom do now?",
+      "answer": "He has an online lesson every week.",
+      "distractors": [
+        "He uses the app for an hour a day.",
+        "He lives in Poznań."
+      ],
+      "explanation": "„Tom now has an online lesson with a teacher once a week...”"
+    },
+    {
+      "id": "a2-reading-article-3-07",
+      "type": "cloze",
+      "prompt": "The app sent me ___, so I didn't forget.",
+      "answer": "reminders",
+      "explanation": "Przypomnienia: reminders."
+    },
+    {
+      "id": "a2-reading-article-3-08",
+      "type": "cloze",
+      "prompt": "He watches Polish films with ___.",
+      "answer": "subtitles",
+      "explanation": "Napisy: subtitles."
+    },
+    {
+      "id": "a2-reading-article-3-09",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "queue|kolejka",
+        "reminder|przypomnienie",
+        "enough|wystarczający",
+        "subtitles|napisy"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

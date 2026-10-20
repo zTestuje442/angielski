@@ -1,0 +1,93 @@
+{
+  "id": "a1-reading-notice-2",
+  "topicId": "a1-reading-notice",
+  "title": "Room for rent",
+  "text": "ROOM FOR RENT\n\nA big, sunny room in a flat in the city centre. The flat has got three bedrooms, a kitchen and a bathroom.\n\nTwo students live there now: Ewa (20) and Marta (22). They are friendly and quiet.\n\nThe room has got a bed, a desk and a wardrobe. There is fast internet. The bus stop is two minutes from the flat.\n\nRent: 1,200 zł a month. No pets, please.\n\nCall Ewa after 5 p.m. on 501 234 567.",
+  "exercises": [
+    {
+      "id": "a1-reading-notice-2-01",
+      "type": "choice",
+      "prompt": "The room is in the city centre.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...a flat in the city centre.”"
+    },
+    {
+      "id": "a1-reading-notice-2-02",
+      "type": "choice",
+      "prompt": "Three students live in the flat now.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Teraz mieszkają tam dwie studentki: Ewa i Marta."
+    },
+    {
+      "id": "a1-reading-notice-2-03",
+      "type": "choice",
+      "prompt": "You can live there with your cat.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„No pets, please.” – bez zwierząt."
+    },
+    {
+      "id": "a1-reading-notice-2-04",
+      "type": "choice",
+      "prompt": "The flat has got a balcony.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Ogłoszenie nie wspomina o balkonie."
+    },
+    {
+      "id": "a1-reading-notice-2-05",
+      "type": "choice",
+      "prompt": "What is in the room?",
+      "answer": "a bed, a desk and a wardrobe",
+      "distractors": [
+        "a bed and a sofa",
+        "a desk and a TV"
+      ],
+      "explanation": "„The room has got a bed, a desk and a wardrobe.”"
+    },
+    {
+      "id": "a1-reading-notice-2-06",
+      "type": "choice",
+      "prompt": "When can you call Ewa?",
+      "answer": "after 5 p.m.",
+      "distractors": [
+        "before 5 p.m.",
+        "in the morning"
+      ],
+      "explanation": "„Call Ewa after 5 p.m.”"
+    },
+    {
+      "id": "a1-reading-notice-2-07",
+      "type": "cloze",
+      "prompt": "The bus stop is two ___ from the flat.",
+      "answer": "minutes",
+      "explanation": "Przystanek jest dwie minuty od mieszkania."
+    },
+    {
+      "id": "a1-reading-notice-2-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "rent|czynsz",
+        "sunny|słoneczny",
+        "quiet|cichy",
+        "pets|zwierzęta domowe"
+      ],
+      "explanation": "Słowa z ogłoszenia."
+    }
+  ]
+}

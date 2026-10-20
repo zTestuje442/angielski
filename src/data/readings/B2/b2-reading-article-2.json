@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-article-2",
+  "topicId": "b2-reading-article",
+  "title": "Why we keep forgetting passwords",
+  "text": "The average internet user now has around one hundred online accounts, from email and banking to food delivery apps. Each of them requires a password, and security experts tell us that every password should be long, complicated and different. It is hardly surprising that most of us struggle to remember them.\n\nAccording to a recent survey, more than half of adults have had to reset a password in the last month, and a third admit that they use the same password for several accounts. Many people still choose something easy to remember, such as their pet's name, their date of birth or, worst of all, \"123456\". Unfortunately, what is easy for us to remember is also easy for criminals to guess.\n\nPsychologists say that our memory simply was not designed for this task. \"Human memory works best with meaningful information,\" explains cognitive scientist Dr Laura Kim. \"We remember stories, faces and places. A random string of letters, numbers and symbols has no meaning, so the brain treats it as unimportant and quickly forgets it.\" The problem gets worse when websites force us to change our passwords regularly. Studies have shown that people who are made to change passwords often tend to make only tiny changes, for example adding \"1\" at the end, which does little to improve security.\n\nSo what is the solution? Many experts now recommend password managers – applications that create and store strong passwords for all your accounts. The user has to remember just one master password, which should be a long phrase rather than a single word. A sentence like \"my grandmother grew purple tomatoes in 1987\" is much harder to crack than a short, complicated password, and it is far easier to remember.\n\nAnother option is two-factor authentication. Even if a criminal discovers your password, they cannot log in without a second piece of information, such as a code sent to your phone. Banks have used this method for years, and it is becoming standard for email and social media.\n\nIn the long run, passwords may disappear altogether. Technology companies are already introducing \"passkeys\", which allow users to log in with their fingerprint or face. Instead of something you know, security will depend on something you have and something you are.\n\nUntil then, Dr Kim offers simple advice: \"Don't blame yourself for forgetting. Use the tools that are available, and never use the same password twice.\" ",
+  "exercises": [
+    {
+      "id": "b2-reading-article-2-01",
+      "type": "choice",
+      "prompt": "Most internet users have about one hundred online accounts.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„The average internet user now has around one hundred online accounts.”"
+    },
+    {
+      "id": "b2-reading-article-2-02",
+      "type": "choice",
+      "prompt": "A third of adults use one password for several accounts.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...a third admit that they use the same password for several accounts.”"
+    },
+    {
+      "id": "b2-reading-article-2-03",
+      "type": "choice",
+      "prompt": "Changing passwords often always makes accounts safer.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Ludzie robią tylko drobne zmiany, co niewiele daje."
+    },
+    {
+      "id": "b2-reading-article-2-04",
+      "type": "choice",
+      "prompt": "Dr Kim uses a password manager herself.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst tego nie mówi."
+    },
+    {
+      "id": "b2-reading-article-2-05",
+      "type": "choice",
+      "prompt": "Why do we forget passwords, according to Dr Kim?",
+      "answer": "They have no meaning for the brain.",
+      "distractors": [
+        "We use the internet too much.",
+        "Passwords are too short."
+      ],
+      "explanation": "„A random string... has no meaning, so the brain treats it as unimportant.”"
+    },
+    {
+      "id": "b2-reading-article-2-06",
+      "type": "choice",
+      "prompt": "What is the best master password, according to the article?",
+      "answer": "a long phrase",
+      "distractors": [
+        "a short word with symbols",
+        "your date of birth"
+      ],
+      "explanation": "„...should be a long phrase rather than a single word.”"
+    },
+    {
+      "id": "b2-reading-article-2-07",
+      "type": "choice",
+      "prompt": "What do passkeys use?",
+      "answer": "your fingerprint or face",
+      "distractors": [
+        "a code sent by post",
+        "a list of passwords"
+      ],
+      "explanation": "„...log in with their fingerprint or face.”"
+    },
+    {
+      "id": "b2-reading-article-2-08",
+      "type": "cloze",
+      "prompt": "What is easy for us to remember is also easy for criminals to ___.",
+      "answer": "guess",
+      "explanation": "Odgadnąć: guess."
+    },
+    {
+      "id": "b2-reading-article-2-09",
+      "type": "cloze",
+      "prompt": "Don't ___ yourself for forgetting.",
+      "answer": "blame",
+      "explanation": "Obwiniać: blame."
+    },
+    {
+      "id": "b2-reading-article-2-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "struggle|mieć trudności",
+        "reset|zresetować",
+        "crack|złamać (hasło)",
+        "altogether|całkowicie"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+[
+  {
+    "id": "b1-question-tags-1",
+    "topicId": "b1-question-tags",
+    "exercises": [
+      {
+        "id": "b1-question-tags-1-01",
+        "type": "cloze",
+        "prompt": "You're a student, ___ you?",
+        "answer": "aren't",
+        "explanation": "Twierdzenie → tag przeczący."
+      },
+      {
+        "id": "b1-question-tags-1-02",
+        "type": "cloze",
+        "prompt": "She doesn't eat meat, ___ she?",
+        "answer": "does",
+        "explanation": "Przeczenie → tag twierdzący."
+      },
+      {
+        "id": "b1-question-tags-1-03",
+        "type": "cloze",
+        "prompt": "They went to Rome, ___ they?",
+        "answer": "didn't",
+        "explanation": "Past Simple → didn't."
+      },
+      {
+        "id": "b1-question-tags-1-04",
+        "type": "choice",
+        "prompt": "It's cold today, ___?",
+        "answer": "isn't it",
+        "distractors": [
+          "is it",
+          "doesn't it"
+        ],
+        "explanation": "It's → isn't it."
+      },
+      {
+        "id": "b1-question-tags-1-05",
+        "type": "choice",
+        "prompt": "You can swim, ___?",
+        "answer": "can't you",
+        "distractors": [
+          "can you",
+          "don't you"
+        ],
+        "explanation": "Can → can't."
+      },
+      {
+        "id": "b1-question-tags-1-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tagami.",
+        "answer": [
+          "You're tired,|aren't you?",
+          "He can drive,|can't he?",
+          "She likes tea,|doesn't she?",
+          "They didn't come,|did they?"
+        ],
+        "explanation": "Tag powtarza czasownik posiłkowy."
+      },
+      {
+        "id": "b1-question-tags-1-07",
+        "type": "error",
+        "prompt": "He lives here, isn't he?",
+        "answer": [
+          "isn't",
+          "doesn't"
+        ],
+        "explanation": "Present Simple → doesn't."
+      },
+      {
+        "id": "b1-question-tags-1-08",
+        "type": "tiles",
+        "prompt": "Jesteś z Polski, prawda?",
+        "answer": [
+          "You're",
+          "from",
+          "Poland",
+          "aren't",
+          "you"
+        ],
+        "distractors": [
+          "isn't",
+          "don't"
+        ],
+        "explanation": "You're → aren't you."
+      },
+      {
+        "id": "b1-question-tags-1-09",
+        "type": "translate",
+        "prompt": "Lubisz kawę, prawda?",
+        "answer": "You like coffee, don't you?",
+        "explanation": "Present Simple → don't you."
+      },
+      {
+        "id": "b1-question-tags-1-10",
+        "type": "transform",
+        "prompt": "Dodaj question tag.\nShe will come.",
+        "answer": "She will come, won't she?",
+        "explanation": "Will → won't."
+      }
+    ]
+  },
+  {
+    "id": "b1-question-tags-2",
+    "topicId": "b1-question-tags",
+    "exercises": [
+      {
+        "id": "b1-question-tags-2-01",
+        "type": "cloze",
+        "prompt": "We haven't met before, ___ we?",
+        "answer": "have",
+        "explanation": "Przeczenie → tag twierdzący."
+      },
+      {
+        "id": "b1-question-tags-2-02",
+        "type": "cloze",
+        "prompt": "He was late again, ___ he?",
+        "answer": "wasn't",
+        "explanation": "Was → wasn't."
+      },
+      {
+        "id": "b1-question-tags-2-03",
+        "type": "cloze",
+        "prompt": "You won't tell anyone, ___ you?",
+        "answer": "will",
+        "explanation": "Won't → will."
+      },
+      {
+        "id": "b1-question-tags-2-04",
+        "type": "choice",
+        "prompt": "Let's go, ___?",
+        "answer": "shall we",
+        "distractors": [
+          "will we",
+          "don't we"
+        ],
+        "explanation": "Let's → shall we."
+      },
+      {
+        "id": "b1-question-tags-2-05",
+        "type": "choice",
+        "prompt": "I'm right, ___?",
+        "answer": "aren't I",
+        "distractors": [
+          "am not I",
+          "isn't I"
+        ],
+        "explanation": "I'm → aren't I."
+      },
+      {
+        "id": "b1-question-tags-2-06",
+        "type": "transform",
+        "prompt": "Dodaj question tag.\nYou have been to London.",
+        "answer": "You have been to London, haven't you?",
+        "explanation": "Have → haven't."
+      },
+      {
+        "id": "b1-question-tags-2-07",
+        "type": "transform",
+        "prompt": "Dodaj question tag.\nThey do not know.",
+        "answer": "They do not know, do they?",
+        "explanation": "Przeczenie → do they."
+      },
+      {
+        "id": "b1-question-tags-2-08",
+        "type": "tiles",
+        "prompt": "Ona nie przyjdzie, prawda?",
+        "answer": [
+          "She",
+          "won't",
+          "come",
+          "will",
+          "she"
+        ],
+        "distractors": [
+          "does",
+          "isn't"
+        ],
+        "explanation": "Won't → will she."
+      },
+      {
+        "id": "b1-question-tags-2-09",
+        "type": "error",
+        "prompt": "She's a doctor, doesn't she?",
+        "answer": [
+          "doesn't",
+          "isn't"
+        ],
+        "explanation": "She's (is) → isn't she."
+      },
+      {
+        "id": "b1-question-tags-2-10",
+        "type": "translate",
+        "prompt": "Nie byłeś tam, prawda?",
+        "answer": "You were not there, were you?",
+        "explanation": "Wasn't/weren't → were you."
+      }
+    ]
+  },
+  {
+    "id": "b1-question-tags-3",
+    "topicId": "b1-question-tags",
+    "exercises": [
+      {
+        "id": "b1-question-tags-3-01",
+        "type": "cloze",
+        "prompt": "Nobody called, ___ they?",
+        "answer": "did",
+        "explanation": "Nobody – znaczenie przeczące → did they."
+      },
+      {
+        "id": "b1-question-tags-3-02",
+        "type": "cloze",
+        "prompt": "Open the window, ___ you?",
+        "answer": "will",
+        "accept": [
+          "would",
+          "could",
+          "can",
+          "won't"
+        ],
+        "explanation": "Prośba → will you."
+      },
+      {
+        "id": "b1-question-tags-3-03",
+        "type": "choice",
+        "prompt": "There's a bank near here, ___?",
+        "answer": "isn't there",
+        "distractors": [
+          "isn't it",
+          "is there"
+        ],
+        "explanation": "There's → isn't there."
+      },
+      {
+        "id": "b1-question-tags-3-04",
+        "type": "choice",
+        "prompt": "You didn't forget, ___?",
+        "answer": "did you",
+        "distractors": [
+          "didn't you",
+          "do you"
+        ],
+        "explanation": "Didn't → did you."
+      },
+      {
+        "id": "b1-question-tags-3-05",
+        "type": "choice",
+        "prompt": "Tom has got a car, ___?",
+        "answer": "hasn't he",
+        "distractors": [
+          "doesn't he",
+          "isn't he"
+        ],
+        "explanation": "Has got → hasn't he."
+      },
+      {
+        "id": "b1-question-tags-3-06",
+        "type": "error",
+        "prompt": "They live in Paris, don't it?",
+        "answer": [
+          "it",
+          "they"
+        ],
+        "explanation": "W tagu ten sam podmiot: they."
+      },
+      {
+        "id": "b1-question-tags-3-07",
+        "type": "error",
+        "prompt": "Your mum works here, don't she?",
+        "answer": [
+          "don't",
+          "doesn't"
+        ],
+        "explanation": "She → doesn't."
+      },
+      {
+        "id": "b1-question-tags-3-08",
+        "type": "tiles",
+        "prompt": "Wczoraj padało, prawda?",
+        "answer": [
+          "It",
+          "rained",
+          "yesterday",
+          "didn't",
+          "it"
+        ],
+        "distractors": [
+          "wasn't",
+          "doesn't"
+        ],
+        "explanation": "Past Simple → didn't it."
+      },
+      {
+        "id": "b1-question-tags-3-09",
+        "type": "translate",
+        "prompt": "To piękny dzień, prawda?",
+        "answer": "It is a beautiful day, isn't it?",
+        "accept": [
+          "It is a lovely day, isn't it?",
+          "It is a nice day, isn't it?"
+        ],
+        "explanation": "Is → isn't it."
+      },
+      {
+        "id": "b1-question-tags-3-10",
+        "type": "transform",
+        "prompt": "Dodaj question tag.\nYou are not angry.",
+        "answer": "You are not angry, are you?",
+        "explanation": "Przeczenie → are you."
+      }
+    ]
+  }
+]

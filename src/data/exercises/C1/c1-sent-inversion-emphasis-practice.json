@@ -1,0 +1,346 @@
+[
+  {
+    "id": "c1-sent-inversion-emphasis-practice-1",
+    "topicId": "c1-sent-inversion-emphasis-practice",
+    "exercises": [
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-01",
+        "type": "transform",
+        "prompt": "Zacznij od „Not only”.\nThe plan will save money and it will also protect the environment.",
+        "answer": "Not only will the plan save money, but it will also protect the environment.",
+        "accept": [
+          "Not only will the plan save money but it will also protect the environment.",
+          "Not only will the plan save money, it will also protect the environment."
+        ],
+        "explanation": "Not only + will + podmiot."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-02",
+        "type": "transform",
+        "prompt": "Zacznij od „What”.\nWe need more time.",
+        "answer": "What we need is more time.",
+        "explanation": "What + zdanie + is."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-03",
+        "type": "transform",
+        "prompt": "Zacznij od „Never”.\nI have never been so proud of my team.",
+        "answer": "Never have I been so proud of my team.",
+        "explanation": "Never + have + I."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-04",
+        "type": "choice",
+        "prompt": "Only after the results were published ___ the scale of the problem.",
+        "answer": "did we realise",
+        "distractors": [
+          "we realised",
+          "we did realise"
+        ],
+        "explanation": "Only after ... did + podmiot."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-05",
+        "type": "choice",
+        "prompt": "It was not until 2020 ___ the law was changed.",
+        "answer": "that",
+        "distractors": [
+          "when",
+          "then"
+        ],
+        "explanation": "It was not until ... that."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-06",
+        "type": "cloze",
+        "prompt": "Under no circumstances ___ staff discuss clients' data in public.",
+        "answer": "should",
+        "accept": [
+          "must",
+          "may"
+        ],
+        "explanation": "Under no circumstances should."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-07",
+        "type": "error",
+        "prompt": "Little did he knew that his life was about to change.",
+        "answer": [
+          "knew",
+          "know"
+        ],
+        "explanation": "Did + forma podstawowa."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-08",
+        "type": "tiles",
+        "prompt": "To właśnie ten moment zmienił wszystko.",
+        "answer": [
+          "It",
+          "was",
+          "this",
+          "very",
+          "moment",
+          "that",
+          "changed",
+          "everything"
+        ],
+        "distractors": [
+          "what",
+          "when"
+        ],
+        "explanation": "It was ... that + the very."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-09",
+        "type": "translate",
+        "prompt": "Przecież ostrzegałem cię!",
+        "answer": "I did warn you!",
+        "accept": [
+          "I did warn you.",
+          "But I warned you!"
+        ],
+        "explanation": "Did + czasownik."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-1-10",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z tłumaczeniem.",
+        "answer": [
+          "Not only... but also|Nie tylko... ale też",
+          "It was ... that|To właśnie ...",
+          "Under no circumstances|W żadnym wypadku",
+          "What we need is|To, czego potrzebujemy, to"
+        ],
+        "explanation": "Konstrukcje."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-inversion-emphasis-practice-2",
+    "topicId": "c1-sent-inversion-emphasis-practice",
+    "exercises": [
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-01",
+        "type": "transform",
+        "prompt": "Zacznij od „Hardly”.\nAs soon as the meeting started, the fire alarm went off.",
+        "answer": "Hardly had the meeting started when the fire alarm went off.",
+        "explanation": "Hardly had ... when."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-02",
+        "type": "transform",
+        "prompt": "Zacznij od „It was”.\nThe manager made the final decision.",
+        "answer": "It was the manager who made the final decision.",
+        "accept": [
+          "It was the manager that made the final decision."
+        ],
+        "explanation": "It was + osoba + who."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-03",
+        "type": "transform",
+        "prompt": "Zacznij od „Had”.\nIf we had known about the risks, we would have stopped.",
+        "answer": "Had we known about the risks, we would have stopped.",
+        "explanation": "Had + podmiot + III forma."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-04",
+        "type": "choice",
+        "prompt": "Seldom ___ such a talented young musician.",
+        "answer": "does one see",
+        "distractors": [
+          "one sees",
+          "one does see"
+        ],
+        "explanation": "Seldom + does + podmiot."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-05",
+        "type": "choice",
+        "prompt": "All I ask ___ that you listen.",
+        "answer": "is",
+        "distractors": [
+          "are",
+          "it is"
+        ],
+        "explanation": "All I ask is..."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-06",
+        "type": "cloze",
+        "prompt": "___ you require further information, please contact our office.",
+        "answer": "Should",
+        "explanation": "Should you require..."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-07",
+        "type": "error",
+        "prompt": "Rarely have we saw such enthusiasm.",
+        "answer": [
+          "saw",
+          "seen"
+        ],
+        "explanation": "Have + III forma."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-08",
+        "type": "tiles",
+        "prompt": "Nigdy wcześniej nie widzieliśmy takich wyników.",
+        "answer": [
+          "Never",
+          "before",
+          "have",
+          "we",
+          "seen",
+          "such",
+          "results"
+        ],
+        "distractors": [
+          "has",
+          "saw"
+        ],
+        "explanation": "Never before + have + we."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-09",
+        "type": "translate",
+        "prompt": "To, co mnie martwi, to koszt.",
+        "answer": "What worries me is the cost.",
+        "accept": [
+          "What concerns me is the cost.",
+          "The thing that worries me is the cost.",
+          "What bothers me is the cost."
+        ],
+        "explanation": "What + czasownik + is."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-2-10",
+        "type": "choice",
+        "prompt": "Which sentence is the most emphatic?",
+        "answer": "Not once did he apologise.",
+        "distractors": [
+          "He didn't apologise.",
+          "He didn't really apologise."
+        ],
+        "explanation": "Not once + inwersja."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-inversion-emphasis-practice-3",
+    "topicId": "c1-sent-inversion-emphasis-practice",
+    "exercises": [
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-01",
+        "type": "transform",
+        "prompt": "Zacznij od „Only when”.\nI understood the problem only when I saw the data.",
+        "answer": "Only when I saw the data did I understand the problem.",
+        "explanation": "Only when ... did + podmiot."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-02",
+        "type": "transform",
+        "prompt": "Zacznij od „The reason”.\nI resigned because I wanted a new challenge.",
+        "answer": "The reason why I resigned was that I wanted a new challenge.",
+        "accept": [
+          "The reason I resigned was that I wanted a new challenge.",
+          "The reason why I resigned was because I wanted a new challenge.",
+          "The reason I resigned was because I wanted a new challenge."
+        ],
+        "explanation": "The reason why ... was that."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-03",
+        "type": "transform",
+        "prompt": "Zacznij od „No sooner”.\nAs soon as we sat down, the waiter brought the bill.",
+        "answer": "No sooner had we sat down than the waiter brought the bill.",
+        "explanation": "No sooner had ... than."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-04",
+        "type": "choice",
+        "prompt": "Not until he left ___ how much I missed him.",
+        "answer": "did I realise",
+        "distractors": [
+          "I realised",
+          "I did realise"
+        ],
+        "explanation": "Not until ... did + podmiot."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-05",
+        "type": "choice",
+        "prompt": "She is ___ the most experienced person on the team.",
+        "answer": "by far",
+        "distractors": [
+          "very",
+          "so much"
+        ],
+        "explanation": "By far + stopień najwyższy."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-06",
+        "type": "cloze",
+        "prompt": "At no ___ did anyone mention the extra costs.",
+        "answer": "time",
+        "explanation": "At no time + inwersja."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-07",
+        "type": "error",
+        "prompt": "Not only does she sings, but she also writes her own songs.",
+        "answer": [
+          "sings",
+          "sing"
+        ],
+        "explanation": "Does + forma podstawowa."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-08",
+        "type": "tiles",
+        "prompt": "W żadnym wypadku nie otwieraj tych drzwi.",
+        "answer": [
+          "On",
+          "no",
+          "account",
+          "should",
+          "you",
+          "open",
+          "this",
+          "door"
+        ],
+        "distractors": [
+          "opened",
+          "opening"
+        ],
+        "explanation": "On no account + should."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-09",
+        "type": "translate",
+        "prompt": "Ona naprawdę ciężko pracuje.",
+        "answer": "She does work hard.",
+        "accept": [
+          "She really works hard.",
+          "She does work really hard.",
+          "She works really hard.",
+          "She really does work hard."
+        ],
+        "explanation": "Does + czasownik."
+      },
+      {
+        "id": "c1-sent-inversion-emphasis-practice-3-10",
+        "type": "match",
+        "prompt": "Połącz konstrukcje z tłumaczeniem.",
+        "answer": [
+          "Not once did he...|Ani razu nie...",
+          "At no time did...|Nigdy nie...",
+          "Little did they know|Nie mieli pojęcia",
+          "No sooner had... than|Ledwo... a już"
+        ],
+        "explanation": "Inwersja."
+      }
+    ]
+  }
+]

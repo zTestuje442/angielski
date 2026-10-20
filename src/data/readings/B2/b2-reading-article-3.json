@@ -1,0 +1,111 @@
+{
+  "id": "b2-reading-article-3",
+  "topicId": "b2-reading-article",
+  "title": "Bees on the rooftops",
+  "text": "Look up at the roofs of some of Europe's busiest cities and you might see something unexpected: beehives. In London, Paris and Berlin, thousands of hives now sit on top of offices, hotels and even the opera house. Urban beekeeping has become fashionable, and many companies proudly advertise their \"corporate bees\" as proof that they care about the environment.\n\nAt first, the idea seems perfect. Bees are essential for pollinating plants, including many of the crops we eat, and wild bee populations have been falling for decades because of pesticides, disease and the loss of natural habitats. Cities, surprisingly, can be good places for bees. Parks, gardens, balconies and tree-lined streets offer a wide variety of flowers, and pesticides are used far less than in the countryside. Honey from city hives often wins prizes for its rich and complex flavour.\n\nBut scientists are increasingly worried that the trend may be doing more harm than good. The bees kept in hives are almost always honeybees, a single species managed by humans. Wild bees – and there are more than two hundred species in Britain alone – compete with them for the same flowers. \"If you put too many hives in one area, the honeybees simply eat all the food,\" says ecologist Dr Peter Novak. \"Wild bees, which are often the ones in real danger, are left with nothing.\"\n\nIn Paris, the number of hives rose from around three hundred to more than two thousand in just a few years. A study found that over the same period, the amount of honey produced per hive fell significantly – a clear sign that there was no longer enough food to go round. Some researchers believe that the wild bee population in the city suffered as a result.\n\nExperts do not want people to stop keeping bees altogether. Instead, they argue that the focus should shift from adding hives to adding flowers. Planting native plants, leaving parts of parks wild, avoiding chemicals in gardens and creating \"bee hotels\" for solitary species can all help. Some cities have started creating green corridors – lines of gardens and parks that allow insects to move safely across urban areas.\n\n\"A beehive on the roof looks great in a company report,\" says Dr Novak. \"But if you really want to help bees, plant a meadow.\" It may be less photogenic, but for the city's smallest workers, it could make all the difference.",
+  "exercises": [
+    {
+      "id": "b2-reading-article-3-01",
+      "type": "choice",
+      "prompt": "Some companies keep bees to show they care about nature.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„...as proof that they care about the environment.”"
+    },
+    {
+      "id": "b2-reading-article-3-02",
+      "type": "choice",
+      "prompt": "Pesticides are used more in cities than in the countryside.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...pesticides are used far less than in the countryside.”"
+    },
+    {
+      "id": "b2-reading-article-3-03",
+      "type": "choice",
+      "prompt": "City honey is cheaper than honey from the countryside.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst mówi o smaku i nagrodach, nie o cenie."
+    },
+    {
+      "id": "b2-reading-article-3-04",
+      "type": "choice",
+      "prompt": "Why are scientists worried about urban beekeeping?",
+      "answer": "Honeybees take food from wild bees.",
+      "distractors": [
+        "Honeybees attack people in cities.",
+        "City honey is unhealthy."
+      ],
+      "explanation": "„...the honeybees simply eat all the food.”"
+    },
+    {
+      "id": "b2-reading-article-3-05",
+      "type": "choice",
+      "prompt": "What happened in Paris when the number of hives grew?",
+      "answer": "Each hive produced less honey.",
+      "distractors": [
+        "The city banned beehives.",
+        "Wild bees moved to the roofs."
+      ],
+      "explanation": "„...the amount of honey produced per hive fell significantly.”"
+    },
+    {
+      "id": "b2-reading-article-3-06",
+      "type": "choice",
+      "prompt": "What do experts recommend?",
+      "answer": "planting more flowers",
+      "distractors": [
+        "keeping more hives",
+        "using more chemicals"
+      ],
+      "explanation": "„...the focus should shift from adding hives to adding flowers.”"
+    },
+    {
+      "id": "b2-reading-article-3-07",
+      "type": "choice",
+      "prompt": "What are green corridors?",
+      "answer": "lines of gardens and parks for insects",
+      "distractors": [
+        "roads for electric cars",
+        "paths for cyclists"
+      ],
+      "explanation": "„...lines of gardens and parks that allow insects to move safely...”"
+    },
+    {
+      "id": "b2-reading-article-3-08",
+      "type": "cloze",
+      "prompt": "Bees are essential for ___ plants.",
+      "answer": "pollinating",
+      "explanation": "Zapylać: pollinate."
+    },
+    {
+      "id": "b2-reading-article-3-09",
+      "type": "cloze",
+      "prompt": "If you really want to help bees, plant a ___.",
+      "answer": "meadow",
+      "explanation": "Łąka: meadow."
+    },
+    {
+      "id": "b2-reading-article-3-10",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "hive|ul",
+        "crop|uprawa, plon",
+        "habitat|siedlisko",
+        "species|gatunek"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

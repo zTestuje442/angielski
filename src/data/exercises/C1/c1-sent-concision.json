@@ -1,0 +1,350 @@
+[
+  {
+    "id": "c1-sent-concision-1",
+    "topicId": "c1-sent-concision",
+    "exercises": [
+      {
+        "id": "c1-sent-concision-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z krótszym odpowiednikiem.",
+        "answer": [
+          "due to the fact that|because",
+          "at this point in time|now",
+          "in the event that|if",
+          "a large number of|many"
+        ],
+        "explanation": "Rozwlekłe wyrażenie i zwięzłe."
+      },
+      {
+        "id": "c1-sent-concision-1-02",
+        "type": "choice",
+        "prompt": "Which sentence is the most concise?",
+        "answer": "We decided to cancel the trip.",
+        "distractors": [
+          "We made the decision to cancel the trip.",
+          "We came to the decision that we would cancel the trip."
+        ],
+        "explanation": "Make a decision → decide."
+      },
+      {
+        "id": "c1-sent-concision-1-03",
+        "type": "choice",
+        "prompt": "Which phrase is redundant (pleonazm)?",
+        "answer": "future plans",
+        "distractors": [
+          "new plans",
+          "detailed plans"
+        ],
+        "explanation": "Plany zawsze dotyczą przyszłości."
+      },
+      {
+        "id": "c1-sent-concision-1-04",
+        "type": "cloze",
+        "prompt": "We left early ___ catch the train. (zamiast „in order to”)",
+        "answer": "to",
+        "explanation": "In order to → to."
+      },
+      {
+        "id": "c1-sent-concision-1-05",
+        "type": "cloze",
+        "prompt": "___ it was raining, we went out. (zamiast „In spite of the fact that”)",
+        "answer": "Although",
+        "accept": [
+          "Though",
+          "Even though"
+        ],
+        "explanation": "Although."
+      },
+      {
+        "id": "c1-sent-concision-1-06",
+        "type": "error",
+        "prompt": "The end result of the meeting was positive.",
+        "answer": [
+          "end",
+          "overall"
+        ],
+        "explanation": "Pleonazm „end result”: lepiej the overall result albo samo the result."
+      },
+      {
+        "id": "c1-sent-concision-1-07",
+        "type": "tiles",
+        "prompt": "Wielu ludzi tak uważa.",
+        "answer": [
+          "Many",
+          "people",
+          "think",
+          "so"
+        ],
+        "distractors": [
+          "There",
+          "who"
+        ],
+        "explanation": "There are many people who think → Many people think."
+      },
+      {
+        "id": "c1-sent-concision-1-08",
+        "type": "translate",
+        "prompt": "Teraz nie mamy czasu.",
+        "answer": "We do not have time now.",
+        "accept": [
+          "We don't have time now.",
+          "We have no time now.",
+          "We do not have the time now.",
+          "We don't have the time now."
+        ],
+        "explanation": "At this point in time → now."
+      },
+      {
+        "id": "c1-sent-concision-1-09",
+        "type": "choice",
+        "prompt": "\"Each and every\" can be replaced by:",
+        "answer": "every",
+        "distractors": [
+          "each every",
+          "all of each"
+        ],
+        "explanation": "Each and every → every."
+      },
+      {
+        "id": "c1-sent-concision-1-10",
+        "type": "transform",
+        "prompt": "Skróć zdanie, użyj „because”.\nThe match was cancelled due to the fact that it was raining.",
+        "answer": "The match was cancelled because it was raining.",
+        "explanation": "Due to the fact that → because."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-concision-2",
+    "topicId": "c1-sent-concision",
+    "exercises": [
+      {
+        "id": "c1-sent-concision-2-01",
+        "type": "match",
+        "prompt": "Połącz pleonazm z poprawną formą.",
+        "answer": [
+          "completely finished|finished",
+          "past history|history",
+          "free gift|gift",
+          "end result|result"
+        ],
+        "explanation": "Pleonazm i poprawna forma."
+      },
+      {
+        "id": "c1-sent-concision-2-02",
+        "type": "choice",
+        "prompt": "Which sentence is the most concise?",
+        "answer": "My bike was stolen.",
+        "distractors": [
+          "Somebody, I don't know who, stole my bike.",
+          "There was a person who stole my bike."
+        ],
+        "explanation": "Strona bierna."
+      },
+      {
+        "id": "c1-sent-concision-2-03",
+        "type": "choice",
+        "prompt": "\"The man who was sitting next to me\" can be shortened to:",
+        "answer": "the man sitting next to me",
+        "distractors": [
+          "the man sat next me",
+          "the man who sitting next to me"
+        ],
+        "explanation": "Imiesłów: sitting."
+      },
+      {
+        "id": "c1-sent-concision-2-04",
+        "type": "cloze",
+        "prompt": "___ you need help, call me. (zamiast „In the event that”)",
+        "answer": "If",
+        "explanation": "In the event that → if."
+      },
+      {
+        "id": "c1-sent-concision-2-05",
+        "type": "cloze",
+        "prompt": "___ people attended the conference. (zamiast „A large number of”)",
+        "answer": "Many",
+        "accept": [
+          "Numerous",
+          "Hundreds of"
+        ],
+        "explanation": "A large number of → many."
+      },
+      {
+        "id": "c1-sent-concision-2-06",
+        "type": "error",
+        "prompt": "Due to the fact it was late, we took a taxi.",
+        "answer": [
+          "Due",
+          "As"
+        ],
+        "explanation": "Zwięźle: As it was late... (albo Because)."
+      },
+      {
+        "id": "c1-sent-concision-2-07",
+        "type": "tiles",
+        "prompt": "Jego spóźnienie zdenerwowało szefa.",
+        "answer": [
+          "His",
+          "late",
+          "arrival",
+          "annoyed",
+          "the",
+          "boss"
+        ],
+        "distractors": [
+          "arrived",
+          "Because"
+        ],
+        "explanation": "Nominalizacja zamiast zdania."
+      },
+      {
+        "id": "c1-sent-concision-2-08",
+        "type": "translate",
+        "prompt": "Zdecydowaliśmy się przełożyć spotkanie.",
+        "answer": "We decided to postpone the meeting.",
+        "accept": [
+          "We decided to put off the meeting.",
+          "We decided to put the meeting off.",
+          "We decided to reschedule the meeting."
+        ],
+        "explanation": "Decide zamiast make a decision."
+      },
+      {
+        "id": "c1-sent-concision-2-09",
+        "type": "transform",
+        "prompt": "Skróć zdanie: zamień „make a decision” na czasownik.\nThe board will make a decision tomorrow.",
+        "answer": "The board will decide tomorrow.",
+        "explanation": "Make a decision → decide."
+      },
+      {
+        "id": "c1-sent-concision-2-10",
+        "type": "choice",
+        "prompt": "Which word can you delete? \"The project was completely finished.\"",
+        "answer": "completely",
+        "distractors": [
+          "project",
+          "finished"
+        ],
+        "explanation": "Completely finished – pleonazm."
+      }
+    ]
+  },
+  {
+    "id": "c1-sent-concision-3",
+    "topicId": "c1-sent-concision",
+    "exercises": [
+      {
+        "id": "c1-sent-concision-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z krótszym odpowiednikiem.",
+        "answer": [
+          "in order to|to",
+          "in spite of the fact that|although",
+          "with regard to|about",
+          "prior to|before"
+        ],
+        "explanation": "Wyrażenie i krótszy odpowiednik."
+      },
+      {
+        "id": "c1-sent-concision-3-02",
+        "type": "choice",
+        "prompt": "Which sentence is the most concise?",
+        "answer": "Many experts believe the plan will fail.",
+        "distractors": [
+          "There are many experts who are of the belief that the plan will fail.",
+          "Many experts have the belief that the plan will fail in the future."
+        ],
+        "explanation": "Bez there are... who."
+      },
+      {
+        "id": "c1-sent-concision-3-03",
+        "type": "choice",
+        "prompt": "Which sentence contains a pleonasm?",
+        "answer": "We need to plan ahead for the future.",
+        "distractors": [
+          "We need to plan the project.",
+          "We need a plan."
+        ],
+        "explanation": "Plan ahead for the future – powtórzenie."
+      },
+      {
+        "id": "c1-sent-concision-3-04",
+        "type": "cloze",
+        "prompt": "We need to talk ___ the budget. (zamiast „with regard to”)",
+        "answer": "about",
+        "accept": [
+          "regarding",
+          "concerning"
+        ],
+        "explanation": "With regard to → about."
+      },
+      {
+        "id": "c1-sent-concision-3-05",
+        "type": "cloze",
+        "prompt": "Please read the contract ___ signing it. (zamiast „prior to”)",
+        "answer": "before",
+        "explanation": "Prior to → before."
+      },
+      {
+        "id": "c1-sent-concision-3-06",
+        "type": "error",
+        "prompt": "They returned back home after the holiday.",
+        "answer": [
+          "back",
+          "safely"
+        ],
+        "explanation": "Return back – pleonazm; „returned home” wystarczy (tu: returned safely home)."
+      },
+      {
+        "id": "c1-sent-concision-3-07",
+        "type": "error",
+        "prompt": "The reason why I called is because I need help.",
+        "answer": [
+          "because",
+          "that"
+        ],
+        "explanation": "The reason... is that (nie because)."
+      },
+      {
+        "id": "c1-sent-concision-3-08",
+        "type": "tiles",
+        "prompt": "Dokumenty na biurku są twoje.",
+        "answer": [
+          "The",
+          "documents",
+          "on",
+          "the",
+          "desk",
+          "are",
+          "yours"
+        ],
+        "distractors": [
+          "which",
+          "is"
+        ],
+        "explanation": "Bez zdania względnego (which are)."
+      },
+      {
+        "id": "c1-sent-concision-3-09",
+        "type": "translate",
+        "prompt": "Ze względu na pogodę mecz odwołano.",
+        "answer": "Because of the weather, the match was cancelled.",
+        "accept": [
+          "The match was cancelled because of the weather.",
+          "Due to the weather, the match was cancelled.",
+          "The match was cancelled due to the weather.",
+          "Owing to the weather, the match was cancelled."
+        ],
+        "explanation": "Zwięźle: because of."
+      },
+      {
+        "id": "c1-sent-concision-3-10",
+        "type": "transform",
+        "prompt": "Skróć zdanie, użyj imiesłowu.\nThe students who are taking the exam must arrive early.",
+        "answer": "The students taking the exam must arrive early.",
+        "explanation": "Who are taking → taking."
+      }
+    ]
+  }
+]

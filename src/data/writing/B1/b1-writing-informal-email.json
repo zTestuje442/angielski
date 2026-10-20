@@ -1,0 +1,18 @@
+{
+  "topicId": "b1-writing-informal-email",
+  "task": "Twój przyjaciel z Anglii, **Jack**, napisał, że w przyszłym miesiącu przyjeżdża do Polski, i pyta o radę.\n\nOdpisz mu:\n- zareaguj na jego wiadomość,\n- poleć jedno miejsce, które warto zobaczyć, i wyjaśnij dlaczego,\n- zaproponuj, co możecie razem zrobić,\n- zapytaj o szczegóły przyjazdu.",
+  "words": [
+    100,
+    150
+  ],
+  "model": "Hi Jack,\n\nThanks for your email – it's great news that you're coming to Poland! I can't wait to see you.\n\nYou asked me what to visit. I think you should definitely go to Kraków. The old town is beautiful, especially in the evening, and there are lots of cool cafés and restaurants. If you have time, you can also visit the salt mine in Wieliczka – it's amazing!\n\nWhen you're here, we could go hiking in the mountains for a day. The views are fantastic, and I know a great place where we can have lunch.\n\nAnyway, let me know when exactly you're arriving and how long you're staying. Are you coming by plane or by train?\n\nWrite back soon!\nOla",
+  "checklist": [
+    "Zaczynam nieformalnie i reaguję na wiadomość (Thanks for your email... / Great news!).",
+    "Polecam jedno miejsce i podaję co najmniej jeden powód.",
+    "Proponuję wspólne zajęcie (We could... / Why don't we...?).",
+    "Pytam o szczegóły przyjazdu.",
+    "Tekst ma akapity i używam słów łączących (and, but, because, so, anyway).",
+    "Kończę nieformalnie (Write back soon / Take care) i podpisuję się.",
+    "Tekst ma 100–150 słów."
+  ]
+}

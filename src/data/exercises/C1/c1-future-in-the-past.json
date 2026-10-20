@@ -1,0 +1,360 @@
+[
+  {
+    "id": "c1-future-in-the-past-1",
+    "topicId": "c1-future-in-the-past",
+    "exercises": [
+      {
+        "id": "c1-future-in-the-past-1-01",
+        "type": "cloze",
+        "prompt": "I knew she ___ be late. She always is.",
+        "answer": "would",
+        "explanation": "Would – przyszłość z przeszłości."
+      },
+      {
+        "id": "c1-future-in-the-past-1-02",
+        "type": "cloze",
+        "prompt": "I was going ___ call you, but I forgot.",
+        "answer": "to",
+        "explanation": "Was going to – zamiar."
+      },
+      {
+        "id": "c1-future-in-the-past-1-03",
+        "type": "choice",
+        "prompt": "We were ___ to leave when the phone rang.",
+        "answer": "about",
+        "distractors": [
+          "going",
+          "due"
+        ],
+        "explanation": "Was about to – właśnie mieliśmy."
+      },
+      {
+        "id": "c1-future-in-the-past-1-04",
+        "type": "choice",
+        "prompt": "Little did he know that he ___ become famous.",
+        "answer": "was to",
+        "distractors": [
+          "is going to",
+          "will"
+        ],
+        "explanation": "Was to – przeznaczenie."
+      },
+      {
+        "id": "c1-future-in-the-past-1-05",
+        "type": "choice",
+        "prompt": "The train was ___ to arrive at six, but it was late.",
+        "answer": "due",
+        "distractors": [
+          "about",
+          "bound"
+        ],
+        "explanation": "Was due to – planowo."
+      },
+      {
+        "id": "c1-future-in-the-past-1-06",
+        "type": "match",
+        "prompt": "Połącz formy z funkcją.",
+        "answer": [
+          "would|przewidywanie",
+          "was going to|zamiar",
+          "was about to|tuż przed",
+          "was to|przeznaczenie"
+        ],
+        "explanation": "Formy future in the past."
+      },
+      {
+        "id": "c1-future-in-the-past-1-07",
+        "type": "error",
+        "prompt": "He said he will call me later.",
+        "answer": [
+          "will",
+          "would"
+        ],
+        "explanation": "Mowa zależna: would."
+      },
+      {
+        "id": "c1-future-in-the-past-1-08",
+        "type": "tiles",
+        "prompt": "Właśnie mieliśmy wychodzić gdy przyszli goście.",
+        "answer": [
+          "We",
+          "were",
+          "about",
+          "to",
+          "leave",
+          "when",
+          "the",
+          "guests",
+          "arrived"
+        ],
+        "distractors": [
+          "leaving",
+          "left"
+        ],
+        "explanation": "Was about to."
+      },
+      {
+        "id": "c1-future-in-the-past-1-09",
+        "type": "translate",
+        "prompt": "Zamierzałem ci powiedzieć.",
+        "answer": "I was going to tell you.",
+        "accept": [
+          "I meant to tell you.",
+          "I was planning to tell you.",
+          "I intended to tell you."
+        ],
+        "explanation": "Was going to."
+      },
+      {
+        "id": "c1-future-in-the-past-1-10",
+        "type": "transform",
+        "prompt": "Wyraź niespełniony zamiar, użyj „was going to”.\nI planned to visit her, but I didn't.",
+        "answer": "I was going to visit her, but I didn't.",
+        "explanation": "Was going to."
+      }
+    ]
+  },
+  {
+    "id": "c1-future-in-the-past-2",
+    "topicId": "c1-future-in-the-past",
+    "exercises": [
+      {
+        "id": "c1-future-in-the-past-2-01",
+        "type": "cloze",
+        "prompt": "They were to ___ married in June, but they split up.",
+        "answer": "have",
+        "accept": [
+          "get",
+          "be"
+        ],
+        "explanation": "Was to have + III forma – niespełniony plan."
+      },
+      {
+        "id": "c1-future-in-the-past-2-02",
+        "type": "cloze",
+        "prompt": "I was ___ Tom at six, so I couldn't stay. (meet – ustalony plan)",
+        "answer": "meeting",
+        "explanation": "Past Continuous – ustalony plan."
+      },
+      {
+        "id": "c1-future-in-the-past-2-03",
+        "type": "choice",
+        "prompt": "At that time, nobody knew the war ___ last six years.",
+        "answer": "would",
+        "distractors": [
+          "will",
+          "is going to"
+        ],
+        "explanation": "Would – perspektywa przeszłości."
+      },
+      {
+        "id": "c1-future-in-the-past-2-04",
+        "type": "choice",
+        "prompt": "The meeting was due ___ at nine.",
+        "answer": "to start",
+        "distractors": [
+          "starting",
+          "start"
+        ],
+        "explanation": "Due to + forma podstawowa."
+      },
+      {
+        "id": "c1-future-in-the-past-2-05",
+        "type": "choice",
+        "prompt": "She was just about ___ when I called.",
+        "answer": "to fall asleep",
+        "distractors": [
+          "falling asleep",
+          "fall asleep"
+        ],
+        "explanation": "About to + forma podstawowa."
+      },
+      {
+        "id": "c1-future-in-the-past-2-06",
+        "type": "transform",
+        "prompt": "Zamień na mowę zależną, zacznij od „She promised”.\n\"I'll help you,\" she promised.",
+        "answer": "She promised she would help me.",
+        "accept": [
+          "She promised that she would help me.",
+          "She promised to help me."
+        ],
+        "explanation": "Will → would."
+      },
+      {
+        "id": "c1-future-in-the-past-2-07",
+        "type": "transform",
+        "prompt": "Użyj „about to”.\nI was going to leave in a moment when he arrived.",
+        "answer": "I was about to leave when he arrived.",
+        "explanation": "Was about to."
+      },
+      {
+        "id": "c1-future-in-the-past-2-08",
+        "type": "tiles",
+        "prompt": "Miał zostać lekarzem ale został aktorem.",
+        "answer": [
+          "He",
+          "was",
+          "to",
+          "have",
+          "become",
+          "a",
+          "doctor",
+          "but",
+          "he",
+          "became",
+          "an",
+          "actor"
+        ],
+        "distractors": [
+          "will",
+          "becoming"
+        ],
+        "explanation": "Was to have + III forma."
+      },
+      {
+        "id": "c1-future-in-the-past-2-09",
+        "type": "error",
+        "prompt": "I was going to calling you yesterday.",
+        "answer": [
+          "calling",
+          "call"
+        ],
+        "explanation": "Was going to + forma podstawowa."
+      },
+      {
+        "id": "c1-future-in-the-past-2-10",
+        "type": "translate",
+        "prompt": "Wiedziałem, że wygrasz.",
+        "answer": "I knew you would win.",
+        "accept": [
+          "I knew that you would win.",
+          "I knew you'd win.",
+          "I knew you were going to win."
+        ],
+        "explanation": "Would."
+      }
+    ]
+  },
+  {
+    "id": "c1-future-in-the-past-3",
+    "topicId": "c1-future-in-the-past",
+    "exercises": [
+      {
+        "id": "c1-future-in-the-past-3-01",
+        "type": "choice",
+        "prompt": "I had a feeling something terrible ___ happen.",
+        "answer": "was going to",
+        "distractors": [
+          "is going to",
+          "will"
+        ],
+        "explanation": "Was going to – przeczucie."
+      },
+      {
+        "id": "c1-future-in-the-past-3-02",
+        "type": "choice",
+        "prompt": "He was ___ to retire the following year.",
+        "answer": "due",
+        "distractors": [
+          "about",
+          "bound to"
+        ],
+        "explanation": "Was due to."
+      },
+      {
+        "id": "c1-future-in-the-past-3-03",
+        "type": "cloze",
+        "prompt": "That was the last time I ___ ever see him.",
+        "answer": "would",
+        "accept": [
+          "was to"
+        ],
+        "explanation": "Would – przeznaczenie w narracji."
+      },
+      {
+        "id": "c1-future-in-the-past-3-04",
+        "type": "cloze",
+        "prompt": "We were about ___ the contract when they changed the terms. (sign)",
+        "answer": "to sign",
+        "explanation": "About to + czasownik."
+      },
+      {
+        "id": "c1-future-in-the-past-3-05",
+        "type": "cloze",
+        "prompt": "She thought it ___ rain, so she took an umbrella.",
+        "answer": "would",
+        "accept": [
+          "might",
+          "was going to"
+        ],
+        "explanation": "Would."
+      },
+      {
+        "id": "c1-future-in-the-past-3-06",
+        "type": "match",
+        "prompt": "Połącz zdania z tłumaczeniem.",
+        "answer": [
+          "I was going to call you.|Zamierzałem do ciebie zadzwonić.",
+          "I was about to call you.|Właśnie miałem do ciebie dzwonić.",
+          "I knew he would call.|Wiedziałem, że zadzwoni."
+        ],
+        "explanation": "Future in the past."
+      },
+      {
+        "id": "c1-future-in-the-past-3-07",
+        "type": "error",
+        "prompt": "They were to has met in Paris, but the trip was cancelled.",
+        "answer": [
+          "has",
+          "have"
+        ],
+        "explanation": "Was to have + III forma."
+      },
+      {
+        "id": "c1-future-in-the-past-3-08",
+        "type": "error",
+        "prompt": "I was about to leaving when the phone rang.",
+        "answer": [
+          "leaving",
+          "leave"
+        ],
+        "explanation": "About to + forma podstawowa."
+      },
+      {
+        "id": "c1-future-in-the-past-3-09",
+        "type": "tiles",
+        "prompt": "Nikt nie wiedział że to będzie ostatni koncert.",
+        "answer": [
+          "Nobody",
+          "knew",
+          "that",
+          "it",
+          "would",
+          "be",
+          "the",
+          "last",
+          "concert"
+        ],
+        "distractors": [
+          "will",
+          "being"
+        ],
+        "explanation": "Would."
+      },
+      {
+        "id": "c1-future-in-the-past-3-10",
+        "type": "translate",
+        "prompt": "Pociąg miał przyjechać o ósmej.",
+        "answer": "The train was due to arrive at eight.",
+        "accept": [
+          "The train was supposed to arrive at eight.",
+          "The train was due at eight.",
+          "The train was to arrive at eight.",
+          "The train was due to arrive at 8.",
+          "The train was supposed to arrive at 8."
+        ],
+        "explanation": "Was due to."
+      }
+    ]
+  }
+]

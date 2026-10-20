@@ -1,0 +1,350 @@
+[
+  {
+    "id": "b2-vocab-false-friends-1",
+    "topicId": "b2-vocab-false-friends",
+    "exercises": [
+      {
+        "id": "b2-vocab-false-friends-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "actually|tak naprawdę",
+          "eventually|w końcu",
+          "sympathetic|współczujący",
+          "receipt|paragon"
+        ],
+        "explanation": "False friends."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-02",
+        "type": "choice",
+        "prompt": "Aktualnie pracuję w banku. → ___ I work in a bank.",
+        "answer": "Currently",
+        "distractors": [
+          "Actually",
+          "Eventually"
+        ],
+        "explanation": "Aktualnie = currently."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-03",
+        "type": "choice",
+        "prompt": "Our new neighbour is very ___. (sympatyczny)",
+        "answer": "nice",
+        "distractors": [
+          "sympathetic",
+          "pathetic"
+        ],
+        "explanation": "Sympatyczny = nice."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-04",
+        "type": "cloze",
+        "prompt": "Can I have a ___, please? I need it for my expenses. (paragon)",
+        "answer": "receipt",
+        "explanation": "Paragon: receipt."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-05",
+        "type": "cloze",
+        "prompt": "The doctor gave me a ___ for antibiotics. (recepta)",
+        "answer": "prescription",
+        "explanation": "Recepta: prescription."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-06",
+        "type": "error",
+        "prompt": "My father works in a car fabric.",
+        "answer": [
+          "fabric",
+          "factory"
+        ],
+        "explanation": "Fabryka = factory."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-07",
+        "type": "tiles",
+        "prompt": "W końcu znalazłem pracę.",
+        "answer": [
+          "I",
+          "eventually",
+          "found",
+          "a",
+          "job"
+        ],
+        "distractors": [
+          "actually",
+          "possibly"
+        ],
+        "explanation": "W końcu = eventually."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-08",
+        "type": "translate",
+        "prompt": "Właściwie to nie lubię kawy.",
+        "answer": "Actually, I do not like coffee.",
+        "accept": [
+          "Actually I do not like coffee.",
+          "I actually do not like coffee."
+        ],
+        "explanation": "Właściwie = actually."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-09",
+        "type": "choice",
+        "prompt": "A ___ is a long talk at university.",
+        "answer": "lecture",
+        "distractors": [
+          "lecturer",
+          "reading"
+        ],
+        "explanation": "Wykład: lecture."
+      },
+      {
+        "id": "b2-vocab-false-friends-1-10",
+        "type": "transform",
+        "prompt": "Popraw zdanie: zastąp „chef” właściwym słowem.\nMy chef is very strict at work.",
+        "answer": "My boss is very strict at work.",
+        "explanation": "Szef = boss."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-false-friends-2",
+    "topicId": "b2-vocab-false-friends",
+    "exercises": [
+      {
+        "id": "b2-vocab-false-friends-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "fabric|tkanina",
+          "lecture|wykład",
+          "chef|kucharz",
+          "closet|szafa"
+        ],
+        "explanation": "False friends."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-02",
+        "type": "choice",
+        "prompt": "We could meet on Monday or, ___, on Tuesday. (ewentualnie)",
+        "answer": "alternatively",
+        "distractors": [
+          "eventually",
+          "actually"
+        ],
+        "explanation": "Ewentualnie = alternatively / possibly."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-03",
+        "type": "choice",
+        "prompt": "The ___ of the restaurant cooked an amazing dinner.",
+        "answer": "chef",
+        "distractors": [
+          "boss",
+          "cooker"
+        ],
+        "explanation": "Kucharz: chef (cooker = kuchenka)."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-04",
+        "type": "cloze",
+        "prompt": "This dress is made of a very soft ___. (tkanina)",
+        "answer": "fabric",
+        "accept": [
+          "material"
+        ],
+        "explanation": "Tkanina: fabric."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-05",
+        "type": "cloze",
+        "prompt": "A thousand million is a ___. (miliard)",
+        "answer": "billion",
+        "explanation": "Miliard = billion."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-06",
+        "type": "error",
+        "prompt": "We have to read three lectures for the literature class.",
+        "answer": [
+          "lectures",
+          "books"
+        ],
+        "explanation": "Lektura = (set) book / reading."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-07",
+        "type": "error",
+        "prompt": "Don't be so ordinary! Stop swearing.",
+        "answer": [
+          "ordinary",
+          "rude"
+        ],
+        "explanation": "Ordynarny = rude / vulgar."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-08",
+        "type": "tiles",
+        "prompt": "To jest żałosne.",
+        "answer": [
+          "That",
+          "is",
+          "pathetic"
+        ],
+        "distractors": [
+          "sympathetic",
+          "patetic"
+        ],
+        "explanation": "Pathetic = żałosny."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-09",
+        "type": "translate",
+        "prompt": "Gdzie jest toaleta?",
+        "answer": "Where is the toilet?",
+        "accept": [
+          "Where's the toilet?",
+          "Where is the bathroom?",
+          "Where is the restroom?",
+          "Where is the loo?"
+        ],
+        "explanation": "Toaleta = toilet (closet = szafa)."
+      },
+      {
+        "id": "b2-vocab-false-friends-2-10",
+        "type": "choice",
+        "prompt": "They live in a small ___ in the city centre. (mieszkanie)",
+        "answer": "flat",
+        "distractors": [
+          "apartament",
+          "closet"
+        ],
+        "explanation": "Mieszkanie: flat / apartment."
+      }
+    ]
+  },
+  {
+    "id": "b2-vocab-false-friends-3",
+    "topicId": "b2-vocab-false-friends",
+    "exercises": [
+      {
+        "id": "b2-vocab-false-friends-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "ordinary|zwyczajny",
+          "pathetic|żałosny",
+          "extra|dodatkowy",
+          "preservative|konserwant"
+        ],
+        "explanation": "False friends."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-02",
+        "type": "choice",
+        "prompt": "Dziesięć bilionów → ten ___.",
+        "answer": "trillion",
+        "distractors": [
+          "billion",
+          "million"
+        ],
+        "explanation": "Bilion = trillion."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-03",
+        "type": "choice",
+        "prompt": "She was very ___ when I told her about my problems. (współczująca)",
+        "answer": "sympathetic",
+        "distractors": [
+          "sympathetical",
+          "nice"
+        ],
+        "explanation": "Współczujący: sympathetic."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-04",
+        "type": "cloze",
+        "prompt": "There is an ___ charge for luggage. (dodatkowa)",
+        "answer": "extra",
+        "accept": [
+          "additional"
+        ],
+        "explanation": "Dodatkowy: extra."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-05",
+        "type": "cloze",
+        "prompt": "It was just an ___ day – nothing special happened. (zwyczajny)",
+        "answer": "ordinary",
+        "accept": [
+          "average",
+          "normal",
+          "everyday",
+          "usual"
+        ],
+        "explanation": "Zwyczajny: ordinary."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-06",
+        "type": "error",
+        "prompt": "The party was really extra – we had so much fun!",
+        "answer": [
+          "extra",
+          "great"
+        ],
+        "explanation": "Ekstra = great / cool."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-07",
+        "type": "error",
+        "prompt": "Ticket control! Can I see your tickets, please?",
+        "answer": [
+          "control",
+          "inspection"
+        ],
+        "explanation": "Kontrola biletów = ticket inspection."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-08",
+        "type": "tiles",
+        "prompt": "Jestem obecnie bez pracy.",
+        "answer": [
+          "I",
+          "am",
+          "currently",
+          "out",
+          "of",
+          "work"
+        ],
+        "distractors": [
+          "actually",
+          "eventually"
+        ],
+        "explanation": "Obecnie = currently."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-09",
+        "type": "translate",
+        "prompt": "Ona jest bardzo sympatyczna.",
+        "answer": "She is very nice.",
+        "accept": [
+          "She is very friendly.",
+          "She's very nice.",
+          "She's very friendly.",
+          "She is really nice.",
+          "She is very likeable."
+        ],
+        "explanation": "Sympatyczny = nice / friendly."
+      },
+      {
+        "id": "b2-vocab-false-friends-3-10",
+        "type": "transform",
+        "prompt": "Popraw zdanie: zastąp „actual” właściwym słowem.\nWhat is the actual time? (aktualna godzina)",
+        "answer": "What is the current time?",
+        "explanation": "Aktualny = current."
+      }
+    ]
+  }
+]

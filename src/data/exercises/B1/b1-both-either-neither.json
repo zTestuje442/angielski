@@ -1,0 +1,332 @@
+[
+  {
+    "id": "b1-both-either-neither-1",
+    "topicId": "b1-both-either-neither",
+    "exercises": [
+      {
+        "id": "b1-both-either-neither-1-01",
+        "type": "cloze",
+        "prompt": "___ my parents are teachers. (oboje)",
+        "answer": "Both",
+        "explanation": "Oboje: both."
+      },
+      {
+        "id": "b1-both-either-neither-1-02",
+        "type": "cloze",
+        "prompt": "I don't like ___ of them. (żadnego z dwóch)",
+        "answer": "either",
+        "explanation": "Przeczenie + either."
+      },
+      {
+        "id": "b1-both-either-neither-1-03",
+        "type": "cloze",
+        "prompt": "___ of the two answers is correct. (żadna)",
+        "answer": "Neither",
+        "explanation": "Żadna z dwóch: neither."
+      },
+      {
+        "id": "b1-both-either-neither-1-04",
+        "type": "choice",
+        "prompt": "You can sit on ___ chair. I don't mind which.",
+        "answer": "either",
+        "distractors": [
+          "both",
+          "neither"
+        ],
+        "explanation": "Którekolwiek z dwóch: either."
+      },
+      {
+        "id": "b1-both-either-neither-1-05",
+        "type": "choice",
+        "prompt": "___ of my friends came to the party. Everybody came!",
+        "answer": "All",
+        "distractors": [
+          "None",
+          "Neither"
+        ],
+        "explanation": "Wszyscy: all."
+      },
+      {
+        "id": "b1-both-either-neither-1-06",
+        "type": "match",
+        "prompt": "Połącz słowa ze znaczeniem.",
+        "answer": [
+          "both|oba, obaj",
+          "either|którykolwiek z dwóch",
+          "neither|żaden z dwóch",
+          "none|żaden (z wielu)"
+        ],
+        "explanation": "Określniki."
+      },
+      {
+        "id": "b1-both-either-neither-1-07",
+        "type": "error",
+        "prompt": "Both of they are tired.",
+        "answer": [
+          "they",
+          "them"
+        ],
+        "explanation": "Po of: them."
+      },
+      {
+        "id": "b1-both-either-neither-1-08",
+        "type": "tiles",
+        "prompt": "Żaden z nich (dwóch) nie mówi po polsku.",
+        "answer": [
+          "Neither",
+          "of",
+          "them",
+          "speaks",
+          "Polish"
+        ],
+        "distractors": [
+          "both",
+          "don't"
+        ],
+        "explanation": "Neither ma już przeczenie."
+      },
+      {
+        "id": "b1-both-either-neither-1-09",
+        "type": "translate",
+        "prompt": "Oboje jesteśmy zmęczeni.",
+        "answer": "We are both tired.",
+        "accept": [
+          "Both of us are tired."
+        ],
+        "explanation": "Both."
+      },
+      {
+        "id": "b1-both-either-neither-1-10",
+        "type": "transform",
+        "prompt": "Połącz zdania słowem „both”, zacznij od „Both”.\nAnna is a doctor. Her sister is a doctor.",
+        "answer": "Both Anna and her sister are doctors.",
+        "explanation": "Both ... and."
+      }
+    ]
+  },
+  {
+    "id": "b1-both-either-neither-2",
+    "topicId": "b1-both-either-neither",
+    "exercises": [
+      {
+        "id": "b1-both-either-neither-2-01",
+        "type": "cloze",
+        "prompt": "I'd like ___ coffee or tea. I don't mind. (albo... albo)",
+        "answer": "either",
+        "explanation": "Either ... or."
+      },
+      {
+        "id": "b1-both-either-neither-2-02",
+        "type": "cloze",
+        "prompt": "She speaks ___ English nor German. (ani... ani)",
+        "answer": "neither",
+        "explanation": "Neither ... nor."
+      },
+      {
+        "id": "b1-both-either-neither-2-03",
+        "type": "cloze",
+        "prompt": "___ Tom and Jerry are cartoon characters.",
+        "answer": "Both",
+        "explanation": "Both ... and."
+      },
+      {
+        "id": "b1-both-either-neither-2-04",
+        "type": "choice",
+        "prompt": "___ of the students passed the exam. It was too difficult.",
+        "answer": "None",
+        "distractors": [
+          "Neither",
+          "All"
+        ],
+        "explanation": "Wielu studentów, żaden: none."
+      },
+      {
+        "id": "b1-both-either-neither-2-05",
+        "type": "choice",
+        "prompt": "Which one do you want? — I don't want ___ of them.",
+        "answer": "either",
+        "distractors": [
+          "neither",
+          "both"
+        ],
+        "explanation": "Przeczenie + either."
+      },
+      {
+        "id": "b1-both-either-neither-2-06",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „neither ... nor”, zacznij od „He”.\nHe doesn't drink. He doesn't smoke.",
+        "answer": "He neither drinks nor smokes.",
+        "explanation": "Neither ... nor bez dodatkowego przeczenia."
+      },
+      {
+        "id": "b1-both-either-neither-2-07",
+        "type": "transform",
+        "prompt": "Połącz zdania, użyj „either ... or”, zacznij od „We can”.\nWe can go by bus. Or we can go by train.",
+        "answer": "We can go either by bus or by train.",
+        "accept": [
+          "We can either go by bus or by train.",
+          "We can go by either bus or train.",
+          "We can either go by bus or go by train."
+        ],
+        "explanation": "Either ... or."
+      },
+      {
+        "id": "b1-both-either-neither-2-08",
+        "type": "tiles",
+        "prompt": "Wszyscy moi przyjaciele lubią piłkę nożną.",
+        "answer": [
+          "All",
+          "my",
+          "friends",
+          "like",
+          "football"
+        ],
+        "distractors": [
+          "Both",
+          "none"
+        ],
+        "explanation": "Wszyscy: all."
+      },
+      {
+        "id": "b1-both-either-neither-2-09",
+        "type": "error",
+        "prompt": "Neither Tom or Mark came.",
+        "answer": [
+          "or",
+          "nor"
+        ],
+        "explanation": "Neither ... nor."
+      },
+      {
+        "id": "b1-both-either-neither-2-10",
+        "type": "translate",
+        "prompt": "Żadna z tych odpowiedzi nie jest poprawna.",
+        "answer": "None of these answers is correct.",
+        "accept": [
+          "None of these answers are correct.",
+          "None of the answers is correct.",
+          "None of the answers are correct."
+        ],
+        "explanation": "Żadna (z wielu): none."
+      }
+    ]
+  },
+  {
+    "id": "b1-both-either-neither-3",
+    "topicId": "b1-both-either-neither",
+    "exercises": [
+      {
+        "id": "b1-both-either-neither-3-01",
+        "type": "choice",
+        "prompt": "I have two brothers. ___ of them live in London.",
+        "answer": "Both",
+        "distractors": [
+          "All",
+          "Either"
+        ],
+        "explanation": "Dwóch: both."
+      },
+      {
+        "id": "b1-both-either-neither-3-02",
+        "type": "choice",
+        "prompt": "There were five cakes, but ___ of them were left.",
+        "answer": "none",
+        "distractors": [
+          "neither",
+          "either"
+        ],
+        "explanation": "Z pięciu żaden: none."
+      },
+      {
+        "id": "b1-both-either-neither-3-03",
+        "type": "choice",
+        "prompt": "Can you come on Monday or Tuesday? — Sorry, ___ day is OK.",
+        "answer": "neither",
+        "distractors": [
+          "either",
+          "both"
+        ],
+        "explanation": "Żaden z dwóch: neither."
+      },
+      {
+        "id": "b1-both-either-neither-3-04",
+        "type": "cloze",
+        "prompt": "___ the students in my class are from Poland. (wszyscy)",
+        "answer": "All",
+        "explanation": "Wszyscy: all."
+      },
+      {
+        "id": "b1-both-either-neither-3-05",
+        "type": "cloze",
+        "prompt": "I've got two sisters, but ___ of them lives near me. (żadna)",
+        "answer": "neither",
+        "explanation": "Żadna z dwóch: neither."
+      },
+      {
+        "id": "b1-both-either-neither-3-06",
+        "type": "error",
+        "prompt": "All of them was very kind.",
+        "answer": [
+          "was",
+          "were"
+        ],
+        "explanation": "All of them – liczba mnoga."
+      },
+      {
+        "id": "b1-both-either-neither-3-07",
+        "type": "error",
+        "prompt": "Both of the answer are correct.",
+        "answer": [
+          "answer",
+          "answers"
+        ],
+        "explanation": "Both of + liczba mnoga."
+      },
+      {
+        "id": "b1-both-either-neither-3-08",
+        "type": "tiles",
+        "prompt": "Możesz wziąć którąkolwiek z tych dwóch książek.",
+        "answer": [
+          "You",
+          "can",
+          "take",
+          "either",
+          "of",
+          "these",
+          "two",
+          "books"
+        ],
+        "distractors": [
+          "both",
+          "neither"
+        ],
+        "explanation": "Którakolwiek z dwóch: either."
+      },
+      {
+        "id": "b1-both-either-neither-3-09",
+        "type": "translate",
+        "prompt": "Lubię oba te filmy.",
+        "answer": "I like both of these films.",
+        "accept": [
+          "I like both these films.",
+          "I like both films.",
+          "I like both of the films.",
+          "I like both of these movies.",
+          "I like both movies."
+        ],
+        "explanation": "Both."
+      },
+      {
+        "id": "b1-both-either-neither-3-10",
+        "type": "match",
+        "prompt": "Połącz pary z tłumaczeniem.",
+        "answer": [
+          "both ... and|i ... i",
+          "either ... or|albo ... albo",
+          "neither ... nor|ani ... ani"
+        ],
+        "explanation": "Pary spójników."
+      }
+    ]
+  }
+]

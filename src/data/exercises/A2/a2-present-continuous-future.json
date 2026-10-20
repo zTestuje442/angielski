@@ -1,0 +1,314 @@
+[
+  {
+    "id": "a2-present-continuous-future-1",
+    "topicId": "a2-present-continuous-future",
+    "exercises": [
+      {
+        "id": "a2-present-continuous-future-1-01",
+        "type": "cloze",
+        "prompt": "I ___ meeting Tom at six tomorrow.",
+        "answer": "am",
+        "explanation": "Umówione spotkanie: am meeting."
+      },
+      {
+        "id": "a2-present-continuous-future-1-02",
+        "type": "cloze",
+        "prompt": "We are ___ to Rome next week. (fly)",
+        "answer": "flying",
+        "explanation": "Ustalony plan: are flying."
+      },
+      {
+        "id": "a2-present-continuous-future-1-03",
+        "type": "choice",
+        "prompt": "What ___ you doing on Saturday?",
+        "answer": "are",
+        "distractors": [
+          "do",
+          "will"
+        ],
+        "explanation": "Pytanie o plany: What are you doing?"
+      },
+      {
+        "id": "a2-present-continuous-future-1-04",
+        "type": "choice",
+        "prompt": "She ___ a party on Friday.",
+        "answer": "is having",
+        "distractors": [
+          "has",
+          "have"
+        ],
+        "explanation": "Ustalony plan: is having."
+      },
+      {
+        "id": "a2-present-continuous-future-1-05",
+        "type": "cloze",
+        "prompt": "They ___ getting married in June.",
+        "answer": "are",
+        "explanation": "They + are + -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-1-06",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "tonight|dziś wieczorem",
+          "tomorrow|jutro",
+          "next week|w przyszłym tygodniu",
+          "on Friday|w piątek"
+        ],
+        "explanation": "Określenia przyszłości."
+      },
+      {
+        "id": "a2-present-continuous-future-1-07",
+        "type": "error",
+        "prompt": "I'm see the dentist tomorrow.",
+        "answer": [
+          "see",
+          "seeing"
+        ],
+        "explanation": "Po am potrzebna forma -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-1-08",
+        "type": "tiles",
+        "prompt": "Jutro gram w tenisa z Anną.",
+        "answer": [
+          "I",
+          "am",
+          "playing",
+          "tennis",
+          "with",
+          "Anna",
+          "tomorrow"
+        ],
+        "accept": [
+          "Tomorrow I am playing tennis with Anna"
+        ],
+        "explanation": "Umówione: am playing."
+      },
+      {
+        "id": "a2-present-continuous-future-1-09",
+        "type": "translate",
+        "prompt": "Co robisz dziś wieczorem?",
+        "answer": "What are you doing tonight?",
+        "accept": [
+          "What are you doing this evening?"
+        ],
+        "explanation": "Plany: What are you doing...?"
+      },
+      {
+        "id": "a2-present-continuous-future-1-10",
+        "type": "transform",
+        "prompt": "Zapisz plan w Present Continuous, zacznij od „I”.\npiątek – kolacja z Kate",
+        "answer": "I am having dinner with Kate on Friday.",
+        "accept": [
+          "On Friday I am having dinner with Kate."
+        ],
+        "explanation": "Am having + on Friday."
+      }
+    ]
+  },
+  {
+    "id": "a2-present-continuous-future-2",
+    "topicId": "a2-present-continuous-future",
+    "exercises": [
+      {
+        "id": "a2-present-continuous-future-2-01",
+        "type": "cloze",
+        "prompt": "I'm sorry, I can't come. I ___ working on Sunday.",
+        "answer": "am",
+        "explanation": "Am working."
+      },
+      {
+        "id": "a2-present-continuous-future-2-02",
+        "type": "cloze",
+        "prompt": "___ you coming to the party?",
+        "answer": "Are",
+        "explanation": "Pytanie: Are you coming?"
+      },
+      {
+        "id": "a2-present-continuous-future-2-03",
+        "type": "cloze",
+        "prompt": "Is he leaving tomorrow? — Yes, he ___.",
+        "answer": "is",
+        "explanation": "Krótka odpowiedź: Yes, he is."
+      },
+      {
+        "id": "a2-present-continuous-future-2-04",
+        "type": "choice",
+        "prompt": "We ___ visiting my parents this weekend.",
+        "answer": "are",
+        "distractors": [
+          "will",
+          "do"
+        ],
+        "explanation": "We + are + -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-2-05",
+        "type": "choice",
+        "prompt": "My sister ___ to Canada next month.",
+        "answer": "is moving",
+        "distractors": [
+          "moves",
+          "move"
+        ],
+        "explanation": "Ustalony plan: is moving."
+      },
+      {
+        "id": "a2-present-continuous-future-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nWe are going out tonight.",
+        "answer": "We are not going out tonight.",
+        "explanation": "Are not + -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThey are coming on Monday.",
+        "answer": "Are they coming on Monday?",
+        "explanation": "Are przed podmiotem."
+      },
+      {
+        "id": "a2-present-continuous-future-2-08",
+        "type": "tiles",
+        "prompt": "Nie pracuję jutro.",
+        "answer": [
+          "I",
+          "am",
+          "not",
+          "working",
+          "tomorrow"
+        ],
+        "explanation": "Am not + -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-2-09",
+        "type": "error",
+        "prompt": "Are you do anything tonight?",
+        "answer": [
+          "do",
+          "doing"
+        ],
+        "explanation": "Po are potrzebna forma -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-2-10",
+        "type": "translate",
+        "prompt": "Spotykam się z przyjaciółmi w sobotę.",
+        "answer": "I am meeting my friends on Saturday.",
+        "accept": [
+          "I am meeting friends on Saturday.",
+          "On Saturday I am meeting my friends.",
+          "On Saturday I am meeting friends."
+        ],
+        "explanation": "Umówione: am meeting."
+      }
+    ]
+  },
+  {
+    "id": "a2-present-continuous-future-3",
+    "topicId": "a2-present-continuous-future",
+    "exercises": [
+      {
+        "id": "a2-present-continuous-future-3-01",
+        "type": "choice",
+        "prompt": "I ___ my hair cut tomorrow at 10. I've booked it.",
+        "answer": "am having",
+        "distractors": [
+          "will have",
+          "have"
+        ],
+        "explanation": "Umówione: am having."
+      },
+      {
+        "id": "a2-present-continuous-future-3-02",
+        "type": "choice",
+        "prompt": "Are you free on Monday? — No, I ___ to Kraków.",
+        "answer": "am driving",
+        "distractors": [
+          "drive",
+          "drove"
+        ],
+        "explanation": "Plan na poniedziałek: am driving."
+      },
+      {
+        "id": "a2-present-continuous-future-3-03",
+        "type": "cloze",
+        "prompt": "We ___ a meeting at 3 p.m. today. (have)",
+        "answer": "are having",
+        "explanation": "Umówione: are having."
+      },
+      {
+        "id": "a2-present-continuous-future-3-04",
+        "type": "cloze",
+        "prompt": "My parents ___ for dinner tonight. (come)",
+        "answer": "are coming",
+        "explanation": "Umówione: are coming."
+      },
+      {
+        "id": "a2-present-continuous-future-3-05",
+        "type": "match",
+        "prompt": "Połącz zdania z ich znaczeniem.",
+        "answer": [
+          "I'm meeting Tom at 6.|umówione spotkanie",
+          "I'm going to learn French.|zamiar",
+          "I'll open the window.|decyzja teraz",
+          "It'll be sunny tomorrow.|przewidywanie"
+        ],
+        "explanation": "Trzy sposoby mówienia o przyszłości."
+      },
+      {
+        "id": "a2-present-continuous-future-3-06",
+        "type": "error",
+        "prompt": "We are go to the cinema tonight.",
+        "answer": [
+          "go",
+          "going"
+        ],
+        "explanation": "Po are potrzebna forma -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-3-07",
+        "type": "error",
+        "prompt": "Is your brother come to the wedding?",
+        "answer": [
+          "come",
+          "coming"
+        ],
+        "explanation": "Po is potrzebna forma -ing."
+      },
+      {
+        "id": "a2-present-continuous-future-3-08",
+        "type": "tiles",
+        "prompt": "Kiedy wyjeżdżasz?",
+        "answer": [
+          "When",
+          "are",
+          "you",
+          "leaving"
+        ],
+        "explanation": "When + are + you + leaving."
+      },
+      {
+        "id": "a2-present-continuous-future-3-09",
+        "type": "translate",
+        "prompt": "Jutro lecę do Paryża.",
+        "answer": "I am flying to Paris tomorrow.",
+        "accept": [
+          "Tomorrow I am flying to Paris.",
+          "I am going to Paris tomorrow.",
+          "I am going to fly to Paris tomorrow."
+        ],
+        "explanation": "Ustalony plan: am flying."
+      },
+      {
+        "id": "a2-present-continuous-future-3-10",
+        "type": "transform",
+        "prompt": "Zmień podmiot na „she”.\nI am working late tonight.",
+        "answer": "She is working late tonight.",
+        "explanation": "She + is."
+      }
+    ]
+  }
+]

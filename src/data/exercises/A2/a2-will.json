@@ -1,0 +1,312 @@
+[
+  {
+    "id": "a2-will-1",
+    "topicId": "a2-will",
+    "exercises": [
+      {
+        "id": "a2-will-1-01",
+        "type": "cloze",
+        "prompt": "I think it ___ be sunny tomorrow.",
+        "answer": "will",
+        "explanation": "Opinia o przyszłości: will."
+      },
+      {
+        "id": "a2-will-1-02",
+        "type": "cloze",
+        "prompt": "Don't worry, I ___ help you.",
+        "answer": "will",
+        "explanation": "Obietnica: will."
+      },
+      {
+        "id": "a2-will-1-03",
+        "type": "choice",
+        "prompt": "I'm cold. — I ___ close the window.",
+        "answer": "will",
+        "distractors": [
+          "am going to",
+          "am"
+        ],
+        "explanation": "Decyzja w chwili mówienia: will."
+      },
+      {
+        "id": "a2-will-1-04",
+        "type": "choice",
+        "prompt": "Maybe she ___ come later.",
+        "answer": "will",
+        "distractors": [
+          "is",
+          "does"
+        ],
+        "explanation": "Przypuszczenie: will."
+      },
+      {
+        "id": "a2-will-1-05",
+        "type": "cloze",
+        "prompt": "People ___ live on Mars one day.",
+        "answer": "will",
+        "explanation": "Przewidywanie: will."
+      },
+      {
+        "id": "a2-will-1-06",
+        "type": "match",
+        "prompt": "Połącz pełne formy ze skrótami.",
+        "answer": [
+          "I will|I'll",
+          "you will|you'll",
+          "will not|won't",
+          "it will|it'll"
+        ],
+        "explanation": "Skróty z will."
+      },
+      {
+        "id": "a2-will-1-07",
+        "type": "error",
+        "prompt": "She will comes tomorrow.",
+        "answer": [
+          "comes",
+          "come"
+        ],
+        "explanation": "Po will forma podstawowa."
+      },
+      {
+        "id": "a2-will-1-08",
+        "type": "tiles",
+        "prompt": "Myślę, że ona zda egzamin.",
+        "answer": [
+          "I",
+          "think",
+          "she",
+          "will",
+          "pass",
+          "the",
+          "exam"
+        ],
+        "explanation": "I think + will."
+      },
+      {
+        "id": "a2-will-1-09",
+        "type": "translate",
+        "prompt": "Zadzwonię do ciebie jutro.",
+        "answer": "I will call you tomorrow.",
+        "accept": [
+          "I will phone you tomorrow.",
+          "I will ring you tomorrow.",
+          "Tomorrow I will call you."
+        ],
+        "explanation": "Obietnica: will."
+      },
+      {
+        "id": "a2-will-1-10",
+        "type": "transform",
+        "prompt": "Zapisz w przyszłości z „will” i dodaj „tomorrow” na końcu.\nIt is hot.",
+        "answer": "It will be hot tomorrow.",
+        "explanation": "Will + be."
+      }
+    ]
+  },
+  {
+    "id": "a2-will-2",
+    "topicId": "a2-will",
+    "exercises": [
+      {
+        "id": "a2-will-2-01",
+        "type": "cloze",
+        "prompt": "I ___ forget your birthday, I promise.",
+        "answer": "won't",
+        "explanation": "Obietnica w przeczeniu: won't."
+      },
+      {
+        "id": "a2-will-2-02",
+        "type": "cloze",
+        "prompt": "___ you help me with this box?",
+        "answer": "Will",
+        "explanation": "Prośba: Will you...?"
+      },
+      {
+        "id": "a2-will-2-03",
+        "type": "cloze",
+        "prompt": "Will it be expensive? — No, it ___.",
+        "answer": "won't",
+        "explanation": "Krótka odpowiedź: No, it won't."
+      },
+      {
+        "id": "a2-will-2-04",
+        "type": "choice",
+        "prompt": "___ I open the window?",
+        "answer": "Shall",
+        "distractors": [
+          "Will",
+          "Do"
+        ],
+        "explanation": "Propozycja z I: Shall I...?"
+      },
+      {
+        "id": "a2-will-2-05",
+        "type": "choice",
+        "prompt": "I'm sure you ___ love this book.",
+        "answer": "will",
+        "distractors": [
+          "are",
+          "do"
+        ],
+        "explanation": "Przewidywanie: will."
+      },
+      {
+        "id": "a2-will-2-06",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nThey will win.",
+        "answer": "They will not win.",
+        "explanation": "Will not = won't."
+      },
+      {
+        "id": "a2-will-2-07",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou will be at home.",
+        "answer": "Will you be at home?",
+        "explanation": "Will przechodzi przed podmiot."
+      },
+      {
+        "id": "a2-will-2-08",
+        "type": "tiles",
+        "prompt": "Nie powiem nikomu.",
+        "answer": [
+          "I",
+          "won't",
+          "tell",
+          "anyone"
+        ],
+        "explanation": "Obietnica: won't."
+      },
+      {
+        "id": "a2-will-2-09",
+        "type": "error",
+        "prompt": "I willn't be late.",
+        "answer": [
+          "willn't",
+          "won't"
+        ],
+        "explanation": "Przeczenie will to won't."
+      },
+      {
+        "id": "a2-will-2-10",
+        "type": "translate",
+        "prompt": "Czy otworzysz drzwi?",
+        "answer": "Will you open the door?",
+        "accept": [
+          "Can you open the door?",
+          "Could you open the door?"
+        ],
+        "explanation": "Prośba: Will you...?"
+      }
+    ]
+  },
+  {
+    "id": "a2-will-3",
+    "topicId": "a2-will",
+    "exercises": [
+      {
+        "id": "a2-will-3-01",
+        "type": "choice",
+        "prompt": "I've decided. I ___ study law.",
+        "answer": "am going to",
+        "distractors": [
+          "will",
+          "shall"
+        ],
+        "explanation": "Plan podjęty wcześniej: going to."
+      },
+      {
+        "id": "a2-will-3-02",
+        "type": "choice",
+        "prompt": "The phone is ringing. — OK, I ___ answer it.",
+        "answer": "will",
+        "distractors": [
+          "am going to",
+          "going to"
+        ],
+        "explanation": "Decyzja teraz: will."
+      },
+      {
+        "id": "a2-will-3-03",
+        "type": "choice",
+        "prompt": "Look! That car ___ crash!",
+        "answer": "is going to",
+        "distractors": [
+          "will",
+          "shall"
+        ],
+        "explanation": "Widać, co się stanie: going to."
+      },
+      {
+        "id": "a2-will-3-04",
+        "type": "cloze",
+        "prompt": "I promise I ___ be on time.",
+        "answer": "will",
+        "explanation": "Obietnica: will."
+      },
+      {
+        "id": "a2-will-3-05",
+        "type": "cloze",
+        "prompt": "We've got the tickets. We ___ going to see the match on Saturday.",
+        "answer": "are",
+        "explanation": "Plan: are going to."
+      },
+      {
+        "id": "a2-will-3-06",
+        "type": "match",
+        "prompt": "Połącz zastosowanie z przykładem.",
+        "answer": [
+          "decyzja w chwili mówienia|I'll have the soup.",
+          "wcześniejszy plan|I'm going to visit Paris in May.",
+          "obietnica|I won't tell anyone.",
+          "przewidywanie z tego, co widać|It's going to rain."
+        ],
+        "explanation": "Will czy going to."
+      },
+      {
+        "id": "a2-will-3-07",
+        "type": "error",
+        "prompt": "I think it is rain tomorrow.",
+        "answer": [
+          "is",
+          "will"
+        ],
+        "explanation": "Opinia o przyszłości: I think it will rain."
+      },
+      {
+        "id": "a2-will-3-08",
+        "type": "error",
+        "prompt": "I'll calling you later.",
+        "answer": [
+          "calling",
+          "call"
+        ],
+        "explanation": "Po will forma podstawowa."
+      },
+      {
+        "id": "a2-will-3-09",
+        "type": "tiles",
+        "prompt": "Chyba wezmę rybę.",
+        "answer": [
+          "I",
+          "think",
+          "I'll",
+          "have",
+          "the",
+          "fish"
+        ],
+        "explanation": "Decyzja teraz: I'll."
+      },
+      {
+        "id": "a2-will-3-10",
+        "type": "translate",
+        "prompt": "Myślę, że będzie padać.",
+        "answer": "I think it will rain.",
+        "accept": [
+          "I think it is going to rain."
+        ],
+        "explanation": "Opinia: I think + will."
+      }
+    ]
+  }
+]

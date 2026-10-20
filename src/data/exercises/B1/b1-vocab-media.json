@@ -1,0 +1,332 @@
+[
+  {
+    "id": "b1-vocab-media-1",
+    "topicId": "b1-vocab-media",
+    "exercises": [
+      {
+        "id": "b1-vocab-media-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "headline|nagłówek",
+          "journalist|dziennikarz",
+          "article|artykuł",
+          "advert|reklama"
+        ],
+        "explanation": "Prasa."
+      },
+      {
+        "id": "b1-vocab-media-1-02",
+        "type": "choice",
+        "prompt": "I read an interesting ___ about climate change.",
+        "answer": "article",
+        "distractors": [
+          "headline",
+          "channel"
+        ],
+        "explanation": "Artykuł: article."
+      },
+      {
+        "id": "b1-vocab-media-1-03",
+        "type": "choice",
+        "prompt": "What's ___ TV tonight?",
+        "answer": "on",
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "On TV."
+      },
+      {
+        "id": "b1-vocab-media-1-04",
+        "type": "cloze",
+        "prompt": "The news is ___ at 7 p.m. every day. (nadawane)",
+        "answer": "broadcast",
+        "accept": [
+          "on"
+        ],
+        "explanation": "Nadawać: broadcast."
+      },
+      {
+        "id": "b1-vocab-media-1-05",
+        "type": "cloze",
+        "prompt": "I prefer reading the news ___. (w internecie)",
+        "answer": "online",
+        "explanation": "W internecie: online."
+      },
+      {
+        "id": "b1-vocab-media-1-06",
+        "type": "error",
+        "prompt": "The news are very bad today.",
+        "answer": [
+          "are",
+          "is"
+        ],
+        "explanation": "News jest niepoliczalne: is."
+      },
+      {
+        "id": "b1-vocab-media-1-07",
+        "type": "tiles",
+        "prompt": "Ona pracuje jako dziennikarka.",
+        "answer": [
+          "She",
+          "works",
+          "as",
+          "a",
+          "journalist"
+        ],
+        "distractors": [
+          "like",
+          "journal"
+        ],
+        "explanation": "Work as."
+      },
+      {
+        "id": "b1-vocab-media-1-08",
+        "type": "translate",
+        "prompt": "Nie wierzę we wszystko, co czytam w internecie.",
+        "answer": "I do not believe everything I read online.",
+        "accept": [
+          "I do not believe everything I read on the internet.",
+          "I do not believe everything that I read online.",
+          "I do not believe everything that I read on the internet."
+        ],
+        "explanation": "W internecie: online / on the internet."
+      },
+      {
+        "id": "b1-vocab-media-1-09",
+        "type": "transform",
+        "prompt": "Utwórz nazwę osoby.\njournal",
+        "answer": "journalist",
+        "explanation": "Journal + -ist."
+      },
+      {
+        "id": "b1-vocab-media-1-10",
+        "type": "choice",
+        "prompt": "A TV programme with facts about animals is a ___.",
+        "answer": "documentary",
+        "distractors": [
+          "soap opera",
+          "sitcom"
+        ],
+        "explanation": "Dokument: documentary."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-media-2",
+    "topicId": "b1-vocab-media",
+    "exercises": [
+      {
+        "id": "b1-vocab-media-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "soap opera|telenowela",
+          "sitcom|serial komediowy",
+          "quiz show|teleturniej",
+          "series|serial"
+        ],
+        "explanation": "Programy telewizyjne."
+      },
+      {
+        "id": "b1-vocab-media-2-02",
+        "type": "cloze",
+        "prompt": "I watched the whole ___ of the series in one weekend. (sezon)",
+        "answer": "season",
+        "explanation": "Sezon: season."
+      },
+      {
+        "id": "b1-vocab-media-2-03",
+        "type": "cloze",
+        "prompt": "Turn ___ the TV, please. I want to watch the match. (włącz)",
+        "answer": "on",
+        "explanation": "Włączyć: turn on."
+      },
+      {
+        "id": "b1-vocab-media-2-04",
+        "type": "choice",
+        "prompt": "Can you ___ the channel? This is boring.",
+        "answer": "change",
+        "distractors": [
+          "switch off",
+          "move"
+        ],
+        "explanation": "Zmienić kanał: change the channel."
+      },
+      {
+        "id": "b1-vocab-media-2-05",
+        "type": "choice",
+        "prompt": "The film is in English with Polish ___.",
+        "answer": "subtitles",
+        "distractors": [
+          "titles",
+          "undertitles"
+        ],
+        "explanation": "Napisy: subtitles."
+      },
+      {
+        "id": "b1-vocab-media-2-06",
+        "type": "error",
+        "prompt": "I saw it in the TV.",
+        "answer": [
+          "in",
+          "on"
+        ],
+        "explanation": "On TV."
+      },
+      {
+        "id": "b1-vocab-media-2-07",
+        "type": "error",
+        "prompt": "There was an advertisment on every page.",
+        "answer": [
+          "advertisment",
+          "advertisement"
+        ],
+        "explanation": "Pisownia: advertisement."
+      },
+      {
+        "id": "b1-vocab-media-2-08",
+        "type": "tiles",
+        "prompt": "Co dziś leci w telewizji?",
+        "answer": [
+          "What's",
+          "on",
+          "TV",
+          "tonight"
+        ],
+        "distractors": [
+          "in",
+          "at"
+        ],
+        "explanation": "What's on TV?"
+      },
+      {
+        "id": "b1-vocab-media-2-09",
+        "type": "translate",
+        "prompt": "Lubię oglądać filmy dokumentalne.",
+        "answer": "I like watching documentaries.",
+        "accept": [
+          "I like to watch documentaries.",
+          "I enjoy watching documentaries."
+        ],
+        "explanation": "Dokumenty: documentaries."
+      },
+      {
+        "id": "b1-vocab-media-2-10",
+        "type": "transform",
+        "prompt": "Napisz liczbę mnogą.\nseries",
+        "answer": "series",
+        "explanation": "Series ma taką samą liczbę mnogą."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-media-3",
+    "topicId": "b1-vocab-media",
+    "exercises": [
+      {
+        "id": "b1-vocab-media-3-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "fake news|fałszywe wiadomości",
+          "source|źródło",
+          "reliable|wiarygodny",
+          "biased|stronniczy"
+        ],
+        "explanation": "Wiarygodność informacji."
+      },
+      {
+        "id": "b1-vocab-media-3-02",
+        "type": "cloze",
+        "prompt": "Always check the ___ of the information. (źródło)",
+        "answer": "source",
+        "explanation": "Źródło: source."
+      },
+      {
+        "id": "b1-vocab-media-3-03",
+        "type": "cloze",
+        "prompt": "I listen to a ___ about history on my way to work.",
+        "answer": "podcast",
+        "explanation": "Podcast."
+      },
+      {
+        "id": "b1-vocab-media-3-04",
+        "type": "choice",
+        "prompt": "Millions of people ___ this video on YouTube.",
+        "answer": "watched",
+        "distractors": [
+          "looked",
+          "saw at"
+        ],
+        "explanation": "Oglądać: watch."
+      },
+      {
+        "id": "b1-vocab-media-3-05",
+        "type": "choice",
+        "prompt": "This newspaper is very ___ – it only shows one side of the story.",
+        "answer": "biased",
+        "distractors": [
+          "reliable",
+          "fair"
+        ],
+        "explanation": "Stronniczy: biased."
+      },
+      {
+        "id": "b1-vocab-media-3-06",
+        "type": "error",
+        "prompt": "I read it on a newspaper.",
+        "answer": [
+          "on",
+          "in"
+        ],
+        "explanation": "In a newspaper."
+      },
+      {
+        "id": "b1-vocab-media-3-07",
+        "type": "error",
+        "prompt": "The film had very good critics – everyone loved it.",
+        "answer": [
+          "critics",
+          "reviews"
+        ],
+        "explanation": "Recenzje: reviews (critics = krytycy)."
+      },
+      {
+        "id": "b1-vocab-media-3-08",
+        "type": "tiles",
+        "prompt": "Ten film ma świetne recenzje.",
+        "answer": [
+          "This",
+          "film",
+          "has",
+          "great",
+          "reviews"
+        ],
+        "distractors": [
+          "critics",
+          "got"
+        ],
+        "explanation": "Recenzje: reviews."
+      },
+      {
+        "id": "b1-vocab-media-3-09",
+        "type": "translate",
+        "prompt": "Gdzie to przeczytałeś?",
+        "answer": "Where did you read that?",
+        "accept": [
+          "Where did you read it?"
+        ],
+        "explanation": "Past Simple: did you read."
+      },
+      {
+        "id": "b1-vocab-media-3-10",
+        "type": "transform",
+        "prompt": "Utwórz nazwę osoby (np. prezenter telewizyjny).\npresent",
+        "answer": "presenter",
+        "explanation": "Present + -er."
+      }
+    ]
+  }
+]

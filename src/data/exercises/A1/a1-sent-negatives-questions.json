@@ -1,0 +1,294 @@
+[
+  {
+    "id": "a1-sent-negatives-questions-1",
+    "topicId": "a1-sent-negatives-questions",
+    "exercises": [
+      {
+        "id": "a1-sent-negatives-questions-1-01",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nI like tea.",
+        "answer": "I do not like tea.",
+        "explanation": "Zwykły czasownik: don't + like."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-02",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nShe is at home.",
+        "answer": "She is not at home.",
+        "explanation": "To be: is not (isn't)."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-03",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nWe can swim.",
+        "answer": "We cannot swim.",
+        "explanation": "Can: can't (cannot)."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-04",
+        "type": "transform",
+        "prompt": "Napisz przeczenie.\nHe plays tennis.",
+        "answer": "He does not play tennis.",
+        "explanation": "He: doesn't + play (bez -s)."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-05",
+        "type": "choice",
+        "prompt": "I ___ understand.",
+        "answer": "don't",
+        "distractors": [
+          "not",
+          "no"
+        ],
+        "explanation": "Zwykły czasownik: don't."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-06",
+        "type": "choice",
+        "prompt": "They ___ here.",
+        "answer": "aren't",
+        "distractors": [
+          "don't",
+          "not"
+        ],
+        "explanation": "To be: aren't."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-07",
+        "type": "error",
+        "prompt": "He don't work here.",
+        "answer": [
+          "don't",
+          "doesn't"
+        ],
+        "explanation": "He + doesn't."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-08",
+        "type": "error",
+        "prompt": "We doesn't know.",
+        "answer": [
+          "doesn't",
+          "don't"
+        ],
+        "explanation": "We + don't."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-09",
+        "type": "tiles",
+        "prompt": "Nie mówię po niemiecku.",
+        "answer": [
+          "I",
+          "don't",
+          "speak",
+          "German"
+        ],
+        "explanation": "Don't + speak."
+      },
+      {
+        "id": "a1-sent-negatives-questions-1-10",
+        "type": "translate",
+        "prompt": "To nie jest mój pies.",
+        "answer": "This is not my dog.",
+        "accept": [
+          "That is not my dog.",
+          "It is not my dog."
+        ],
+        "explanation": "To be: is not."
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-negatives-questions-2",
+    "topicId": "a1-sent-negatives-questions",
+    "exercises": [
+      {
+        "id": "a1-sent-negatives-questions-2-01",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nYou are tired.",
+        "answer": "Are you tired?",
+        "explanation": "To be przed podmiotem."
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-02",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nThey live here.",
+        "answer": "Do they live here?",
+        "explanation": "Do + they + live."
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-03",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nShe can drive.",
+        "answer": "Can she drive?",
+        "explanation": "Can przed podmiotem."
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-04",
+        "type": "transform",
+        "prompt": "Zamień na pytanie.\nHe works at night.",
+        "answer": "Does he work at night?",
+        "explanation": "Does + he + work (bez -s)."
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-05",
+        "type": "choice",
+        "prompt": "___ you hungry?",
+        "answer": "Are",
+        "distractors": [
+          "Do",
+          "Have"
+        ],
+        "explanation": "Hungry to przymiotnik, więc to be: Are you...?"
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-06",
+        "type": "choice",
+        "prompt": "___ he like football?",
+        "answer": "Does",
+        "distractors": [
+          "Is",
+          "Do"
+        ],
+        "explanation": "Zwykły czasownik i he: Does...?"
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-07",
+        "type": "error",
+        "prompt": "Do she speak French?",
+        "answer": [
+          "Do",
+          "Does"
+        ],
+        "explanation": "She + does."
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-08",
+        "type": "error",
+        "prompt": "Are you like coffee?",
+        "answer": [
+          "Are",
+          "Do"
+        ],
+        "explanation": "Like to zwykły czasownik: Do you like...?"
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-09",
+        "type": "tiles",
+        "prompt": "Czy masz rower?",
+        "answer": [
+          "Have",
+          "you",
+          "got",
+          "a",
+          "bike"
+        ],
+        "explanation": "Pytanie z have got."
+      },
+      {
+        "id": "a1-sent-negatives-questions-2-10",
+        "type": "translate",
+        "prompt": "Czy oni są w pracy?",
+        "answer": "Are they at work?",
+        "explanation": "To be: Are they...?"
+      }
+    ]
+  },
+  {
+    "id": "a1-sent-negatives-questions-3",
+    "topicId": "a1-sent-negatives-questions",
+    "exercises": [
+      {
+        "id": "a1-sent-negatives-questions-3-01",
+        "type": "cloze",
+        "prompt": "Are you a student? — Yes, I ___.",
+        "answer": "am",
+        "explanation": "Krótka odpowiedź: Yes, I am."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-02",
+        "type": "cloze",
+        "prompt": "Does she like cats? — No, she ___.",
+        "answer": "doesn't",
+        "explanation": "Krótka odpowiedź: No, she doesn't."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-03",
+        "type": "cloze",
+        "prompt": "Can you swim? — Yes, I ___.",
+        "answer": "can",
+        "explanation": "Krótka odpowiedź: Yes, I can."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-04",
+        "type": "cloze",
+        "prompt": "Did they win? — No, they ___.",
+        "answer": "didn't",
+        "explanation": "Krótka odpowiedź: No, they didn't."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-05",
+        "type": "match",
+        "prompt": "Połącz pytania z odpowiedziami.",
+        "answer": [
+          "Is it hot?|Yes, it is.",
+          "Do you work here?|No, I don't.",
+          "Can he cook?|Yes, he can.",
+          "Did she call?|No, she didn't."
+        ],
+        "explanation": "Krótka odpowiedź powtarza pomocnika z pytania."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-06",
+        "type": "choice",
+        "prompt": "Which question is correct?",
+        "answer": "Where do you work?",
+        "distractors": [
+          "Where you work?",
+          "Where you do work?"
+        ],
+        "explanation": "Słowo pytające + do + podmiot + czasownik."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-07",
+        "type": "choice",
+        "prompt": "Which question is correct?",
+        "answer": "What is your phone number?",
+        "distractors": [
+          "What your phone number is?",
+          "What is your phone number is?"
+        ],
+        "explanation": "Słowo pytające + is + podmiot."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-08",
+        "type": "tiles",
+        "prompt": "Czy wczoraj padało?",
+        "answer": [
+          "Did",
+          "it",
+          "rain",
+          "yesterday"
+        ],
+        "explanation": "Did + it + rain."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-09",
+        "type": "transform",
+        "prompt": "Zadaj pytanie o „at 7”.\nI get up at 7.",
+        "answer": "What time do you get up?",
+        "accept": [
+          "When do you get up?"
+        ],
+        "explanation": "What time + do + you + get up."
+      },
+      {
+        "id": "a1-sent-negatives-questions-3-10",
+        "type": "transform",
+        "prompt": "Odpowiedz krótko, przecząco.\nHave you got a car?",
+        "answer": "No, I haven't.",
+        "explanation": "Krótka odpowiedź z have got: No, I haven't."
+      }
+    ]
+  }
+]

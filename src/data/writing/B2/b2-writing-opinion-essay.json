@@ -1,0 +1,18 @@
+{
+  "topicId": "b2-writing-opinion-essay",
+  "task": "Twój nauczyciel poprosił o rozprawkę na temat:\n\n**„Working from home is better than working in an office.” Do you agree?**\n\n- przedstaw swoją opinię we wstępie,\n- podaj co najmniej dwa argumenty z przykładami,\n- odnieś się do opinii przeciwnej,\n- podsumuj i powtórz swoje zdanie innymi słowami.",
+  "words": [
+    140,
+    190
+  ],
+  "model": "Since the pandemic, more and more companies have allowed their employees to work from home. In my opinion, remote work has more advantages than disadvantages, although it is not suitable for everyone.\n\nFirstly, working from home saves a lot of time and money. For example, people who live far from the city centre no longer have to spend two hours a day in traffic. Instead, they can use this time to rest or do sport.\n\nSecondly, many people are more productive at home. There are fewer interruptions, and employees can organise their day in the way that suits them best.\n\nOn the other hand, some people argue that remote workers feel lonely and that teamwork suffers. This is partly true. However, regular online meetings and occasional days in the office can easily solve this problem.\n\nTo sum up, I strongly believe that working from home is the better option for most office workers, as long as companies find ways to keep their teams connected.",
+  "checklist": [
+    "Wstęp przedstawia temat i moją opinię.",
+    "Mam co najmniej dwa argumenty, każdy w osobnym akapicie, z przykładem.",
+    "Odnoszę się do opinii przeciwnej (On the other hand, some people argue that...) i odpowiadam na nią.",
+    "Używam słów łączących (Firstly, Moreover, However, For example, Although).",
+    "Zakończenie powtarza opinię innymi słowami (To sum up / In conclusion).",
+    "Styl neutralny: bez skrótów, bez zwrotów do czytelnika.",
+    "Tekst ma 4–5 akapitów i 140–190 słów."
+  ]
+}

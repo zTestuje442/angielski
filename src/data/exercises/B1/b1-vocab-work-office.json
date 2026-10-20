@@ -1,0 +1,346 @@
+[
+  {
+    "id": "b1-vocab-work-office-1",
+    "topicId": "b1-vocab-work-office",
+    "exercises": [
+      {
+        "id": "b1-vocab-work-office-1-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "agenda|porządek spotkania",
+          "deadline|termin",
+          "minutes|protokół ze spotkania",
+          "colleague|współpracownik"
+        ],
+        "explanation": "Słowa ze spotkań."
+      },
+      {
+        "id": "b1-vocab-work-office-1-02",
+        "type": "choice",
+        "prompt": "Let's ___ a meeting for Monday.",
+        "answer": "arrange",
+        "distractors": [
+          "make up",
+          "do"
+        ],
+        "explanation": "Umówić spotkanie: arrange a meeting."
+      },
+      {
+        "id": "b1-vocab-work-office-1-03",
+        "type": "choice",
+        "prompt": "The meeting has been ___ until next week.",
+        "answer": "postponed",
+        "distractors": [
+          "delayed off",
+          "cancelled out"
+        ],
+        "explanation": "Przełożone: postponed."
+      },
+      {
+        "id": "b1-vocab-work-office-1-04",
+        "type": "cloze",
+        "prompt": "Could you send me the ___ before the meeting? (porządek obrad)",
+        "answer": "agenda",
+        "explanation": "Porządek obrad: agenda."
+      },
+      {
+        "id": "b1-vocab-work-office-1-05",
+        "type": "cloze",
+        "prompt": "We need to finish the report by Friday. That's the ___. (termin)",
+        "answer": "deadline",
+        "explanation": "Termin: deadline."
+      },
+      {
+        "id": "b1-vocab-work-office-1-06",
+        "type": "error",
+        "prompt": "Please take notices during the meeting.",
+        "answer": [
+          "notices",
+          "notes"
+        ],
+        "explanation": "Notatki: notes."
+      },
+      {
+        "id": "b1-vocab-work-office-1-07",
+        "type": "tiles",
+        "prompt": "Czy możemy przełożyć spotkanie?",
+        "answer": [
+          "Can",
+          "we",
+          "reschedule",
+          "the",
+          "meeting"
+        ],
+        "distractors": [
+          "do",
+          "put"
+        ],
+        "explanation": "Przełożyć: reschedule."
+      },
+      {
+        "id": "b1-vocab-work-office-1-08",
+        "type": "translate",
+        "prompt": "Jestem na spotkaniu.",
+        "answer": "I am in a meeting.",
+        "accept": [
+          "I am at a meeting."
+        ],
+        "explanation": "Być na spotkaniu: be in a meeting."
+      },
+      {
+        "id": "b1-vocab-work-office-1-09",
+        "type": "transform",
+        "prompt": "Zamień na grzeczną prośbę z „Could you”.\nSend me the file.",
+        "answer": "Could you send me the file, please?",
+        "accept": [
+          "Could you send me the file?",
+          "Could you please send me the file?",
+          "Could you send me the file please?"
+        ],
+        "explanation": "Could you..., please?"
+      },
+      {
+        "id": "b1-vocab-work-office-1-10",
+        "type": "choice",
+        "prompt": "I'm afraid Mr Smith is ___ at the moment. Can I take a message?",
+        "answer": "not available",
+        "distractors": [
+          "not enable",
+          "unable"
+        ],
+        "explanation": "Niedostępny: not available."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-work-office-2",
+    "topicId": "b1-vocab-work-office",
+    "exercises": [
+      {
+        "id": "b1-vocab-work-office-2-01",
+        "type": "match",
+        "prompt": "Połącz słowa z tłumaczeniem.",
+        "answer": [
+          "attachment|załącznik",
+          "subject line|temat wiadomości",
+          "reply|odpowiedź",
+          "forward|przesłać dalej"
+        ],
+        "explanation": "Słowa z e-maili."
+      },
+      {
+        "id": "b1-vocab-work-office-2-02",
+        "type": "cloze",
+        "prompt": "Please find the report ___. (w załączniku)",
+        "answer": "attached",
+        "explanation": "Please find ... attached."
+      },
+      {
+        "id": "b1-vocab-work-office-2-03",
+        "type": "cloze",
+        "prompt": "I look forward to ___ from you. (usłyszeć)",
+        "answer": "hearing",
+        "explanation": "Look forward to + -ing."
+      },
+      {
+        "id": "b1-vocab-work-office-2-04",
+        "type": "choice",
+        "prompt": "Thank you ___ your email.",
+        "answer": "for",
+        "distractors": [
+          "of",
+          "about"
+        ],
+        "explanation": "Thank you for."
+      },
+      {
+        "id": "b1-vocab-work-office-2-05",
+        "type": "choice",
+        "prompt": "I'm writing ___ response to your email.",
+        "answer": "in",
+        "distractors": [
+          "on",
+          "for"
+        ],
+        "explanation": "W odpowiedzi: in response to."
+      },
+      {
+        "id": "b1-vocab-work-office-2-06",
+        "type": "error",
+        "prompt": "Please find attach the document.",
+        "answer": [
+          "attach",
+          "attached"
+        ],
+        "explanation": "Please find ... attached."
+      },
+      {
+        "id": "b1-vocab-work-office-2-07",
+        "type": "error",
+        "prompt": "I am writing for ask about the job.",
+        "answer": [
+          "for",
+          "to"
+        ],
+        "explanation": "Cel: I'm writing to ask."
+      },
+      {
+        "id": "b1-vocab-work-office-2-08",
+        "type": "tiles",
+        "prompt": "Prześlę ci tego maila.",
+        "answer": [
+          "I'll",
+          "forward",
+          "this",
+          "email",
+          "to",
+          "you"
+        ],
+        "distractors": [
+          "forwarding",
+          "by"
+        ],
+        "explanation": "Przesłać dalej: forward."
+      },
+      {
+        "id": "b1-vocab-work-office-2-09",
+        "type": "translate",
+        "prompt": "Dziękuję za odpowiedź.",
+        "answer": "Thank you for your reply.",
+        "accept": [
+          "Thank you for your answer.",
+          "Thanks for your reply.",
+          "Thanks for your answer.",
+          "Thank you for replying."
+        ],
+        "explanation": "Thank you for your reply."
+      },
+      {
+        "id": "b1-vocab-work-office-2-10",
+        "type": "choice",
+        "prompt": "Which is a formal ending?",
+        "answer": "Kind regards,",
+        "distractors": [
+          "Cheers,",
+          "See ya,"
+        ],
+        "explanation": "Formalnie: Kind regards."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-work-office-3",
+    "topicId": "b1-vocab-work-office",
+    "exercises": [
+      {
+        "id": "b1-vocab-work-office-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "hold on|poczekaj (przy telefonie)",
+          "hang up|rozłączyć się",
+          "call back|oddzwonić",
+          "put through|połączyć z kimś"
+        ],
+        "explanation": "Phrasal verbs przy telefonie."
+      },
+      {
+        "id": "b1-vocab-work-office-3-02",
+        "type": "cloze",
+        "prompt": "Can I ___ a message? (przyjąć wiadomość)",
+        "answer": "take",
+        "explanation": "Przyjąć wiadomość: take a message."
+      },
+      {
+        "id": "b1-vocab-work-office-3-03",
+        "type": "cloze",
+        "prompt": "Hold ___, please. I'll put you through.",
+        "answer": "on",
+        "explanation": "Hold on."
+      },
+      {
+        "id": "b1-vocab-work-office-3-04",
+        "type": "choice",
+        "prompt": "Sorry, I didn't catch that. Could you ___ that, please?",
+        "answer": "repeat",
+        "distractors": [
+          "say again it",
+          "speak"
+        ],
+        "explanation": "Powtórzyć: repeat."
+      },
+      {
+        "id": "b1-vocab-work-office-3-05",
+        "type": "choice",
+        "prompt": "I'll ___ you back in ten minutes.",
+        "answer": "call",
+        "distractors": [
+          "phone to",
+          "ring to"
+        ],
+        "explanation": "Oddzwonić: call back."
+      },
+      {
+        "id": "b1-vocab-work-office-3-06",
+        "type": "error",
+        "prompt": "Could you put me through with the sales department?",
+        "answer": [
+          "with",
+          "to"
+        ],
+        "explanation": "Put through to."
+      },
+      {
+        "id": "b1-vocab-work-office-3-07",
+        "type": "error",
+        "prompt": "He's not here. Can I leave him a massage?",
+        "answer": [
+          "massage",
+          "message"
+        ],
+        "explanation": "Wiadomość: message."
+      },
+      {
+        "id": "b1-vocab-work-office-3-08",
+        "type": "tiles",
+        "prompt": "Czy mogę zostawić wiadomość?",
+        "answer": [
+          "Can",
+          "I",
+          "leave",
+          "a",
+          "message"
+        ],
+        "distractors": [
+          "take",
+          "make"
+        ],
+        "explanation": "Zostawić wiadomość: leave a message."
+      },
+      {
+        "id": "b1-vocab-work-office-3-09",
+        "type": "translate",
+        "prompt": "Oddzwonię później.",
+        "answer": "I will call you back later.",
+        "accept": [
+          "I will call back later.",
+          "I will ring you back later.",
+          "I will phone you back later."
+        ],
+        "explanation": "Oddzwonić: call back."
+      },
+      {
+        "id": "b1-vocab-work-office-3-10",
+        "type": "choice",
+        "prompt": "Hello, ___ is Mark from Sales.",
+        "answer": "this",
+        "distractors": [
+          "here",
+          "I"
+        ],
+        "explanation": "Przez telefon: This is..."
+      }
+    ]
+  }
+]

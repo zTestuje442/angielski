@@ -1,0 +1,356 @@
+[
+  {
+    "id": "c1-vocab-idioms-expressions-1",
+    "topicId": "c1-vocab-idioms-expressions",
+    "exercises": [
+      {
+        "id": "c1-vocab-idioms-expressions-1-01",
+        "type": "match",
+        "prompt": "Połącz idiomy z tłumaczeniem.",
+        "answer": [
+          "the elephant in the room|temat, którego wszyscy unikają",
+          "a drop in the ocean|kropla w morzu",
+          "the tip of the iceberg|wierzchołek góry lodowej",
+          "a double-edged sword|miecz obosieczny"
+        ],
+        "explanation": "Idiomy."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-02",
+        "type": "choice",
+        "prompt": "Social media is a double-edged ___.",
+        "answer": "sword",
+        "distractors": [
+          "knife",
+          "blade"
+        ],
+        "explanation": "A double-edged sword."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-03",
+        "type": "choice",
+        "prompt": "The plan failed, so it's back to the drawing ___.",
+        "answer": "board",
+        "distractors": [
+          "table",
+          "desk"
+        ],
+        "explanation": "Back to the drawing board."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-04",
+        "type": "cloze",
+        "prompt": "Stop beating around the ___ and tell me what happened.",
+        "answer": "bush",
+        "explanation": "Beat around the bush."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-05",
+        "type": "cloze",
+        "prompt": "I'm still on the ___ about whether to accept the job.",
+        "answer": "fence",
+        "explanation": "Be on the fence."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-06",
+        "type": "error",
+        "prompt": "These cases are just the top of the iceberg.",
+        "answer": [
+          "top",
+          "tip"
+        ],
+        "explanation": "The tip of the iceberg."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-07",
+        "type": "tiles",
+        "prompt": "Przejdźmy do rzeczy.",
+        "answer": [
+          "Let's",
+          "cut",
+          "to",
+          "the",
+          "chase"
+        ],
+        "distractors": [
+          "point",
+          "run"
+        ],
+        "explanation": "Cut to the chase."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-08",
+        "type": "translate",
+        "prompt": "To nazwisko brzmi znajomo.",
+        "answer": "That name rings a bell.",
+        "accept": [
+          "The name rings a bell.",
+          "This name rings a bell.",
+          "That name sounds familiar.",
+          "The name sounds familiar."
+        ],
+        "explanation": "Ring a bell."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-09",
+        "type": "choice",
+        "prompt": "\"He bit off more than he could chew\" means:",
+        "answer": "He took on too much.",
+        "distractors": [
+          "He ate too quickly.",
+          "He said something rude."
+        ],
+        "explanation": "Porwać się z motyką na słońce."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-1-10",
+        "type": "transform",
+        "prompt": "Zastąp „start again from the beginning” idiomem z „drawing board”.\nThe client rejected our idea, so we have to start again from the beginning.",
+        "answer": "The client rejected our idea, so we have to go back to the drawing board.",
+        "accept": [
+          "The client rejected our idea, so we have to get back to the drawing board.",
+          "The client rejected our idea, so it's back to the drawing board."
+        ],
+        "explanation": "Go back to the drawing board."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-idioms-expressions-2",
+    "topicId": "c1-vocab-idioms-expressions",
+    "exercises": [
+      {
+        "id": "c1-vocab-idioms-expressions-2-01",
+        "type": "match",
+        "prompt": "Połącz idiomy z tłumaczeniem.",
+        "answer": [
+          "play devil's advocate|grać adwokata diabła",
+          "jump on the bandwagon|przyłączyć się do mody",
+          "get to the bottom of|dojść do sedna",
+          "in the long run|na dłuższą metę"
+        ],
+        "explanation": "Idiomy."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-02",
+        "type": "choice",
+        "prompt": "Let me play devil's ___ for a moment.",
+        "answer": "advocate",
+        "distractors": [
+          "lawyer",
+          "defender"
+        ],
+        "explanation": "Play devil's advocate."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-03",
+        "type": "choice",
+        "prompt": "Many companies have jumped on the ___ and launched AI products.",
+        "answer": "bandwagon",
+        "distractors": [
+          "train",
+          "wagon"
+        ],
+        "explanation": "Jump on the bandwagon."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-04",
+        "type": "cloze",
+        "prompt": "We need to get to the ___ of this problem.",
+        "answer": "bottom",
+        "explanation": "Get to the bottom of."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-05",
+        "type": "cloze",
+        "prompt": "Don't put all your eggs in one ___.",
+        "answer": "basket",
+        "explanation": "Don't put all your eggs in one basket."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-06",
+        "type": "error",
+        "prompt": "In the long race, this investment will pay off.",
+        "answer": [
+          "race",
+          "run"
+        ],
+        "explanation": "In the long run."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-07",
+        "type": "tiles",
+        "prompt": "Nikt nie chce poruszyć drażliwego tematu.",
+        "answer": [
+          "Nobody",
+          "wants",
+          "to",
+          "mention",
+          "the",
+          "elephant",
+          "in",
+          "the",
+          "room"
+        ],
+        "distractors": [
+          "animal",
+          "on"
+        ],
+        "explanation": "The elephant in the room."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-08",
+        "type": "translate",
+        "prompt": "Ta darowizna to kropla w morzu.",
+        "answer": "This donation is a drop in the ocean.",
+        "accept": [
+          "The donation is a drop in the ocean.",
+          "This donation is a drop in the bucket.",
+          "The donation is a drop in the bucket."
+        ],
+        "explanation": "A drop in the ocean."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-09",
+        "type": "choice",
+        "prompt": "\"Stop beating around the bush\" means:",
+        "answer": "Say what you mean directly.",
+        "distractors": [
+          "Stop working in the garden.",
+          "Stop arguing."
+        ],
+        "explanation": "Nie owijaj w bawełnę."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-2-10",
+        "type": "choice",
+        "prompt": "Which idiom means \"a situation with both good and bad sides\"?",
+        "answer": "a double-edged sword",
+        "distractors": [
+          "a piece of cake",
+          "the last straw"
+        ],
+        "explanation": "A double-edged sword."
+      }
+    ]
+  },
+  {
+    "id": "c1-vocab-idioms-expressions-3",
+    "topicId": "c1-vocab-idioms-expressions",
+    "exercises": [
+      {
+        "id": "c1-vocab-idioms-expressions-3-01",
+        "type": "match",
+        "prompt": "Połącz idiomy z tłumaczeniem.",
+        "answer": [
+          "beat around the bush|owijać w bawełnę",
+          "cut to the chase|przejść do rzeczy",
+          "be on the fence|być niezdecydowanym",
+          "ring a bell|brzmieć znajomo"
+        ],
+        "explanation": "Idiomy."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-02",
+        "type": "choice",
+        "prompt": "Investing only in one company is like putting all your eggs in one ___.",
+        "answer": "basket",
+        "distractors": [
+          "box",
+          "bag"
+        ],
+        "explanation": "Put all your eggs in one basket."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-03",
+        "type": "choice",
+        "prompt": "The complaints we received are just the tip of the ___.",
+        "answer": "iceberg",
+        "distractors": [
+          "mountain",
+          "glacier"
+        ],
+        "explanation": "The tip of the iceberg."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-04",
+        "type": "cloze",
+        "prompt": "He took on three projects at once – he bit off more than he could ___.",
+        "answer": "chew",
+        "explanation": "Bite off more than you can chew."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-05",
+        "type": "cloze",
+        "prompt": "Remote work is a blessing and a ___.",
+        "answer": "curse",
+        "explanation": "A blessing and a curse."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-06",
+        "type": "error",
+        "prompt": "Her name rings a bill, but I can't remember her face.",
+        "answer": [
+          "bill",
+          "bell"
+        ],
+        "explanation": "Ring a bell."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-07",
+        "type": "error",
+        "prompt": "The police promised to get to the base of the case.",
+        "answer": [
+          "base",
+          "bottom"
+        ],
+        "explanation": "Get to the bottom of."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-08",
+        "type": "tiles",
+        "prompt": "Na dłuższą metę to się opłaci.",
+        "answer": [
+          "In",
+          "the",
+          "long",
+          "run",
+          "it",
+          "will",
+          "pay",
+          "off"
+        ],
+        "distractors": [
+          "race",
+          "pay"
+        ],
+        "explanation": "In the long run."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-09",
+        "type": "translate",
+        "prompt": "Nie owijaj w bawełnę.",
+        "answer": "Don't beat around the bush.",
+        "accept": [
+          "Do not beat around the bush.",
+          "Don't beat about the bush.",
+          "Do not beat about the bush.",
+          "Stop beating around the bush."
+        ],
+        "explanation": "Beat around the bush."
+      },
+      {
+        "id": "c1-vocab-idioms-expressions-3-10",
+        "type": "transform",
+        "prompt": "Zastąp „can't decide” idiomem z „fence”.\nI can't decide about the new contract.",
+        "answer": "I'm on the fence about the new contract.",
+        "accept": [
+          "I am on the fence about the new contract.",
+          "I'm still on the fence about the new contract.",
+          "I am still on the fence about the new contract."
+        ],
+        "explanation": "Be on the fence."
+      }
+    ]
+  }
+]

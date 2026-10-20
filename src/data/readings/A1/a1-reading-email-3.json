@@ -1,0 +1,93 @@
+{
+  "id": "a1-reading-email-3",
+  "topicId": "a1-reading-email",
+  "title": "Dinner on Friday",
+  "text": "Hi Tom,\n\nAre you free on Friday evening? It's my birthday on Friday and I would like to invite you to dinner at Bella Pizza. It's a small Italian restaurant in King Street, opposite the cinema. The table is for seven o'clock.\n\nThe pizza there is very good and it isn't expensive. Anna and Jack can come, but Sam can't because he works on Fridays.\n\nPlease send me a message before Thursday.\n\nSee you,\nLucy",
+  "exercises": [
+    {
+      "id": "a1-reading-email-3-01",
+      "type": "choice",
+      "prompt": "Lucy's birthday is on Friday.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„It's my birthday on Friday...”"
+    },
+    {
+      "id": "a1-reading-email-3-02",
+      "type": "choice",
+      "prompt": "The restaurant is next to the cinema.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Restauracja jest naprzeciwko kina: „opposite the cinema”."
+    },
+    {
+      "id": "a1-reading-email-3-03",
+      "type": "choice",
+      "prompt": "Sam can come to the dinner.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„...Sam can't because he works on Fridays.”"
+    },
+    {
+      "id": "a1-reading-email-3-04",
+      "type": "choice",
+      "prompt": "Tom likes pizza.",
+      "answer": "Not given",
+      "distractors": [
+        "True",
+        "False"
+      ],
+      "explanation": "Tekst nie mówi, czy Tom lubi pizzę."
+    },
+    {
+      "id": "a1-reading-email-3-05",
+      "type": "choice",
+      "prompt": "What time is the dinner?",
+      "answer": "at 7 p.m.",
+      "distractors": [
+        "at 6 p.m.",
+        "at 8 p.m."
+      ],
+      "explanation": "„The table is for seven o'clock.”"
+    },
+    {
+      "id": "a1-reading-email-3-06",
+      "type": "choice",
+      "prompt": "What is Bella Pizza like?",
+      "answer": "small and not expensive",
+      "distractors": [
+        "big and expensive",
+        "small and expensive"
+      ],
+      "explanation": "„a small Italian restaurant... it isn't expensive.”"
+    },
+    {
+      "id": "a1-reading-email-3-07",
+      "type": "cloze",
+      "prompt": "Please send me a ___ before Thursday.",
+      "answer": "message",
+      "explanation": "Wyślij wiadomość: send a message."
+    },
+    {
+      "id": "a1-reading-email-3-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "free|wolny",
+        "invite|zaprosić",
+        "opposite|naprzeciwko",
+        "expensive|drogi"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

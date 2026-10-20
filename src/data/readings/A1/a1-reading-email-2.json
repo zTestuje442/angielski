@@ -1,0 +1,93 @@
+{
+  "id": "a1-reading-email-2",
+  "topicId": "a1-reading-email",
+  "title": "My weekend",
+  "text": "Hello Mark,\n\nThank you for your email. My weekend was great! On Saturday I was at my sister's house in the country. Her house is old and it has got a big garden with apple trees. We cooked lunch together and played games with her children. They are six and eight.\n\nOn Sunday it was cold and rainy, so I stayed at home. I watched two films and talked to my parents on the phone.\n\nWhat about you? Were you at the football match on Saturday?\n\nWrite soon,\nPeter",
+  "exercises": [
+    {
+      "id": "a1-reading-email-2-01",
+      "type": "choice",
+      "prompt": "Peter was at his sister's house on Saturday.",
+      "answer": "True",
+      "distractors": [
+        "False",
+        "Not given"
+      ],
+      "explanation": "„On Saturday I was at my sister's house...”"
+    },
+    {
+      "id": "a1-reading-email-2-02",
+      "type": "choice",
+      "prompt": "The weather was good on Sunday.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "„On Sunday it was cold and rainy.”"
+    },
+    {
+      "id": "a1-reading-email-2-03",
+      "type": "choice",
+      "prompt": "Peter's sister lives in a city.",
+      "answer": "False",
+      "distractors": [
+        "True",
+        "Not given"
+      ],
+      "explanation": "Siostra mieszka na wsi: „in the country”."
+    },
+    {
+      "id": "a1-reading-email-2-04",
+      "type": "choice",
+      "prompt": "What did Peter do on Sunday?",
+      "answer": "He watched films.",
+      "distractors": [
+        "He played football.",
+        "He visited his sister."
+      ],
+      "explanation": "„I watched two films...”"
+    },
+    {
+      "id": "a1-reading-email-2-05",
+      "type": "choice",
+      "prompt": "What is in the garden?",
+      "answer": "apple trees",
+      "distractors": [
+        "flowers",
+        "a pool"
+      ],
+      "explanation": "„...a big garden with apple trees.”"
+    },
+    {
+      "id": "a1-reading-email-2-06",
+      "type": "choice",
+      "prompt": "How many children has Peter's sister got?",
+      "answer": "two",
+      "distractors": [
+        "one",
+        "three"
+      ],
+      "explanation": "„They are six and eight” – dwoje dzieci."
+    },
+    {
+      "id": "a1-reading-email-2-07",
+      "type": "cloze",
+      "prompt": "We cooked lunch ___ and played games.",
+      "answer": "together",
+      "explanation": "Gotowali razem: together."
+    },
+    {
+      "id": "a1-reading-email-2-08",
+      "type": "match",
+      "prompt": "Połącz słowa z tekstu z tłumaczeniem.",
+      "answer": [
+        "great|świetny",
+        "country|wieś",
+        "rainy|deszczowy",
+        "write soon|napisz wkrótce"
+      ],
+      "explanation": "Słowa z tekstu."
+    }
+  ]
+}

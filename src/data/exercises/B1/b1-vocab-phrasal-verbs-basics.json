@@ -1,0 +1,341 @@
+[
+  {
+    "id": "b1-vocab-phrasal-verbs-basics-1",
+    "topicId": "b1-vocab-phrasal-verbs-basics",
+    "exercises": [
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "give up|rzucić, poddać się",
+          "look after|opiekować się",
+          "find out|dowiedzieć się",
+          "turn down|ściszyć, odrzucić"
+        ],
+        "explanation": "Częste phrasal verbs."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-02",
+        "type": "cloze",
+        "prompt": "I'm trying to give ___ smoking.",
+        "answer": "up",
+        "explanation": "Rzucić: give up."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-03",
+        "type": "cloze",
+        "prompt": "Can you look ___ my cat while I'm away?",
+        "answer": "after",
+        "explanation": "Opiekować się: look after."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-04",
+        "type": "choice",
+        "prompt": "Please ___ the form and sign it.",
+        "answer": "fill in",
+        "distractors": [
+          "fill up",
+          "fill on"
+        ],
+        "explanation": "Wypełnić: fill in."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-05",
+        "type": "choice",
+        "prompt": "I need to ___ what time the train leaves.",
+        "answer": "find out",
+        "distractors": [
+          "find up",
+          "look up at"
+        ],
+        "explanation": "Dowiedzieć się: find out."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-06",
+        "type": "cloze",
+        "prompt": "Put ___ your coat – it's cold. (załóż)",
+        "answer": "on",
+        "explanation": "Założyć: put on."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-07",
+        "type": "error",
+        "prompt": "Could you turn up the music? It's too loud.",
+        "answer": [
+          "up",
+          "down"
+        ],
+        "explanation": "Za głośno – ściszyć: turn down."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-08",
+        "type": "tiles",
+        "prompt": "Kto opiekuje się twoimi dziećmi?",
+        "answer": [
+          "Who",
+          "looks",
+          "after",
+          "your",
+          "children"
+        ],
+        "distractors": [
+          "for",
+          "at"
+        ],
+        "explanation": "Look after."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-09",
+        "type": "translate",
+        "prompt": "Nie poddawaj się!",
+        "answer": "Don't give up!",
+        "explanation": "Poddać się: give up."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-10",
+        "type": "transform",
+        "prompt": "Zamień „rise from bed” na phrasal verb z „get”.\nWhat time do you usually rise from bed?",
+        "answer": "What time do you usually get up?",
+        "explanation": "Wstać: get up."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-1-11",
+        "type": "choice",
+        "prompt": "I'm ___ forward to the holidays.",
+        "answer": "looking",
+        "distractors": [
+          "seeing",
+          "waiting"
+        ],
+        "explanation": "Nie móc się doczekać: look forward to."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-phrasal-verbs-basics-2",
+    "topicId": "b1-vocab-phrasal-verbs-basics",
+    "exercises": [
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "get on|wsiąść",
+          "get off|wysiąść",
+          "take off|zdjąć; startować",
+          "put on|założyć"
+        ],
+        "explanation": "Pary phrasal verbs."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-02",
+        "type": "cloze",
+        "prompt": "Take ___ your shoes, please.",
+        "answer": "off",
+        "explanation": "Zdjąć: take off."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-03",
+        "type": "cloze",
+        "prompt": "We ran ___ of milk. Can you buy some? (skończyło się)",
+        "answer": "out",
+        "explanation": "Skończyć się: run out of."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-04",
+        "type": "choice",
+        "prompt": "I'll ___ you up at the station at 6.",
+        "answer": "pick",
+        "distractors": [
+          "take",
+          "get"
+        ],
+        "explanation": "Odebrać kogoś: pick up."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-05",
+        "type": "choice",
+        "prompt": "The plane ___ off at 7 a.m.",
+        "answer": "took",
+        "distractors": [
+          "put",
+          "got"
+        ],
+        "explanation": "Startować: take off."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-06",
+        "type": "error",
+        "prompt": "Can you look for my dog this weekend? I'm going away.",
+        "answer": [
+          "for",
+          "after"
+        ],
+        "explanation": "Opiekować się: look after (look for = szukać)."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-07",
+        "type": "error",
+        "prompt": "Please turn of the TV.",
+        "answer": [
+          "of",
+          "off"
+        ],
+        "explanation": "Wyłączyć: turn off."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-08",
+        "type": "tiles",
+        "prompt": "Wysiadamy na następnym przystanku.",
+        "answer": [
+          "We",
+          "get",
+          "off",
+          "at",
+          "the",
+          "next",
+          "stop"
+        ],
+        "distractors": [
+          "down",
+          "up"
+        ],
+        "explanation": "Wysiąść: get off."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-09",
+        "type": "translate",
+        "prompt": "Szukam swoich kluczy.",
+        "answer": "I am looking for my keys.",
+        "explanation": "Szukać: look for."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-10",
+        "type": "transform",
+        "prompt": "Zamień „search for” na phrasal verb z „look”.\nI'm searching for my glasses.",
+        "answer": "I am looking for my glasses.",
+        "explanation": "Szukać: look for."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-2-11",
+        "type": "choice",
+        "prompt": "Can you ___ the meaning of this word in a dictionary?",
+        "answer": "look up",
+        "distractors": [
+          "look at",
+          "look for"
+        ],
+        "explanation": "Sprawdzić w słowniku: look up."
+      }
+    ]
+  },
+  {
+    "id": "b1-vocab-phrasal-verbs-basics-3",
+    "topicId": "b1-vocab-phrasal-verbs-basics",
+    "exercises": [
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-01",
+        "type": "match",
+        "prompt": "Połącz wyrażenia z tłumaczeniem.",
+        "answer": [
+          "grow up|dorastać",
+          "set off|wyruszyć",
+          "break down|zepsuć się",
+          "carry on|kontynuować"
+        ],
+        "explanation": "Kolejne phrasal verbs."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-02",
+        "type": "cloze",
+        "prompt": "Our car broke ___ on the motorway.",
+        "answer": "down",
+        "explanation": "Zepsuć się: break down."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-03",
+        "type": "cloze",
+        "prompt": "I grew ___ in a small town.",
+        "answer": "up",
+        "explanation": "Dorastać: grow up."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-04",
+        "type": "choice",
+        "prompt": "We ___ off early in the morning to avoid traffic.",
+        "answer": "set",
+        "distractors": [
+          "put",
+          "took"
+        ],
+        "explanation": "Wyruszyć: set off."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-05",
+        "type": "choice",
+        "prompt": "Please ___ on – don't stop because of me.",
+        "answer": "carry",
+        "distractors": [
+          "take",
+          "put"
+        ],
+        "explanation": "Kontynuować: carry on."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-06",
+        "type": "error",
+        "prompt": "I'll call you back – hang over a second.",
+        "answer": [
+          "over",
+          "on"
+        ],
+        "explanation": "Poczekaj: hang on."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-07",
+        "type": "error",
+        "prompt": "We need to set out the tent before it gets dark.",
+        "answer": [
+          "out",
+          "up"
+        ],
+        "explanation": "Rozstawić namiot: set up."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-08",
+        "type": "tiles",
+        "prompt": "Wyruszyliśmy o świcie.",
+        "answer": [
+          "We",
+          "set",
+          "off",
+          "at",
+          "dawn"
+        ],
+        "distractors": [
+          "put",
+          "on"
+        ],
+        "explanation": "Wyruszyć: set off."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-09",
+        "type": "translate",
+        "prompt": "Gdzie dorastałeś?",
+        "answer": "Where did you grow up?",
+        "explanation": "Dorastać: grow up."
+      },
+      {
+        "id": "b1-vocab-phrasal-verbs-basics-3-10",
+        "type": "transform",
+        "prompt": "Zamień „continue” na phrasal verb z „carry”.\nPlease continue working.",
+        "answer": "Please carry on working.",
+        "accept": [
+          "Please carry on with your work."
+        ],
+        "explanation": "Kontynuować: carry on."
+      }
+    ]
+  }
+]
