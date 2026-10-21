@@ -46,6 +46,7 @@
         "id": "b2-writing-formal-email-1-05",
         "type": "cloze",
         "prompt": "I am writing ___ regard to your advertisement.",
+        "meaning": "Piszę w związku z Państwa ogłoszeniem.",
         "answer": "with",
         "explanation": "With regard to."
       },
@@ -147,6 +148,7 @@
         "id": "b2-writing-formal-email-2-04",
         "type": "cloze",
         "prompt": "I would ___ grateful if you could reply as soon as possible.",
+        "meaning": "Byłbym wdzięczny za jak najszybszą odpowiedź.",
         "answer": "be",
         "explanation": "I would be grateful."
       },
@@ -154,6 +156,7 @@
         "id": "b2-writing-formal-email-2-05",
         "type": "cloze",
         "prompt": "Please do not hesitate ___ contact me.",
+        "meaning": "Proszę się ze mną skontaktować w razie potrzeby.",
         "answer": "to",
         "explanation": "Do not hesitate to."
       },
@@ -263,6 +266,7 @@
         "id": "b2-writing-formal-email-3-04",
         "type": "cloze",
         "prompt": "I am writing ___ response to your advertisement.",
+        "meaning": "Piszę w odpowiedzi na Państwa ogłoszenie.",
         "answer": "in",
         "explanation": "In response to."
       },
@@ -270,6 +274,7 @@
         "id": "b2-writing-formal-email-3-05",
         "type": "cloze",
         "prompt": "I have three years of experience ___ software testing.",
+        "meaning": "Mam trzy lata doświadczenia w testowaniu oprogramowania.",
         "answer": "in",
         "explanation": "Experience in."
       },

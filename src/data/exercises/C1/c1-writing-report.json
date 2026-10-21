@@ -162,6 +162,7 @@
         "id": "c1-writing-report-2-05",
         "type": "cloze",
         "prompt": "___ a certain extent, the changes have been successful.",
+        "meaning": "Do pewnego stopnia zmiany okazały się udane.",
         "answer": "To",
         "explanation": "To a certain extent."
       },

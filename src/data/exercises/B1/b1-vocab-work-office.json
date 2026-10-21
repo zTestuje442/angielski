@@ -256,6 +256,7 @@
         "id": "b1-vocab-work-office-3-03",
         "type": "cloze",
         "prompt": "Hold ___, please. I'll put you through.",
+        "meaning": "Proszę chwilę zaczekać. Już łączę.",
         "answer": "on",
         "explanation": "Hold on."
       },

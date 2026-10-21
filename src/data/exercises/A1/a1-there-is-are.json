@@ -7,6 +7,7 @@
         "id": "a1-there-is-are-1-01",
         "type": "cloze",
         "prompt": "There ___ a cat in the garden.",
+        "meaning": "W ogrodzie jest kot.",
         "answer": "is",
         "explanation": "Jeden kot: there is."
       },
@@ -14,6 +15,7 @@
         "id": "a1-there-is-are-1-02",
         "type": "cloze",
         "prompt": "There ___ two banks in my street.",
+        "meaning": "Na mojej ulicy są dwa banki.",
         "answer": "are",
         "explanation": "Liczba mnoga: there are."
       },
@@ -88,6 +90,7 @@
         "id": "a1-there-is-are-1-09",
         "type": "cloze",
         "prompt": "There ___ not any eggs.",
+        "meaning": "Nie ma żadnych jajek.",
         "answer": "are",
         "explanation": "Eggs to liczba mnoga: there are not (aren't)."
       },
@@ -112,6 +115,7 @@
         "id": "a1-there-is-are-2-01",
         "type": "cloze",
         "prompt": "___ there any shops near your house?",
+        "meaning": "Czy w pobliżu twojego domu są jakieś sklepy?",
         "answer": "Are",
         "explanation": "Pytanie o liczbę mnogą: Are there...?"
       },
@@ -119,6 +123,7 @@
         "id": "a1-there-is-are-2-02",
         "type": "cloze",
         "prompt": "Is there a bus stop here? — Yes, there ___.",
+        "meaning": "Czy jest tu przystanek autobusowy? — Tak, jest.",
         "answer": "is",
         "explanation": "Krótka odpowiedź: Yes, there is."
       },
@@ -126,6 +131,7 @@
         "id": "a1-there-is-are-2-03",
         "type": "cloze",
         "prompt": "Are there any students in the room? — No, there ___.",
+        "meaning": "Czy w sali są jacyś uczniowie? — Nie, nie ma.",
         "answer": "aren't",
         "explanation": "Krótka odpowiedź: No, there aren't."
       },
@@ -232,6 +238,7 @@
         "id": "a1-there-is-are-3-03",
         "type": "cloze",
         "prompt": "There ___ a lot of trees in the park.",
+        "meaning": "W parku jest dużo drzew.",
         "answer": "are",
         "explanation": "A lot of trees to liczba mnoga."
       },
@@ -239,6 +246,7 @@
         "id": "a1-there-is-are-3-04",
         "type": "cloze",
         "prompt": "There ___ an old castle in the town.",
+        "meaning": "W mieście jest stary zamek.",
         "answer": "is",
         "explanation": "Jeden zamek: there is."
       },

@@ -7,6 +7,7 @@
         "id": "c1-ellipsis-substitution-1-01",
         "type": "cloze",
         "prompt": "I don't like the blue shirt. I prefer the red ___.",
+        "meaning": "Nie podoba mi się niebieska koszula. Wolę tę czerwoną.",
         "answer": "one",
         "explanation": "One zamiast rzeczownika."
       },
@@ -122,6 +123,7 @@
         "id": "c1-ellipsis-substitution-2-01",
         "type": "cloze",
         "prompt": "\"Have you finished?\" \"Yes, I ___.\"",
+        "meaning": "„Skończyłeś?” „Tak.”",
         "answer": "have",
         "explanation": "Elipsa po posiłkowym."
       },
@@ -129,6 +131,7 @@
         "id": "c1-ellipsis-substitution-2-02",
         "type": "cloze",
         "prompt": "He promised to help, and he did ___.",
+        "meaning": "Obiecał pomóc i tak też zrobił.",
         "answer": "so",
         "explanation": "Do so."
       },
@@ -264,6 +267,7 @@
         "id": "c1-ellipsis-substitution-3-05",
         "type": "cloze",
         "prompt": "\"Is it going to be difficult?\" \"I suppose ___.\"",
+        "meaning": "„Czy to będzie trudne?” „Chyba tak.”",
         "answer": "so",
         "accept": [
           "not"

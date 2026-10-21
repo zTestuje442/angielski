@@ -41,6 +41,7 @@
         "id": "a1-vocab-home-1-04",
         "type": "cloze",
         "prompt": "We keep the car in the ___.",
+        "meaning": "Trzymamy samochód w garażu.",
         "answer": "garage",
         "explanation": "Samochód stoi w garażu."
       },
@@ -48,6 +49,7 @@
         "id": "a1-vocab-home-1-05",
         "type": "cloze",
         "prompt": "You have a shower in the ___.",
+        "meaning": "Prysznic bierze się w łazience.",
         "answer": "bathroom",
         "explanation": "Prysznic jest w łazience."
       },
@@ -149,6 +151,7 @@
         "id": "a1-vocab-home-2-04",
         "type": "cloze",
         "prompt": "I wash the dishes in the ___.",
+        "meaning": "Zmywam naczynia w zlewie.",
         "answer": "sink",
         "explanation": "Naczynia myjemy w zlewie: sink."
       },
@@ -156,6 +159,7 @@
         "id": "a1-vocab-home-2-05",
         "type": "cloze",
         "prompt": "I sit on the ___ and watch TV.",
+        "meaning": "Siedzę na kanapie i oglądam telewizję.",
         "answer": "sofa",
         "accept": [
           "couch"
@@ -238,6 +242,7 @@
         "id": "a1-vocab-home-3-02",
         "type": "cloze",
         "prompt": "I live on the third ___.",
+        "meaning": "Mieszkam na trzecim piętrze.",
         "answer": "floor",
         "explanation": "Piętro: floor."
       },
@@ -245,6 +250,7 @@
         "id": "a1-vocab-home-3-03",
         "type": "cloze",
         "prompt": "We go up the ___ to the bedroom.",
+        "meaning": "Wchodzimy po schodach do sypialni.",
         "answer": "stairs",
         "explanation": "Schody: stairs."
       },

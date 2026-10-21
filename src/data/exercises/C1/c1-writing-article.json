@@ -48,6 +48,7 @@
         "id": "c1-writing-article-1-05",
         "type": "cloze",
         "prompt": "These complaints are just the tip of the ___.",
+        "meaning": "Te skargi to tylko wierzchołek góry lodowej.",
         "answer": "iceberg",
         "explanation": "The tip of the iceberg."
       },
@@ -258,6 +259,7 @@
         "id": "c1-writing-article-3-04",
         "type": "cloze",
         "prompt": "So next time you feel the urge to check your phone, why ___ simply look out of the window?",
+        "meaning": "Więc następnym razem, gdy poczujesz ochotę, żeby sprawdzić telefon, czemu po prostu nie wyjrzysz przez okno?",
         "answer": "not",
         "explanation": "Why not + czasownik?"
       },

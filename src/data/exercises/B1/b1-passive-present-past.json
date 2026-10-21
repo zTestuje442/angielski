@@ -7,6 +7,7 @@
         "id": "b1-passive-present-past-1-01",
         "type": "cloze",
         "prompt": "English ___ spoken all over the world.",
+        "meaning": "Po angielsku mówi się na całym świecie.",
         "answer": "is",
         "explanation": "Present Simple passive: is + III forma."
       },
@@ -14,6 +15,7 @@
         "id": "b1-passive-present-past-1-02",
         "type": "cloze",
         "prompt": "This bridge ___ built in 1890.",
+        "meaning": "Ten most zbudowano w 1890 roku.",
         "answer": "was",
         "explanation": "Past Simple passive: was + III forma."
       },

@@ -7,6 +7,7 @@
         "id": "b2-advanced-articles-1-01",
         "type": "cloze",
         "prompt": "___ rich should pay more taxes.",
+        "meaning": "Bogaci powinni płacić wyższe podatki.",
         "answer": "The",
         "explanation": "The + przymiotnik = grupa ludzi."
       },
@@ -14,6 +15,7 @@
         "id": "b2-advanced-articles-1-02",
         "type": "cloze",
         "prompt": "He plays ___ guitar in a band.",
+        "meaning": "On gra na gitarze w zespole.",
         "answer": "the",
         "explanation": "Instrumenty: the."
       },
@@ -43,6 +45,7 @@
         "id": "b2-advanced-articles-1-05",
         "type": "cloze",
         "prompt": "We went to ___ cinema last night.",
+        "meaning": "Wczoraj wieczorem poszliśmy do kina.",
         "answer": "the",
         "explanation": "Go to the cinema."
       },
@@ -112,6 +115,7 @@
         "id": "b2-advanced-articles-2-01",
         "type": "cloze",
         "prompt": "I'd like ___ glass of water, please.",
+        "meaning": "Poproszę szklankę wody.",
         "answer": "a",
         "explanation": "Jedna szklanka: a."
       },
@@ -227,6 +231,7 @@
         "id": "b2-advanced-articles-3-01",
         "type": "cloze",
         "prompt": "She was ___ first woman to win the prize.",
+        "meaning": "Była pierwszą kobietą, która zdobyła tę nagrodę.",
         "answer": "the",
         "explanation": "The first."
       },
@@ -234,6 +239,7 @@
         "id": "b2-advanced-articles-3-02",
         "type": "cloze",
         "prompt": "It's ___ hour's drive from here.",
+        "meaning": "To godzina jazdy stąd.",
         "answer": "an",
         "explanation": "Hour – h nieme: an."
       },

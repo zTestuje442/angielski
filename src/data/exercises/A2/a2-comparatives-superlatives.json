@@ -229,6 +229,7 @@
         "id": "a2-comparatives-superlatives-3-02",
         "type": "cloze",
         "prompt": "This exercise is ___ difficult than the last one.",
+        "meaning": "To ćwiczenie jest trudniejsze niż poprzednie.",
         "answer": "more",
         "explanation": "Długi przymiotnik: more."
       },

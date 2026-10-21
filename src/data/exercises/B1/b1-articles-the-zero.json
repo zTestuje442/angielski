@@ -29,6 +29,7 @@
         "id": "b1-articles-the-zero-1-03",
         "type": "cloze",
         "prompt": "I go to ___ gym three times a week.",
+        "meaning": "Chodzę na siłownię trzy razy w tygodniu.",
         "answer": "the",
         "explanation": "Go to the gym."
       },
@@ -36,6 +37,7 @@
         "id": "b1-articles-the-zero-1-04",
         "type": "cloze",
         "prompt": "Can you pass ___ salt, please?",
+        "meaning": "Możesz podać sól?",
         "answer": "the",
         "explanation": "Konkretna sól na stole: the."
       },
@@ -113,6 +115,7 @@
         "id": "b1-articles-the-zero-2-01",
         "type": "cloze",
         "prompt": "She plays ___ violin in an orchestra.",
+        "meaning": "Ona gra na skrzypcach w orkiestrze.",
         "answer": "the",
         "explanation": "Instrumenty: the."
       },
@@ -120,6 +123,7 @@
         "id": "b1-articles-the-zero-2-02",
         "type": "cloze",
         "prompt": "We visited ___ British Museum.",
+        "meaning": "Zwiedziliśmy British Museum.",
         "answer": "the",
         "explanation": "Muzea: the."
       },
@@ -223,6 +227,7 @@
         "id": "b1-articles-the-zero-3-01",
         "type": "cloze",
         "prompt": "___ Netherlands is famous for tulips.",
+        "meaning": "Holandia słynie z tulipanów.",
         "answer": "The",
         "explanation": "Kraje w liczbie mnogiej: the."
       },
@@ -230,6 +235,7 @@
         "id": "b1-articles-the-zero-3-02",
         "type": "cloze",
         "prompt": "Have you read ___ book I gave you?",
+        "meaning": "Czytałeś książkę, którą ci dałem?",
         "answer": "the",
         "explanation": "Konkretna książka: the."
       },

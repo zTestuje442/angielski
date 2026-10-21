@@ -7,6 +7,7 @@
         "id": "a2-articles-basics-1-01",
         "type": "cloze",
         "prompt": "I've got ___ dog. The dog is called Max.",
+        "meaning": "Mam psa. Pies ma na imię Max.",
         "answer": "a",
         "explanation": "Pierwszy raz: a."
       },
@@ -14,6 +15,7 @@
         "id": "a2-articles-basics-1-02",
         "type": "cloze",
         "prompt": "I saw a film yesterday. ___ film was great.",
+        "meaning": "Wczoraj obejrzałem film. Film był świetny.",
         "answer": "The",
         "explanation": "Już wspomniany: the."
       },
@@ -43,6 +45,7 @@
         "id": "a2-articles-basics-1-05",
         "type": "cloze",
         "prompt": "Can you close ___ door, please?",
+        "meaning": "Możesz zamknąć drzwi?",
         "answer": "the",
         "explanation": "Konkretne drzwi, wiadomo które: the."
       },
@@ -50,6 +53,7 @@
         "id": "a2-articles-basics-1-06",
         "type": "cloze",
         "prompt": "She's ___ engineer.",
+        "meaning": "Ona jest inżynierem.",
         "answer": "an",
         "explanation": "Zawód: a/an; engineer od samogłoski."
       },
@@ -105,6 +109,7 @@
         "id": "a2-articles-basics-2-01",
         "type": "cloze",
         "prompt": "I go to ___ cinema on Fridays.",
+        "meaning": "W piątki chodzę do kina.",
         "answer": "the",
         "explanation": "Go to the cinema."
       },
@@ -112,6 +117,7 @@
         "id": "a2-articles-basics-2-02",
         "type": "cloze",
         "prompt": "She plays ___ piano very well.",
+        "meaning": "Ona bardzo dobrze gra na pianinie.",
         "answer": "the",
         "explanation": "Instrumenty: the piano."
       },
@@ -119,6 +125,7 @@
         "id": "a2-articles-basics-2-03",
         "type": "cloze",
         "prompt": "We went to ___ beach.",
+        "meaning": "Poszliśmy na plażę.",
         "answer": "the",
         "explanation": "Go to the beach."
       },
@@ -209,6 +216,7 @@
         "id": "a2-articles-basics-3-01",
         "type": "cloze",
         "prompt": "This is ___ best day of my life.",
+        "meaning": "To najlepszy dzień mojego życia.",
         "answer": "the",
         "explanation": "Stopień najwyższy: the."
       },
@@ -216,6 +224,7 @@
         "id": "a2-articles-basics-3-02",
         "type": "cloze",
         "prompt": "There's ___ man at the door.",
+        "meaning": "Przy drzwiach stoi jakiś mężczyzna.",
         "answer": "a",
         "explanation": "Pierwszy raz: a."
       },
@@ -223,6 +232,7 @@
         "id": "a2-articles-basics-3-03",
         "type": "cloze",
         "prompt": "Where's ___ man who called you?",
+        "meaning": "Gdzie jest ten mężczyzna, który do ciebie dzwonił?",
         "answer": "the",
         "explanation": "Konkretny człowiek: the."
       },

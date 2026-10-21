@@ -26,6 +26,7 @@
         "id": "a1-sent-introductions-1-03",
         "type": "cloze",
         "prompt": "How are you? – Fine, thanks. And ___?",
+        "meaning": "Jak się masz? – Dobrze, dzięki. A ty?",
         "answer": "you",
         "explanation": "And you?"
       },

@@ -139,6 +139,7 @@
         "id": "a2-writing-simple-email-2-04",
         "type": "cloze",
         "prompt": "The food is delicious ___ the hotel is very comfortable.",
+        "meaning": "Jedzenie jest pyszne, a hotel bardzo wygodny.",
         "answer": "and",
         "explanation": "Dodanie: and."
       },
@@ -232,6 +233,7 @@
         "id": "a2-writing-simple-email-3-02",
         "type": "cloze",
         "prompt": "What ___ you? How was your weekend?",
+        "meaning": "A co u ciebie? Jak minął weekend?",
         "answer": "about",
         "explanation": "A ty? What about you?"
       },
@@ -239,6 +241,7 @@
         "id": "a2-writing-simple-email-3-03",
         "type": "cloze",
         "prompt": "Please ___ me know when you arrive.",
+        "meaning": "Daj mi znać, kiedy dojedziesz.",
         "answer": "let",
         "explanation": "Let me know."
       },

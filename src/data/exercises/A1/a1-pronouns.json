@@ -29,6 +29,7 @@
         "id": "a1-pronouns-1-03",
         "type": "cloze",
         "prompt": "This is my cat. ___ is black.",
+        "meaning": "To mój kot. On jest czarny.",
         "answer": "It",
         "explanation": "O zwierzęciu mówimy zwykle it."
       },
@@ -36,6 +37,7 @@
         "id": "a1-pronouns-1-04",
         "type": "cloze",
         "prompt": "Kate and Mark are here. ___ are in the kitchen.",
+        "meaning": "Kate i Mark są tutaj. Są w kuchni.",
         "answer": "They",
         "explanation": "Dwie osoby (bez mówiącego) to they."
       },
@@ -111,6 +113,7 @@
         "id": "a1-pronouns-2-01",
         "type": "cloze",
         "prompt": "I have a dog. ___ dog is brown.",
+        "meaning": "Mam psa. Mój pies jest brązowy.",
         "answer": "My",
         "explanation": "Od I tworzymy my (mój)."
       },
@@ -118,6 +121,7 @@
         "id": "a1-pronouns-2-02",
         "type": "cloze",
         "prompt": "She has a car. ___ car is red.",
+        "meaning": "Ona ma samochód. Jej samochód jest czerwony.",
         "answer": "Her",
         "explanation": "Od she tworzymy her (jej)."
       },
@@ -212,6 +216,7 @@
         "id": "a1-pronouns-3-01",
         "type": "cloze",
         "prompt": "Mark and ___ sister are twins.",
+        "meaning": "Mark i jego siostra są bliźniakami.",
         "answer": "his",
         "explanation": "Siostra Marka to his sister."
       },
@@ -219,6 +224,7 @@
         "id": "a1-pronouns-3-02",
         "type": "cloze",
         "prompt": "The cat is playing with ___ ball.",
+        "meaning": "Kot bawi się swoją piłką.",
         "answer": "its",
         "explanation": "Its = jego (zwierzęcia, rzeczy). Bez apostrofu!"
       },

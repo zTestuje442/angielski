@@ -164,6 +164,7 @@
         "id": "c1-discourse-markers-2-04",
         "type": "cloze",
         "prompt": "It's expensive. That ___, it's worth every penny.",
+        "meaning": "To drogie. Mimo to jest warte każdego grosza.",
         "answer": "said",
         "explanation": "That said – mimo to."
       },
@@ -171,6 +172,7 @@
         "id": "c1-discourse-markers-2-05",
         "type": "cloze",
         "prompt": "The road was closed ___ to an accident.",
+        "meaning": "Droga była zamknięta z powodu wypadku.",
         "answer": "due",
         "accept": [
           "owing"
@@ -275,6 +277,7 @@
         "id": "c1-discourse-markers-3-04",
         "type": "cloze",
         "prompt": "All in ___, it was a successful year.",
+        "meaning": "Ogólnie rzecz biorąc, to był udany rok.",
         "answer": "all",
         "explanation": "All in all."
       },
@@ -282,6 +285,7 @@
         "id": "c1-discourse-markers-3-05",
         "type": "cloze",
         "prompt": "Anyway, as I was ___, the meeting starts at ten.",
+        "meaning": "W każdym razie, jak mówiłem, spotkanie zaczyna się o dziesiątej.",
         "answer": "saying",
         "explanation": "As I was saying – powrót do tematu."
       },

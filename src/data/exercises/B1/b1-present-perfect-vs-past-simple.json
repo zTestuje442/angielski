@@ -40,6 +40,7 @@
         "id": "b1-present-perfect-vs-past-simple-1-04",
         "type": "cloze",
         "prompt": "When ___ you start working here?",
+        "meaning": "Kiedy zacząłeś tu pracować?",
         "answer": "did",
         "explanation": "When...? – Past Simple."
       },

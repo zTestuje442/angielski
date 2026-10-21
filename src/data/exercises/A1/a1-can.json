@@ -7,6 +7,7 @@
         "id": "a1-can-1-01",
         "type": "cloze",
         "prompt": "I ___ swim.",
+        "meaning": "Umiem pływać.",
         "answer": "can",
         "explanation": "Umiem = can."
       },
@@ -14,6 +15,7 @@
         "id": "a1-can-1-02",
         "type": "cloze",
         "prompt": "She ___ speak Chinese. She doesn't know it.",
+        "meaning": "Ona nie umie mówić po chińsku. Nie zna tego języka.",
         "answer": "can't",
         "explanation": "Nie zna języka, więc can't."
       },
@@ -108,6 +110,7 @@
         "id": "a1-can-2-01",
         "type": "cloze",
         "prompt": "___ you play the guitar?",
+        "meaning": "Czy umiesz grać na gitarze?",
         "answer": "Can",
         "explanation": "Pytanie: Can + podmiot + czasownik."
       },
@@ -115,6 +118,7 @@
         "id": "a1-can-2-02",
         "type": "cloze",
         "prompt": "Can she drive? — Yes, she ___.",
+        "meaning": "Czy ona umie prowadzić? — Tak, umie.",
         "answer": "can",
         "explanation": "Krótka odpowiedź: Yes, she can."
       },
@@ -122,6 +126,7 @@
         "id": "a1-can-2-03",
         "type": "cloze",
         "prompt": "Can they come? — No, they ___.",
+        "meaning": "Czy oni mogą przyjść? — Nie, nie mogą.",
         "answer": "can't",
         "explanation": "Krótka odpowiedź: No, they can't."
       },
@@ -209,6 +214,7 @@
         "id": "a1-can-3-01",
         "type": "cloze",
         "prompt": "Birds ___ fly.",
+        "meaning": "Ptaki umieją latać.",
         "answer": "can",
         "explanation": "Ptaki potrafią latać."
       },
@@ -216,6 +222,7 @@
         "id": "a1-can-3-02",
         "type": "cloze",
         "prompt": "Fish ___ walk.",
+        "meaning": "Ryby nie umieją chodzić.",
         "answer": "can't",
         "explanation": "Ryby nie potrafią chodzić."
       },

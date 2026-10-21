@@ -19,6 +19,7 @@
         "id": "b2-vocab-phrasal-verbs-advanced-1-02",
         "type": "cloze",
         "prompt": "She came up ___ a brilliant idea.",
+        "meaning": "Wpadła na świetny pomysł.",
         "answer": "with",
         "explanation": "Come up with."
       },
@@ -26,6 +27,7 @@
         "id": "b2-vocab-phrasal-verbs-advanced-1-03",
         "type": "cloze",
         "prompt": "We've run ___ of milk. Can you buy some?",
+        "meaning": "Skończyło nam się mleko. Możesz kupić?",
         "answer": "out",
         "explanation": "Run out of."
       },
@@ -138,6 +140,7 @@
         "id": "b2-vocab-phrasal-verbs-advanced-2-02",
         "type": "cloze",
         "prompt": "Thank you for pointing ___ the mistake.",
+        "meaning": "Dziękuję, że wskazałeś ten błąd.",
         "answer": "out",
         "explanation": "Point out."
       },
@@ -145,6 +148,7 @@
         "id": "b2-vocab-phrasal-verbs-advanced-2-03",
         "type": "cloze",
         "prompt": "A large corporation took ___ our company last year.",
+        "meaning": "W zeszłym roku naszą firmę przejęła duża korporacja.",
         "answer": "over",
         "explanation": "Take over."
       },
@@ -253,6 +257,7 @@
         "id": "b2-vocab-phrasal-verbs-advanced-3-02",
         "type": "cloze",
         "prompt": "Who will take ___ his job when he retires?",
+        "meaning": "Kto przejmie jego stanowisko, kiedy przejdzie na emeryturę?",
         "answer": "over",
         "explanation": "Take over."
       },
@@ -260,6 +265,7 @@
         "id": "b2-vocab-phrasal-verbs-advanced-3-03",
         "type": "cloze",
         "prompt": "Can you figure ___ what's wrong with my laptop?",
+        "meaning": "Umiesz rozgryźć, co jest nie tak z moim laptopem?",
         "answer": "out",
         "explanation": "Figure out."
       },

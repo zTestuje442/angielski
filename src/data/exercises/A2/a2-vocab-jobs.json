@@ -41,6 +41,7 @@
         "id": "a2-vocab-jobs-1-04",
         "type": "cloze",
         "prompt": "My mum is a ___. She works in a hospital and helps doctors.",
+        "meaning": "Moja mama jest pielęgniarką. Pracuje w szpitalu i pomaga lekarzom.",
         "answer": "nurse",
         "explanation": "Pielęgniarka: nurse."
       },
@@ -231,6 +232,7 @@
         "id": "a2-vocab-jobs-3-02",
         "type": "cloze",
         "prompt": "I'm going to ___ for a job in a bank.",
+        "meaning": "Zamierzam złożyć podanie o pracę w banku.",
         "answer": "apply",
         "explanation": "Ubiegać się: apply for."
       },

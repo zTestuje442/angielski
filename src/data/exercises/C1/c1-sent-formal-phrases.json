@@ -168,6 +168,7 @@
         "id": "c1-sent-formal-phrases-2-05",
         "type": "cloze",
         "prompt": "Could we move ___ to the next item on the agenda?",
+        "meaning": "Czy możemy przejść do następnego punktu porządku obrad?",
         "answer": "on",
         "explanation": "Move on to."
       },

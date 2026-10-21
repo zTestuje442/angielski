@@ -71,3 +71,10 @@ test("[Klawiatura] Enter przechodzi dalej także, gdy fokus nie jest na „Dalej
   await page.keyboard.press("Enter");
   await expect(page.getByText(/Pytanie \d+ z \d+/)).toContainText("Pytanie 2 z");
 });
+
+test("[Zadanie] luka bez wskazówki pokazuje polskie znaczenie zdania", async ({ page }) => {
+  await page.goto("/");
+  await page.getByRole("button", { name: "Present Simple", exact: true }).click();
+  await page.locator("[data-set=a1-present-simple-2]").click();
+  await expect(page.locator("[data-exercise=a1-present-simple-2-01] .meaning")).toHaveText("PLNie lubię ryb.");
+});

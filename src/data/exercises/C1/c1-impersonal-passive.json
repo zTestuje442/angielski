@@ -14,6 +14,7 @@
         "id": "c1-impersonal-passive-1-02",
         "type": "cloze",
         "prompt": "She is thought ___ be living in Spain.",
+        "meaning": "Uważa się, że ona mieszka teraz w Hiszpanii.",
         "answer": "to",
         "explanation": "Podmiot + is thought + to."
       },
@@ -122,6 +123,7 @@
         "id": "c1-impersonal-passive-2-01",
         "type": "cloze",
         "prompt": "The painting is estimated ___ worth over a million euros.",
+        "meaning": "Szacuje się, że obraz jest wart ponad milion euro.",
         "answer": "to be",
         "explanation": "Is estimated to be."
       },
@@ -260,6 +262,7 @@
         "id": "c1-impersonal-passive-3-03",
         "type": "cloze",
         "prompt": "She is understood ___ have accepted the offer.",
+        "meaning": "Podobno przyjęła tę ofertę.",
         "answer": "to",
         "explanation": "To have + III forma."
       },

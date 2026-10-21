@@ -26,6 +26,7 @@
         "id": "a1-vocab-personal-info-1-03",
         "type": "cloze",
         "prompt": "I ___ 25 years old.",
+        "meaning": "Mam 25 lat.",
         "answer": "am",
         "accept": [
           "'m"
@@ -138,6 +139,7 @@
         "id": "a1-vocab-personal-info-2-03",
         "type": "cloze",
         "prompt": "I live ___ Warsaw.",
+        "meaning": "Mieszkam w Warszawie.",
         "answer": "in",
         "explanation": "Live in + miasto."
       },

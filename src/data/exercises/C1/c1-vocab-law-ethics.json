@@ -19,6 +19,7 @@
         "id": "c1-vocab-law-ethics-1-02",
         "type": "cloze",
         "prompt": "All companies must comply ___ the new regulations.",
+        "meaning": "Wszystkie firmy muszą przestrzegać nowych przepisów.",
         "answer": "with",
         "explanation": "Comply with."
       },

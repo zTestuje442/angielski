@@ -7,6 +7,7 @@
         "id": "a1-prepositions-in-on-at-1-01",
         "type": "cloze",
         "prompt": "My birthday is ___ May.",
+        "meaning": "Moje urodziny są w maju.",
         "answer": "in",
         "explanation": "Miesiąc: in."
       },
@@ -14,6 +15,7 @@
         "id": "a1-prepositions-in-on-at-1-02",
         "type": "cloze",
         "prompt": "The lesson starts ___ 9 o'clock.",
+        "meaning": "Lekcja zaczyna się o dziewiątej.",
         "answer": "at",
         "explanation": "Godzina: at."
       },
@@ -21,6 +23,7 @@
         "id": "a1-prepositions-in-on-at-1-03",
         "type": "cloze",
         "prompt": "We don't work ___ Sundays.",
+        "meaning": "Nie pracujemy w niedziele.",
         "answer": "on",
         "explanation": "Dzień tygodnia: on."
       },
@@ -114,6 +117,7 @@
         "id": "a1-prepositions-in-on-at-2-01",
         "type": "cloze",
         "prompt": "The keys are ___ the table.",
+        "meaning": "Klucze są na stole.",
         "answer": "on",
         "explanation": "Na powierzchni: on."
       },
@@ -121,6 +125,7 @@
         "id": "a1-prepositions-in-on-at-2-02",
         "type": "cloze",
         "prompt": "My parents live ___ Gdańsk.",
+        "meaning": "Moi rodzice mieszkają w Gdańsku.",
         "answer": "in",
         "hint": "W środku miasta, nie w punkcie.",
         "explanation": "Miasto: in."
@@ -129,6 +134,7 @@
         "id": "a1-prepositions-in-on-at-2-03",
         "type": "cloze",
         "prompt": "I'm waiting for you ___ the bus stop.",
+        "meaning": "Czekam na ciebie na przystanku.",
         "answer": "at",
         "explanation": "Punkt, miejsce: at."
       },
@@ -218,6 +224,7 @@
         "id": "a1-prepositions-in-on-at-3-01",
         "type": "cloze",
         "prompt": "The shop opens ___ 8 a.m.",
+        "meaning": "Sklep otwiera się o 8 rano.",
         "answer": "at",
         "explanation": "Godzina: at."
       },
@@ -225,6 +232,7 @@
         "id": "a1-prepositions-in-on-at-3-02",
         "type": "cloze",
         "prompt": "We have a meeting ___ Tuesday morning.",
+        "meaning": "Mamy spotkanie we wtorek rano.",
         "answer": "on",
         "explanation": "Dzień tygodnia (nawet z porą dnia): on."
       },
@@ -232,6 +240,7 @@
         "id": "a1-prepositions-in-on-at-3-03",
         "type": "cloze",
         "prompt": "It's cold here ___ December.",
+        "meaning": "W grudniu jest tu zimno.",
         "answer": "in",
         "explanation": "Miesiąc: in."
       },

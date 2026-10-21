@@ -157,6 +157,7 @@
         "id": "a1-vocab-numbers-dates-time-2-05",
         "type": "cloze",
         "prompt": "There are twelve ___ in a year.",
+        "meaning": "Rok ma dwanaście miesięcy.",
         "answer": "months",
         "explanation": "Rok ma dwanaście miesięcy."
       },

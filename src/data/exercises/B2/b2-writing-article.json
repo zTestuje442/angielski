@@ -48,6 +48,7 @@
         "id": "b2-writing-article-1-05",
         "type": "cloze",
         "prompt": "Not ___ is cycling healthy, but it's also cheap.",
+        "meaning": "Jazda na rowerze jest nie tylko zdrowa, ale też tania.",
         "answer": "only",
         "explanation": "Not only..., but also..."
       },
@@ -153,6 +154,7 @@
         "id": "b2-writing-article-2-04",
         "type": "cloze",
         "prompt": "What's ___, learning a language keeps your brain young.",
+        "meaning": "Co więcej, nauka języka utrzymuje mózg w dobrej formie.",
         "answer": "more",
         "explanation": "What's more."
       },

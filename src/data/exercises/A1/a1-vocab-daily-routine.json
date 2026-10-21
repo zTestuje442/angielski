@@ -41,6 +41,7 @@
         "id": "a1-vocab-daily-routine-1-04",
         "type": "cloze",
         "prompt": "I ___ dressed after breakfast.",
+        "meaning": "Ubieram się po śniadaniu.",
         "answer": "get",
         "explanation": "Ubrać się: get dressed."
       },
@@ -48,6 +49,7 @@
         "id": "a1-vocab-daily-routine-1-05",
         "type": "cloze",
         "prompt": "I ___ home from work at six.",
+        "meaning": "Wracam z pracy do domu o szóstej.",
         "answer": "get",
         "accept": [
           "come"
@@ -129,6 +131,7 @@
         "id": "a1-vocab-daily-routine-2-02",
         "type": "cloze",
         "prompt": "On Saturdays I ___ the shopping.",
+        "meaning": "W soboty robię zakupy.",
         "answer": "do",
         "explanation": "Robić zakupy: do the shopping."
       },
@@ -239,6 +242,7 @@
         "id": "a1-vocab-daily-routine-3-02",
         "type": "cloze",
         "prompt": "I ___ my emails in the morning.",
+        "meaning": "Rano sprawdzam maile.",
         "answer": "check",
         "explanation": "Sprawdzać maile: check emails."
       },

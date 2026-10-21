@@ -41,6 +41,7 @@
         "id": "a1-vocab-family-1-04",
         "type": "cloze",
         "prompt": "My aunt's son is my ___.",
+        "meaning": "Syn mojej ciotki to mój kuzyn.",
         "answer": "cousin",
         "explanation": "Syn cioci to kuzyn."
       },
@@ -48,6 +49,7 @@
         "id": "a1-vocab-family-1-05",
         "type": "cloze",
         "prompt": "My parents are my mother and my ___.",
+        "meaning": "Moi rodzice to moja mama i mój tata.",
         "answer": "father",
         "explanation": "Rodzice to mama i tata."
       },
@@ -123,6 +125,7 @@
         "id": "a1-vocab-family-2-02",
         "type": "cloze",
         "prompt": "My sister's daughter is my ___.",
+        "meaning": "Córka mojej siostry to moja siostrzenica.",
         "answer": "niece",
         "explanation": "Córka siostry to siostrzenica: niece."
       },
@@ -130,6 +133,7 @@
         "id": "a1-vocab-family-2-03",
         "type": "cloze",
         "prompt": "My brother's son is my ___.",
+        "meaning": "Syn mojego brata to mój bratanek.",
         "answer": "nephew",
         "explanation": "Syn brata to bratanek: nephew."
       },
@@ -214,6 +218,7 @@
         "id": "a1-vocab-family-3-01",
         "type": "cloze",
         "prompt": "Anna is Tom's mother. Tom is Anna's ___.",
+        "meaning": "Anna jest mamą Toma. Tom jest synem Anny.",
         "answer": "son",
         "explanation": "Tom jest jej synem."
       },
@@ -221,6 +226,7 @@
         "id": "a1-vocab-family-3-02",
         "type": "cloze",
         "prompt": "Ben is Lucy's father. Lucy is Ben's ___.",
+        "meaning": "Ben jest tatą Lucy. Lucy jest córką Bena.",
         "answer": "daughter",
         "explanation": "Lucy jest jego córką."
       },

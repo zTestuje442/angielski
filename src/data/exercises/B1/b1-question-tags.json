@@ -7,6 +7,7 @@
         "id": "b1-question-tags-1-01",
         "type": "cloze",
         "prompt": "You're a student, ___ you?",
+        "meaning": "Jesteś studentem, prawda?",
         "answer": "aren't",
         "explanation": "Twierdzenie → tag przeczący."
       },
@@ -14,6 +15,7 @@
         "id": "b1-question-tags-1-02",
         "type": "cloze",
         "prompt": "She doesn't eat meat, ___ she?",
+        "meaning": "Ona nie je mięsa, prawda?",
         "answer": "does",
         "explanation": "Przeczenie → tag twierdzący."
       },
@@ -21,6 +23,7 @@
         "id": "b1-question-tags-1-03",
         "type": "cloze",
         "prompt": "They went to Rome, ___ they?",
+        "meaning": "Pojechali do Rzymu, prawda?",
         "answer": "didn't",
         "explanation": "Past Simple → didn't."
       },
@@ -109,6 +112,7 @@
         "id": "b1-question-tags-2-01",
         "type": "cloze",
         "prompt": "We haven't met before, ___ we?",
+        "meaning": "Nie spotkaliśmy się wcześniej, prawda?",
         "answer": "have",
         "explanation": "Przeczenie → tag twierdzący."
       },
@@ -116,6 +120,7 @@
         "id": "b1-question-tags-2-02",
         "type": "cloze",
         "prompt": "He was late again, ___ he?",
+        "meaning": "Znowu się spóźnił, prawda?",
         "answer": "wasn't",
         "explanation": "Was → wasn't."
       },
@@ -123,6 +128,7 @@
         "id": "b1-question-tags-2-03",
         "type": "cloze",
         "prompt": "You won't tell anyone, ___ you?",
+        "meaning": "Nikomu nie powiesz, prawda?",
         "answer": "will",
         "explanation": "Won't → will."
       },
@@ -206,6 +212,7 @@
         "id": "b1-question-tags-3-01",
         "type": "cloze",
         "prompt": "Nobody called, ___ they?",
+        "meaning": "Nikt nie dzwonił, prawda?",
         "answer": "did",
         "explanation": "Nobody – znaczenie przeczące → did they."
       },
@@ -213,6 +220,7 @@
         "id": "b1-question-tags-3-02",
         "type": "cloze",
         "prompt": "Open the window, ___ you?",
+        "meaning": "Otwórz okno, dobrze?",
         "answer": "will",
         "accept": [
           "would",

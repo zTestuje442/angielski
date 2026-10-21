@@ -7,6 +7,7 @@
         "id": "b2-mixed-conditionals-1-01",
         "type": "cloze",
         "prompt": "If I had taken the job, I ___ be rich now.",
+        "meaning": "Gdybym przyjął tę pracę, byłbym teraz bogaty.",
         "answer": "would",
         "explanation": "Skutek teraz: would + czasownik."
       },
@@ -48,6 +49,7 @@
         "id": "b2-mixed-conditionals-1-05",
         "type": "cloze",
         "prompt": "If we had bought that house, we ___ live by the sea now.",
+        "meaning": "Gdybyśmy kupili tamten dom, mieszkalibyśmy teraz nad morzem.",
         "answer": "would",
         "explanation": "Skutek teraz: would live."
       },
@@ -134,6 +136,7 @@
         "id": "b2-mixed-conditionals-2-02",
         "type": "cloze",
         "prompt": "If you had told me earlier, I ___ be so angry now.",
+        "meaning": "Gdybyś powiedział mi wcześniej, nie byłbym teraz taki zły.",
         "answer": "wouldn't",
         "accept": [
           "would not"
@@ -285,6 +288,7 @@
         "id": "b2-mixed-conditionals-3-05",
         "type": "cloze",
         "prompt": "If I hadn't broken my leg, I ___ be skiing right now.",
+        "meaning": "Gdybym nie złamał nogi, jeździłbym teraz na nartach.",
         "answer": "would",
         "explanation": "Skutek teraz: would be skiing."
       },

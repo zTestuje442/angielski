@@ -202,6 +202,7 @@
         "id": "a1-sent-negatives-questions-3-01",
         "type": "cloze",
         "prompt": "Are you a student? — Yes, I ___.",
+        "meaning": "Jesteś studentem? — Tak, jestem.",
         "answer": "am",
         "explanation": "Krótka odpowiedź: Yes, I am."
       },
@@ -209,6 +210,7 @@
         "id": "a1-sent-negatives-questions-3-02",
         "type": "cloze",
         "prompt": "Does she like cats? — No, she ___.",
+        "meaning": "Czy ona lubi koty? — Nie, nie lubi.",
         "answer": "doesn't",
         "explanation": "Krótka odpowiedź: No, she doesn't."
       },
@@ -216,6 +218,7 @@
         "id": "a1-sent-negatives-questions-3-03",
         "type": "cloze",
         "prompt": "Can you swim? — Yes, I ___.",
+        "meaning": "Umiesz pływać? — Tak, umiem.",
         "answer": "can",
         "explanation": "Krótka odpowiedź: Yes, I can."
       },
@@ -223,6 +226,7 @@
         "id": "a1-sent-negatives-questions-3-04",
         "type": "cloze",
         "prompt": "Did they win? — No, they ___.",
+        "meaning": "Czy oni wygrali? — Nie, nie wygrali.",
         "answer": "didn't",
         "explanation": "Krótka odpowiedź: No, they didn't."
       },

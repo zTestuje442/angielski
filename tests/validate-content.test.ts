@@ -13,6 +13,7 @@ const exercises = (n: number, types = ["cloze", "choice", "translate"], setId = 
     return {
       id: `${setId}-${i}`, type, explanation: "Bo tak.",
       prompt: type === "cloze" ? "I have lived here ___ 2019." : "Mieszkam tu od 2019.",
+      ...(type === "cloze" ? { meaning: "Mieszkam tu od 2019." } : {}),
       answer: "since",
       ...(type === "choice" ? { distractors: ["for", "from"] } : {}),
     };
@@ -146,6 +147,16 @@ describe("validateContent: reguły zależne od poziomu", () => {
     expect(r.errors).toEqual([
       "exercises/B1/b1-a.json › b1-a-1 › [0] b1-a-1-0: match wymaga różnych elementów po obu stronach",
       "exercises/B1/b1-a.json › b1-a-1 › [1] b1-a-1-1: choice ma powtórzoną opcję",
+    ]);
+  });
+
+  it("cloze bez wskazówki w nawiasie wymaga polskiego znaczenia zdania", () => {
+    const ex = exercises(8);
+    ex[0] = { ...ex[0], meaning: undefined };
+    ex[3] = { ...ex[3], prompt: "I ___ here since 2019. (live)", meaning: undefined };
+    const r = validateContent([topic("b1-a", 1)], [file([set(ex)])]);
+    expect(r.errors).toEqual([
+      "exercises/B1/b1-a.json › b1-a-1 › [0] b1-a-1-0: cloze bez wskazówki w nawiasie wymaga meaning (znaczenie zdania po polsku)",
     ]);
   });
 

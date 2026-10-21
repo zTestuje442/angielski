@@ -146,6 +146,7 @@
         "id": "b2-vocab-it-software-testing-2-03",
         "type": "cloze",
         "prompt": "Please add the steps to ___ to the bug report.",
+        "meaning": "Proszę dodać do zgłoszenia błędu kroki, które pozwalają go odtworzyć.",
         "answer": "reproduce",
         "explanation": "Steps to reproduce."
       },

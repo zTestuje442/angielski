@@ -7,6 +7,7 @@
         "id": "a2-present-continuous-future-1-01",
         "type": "cloze",
         "prompt": "I ___ meeting Tom at six tomorrow.",
+        "meaning": "Jutro o szóstej spotykam się z Tomem.",
         "answer": "am",
         "explanation": "Umówione spotkanie: am meeting."
       },
@@ -43,6 +44,7 @@
         "id": "a2-present-continuous-future-1-05",
         "type": "cloze",
         "prompt": "They ___ getting married in June.",
+        "meaning": "Biorą ślub w czerwcu.",
         "answer": "are",
         "explanation": "They + are + -ing."
       },
@@ -116,6 +118,7 @@
         "id": "a2-present-continuous-future-2-01",
         "type": "cloze",
         "prompt": "I'm sorry, I can't come. I ___ working on Sunday.",
+        "meaning": "Przykro mi, nie mogę przyjść. W niedzielę pracuję.",
         "answer": "am",
         "explanation": "Am working."
       },
@@ -123,6 +126,7 @@
         "id": "a2-present-continuous-future-2-02",
         "type": "cloze",
         "prompt": "___ you coming to the party?",
+        "meaning": "Przyjdziesz na imprezę?",
         "answer": "Are",
         "explanation": "Pytanie: Are you coming?"
       },
@@ -130,6 +134,7 @@
         "id": "a2-present-continuous-future-2-03",
         "type": "cloze",
         "prompt": "Is he leaving tomorrow? — Yes, he ___.",
+        "meaning": "Czy on jutro wyjeżdża? — Tak.",
         "answer": "is",
         "explanation": "Krótka odpowiedź: Yes, he is."
       },

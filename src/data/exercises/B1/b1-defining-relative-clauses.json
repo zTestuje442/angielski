@@ -7,6 +7,7 @@
         "id": "b1-defining-relative-clauses-1-01",
         "type": "cloze",
         "prompt": "The woman ___ lives next door is a doctor.",
+        "meaning": "Kobieta, która mieszka obok, jest lekarką.",
         "answer": "who",
         "accept": [
           "that"
@@ -17,6 +18,7 @@
         "id": "b1-defining-relative-clauses-1-02",
         "type": "cloze",
         "prompt": "This is the book ___ I told you about.",
+        "meaning": "To jest ta książka, o której ci mówiłem.",
         "answer": "which",
         "accept": [
           "that"
@@ -127,6 +129,7 @@
         "id": "b1-defining-relative-clauses-2-01",
         "type": "cloze",
         "prompt": "Is this the bus ___ goes to the airport?",
+        "meaning": "Czy to autobus, który jedzie na lotnisko?",
         "answer": "which",
         "accept": [
           "that"
@@ -144,6 +147,7 @@
         "id": "b1-defining-relative-clauses-2-03",
         "type": "cloze",
         "prompt": "This is the town ___ I was born.",
+        "meaning": "To miasto, w którym się urodziłem.",
         "answer": "where",
         "explanation": "Miejsce: where."
       },
@@ -264,6 +268,7 @@
         "id": "b1-defining-relative-clauses-3-03",
         "type": "cloze",
         "prompt": "A fridge is a machine ___ keeps food cold.",
+        "meaning": "Lodówka to urządzenie, które utrzymuje jedzenie w chłodzie.",
         "answer": "which",
         "accept": [
           "that"
@@ -274,6 +279,7 @@
         "id": "b1-defining-relative-clauses-3-04",
         "type": "cloze",
         "prompt": "A library is a place ___ you can borrow books.",
+        "meaning": "Biblioteka to miejsce, w którym można wypożyczać książki.",
         "answer": "where",
         "explanation": "Miejsce: where."
       },
@@ -281,6 +287,7 @@
         "id": "b1-defining-relative-clauses-3-05",
         "type": "cloze",
         "prompt": "The man ___ car was stolen called the police.",
+        "meaning": "Mężczyzna, któremu ukradziono samochód, wezwał policję.",
         "answer": "whose",
         "explanation": "Czyj samochód: whose."
       },

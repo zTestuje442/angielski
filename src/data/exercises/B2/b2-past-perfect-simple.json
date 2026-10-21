@@ -7,6 +7,7 @@
         "id": "b2-past-perfect-simple-1-01",
         "type": "cloze",
         "prompt": "When I arrived, the film ___ already started.",
+        "meaning": "Kiedy przyszedłem, film już się zaczął.",
         "answer": "had",
         "explanation": "Wcześniejsze: had + III forma."
       },
@@ -135,6 +136,7 @@
         "id": "b2-past-perfect-simple-2-02",
         "type": "cloze",
         "prompt": "___ you ever been abroad before you moved here?",
+        "meaning": "Czy byłeś kiedyś za granicą, zanim się tu przeprowadziłeś?",
         "answer": "Had",
         "explanation": "Pytanie: Had + you + III forma."
       },

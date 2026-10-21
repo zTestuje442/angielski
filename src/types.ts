@@ -21,6 +21,7 @@ export interface Exercise {
   id: string;
   type: ExerciseType;
   prompt: string;              // polecenie / zdanie z luką oznaczoną "___"
+  meaning?: string;            // PL: znaczenie zdania z luką, widoczne pod nim (cloze bez wskazówki w nawiasie)
   answer: string | string[];   // dla match: pary, dla tiles: kolejność
   accept?: string[];           // dodatkowe poprawne warianty (skróty, alternatywy)
   distractors?: string[];      // choice, tiles (1–2 zbędne kafelki od B1)

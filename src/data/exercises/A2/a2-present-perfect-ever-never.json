@@ -113,6 +113,7 @@
         "id": "a2-present-perfect-ever-never-2-02",
         "type": "cloze",
         "prompt": "Have you ever been to Paris? — Yes, I ___.",
+        "meaning": "Byłeś kiedyś w Paryżu? — Tak, byłem.",
         "answer": "have",
         "explanation": "Krótka odpowiedź: Yes, I have."
       },
@@ -120,6 +121,7 @@
         "id": "a2-present-perfect-ever-never-2-03",
         "type": "cloze",
         "prompt": "Has he ever tried skiing? — No, he ___.",
+        "meaning": "Czy on próbował kiedyś jeździć na nartach? — Nie, nie próbował.",
         "answer": "hasn't",
         "explanation": "Krótka odpowiedź: No, he hasn't."
       },

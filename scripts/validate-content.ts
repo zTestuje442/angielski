@@ -209,6 +209,11 @@ function checkExercise(e: unknown, at: string, seen: Set<string>, setId: string,
   if (e.accept !== undefined && !isTextList(e.accept)) errs.push(`${where}: accept musi być tablicą tekstów`);
   if (e.distractors !== undefined && !isTextList(e.distractors)) errs.push(`${where}: distractors musi być tablicą tekstów`);
   if (e.hint !== undefined && !isText(e.hint)) errs.push(`${where}: pusty hint`);
+  if (e.meaning !== undefined && !isText(e.meaning)) errs.push(`${where}: pusty meaning`);
+  // Luka bez wskazówki w nawiasie potrzebuje polskiego znaczenia zdania (w Reading wskazówką jest tekst).
+  if (e.type === "cloze" && at.startsWith("exercises/") && isText(e.prompt) && !e.prompt.includes("(") && !isText(e.meaning)) {
+    errs.push(`${where}: cloze bez wskazówki w nawiasie wymaga meaning (znaczenie zdania po polsku)`);
+  }
   return errs;
 }
 

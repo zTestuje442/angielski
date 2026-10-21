@@ -167,6 +167,7 @@
         "id": "c1-writing-review-2-05",
         "type": "cloze",
         "prompt": "Unless you are a die-___ fan, you might find it boring.",
+        "meaning": "Jeśli nie jesteś zagorzałym fanem, może cię to znudzić.",
         "answer": "hard",
         "explanation": "Die-hard fan."
       },

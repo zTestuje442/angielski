@@ -151,6 +151,7 @@
         "id": "b1-vocab-collocations-make-do-have-take-2-03",
         "type": "cloze",
         "prompt": "We ___ a great time at the party.",
+        "meaning": "Świetnie się bawiliśmy na imprezie.",
         "answer": "had",
         "explanation": "Have a great time."
       },
@@ -256,6 +257,7 @@
         "id": "b1-vocab-collocations-make-do-have-take-3-02",
         "type": "cloze",
         "prompt": "Over 100 people took ___ in the race.",
+        "meaning": "W wyścigu wzięło udział ponad 100 osób.",
         "answer": "part",
         "explanation": "Take part in."
       },

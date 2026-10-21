@@ -19,6 +19,7 @@
         "id": "a1-sent-describing-places-1-02",
         "type": "cloze",
         "prompt": "There ___ a lamp on the desk.",
+        "meaning": "Na biurku jest lampa.",
         "answer": "is",
         "accept": [
           "'s"
@@ -29,6 +30,7 @@
         "id": "a1-sent-describing-places-1-03",
         "type": "cloze",
         "prompt": "There ___ two chairs in the kitchen.",
+        "meaning": "W kuchni są dwa krzesła.",
         "answer": "are",
         "explanation": "Kilka rzeczy: there are."
       },

@@ -19,6 +19,7 @@
         "id": "b2-sent-purpose-result-1-02",
         "type": "cloze",
         "prompt": "I'm learning English ___ that I can work abroad.",
+        "meaning": "Uczę się angielskiego, żeby móc pracować za granicą.",
         "answer": "so",
         "explanation": "So that + can."
       },
@@ -26,6 +27,7 @@
         "id": "b2-sent-purpose-result-1-03",
         "type": "cloze",
         "prompt": "She whispered so as ___ to wake the baby.",
+        "meaning": "Szeptała, żeby nie obudzić dziecka.",
         "answer": "not",
         "explanation": "So as not to."
       },
@@ -134,6 +136,7 @@
         "id": "b2-sent-purpose-result-2-02",
         "type": "cloze",
         "prompt": "We left early in ___ to catch the first train.",
+        "meaning": "Wyszliśmy wcześnie, żeby zdążyć na pierwszy pociąg.",
         "answer": "order",
         "explanation": "In order to."
       },
@@ -254,6 +257,7 @@
         "id": "b2-sent-purpose-result-3-02",
         "type": "cloze",
         "prompt": "I set two alarms so as not ___ oversleep.",
+        "meaning": "Nastawiam dwa budziki, żeby nie zaspać.",
         "answer": "to",
         "explanation": "So as not to."
       },

@@ -19,6 +19,7 @@
         "id": "a2-sent-comparisons-1-02",
         "type": "cloze",
         "prompt": "My sister is older ___ me.",
+        "meaning": "Moja siostra jest starsza ode mnie.",
         "answer": "than",
         "explanation": "Stopień wyższy + than."
       },
@@ -138,6 +139,7 @@
         "id": "a2-sent-comparisons-2-03",
         "type": "cloze",
         "prompt": "It's the ___ expensive phone in the shop.",
+        "meaning": "To najdroższy telefon w sklepie.",
         "answer": "most",
         "explanation": "The most + długi przymiotnik."
       },

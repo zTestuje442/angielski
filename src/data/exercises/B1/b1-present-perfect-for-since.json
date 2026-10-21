@@ -7,6 +7,7 @@
         "id": "b1-present-perfect-for-since-1-01",
         "type": "cloze",
         "prompt": "I have lived in Gdańsk ___ 2019.",
+        "meaning": "Mieszkam w Gdańsku od 2019 roku.",
         "answer": "since",
         "explanation": "2019 to punkt w czasie, od którego coś trwa, więc since."
       },
@@ -14,6 +15,7 @@
         "id": "b1-present-perfect-for-since-1-02",
         "type": "cloze",
         "prompt": "We have known each other ___ ten years.",
+        "meaning": "Znamy się od dziesięciu lat.",
         "answer": "for",
         "explanation": "Ten years to okres (ile czasu), więc for."
       },
@@ -44,6 +46,7 @@
         "id": "b1-present-perfect-for-since-1-06",
         "type": "cloze",
         "prompt": "They have been married ___ a long time.",
+        "meaning": "Są małżeństwem od dawna.",
         "answer": "for",
         "explanation": "A long time to okres, więc for."
       },
@@ -89,6 +92,7 @@
         "id": "b1-present-perfect-for-since-2-01",
         "type": "cloze",
         "prompt": "He hasn't called me ___ Tuesday.",
+        "meaning": "Nie dzwonił do mnie od wtorku.",
         "answer": "since",
         "explanation": "Tuesday to punkt w czasie, więc since."
       },
@@ -96,6 +100,7 @@
         "id": "b1-present-perfect-for-since-2-02",
         "type": "cloze",
         "prompt": "I've been at this company ___ almost a year.",
+        "meaning": "Pracuję w tej firmie od prawie roku.",
         "answer": "for",
         "explanation": "Almost a year to okres, więc for."
       },
@@ -148,6 +153,7 @@
         "id": "b1-present-perfect-for-since-2-09",
         "type": "cloze",
         "prompt": "My parents have been retired ___ 2018.",
+        "meaning": "Moi rodzice są na emeryturze od 2018 roku.",
         "answer": "since",
         "explanation": "2018 to punkt w czasie, więc since."
       },
@@ -177,6 +183,7 @@
         "id": "b1-present-perfect-for-since-3-02",
         "type": "cloze",
         "prompt": "I haven't eaten anything ___ breakfast.",
+        "meaning": "Od śniadania nic nie jadłem.",
         "answer": "since",
         "explanation": "Breakfast wyznacza moment początku, więc since."
       },
@@ -184,6 +191,7 @@
         "id": "b1-present-perfect-for-since-3-03",
         "type": "cloze",
         "prompt": "They've been waiting outside ___ twenty minutes.",
+        "meaning": "Czekają na zewnątrz od dwudziestu minut.",
         "answer": "for",
         "explanation": "Twenty minutes to okres, więc for."
       },
@@ -229,6 +237,7 @@
         "id": "b1-present-perfect-for-since-3-09",
         "type": "cloze",
         "prompt": "It's been ages ___ we last met.",
+        "meaning": "Minęły wieki, odkąd ostatnio się widzieliśmy.",
         "answer": "since",
         "explanation": "It's been + okres + since + Past Simple: od naszego ostatniego spotkania minęło dużo czasu."
       },

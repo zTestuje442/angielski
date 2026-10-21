@@ -48,6 +48,7 @@
         "id": "b2-writing-review-1-05",
         "type": "cloze",
         "prompt": "It's well ___ watching if you like history.",
+        "meaning": "Warto go obejrzeć, jeśli lubisz historię.",
         "answer": "worth",
         "explanation": "Well worth + -ing."
       },
@@ -162,6 +163,7 @@
         "id": "b2-writing-review-2-05",
         "type": "cloze",
         "prompt": "I wouldn't recommend it ___ young children – it's quite violent.",
+        "meaning": "Nie poleciłbym go małym dzieciom – jest dość brutalny.",
         "answer": "to",
         "explanation": "Recommend to."
       },
@@ -265,6 +267,7 @@
         "id": "b2-writing-review-3-04",
         "type": "cloze",
         "prompt": "The film is based ___ a true story.",
+        "meaning": "Film jest oparty na prawdziwej historii.",
         "answer": "on",
         "explanation": "Based on."
       },

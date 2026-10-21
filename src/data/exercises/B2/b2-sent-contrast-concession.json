@@ -146,6 +146,7 @@
         "id": "b2-sent-contrast-concession-2-02",
         "type": "cloze",
         "prompt": "___ though he earns a lot, he never saves money.",
+        "meaning": "Chociaż dużo zarabia, nigdy nie oszczędza.",
         "answer": "Even",
         "explanation": "Even though."
       },
@@ -271,6 +272,7 @@
         "id": "b2-sent-contrast-concession-3-03",
         "type": "cloze",
         "prompt": "In spite ___ the noise, I slept well.",
+        "meaning": "Mimo hałasu dobrze spałem.",
         "answer": "of",
         "explanation": "In spite of."
       },

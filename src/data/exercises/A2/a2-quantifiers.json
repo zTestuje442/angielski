@@ -118,6 +118,7 @@
         "id": "a2-quantifiers-2-01",
         "type": "cloze",
         "prompt": "There are ___ lot of tourists in summer.",
+        "meaning": "Latem jest dużo turystów.",
         "answer": "a",
         "explanation": "A lot of."
       },
@@ -125,6 +126,7 @@
         "id": "a2-quantifiers-2-02",
         "type": "cloze",
         "prompt": "She drinks a lot ___ water.",
+        "meaning": "Ona pije dużo wody.",
         "answer": "of",
         "explanation": "A lot of."
       },
@@ -132,6 +134,7 @@
         "id": "a2-quantifiers-2-03",
         "type": "cloze",
         "prompt": "Can I have ___ little sugar, please?",
+        "meaning": "Czy mogę dostać trochę cukru?",
         "answer": "a",
         "explanation": "A little = trochę."
       },
@@ -219,6 +222,7 @@
         "id": "a2-quantifiers-3-01",
         "type": "cloze",
         "prompt": "How ___ eggs do we need?",
+        "meaning": "Ile jajek potrzebujemy?",
         "answer": "many",
         "explanation": "Eggs są policzalne."
       },
@@ -226,6 +230,7 @@
         "id": "a2-quantifiers-3-02",
         "type": "cloze",
         "prompt": "How ___ juice is in the bottle?",
+        "meaning": "Ile soku jest w butelce?",
         "answer": "much",
         "explanation": "Juice jest niepoliczalny."
       },

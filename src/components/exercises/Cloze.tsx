@@ -18,6 +18,7 @@ export function Cloze({ exercise, answered, onSubmit, onReady }: ExerciseProps) 
         </span>
         {after}
       </p>
+      {exercise.meaning && <p className="meaning" lang="pl"><span className="meaning-tag">PL</span>{exercise.meaning}</p>}
     </form>
   );
 }

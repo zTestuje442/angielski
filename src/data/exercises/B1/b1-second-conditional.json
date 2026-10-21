@@ -17,6 +17,7 @@
         "id": "b1-second-conditional-1-02",
         "type": "cloze",
         "prompt": "If I had more time, I ___ learn Spanish.",
+        "meaning": "Gdybym miał więcej czasu, uczyłbym się hiszpańskiego.",
         "answer": "would",
         "explanation": "Skutek: would."
       },

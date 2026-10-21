@@ -14,6 +14,7 @@
         "id": "b1-present-perfect-just-already-yet-1-02",
         "type": "cloze",
         "prompt": "Have you finished ___?",
+        "meaning": "Skończyłeś już?",
         "answer": "yet",
         "explanation": "W pytaniu: yet na końcu."
       },
@@ -113,6 +114,7 @@
         "id": "b1-present-perfect-just-already-yet-2-01",
         "type": "cloze",
         "prompt": "We haven't decided ___.",
+        "meaning": "Jeszcze nie zdecydowaliśmy.",
         "answer": "yet",
         "explanation": "Jeszcze nie: not ... yet."
       },

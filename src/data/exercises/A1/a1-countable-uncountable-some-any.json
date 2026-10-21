@@ -40,6 +40,7 @@
         "id": "a1-countable-uncountable-some-any-1-04",
         "type": "cloze",
         "prompt": "There are ___ apples on the table.",
+        "meaning": "Na stole są (jakieś) jabłka.",
         "answer": "some",
         "explanation": "Zdanie twierdzące: some."
       },
@@ -47,6 +48,7 @@
         "id": "a1-countable-uncountable-some-any-1-05",
         "type": "cloze",
         "prompt": "We haven't got ___ eggs.",
+        "meaning": "Nie mamy żadnych jajek.",
         "answer": "any",
         "explanation": "Przeczenie: any."
       },
@@ -133,6 +135,7 @@
         "id": "a1-countable-uncountable-some-any-2-03",
         "type": "cloze",
         "prompt": "Would you like ___ tea?",
+        "meaning": "Napijesz się herbaty?",
         "answer": "some",
         "explanation": "Propozycja: some."
       },
@@ -140,6 +143,7 @@
         "id": "a1-countable-uncountable-some-any-2-04",
         "type": "cloze",
         "prompt": "Is there ___ juice in the fridge?",
+        "meaning": "Czy jest jakiś sok w lodówce?",
         "answer": "any",
         "explanation": "Pytanie: any."
       },
@@ -147,6 +151,7 @@
         "id": "a1-countable-uncountable-some-any-2-05",
         "type": "cloze",
         "prompt": "I have got ___ good news for you!",
+        "meaning": "Mam dla ciebie dobre wieści!",
         "answer": "some",
         "explanation": "News jest niepoliczalne; twierdzenie: some."
       },
@@ -217,6 +222,7 @@
         "id": "a1-countable-uncountable-some-any-3-01",
         "type": "cloze",
         "prompt": "Can I have ___ water, please?",
+        "meaning": "Czy mogę dostać trochę wody?",
         "answer": "some",
         "explanation": "Prośba: some."
       },
@@ -224,6 +230,7 @@
         "id": "a1-countable-uncountable-some-any-3-02",
         "type": "cloze",
         "prompt": "There aren't ___ students in the room.",
+        "meaning": "W sali nie ma żadnych uczniów.",
         "answer": "any",
         "explanation": "Przeczenie: any."
       },

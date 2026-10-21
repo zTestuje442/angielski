@@ -7,6 +7,7 @@
         "id": "c1-emphasis-1-01",
         "type": "cloze",
         "prompt": "I ___ like your new haircut! It really suits you.",
+        "meaning": "Naprawdę podoba mi się twoja nowa fryzura! Świetnie ci w niej.",
         "answer": "do",
         "explanation": "Emfaza: do + czasownik."
       },
@@ -14,6 +15,7 @@
         "id": "c1-emphasis-1-02",
         "type": "cloze",
         "prompt": "This is the ___ thing I needed!",
+        "meaning": "To jest dokładnie to, czego potrzebowałem!",
         "answer": "very",
         "explanation": "The very – właśnie ten."
       },
@@ -270,6 +272,7 @@
         "id": "c1-emphasis-3-05",
         "type": "cloze",
         "prompt": "Where on ___ did you find that hat?",
+        "meaning": "Gdzie ty, na litość boską, znalazłeś ten kapelusz?",
         "answer": "earth",
         "explanation": "Where on earth...?"
       },

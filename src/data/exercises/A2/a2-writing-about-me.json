@@ -41,6 +41,7 @@
         "id": "a2-writing-about-me-1-04",
         "type": "cloze",
         "prompt": "I work ___ a programmer.",
+        "meaning": "Pracuję jako programista.",
         "answer": "as",
         "explanation": "Work as + zawód."
       },

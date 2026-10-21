@@ -245,6 +245,7 @@
         "id": "a2-vocab-holidays-hotels-3-02",
         "type": "cloze",
         "prompt": "We went ___ in the mountains and slept in a tent.",
+        "meaning": "Pojechaliśmy pod namiot w góry i spaliśmy w namiocie.",
         "answer": "camping",
         "explanation": "Go camping."
       },

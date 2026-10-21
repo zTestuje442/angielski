@@ -19,6 +19,7 @@
         "id": "b1-sent-indirect-questions-1-02",
         "type": "cloze",
         "prompt": "Could you tell me where the toilets ___?",
+        "meaning": "Czy mógłby mi pan powiedzieć, gdzie są toalety?",
         "answer": "are",
         "explanation": "Szyk twierdzący: the toilets are."
       },
@@ -252,6 +253,7 @@
         "id": "b1-sent-indirect-questions-3-03",
         "type": "cloze",
         "prompt": "Do you know ___ there is a pharmacy near here?",
+        "meaning": "Czy wiesz, czy w pobliżu jest apteka?",
         "answer": "if",
         "accept": [
           "whether"

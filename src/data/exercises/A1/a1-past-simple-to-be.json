@@ -7,6 +7,7 @@
         "id": "a1-past-simple-to-be-1-01",
         "type": "cloze",
         "prompt": "I ___ at home yesterday.",
+        "meaning": "Wczoraj byłem w domu.",
         "answer": "was",
         "explanation": "I + was."
       },
@@ -14,6 +15,7 @@
         "id": "a1-past-simple-to-be-1-02",
         "type": "cloze",
         "prompt": "They ___ in Paris last year.",
+        "meaning": "W zeszłym roku byli w Paryżu.",
         "answer": "were",
         "explanation": "They + were."
       },
@@ -94,6 +96,7 @@
         "id": "a1-past-simple-to-be-1-10",
         "type": "cloze",
         "prompt": "The film ___ very good.",
+        "meaning": "Film był bardzo dobry.",
         "answer": "was",
         "explanation": "The film = it, więc was."
       }
@@ -107,6 +110,7 @@
         "id": "a1-past-simple-to-be-2-01",
         "type": "cloze",
         "prompt": "I ___ at the party. I was ill.",
+        "meaning": "Nie byłem na imprezie. Byłem chory.",
         "answer": "wasn't",
         "explanation": "Przeczenie z I: wasn't."
       },
@@ -114,6 +118,7 @@
         "id": "a1-past-simple-to-be-2-02",
         "type": "cloze",
         "prompt": "___ you at work on Monday?",
+        "meaning": "Czy byłeś w pracy w poniedziałek?",
         "answer": "Were",
         "explanation": "Pytanie z you: Were...?"
       },
@@ -121,6 +126,7 @@
         "id": "a1-past-simple-to-be-2-03",
         "type": "cloze",
         "prompt": "Was it expensive? — No, it ___.",
+        "meaning": "Czy to było drogie? — Nie, nie było.",
         "answer": "wasn't",
         "explanation": "Krótka odpowiedź: No, it wasn't."
       },
@@ -201,6 +207,7 @@
         "id": "a1-past-simple-to-be-3-01",
         "type": "cloze",
         "prompt": "Where ___ you born?",
+        "meaning": "Gdzie się urodziłeś?",
         "answer": "were",
         "explanation": "Where were you born? – Gdzie się urodziłeś?"
       },
@@ -208,6 +215,7 @@
         "id": "a1-past-simple-to-be-3-02",
         "type": "cloze",
         "prompt": "I ___ born in 1995.",
+        "meaning": "Urodziłem się w 1995 roku.",
         "answer": "was",
         "explanation": "Urodziłem się: I was born."
       },

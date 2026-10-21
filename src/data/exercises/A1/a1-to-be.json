@@ -7,6 +7,7 @@
         "id": "a1-to-be-1-01",
         "type": "cloze",
         "prompt": "I ___ a student.",
+        "meaning": "Jestem studentem.",
         "answer": "am",
         "explanation": "Z I zawsze używamy am."
       },
@@ -14,6 +15,7 @@
         "id": "a1-to-be-1-02",
         "type": "cloze",
         "prompt": "She ___ from Poland.",
+        "meaning": "Ona jest z Polski.",
         "answer": "is",
         "explanation": "He, she i it łączą się z is."
       },
@@ -21,6 +23,7 @@
         "id": "a1-to-be-1-03",
         "type": "cloze",
         "prompt": "We ___ friends.",
+        "meaning": "Jesteśmy przyjaciółmi.",
         "answer": "are",
         "explanation": "We, you i they łączą się z are."
       },
@@ -107,6 +110,7 @@
         "id": "a1-to-be-2-01",
         "type": "cloze",
         "prompt": "I ___ not hungry.",
+        "meaning": "Nie jestem głodny.",
         "answer": "am",
         "explanation": "Przeczenie: I am not (I'm not)."
       },
@@ -114,6 +118,7 @@
         "id": "a1-to-be-2-02",
         "type": "cloze",
         "prompt": "He ___ not at school today.",
+        "meaning": "Jego dziś nie ma w szkole.",
         "answer": "is",
         "explanation": "He is not = he isn't."
       },
@@ -219,6 +224,7 @@
         "id": "a1-to-be-3-02",
         "type": "cloze",
         "prompt": "___ he your brother?",
+        "meaning": "Czy on jest twoim bratem?",
         "answer": "Is",
         "explanation": "W pytaniu is stoi przed he."
       },
@@ -226,6 +232,7 @@
         "id": "a1-to-be-3-03",
         "type": "cloze",
         "prompt": "Is she at work? — Yes, she ___.",
+        "meaning": "Czy ona jest w pracy? — Tak, jest.",
         "answer": "is",
         "explanation": "Krótka odpowiedź powtarza czasownik: Yes, she is."
       },
@@ -233,6 +240,7 @@
         "id": "a1-to-be-3-04",
         "type": "cloze",
         "prompt": "Are they hungry? — No, they ___.",
+        "meaning": "Czy oni są głodni? — Nie, nie są.",
         "answer": "aren't",
         "explanation": "Przecząca krótka odpowiedź: No, they aren't."
       },

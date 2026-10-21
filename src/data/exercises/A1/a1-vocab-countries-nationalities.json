@@ -19,6 +19,7 @@
         "id": "a1-vocab-countries-nationalities-1-02",
         "type": "cloze",
         "prompt": "I'm from Poland. I'm ___.",
+        "meaning": "Jestem z Polski. Jestem Polakiem.",
         "answer": "Polish",
         "explanation": "Polska → Polish."
       },
@@ -26,6 +27,7 @@
         "id": "a1-vocab-countries-nationalities-1-03",
         "type": "cloze",
         "prompt": "People in Japan speak ___.",
+        "meaning": "W Japonii ludzie mówią po japońsku.",
         "answer": "Japanese",
         "explanation": "Japonia → Japanese."
       },
@@ -124,6 +126,7 @@
         "id": "a1-vocab-countries-nationalities-2-02",
         "type": "cloze",
         "prompt": "My friend is from Ukraine. He's ___.",
+        "meaning": "Mój przyjaciel jest z Ukrainy. Jest Ukraińcem.",
         "answer": "Ukrainian",
         "explanation": "Ukraina → Ukrainian."
       },

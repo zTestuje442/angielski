@@ -29,6 +29,7 @@
         "id": "a2-vocab-restaurant-cooking-1-03",
         "type": "cloze",
         "prompt": "I'd ___ the chicken soup, please.",
+        "meaning": "Poproszę zupę z kurczaka.",
         "answer": "like",
         "explanation": "I'd like..."
       },

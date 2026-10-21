@@ -154,6 +154,7 @@
         "id": "b2-writing-report-2-04",
         "type": "cloze",
         "prompt": "Only 20% ___ the respondents use the gym regularly.",
+        "meaning": "Tylko 20% ankietowanych regularnie korzysta z siłowni.",
         "answer": "of",
         "explanation": "20% of."
       },
@@ -275,6 +276,7 @@
         "id": "b2-writing-report-3-05",
         "type": "cloze",
         "prompt": "___ conclusion, the facilities need modernising.",
+        "meaning": "Podsumowując, obiekty wymagają modernizacji.",
         "answer": "In",
         "explanation": "In conclusion."
       },

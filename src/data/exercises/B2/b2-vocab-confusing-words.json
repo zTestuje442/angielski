@@ -48,6 +48,7 @@
         "id": "b2-vocab-confusing-words-1-05",
         "type": "cloze",
         "prompt": "Can you ___ me a favour?",
+        "meaning": "Możesz wyświadczyć mi przysługę?",
         "answer": "do",
         "explanation": "Do somebody a favour."
       },
@@ -253,6 +254,7 @@
         "id": "b2-vocab-confusing-words-3-03",
         "type": "cloze",
         "prompt": "Could you ___ me the time, please?",
+        "meaning": "Mógłby mi pan powiedzieć, która godzina?",
         "answer": "tell",
         "explanation": "Tell the time."
       },

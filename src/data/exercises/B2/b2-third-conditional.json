@@ -7,6 +7,7 @@
         "id": "b2-third-conditional-1-01",
         "type": "cloze",
         "prompt": "If I had known, I ___ have told you.",
+        "meaning": "Gdybym wiedział, powiedziałbym ci.",
         "answer": "would",
         "explanation": "Skutek: would have."
       },
@@ -129,6 +130,7 @@
         "id": "b2-third-conditional-2-02",
         "type": "cloze",
         "prompt": "She would have come if you ___ invited her.",
+        "meaning": "Przyszłaby, gdybyś ją zaprosił.",
         "answer": "had",
         "explanation": "Po if: had invited."
       },
@@ -249,6 +251,7 @@
         "id": "b2-third-conditional-3-03",
         "type": "cloze",
         "prompt": "If I'd known you were coming, I ___ have made a cake.",
+        "meaning": "Gdybym wiedział, że przyjdziesz, upiekłbym ciasto.",
         "answer": "would",
         "accept": [
           "could",
@@ -267,6 +270,7 @@
         "id": "b2-third-conditional-3-05",
         "type": "cloze",
         "prompt": "If the weather had been better, the trip ___ have been perfect.",
+        "meaning": "Gdyby pogoda była lepsza, wycieczka byłaby idealna.",
         "answer": "would",
         "explanation": "Would have been."
       },

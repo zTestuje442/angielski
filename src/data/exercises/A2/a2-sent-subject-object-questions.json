@@ -19,6 +19,7 @@
         "id": "a2-sent-subject-object-questions-1-02",
         "type": "cloze",
         "prompt": "Who ___ the window? – Tom broke it.",
+        "meaning": "Kto stłukł okno? – Tom je stłukł.",
         "answer": "broke",
         "explanation": "Pytanie o podmiot: bez did."
       },
@@ -26,6 +27,7 @@
         "id": "a2-sent-subject-object-questions-1-03",
         "type": "cloze",
         "prompt": "What ___ you eat for breakfast? – Eggs.",
+        "meaning": "Co zjadłeś na śniadanie? – Jajka.",
         "answer": "did",
         "explanation": "Pytanie o dopełnienie: did."
       },
@@ -125,6 +127,7 @@
         "id": "a2-sent-subject-object-questions-2-03",
         "type": "cloze",
         "prompt": "What ___ she say? – She said hello.",
+        "meaning": "Co ona powiedziała? – Przywitała się.",
         "answer": "did",
         "explanation": "Pytanie o dopełnienie."
       },
@@ -229,6 +232,7 @@
         "id": "a2-sent-subject-object-questions-3-03",
         "type": "cloze",
         "prompt": "Who ___ your teacher talk to? – She talked to my parents.",
+        "meaning": "Z kim rozmawiała twoja nauczycielka? – Rozmawiała z moimi rodzicami.",
         "answer": "did",
         "explanation": "Pytanie o dopełnienie."
       },

@@ -7,6 +7,7 @@
         "id": "b2-sent-relative-linking-1-01",
         "type": "cloze",
         "prompt": "I have three brothers, all of ___ live abroad.",
+        "meaning": "Mam trzech braci, z których wszyscy mieszkają za granicą.",
         "answer": "whom",
         "explanation": "Ludzie po przyimku: whom."
       },
@@ -14,6 +15,7 @@
         "id": "b2-sent-relative-linking-1-02",
         "type": "cloze",
         "prompt": "He wrote ten books, two of ___ became bestsellers.",
+        "meaning": "Napisał dziesięć książek, z których dwie stały się bestsellerami.",
         "answer": "which",
         "explanation": "Rzeczy po przyimku: which."
       },
@@ -128,6 +130,7 @@
         "id": "b2-sent-relative-linking-2-02",
         "type": "cloze",
         "prompt": "She has two cats, both of ___ are black.",
+        "meaning": "Ona ma dwa koty, z których oba są czarne.",
         "answer": "which",
         "explanation": "Rzeczy/zwierzęta: of which."
       },
@@ -228,6 +231,7 @@
         "id": "b2-sent-relative-linking-3-01",
         "type": "cloze",
         "prompt": "This is the house in ___ I was born.",
+        "meaning": "To dom, w którym się urodziłem.",
         "answer": "which",
         "explanation": "Przyimek + which."
       },

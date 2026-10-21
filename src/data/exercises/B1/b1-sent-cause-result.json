@@ -143,6 +143,7 @@
         "id": "b1-sent-cause-result-2-03",
         "type": "cloze",
         "prompt": "I missed the bus. That's ___ I was late.",
+        "meaning": "Uciekł mi autobus. Dlatego się spóźniłem.",
         "answer": "why",
         "explanation": "That's why."
       },

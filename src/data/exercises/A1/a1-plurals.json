@@ -7,6 +7,7 @@
         "id": "a1-plurals-1-01",
         "type": "cloze",
         "prompt": "one book, two ___",
+        "meaning": "jedna książka, dwie książki",
         "answer": "books",
         "explanation": "Większość rzeczowników: dodajemy -s."
       },
@@ -14,6 +15,7 @@
         "id": "a1-plurals-1-02",
         "type": "cloze",
         "prompt": "one box, three ___",
+        "meaning": "jedno pudełko, trzy pudełka",
         "answer": "boxes",
         "explanation": "Po -x dodajemy -es."
       },
@@ -21,6 +23,7 @@
         "id": "a1-plurals-1-03",
         "type": "cloze",
         "prompt": "one bus, two ___",
+        "meaning": "jeden autobus, dwa autobusy",
         "answer": "buses",
         "explanation": "Po -s dodajemy -es."
       },
@@ -104,6 +107,7 @@
         "id": "a1-plurals-2-01",
         "type": "cloze",
         "prompt": "one man, two ___",
+        "meaning": "jeden mężczyzna, dwóch mężczyzn",
         "answer": "men",
         "explanation": "Man → men (nieregularna)."
       },
@@ -111,6 +115,7 @@
         "id": "a1-plurals-2-02",
         "type": "cloze",
         "prompt": "one child, three ___",
+        "meaning": "jedno dziecko, troje dzieci",
         "answer": "children",
         "explanation": "Child → children (nieregularna)."
       },
@@ -118,6 +123,7 @@
         "id": "a1-plurals-2-03",
         "type": "cloze",
         "prompt": "one foot, two ___",
+        "meaning": "jedna stopa, dwie stopy",
         "answer": "feet",
         "explanation": "Foot → feet (nieregularna)."
       },
@@ -203,6 +209,7 @@
         "id": "a1-plurals-3-01",
         "type": "cloze",
         "prompt": "one knife, two ___",
+        "meaning": "jeden nóż, dwa noże",
         "answer": "knives",
         "explanation": "-fe → -ves."
       },
@@ -210,6 +217,7 @@
         "id": "a1-plurals-3-02",
         "type": "cloze",
         "prompt": "one potato, three ___",
+        "meaning": "jeden ziemniak, trzy ziemniaki",
         "answer": "potatoes",
         "explanation": "Potato → potatoes (-es)."
       },
@@ -217,6 +225,7 @@
         "id": "a1-plurals-3-03",
         "type": "cloze",
         "prompt": "one leaf, many ___",
+        "meaning": "jeden liść, wiele liści",
         "answer": "leaves",
         "explanation": "-f → -ves."
       },

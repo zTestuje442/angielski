@@ -19,6 +19,7 @@
         "id": "b2-vocab-science-research-1-02",
         "type": "cloze",
         "prompt": "Scientists are carrying ___ research into the virus.",
+        "meaning": "Naukowcy prowadzą badania nad wirusem.",
         "answer": "out",
         "explanation": "Carry out research."
       },
@@ -255,6 +256,7 @@
         "id": "b2-vocab-science-research-3-02",
         "type": "cloze",
         "prompt": "The survey was ___ out in ten countries.",
+        "meaning": "Ankietę przeprowadzono w dziesięciu krajach.",
         "answer": "carried",
         "explanation": "Carry out a survey."
       },

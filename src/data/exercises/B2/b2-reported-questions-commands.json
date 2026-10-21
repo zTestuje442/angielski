@@ -7,6 +7,7 @@
         "id": "b2-reported-questions-commands-1-01",
         "type": "cloze",
         "prompt": "\"Where do you live?\" → She asked me where I ___.",
+        "meaning": "„Gdzie mieszkasz?” → Zapytała mnie, gdzie mieszkam.",
         "answer": "lived",
         "explanation": "Szyk twierdzący, czas cofnięty."
       },
@@ -14,6 +15,7 @@
         "id": "b2-reported-questions-commands-1-02",
         "type": "cloze",
         "prompt": "\"Are you tired?\" → He asked me ___ I was tired.",
+        "meaning": "„Jesteś zmęczony?” → Zapytał mnie, czy jestem zmęczony.",
         "answer": "if",
         "accept": [
           "whether"
@@ -46,6 +48,7 @@
         "id": "b2-reported-questions-commands-1-05",
         "type": "cloze",
         "prompt": "\"Don't be late.\" → She told us ___ to be late.",
+        "meaning": "„Nie spóźnijcie się.” → Powiedziała nam, żebyśmy się nie spóźnili.",
         "answer": "not",
         "explanation": "Zakaz: not to."
       },
@@ -117,6 +120,7 @@
         "id": "b2-reported-questions-commands-2-01",
         "type": "cloze",
         "prompt": "\"Can you swim?\" → He asked me if I ___ swim.",
+        "meaning": "„Umiesz pływać?” → Zapytał mnie, czy umiem pływać.",
         "answer": "could",
         "explanation": "Can → could."
       },
@@ -124,6 +128,7 @@
         "id": "b2-reported-questions-commands-2-02",
         "type": "cloze",
         "prompt": "\"Please help me.\" → She asked me ___ help her.",
+        "meaning": "„Proszę, pomóż mi.” → Poprosiła mnie, żebym jej pomógł.",
         "answer": "to",
         "explanation": "Ask + osoba + to."
       },
@@ -226,6 +231,7 @@
         "id": "b2-reported-questions-commands-3-01",
         "type": "cloze",
         "prompt": "\"Will you be there?\" → She asked if I ___ be there.",
+        "meaning": "„Będziesz tam?” → Zapytała, czy tam będę.",
         "answer": "would",
         "explanation": "Will → would."
       },
@@ -233,6 +239,7 @@
         "id": "b2-reported-questions-commands-3-02",
         "type": "cloze",
         "prompt": "\"Who wrote this?\" → He wanted to know who ___ written it.",
+        "meaning": "„Kto to napisał?” → Chciał wiedzieć, kto to napisał.",
         "answer": "had",
         "explanation": "Wrote → had written."
       },

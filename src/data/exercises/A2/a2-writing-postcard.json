@@ -149,6 +149,7 @@
         "id": "a2-writing-postcard-2-04",
         "type": "cloze",
         "prompt": "We come back ___ Saturday.",
+        "meaning": "Wracamy w sobotę.",
         "answer": "on",
         "explanation": "Dzień: on."
       },
@@ -268,6 +269,7 @@
         "id": "a2-writing-postcard-3-04",
         "type": "cloze",
         "prompt": "We are staying ___ a small hotel.",
+        "meaning": "Mieszkamy w małym hotelu.",
         "answer": "in",
         "explanation": "Stay in a hotel."
       },

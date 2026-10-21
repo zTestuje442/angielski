@@ -30,6 +30,7 @@
         "id": "c1-sent-cohesion-reference-1-03",
         "type": "cloze",
         "prompt": "Many wanted to protest, but few actually did ___.",
+        "meaning": "Wielu chciało protestować, ale niewielu to zrobiło.",
         "answer": "so",
         "explanation": "Do so."
       },

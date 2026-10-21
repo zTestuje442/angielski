@@ -226,6 +226,7 @@
         "id": "a1-adverbs-of-frequency-3-01",
         "type": "cloze",
         "prompt": "How ___ do you go to the gym?",
+        "meaning": "Jak często chodzisz na siłownię?",
         "answer": "often",
         "explanation": "Jak często = how often."
       },

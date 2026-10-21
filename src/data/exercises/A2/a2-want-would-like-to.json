@@ -7,6 +7,7 @@
         "id": "a2-want-would-like-to-1-01",
         "type": "cloze",
         "prompt": "I want ___ go home.",
+        "meaning": "Chcę iść do domu.",
         "answer": "to",
         "explanation": "Want + to + czasownik."
       },
@@ -14,6 +15,7 @@
         "id": "a2-want-would-like-to-1-02",
         "type": "cloze",
         "prompt": "Would you like ___ drink?",
+        "meaning": "Napijesz się czegoś?",
         "answer": "a",
         "explanation": "Would you like a drink?"
       },
@@ -21,6 +23,7 @@
         "id": "a2-want-would-like-to-1-03",
         "type": "cloze",
         "prompt": "She'd like ___ visit Paris.",
+        "meaning": "Ona chciałaby zwiedzić Paryż.",
         "answer": "to",
         "explanation": "Would like + to."
       },
@@ -110,6 +113,7 @@
         "id": "a2-want-would-like-to-2-01",
         "type": "cloze",
         "prompt": "Would you like ___ come to my party?",
+        "meaning": "Czy chciałbyś przyjść na moją imprezę?",
         "answer": "to",
         "explanation": "Would like + to."
       },
@@ -117,6 +121,7 @@
         "id": "a2-want-would-like-to-2-02",
         "type": "cloze",
         "prompt": "What ___ you like to eat?",
+        "meaning": "Co chciałbyś zjeść?",
         "answer": "would",
         "explanation": "What would you like...?"
       },
@@ -124,6 +129,7 @@
         "id": "a2-want-would-like-to-2-03",
         "type": "cloze",
         "prompt": "Would you like some cake? — Yes, I ___. Thank you.",
+        "meaning": "Zjesz kawałek ciasta? — Tak, poproszę. Dziękuję.",
         "answer": "would",
         "explanation": "Krótka odpowiedź: Yes, I would."
       },
@@ -227,6 +233,7 @@
         "id": "a2-want-would-like-to-3-03",
         "type": "cloze",
         "prompt": "She wants ___ learn Italian.",
+        "meaning": "Ona chce się uczyć włoskiego.",
         "answer": "to",
         "explanation": "Want + to."
       },
@@ -234,6 +241,7 @@
         "id": "a2-want-would-like-to-3-04",
         "type": "cloze",
         "prompt": "I would ___ to book a table for two.",
+        "meaning": "Chciałbym zarezerwować stolik dla dwóch osób.",
         "answer": "like",
         "explanation": "Would like to."
       },

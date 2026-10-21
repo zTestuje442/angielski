@@ -48,6 +48,7 @@
         "id": "a2-writing-invitation-1-05",
         "type": "cloze",
         "prompt": "Please let me ___ if you can come.",
+        "meaning": "Daj mi znać, czy możesz przyjść.",
         "answer": "know",
         "explanation": "Let me know."
       },
@@ -262,6 +263,7 @@
         "id": "a2-writing-invitation-3-04",
         "type": "cloze",
         "prompt": "Would you like ___ come?",
+        "meaning": "Czy chciałbyś przyjść?",
         "answer": "to",
         "explanation": "Would you like to..."
       },

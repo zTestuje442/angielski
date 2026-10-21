@@ -48,6 +48,7 @@
         "id": "b1-writing-article-1-05",
         "type": "cloze",
         "prompt": "So why not give it a ___?",
+        "meaning": "Więc czemu nie spróbować?",
         "answer": "try",
         "explanation": "Give it a try."
       },
@@ -145,6 +146,7 @@
         "id": "b1-writing-article-2-04",
         "type": "cloze",
         "prompt": "All ___ all, it's a great hobby.",
+        "meaning": "Podsumowując, to świetne hobby.",
         "answer": "in",
         "explanation": "All in all."
       },
@@ -268,6 +270,7 @@
         "id": "b1-writing-article-3-05",
         "type": "cloze",
         "prompt": "Do you know how much plastic we throw ___ every day?",
+        "meaning": "Czy wiesz, ile plastiku wyrzucamy każdego dnia?",
         "answer": "away",
         "explanation": "Throw away."
       },

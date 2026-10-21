@@ -19,6 +19,7 @@
         "id": "a2-vocab-housework-1-02",
         "type": "cloze",
         "prompt": "I always ___ my bed in the morning.",
+        "meaning": "Rano zawsze ścielę łóżko.",
         "answer": "make",
         "explanation": "Make the bed."
       },
@@ -26,6 +27,7 @@
         "id": "a2-vocab-housework-1-03",
         "type": "cloze",
         "prompt": "Can you take ___ the rubbish, please?",
+        "meaning": "Możesz wynieść śmieci?",
         "answer": "out",
         "explanation": "Take out the rubbish."
       },

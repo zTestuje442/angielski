@@ -248,6 +248,7 @@
         "id": "b1-vocab-media-3-03",
         "type": "cloze",
         "prompt": "I listen to a ___ about history on my way to work.",
+        "meaning": "W drodze do pracy słucham podcastu o historii.",
         "answer": "podcast",
         "explanation": "Podcast."
       },

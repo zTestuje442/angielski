@@ -7,6 +7,7 @@
         "id": "b1-used-to-1-01",
         "type": "cloze",
         "prompt": "I ___ to play the piano, but I stopped.",
+        "meaning": "Kiedyś grałem na pianinie, ale przestałem.",
         "answer": "used",
         "explanation": "Kiedyś (już nie): used to."
       },
@@ -43,6 +44,7 @@
         "id": "b1-used-to-1-05",
         "type": "cloze",
         "prompt": "I didn't ___ to like coffee, but now I love it.",
+        "meaning": "Kiedyś nie lubiłem kawy, a teraz ją uwielbiam.",
         "answer": "use",
         "explanation": "Po didn't: use to."
       },
@@ -113,6 +115,7 @@
         "id": "b1-used-to-2-01",
         "type": "cloze",
         "prompt": "There ___ to be a cinema here, but now it's a supermarket.",
+        "meaning": "Kiedyś było tu kino, a teraz jest supermarket.",
         "answer": "used",
         "explanation": "There used to be."
       },
@@ -120,6 +123,7 @@
         "id": "b1-used-to-2-02",
         "type": "cloze",
         "prompt": "Where did you use ___ live?",
+        "meaning": "Gdzie kiedyś mieszkałeś?",
         "answer": "to",
         "explanation": "Did + use to."
       },
@@ -249,6 +253,7 @@
         "id": "b1-used-to-3-04",
         "type": "cloze",
         "prompt": "My grandparents ___ to live on a farm.",
+        "meaning": "Moi dziadkowie kiedyś mieszkali na wsi, w gospodarstwie.",
         "answer": "used",
         "explanation": "Used to."
       },
@@ -256,6 +261,7 @@
         "id": "b1-used-to-3-05",
         "type": "cloze",
         "prompt": "We used ___ have a car, but we sold it.",
+        "meaning": "Kiedyś mieliśmy samochód, ale go sprzedaliśmy.",
         "answer": "to",
         "explanation": "Used to."
       },

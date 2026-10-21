@@ -149,6 +149,7 @@
         "id": "c1-writing-formal-letter-2-04",
         "type": "cloze",
         "prompt": "Not ___ is the plan expensive, but it is also unnecessary.",
+        "meaning": "Plan jest nie tylko drogi, ale też niepotrzebny.",
         "answer": "only",
         "explanation": "Not only + inwersja."
       },

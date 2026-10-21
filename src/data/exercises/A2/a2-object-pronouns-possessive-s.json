@@ -21,6 +21,7 @@
         "id": "a2-object-pronouns-possessive-s-1-03",
         "type": "cloze",
         "prompt": "This is Tom. Do you know ___?",
+        "meaning": "To jest Tom. Znasz go?",
         "answer": "him",
         "explanation": "Tom = he → him."
       },

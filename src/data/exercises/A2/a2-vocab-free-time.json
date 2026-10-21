@@ -48,6 +48,7 @@
         "id": "a2-vocab-free-time-1-05",
         "type": "cloze",
         "prompt": "I ___ chess with my dad.",
+        "meaning": "Gram w szachy z tatą.",
         "answer": "play",
         "explanation": "Play chess."
       },
@@ -123,6 +124,7 @@
         "id": "a2-vocab-free-time-2-02",
         "type": "cloze",
         "prompt": "Do you want to ___ shopping with me?",
+        "meaning": "Chcesz iść ze mną na zakupy?",
         "answer": "go",
         "explanation": "Go shopping."
       },

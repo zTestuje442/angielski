@@ -19,6 +19,7 @@
         "id": "b1-vocab-relationships-1-02",
         "type": "cloze",
         "prompt": "I get ___ well with my sister. We never argue.",
+        "meaning": "Dobrze dogaduję się z siostrą. Nigdy się nie kłócimy.",
         "answer": "on",
         "explanation": "Get on with."
       },
@@ -26,6 +27,7 @@
         "id": "b1-vocab-relationships-1-03",
         "type": "cloze",
         "prompt": "She is married ___ a doctor.",
+        "meaning": "Ona jest żoną lekarza.",
         "answer": "to",
         "explanation": "Married to."
       },
@@ -249,6 +251,7 @@
         "id": "b1-vocab-relationships-3-02",
         "type": "cloze",
         "prompt": "We fell ___ because of money, but now we're friends again.",
+        "meaning": "Pokłóciliśmy się o pieniądze, ale teraz znowu się przyjaźnimy.",
         "answer": "out",
         "explanation": "Fall out – poróżnić się."
       },

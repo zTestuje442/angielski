@@ -41,6 +41,7 @@
         "id": "b1-vocab-technology-1-04",
         "type": "cloze",
         "prompt": "Click on the ___ to open the website.",
+        "meaning": "Kliknij w link, żeby otworzyć stronę.",
         "answer": "link",
         "explanation": "Link."
       },

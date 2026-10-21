@@ -40,6 +40,7 @@
         "id": "b1-reported-speech-basics-1-04",
         "type": "cloze",
         "prompt": "\"I live in Rome.\" → He said that he ___ in Rome.",
+        "meaning": "„Mieszkam w Rzymie.” → Powiedział, że mieszka w Rzymie.",
         "answer": "lived",
         "explanation": "Present Simple → Past Simple."
       },
@@ -47,6 +48,7 @@
         "id": "b1-reported-speech-basics-1-05",
         "type": "cloze",
         "prompt": "\"I can swim.\" → She said that she ___ swim.",
+        "meaning": "„Umiem pływać.” → Powiedziała, że umie pływać.",
         "answer": "could",
         "explanation": "Can → could."
       },
@@ -124,6 +126,7 @@
         "id": "b1-reported-speech-basics-2-01",
         "type": "cloze",
         "prompt": "\"We will help you.\" → They said that they ___ help us.",
+        "meaning": "„Pomożemy ci.” → Powiedzieli, że nam pomogą.",
         "answer": "would",
         "explanation": "Will → would."
       },
@@ -131,6 +134,7 @@
         "id": "b1-reported-speech-basics-2-02",
         "type": "cloze",
         "prompt": "\"I work in a bank.\" → She told me that she ___ in a bank.",
+        "meaning": "„Pracuję w banku.” → Powiedziała mi, że pracuje w banku.",
         "answer": "worked",
         "explanation": "Work → worked."
       },
@@ -243,6 +247,7 @@
         "id": "b1-reported-speech-basics-3-01",
         "type": "cloze",
         "prompt": "\"I'll see you tomorrow.\" → She said she would see me the next ___.",
+        "meaning": "„Do zobaczenia jutro.” → Powiedziała, że zobaczy się ze mną następnego dnia.",
         "answer": "day",
         "explanation": "Tomorrow → the next day."
       },
@@ -250,6 +255,7 @@
         "id": "b1-reported-speech-basics-3-02",
         "type": "cloze",
         "prompt": "\"I'm busy now.\" → He said he was busy ___.",
+        "meaning": "„Jestem teraz zajęty.” → Powiedział, że jest wtedy zajęty.",
         "answer": "then",
         "explanation": "Now → then."
       },

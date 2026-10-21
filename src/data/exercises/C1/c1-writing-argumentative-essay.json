@@ -41,6 +41,7 @@
         "id": "c1-writing-argumentative-essay-1-04",
         "type": "cloze",
         "prompt": "___ balance, I believe that the benefits outweigh the costs.",
+        "meaning": "Wszystko rozważywszy, uważam, że korzyści przewyższają koszty.",
         "answer": "On",
         "explanation": "On balance."
       },
@@ -155,6 +156,7 @@
         "id": "c1-writing-argumentative-essay-2-04",
         "type": "cloze",
         "prompt": "Not ___ does tourism create jobs, but it also promotes cultural exchange.",
+        "meaning": "Turystyka nie tylko tworzy miejsca pracy, ale też sprzyja wymianie kulturowej.",
         "answer": "only",
         "explanation": "Not only does..."
       },
@@ -162,6 +164,7 @@
         "id": "c1-writing-argumentative-essay-2-05",
         "type": "cloze",
         "prompt": "Some people prefer cities, ___ others prefer the countryside.",
+        "meaning": "Niektórzy wolą miasta, podczas gdy inni wolą wieś.",
         "answer": "whereas",
         "accept": [
           "while"

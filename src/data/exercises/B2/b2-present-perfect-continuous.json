@@ -14,6 +14,7 @@
         "id": "b2-present-perfect-continuous-1-02",
         "type": "cloze",
         "prompt": "She has ___ learning French since January.",
+        "meaning": "Ona uczy się francuskiego od stycznia.",
         "answer": "been",
         "explanation": "Has been + -ing."
       },
@@ -125,6 +126,7 @@
         "id": "b2-present-perfect-continuous-2-02",
         "type": "cloze",
         "prompt": "They've ___ arguing again – I can hear them.",
+        "meaning": "Znowu się kłócili – słyszę ich.",
         "answer": "been",
         "explanation": "Have been + -ing."
       },

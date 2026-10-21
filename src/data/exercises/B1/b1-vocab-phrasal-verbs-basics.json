@@ -19,6 +19,7 @@
         "id": "b1-vocab-phrasal-verbs-basics-1-02",
         "type": "cloze",
         "prompt": "I'm trying to give ___ smoking.",
+        "meaning": "Próbuję rzucić palenie.",
         "answer": "up",
         "explanation": "Rzucić: give up."
       },
@@ -26,6 +27,7 @@
         "id": "b1-vocab-phrasal-verbs-basics-1-03",
         "type": "cloze",
         "prompt": "Can you look ___ my cat while I'm away?",
+        "meaning": "Możesz zająć się moim kotem, kiedy mnie nie będzie?",
         "answer": "after",
         "explanation": "Opiekować się: look after."
       },
@@ -132,6 +134,7 @@
         "id": "b1-vocab-phrasal-verbs-basics-2-02",
         "type": "cloze",
         "prompt": "Take ___ your shoes, please.",
+        "meaning": "Proszę zdjąć buty.",
         "answer": "off",
         "explanation": "Zdjąć: take off."
       },
@@ -250,6 +253,7 @@
         "id": "b1-vocab-phrasal-verbs-basics-3-02",
         "type": "cloze",
         "prompt": "Our car broke ___ on the motorway.",
+        "meaning": "Samochód zepsuł nam się na autostradzie.",
         "answer": "down",
         "explanation": "Zepsuć się: break down."
       },
@@ -257,6 +261,7 @@
         "id": "b1-vocab-phrasal-verbs-basics-3-03",
         "type": "cloze",
         "prompt": "I grew ___ in a small town.",
+        "meaning": "Dorastałem w małym mieście.",
         "answer": "up",
         "explanation": "Dorastać: grow up."
       },

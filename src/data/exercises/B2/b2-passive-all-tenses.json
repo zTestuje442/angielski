@@ -7,6 +7,7 @@
         "id": "b2-passive-all-tenses-1-01",
         "type": "cloze",
         "prompt": "The house is ___ painted at the moment.",
+        "meaning": "Dom jest właśnie malowany.",
         "answer": "being",
         "explanation": "Present Continuous passive: is being + III forma."
       },
@@ -251,6 +252,7 @@
         "id": "b2-passive-all-tenses-3-04",
         "type": "cloze",
         "prompt": "The flight has ___ cancelled because of the storm.",
+        "meaning": "Lot został odwołany z powodu burzy.",
         "answer": "been",
         "explanation": "Has been cancelled."
       },
@@ -258,6 +260,7 @@
         "id": "b2-passive-all-tenses-3-05",
         "type": "cloze",
         "prompt": "The patients are ___ looked after by excellent nurses.",
+        "meaning": "Pacjentami opiekują się (obecnie) wspaniałe pielęgniarki.",
         "answer": "being",
         "explanation": "Are being + III forma."
       },

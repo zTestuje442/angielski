@@ -242,6 +242,7 @@
         "id": "b1-vocab-emotions-character-3-02",
         "type": "cloze",
         "prompt": "Calm ___! It's not a big problem.",
+        "meaning": "Uspokój się! To nie jest duży problem.",
         "answer": "down",
         "explanation": "Uspokój się: calm down."
       },
@@ -249,6 +250,7 @@
         "id": "b1-vocab-emotions-character-3-03",
         "type": "cloze",
         "prompt": "I get ___ well with my colleagues.",
+        "meaning": "Dobrze dogaduję się ze współpracownikami.",
         "answer": "on",
         "explanation": "Dogadywać się: get on with."
       },

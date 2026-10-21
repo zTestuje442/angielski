@@ -19,6 +19,7 @@
         "id": "b2-vocab-public-administration-1-02",
         "type": "cloze",
         "prompt": "Please ___ in this form and sign it at the bottom.",
+        "meaning": "Proszę wypełnić ten formularz i podpisać go na dole.",
         "answer": "fill",
         "explanation": "Fill in a form."
       },
@@ -263,6 +264,7 @@
         "id": "b2-vocab-public-administration-3-03",
         "type": "cloze",
         "prompt": "You will receive a decision ___ 30 days of submitting your application.",
+        "meaning": "Decyzję otrzyma pan w ciągu 30 dni od złożenia wniosku.",
         "answer": "within",
         "explanation": "Within ... of."
       },

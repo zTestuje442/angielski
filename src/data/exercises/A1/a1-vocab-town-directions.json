@@ -41,6 +41,7 @@
         "id": "a1-vocab-town-directions-1-04",
         "type": "cloze",
         "prompt": "We watch films at the ___.",
+        "meaning": "Filmy oglądamy w kinie.",
         "answer": "cinema",
         "explanation": "Filmy oglądamy w kinie."
       },
@@ -48,6 +49,7 @@
         "id": "a1-vocab-town-directions-1-05",
         "type": "cloze",
         "prompt": "You catch a train at the ___ station.",
+        "meaning": "Na pociąg wsiada się na dworcu kolejowym.",
         "answer": "railway",
         "accept": [
           "train"
@@ -236,6 +238,7 @@
         "id": "a1-vocab-town-directions-3-02",
         "type": "cloze",
         "prompt": "Excuse me, how do I ___ to the station?",
+        "meaning": "Przepraszam, jak dojść na dworzec?",
         "answer": "get",
         "explanation": "Jak dojść: How do I get to...?"
       },
@@ -243,6 +246,7 @@
         "id": "a1-vocab-town-directions-3-03",
         "type": "cloze",
         "prompt": "It's a five-minute ___ from here.",
+        "meaning": "To pięć minut pieszo stąd.",
         "answer": "walk",
         "explanation": "Pięć minut pieszo: a five-minute walk."
       },

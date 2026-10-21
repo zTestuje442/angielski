@@ -39,6 +39,7 @@
         "id": "a2-sent-everyday-phrases-1-04",
         "type": "cloze",
         "prompt": "___ I have the bill, please?",
+        "meaning": "Czy mogę prosić o rachunek?",
         "answer": "Can",
         "accept": [
           "Could",
@@ -234,6 +235,7 @@
         "id": "a2-sent-everyday-phrases-3-02",
         "type": "cloze",
         "prompt": "Excuse ___, where's the toilet?",
+        "meaning": "Przepraszam, gdzie jest toaleta?",
         "answer": "me",
         "explanation": "Zaczepiając kogoś: Excuse me."
       },
@@ -241,6 +243,7 @@
         "id": "a2-sent-everyday-phrases-3-03",
         "type": "cloze",
         "prompt": "Thank you very much! — You're ___.",
+        "meaning": "Bardzo dziękuję! — Nie ma za co.",
         "answer": "welcome",
         "explanation": "Odpowiedź na dziękuję: You're welcome."
       },

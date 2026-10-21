@@ -113,6 +113,7 @@
         "id": "a1-past-simple-regular-2-01",
         "type": "cloze",
         "prompt": "I ___ like the film.",
+        "meaning": "Nie podobał mi się ten film.",
         "answer": "didn't",
         "explanation": "Przeczenie: didn't + forma podstawowa."
       },
@@ -120,6 +121,7 @@
         "id": "a1-past-simple-regular-2-02",
         "type": "cloze",
         "prompt": "___ you enjoy the party?",
+        "meaning": "Czy dobrze się bawiłeś na imprezie?",
         "answer": "Did",
         "explanation": "Pytanie: Did + podmiot + forma podstawowa."
       },
@@ -127,6 +129,7 @@
         "id": "a1-past-simple-regular-2-03",
         "type": "cloze",
         "prompt": "Did she call you? — Yes, she ___.",
+        "meaning": "Czy ona do ciebie dzwoniła? — Tak, dzwoniła.",
         "answer": "did",
         "explanation": "Krótka odpowiedź: Yes, she did."
       },

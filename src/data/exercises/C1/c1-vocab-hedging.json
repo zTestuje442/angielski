@@ -157,6 +157,7 @@
         "id": "c1-vocab-hedging-2-04",
         "type": "cloze",
         "prompt": "Generally ___, young people are more open to change.",
+        "meaning": "Ogólnie mówiąc, młodzi ludzie są bardziej otwarci na zmiany.",
         "answer": "speaking",
         "explanation": "Generally speaking."
       },

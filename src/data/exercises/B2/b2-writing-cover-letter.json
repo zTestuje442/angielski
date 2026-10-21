@@ -41,6 +41,7 @@
         "id": "b2-writing-cover-letter-1-04",
         "type": "cloze",
         "prompt": "I have three years of experience ___ software testing.",
+        "meaning": "Mam trzy lata doświadczenia w testowaniu oprogramowania.",
         "answer": "in",
         "explanation": "Experience in."
       },
@@ -161,6 +162,7 @@
         "id": "b2-writing-cover-letter-2-05",
         "type": "cloze",
         "prompt": "My attention ___ detail helps me find mistakes others miss.",
+        "meaning": "Dzięki dbałości o szczegóły znajduję błędy, które inni przeoczają.",
         "answer": "to",
         "explanation": "Attention to detail."
       },

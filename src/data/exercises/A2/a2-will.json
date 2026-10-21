@@ -7,6 +7,7 @@
         "id": "a2-will-1-01",
         "type": "cloze",
         "prompt": "I think it ___ be sunny tomorrow.",
+        "meaning": "Myślę, że jutro będzie słonecznie.",
         "answer": "will",
         "explanation": "Opinia o przyszłości: will."
       },
@@ -14,6 +15,7 @@
         "id": "a2-will-1-02",
         "type": "cloze",
         "prompt": "Don't worry, I ___ help you.",
+        "meaning": "Nie martw się, pomogę ci.",
         "answer": "will",
         "explanation": "Obietnica: will."
       },
@@ -43,6 +45,7 @@
         "id": "a2-will-1-05",
         "type": "cloze",
         "prompt": "People ___ live on Mars one day.",
+        "meaning": "Kiedyś ludzie będą mieszkać na Marsie.",
         "answer": "will",
         "explanation": "Przewidywanie: will."
       },
@@ -112,6 +115,7 @@
         "id": "a2-will-2-01",
         "type": "cloze",
         "prompt": "I ___ forget your birthday, I promise.",
+        "meaning": "Nie zapomnę o twoich urodzinach, obiecuję.",
         "answer": "won't",
         "explanation": "Obietnica w przeczeniu: won't."
       },
@@ -119,6 +123,7 @@
         "id": "a2-will-2-02",
         "type": "cloze",
         "prompt": "___ you help me with this box?",
+        "meaning": "Pomożesz mi z tym pudłem?",
         "answer": "Will",
         "explanation": "Prośba: Will you...?"
       },
@@ -126,6 +131,7 @@
         "id": "a2-will-2-03",
         "type": "cloze",
         "prompt": "Will it be expensive? — No, it ___.",
+        "meaning": "Czy to będzie drogie? — Nie, nie będzie.",
         "answer": "won't",
         "explanation": "Krótka odpowiedź: No, it won't."
       },
@@ -241,6 +247,7 @@
         "id": "a2-will-3-04",
         "type": "cloze",
         "prompt": "I promise I ___ be on time.",
+        "meaning": "Obiecuję, że będę na czas.",
         "answer": "will",
         "explanation": "Obietnica: will."
       },
@@ -248,6 +255,7 @@
         "id": "a2-will-3-05",
         "type": "cloze",
         "prompt": "We've got the tickets. We ___ going to see the match on Saturday.",
+        "meaning": "Mamy bilety. W sobotę idziemy na mecz.",
         "answer": "are",
         "explanation": "Plan: are going to."
       },

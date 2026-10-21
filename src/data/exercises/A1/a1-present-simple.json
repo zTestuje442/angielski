@@ -103,6 +103,7 @@
         "id": "a1-present-simple-2-01",
         "type": "cloze",
         "prompt": "I ___ like fish.",
+        "meaning": "Nie lubię ryb.",
         "answer": "don't",
         "explanation": "Przeczenie z I: don't."
       },
@@ -110,6 +111,7 @@
         "id": "a1-present-simple-2-02",
         "type": "cloze",
         "prompt": "She ___ eat meat.",
+        "meaning": "Ona nie je mięsa.",
         "answer": "doesn't",
         "explanation": "Przeczenie z she: doesn't."
       },
@@ -200,6 +202,7 @@
         "id": "a1-present-simple-3-01",
         "type": "cloze",
         "prompt": "___ you like pizza?",
+        "meaning": "Czy lubisz pizzę?",
         "answer": "Do",
         "explanation": "Pytanie z you: Do...?"
       },
@@ -207,6 +210,7 @@
         "id": "a1-present-simple-3-02",
         "type": "cloze",
         "prompt": "___ she work at weekends?",
+        "meaning": "Czy ona pracuje w weekendy?",
         "answer": "Does",
         "explanation": "Pytanie z she: Does...?"
       },
@@ -214,6 +218,7 @@
         "id": "a1-present-simple-3-03",
         "type": "cloze",
         "prompt": "Do you speak English? — Yes, I ___.",
+        "meaning": "Mówisz po angielsku? — Tak, mówię.",
         "answer": "do",
         "explanation": "Krótka odpowiedź: Yes, I do."
       },
@@ -221,6 +226,7 @@
         "id": "a1-present-simple-3-04",
         "type": "cloze",
         "prompt": "Does he play tennis? — No, he ___.",
+        "meaning": "Czy on gra w tenisa? — Nie, nie gra.",
         "answer": "doesn't",
         "explanation": "Krótka odpowiedź: No, he doesn't."
       },

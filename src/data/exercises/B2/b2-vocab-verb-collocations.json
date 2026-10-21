@@ -19,6 +19,7 @@
         "id": "b2-vocab-verb-collocations-1-02",
         "type": "cloze",
         "prompt": "Please ___ attention to the safety instructions.",
+        "meaning": "Proszę zwrócić uwagę na instrukcje bezpieczeństwa.",
         "answer": "pay",
         "explanation": "Pay attention."
       },
@@ -135,6 +136,7 @@
         "id": "b2-vocab-verb-collocations-2-03",
         "type": "cloze",
         "prompt": "The old barn caught ___ during the storm.",
+        "meaning": "Podczas burzy stara stodoła się zapaliła.",
         "answer": "fire",
         "explanation": "Catch fire."
       },
@@ -243,6 +245,7 @@
         "id": "b2-vocab-verb-collocations-3-02",
         "type": "cloze",
         "prompt": "I use an app to keep ___ of my expenses.",
+        "meaning": "Używam aplikacji, żeby śledzić swoje wydatki.",
         "answer": "track",
         "explanation": "Keep track of."
       },

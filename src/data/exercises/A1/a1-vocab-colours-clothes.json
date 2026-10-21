@@ -41,6 +41,7 @@
         "id": "a1-vocab-colours-clothes-1-04",
         "type": "cloze",
         "prompt": "The sky is ___ on a sunny day.",
+        "meaning": "W słoneczny dzień niebo jest niebieskie.",
         "answer": "blue",
         "explanation": "Niebo jest niebieskie."
       },
@@ -48,6 +49,7 @@
         "id": "a1-vocab-colours-clothes-1-05",
         "type": "cloze",
         "prompt": "Bananas are ___.",
+        "meaning": "Banany są żółte.",
         "answer": "yellow",
         "explanation": "Banany są żółte."
       },
@@ -238,6 +240,7 @@
         "id": "a1-vocab-colours-clothes-3-02",
         "type": "cloze",
         "prompt": "These shoes are too ___. I need a bigger size.",
+        "meaning": "Te buty są za małe. Potrzebuję większego rozmiaru.",
         "answer": "small",
         "explanation": "Potrzebny większy rozmiar, bo są za małe."
       },
@@ -245,6 +248,7 @@
         "id": "a1-vocab-colours-clothes-3-03",
         "type": "cloze",
         "prompt": "What ___ is your dress? — It's red.",
+        "meaning": "Jakiego koloru jest twoja sukienka? — Czerwonego.",
         "answer": "colour",
         "accept": [
           "color"

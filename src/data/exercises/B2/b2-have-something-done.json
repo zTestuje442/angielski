@@ -43,6 +43,7 @@
         "id": "b2-have-something-done-1-05",
         "type": "cloze",
         "prompt": "Where did you ___ your photos printed?",
+        "meaning": "Gdzie wywołałeś zdjęcia?",
         "answer": "get",
         "accept": [
           "have"
@@ -120,6 +121,7 @@
         "id": "b2-have-something-done-2-01",
         "type": "cloze",
         "prompt": "She's going to ___ her teeth checked.",
+        "meaning": "Ona idzie na kontrolę zębów.",
         "answer": "have",
         "explanation": "Have something done."
       },

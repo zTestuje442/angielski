@@ -117,6 +117,7 @@
         "id": "a2-past-simple-irregular-2-01",
         "type": "cloze",
         "prompt": "I ___ see you at the party.",
+        "meaning": "Nie widziałem cię na imprezie.",
         "answer": "didn't",
         "explanation": "Przeczenie: didn't + forma podstawowa."
       },
@@ -124,6 +125,7 @@
         "id": "a2-past-simple-irregular-2-02",
         "type": "cloze",
         "prompt": "___ you sleep well?",
+        "meaning": "Dobrze spałeś?",
         "answer": "Did",
         "explanation": "Pytanie: Did + podmiot + forma podstawowa."
       },

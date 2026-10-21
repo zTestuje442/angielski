@@ -163,6 +163,7 @@
         "id": "c1-writing-proposal-2-04",
         "type": "cloze",
         "prompt": "One option ___ be to introduce flexible hours.",
+        "meaning": "Jedną z możliwości byłoby wprowadzenie elastycznych godzin pracy.",
         "answer": "would",
         "explanation": "One option would be to..."
       },
@@ -290,6 +291,7 @@
         "id": "c1-writing-proposal-3-05",
         "type": "cloze",
         "prompt": "___ the long term, the investment would pay for itself.",
+        "meaning": "W dłuższej perspektywie inwestycja by się zwróciła.",
         "answer": "In",
         "explanation": "In the long term."
       },

@@ -41,6 +41,7 @@
         "id": "b2-vocab-idioms-basics-1-04",
         "type": "cloze",
         "prompt": "That new car must have cost an arm and a ___!",
+        "meaning": "Ten nowy samochód musiał kosztować majątek!",
         "answer": "leg",
         "explanation": "Cost an arm and a leg."
       },
@@ -48,6 +49,7 @@
         "id": "b2-vocab-idioms-basics-1-05",
         "type": "cloze",
         "prompt": "He told a joke to break the ___.",
+        "meaning": "Opowiedział dowcip, żeby przełamać lody.",
         "answer": "ice",
         "explanation": "Break the ice."
       },
@@ -152,6 +154,7 @@
         "id": "b2-vocab-idioms-basics-2-04",
         "type": "cloze",
         "prompt": "He's in hot ___ with his boss for missing the deadline.",
+        "meaning": "Ma kłopoty u szefa, bo nie dotrzymał terminu.",
         "answer": "water",
         "explanation": "In hot water."
       },
@@ -159,6 +162,7 @@
         "id": "b2-vocab-idioms-basics-2-05",
         "type": "cloze",
         "prompt": "When he was late again, it was the last ___.",
+        "meaning": "Kiedy znowu się spóźnił, to była kropla, która przelała czarę.",
         "answer": "straw",
         "explanation": "The last straw."
       },
@@ -248,6 +252,7 @@
         "id": "b2-vocab-idioms-basics-3-02",
         "type": "cloze",
         "prompt": "It's late – let's call it a ___.",
+        "meaning": "Późno już – na dziś kończymy.",
         "answer": "day",
         "explanation": "Call it a day."
       },
@@ -255,6 +260,7 @@
         "id": "b2-vocab-idioms-basics-3-03",
         "type": "cloze",
         "prompt": "We can't cut ___ on safety.",
+        "meaning": "Nie możemy iść na skróty, jeśli chodzi o bezpieczeństwo.",
         "answer": "corners",
         "explanation": "Cut corners."
       },

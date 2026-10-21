@@ -7,6 +7,7 @@
         "id": "b2-past-modals-1-01",
         "type": "cloze",
         "prompt": "He's late. He must ___ missed the bus.",
+        "meaning": "Spóźnia się. Na pewno uciekł mu autobus.",
         "answer": "have",
         "explanation": "Must have + III forma."
       },
@@ -248,6 +249,7 @@
         "id": "b2-past-modals-3-03",
         "type": "cloze",
         "prompt": "They could ___ won if they had tried harder.",
+        "meaning": "Mogli wygrać, gdyby bardziej się postarali.",
         "answer": "have",
         "explanation": "Could have won."
       },

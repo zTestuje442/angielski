@@ -19,6 +19,7 @@
         "id": "a1-sent-yes-no-short-answers-1-02",
         "type": "cloze",
         "prompt": "Do you live here? – Yes, I ___.",
+        "meaning": "Mieszkasz tutaj? – Tak, mieszkam.",
         "answer": "do",
         "explanation": "Do you...? – Yes, I do."
       },
@@ -26,6 +27,7 @@
         "id": "a1-sent-yes-no-short-answers-1-03",
         "type": "cloze",
         "prompt": "Is it cold? – No, it ___.",
+        "meaning": "Czy jest zimno? – Nie, nie jest.",
         "answer": "isn't",
         "accept": [
           "is not"
@@ -122,6 +124,7 @@
         "id": "a1-sent-yes-no-short-answers-2-02",
         "type": "cloze",
         "prompt": "Are they at school? – Yes, they ___.",
+        "meaning": "Czy oni są w szkole? – Tak, są.",
         "answer": "are",
         "explanation": "Are they...? – Yes, they are."
       },
@@ -129,6 +132,7 @@
         "id": "a1-sent-yes-no-short-answers-2-03",
         "type": "cloze",
         "prompt": "Do you play tennis? – No, I ___.",
+        "meaning": "Grasz w tenisa? – Nie, nie gram.",
         "answer": "don't",
         "accept": [
           "do not"
@@ -231,6 +235,7 @@
         "id": "a1-sent-yes-no-short-answers-3-02",
         "type": "cloze",
         "prompt": "Can they help us? – Yes, they ___.",
+        "meaning": "Czy oni mogą nam pomóc? – Tak, mogą.",
         "answer": "can",
         "explanation": "Yes, they can."
       },
@@ -238,6 +243,7 @@
         "id": "a1-sent-yes-no-short-answers-3-03",
         "type": "cloze",
         "prompt": "Has she got a cat? – No, she ___.",
+        "meaning": "Czy ona ma kota? – Nie, nie ma.",
         "answer": "hasn't",
         "accept": [
           "has not"

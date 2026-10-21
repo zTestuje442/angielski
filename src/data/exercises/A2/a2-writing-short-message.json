@@ -132,6 +132,7 @@
         "id": "a2-writing-short-message-2-02",
         "type": "cloze",
         "prompt": "Would you like to ___ to my birthday party?",
+        "meaning": "Czy chciałbyś przyjść na moje urodziny?",
         "answer": "come",
         "explanation": "Would you like to come...?"
       },
@@ -139,6 +140,7 @@
         "id": "a2-writing-short-message-2-03",
         "type": "cloze",
         "prompt": "I'd ___ to come! What time does it start?",
+        "meaning": "Chętnie przyjdę! O której się zaczyna?",
         "answer": "love",
         "explanation": "Chętnie: I'd love to."
       },
@@ -146,6 +148,7 @@
         "id": "a2-writing-short-message-2-04",
         "type": "cloze",
         "prompt": "Sorry, I ___ come. I'm working that day.",
+        "meaning": "Przepraszam, nie mogę przyjść. Tego dnia pracuję.",
         "answer": "can't",
         "accept": [
           "cannot"
@@ -248,6 +251,7 @@
         "id": "a2-writing-short-message-3-03",
         "type": "cloze",
         "prompt": "I'm sorry, ___ I can't meet you today.",
+        "meaning": "Przykro mi, ale nie mogę się dziś z tobą spotkać.",
         "answer": "but",
         "explanation": "Sorry, but..."
       },

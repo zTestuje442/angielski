@@ -18,6 +18,7 @@
         "id": "a2-vocab-sport-1-02",
         "type": "cloze",
         "prompt": "I ___ swimming every Saturday.",
+        "meaning": "W każdą sobotę chodzę pływać.",
         "answer": "go",
         "explanation": "Go + -ing."
       },
@@ -25,6 +26,7 @@
         "id": "a2-vocab-sport-1-03",
         "type": "cloze",
         "prompt": "She ___ yoga in the morning.",
+        "meaning": "Ona rano ćwiczy jogę.",
         "answer": "does",
         "explanation": "Do yoga."
       },
@@ -237,6 +239,7 @@
         "id": "a2-vocab-sport-3-03",
         "type": "cloze",
         "prompt": "He ___ gymnastics when he was a child.",
+        "meaning": "Jako dziecko uprawiał gimnastykę.",
         "answer": "did",
         "explanation": "Do gymnastics → did."
       },

@@ -19,6 +19,7 @@
         "id": "b2-vocab-politics-society-1-02",
         "type": "cloze",
         "prompt": "Who did you vote ___ in the last election?",
+        "meaning": "Na kogo głosowałeś w ostatnich wyborach?",
         "answer": "for",
         "explanation": "Vote for."
       },

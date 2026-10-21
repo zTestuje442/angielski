@@ -7,6 +7,7 @@
         "id": "a2-past-continuous-1-01",
         "type": "cloze",
         "prompt": "At 8 p.m. yesterday I ___ watching TV.",
+        "meaning": "Wczoraj o 20:00 oglądałem telewizję.",
         "answer": "was",
         "explanation": "I + was + -ing."
       },
@@ -14,6 +15,7 @@
         "id": "a2-past-continuous-1-02",
         "type": "cloze",
         "prompt": "They ___ playing football at five o'clock.",
+        "meaning": "O piątej grali w piłkę.",
         "answer": "were",
         "explanation": "They + were + -ing."
       },
@@ -118,6 +120,7 @@
         "id": "a2-past-continuous-2-01",
         "type": "cloze",
         "prompt": "I ___ not sleeping at midnight.",
+        "meaning": "O północy nie spałem.",
         "answer": "was",
         "explanation": "I was not (wasn't) + -ing."
       },
@@ -125,6 +128,7 @@
         "id": "a2-past-continuous-2-02",
         "type": "cloze",
         "prompt": "___ they studying at 10 o'clock?",
+        "meaning": "Czy uczyli się o dziesiątej?",
         "answer": "Were",
         "explanation": "Pytanie: Were + they + -ing."
       },
@@ -132,6 +136,7 @@
         "id": "a2-past-continuous-2-03",
         "type": "cloze",
         "prompt": "Were you driving? — Yes, I ___.",
+        "meaning": "Czy prowadziłeś? — Tak.",
         "answer": "was",
         "explanation": "Krótka odpowiedź: Yes, I was."
       },
@@ -212,6 +217,7 @@
         "id": "a2-past-continuous-3-01",
         "type": "cloze",
         "prompt": "The sun ___ shining and the birds were singing.",
+        "meaning": "Świeciło słońce i śpiewały ptaki.",
         "answer": "was",
         "explanation": "Tło opowieści: was shining."
       },

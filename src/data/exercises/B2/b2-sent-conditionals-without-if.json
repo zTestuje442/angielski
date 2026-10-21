@@ -26,6 +26,7 @@
         "id": "b2-sent-conditionals-without-if-1-03",
         "type": "cloze",
         "prompt": "Take a jacket in ___ it gets cold.",
+        "meaning": "Weź kurtkę na wypadek, gdyby zrobiło się zimno.",
         "answer": "case",
         "explanation": "In case."
       },
@@ -138,6 +139,7 @@
         "id": "b2-sent-conditionals-without-if-2-02",
         "type": "cloze",
         "prompt": "I'll lend you the money provided ___ you pay it back next week.",
+        "meaning": "Pożyczę ci pieniądze pod warunkiem, że oddasz je w przyszłym tygodniu.",
         "answer": "that",
         "explanation": "Provided that."
       },
@@ -145,6 +147,7 @@
         "id": "b2-sent-conditionals-without-if-2-03",
         "type": "cloze",
         "prompt": "I'll take some sandwiches ___ case we get hungry.",
+        "meaning": "Wezmę kanapki na wypadek, gdybyśmy zgłodnieli.",
         "answer": "in",
         "explanation": "In case."
       },
@@ -258,6 +261,7 @@
         "id": "b2-sent-conditionals-without-if-3-02",
         "type": "cloze",
         "prompt": "Suppose you won the lottery – what ___ you do?",
+        "meaning": "Przypuśćmy, że wygrałbyś na loterii – co byś zrobił?",
         "answer": "would",
         "explanation": "Suppose + Past Simple, would."
       },

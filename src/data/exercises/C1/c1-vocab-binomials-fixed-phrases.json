@@ -19,6 +19,7 @@
         "id": "c1-vocab-binomials-fixed-phrases-1-02",
         "type": "cloze",
         "prompt": "Let's weigh up the pros and ___ before we decide.",
+        "meaning": "Rozważmy wszystkie za i przeciw, zanim zdecydujemy.",
         "answer": "cons",
         "explanation": "Pros and cons."
       },
@@ -138,6 +139,7 @@
         "id": "c1-vocab-binomials-fixed-phrases-2-02",
         "type": "cloze",
         "prompt": "I still see him now and ___.",
+        "meaning": "Wciąż widuję go od czasu do czasu.",
         "answer": "then",
         "explanation": "Now and then."
       },
@@ -255,6 +257,7 @@
         "id": "c1-vocab-binomials-fixed-phrases-3-02",
         "type": "cloze",
         "prompt": "The results are by no ___ perfect, but they're encouraging.",
+        "meaning": "Wyniki w żadnym razie nie są idealne, ale są obiecujące.",
         "answer": "means",
         "explanation": "By no means."
       },

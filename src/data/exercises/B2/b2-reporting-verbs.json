@@ -230,6 +230,7 @@
         "id": "b2-reporting-verbs-3-01",
         "type": "cloze",
         "prompt": "They congratulated me ___ passing the exam.",
+        "meaning": "Pogratulowali mi zdania egzaminu.",
         "answer": "on",
         "explanation": "Congratulate somebody on."
       },
@@ -237,6 +238,7 @@
         "id": "b2-reporting-verbs-3-02",
         "type": "cloze",
         "prompt": "She insisted ___ paying the bill.",
+        "meaning": "Uparła się, że zapłaci rachunek.",
         "answer": "on",
         "explanation": "Insist on + -ing."
       },

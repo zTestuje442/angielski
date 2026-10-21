@@ -7,6 +7,7 @@
         "id": "a1-present-continuous-1-01",
         "type": "cloze",
         "prompt": "I ___ reading a book now.",
+        "meaning": "Teraz czytam książkę.",
         "answer": "am",
         "explanation": "I + am + -ing."
       },
@@ -107,6 +108,7 @@
         "id": "a1-present-continuous-2-01",
         "type": "cloze",
         "prompt": "I ___ not working today.",
+        "meaning": "Dziś nie pracuję.",
         "answer": "am",
         "explanation": "I am not + -ing."
       },
@@ -114,6 +116,7 @@
         "id": "a1-present-continuous-2-02",
         "type": "cloze",
         "prompt": "___ you listening to me?",
+        "meaning": "Słuchasz mnie?",
         "answer": "Are",
         "explanation": "Pytanie: Are you + -ing?"
       },
@@ -121,6 +124,7 @@
         "id": "a1-present-continuous-2-03",
         "type": "cloze",
         "prompt": "Is she cooking? — Yes, she ___.",
+        "meaning": "Czy ona gotuje? — Tak, gotuje.",
         "answer": "is",
         "explanation": "Krótka odpowiedź: Yes, she is."
       },
@@ -199,6 +203,7 @@
         "id": "a1-present-continuous-3-01",
         "type": "cloze",
         "prompt": "The baby ___ crying.",
+        "meaning": "Dziecko płacze.",
         "answer": "is",
         "explanation": "The baby = it/he/she, więc is."
       },

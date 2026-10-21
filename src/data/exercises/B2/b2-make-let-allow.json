@@ -43,6 +43,7 @@
         "id": "b2-make-let-allow-1-05",
         "type": "cloze",
         "prompt": "We aren't ___ to use phones at work.",
+        "meaning": "Nie wolno nam używać telefonów w pracy.",
         "answer": "allowed",
         "explanation": "Be allowed to."
       },
@@ -114,6 +115,7 @@
         "id": "b2-make-let-allow-2-01",
         "type": "cloze",
         "prompt": "Sad films always ___ me cry.",
+        "meaning": "Smutne filmy zawsze doprowadzają mnie do płaczu.",
         "answer": "make",
         "explanation": "Make + osoba + czasownik."
       },

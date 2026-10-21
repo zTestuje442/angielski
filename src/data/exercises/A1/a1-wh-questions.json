@@ -40,6 +40,7 @@
         "id": "a1-wh-questions-1-04",
         "type": "cloze",
         "prompt": "___ old are you?",
+        "meaning": "Ile masz lat?",
         "answer": "How",
         "explanation": "Wiek: How old...?"
       },
@@ -47,6 +48,7 @@
         "id": "a1-wh-questions-1-05",
         "type": "cloze",
         "prompt": "___ is your birthday? — In May.",
+        "meaning": "Kiedy masz urodziny? — W maju.",
         "answer": "When",
         "explanation": "Kiedy: when."
       },
@@ -108,6 +110,7 @@
         "id": "a1-wh-questions-2-01",
         "type": "cloze",
         "prompt": "___ much is this T-shirt?",
+        "meaning": "Ile kosztuje ten T-shirt?",
         "answer": "How",
         "explanation": "Ile kosztuje: How much...?"
       },
@@ -115,6 +118,7 @@
         "id": "a1-wh-questions-2-02",
         "type": "cloze",
         "prompt": "___ time is it?",
+        "meaning": "Która jest godzina?",
         "answer": "What",
         "explanation": "Która godzina: What time is it?"
       },
@@ -200,6 +204,7 @@
         "id": "a1-wh-questions-2-10",
         "type": "cloze",
         "prompt": "___ are you late? — Because the bus didn't come.",
+        "meaning": "Dlaczego się spóźniłeś? — Bo autobus nie przyjechał.",
         "answer": "Why",
         "explanation": "Odpowiedź because – pytanie why."
       }
@@ -213,6 +218,7 @@
         "id": "a1-wh-questions-3-01",
         "type": "cloze",
         "prompt": "Where ___ you yesterday?",
+        "meaning": "Gdzie byłeś wczoraj?",
         "answer": "were",
         "explanation": "Przeszłość, to be z you: were."
       },
@@ -220,6 +226,7 @@
         "id": "a1-wh-questions-3-02",
         "type": "cloze",
         "prompt": "What ___ you do last weekend?",
+        "meaning": "Co robiłeś w zeszły weekend?",
         "answer": "did",
         "explanation": "Past Simple: What did you do?"
       },

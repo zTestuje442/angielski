@@ -60,5 +60,6 @@ Plansza: `plansza.html`, zrzuty: `zrzuty/`.
 33. Przy każdym zadaniu ikona z podpisem mówi, co trzeba zrobić: tłumaczenie, pytanie, przeczenie, łączenie zdań, przekształcenie, luka, wybór, prawda czy fałsz, pary, układanie, poprawianie błędu. Rodzaj przekształcenia rozpoznajemy po poleceniu w pierwszej linii (`src/lib/taskKind.ts`).
 34. Rozbudowa treści: +72 tematy (słownictwo 25, zdania 20, czytanie 15 z 45 tekstami, pisanie 12 z zadaniami otwartymi); razem 230 tematów. Tematy na wzór list British Council i zagadnień egzaminów Cambridge; zadania i teksty pisane od zera.
 35. W zadaniu „znajdź błąd” całe poprawione zdanie też jest dobrą odpowiedzią. Enter po sprawdzeniu przechodzi dalej niezależnie od fokusu.
+36. Luka bez wskazówki w nawiasie ma pod zdaniem polskie znaczenie (`meaning`, np. „I ___ like fish.” → „Nie lubię ryb.”), żeby przed odpowiedzią było jasne, czy chodzi o przeczenie, pytanie czy formę twierdzącą. Walidator wymaga go w `exercises/`; w Reading wskazówką jest tekst.
 
 Dodatkowo z weryfikacji: Barlow Condensed i Atkinson Hyperlegible Next mają pełne polskie znaki, ale nie mają glifu ✓, więc znaczniki są ikonami SVG. Fonty w aplikacji zapisane w projekcie (@fontsource).

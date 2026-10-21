@@ -48,6 +48,7 @@
         "id": "b1-sent-work-phrases-1-05",
         "type": "cloze",
         "prompt": "Let's move ___ to the next point.",
+        "meaning": "Przejdźmy do następnego punktu.",
         "answer": "on",
         "explanation": "Move on to."
       },
@@ -136,6 +137,7 @@
         "id": "b1-sent-work-phrases-2-02",
         "type": "cloze",
         "prompt": "I'm writing ___ ask about the project.",
+        "meaning": "Piszę, żeby zapytać o projekt.",
         "answer": "to",
         "explanation": "Cel: I'm writing to..."
       },
@@ -143,6 +145,7 @@
         "id": "b1-sent-work-phrases-2-03",
         "type": "cloze",
         "prompt": "Please let me ___ if you have any questions.",
+        "meaning": "Proszę dać mi znać, jeśli ma pan jakieś pytania.",
         "answer": "know",
         "explanation": "Let me know."
       },
@@ -253,6 +256,7 @@
         "id": "b1-sent-work-phrases-3-02",
         "type": "cloze",
         "prompt": "Could I ___ to Ms Nowak, please?",
+        "meaning": "Czy mogę rozmawiać z panią Nowak?",
         "answer": "speak",
         "explanation": "Could I speak to...?"
       },
@@ -260,6 +264,7 @@
         "id": "b1-sent-work-phrases-3-03",
         "type": "cloze",
         "prompt": "I'm afraid she's not ___ at the moment.",
+        "meaning": "Niestety, w tej chwili jest niedostępna.",
         "answer": "available",
         "accept": [
           "here",

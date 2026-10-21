@@ -31,6 +31,7 @@
         "id": "c1-sent-academic-structures-1-03",
         "type": "cloze",
         "prompt": "___ is growing evidence that diet affects mood.",
+        "meaning": "Przybywa dowodów na to, że dieta wpływa na nastrój.",
         "answer": "There",
         "explanation": "There is growing evidence..."
       },
@@ -139,6 +140,7 @@
         "id": "c1-sent-academic-structures-2-02",
         "type": "cloze",
         "prompt": "Compared ___ urban areas, rural areas have fewer doctors.",
+        "meaning": "W porównaniu z miastami na terenach wiejskich jest mniej lekarzy.",
         "answer": "with",
         "accept": [
           "to"

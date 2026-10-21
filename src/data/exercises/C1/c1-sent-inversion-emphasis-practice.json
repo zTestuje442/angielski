@@ -54,6 +54,7 @@
         "id": "c1-sent-inversion-emphasis-practice-1-06",
         "type": "cloze",
         "prompt": "Under no circumstances ___ staff discuss clients' data in public.",
+        "meaning": "W żadnym wypadku pracownicy nie powinni rozmawiać publicznie o danych klientów.",
         "answer": "should",
         "accept": [
           "must",
@@ -170,6 +171,7 @@
         "id": "c1-sent-inversion-emphasis-practice-2-06",
         "type": "cloze",
         "prompt": "___ you require further information, please contact our office.",
+        "meaning": "Gdyby potrzebowali Państwo dalszych informacji, prosimy o kontakt z naszym biurem.",
         "answer": "Should",
         "explanation": "Should you require..."
       },
@@ -283,6 +285,7 @@
         "id": "c1-sent-inversion-emphasis-practice-3-06",
         "type": "cloze",
         "prompt": "At no ___ did anyone mention the extra costs.",
+        "meaning": "Ani razu nikt nie wspomniał o dodatkowych kosztach.",
         "answer": "time",
         "explanation": "At no time + inwersja."
       },

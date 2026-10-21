@@ -19,6 +19,7 @@
         "id": "b1-vocab-money-banking-1-02",
         "type": "cloze",
         "prompt": "I spend a lot of money ___ clothes.",
+        "meaning": "Wydaję dużo pieniędzy na ubrania.",
         "answer": "on",
         "explanation": "Spend money on."
       },
@@ -26,6 +27,7 @@
         "id": "b1-vocab-money-banking-1-03",
         "type": "cloze",
         "prompt": "I'm saving ___ for a new car.",
+        "meaning": "Odkładam pieniądze na nowy samochód.",
         "answer": "up",
         "explanation": "Save up for."
       },

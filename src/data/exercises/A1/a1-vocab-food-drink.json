@@ -48,6 +48,7 @@
         "id": "a1-vocab-food-drink-1-05",
         "type": "cloze",
         "prompt": "Cows give us ___.",
+        "meaning": "Krowy dają nam mleko.",
         "answer": "milk",
         "explanation": "Krowy dają mleko."
       },
@@ -152,6 +153,7 @@
         "id": "a1-vocab-food-drink-2-04",
         "type": "cloze",
         "prompt": "Can I have the ___, please? I want to pay.",
+        "meaning": "Poproszę rachunek. Chcę zapłacić.",
         "answer": "bill",
         "accept": [
           "check"

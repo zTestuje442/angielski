@@ -7,6 +7,7 @@
         "id": "b1-adjectives-prepositions-1-01",
         "type": "cloze",
         "prompt": "I'm afraid ___ spiders.",
+        "meaning": "Boję się pająków.",
         "answer": "of",
         "explanation": "Afraid of."
       },
@@ -14,6 +15,7 @@
         "id": "b1-adjectives-prepositions-1-02",
         "type": "cloze",
         "prompt": "She's good ___ maths.",
+        "meaning": "Ona jest dobra z matematyki.",
         "answer": "at",
         "explanation": "Good at."
       },
@@ -21,6 +23,7 @@
         "id": "b1-adjectives-prepositions-1-03",
         "type": "cloze",
         "prompt": "He's interested ___ politics.",
+        "meaning": "On interesuje się polityką.",
         "answer": "in",
         "explanation": "Interested in."
       },
@@ -109,6 +112,7 @@
         "id": "b1-adjectives-prepositions-2-01",
         "type": "cloze",
         "prompt": "We're worried ___ the exam.",
+        "meaning": "Martwimy się o egzamin.",
         "answer": "about",
         "explanation": "Worried about."
       },
@@ -116,6 +120,7 @@
         "id": "b1-adjectives-prepositions-2-02",
         "type": "cloze",
         "prompt": "This book is full ___ mistakes.",
+        "meaning": "Ta książka jest pełna błędów.",
         "answer": "of",
         "explanation": "Full of."
       },
@@ -218,6 +223,7 @@
         "id": "b1-adjectives-prepositions-3-01",
         "type": "cloze",
         "prompt": "I'm not used ___ getting up early.",
+        "meaning": "Nie jestem przyzwyczajony do wczesnego wstawania.",
         "answer": "to",
         "explanation": "Used to + -ing."
       },
@@ -225,6 +231,7 @@
         "id": "b1-adjectives-prepositions-3-02",
         "type": "cloze",
         "prompt": "He's very kind ___ animals.",
+        "meaning": "On jest bardzo dobry dla zwierząt.",
         "answer": "to",
         "explanation": "Kind to."
       },

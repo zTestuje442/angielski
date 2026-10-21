@@ -7,6 +7,7 @@
         "id": "a1-have-got-1-01",
         "type": "cloze",
         "prompt": "I ___ got a sister.",
+        "meaning": "Mam siostrę.",
         "answer": "have",
         "explanation": "I + have got."
       },
@@ -14,6 +15,7 @@
         "id": "a1-have-got-1-02",
         "type": "cloze",
         "prompt": "She ___ got blue eyes.",
+        "meaning": "Ona ma niebieskie oczy.",
         "answer": "has",
         "explanation": "She + has got."
       },
@@ -95,6 +97,7 @@
         "id": "a1-have-got-1-10",
         "type": "cloze",
         "prompt": "We ___ got a test today.",
+        "meaning": "Mamy dziś test.",
         "answer": "have",
         "explanation": "We + have got."
       }
@@ -108,6 +111,7 @@
         "id": "a1-have-got-2-01",
         "type": "cloze",
         "prompt": "I ___ got a car.",
+        "meaning": "Nie mam samochodu.",
         "answer": "haven't",
         "explanation": "Przeczenie z I: haven't got."
       },
@@ -115,6 +119,7 @@
         "id": "a1-have-got-2-02",
         "type": "cloze",
         "prompt": "She ___ got any brothers.",
+        "meaning": "Ona nie ma żadnych braci.",
         "answer": "hasn't",
         "explanation": "Przeczenie z she: hasn't got."
       },
@@ -144,6 +149,7 @@
         "id": "a1-have-got-2-05",
         "type": "cloze",
         "prompt": "Have you got a phone? — Yes, I ___.",
+        "meaning": "Masz telefon? — Tak, mam.",
         "answer": "have",
         "explanation": "Krótka odpowiedź bez got: Yes, I have."
       },
@@ -151,6 +157,7 @@
         "id": "a1-have-got-2-06",
         "type": "cloze",
         "prompt": "Has he got a job? — No, he ___.",
+        "meaning": "Czy on ma pracę? — Nie, nie ma.",
         "answer": "hasn't",
         "explanation": "Krótka odpowiedź: No, he hasn't."
       },
@@ -203,6 +210,7 @@
         "id": "a1-have-got-3-01",
         "type": "cloze",
         "prompt": "My parents ___ got a small flat.",
+        "meaning": "Moi rodzice mają małe mieszkanie.",
         "answer": "have",
         "explanation": "My parents = they, więc have got."
       },

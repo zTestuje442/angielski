@@ -150,6 +150,7 @@
         "id": "b2-vocab-business-finance-2-03",
         "type": "cloze",
         "prompt": "It took us 20 years to pay ___ our mortgage.",
+        "meaning": "Spłacenie kredytu hipotecznego zajęło nam 20 lat.",
         "answer": "off",
         "explanation": "Spłacić: pay off."
       },

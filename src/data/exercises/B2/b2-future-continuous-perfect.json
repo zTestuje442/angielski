@@ -7,6 +7,7 @@
         "id": "b2-future-continuous-perfect-1-01",
         "type": "cloze",
         "prompt": "This time tomorrow I'll ___ lying on the beach.",
+        "meaning": "Jutro o tej porze będę leżał na plaży.",
         "answer": "be",
         "explanation": "Will be + -ing."
       },
@@ -123,6 +124,7 @@
         "id": "b2-future-continuous-perfect-2-01",
         "type": "cloze",
         "prompt": "Will you ___ using the car tonight? I'd like to borrow it.",
+        "meaning": "Będziesz dziś wieczorem korzystać z samochodu? Chciałbym go pożyczyć.",
         "answer": "be",
         "explanation": "Grzeczne pytanie: Will you be using...?"
       },
@@ -130,6 +132,7 @@
         "id": "b2-future-continuous-perfect-2-02",
         "type": "cloze",
         "prompt": "By the time she's 30, she'll ___ visited 50 countries.",
+        "meaning": "Zanim skończy 30 lat, będzie już mieć za sobą 50 krajów.",
         "answer": "have",
         "explanation": "Will have + III forma."
       },

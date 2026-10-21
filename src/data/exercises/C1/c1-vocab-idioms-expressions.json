@@ -41,6 +41,7 @@
         "id": "c1-vocab-idioms-expressions-1-04",
         "type": "cloze",
         "prompt": "Stop beating around the ___ and tell me what happened.",
+        "meaning": "Przestań owijać w bawełnę i powiedz, co się stało.",
         "answer": "bush",
         "explanation": "Beat around the bush."
       },
@@ -48,6 +49,7 @@
         "id": "c1-vocab-idioms-expressions-1-05",
         "type": "cloze",
         "prompt": "I'm still on the ___ about whether to accept the job.",
+        "meaning": "Wciąż się waham, czy przyjąć tę pracę.",
         "answer": "fence",
         "explanation": "Be on the fence."
       },
@@ -157,6 +159,7 @@
         "id": "c1-vocab-idioms-expressions-2-04",
         "type": "cloze",
         "prompt": "We need to get to the ___ of this problem.",
+        "meaning": "Musimy dotrzeć do sedna tego problemu.",
         "answer": "bottom",
         "explanation": "Get to the bottom of."
       },
@@ -164,6 +167,7 @@
         "id": "c1-vocab-idioms-expressions-2-05",
         "type": "cloze",
         "prompt": "Don't put all your eggs in one ___.",
+        "meaning": "Nie stawiaj wszystkiego na jedną kartę.",
         "answer": "basket",
         "explanation": "Don't put all your eggs in one basket."
       },
@@ -276,6 +280,7 @@
         "id": "c1-vocab-idioms-expressions-3-04",
         "type": "cloze",
         "prompt": "He took on three projects at once – he bit off more than he could ___.",
+        "meaning": "Wziął trzy projekty naraz – porwał się z motyką na słońce.",
         "answer": "chew",
         "explanation": "Bite off more than you can chew."
       },
@@ -283,6 +288,7 @@
         "id": "c1-vocab-idioms-expressions-3-05",
         "type": "cloze",
         "prompt": "Remote work is a blessing and a ___.",
+        "meaning": "Praca zdalna to zarówno błogosławieństwo, jak i przekleństwo.",
         "answer": "curse",
         "explanation": "A blessing and a curse."
       },

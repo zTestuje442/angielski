@@ -231,6 +231,7 @@
         "id": "b2-wish-if-only-3-01",
         "type": "cloze",
         "prompt": "I wish you ___ stop interrupting me!",
+        "meaning": "Chciałbym, żebyś przestał mi przerywać!",
         "answer": "would",
         "explanation": "Irytujące zachowanie: wish + would."
       },
@@ -238,6 +239,7 @@
         "id": "b2-wish-if-only-3-02",
         "type": "cloze",
         "prompt": "I wish it ___ stop raining.",
+        "meaning": "Chciałbym, żeby przestało padać.",
         "answer": "would",
         "explanation": "Wish + would stop."
       },

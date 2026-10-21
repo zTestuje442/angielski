@@ -216,6 +216,7 @@
         "id": "a1-sent-word-order-2-10",
         "type": "cloze",
         "prompt": "Do you like coffee? — Yes, I like ___.",
+        "meaning": "Lubisz kawę? — Tak, lubię ją.",
         "answer": "it",
         "explanation": "Po like potrzebne dopełnienie: it."
       }
@@ -326,6 +327,7 @@
         "id": "a1-sent-word-order-3-09",
         "type": "cloze",
         "prompt": "She speaks English ___ well.",
+        "meaning": "Ona mówi po angielsku bardzo dobrze.",
         "answer": "very",
         "explanation": "Bardzo dobrze: very well."
       },

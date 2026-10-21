@@ -256,6 +256,7 @@
         "id": "b1-so-such-too-enough-3-04",
         "type": "cloze",
         "prompt": "It was ___ an easy test that everybody passed.",
+        "meaning": "To był tak łatwy test, że wszyscy zdali.",
         "answer": "such",
         "explanation": "Such an + przymiotnik + rzeczownik."
       },
@@ -263,6 +264,7 @@
         "id": "b1-so-such-too-enough-3-05",
         "type": "cloze",
         "prompt": "Are you old ___ to watch this film?",
+        "meaning": "Czy jesteś wystarczająco dorosły, żeby oglądać ten film?",
         "answer": "enough",
         "explanation": "Przymiotnik + enough."
       },

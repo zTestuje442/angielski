@@ -7,6 +7,7 @@
         "id": "c1-inverted-conditionals-1-01",
         "type": "cloze",
         "prompt": "___ I known, I would have come earlier.",
+        "meaning": "Gdybym wiedział, przyszedłbym wcześniej.",
         "answer": "Had",
         "explanation": "3. tryb: Had + podmiot + III forma."
       },
@@ -14,6 +15,7 @@
         "id": "c1-inverted-conditionals-1-02",
         "type": "cloze",
         "prompt": "___ you need any help, please contact us.",
+        "meaning": "Gdyby potrzebowali Państwo pomocy, prosimy o kontakt.",
         "answer": "Should",
         "explanation": "1. tryb formalnie: Should you..."
       },
@@ -130,6 +132,7 @@
         "id": "c1-inverted-conditionals-2-02",
         "type": "cloze",
         "prompt": "Were we ___ lose this match, we would be eliminated.",
+        "meaning": "Gdybyśmy przegrali ten mecz, odpadlibyśmy.",
         "answer": "to",
         "explanation": "Were + podmiot + to + czasownik."
       },
@@ -266,6 +269,7 @@
         "id": "c1-inverted-conditionals-3-04",
         "type": "cloze",
         "prompt": "Were it ___ for her, the company would have closed years ago.",
+        "meaning": "Gdyby nie ona, firma upadłaby wiele lat temu.",
         "answer": "not",
         "explanation": "Were it not for... (stan obecny skutków)."
       },

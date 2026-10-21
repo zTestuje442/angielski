@@ -41,6 +41,7 @@
         "id": "b2-writing-opinion-essay-1-04",
         "type": "cloze",
         "prompt": "___ conclusion, I believe that the advantages outweigh the disadvantages.",
+        "meaning": "Podsumowując, uważam, że zalety przeważają nad wadami.",
         "answer": "In",
         "explanation": "In conclusion."
       },
@@ -48,6 +49,7 @@
         "id": "b2-writing-opinion-essay-1-05",
         "type": "cloze",
         "prompt": "___ the other hand, some people argue that it is too expensive.",
+        "meaning": "Z drugiej strony niektórzy twierdzą, że to zbyt drogie.",
         "answer": "On",
         "explanation": "On the other hand."
       },
@@ -162,6 +164,7 @@
         "id": "b2-writing-opinion-essay-2-05",
         "type": "cloze",
         "prompt": "Some people argue ___ cars should be banned from city centres.",
+        "meaning": "Niektórzy twierdzą, że samochody powinny zostać zakazane w centrach miast.",
         "answer": "that",
         "explanation": "Argue that..."
       },
@@ -269,6 +272,7 @@
         "id": "b2-writing-opinion-essay-3-04",
         "type": "cloze",
         "prompt": "Many countries, ___ as Norway and Sweden, have high taxes.",
+        "meaning": "Wiele krajów, takich jak Norwegia i Szwecja, ma wysokie podatki.",
         "answer": "such",
         "explanation": "Such as."
       },

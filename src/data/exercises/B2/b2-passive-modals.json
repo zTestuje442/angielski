@@ -7,6 +7,7 @@
         "id": "b2-passive-modals-1-01",
         "type": "cloze",
         "prompt": "The work must ___ finished by Friday.",
+        "meaning": "Praca musi zostać skończona do piątku.",
         "answer": "be",
         "explanation": "Modal + be + III forma."
       },
@@ -43,6 +44,7 @@
         "id": "b2-passive-modals-1-05",
         "type": "cloze",
         "prompt": "The tickets can ___ bought online.",
+        "meaning": "Bilety można kupić przez internet.",
         "answer": "be",
         "explanation": "Can be bought."
       },
@@ -114,6 +116,7 @@
         "id": "b2-passive-modals-2-01",
         "type": "cloze",
         "prompt": "The letter might have ___ lost in the post.",
+        "meaning": "List mógł zaginąć na poczcie.",
         "answer": "been",
         "explanation": "Przeszłość: might have been."
       },
@@ -121,6 +124,7 @@
         "id": "b2-passive-modals-2-02",
         "type": "cloze",
         "prompt": "Children under 12 must ___ accompanied by an adult.",
+        "meaning": "Dzieci poniżej 12 lat muszą być pod opieką dorosłego.",
         "answer": "be",
         "explanation": "Must be + III forma."
       },
@@ -265,6 +269,7 @@
         "id": "b2-passive-modals-3-05",
         "type": "cloze",
         "prompt": "The bridge may ___ closed next week.",
+        "meaning": "Most może zostać zamknięty w przyszłym tygodniu.",
         "answer": "be",
         "explanation": "May be closed."
       },

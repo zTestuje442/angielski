@@ -43,6 +43,7 @@
         "id": "a2-have-to-must-1-05",
         "type": "cloze",
         "prompt": "You ___ stop at a red light.",
+        "meaning": "Na czerwonym świetle musisz się zatrzymać.",
         "answer": "must",
         "explanation": "Obowiązek: must (albo have to)."
       },
@@ -112,6 +113,7 @@
         "id": "a2-have-to-must-2-01",
         "type": "cloze",
         "prompt": "___ you have to work on Saturdays?",
+        "meaning": "Czy musisz pracować w soboty?",
         "answer": "Do",
         "explanation": "Pytanie: Do + you + have to."
       },
@@ -119,6 +121,7 @@
         "id": "a2-have-to-must-2-02",
         "type": "cloze",
         "prompt": "Does he have to wear a tie? — No, he ___.",
+        "meaning": "Czy on musi nosić krawat? — Nie, nie musi.",
         "answer": "doesn't",
         "explanation": "Krótka odpowiedź: No, he doesn't."
       },
@@ -126,6 +129,7 @@
         "id": "a2-have-to-must-2-03",
         "type": "cloze",
         "prompt": "Yesterday I ___ to stay late at work.",
+        "meaning": "Wczoraj musiałem zostać dłużej w pracy.",
         "answer": "had",
         "explanation": "Czas przeszły: had to."
       },
@@ -243,6 +247,7 @@
         "id": "a2-have-to-must-3-04",
         "type": "cloze",
         "prompt": "I ___ remember to call Mum. It's her birthday.",
+        "meaning": "Muszę pamiętać, żeby zadzwonić do mamy. Ma urodziny.",
         "answer": "must",
         "explanation": "Sam uważam, że to ważne: must."
       },
@@ -250,6 +255,7 @@
         "id": "a2-have-to-must-3-05",
         "type": "cloze",
         "prompt": "My brother doesn't ___ to work this week. He's on holiday.",
+        "meaning": "Mój brat nie musi w tym tygodniu pracować. Jest na urlopie.",
         "answer": "have",
         "explanation": "Doesn't have to."
       },

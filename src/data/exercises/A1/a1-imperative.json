@@ -14,6 +14,7 @@
         "id": "a1-imperative-1-02",
         "type": "cloze",
         "prompt": "___ touch that! It's hot.",
+        "meaning": "Nie dotykaj tego! Jest gorące.",
         "answer": "Don't",
         "explanation": "Zakaz: Don't + czasownik."
       },
@@ -214,6 +215,7 @@
         "id": "a1-imperative-3-01",
         "type": "cloze",
         "prompt": "___ go to the cinema tonight!",
+        "meaning": "Chodźmy dziś wieczorem do kina!",
         "answer": "Let's",
         "explanation": "Propozycja: Let's + czasownik."
       },
@@ -304,6 +306,7 @@
         "id": "a1-imperative-3-10",
         "type": "cloze",
         "prompt": "___ careful! The floor is wet.",
+        "meaning": "Uważaj! Podłoga jest mokra.",
         "answer": "Be",
         "explanation": "Polecenie z to be: Be careful."
       }

@@ -263,6 +263,7 @@
         "id": "c1-advanced-determiners-3-04",
         "type": "cloze",
         "prompt": "We have two cars. One is red and the ___ is black.",
+        "meaning": "Mamy dwa samochody. Jeden jest czerwony, a drugi czarny.",
         "answer": "other",
         "explanation": "The other – ten drugi."
       },

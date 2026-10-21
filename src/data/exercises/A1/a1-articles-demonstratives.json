@@ -7,6 +7,7 @@
         "id": "a1-articles-demonstratives-1-01",
         "type": "cloze",
         "prompt": "She is ___ teacher.",
+        "meaning": "Ona jest nauczycielką.",
         "answer": "a",
         "explanation": "Zawód z a; teacher zaczyna się od spółgłoski."
       },
@@ -14,6 +15,7 @@
         "id": "a1-articles-demonstratives-1-02",
         "type": "cloze",
         "prompt": "It is ___ apple.",
+        "meaning": "To jest jabłko.",
         "answer": "an",
         "explanation": "Apple zaczyna się od samogłoski, więc an."
       },
@@ -21,6 +23,7 @@
         "id": "a1-articles-demonstratives-1-03",
         "type": "cloze",
         "prompt": "He has ___ umbrella.",
+        "meaning": "On ma parasol.",
         "answer": "an",
         "explanation": "Umbrella zaczyna się od samogłoski, więc an."
       },
@@ -106,6 +109,7 @@
         "id": "a1-articles-demonstratives-2-01",
         "type": "cloze",
         "prompt": "Look at ___ birds over there!",
+        "meaning": "Popatrz na tamte ptaki!",
         "answer": "those",
         "explanation": "Daleko (over there) i liczba mnoga: those."
       },
@@ -113,6 +117,7 @@
         "id": "a1-articles-demonstratives-2-02",
         "type": "cloze",
         "prompt": "___ shoes here are new.",
+        "meaning": "Te buty (tutaj) są nowe.",
         "answer": "These",
         "explanation": "Blisko (here) i liczba mnoga: these."
       },
@@ -206,6 +211,7 @@
         "id": "a1-articles-demonstratives-3-01",
         "type": "cloze",
         "prompt": "Is ___ your car over there?",
+        "meaning": "Czy tamto to twój samochód?",
         "answer": "that",
         "explanation": "Daleko i jedna rzecz: that."
       },
@@ -213,6 +219,7 @@
         "id": "a1-articles-demonstratives-3-02",
         "type": "cloze",
         "prompt": "I would like ___ apple, please.",
+        "meaning": "Poproszę jabłko.",
         "answer": "an",
         "explanation": "Apple zaczyna się od samogłoski."
       },
@@ -231,6 +238,7 @@
         "id": "a1-articles-demonstratives-3-04",
         "type": "cloze",
         "prompt": "She is ___ honest person.",
+        "meaning": "Ona jest uczciwą osobą.",
         "answer": "an",
         "explanation": "W honest h jest nieme, więc an."
       },

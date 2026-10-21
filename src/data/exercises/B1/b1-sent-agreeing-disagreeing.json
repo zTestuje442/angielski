@@ -248,6 +248,7 @@
         "id": "b1-sent-agreeing-disagreeing-3-02",
         "type": "cloze",
         "prompt": "\"I've never been to Spain.\" – \"Neither ___ I.\"",
+        "meaning": "„Nigdy nie byłem w Hiszpanii.” – „Ja też nie.”",
         "answer": "have",
         "explanation": "Neither have I."
       },

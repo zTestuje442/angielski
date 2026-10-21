@@ -17,6 +17,7 @@
         "id": "c1-cleft-sentences-1-02",
         "type": "cloze",
         "prompt": "___ I need is a long holiday.",
+        "meaning": "To, czego potrzebuję, to długi urlop.",
         "answer": "What",
         "explanation": "What + zdanie + is."
       },
@@ -118,6 +119,7 @@
         "id": "c1-cleft-sentences-2-01",
         "type": "cloze",
         "prompt": "It ___ my mother who taught me to cook.",
+        "meaning": "To moja mama nauczyła mnie gotować.",
         "answer": "was",
         "explanation": "It was ... who."
       },
@@ -125,6 +127,7 @@
         "id": "c1-cleft-sentences-2-02",
         "type": "cloze",
         "prompt": "What happened ___ that the car broke down.",
+        "meaning": "Stało się to, że samochód się zepsuł.",
         "answer": "was",
         "explanation": "What happened was that..."
       },
@@ -251,6 +254,7 @@
         "id": "c1-cleft-sentences-3-03",
         "type": "cloze",
         "prompt": "The thing ___ worries me is the cost.",
+        "meaning": "To, co mnie martwi, to koszt.",
         "answer": "that",
         "accept": [
           "which"

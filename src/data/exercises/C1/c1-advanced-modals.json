@@ -7,6 +7,7 @@
         "id": "c1-advanced-modals-1-01",
         "type": "cloze",
         "prompt": "You needn't ___ brought food – we had plenty.",
+        "meaning": "Niepotrzebnie przynieśliście jedzenie – mieliśmy go mnóstwo.",
         "answer": "have",
         "explanation": "Needn't have + III forma."
       },
@@ -14,6 +15,7 @@
         "id": "c1-advanced-modals-1-02",
         "type": "cloze",
         "prompt": "He's bound ___ forget. He always does.",
+        "meaning": "On na pewno zapomni. Zawsze zapomina.",
         "answer": "to",
         "explanation": "Be bound to."
       },

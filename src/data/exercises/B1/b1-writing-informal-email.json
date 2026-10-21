@@ -135,6 +135,7 @@
         "id": "b1-writing-informal-email-2-02",
         "type": "cloze",
         "prompt": "I'm so sorry to ___ about your grandma.",
+        "meaning": "Bardzo mi przykro z powodu twojej babci.",
         "answer": "hear",
         "explanation": "Sorry to hear about..."
       },

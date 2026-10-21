@@ -7,6 +7,7 @@
         "id": "b2-used-to-be-get-used-to-1-01",
         "type": "cloze",
         "prompt": "I ___ to live in London, but now I live in Leeds.",
+        "meaning": "Kiedyś mieszkałem w Londynie, ale teraz mieszkam w Leeds.",
         "answer": "used",
         "explanation": "Kiedyś: used to."
       },
@@ -43,6 +44,7 @@
         "id": "b2-used-to-be-get-used-to-1-05",
         "type": "cloze",
         "prompt": "Did you ___ to play the piano as a child?",
+        "meaning": "Grałeś kiedyś na pianinie jako dziecko?",
         "answer": "use",
         "explanation": "Pytanie: Did you use to...?"
       },
@@ -110,6 +112,7 @@
         "id": "b2-used-to-be-get-used-to-2-01",
         "type": "cloze",
         "prompt": "Are you used ___ the noise yet?",
+        "meaning": "Przyzwyczaiłeś się już do hałasu?",
         "answer": "to",
         "explanation": "Be used to + rzeczownik."
       },
@@ -240,6 +243,7 @@
         "id": "b2-used-to-be-get-used-to-3-03",
         "type": "cloze",
         "prompt": "My grandparents never got used ___ using smartphones.",
+        "meaning": "Moi dziadkowie nigdy nie przyzwyczaili się do korzystania ze smartfonów.",
         "answer": "to",
         "explanation": "Get used to + -ing."
       },
@@ -247,6 +251,7 @@
         "id": "b2-used-to-be-get-used-to-3-04",
         "type": "cloze",
         "prompt": "We ___ used to the heat by the end of the holiday.",
+        "meaning": "Pod koniec wakacji przyzwyczailiśmy się do upału.",
         "answer": "got",
         "explanation": "Przyzwyczailiśmy się: got used to."
       },
@@ -254,6 +259,7 @@
         "id": "b2-used-to-be-get-used-to-3-05",
         "type": "cloze",
         "prompt": "I didn't ___ to like spicy food.",
+        "meaning": "Kiedyś nie lubiłem ostrego jedzenia.",
         "answer": "use",
         "explanation": "Przeczenie: didn't use to."
       },

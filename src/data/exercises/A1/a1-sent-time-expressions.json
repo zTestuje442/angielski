@@ -19,6 +19,7 @@
         "id": "a1-sent-time-expressions-1-02",
         "type": "cloze",
         "prompt": "I get up ___ 6 o'clock.",
+        "meaning": "Wstaję o szóstej.",
         "answer": "at",
         "explanation": "Godzina: at."
       },
@@ -26,6 +27,7 @@
         "id": "a1-sent-time-expressions-1-03",
         "type": "cloze",
         "prompt": "We have English ___ Tuesdays.",
+        "meaning": "Angielski mamy we wtorki.",
         "answer": "on",
         "explanation": "Dzień: on."
       },
@@ -132,6 +134,7 @@
         "id": "a1-sent-time-expressions-2-02",
         "type": "cloze",
         "prompt": "I read ___ the evening.",
+        "meaning": "Czytam wieczorem.",
         "answer": "in",
         "explanation": "In the evening."
       },
@@ -139,6 +142,7 @@
         "id": "a1-sent-time-expressions-2-03",
         "type": "cloze",
         "prompt": "I sleep ___ night.",
+        "meaning": "Śpię w nocy.",
         "answer": "at",
         "explanation": "At night."
       },
@@ -236,6 +240,7 @@
         "id": "a1-sent-time-expressions-3-02",
         "type": "cloze",
         "prompt": "The party is ___ Saturday evening.",
+        "meaning": "Impreza jest w sobotę wieczorem.",
         "answer": "on",
         "explanation": "On + dzień (także z porą dnia)."
       },

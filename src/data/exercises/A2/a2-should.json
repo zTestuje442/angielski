@@ -7,6 +7,7 @@
         "id": "a2-should-1-01",
         "type": "cloze",
         "prompt": "You look tired. You ___ go to bed.",
+        "meaning": "Wyglądasz na zmęczonego. Powinieneś iść spać.",
         "answer": "should",
         "explanation": "Rada: should."
       },
@@ -14,6 +15,7 @@
         "id": "a2-should-1-02",
         "type": "cloze",
         "prompt": "You ___ eat so much sugar. It's bad for you.",
+        "meaning": "Nie powinieneś jeść tyle cukru. To ci szkodzi.",
         "answer": "shouldn't",
         "explanation": "Rada przecząca: shouldn't."
       },
@@ -43,6 +45,7 @@
         "id": "a2-should-1-05",
         "type": "cloze",
         "prompt": "What ___ I do? — You should see a doctor.",
+        "meaning": "Co powinienem zrobić? — Powinieneś iść do lekarza.",
         "answer": "should",
         "explanation": "Pytanie o radę: What should I do?"
       },
@@ -105,6 +108,7 @@
         "id": "a2-should-2-01",
         "type": "cloze",
         "prompt": "___ I call her now or later?",
+        "meaning": "Czy powinienem zadzwonić do niej teraz czy później?",
         "answer": "Should",
         "explanation": "Pytanie o radę: Should I...?"
       },
@@ -112,6 +116,7 @@
         "id": "a2-should-2-02",
         "type": "cloze",
         "prompt": "Should we take a taxi? — Yes, we ___.",
+        "meaning": "Czy powinniśmy wziąć taksówkę? — Tak, powinniśmy.",
         "answer": "should",
         "explanation": "Krótka odpowiedź: Yes, we should."
       },

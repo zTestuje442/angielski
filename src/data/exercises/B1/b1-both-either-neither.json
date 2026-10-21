@@ -126,6 +126,7 @@
         "id": "b1-both-either-neither-2-03",
         "type": "cloze",
         "prompt": "___ Tom and Jerry are cartoon characters.",
+        "meaning": "I Tom, i Jerry to postacie z kreskówek.",
         "answer": "Both",
         "explanation": "Both ... and."
       },

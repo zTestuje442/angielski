@@ -131,6 +131,7 @@
         "id": "b1-vocab-crime-law-2-02",
         "type": "cloze",
         "prompt": "He was sentenced ___ five years in prison.",
+        "meaning": "Skazano go na pięć lat więzienia.",
         "answer": "to",
         "explanation": "Sentence somebody to."
       },
